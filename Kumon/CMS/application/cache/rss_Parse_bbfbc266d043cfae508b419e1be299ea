@@ -1,0 +1,935 @@
+<!doctype html>
+<html lang="en-US" prefix="og: http://ogp.me/ns#" ng-app="tracker.app">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+    <meta property="fb:admins" content="100005618258611" />
+
+    <title>MRO Magazine - Reaching machinery &amp; equipment maintenance professionals across Canada - MRO Magazine</title>
+                <link rel="icon" type="image/png" href="http://www.mromagazine.com/wp-content/uploads/sites/16/2014/10/favicon.png" />
+        
+    <link rel="profile" href="http://gmpg.org/xfn/11" />
+    <link rel="pingback" href="http://www.mromagazine.com/xmlrpc.php" />
+
+    <!--[if IE 7]>
+      <link rel="stylesheet" href="/wp-content/themes/strappress/css/font-awesome-ie7.min.css">
+    <![endif]-->
+
+    
+<!-- This site is optimized with the Yoast SEO plugin v4.0.2 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta name="description" content="Reaching machinery &amp; equipment maintenance professionals across Canada - MRO Magazine"/>
+<meta name="robots" content="noodp"/>
+<link rel="canonical" href="http://www.mromagazine.com/" />
+<link rel="next" href="http://www.mromagazine.com/page/2/" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="MRO Magazine - Reaching machinery &amp; equipment maintenance professionals across Canada - MRO Magazine" />
+<meta property="og:description" content="Reaching machinery &amp; equipment maintenance professionals across Canada - MRO Magazine" />
+<meta property="og:url" content="http://www.mromagazine.com/" />
+<meta property="og:site_name" content="MRO Magazine" />
+<script type='application/ld+json'>{"@context":"http:\/\/schema.org","@type":"WebSite","@id":"#website","url":"http:\/\/www.mromagazine.com\/","name":"MRO Magazine","potentialAction":{"@type":"SearchAction","target":"http:\/\/www.mromagazine.com\/?s={search_term_string}","query-input":"required name=search_term_string"}}</script>
+<script type='application/ld+json'>{"@context":"http:\/\/schema.org","@type":"Organization","url":"http:\/\/www.mromagazine.com\/","sameAs":[],"@id":"#organization","name":"MRO Magazine","logo":""}</script>
+<!-- / Yoast SEO plugin. -->
+
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="MRO Magazine &raquo; Feed" href="http://www.mromagazine.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="MRO Magazine &raquo; Comments Feed" href="http://www.mromagazine.com/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/www.mromagazine.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=a9c9277cada82868b8717f959179bd43"}};
+			!function(a,b,c){function d(a){var b,c,d,e,f=String.fromCharCode;if(!k||!k.fillText)return!1;switch(k.clearRect(0,0,j.width,j.height),k.textBaseline="top",k.font="600 32px Arial",a){case"flag":return k.fillText(f(55356,56826,55356,56819),0,0),!(j.toDataURL().length<3e3)&&(k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,65039,8205,55356,57096),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,55356,57096),0,0),c=j.toDataURL(),b!==c);case"emoji4":return k.fillText(f(55357,56425,55356,57341,8205,55357,56507),0,0),d=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55357,56425,55356,57341,55357,56507),0,0),e=j.toDataURL(),d!==e}return!1}function e(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i,j=b.createElement("canvas"),k=j.getContext&&j.getContext("2d");for(i=Array("flag","emoji4"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='yarppWidgetCss-css'  href='http://www.mromagazine.com/wp-content/plugins/yet-another-related-posts-plugin/style/widget.css?ver=a9c9277cada82868b8717f959179bd43' type='text/css' media='all' />
+<link rel='stylesheet' id='iwmp-styles-css'  href='http://www.mromagazine.com/wp-content/plugins/iw-magnific-popup/includes/assets/magnific-popup.css?ver=a9c9277cada82868b8717f959179bd43' type='text/css' media='all' />
+<link rel='stylesheet' id='SearchAutocomplete-theme-css'  href='http://www.mromagazine.com/wp-content/plugins/search-autocomplete/css/aristo/jquery-ui-aristo.min.css?ver=1.9.2' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-pagenavi-css'  href='http://www.mromagazine.com/wp-content/plugins/wp-pagenavi/pagenavi-css.css?ver=2.70' type='text/css' media='all' />
+<link rel='stylesheet' id='pubx-styles-css'  href='http://www.mromagazine.com/wp-content/themes/pubx-mro/css/pubx.min.css?ver=a9c9277cada82868b8717f959179bd43' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-css'  href='http://www.mromagazine.com/wp-content/plugins/types/library/toolset/toolset-common/res/lib/font-awesome/css/font-awesome.min.css?ver=4.4.0' type='text/css' media='all' />
+<link rel='stylesheet' id='magnific-css'  href='http://www.mromagazine.com/wp-content/themes/strappress/css/magnific.css?ver=0.9.4' type='text/css' media='all' />
+<link rel='stylesheet' id='responsive-style-css'  href='http://www.mromagazine.com/wp-content/themes/pubx-mro/style.css?ver=3.0.0' type='text/css' media='all' />
+<link rel='stylesheet' id='wordpress-popular-posts-css'  href='http://www.mromagazine.com/wp-content/plugins/wordpress-popular-posts/style/wpp.css?ver=3.3.4' type='text/css' media='all' />
+<script type='text/javascript' src='http://www.mromagazine.com/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='http://www.mromagazine.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='http://www.mromagazine.com/wp-includes/js/swfobject.js?ver=2.2-20120417'></script>
+<script type='text/javascript' src='http://www.mromagazine.com/wp-content/plugins/s3-video/js/jwplayer.js?ver=1.0'></script>
+<script type='text/javascript' src='http://www.mromagazine.com/wp-content/themes/strappress/js/responsive-modernizr.js?ver=2.5.3'></script>
+<script type='text/javascript' src='http://www.mromagazine.com/wp-content/themes/strappress/js/magnific.min.js?ver=0.9.4'></script>
+<script type='text/javascript' src='http://www.mromagazine.com/wp-content/themes/strappress/js/jquery.isotope.min.js?ver=a9c9277cada82868b8717f959179bd43'></script>
+<script type='text/javascript' src='http://www.mromagazine.com/wp-content/themes/strappress/js/bootstrap.js?ver=a9c9277cada82868b8717f959179bd43'></script>
+<script type='text/javascript' src='http://www.mromagazine.com/wp-content/themes/strappress/js/strap-extras.js?ver=a9c9277cada82868b8717f959179bd43'></script>
+<link rel='https://api.w.org/' href='http://www.mromagazine.com/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.mromagazine.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.mromagazine.com/wp-includes/wlwmanifest.xml" /> 
+
+<link rel="stylesheet" href="http://www.mromagazine.com/wp-content/plugins/multi-column-taxonomy-list/css/multi-column-taxonomy-link.css" type="text/css" /><script type="text/javascript">
+(function(url){
+	if(/(?:Chrome\/26\.0\.1410\.63 Safari\/537\.31|WordfenceTestMonBot)/.test(navigator.userAgent)){ return; }
+	var addEvent = function(evt, handler) {
+		if (window.addEventListener) {
+			document.addEventListener(evt, handler, false);
+		} else if (window.attachEvent) {
+			document.attachEvent('on' + evt, handler);
+		}
+	};
+	var removeEvent = function(evt, handler) {
+		if (window.removeEventListener) {
+			document.removeEventListener(evt, handler, false);
+		} else if (window.detachEvent) {
+			document.detachEvent('on' + evt, handler);
+		}
+	};
+	var evts = 'contextmenu dblclick drag dragend dragenter dragleave dragover dragstart drop keydown keypress keyup mousedown mousemove mouseout mouseover mouseup mousewheel scroll'.split(' ');
+	var logHuman = function() {
+		var wfscr = document.createElement('script');
+		wfscr.type = 'text/javascript';
+		wfscr.async = true;
+		wfscr.src = url + '&r=' + Math.random();
+		(document.getElementsByTagName('head')[0]||document.getElementsByTagName('body')[0]).appendChild(wfscr);
+		for (var i = 0; i < evts.length; i++) {
+			removeEvent(evts[i], logHuman);
+		}
+	};
+	for (var i = 0; i < evts.length; i++) {
+		addEvent(evts[i], logHuman);
+	}
+})('//www.mromagazine.com/?wordfence_logHuman=1&hid=7E29CE91534281E74AD5EBFA8D3FBC7D');
+</script>    <script type="text/javascript">
+    // <![CDATA[
+    jQuery(document).ready(function($){
+        $("a[rel='magnific']").magnificPopup({
+                type:'image'
+        });
+    });  
+    // ]]>
+    </script>
+<!-- Custom CSS -->
+<style type="text/css">
+.network-logo {/* display:inline; */} .network-logo img {margin:0 20px;} #cover { margin-top: -40px; }header { background: ;}.navbar-brand { font-weight: normal; }.navbar-nav > li > a, .dropdown-menu > li > a { font-weight: normal; }
+</style><!-- Begin comScore Tag --> 
+<script> 
+	var _comscore = _comscore || []; 
+	_comscore.push({ c1: "2", c2: "12982857" }); 
+	(function() { var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true; s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js"; el.parentNode.insertBefore(s, el); })(); 
+</script> 
+<noscript> 
+	<img src="http://b.scorecardresearch.com/p?c1=2&c2=12982857&cv=2.0&cj=1" /> 
+</noscript> 
+<!-- End comScore Tag -->
+<!-- BEGIN GADWP v4.9.4 Universal Tracking - https://deconf.com/google-analytics-dashboard-wordpress/ -->
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-11137870-49', 'auto');
+  ga('send', 'pageview');
+</script>
+
+<!-- END GADWP Universal Tracking -->
+
+ 
+    <script type='text/javascript' src='http://www.mromagazine.com/wp-content/themes/pubx-mro/js/tracker.min.js'></script>
+    
+    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+      <script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
+    <![endif]-->
+
+    <!-- dfp start -->
+    <script type='text/javascript' src='http://partner.googleadservices.com/gampad/google_service.js'>
+    </script>
+
+    <script type='text/javascript'>
+        var googletag = googletag || {};
+        googletag.cmd = googletag.cmd || [];
+        (function() {
+        var gads = document.createElement('script');
+        gads.async = true;
+        gads.type = 'text/javascript';
+        var useSSL = 'https:' == document.location.protocol;
+        gads.src = (useSSL ? 'https:' : 'http:') + 
+        '//www.googletagservices.com/tag/js/gpt.js';
+        var node = document.getElementsByTagName('script')[0];
+        node.parentNode.insertBefore(gads, node);
+        })();
+    </script>
+
+    <script type='text/javascript'>        
+        googletag.cmd.push(function() {        
+            var pubService = googletag.pubads();
+			pubService.collapseEmptyDivs();
+            			
+            googletag.defineSlot('/69607800/ANLP_300x250_S1_RON_BIG-network', [300, 250], 'div-gpt-ad-3406187699805779-0').addService(googletag.pubads())
+            .setTargeting("publisher", "Manufacturing")
+            .setTargeting("site", "MRO");
+
+            googletag.defineSlot('/69607800/ANLP_300x250_S2_RON_BIG-network', [300, 250], 'div-gpt-ad-3406187699805779-1').addService(googletag.pubads())
+            .setTargeting("publisher", "Manufacturing")
+            .setTargeting("site", "MRO");
+
+            googletag.defineSlot('/69607800/ANLP_300x250_S3_RON_BIG-network', [300, 250], 'div-gpt-ad-3406187699805779-2').addService(googletag.pubads())
+            .setTargeting("publisher", "Manufacturing")
+            .setTargeting("site", "MRO");
+
+            googletag.defineSlot('/69607800/ANLP_300x250_S4_RON_BIG-network', [300, 250], 'div-gpt-ad-3406187699805779-3').addService(googletag.pubads())
+            .setTargeting("publisher", "Manufacturing")
+            .setTargeting("site", "MRO");
+
+            googletag.defineSlot('/69607800/ANLP_728x90_S1_RON_BIG-network', [728, 90], 'div-gpt-ad-3406187699805779-4').addService(googletag.pubads())
+            .setTargeting("publisher", "Manufacturing")
+            .setTargeting("site", "MRO");
+
+             googletag.defineSlot('/69607800/ANLP_225x90_S1_RON_BIG-network', [225, 90], 'div-gpt-ad-3406187699805779-5').addService(googletag.pubads())
+            .setTargeting("publisher", "Manufacturing")
+            .setTargeting("site", "MRO");
+            
+            googletag.defineSlot('/69607800/ANLP_300x100_S1_ROS_BIG-network', [300, 100], 'div-gpt-ad-3406187699805779-6').addService(googletag.pubads())
+            .setTargeting("publisher", "Manufacturing")
+            .setTargeting("site", "MRO"); 
+            
+			googletag.defineSlot('/69607800/ANLP_300x100_S2_ROS_BIG-network', [300, 100], 'div-gpt-ad-3406187699805779-7').addService(googletag.pubads())
+			.setTargeting("publisher", "Manufacturing")
+            .setTargeting("site", "MRO");
+			
+			googletag.defineSlot('/69607800/ANLP_300x100_S3_ROS_BIG-network', [300, 100], 'div-gpt-ad-3406187699805779-8').addService(googletag.pubads())
+			.setTargeting("publisher", "Manufacturing")
+            .setTargeting("site", "MRO"); 
+            
+            googletag.defineSlot('/69607800/ANLP_630x250_S1_FPAN_BIG-Network', [630, 250], 'div-gpt-ad-3406187699805779-9').addService(googletag.pubads())
+            .setTargeting("publisher", "Manufacturing")
+            .setTargeting("site", "MRO"); 
+            
+			googletag.defineSlot('/69607800/ANLP_630x250_S1_FPAN_BIG-Network', [630, 250], 'div-gpt-ad-3406187699805779-10').addService(googletag.pubads())
+			.setTargeting("publisher", "Manufacturing")
+            .setTargeting("site", "MRO"); 
+
+
+            
+        });
+    </script>
+
+    
+    <script type='text/javascript'>
+        googletag.cmd.push(function() {
+            googletag.pubads().enableSingleRequest();
+            googletag.enableServices();
+        });
+    </script>
+    <!-- dfp end -->
+
+    <!-- maps -->
+        
+    
+    <!-- LOAD EXTERNAL CSS BASED ON PAGE  For Digital Edition - START -->
+					
+			<link rel="Stylesheet" type="text/css" href="http://www.mromagazine.com/common_scripts/issuesnet/css/archives.css" media="screen" />
+			<link rel="Stylesheet" type="text/css" href="http://www.mromagazine.com/common_scripts/issuesnet/css/fixes.css" media="screen" />
+		<!-- LOAD EXTERNAL CSS BASED ON PAGE  - END -->
+</head>
+
+<body class="home blog wp-custom-logo">
+                 
+         
+        
+    <header class="masthead">   
+            <div class="masthead-inner">             
+        <nav role="navigation" id="navbar-wrapper">  
+
+                                                        
+            <div id="cover" class="hidden-sm hidden-xs" style="background-image: url(/wp-content/themes/pubx-mro/images/cover.jpg);">                        
+                <div class="container">                                        
+                    <div class="row">
+                        <div class="col-md-4">                            
+                            <br/>
+                            <img src="/wp-content/themes/pubx-mro/images/logo-cover.png" alt="MRO Magazine"/>
+                        </div>
+                        <div class="col-md-8">
+                            <span class="cover-slogan pull-right text-right">                                
+                                <h1 style="font-size: 36px;">Serving machinery &amp; equipment maintenance professionals across Canada</h1>
+                            </span>
+                        </div>
+                    </div>                                                
+                </div>                
+            </div>
+
+            <div class="navbar navbar-default visible-sm visible-xs">
+                <div class="container">
+                    <a href="http://www.mromagazine.com/" title="MRO Magazine" rel="home" class="pull-left" style="margin-right:20px;margin-bottom:10px;">
+                        <img src="http://www.mromagazine.com/wp-content/uploads/logos/mro-logo.png" alt="MRO Magazine"/>
+                    </a>                  
+                </div>
+            </div>
+
+         
+
+            <div id="nav" class="navbar navbar-main navbar-inverse">                            
+                <div class="container">                                                                       
+                   <!-- .navbar-toggle is used as the toggle for collapsed navbar content -->                
+                    <button type="button" class="navbar-toggle btn-navbar-menu" data-toggle="collapse" data-target=".navbar-responsive-collapse">
+                      <span class="icon-bar"></span>
+                      <span class="icon-bar"></span>
+                      <span class="icon-bar"></span>
+                    </button>                   
+                    <div class="navbar-collapse collapse navbar-responsive-collapse">
+                       <ul id="menu-main-navigation" class="nav navbar-nav"><li id="menu-item-1003209890" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1003209890"><a href="http://www.mromagazine.com/news/">News</a></li>
+<li id="menu-item-1003209891" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1003209891"><a href="/features">Features</a></li>
+<li id="menu-item-1003209892" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1003209892"><a href="/products">Products</a></li>
+<li id="menu-item-1003280649" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1003280649"><a href="/events">Events</a></li>
+<li id="menu-item-1004016557" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children dropdown menu-item-1004016557"><a href="#" class="dropdown-toggle" data-toggle="dropdown">Digital Editions <b class="caret"></b></a>
+<ul class="dropdown-menu">
+	<li id="menu-item-1004016414" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1004016414"><a href="http://www.mromagazine.com/digital-edition/">MRO Magazine</a></li>
+	<li id="menu-item-1004016558" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1004016558"><a href="http://www.mromagazine.com/food-beverage/">Food &#038; Beverage</a></li>
+</ul>
+</li>
+<li id="menu-item-1004016415" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1004016415"><a href="http://www.mromagazine.com/subscribe/">Subscribe</a></li>
+<li id="menu-item-1004016413" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1004016413"><a href="http://www.mromagazine.com/advertise/">Advertise</a></li>
+</ul>                                                                                               
+                    </div>                    
+                </div>               
+            </div>           
+        </nav>                                                      
+    </header><!-- end of header -->
+        
+
+
+    
+        <div class="ad hidden-xs">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-9">                                        
+					<div id='div-gpt-ad-3406187699805779-4'>
+						<script type='text/javascript'>
+							 googletag.cmd.push(function() { googletag.display('div-gpt-ad-3406187699805779-4'); });
+						</script>
+					</div>                                        
+                </div>
+
+                <div class="col-md-3 text-right">                                        
+                   <form role="search" method="get" id="searchform" action="http://www.mromagazine.com/">
+                          <input name="s" id="s" type="text" class="form-control" placeholder="Search MRO">
+                    </form>                                
+                </div>
+            </div>
+        </div>
+    </div>
+    
+        
+    <div class="container">
+        <div id="wrapper">
+            <div class="visible-print">
+                <img src="http://www.mromagazine.com/wp-content/uploads/logos/mro-logo.png" alt="MRO Magazine" />
+            </div>
+            
+<h2>
+	<a href="/news">News <i class="icon-double-angle-right"></i></a>			
+</h2>
+
+<div class="row">			
+	<div class="col-md-4 divide-line" id="lead-stories">
+		<span class="meta">January 20, 2017</span>
+<a href="http://www.mromagazine.com/2017/01/20/quebec-government-supports-investment-projects-worth-132-6-million-by-siemens-canada-in-quebec/"></a>
+<h3><a href="http://www.mromagazine.com/2017/01/20/quebec-government-supports-investment-projects-worth-132-6-million-by-siemens-canada-in-quebec/">Quebec Government supports investment projects worth $132.6 million by Siemens Canada in Quebec</a></h3>
+<p>Davos, Switzerland â Today at the World Economic Forum at Davos, Siemens AG CEO Joe Kaeser and Quebec Premiere PhilippeÂ Couillard, together with the Minister of Economy, Science and Innovation and Minister responsible for the Digital Strategy, Ms. DominiqueÂ Anglade announced substantial<span class="ellipsis">&hellip;</span><a href="http://www.mromagazine.com/2017/01/20/quebec-government-supports-investment-projects-worth-132-6-million-by-siemens-canada-in-quebec/"> â</a></span></p>	</div>	
+	<div class="col-md-5">
+		<ul class="media-list"><li class="media"> 
+<span class="meta">January 23, 2017</span>
+<h4><a href="http://www.mromagazine.com/2017/01/23/webinar-order-measurements-in-condition-monitoring/">Webinar &#8211; Order Measurements in Condition Monitoring</a></h4>
+</li><li class="media"> 
+<span class="meta">January 23, 2017</span>
+<h4><a href="http://www.mromagazine.com/2017/01/23/tapflo-introduces-new-dealer-in-ontario/">Tapflo introduces new dealer in Ontario</a></h4>
+</li><li class="media"> 
+<span class="meta">January 23, 2017</span>
+<h4><a href="http://www.mromagazine.com/2017/01/23/pemac-announces-call-for-abstracts-open-for-annual-conference-maintrain/">PEMAC â Call for Abstracts now open for annual MainTrain conference</a></h4>
+</li><li class="media"> 
+<span class="meta">January 22, 2017</span>
+<h4><a href="http://www.mromagazine.com/2017/01/22/ptda-welcomes-seven-new-members/">PTDA welcomes seven new members</a></h4>
+</li><li class="media"> 
+<span class="meta">January 22, 2017</span>
+<h4><a href="http://www.mromagazine.com/2017/01/22/trumps-protectionist-inaugural-address-sparks-concerns-in-canadas-oilpatch/">Trump&#8217;s protectionist inaugural address sparks concerns in Canada&#8217;s oilpatch</a></h4>
+</li><li class="media"> 
+<span class="meta">January 22, 2017</span>
+<h4><a href="http://www.mromagazine.com/2017/01/22/ny-governor-seeks-2b-to-fix-some-of-nations-oldest-pipes/">NY governor seeks $2B to fix some of nation&#8217;s oldest pipes</a></h4>
+</li></ul>
+<a href="/news" class="btn btn-default btn-block">More News</a>	
+	</div>
+	<div class="col-md-3">
+					<div class="textwidget"><div class="center-block text-center">
+<div id="div-gpt-ad-3406187699805779-0" style="margin-left:-15px;">
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-3406187699805779-0'); });
+</script>
+</div>
+</div>
+</div>
+			
+	</div>
+</div>
+
+
+<h2>
+	<a href="/features">Features <i class="icon-double-angle-right"></i></a>			
+</h2>
+
+<div class="row">
+	<div class="col-md-9">
+		<div id="home-carousel" class="carousel slide" data-ride="carousel" data-interval="5000">
+			<ol class="carousel-indicators">
+	            <li data-target="#home-carousel" data-slide-to="0"></li>
+	            <li data-target="#home-carousel" data-slide-to="1"></li>
+	            <li data-target="#home-carousel" data-slide-to="2"></li>
+	        </ol>
+			<div class="carousel-inner"><div class="item">		
+<div class="well well-carousel">
+<div class="media">
+<a href="http://www.mromagazine.com/features/vibration-diagnostics-to-analyze-the-radial-vibration-at-the-bearings-ensures-best-balance/" class="pull-left hidden-sm hidden-xs">
+<img src='http://www.mromagazine.com/wp-content/uploads/sites/16/2017/01/SulzerAME059_20_years_balancing_facility_pic1a_PR4182_39115-ml-270x170.jpg' width='270' height='170' class='media-object' alt='' />
+</a>
+<div class="media-body">
+<h3 class="media-heading"><a href="http://www.mromagazine.com/features/vibration-diagnostics-to-analyze-the-radial-vibration-at-the-bearings-ensures-best-balance/" class="tlt">Vibration diagnostics to analyze radial vibration at the bearings ensures best balance</a></h3>
+<a href="http://www.mromagazine.com/features/vibration-diagnostics-to-analyze-the-radial-vibration-at-the-bearings-ensures-best-balance/" class="btn btn-primary">Read more</a>
+</div>
+</div></div>
+</div><div class="item">		
+<div class="well well-carousel">
+<div class="media">
+<a href="http://www.mromagazine.com/features/abb-celebrates-125-years-of-technical-innovation-in-montreal/" class="pull-left hidden-sm hidden-xs">
+<img src='http://www.mromagazine.com/wp-content/uploads/sites/16/2017/01/ABB4-ml-270x170.jpg' width='270' height='170' class='media-object' alt='' />
+</a>
+<div class="media-body">
+<h3 class="media-heading"><a href="http://www.mromagazine.com/features/abb-celebrates-125-years-of-technical-innovation-in-montreal/" class="tlt">ABB celebrates 125 years of technical innovation in Montreal</a></h3>
+<a href="http://www.mromagazine.com/features/abb-celebrates-125-years-of-technical-innovation-in-montreal/" class="btn btn-primary">Read more</a>
+</div>
+</div></div>
+</div><div class="item">		
+<div class="well well-carousel">
+<div class="media">
+<a href="http://www.mromagazine.com/features/what-are-the-benefits-of-providing-training-to-maintenance-personnel/" class="pull-left hidden-sm hidden-xs">
+<img src='http://www.mromagazine.com/wp-content/uploads/sites/16/2017/01/Markbarnes-ml-270x170.png' width='270' height='170' class='media-object' alt='' />
+</a>
+<div class="media-body">
+<h3 class="media-heading"><a href="http://www.mromagazine.com/features/what-are-the-benefits-of-providing-training-to-maintenance-personnel/" class="tlt">What are the benefits of providing training to maintenance personnel?</a></h3>
+<a href="http://www.mromagazine.com/features/what-are-the-benefits-of-providing-training-to-maintenance-personnel/" class="btn btn-primary">Read more</a>
+</div>
+</div></div>
+</div><div class="item">		
+<div class="well well-carousel">
+<div class="media">
+<a href="http://www.mromagazine.com/features/chain-lubrication-tips-and-methods/" class="pull-left hidden-sm hidden-xs">
+<img src='http://www.mromagazine.com/wp-content/uploads/sites/16/2017/01/Flo1-ml-270x170.jpg' width='270' height='170' class='media-object' alt='' />
+</a>
+<div class="media-body">
+<h3 class="media-heading"><a href="http://www.mromagazine.com/features/chain-lubrication-tips-and-methods/" class="tlt">Chain lubrication tips and methods</a></h3>
+<a href="http://www.mromagazine.com/features/chain-lubrication-tips-and-methods/" class="btn btn-primary">Read more</a>
+</div>
+</div></div>
+</div><div class="item">		
+<div class="well well-carousel">
+<div class="media">
+<a href="http://www.mromagazine.com/features/key-success-factors-for-manufacturers-in-2017-skills-and-new-services/" class="pull-left hidden-sm hidden-xs">
+<img src='http://www.mromagazine.com/wp-content/uploads/sites/16/2016/12/ThinkstockPhotos-595329312-ml-270x170.jpg' width='270' height='170' class='media-object' alt='' />
+</a>
+<div class="media-body">
+<h3 class="media-heading"><a href="http://www.mromagazine.com/features/key-success-factors-for-manufacturers-in-2017-skills-and-new-services/" class="tlt">Key success factors for manufacturers in 2017 â skills and new services</a></h3>
+<a href="http://www.mromagazine.com/features/key-success-factors-for-manufacturers-in-2017-skills-and-new-services/" class="btn btn-primary">Read more</a>
+</div>
+</div></div>
+</div><div class="item">		
+<div class="well well-carousel">
+<div class="media">
+<a href="http://www.mromagazine.com/features/how-to-select-the-proper-industrial-shaft-seal-for-an-application/" class="pull-left hidden-sm hidden-xs">
+<img src='http://www.mromagazine.com/wp-content/uploads/sites/16/2016/12/SKF-Custom-Seals-ml-270x170.jpg' width='270' height='170' class='media-object' alt='' />
+</a>
+<div class="media-body">
+<h3 class="media-heading"><a href="http://www.mromagazine.com/features/how-to-select-the-proper-industrial-shaft-seal-for-an-application/" class="tlt">How to select the proper industrial shaft seal for an application</a></h3>
+<a href="http://www.mromagazine.com/features/how-to-select-the-proper-industrial-shaft-seal-for-an-application/" class="btn btn-primary">Read more</a>
+</div>
+</div></div>
+</div></div>			 
+		</div>
+		<a class="left carousel-control" href="#home-carousel" data-slide="prev"><span class="icon-chevron-left icon-3x"></span></a>
+    	<a class="right carousel-control" href="#home-carousel" data-slide="next"><span class="icon-chevron-right icon-3x"></span></a>						
+	</div>	
+	<div class="col-md-3">
+					<div class="textwidget"><div class="center-block text-center">
+<div id="div-gpt-ad-3406187699805779-1" style="margin-left:-15px;">
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-3406187699805779-1'); });
+</script>
+</div>
+</div>
+</div>
+			
+	</div>	
+</div>
+
+<br/><br/>
+
+<h2>
+	<a href="/products">Products <i class="icon-double-angle-right"></i></a>			
+</h2>
+<div class="row">	
+	<div class="col-md-2 divide-line">
+<div class="media"><a href="http://www.mromagazine.com/products/variable-frequency-drives/" class="headline"><img src='http://www.mromagazine.com/wp-content/uploads/sites/16/2016/12/Eaton-PowerXL-Series-Variable-Frequency-Drives--ml-170x90.jpg' width='170' height='90' class='media-object' alt='' /></a>
+<h5><a href="http://www.mromagazine.com/products/variable-frequency-drives/" class="headline">Variable frequency drives with increased available power</a></h5>
+</div></div><div class="col-md-2 divide-line">
+<div class="media"><a href="http://www.mromagazine.com/products/new-sight-glass-is-a-critical-component-to-improve-condition-monitoring/" class="headline"><img src='http://www.mromagazine.com/wp-content/uploads/sites/16/2016/11/Des-Case-OSG_vertical-ml-170x90.png' width='170' height='90' class='media-object' alt='' /></a>
+<h5><a href="http://www.mromagazine.com/products/new-sight-glass-is-a-critical-component-to-improve-condition-monitoring/" class="headline">New sight glass is a critical component to improve condition monitoring</a></h5>
+</div></div><div class="col-md-2 divide-line">
+<div class="media"><a href="http://www.mromagazine.com/products/parker-hannifin-patents-metal-seal-design-for-extreme-temperatures-see-more-at-httpwww-rem-mag-compumps-pipes-valves3190-parker-hannifin-patents-new-metal-seal-design-for-extreme-temperature-f/" class="headline"><img src='http://www.mromagazine.com/wp-content/uploads/sites/16/2016/11/Parker-ml-170x90.jpg' width='170' height='90' class='media-object' alt='' /></a>
+<h5><a href="http://www.mromagazine.com/products/parker-hannifin-patents-metal-seal-design-for-extreme-temperatures-see-more-at-httpwww-rem-mag-compumps-pipes-valves3190-parker-hannifin-patents-new-metal-seal-design-for-extreme-temperature-f/" class="headline">Parker Hannifin patents metal seal design for extreme temperatures</a></h5>
+</div></div><div class="col-md-2 divide-line">
+<div class="media"><a href="http://www.mromagazine.com/products/electric-cartridge-pump-for-lubricaing-bearings-and-linear-guides-in-small-machines/" class="headline"><img src='http://www.mromagazine.com/wp-content/uploads/sites/16/2016/11/SKF.electriccartridgepump-ml-170x90.jpg' width='170' height='90' class='media-object' alt='' /></a>
+<h5><a href="http://www.mromagazine.com/products/electric-cartridge-pump-for-lubricaing-bearings-and-linear-guides-in-small-machines/" class="headline">Electric cartridge pump for lubricating bearings and linear guides in small machines</a></h5>
+</div></div><div class="col-md-2 divide-line">
+<div class="media"><a href="http://www.mromagazine.com/products/nsk-improves-series-of-large-spherical-roller-bearings/" class="headline"><img src='http://www.mromagazine.com/wp-content/uploads/sites/16/2016/07/NSK-ml-170x90.jpg' width='170' height='90' class='media-object' alt='' /></a>
+<h5><a href="http://www.mromagazine.com/products/nsk-improves-series-of-large-spherical-roller-bearings/" class="headline">NSK improves series of large spherical roller bearings</a></h5>
+</div></div><div class="col-md-2 divide-line">
+<div class="media"><a href="http://www.mromagazine.com/products/smart-sensing-solution-can-reduce-downtimes-of-low-voltage-motors-by-up-to-70-per-cent/" class="headline"><img src='http://www.mromagazine.com/wp-content/uploads/sites/16/2016/04/abb_smart-sensor-ml-170x90.jpg' width='170' height='90' class='media-object' alt='' /></a>
+<h5><a href="http://www.mromagazine.com/products/smart-sensing-solution-can-reduce-downtimes-of-low-voltage-motors-by-up-to-70-per-cent/" class="headline">Smart sensing solution can reduce downtimes of low-voltage motors by up to 70 per cent</a></h5>
+</div></div>		
+</div>
+<br/><br/>
+
+<h2>
+	<a href="/events">Events <i class="icon-double-angle-right"></i></a>			
+</h2>
+
+
+	
+    <div class="row">
+	        
+
+	    <div class="col-md-4">
+	    	<div class="media">
+		        <a href="http://www.mromagazine.com/events/maintenance-inspection-training/" class="pull-left event-date">
+		          <span class="month">Jan</span><br/>
+		          <span class="day">23</span><br/>
+		          <span class="year">2017</span>
+		        </a>
+		                          
+		        <div class="media-body">
+		          <div class="meta tags small">                                                                                                                                                                                   
+		             <span class="label label-light"></span>                                    
+		          </div>                    
+		          <h4 class="media-heading">
+		              <a href="http://www.mromagazine.com/events/maintenance-inspection-training/" rel="bookmark" title="Permanent Link to Maintenance &amp; Inspection Training">Maintenance &amp; Inspection Training</a><br/>
+		              <small>CTU Training Center
+Crane Training USA
+7908 Cincinnati-Dayton Road - Suite H
+West Chester, OH  45069</small>
+		          </h4>                      	         
+		        </div>              
+		    </div>
+	    </div>    
+    	
+    	    
+
+	    <div class="col-md-4">
+	    	<div class="media">
+		        <a href="http://www.mromagazine.com/events/plc-training-workshop-2/" class="pull-left event-date">
+		          <span class="month">Jan</span><br/>
+		          <span class="day">24</span><br/>
+		          <span class="year">2017</span>
+		        </a>
+		                          
+		        <div class="media-body">
+		          <div class="meta tags small">                                                                                                                                                                                   
+		             <span class="label label-light"></span>                                    
+		          </div>                    
+		          <h4 class="media-heading">
+		              <a href="http://www.mromagazine.com/events/plc-training-workshop-2/" rel="bookmark" title="Permanent Link to PLC Training Workshop">PLC Training Workshop</a><br/>
+		              <small>1852 Rockbridge Road, Stone Mountain GA 30087</small>
+		          </h4>                      	         
+		        </div>              
+		    </div>
+	    </div>    
+    	
+    	    
+
+	    <div class="col-md-4">
+	    	<div class="media">
+		        <a href="http://www.mromagazine.com/events/3rd-annual-well-site-automation-2017/" class="pull-left event-date">
+		          <span class="month">Jan</span><br/>
+		          <span class="day">24</span><br/>
+		          <span class="year">2017</span>
+		        </a>
+		                          
+		        <div class="media-body">
+		          <div class="meta tags small">                                                                                                                                                                                   
+		             <span class="label label-light"></span>                                    
+		          </div>                    
+		          <h4 class="media-heading">
+		              <a href="http://www.mromagazine.com/events/3rd-annual-well-site-automation-2017/" rel="bookmark" title="Permanent Link to 3rd Annual Well Site Automation 2017">3rd Annual Well Site Automation 2017</a><br/>
+		              <small>5060 W Alabama St
+Houston
+TX 77056</small>
+		          </h4>                      	         
+		        </div>              
+		    </div>
+	    </div>    
+    	
+    	 
+	</div>
+   <br/><br/>
+
+<h2>
+	<a href="/redwire/"><img src="http://pubx.annexmedia.ca/mro/wp-content/uploads/sites/16/2015/01/rediwre-heading-logo.png" alt="REDWIRE by FRASERS" />&nbsp;&nbsp;<i class="icon-double-angle-right" style="color:#e83c30;"></i></a>
+	<br/><small>News you can use from leading suppliers</small>&nbsp;<a href="#" data-toggle="modal" data-target="#poweredby"><img src="http://www.design-engineering.com/wp-content/uploads/2015/03/circle-question-mark.gif" style="width:16px;height:16px;margin-bottom:-4px" /></a>
+	<small class="pull-right hidden-xs"><a href="http://www.frasers.com/about-redwire/" target="_blank" class="text-primary">Post REDWIRE News</a></small>	
+</h2>
+<div class="row"><div class="col-md-2 divide-line">
+<a href="http://www.frasers.com/news/engineered-audits-decrease-costs-operating-air-compressors-1485191835574"><img src='http://www.frasers.com/image/16573677701/news/auditing-system-employed-nca-reduce-energy-costs-50-cent-1485191835546.jpg?w=140&h=105&c=true' width='140' height='105' class='media-object' alt='' /></a>
+<h5><a href="http://www.frasers.com/news/engineered-audits-decrease-costs-operating-air-compressors-1485191835574" class="headline">Engineered audits decrease costs of operating air compressors</a></h5>
+</div><div class="col-md-2 divide-line">
+<a href="http://www.frasers.com/news/nisco-products-ideal-choice-pulp-paper-applications-1485188923055"><img src='http://www.frasers.com/image/16573681869/news/nisco-products-meet-needs-demanding-pulp-paper-sector-148518892300.jpg?w=140&h=105&c=true' width='140' height='105' class='media-object' alt='' /></a>
+<h5><a href="http://www.frasers.com/news/nisco-products-ideal-choice-pulp-paper-applications-1485188923055" class="headline">NISCO products an ideal choice for pulp and paper applications</a></h5>
+</div><div class="col-md-2 divide-line">
+<a href="http://www.frasers.com/news/powder-coating-sprayers-excel-applications-1485186461677"><img src='http://www.frasers.com/image/16573689850/news/sames-range-powder-spraying-equipment-includes-manual-automatic-robotic-solutions-1485186461639.jpg?w=140&h=105&c=true' width='140' height='105' class='media-object' alt='' /></a>
+<h5><a href="http://www.frasers.com/news/powder-coating-sprayers-excel-applications-1485186461677" class="headline">Powder coating sprayers excel in many applications</a></h5>
+</div><div class="col-md-2 divide-line">
+<a href="http://www.frasers.com/news/tote-mixer-offers-quality-versatility-1485181932390"><img src='http://www.frasers.com/image/16573665968/news/bridge-tote-mixer-collapsible-impeller-technology-designed-technical-mixing-plastic-totes-chemical-industry-1485181932394.jpg?w=140&h=105&c=true' width='140' height='105' class='media-object' alt='' /></a>
+<h5><a href="http://www.frasers.com/news/tote-mixer-offers-quality-versatility-1485181932390" class="headline">Tote mixer offers quality and versatility</a></h5>
+</div><div class="col-md-2 divide-line">
+<a href="http://www.frasers.com/news/megger-offers-portable-appliance-testers-simplify-safety-testing-1484958202652"><img src='http://www.frasers.com/image/16573687313/news/portable-appliance-testers-megger-offer-quality-reliability-148495820251.jpg?w=140&h=105&c=true' width='140' height='105' class='media-object' alt='' /></a>
+<h5><a href="http://www.frasers.com/news/megger-offers-portable-appliance-testers-simplify-safety-testing-1484958202652" class="headline">Megger offers portable appliance testers that simplify safety testing</a></h5>
+</div><div class="col-md-2 divide-line">
+<a href="http://www.frasers.com/news/matritech-offers-laser-cutting-services-using-best-equipment-1484956635427"><img src='http://www.frasers.com/image/16573725349/news/laser-cutting-services-matritech-offer-precise-high-quality-results-1484956635425.jpg?w=140&h=105&c=true' width='140' height='105' class='media-object' alt='' /></a>
+<h5><a href="http://www.frasers.com/news/matritech-offers-laser-cutting-services-using-best-equipment-1484956635427" class="headline">Matritech offers laser cutting services using the best equipment</a></h5>
+</div></div><br/><br/>
+
+<div class="row">
+	<div class="col-md-4">		
+		<div class="well"><h4>Buyers&#8217; Guide</h4>			<div class="textwidget">The Machinery & Equipment MRO Buyers' Guide, search and find over hundred thousands companies and thousands products. <br/><br/>
+<a href="/buyers-guide" class="btn btn-primary">Buyers' Guide</a></div>
+		</div>			 
+	</div>
+	
+	<div class="col-md-8">
+	<div class="well"><h4>Poll</h4><script type='text/javascript' src='http://www.mromagazine.com/wp-content/plugins/gravityforms/js/jquery.json.min.js?ver=2.1.1'></script>
+<script type='text/javascript' src='http://www.mromagazine.com/wp-content/plugins/gravityforms/js/gravityforms.min.js?ver=2.1.1'></script>
+<script type="text/javascript"> var gf_global = {"gf_currency_config":{"name":"Canadian Dollar","symbol_left":"$","symbol_right":"CAD","symbol_padding":" ","thousand_separator":",","decimal_separator":".","decimals":2},"base_url":"http:\/\/www.mromagazine.com\/wp-content\/plugins\/gravityforms","number_formats":[],"spinnerUrl":"http:\/\/www.mromagazine.com\/wp-content\/plugins\/gravityforms\/images\/spinner.gif"}; </script>
+                <div class='gf_browser_ie gf_browser_ie8 gform_wrapper gpoll_enabled_wrapper gpoll_show_results_link_wrapper gpoll_block_repeat_voters_wrapper gpoll_wrapper' id='gform_wrapper_12' ><a id='gf_12' class='gform_anchor' ></a><form method='post' enctype='multipart/form-data' target='gform_ajax_frame_12' id='gform_12' class='gpoll_enabled gpoll_show_results_link gpoll_block_repeat_voters gpoll' action='/?utm_source=pem&#038;utm_medium=web&#038;utm_campaign=pem_default#gf_12'>
+                        <div class='gform_body'><ul id='gform_fields_12' class='gform_fields top_label form_sublabel_below description_below'><li id='field_12_1' class='gfield field_sublabel_below field_description_below gfield_visibility_visible gpoll_field' ><label class='gfield_label'  >How would you rate the effectiveness of maintenance at your facility for reducing machinery and equipment downtime?</label><div class='ginput_container ginput_container_radio'><ul class='gfield_radio' id='input_12_1'><li class='gchoice_12_1_0'><input name='input_1' type='radio' value='gpoll190a8dc70'  id='choice_12_1_0'     /><label for='choice_12_1_0' id='label_12_1_0'>Poor</label></li><li class='gchoice_12_1_1'><input name='input_1' type='radio' value='gpoll1074caaad'  id='choice_12_1_1'     /><label for='choice_12_1_1' id='label_12_1_1'>Adequate</label></li><li class='gchoice_12_1_2'><input name='input_1' type='radio' value='gpoll1a912c66f'  id='choice_12_1_2'     /><label for='choice_12_1_2' id='label_12_1_2'>Good</label></li><li class='gchoice_12_1_3'><input name='input_1' type='radio' value='gpoll1a80718e0'  id='choice_12_1_3'     /><label for='choice_12_1_3' id='label_12_1_3'>Excellent</label></li></ul></div></li>
+                            </ul></div>
+        <div class='gform_footer top_label'> <input type='submit' id='gform_submit_button_12' class='gform_button button' value='Submit'  onclick='if(window["gf_submitting_12"]){return false;}  if( !jQuery("#gform_12")[0].checkValidity || jQuery("#gform_12")[0].checkValidity()){window["gf_submitting_12"]=true;}  ' onkeypress='if( event.keyCode == 13 ){ if(window["gf_submitting_12"]){return false;} if( !jQuery("#gform_12")[0].checkValidity || jQuery("#gform_12")[0].checkValidity()){window["gf_submitting_12"]=true;}  jQuery("#gform_12").trigger("submit",[true]); }' /> <input type='hidden' name='gform_ajax' value='form_id=12&amp;title=&amp;description=&amp;tabindex=0' />
+            <input type='hidden' class='gform_hidden' name='is_submit_12' value='1' />
+            <input type='hidden' class='gform_hidden' name='gform_submit' value='12' />
+            
+            <input type='hidden' class='gform_hidden' name='gform_unique_id' value='' />
+            <input type='hidden' class='gform_hidden' name='state_12' value='WyJbXSIsImQ5MDg3YWJlMmYwNTNhNjQ3OTAzY2U1NTgwNTUyOTQ5Il0=' />
+            <input type='hidden' class='gform_hidden' name='gform_target_page_number_12' id='gform_target_page_number_12' value='0' />
+            <input type='hidden' class='gform_hidden' name='gform_source_page_number_12' id='gform_source_page_number_12' value='1' />
+            <input type='hidden' name='gform_field_values' value='gpoll_enabled=1&amp;gpoll_field=0&amp;gpoll_style=green&amp;gpoll_display_results=1&amp;gpoll_show_results_link=1&amp;gpoll_cookie=1+day&amp;gpoll_confirmation=1&amp;gpoll_percentages=1&amp;gpoll_counts=0&amp;gpoll_checksum=9a95978a1fedcc3c48d4ec103a26c2f7' />
+            
+        </div>
+                        </form>
+                        </div>
+                <iframe style='display:none;width:0px;height:0px;' src='about:blank' name='gform_ajax_frame_12' id='gform_ajax_frame_12' title='Ajax Frame'>This iframe contains the logic required to handle AJAX powered Gravity Forms.</iframe>
+                <script type='text/javascript'>jQuery(document).ready(function($){gformInitSpinner( 12, 'http://www.mromagazine.com/wp-content/plugins/gravityforms/images/spinner.gif' );jQuery('#gform_ajax_frame_12').load( function(){var contents = jQuery(this).contents().find('*').html();var is_postback = contents.indexOf('GF_AJAX_POSTBACK') >= 0;if(!is_postback){return;}var form_content = jQuery(this).contents().find('#gform_wrapper_12');var is_confirmation = jQuery(this).contents().find('#gform_confirmation_wrapper_12').length > 0;var is_redirect = contents.indexOf('gformRedirect(){') >= 0;var is_form = form_content.length > 0 && ! is_redirect && ! is_confirmation;if(is_form){jQuery('#gform_wrapper_12').html(form_content.html());if(form_content.hasClass('gform_validation_error')){jQuery('#gform_wrapper_12').addClass('gform_validation_error');} else {jQuery('#gform_wrapper_12').removeClass('gform_validation_error');}setTimeout( function() { /* delay the scroll by 50 milliseconds to fix a bug in chrome */ jQuery(document).scrollTop(jQuery('#gform_wrapper_12').offset().top); }, 50 );if(window['gformInitDatepicker']) {gformInitDatepicker();}if(window['gformInitPriceFields']) {gformInitPriceFields();}var current_page = jQuery('#gform_source_page_number_12').val();gformInitSpinner( 12, 'http://www.mromagazine.com/wp-content/plugins/gravityforms/images/spinner.gif' );jQuery(document).trigger('gform_page_loaded', [12, current_page]);window['gf_submitting_12'] = false;}else if(!is_redirect){var confirmation_content = jQuery(this).contents().find('#gforms_confirmation_message_12').html();if(!confirmation_content){confirmation_content = contents;}setTimeout(function(){jQuery('#gform_wrapper_12').replaceWith('<' + 'div id=\'gforms_confirmation_message_12\' class=\'gform_confirmation_message_12 gforms_confirmation_message\'' + '>' + confirmation_content + '<' + '/div' + '>');jQuery(document).scrollTop(jQuery('#gforms_confirmation_message_12').offset().top);jQuery(document).trigger('gform_confirmation_loaded', [12]);window['gf_submitting_12'] = false;}, 50);}else{jQuery('#gform_12').append(contents);if(window['gformRedirect']) {gformRedirect();}}jQuery(document).trigger('gform_post_render', [12, current_page]);} );} );</script><script type='text/javascript'> if(typeof gf_global == 'undefined') var gf_global = {"gf_currency_config":{"name":"Canadian Dollar","symbol_left":"$","symbol_right":"CAD","symbol_padding":" ","thousand_separator":",","decimal_separator":".","decimals":2},"base_url":"http:\/\/www.mromagazine.com\/wp-content\/plugins\/gravityforms","number_formats":[],"spinnerUrl":"http:\/\/www.mromagazine.com\/wp-content\/plugins\/gravityforms\/images\/spinner.gif"};jQuery(document).bind('gform_post_render', function(event, formId, currentPage){if(formId == 12) {} } );jQuery(document).bind('gform_post_conditional_logic', function(event, formId, fields, isInit){} );</script><script type='text/javascript'> jQuery(document).ready(function(){jQuery(document).trigger('gform_post_render', [12, 1]) } ); </script></div>			 
+	</div>
+</div>
+
+<br/><br/>
+</div><!-- end of wrapper-->
+
+
+</div><!-- end of container -->
+
+<footer id="footer" class="clearfix ">
+    <div class="container">
+      <div id="footer-wrapper">    
+        
+        <div class="row">
+            <div class="col-md-2">
+                <h3>Services</h3><div class="menu-services-container"><ul id="menu-services" class="menu"><li id="menu-item-1004015936" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1004015936"><a href="http://www.mromagazine.com/food-beverage/">Food &#038; Beverage</a></li>
+<li id="menu-item-1003280654" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1003280654"><a href="http://www.mromagazine.com/digital-edition/">Digital Edition</a></li>
+<li id="menu-item-1003280653" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1003280653"><a href="http://www.mromagazine.com/subscribe/">Subscribe</a></li>
+<li id="menu-item-1003280655" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1003280655"><a href="http://www.mromagazine.com/advertise/">Advertise</a></li>
+<li id="menu-item-1003280656" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1003280656"><a href="http://www.mromagazine.com/contacts/">Contacts</a></li>
+</ul></div>                
+                              
+            </div>
+
+            <div class="col-md-6">
+                <div class="row">
+                  <div class="col-md-6">
+                    <a href="http://www.mromagazine.com/digital-archives/december-2016/">
+<img src='http://www.mromagazine.com/wp-content/uploads/sites/16/2016/12/MRO_DEC_NOV_2016_DE-1-ml-300x400.jpg' width='300' height='400' class='' alt='' />
+</a><a href="/digital-edition" class="btn btn-primary btn-block">View Digital Edition</a>
+<a href="/digital-archives" class="btn btn-sm btn-default btn-block">Browse Print Archives</a>                  </div>
+                  <div class="col-md-6">
+                    <a href="http://www.mromagazine.com/digital-archives/maintenance-reparation-et-operation-april-2016/">
+<img src='http://www.mromagazine.com/wp-content/uploads/sites/16/2016/09/April-MRO_french16_GWJ-1-ml-300x400.jpg' width='300' height='400' class='' alt='' />
+</a><a href="/digital-edition-fr" class="btn btn-primary btn-block">View Digital Edition</a>
+<a href="/digital-archives" class="btn btn-sm btn-default btn-block">Browse Print Archives</a>                  </div>
+                </div>
+            </div>
+
+            <div class="col-md-4"><!--div class="col-md-5 col-md-offset-1"-->
+
+              
+<!-- WordPress Popular Posts Plugin v3.3.4 [W] [weekly] [views] [custom] -->
+
+<h3> Popular </h3>
+<!-- cached -->
+
+<ul class="list-unstyled trending">
+<li><a href="http://www.mromagazine.com/features/how-proper-shaft-sizes-are-determined/" title="How proper shaft sizes are determined" class="wpp-post-title" target="_self">How proper shaft sizes are determined</a></li>
+<li><a href="http://www.mromagazine.com/2017/01/11/webinar-debunks-machine-safeguarding-myths/" title="Webinar debunks  machine safeguarding myths" class="wpp-post-title" target="_self">Webinar debunks  machine safeguarding myths</a></li>
+<li><a href="http://www.mromagazine.com/2017/01/12/employer-fined-after-worker-injured-in-heavy-equipment-maintenance-shop/" title="Employer fined after worker injured in heavy equipment maintenance shop" class="wpp-post-title" target="_self">Employer fined after worker injured in heavy equipment maintenance shop</a></li>
+<li><a href="http://www.mromagazine.com/2017/01/11/auto-parts-maker-fined-after-worker-injured-on-hydraulic-power-press/" title="Auto parts maker fined after worker injured on hydraulic power press" class="wpp-post-title" target="_self">Auto parts maker fined after worker injured on hydraulic power press</a></li>
+<li><a href="http://www.mromagazine.com/2017/01/16/canada-expected-to-have-the-second-fastest-growth-among-the-g7/" title="Canada expected to have the second-fastest growth among the G7" class="wpp-post-title" target="_self">Canada expected to have the second-fastest growth among the G7</a></li>
+<li><a href="http://www.mromagazine.com/2017/01/12/ch2m-appoints-senior-vice-president-and-global-practices-director-for-private-sector/" title="CH2M appoints senior vice president and global practices director for private sector" class="wpp-post-title" target="_self">CH2M appoints senior vice president and global practices director for private sector</a></li>
+<li><a href="http://www.mromagazine.com/2017/01/13/power-transmission-distributors-association-revises-distributor-membership-criteria/" title="Power Transmission Distributors Association revises distributor membership criteria" class="wpp-post-title" target="_self">Power Transmission Distributors Association revises distributor membership criteria</a></li>
+
+</ul>
+
+<!-- End WordPress Popular Posts Plugin v3.3.4 -->
+              
+            </div>
+        </div><!-- end of row -->    
+        
+        <div class="row">
+          <div class="col-md-12 text-center">
+            <div class="text-left"><span class="label label-default">Manufacturing Network</span></div>
+             <div class="panel panel-default">              
+              <div class="panel-body">               
+               <a href="http://www.canadianmanufacturing.com" target="_blank" class="network-logo"><img src="http://www.canadianmanufacturing.com/wp-content/uploads/2014/03/canadianmanufacturing.png" alt="Canadian Manufacturing"></a>               
+               <a href="http://www.canadianpackaging.com" target="_blank" class="network-logo"><img src="http://www.canadianmanufacturing.com/wp-content/uploads/2014/03/canadianpackaging.png" alt="Canadian Packaging"></a>               
+               <a href="http://www.canplastics.com" target="_blank" class="network-logo"><img src="http://www.canadianmanufacturing.com/wp-content/uploads/2014/03/canadianplastics.png" alt="Canadian Plastics"></a>               
+               <a href="http://www.cleantechnology.ca" target="_blank" class="network-logo"><img src="http://www.canadianmanufacturing.com/wp-content/uploads/2014/03/cleantechcanada.png" alt="Cleantech Canada"></a>      
+               <a href="http://www.design-engineering.com" target="_blank" class="network-logo"><img src="http://www.canadianmanufacturing.com/wp-content/uploads/2014/03/designengineering.png" alt="Design Engineering"></a>                                             
+               <a href="http://www.ept.ca" target="_blank" class="network-logo"><img src="http://www.canadianmanufacturing.com/wp-content/uploads/2014/03/ept.png" alt="EPT"></a>               
+               <br/><br/>
+               <a href="http://www.frasers.com" target="_blank" class="network-logo"><img src="http://www.canadianmanufacturing.com/wp-content/uploads/2014/03/frasers.png" alt="FRASERS"></a>               
+               <a href="http://www.mromagazine.com" target="_blank" class="network-logo"><img src="http://www.canadianmanufacturing.com/wp-content/uploads/2014/03/mro.png" alt="MRO"></a>
+               <a href="http://www.plant.ca" target="_blank" class="network-logo"><img src="http://www.canadianmanufacturing.com/wp-content/uploads/2014/03/plant.png" alt="Plant"></a>               
+               <a href="http://www.purchasingb2b.ca" target="_blank" class="network-logo"><img src="http://www.purchasingb2b.ca/wp-content/themes/pubx/images/PurchasingB2B-logo-small.png" alt="Purchasing B2B"></a>
+              </div>
+            </div>
+          </div>
+        </div>
+        
+        <div class="row">
+            <div class="col-lg-4">
+                                <nav role="navigation">
+                  <ul id="menu-footer-menu" class="footer-menu"><li id="menu-item-1003280652" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1003280652"><a href="http://www.mromagazine.com/policy/">Privacy Policy</a></li>
+<li id="menu-item-1004015937" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1004015937"><a href="http://www.mromagazine.com/sitemap/">Sitemap</a></li>
+</ul>                </nav>
+                          </div><!-- end of col-lg-4 -->
+
+            <div class="col-lg-4 scroll-top">
+                <a href="#scroll-top" title="scroll to top"><i class="icon-chevron-up"></i></a>
+            </div>
+
+            <div class="col-lg-4">
+                <span class="pull-right">                  
+                                           &copy; Copyright 2017 <a href="http://www.annexweb.com/" title="Annex Business Media" rel="home">Annex Business Media</a>
+                                    </span>                
+            </div><!-- end of col-lg-4 -->
+        </div><!-- end of row -->    
+
+    </div><!-- end #footer-wrapper -->
+  </div> <!-- end container -->
+  <!-- POPUP - Start -->
+<div id="poweredby" class="modal fade in" aria-hidden="false">
+	<div class="modal-dialog" style="top:100px;">
+		<div class="modal-content">
+			<div class="modal-header">
+				<button class="close" data-dismiss="modal" type="button">
+					<span aria-hidden="true">Ã</span>
+					<span class="sr-only">Close</span>
+				</button>
+				<h4 class="modal-title" style="color: #c41230;"><strong>REDWIRE</strong> Powered by FRASERS</h4>
+			</div>
+			<div class="modal-body">
+				
+				<p>
+					<strong style="color: #c41230;">REDWIRE</strong> is News you can use from Leading Suppliers. Why? Suppliers realize that B2B Buyer behavior has changed and so must they.
+				</p>
+				<p>	
+					Fact is buyers are doing a lot more upfront online research as part of their buying process today. Leading Suppliers want to support this buying process with useful facts, insights and newsworthy content â goes well beyond your typical press release or web site content.
+				</p>
+				<p>	
+					Suppliers realize that the content cannot just be âself servingâ in nature because the content will not engage and be useful to prospective buyers. 
+				</p>
+				<p style="margin-top:20px;">
+					
+					<a href="http://www.frasers.com/about-redwire" class="btn btn-danger" style="color:white;margin-left: 0px;">Post your own <strong>REDWIRE</strong> News</a>
+					<img src="http://www.frasers.com/resources/assets/png/dot-showroom.png" style="width:38px;" />
+					<img src="http://www.frasers.com/resources/assets/png/dot-partner.png" style="width:38px;" />
+					<img src="http://www.frasers.com/resources/assets/png/dot-broadcast.png" style="width:38px;" />
+				</p>
+			</div>
+			<div class="modal-footer">
+				<button class="btn btn-default" data-dismiss="modal" type="button">Okay</button>
+			</div>
+		</div>
+	</div>
+</div>
+<!-- POPUP - End --> 
+</footer><!-- end #f-ooter -->
+<!-- helloworldtest -->
+<!-- footertime 03:41:46 -->
+<!--
+greetingsworld-->
+	
+		<script>	
+		// Ref: http://ajtroxell.com/use-magnific-popup-with-wordpress-now/
+		jQuery(document).ready(function($) {
+			// Single Image
+			$('a[href*=".jpg"], a[href*=".jpeg"], a[href*=".png"], a[href*=".gif"]').each(function(){
+				//single image popup
+				if ($(this).parents('.iwmp-gallery').length == 0) { //check that it's not part of a gallery
+					
+					$(this).addClass('iwmp-single'); //Add a class
+					
+					if ( $('.woocommerce .product .images a') ) { // Make sure not to add to woocommerce product images
+						$('.woocommerce .product .images a').removeClass('iwmp-single'); //remove a class
+					}
+					
+					$('.iwmp-single').magnificPopup({
+						type:'image',
+						callbacks: {
+							open: function() {
+				        $('.mfp-description').append(this.currItem.el.attr('alt'));
+				      },
+				      afterChange: function() {
+				        $('.mfp-description').empty().append(this.currItem.el.attr('alt'));
+				      }
+				    },
+						image: {
+							markup: 
+							'<div class="mfp-figure">'+
+							'<div class="mfp-close"></div>'+
+							'<div class="mfp-img"></div>'+
+							'<div class="mfp-bottom-bar">'+
+							'<div class="mfp-title"></div>'+
+							'<div class="mfp-description"></div>'+
+							'<div class="mfp-counter"></div>'+
+							'</div>'+
+							'</div>',
+							titleSrc: function(item) {
+								return item.el.find('img').attr('alt');
+							}							
+						}
+					});
+				}
+			});		
+		});		
+		
+		</script>	
+	
+		
+		<script>	
+		// Ref: http://ajtroxell.com/use-magnific-popup-with-wordpress-now/
+		jQuery(document).ready(function($) {
+			// Gallery Images
+			$('.iwmp-gallery').each(function() {
+				$(this).magnificPopup({
+					delegate: 'a[href*=".jpg"], a[href*=".jpeg"], a[href*=".png"], a[href*=".gif"]',
+					type: 'image',
+					gallery: {enabled:true},
+					callbacks: {
+						open: function() {
+			        $('.mfp-description').append(this.currItem.el.attr('alt'));
+			      },
+			      afterChange: function() {
+			        $('.mfp-description').empty().append(this.currItem.el.attr('alt'));
+			      }
+			    },
+					image: {
+						markup: 
+						'<div class="mfp-figure">'+
+						'<div class="mfp-close"></div>'+
+						'<div class="mfp-img"></div>'+
+						'<div class="mfp-bottom-bar">'+
+						'<div class="mfp-title"></div>'+
+						'<div class="mfp-description"></div>'+
+						'<div class="mfp-counter"></div>'+
+						'</div>'+
+						'</div>',
+						titleSrc: function(item) {
+							return item.el.find('img').attr('alt');
+						}
+					},
+				});
+			}); 	
+		});		
+		
+		</script>	
+	
+			<style>
+			.iwmp-single, .iwmp-gallery img {
+				cursor: pointer;
+		    cursor: -webkit-zoom-in;
+		    cursor: -moz-zoom-in;
+		    cursor: zoom-in;
+	    }
+	    .mfp-content:hover {
+		    cursor: -moz-zoom-out;
+		    cursor: -webkit-zoom-out;
+		    cursor: zoom-out	    
+	    }
+		</style>		
+	<link rel='stylesheet' id='gpoll_css-css'  href='http://www.mromagazine.com/wp-content/plugins/gravityformspolls/css/gpoll.css?ver=3.1' type='text/css' media='all' />
+<script type='text/javascript' src='http://www.mromagazine.com/wp-content/plugins/iw-magnific-popup/includes/assets/jquery.magnific-popup.min.js?ver=1.0'></script>
+<script type='text/javascript' src='http://www.mromagazine.com/wp-includes/js/jquery/ui/core.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://www.mromagazine.com/wp-includes/js/jquery/ui/widget.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://www.mromagazine.com/wp-includes/js/jquery/ui/position.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://www.mromagazine.com/wp-includes/js/jquery/ui/menu.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://www.mromagazine.com/wp-includes/js/wp-a11y.min.js?ver=a9c9277cada82868b8717f959179bd43'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var uiAutocompleteL10n = {"noResults":"No results found.","oneResult":"1 result found. Use up and down arrow keys to navigate.","manyResults":"%d results found. Use up and down arrow keys to navigate.","itemSelected":"Item selected."};
+var uiAutocompleteL10n = {"noResults":"No results found.","oneResult":"1 result found. Use up and down arrow keys to navigate.","manyResults":"%d results found. Use up and down arrow keys to navigate.","itemSelected":"Item selected."};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.mromagazine.com/wp-includes/js/jquery/ui/autocomplete.min.js?ver=1.11.4'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var SearchAutocomplete = {"ajaxurl":"http:\/\/www.mromagazine.com\/wp-admin\/admin-ajax.php","fieldName":"[name=\"s\"]","minLength":"3","delay":"500","autoFocus":"false"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.mromagazine.com/wp-content/plugins/search-autocomplete/js/search-autocomplete.min.js?ver=1.0.0'></script>
+<script type='text/javascript' src='http://www.mromagazine.com/wp-content/themes/pubx-mro/js/scripts.js?ver=1.0.0'></script>
+<script type='text/javascript' src='http://www.mromagazine.com/wp-content/themes/strappress/js/responsive-scripts.js?ver=1.1.0'></script>
+<script type='text/javascript' src='http://www.mromagazine.com/wp-content/themes/strappress/js/responsive-plugins.js?ver=1.1.0'></script>
+<script type='text/javascript' src='http://www.mromagazine.com/wp-includes/js/wp-embed.min.js?ver=a9c9277cada82868b8717f959179bd43'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var gpollVars = {"ajaxurl":"http:\/\/www.mromagazine.com\/wp-admin\/admin-ajax.php","imagesUrl":"http:\/\/www.mromagazine.com\/wp-content\/plugins\/gravityformspolls\/images"};
+var gpoll_strings = {"viewResults":"View results","backToThePoll":"Back to the poll"};
+var gpollVars = {"ajaxurl":"http:\/\/www.mromagazine.com\/wp-admin\/admin-ajax.php","imagesUrl":"http:\/\/www.mromagazine.com\/wp-content\/plugins\/gravityformspolls\/images"};
+var gpoll_strings = {"viewResults":"View results","backToThePoll":"Back to the poll"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.mromagazine.com/wp-content/plugins/gravityformspolls/js/gpoll.js?ver=3.1'></script>
+<div track-cookie="true" track-page-view="http://www.mromagazine.com/?utm_source=pem&utm_medium=web&utm_campaign=pem_default" track-app-id="www.mromagazine.com" track-news-article-name="Home" track-news-articleID="" track-news-post-type="home" />
+<div set-auth-cookie/>
+</body>
+</html>
+<script>
+	jQuery(".item").first().addClass('active');
+	jQuery('#home-carousel').carousel({interval: 5000});	
+	jQuery('#btn-more-news-1').on( "click", function() {
+         jQuery(this).hide();            
+    });  
+</script>
+<!-- Dynamic page generated in 1.253 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2017-01-23 22:41:46 -->

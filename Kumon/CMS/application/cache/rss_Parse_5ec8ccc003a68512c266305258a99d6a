@@ -1,0 +1,1383 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" media="screen" href="/~d/styles/rss2full.xsl"?><?xml-stylesheet type="text/css" media="screen" href="http://feeds.feedburner.com/~d/styles/itemcontent.css"?><rss xmlns:a10="http://www.w3.org/2005/Atom" xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" version="2.0">
+    <channel xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
+        <title>Resources for overall equipment effectiveness</title>
+        <link>http://reliableplant.com/Meta/Tags/overall%20equipment%20effectiveness</link>
+        <description>All articles for overall equipment effectiveness</description>
+        <language>en-us</language>
+        <copyright>Copyright 0000-2016 Noria Corporation - All Rights Reserved</copyright>
+        <lastBuildDate>Fri, 29 Jun 2012 09:22:26 -0500</lastBuildDate>
+        <generator>Noria Core</generator>
+        <a10:id>http://reliableplant.com/Meta/Tags/overall%20equipment%20effectiveness</a10:id>
+        
+        <a10:link rel="search" type="application/opensearchdescription+xml" title="Content Search" href="http://reliableplant.com/osd.xml" />
+        <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://feeds.feedburner.com/noria/reliableplant/tags/overall_equipment_effectiveness" /><feedburner:info uri="noria/reliableplant/tags/overall_equipment_effectiveness" /><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/" /><item>
+            <guid isPermaLink="false">tag:noria.com,2010-06-10:publishing:magazines:rp:1c4372c9-a83c-4aad-938c-a07f009a7cd2</guid>
+            <link>http://feedproxy.google.com/~r/noria/reliableplant/tags/overall_equipment_effectiveness/~3/_1b4p3WiNuU/overall-equipment-effectiveness</link>
+            <a10:author>
+                <a10:name>Rex M. Gallaher</a10:name>
+            </a10:author>
+            <category>Web Exclusives</category>
+            <category>Articles</category>
+            <title>Using Overall Equipment Effectiveness</title>
+            <description>&lt;p&gt;
+	I became a skeptic of overall equipment effectiveness (OEE) when I saw the performance on the midnight shift at a well-run plant nosedive. The low OEE was on the shift performance dashboard and attracted undue attention. Local plant management blamed maintenance, and the maintenance manager called me to support him.&lt;/p&gt;
+&lt;p&gt;
+	An investigation showed that operations had decided one employee could operate a machine that regularly required two employees. In fact, sometimes they assigned one employee to operate two machines. Usually, one employee would keep the machine fed and cull out poor feedstock, while a second would remove the processed product and clear the jams that occurred every 10 minutes for about 30 seconds.&lt;/p&gt;
+&lt;p&gt;
+	OEE was down to about 40 percent for equipment that usually achieved 70 to 80 percent. Further investigation revealed a wider batch-processing window than on the other shifts.&lt;/p&gt;
+&lt;p&gt;
+	The bottom line was that the labor cost per unit processed was reduced by nearly 40 percent while meeting production timeframes. Operations really did not know the makeup of OEE, and instead of defending their numbers, they chose to cast blame.&lt;/p&gt;
+&lt;p&gt;
+	For those who do not remember the OEE formula, for the required run window, it is:&lt;/p&gt;
+&lt;p&gt;
+	&lt;strong&gt;Throughput performance percentage x quality performance percentage x uptime performance percentage = OEE (expressed as a percentage)&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;
+	That is the quick two-penny version.&lt;/p&gt;
+&lt;p&gt;
+	Who uses OEE? Hopefully, it is used by those who know what the three factors mean and how they are measured. My experience says there are various levels of OEE.&lt;/p&gt;
+&lt;p&gt;
+	OEE was thought to be the miracle metric by some organizations, and a lot of management attention still is paid to the metric. I submit that the metric at a plant level means squat to the line operator &amp;mdash; and plant level was the original use of OEE. Yet it is this operator and his or her maintenance technician that makes or breaks the company during the operating shift.&lt;/p&gt;
+&lt;p&gt;
+	Could an OEE be developed that was a meaningful metric to the line machine operators? How about for the engineers and process developers who established equipment performance and line-balancing parameters? How about the supervisor who oversees a production of machines in series? How about the planners and schedulers? In other words, specific OEEs could be developed that represent the specific impacts various players have on the plant performance.&lt;/p&gt;
+&lt;p&gt;
+	I&amp;rsquo;ll even go one further. How about the finance guys who watch the pennies? How about human relations?&lt;/p&gt;
+&lt;p&gt;
+	Most companies recognize the importance of customers, employees, resources and the bottom-line budget performance. It not possible to separate them, yet each must be managed.&lt;/p&gt;
+&lt;p&gt;
+	In the late 1990s, my old organization searched for a meaningful metric to gauge employee motivation and satisfaction with the workplace. The usual factors of safety, attendance, Equal Employment Opportunity (EEO) complaints and grievances were numbers that alone could not be individually correlated to performance.&lt;/p&gt;
+&lt;p&gt;
+	As we moved out of the 1950s and into the enlightened times of the late 20th century, the old term KSA (knowledge, skills and abilities) did not seem to be the end-all when dealing with workers. We wanted them to no longer leave their brains at the front door. We wanted the whole person on the job. Empowerment, quality of working life, involvement, and the importing back into U.S. industry of Deming&amp;rsquo;s and Crosley&amp;rsquo;s quality concepts caused an upheaval in how management must view and treat the worker. Then came total productive maintenance, lean, Toyota, process management and a host of other programs.&lt;/p&gt;
+&lt;p&gt;
+	The literature began to talk of employee talents, situational flexibility, learning organizations, systems thinking, self-direction and self-motivation. My organization categorized this as employee willingness. Yes, we hire a person that walks through the door with KSAs. What happens to his or her willingness or desire to produce to his/her finest? Can we measure that, and what do we need to help him or her walk out of the plant at the end of the day feeling satisfied?&lt;/p&gt;
+&lt;p&gt;
+	I once had a manager who said that if we provide the right tools and timely, pertinent information, then employees will work. That means the organization exists to support the employee.&lt;/p&gt;
+&lt;p&gt;
+	OK, so how does all of this hot air relate to OEE? It can be timely information. It can identify training and skill problems. It can indicate process and equipment problems. And, it is a barometer of employee willingness. Should, therefore, OEE be an analytical metric? Absolutely. Otherwise, throw it away.&lt;/p&gt;
+&lt;p&gt;
+	The bottom line was that OEE became a top-level workforce metric for plant management. At the same time, all processing equipment produced (in real time) the OEE that the operators managed to gauge their performance and analyze problems. The biggest issue was to train supervisors and superintendents to use the same OEE as a diagnostic tool to help remove obstacles to operator performance.&lt;/p&gt;
+&lt;p&gt;
+	The directors of HR were now held responsible for understanding OEE and how it should be viewed and used. It was no longer an &amp;ldquo;operations problem&amp;rdquo; but a plant-wide tool to recognize employee excellence.&lt;/p&gt;&lt;img src="http://feeds.feedburner.com/~r/noria/reliableplant/tags/overall_equipment_effectiveness/~4/_1b4p3WiNuU" height="1" width="1" alt=""/&gt;</description>
+            <a10:updated>2012-06-29T09:22:26-05:00</a10:updated>
+            <a10:content type="text/html" src="http://reliableplant.com/Read/28963/overall-equipment-effectiveness" />
+        <feedburner:origLink>http://reliableplant.com/Read/28963/overall-equipment-effectiveness</feedburner:origLink></item>
+        <item>
+            <guid isPermaLink="false">tag:noria.com,2010-06-10:publishing:magazines:rp:e171f1eb-7566-4a4f-ac92-a024008dbdee</guid>
+            <link>http://feedproxy.google.com/~r/noria/reliableplant/tags/overall_equipment_effectiveness/~3/mlvuRhQKLso/overall-equipment-effectiveness</link>
+            <a10:author>
+                <a10:name>Rex M. Gallaher</a10:name>
+            </a10:author>
+            <category>Web Exclusives</category>
+            <category>Articles</category>
+            <title>Whatâs Missing in Overall Equipment Effectiveness? </title>
+            <description>&lt;p&gt;
+	One of the issues with overall equipment effectiveness (OEE) is that it is an output process metric (speed performance x quality x uptime). It&amp;rsquo;s great as a process metric for measuring machine performance, but it ignores the resources consumed in the process. Given enough money, I can improve any or all of the factors and reach any machine OEE goal on which I am measured.&lt;/p&gt;
+&lt;p&gt;
+	In past articles, I&amp;rsquo;ve pointed out the fallacies of equal weighting of the three factors of OEE and explained one plant&amp;rsquo;s efforts to make the cost impact of quality an impact on OEE by increasing a quality change by seven-fold. A 1-percent decrease became a 7-percent penalty.&lt;/p&gt;
+&lt;p&gt;
+	I submit that the rework cost was, therefore, rolled into the equation; however, it&amp;rsquo;s still a performance metric. OK, so what if it is a performance metric? Would this be a metric taught to a finance person, an accountant or the treasurer of your company? What meaning would it have? How does it relate to the resources (dollars) required to get it? If I were to mention miles per gallon, board feet per log, pieces per work hour or other outputs per input, maybe you would see where I am going.&lt;/p&gt;
+&lt;p&gt;
+	You wouldn&amp;rsquo;t go to the plant manager and say, &amp;ldquo;I want another mechanic for the &amp;lsquo;A&amp;rsquo; line; it will increase the OEE by 4 percent with a resulting reduction in unit product cost of 8 percent.&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;
+	I have developed a new measurement that incorporates costs and OEE. I believe line performance should be tracked by this metric.&lt;/p&gt;
+&lt;p&gt;
+	&lt;strong&gt;&lt;u&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Total costs&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/u&gt;&lt;/strong&gt;&lt;strong&gt;&amp;nbsp;= Cost per unit produce&lt;br /&gt;
+	Units produced x OEE &lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;
+	A new metric has just been added to your dashboard that will allow you to measure the effect of reliability change on the bottom line. I submit that even the finance types and the production types will understand this new use of OEE. If you change the input, you expect an output change.&lt;/p&gt;
+&lt;p&gt;
+	In the formula, if you increase the denominator or decrease the numerator, the final cost per unit produced goes down. In this case, you saw the need to apply maintenance resources to reduce the need for operational resources of labor and/or materials.&lt;/p&gt;
+&lt;p&gt;
+	However, at a staff meeting, the industrial engineer makes a critical observation: &amp;ldquo;The two factors in the denominator are not independent variables. If I increase OEE by 4 percent, I would expect production to go up by 4 percent, thereby the cost per unit would drop by 8 percent.&amp;rdquo; The idea has merit, and we can begin to manage with OEE by recognizing the impact of each OEE factor.&lt;/p&gt;
+&lt;p&gt;
+	The industrial engineer follows up with an alternative in which the unit&amp;rsquo;s denominator becomes the designed throughput and a constant. Costs are driven by changes in OEE.&lt;/p&gt;
+&lt;p&gt;
+	&lt;strong&gt;&lt;u&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Total costs&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/u&gt;&lt;/strong&gt;&lt;strong&gt;&amp;nbsp;= Cost per unit produce&lt;br /&gt;
+	Designed throughput x OEE &lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;
+	The staff meeting continues with enthusiasm from all attendees as the formula now focuses on the causes and costs of production. Yet we now have a metric that can be understood by the line personnel, top management and even the financial types. It has become a key performance indicator, recognizing that change comes from paying attention to the details. OEE is no longer owned by maintenance and operations; it is now capable of tying purchasing, finance and human relations to the production floor through understanding of costs driven by the OEE factors.&lt;/p&gt;
+&lt;p&gt;
+	Think about it. How hard is it for you to justify an increase in maintenance resources? I&amp;rsquo;ll let you ponder its practicality. For one thing, it becomes a metric understood and useful to all direct and indirect plant functions.&lt;/p&gt;&lt;img src="http://feeds.feedburner.com/~r/noria/reliableplant/tags/overall_equipment_effectiveness/~4/mlvuRhQKLso" height="1" width="1" alt=""/&gt;</description>
+            <a10:updated>2012-03-30T08:36:01-05:00</a10:updated>
+            <a10:content type="text/html" src="http://reliableplant.com/Read/28827/overall-equipment-effectiveness" />
+        <feedburner:origLink>http://reliableplant.com/Read/28827/overall-equipment-effectiveness</feedburner:origLink></item>
+        <item>
+            <guid isPermaLink="false">tag:noria.com,2010-06-10:publishing:magazines:rp:6defde4c-c2d1-47b0-8ab6-a01d009050b5</guid>
+            <link>http://feedproxy.google.com/~r/noria/reliableplant/tags/overall_equipment_effectiveness/~3/WlzpUB-VpN8/equipment-factors-equal</link>
+            <a10:author>
+                <a10:name>Rex M. Gallaher</a10:name>
+            </a10:author>
+            <category>Web Exclusives</category>
+            <category>Articles</category>
+            <title>Are All Equipment Factors Truly Equal? </title>
+            <description>&lt;p&gt;
+	The traditional formula for overall equipment effectiveness (OEE) &amp;mdash; including speed, quality and uptime &amp;mdash; treated all three factors as equals and OEE as a measure of equipment effectiveness over a 24-hour period, assuming 24 hours was the required performance window.&lt;/p&gt;
+&lt;p&gt;
+	Most companies have refined the calculation to fit the actual required performance window. Robert Williamson&amp;rsquo;s example was the window when a racecar was required to operate at peak performance. In your plant, it may be continuous operation for only one shift.&lt;/p&gt;
+&lt;p&gt;
+	&lt;img alt="" src="http://media.noria.com/sites/Uploads/2012/3/13/cbccdd8b-0730-4831-ae23-54875c359ee7_Are all Factors Equal.jpeg" style="margin: 7px; width: 300px; height: 200px; float: left;" /&gt;The metric began to be useful as a plant-floor performance measurement and, from analyzing the three factors, an analytical tool to determine improvement opportunities. All three factors are really at the mercy of the operator, who is the most important person in the plant when equipment is needed.&lt;/p&gt;
+&lt;p&gt;
+	I submit that all three factors (speed, quality and uptime) are not necessarily one-to-one linear correlations. Does a percentage increase in speed maintain the same quality or a proportional decrease in quality? How about the relationship to downtime?&lt;/p&gt;
+&lt;p&gt;
+	More importantly,&amp;nbsp;are the savings associated with a 1-percent increase in speed offset with the reprocessing costs of, say, a 1-percent decrease in quality? I found this factored into the formula by a plant that penalized the formula seven-fold for each percentage change in quality. In my question about the 1 percent, they had figured the quality-cost impact to be equal to seven times the savings of a 1-percent increase in speed. Therefore, the OEE formula was impacted by a quality change of 7 percent for each actual 1 percent in quality. Quality was indeed &amp;ldquo;job one.&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;
+	Have you looked at the optimum OEE factors for your equipment in terms of costs associated with increases and decreases in the factors? In other words, do your total processing costs necessarily go down with an increase in OEE?&lt;/p&gt;
+&lt;p&gt;
+	I have come to the conclusion that all involved must understand the impact of any change in an OEE factor in dollar terms. OEE for the sake of OEE can bankrupt you. Decide on the range of performance of each OEE factor that can be tolerated, and educate all concerned on how that was determined and the costs to the process from changes outside those ranges: rework, scrap, upstream and downstream performance, maintenance, consumables, work hours, overtime, etc.&lt;/p&gt;
+&lt;p&gt;
+	The biggest loss of continued games with OEE is the trust, confidence and morale of the employees. They are not blind to the effects of &amp;ldquo;increase the speed by 10 percent and we&amp;rsquo;ll get out quota tonight.&amp;rdquo;&lt;/p&gt;&lt;img src="http://feeds.feedburner.com/~r/noria/reliableplant/tags/overall_equipment_effectiveness/~4/WlzpUB-VpN8" height="1" width="1" alt=""/&gt;</description>
+            <a10:updated>2012-03-23T08:45:23-05:00</a10:updated>
+            <a10:content type="text/html" src="http://reliableplant.com/Read/28816/equipment-factors-equal" />
+        <feedburner:origLink>http://reliableplant.com/Read/28816/equipment-factors-equal</feedburner:origLink></item>
+        <item>
+            <guid isPermaLink="false">tag:noria.com,2010-06-10:publishing:magazines:rp:550d7276-dc08-4453-8cc0-a00f00903c48</guid>
+            <link>http://feedproxy.google.com/~r/noria/reliableplant/tags/overall_equipment_effectiveness/~3/gNUtJHO1oq0/do-before-plant-closure</link>
+            <a10:author>
+                <a10:name>Bernie Price</a10:name>
+            </a10:author>
+            <category>Web Exclusives</category>
+            <category>Articles</category>
+            <title>What You Should Do Before a Plant Closure</title>
+            <description>&lt;p&gt;
+	It&amp;rsquo;s happened &amp;hellip; the announcement that a major portion of your facility is being closed for the foreseeable future. What do you do next?&lt;/p&gt;
+&lt;ol&gt;
+	&lt;li&gt;
+		Accept the news that your plant is facing an impending plant shutdown. It is not necessarily a &amp;ldquo;knockout&amp;rdquo; for the plant or your career. Remember, in the often uneven battleground called the global marketplace, just about anything can happen. Be ready to get up and start fighting again.&lt;/li&gt;
+	&lt;li&gt;
+		Designate responsibility to an individual for writing a list of possible scenarios. The individual should have enough clout to implement the chosen strategy, if necessary.&lt;/li&gt;
+	&lt;li&gt;
+		Go to the top of the company and request that sufficient funds be made available to execute the initial shutdown and preservation strategy.&lt;/li&gt;
+	&lt;li&gt;
+		Choose the right type of long-term equipment caretakers. Those selected are often security or ex-supervisory types rather than experienced operator/craftsmen with intimate knowledge of the equipment.&lt;/li&gt;
+	&lt;li&gt;
+		Don&amp;rsquo;t allow critical components to be pirated (stolen for use elsewhere) if part of a larger plant.&lt;/li&gt;
+	&lt;li&gt;
+		Remove all process materials. Even innocuous materials left in the unit in the long term will likely cost five times more than at the initial shutdown. The current operations people are familiar with all the hazards.&lt;/li&gt;
+	&lt;li&gt;
+		Seek expert advice on equipment preservation resulting in not getting the best bang for the buck.&lt;/li&gt;
+	&lt;li&gt;
+		Involve the hourly workforce in the shutdown and mothball plan. Almost unbelievably, our recent experience has been that if the decision to shut down at some future date has been made, then involving operators and mechanics can very much improve both the quality of the shutdown plan and its execution.&lt;/li&gt;
+	&lt;li&gt;
+		Not only record but clearly and physically mark what has been done to preserve the item of equipment during deactivation. The reactivating crew (probably a different group of people) can easily miss that a filter, line blind, internal component, etc., has been removed or added with serious consequences at a future start-up.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;
+	In our experience, idle plants with small crews operating at a very relaxed tempo can be dangerous places. Make sure safety programs and routine audits are kept active to avoid accidents.&lt;/p&gt;
+&lt;p&gt;
+	Just as with any critical situation, a long-term strategic approach coupled with a series of medium-term tactics and detailed plans are needed. You should also consider how long the shutdown is probably going to last (guesstimate) and whether the plant will most likely be restarted, sold as a complete unit or sold piecemeal.&lt;/p&gt;
+&lt;p&gt;
+	Examine every item or class of equipment individually and write a specific initial storage/mothball technique plus a methodology for ongoing maintenance.&lt;/p&gt;
+&lt;p&gt;
+	For the purposes of this article, let&amp;rsquo;s consider an item of equipment or a whole plant that might restart as early as six to nine months but could also be several years.&lt;/p&gt;
+&lt;p&gt;
+	Unused plants and equipment that are properly prepared for shutdown and left in fairly good condition can retain much of their value. However, if a plant is left &amp;ldquo;as is&amp;rdquo; and allowed to deteriorate, as is normally the case, much of it can be fit only as scrap in just a matter of months. Engaging in a well-planned process of deactivation/mothballing can be worthwhile either way, whether it should ever be reactivated or just sold for its second-hand value at some future point.&lt;/p&gt;
+&lt;h2&gt;
+	Materials and Equipment You Will Need&lt;/h2&gt;
+&lt;p&gt;
+	Having a clear view of how the constant foes of galvanic/bio corrosion, mold, mildew, etc., can be mitigated if not defeated is essential. Although much will depend on local conditions, the wetter and colder situations are much more challenging in terms of handling humidity, while blowing dust is an issue for those in the high desert regions. For this article, we will consider a central United States or European location.&lt;/p&gt;
+&lt;p&gt;
+	A useful analogy in developing a strategy is to compare what it takes to maintain fire. In the case of fire, there are three essential legs: heat, a fuel source and oxygen. Likewise, age-related deterioration involves a driving force (such as galvanic action), a conducting medium (electrolyte) and oxygen. The fundamental approach to stopping or slowing this age-related deterioration is to remove one or more of the three legs.&lt;/p&gt;
+&lt;p&gt;
+	In simple terms, we aim to do the following:&lt;/p&gt;
+&lt;ul&gt;
+	&lt;li&gt;
+		Separate dissimilar metals.&lt;/li&gt;
+	&lt;li&gt;
+		Protect surfaces that could be attacked, even with a covering of only a few molecules thick.&lt;/li&gt;
+	&lt;li&gt;
+		Dry out or remove the conducting medium (electrolyte &amp;mdash; air or gas). Corrosion cannot occur when parts are stored in environments where the relative humidity is held below 40 percent.&lt;/li&gt;
+	&lt;li&gt;
+		Remove any oxygen or sources of chemical or biological attack.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;
+	The materials we can use are:&lt;/p&gt;
+&lt;ul&gt;
+	&lt;li&gt;
+		&lt;strong&gt;Liquid protective waxes and liquid polyvinyl chloride (PVC) coating &amp;mdash; &lt;/strong&gt;These can be sprayed on any clean, dry surface to protect them. Wherever it is applied, PVC will form a tough, flexible, waterproof skin that will withstand the extremes of temperature, thermal shock, differential substrate movement and impingement even when sprayed on webbing to form a cocoon.&lt;/li&gt;
+	&lt;li&gt;
+		&lt;strong&gt;Volatile corrosion inhibitors (VCIs) &amp;mdash; &lt;/strong&gt;These generate protective vapors even at room temperatures. They come in a number of convenient forms, including time-release vaporizers, sprays, plastic bags and films, powders, oil additives and coatings. They are adsorbed onto the metallic surfaces of the equipment (just a few molecules thick), where they can prevent corrosion for up to two years. While most VCIs are environmentally friendly and create no safety hazards for employees, there are some that are suspected of being harmful. Most contain no toxic substances, such as nitrates or chromates. (Note: Volatile organic compounds should not be used in combination with a desiccant.)&lt;/li&gt;
+	&lt;li&gt;
+		&lt;strong&gt;Vapor space inhibitor (VSI) &amp;mdash; &lt;/strong&gt;This is an oily concentrate that can be added to lubricating oil systems (internal combustion engines, etc.) when equipment is not going to be completely filled.&lt;/li&gt;
+	&lt;li&gt;
+		&lt;strong&gt;Heat-shrinkable plastic films &amp;mdash; &lt;/strong&gt;These are ideal for enclosing individual machines that have been cleaned and dried and have internal desiccants added.&lt;/li&gt;
+	&lt;li&gt;
+		&lt;strong&gt;VCI-covered polythene films &amp;mdash; &lt;/strong&gt;These are used to wrap individual smaller components.&lt;/li&gt;
+	&lt;li&gt;
+		&lt;strong&gt;Chemical oxygen scavengers &amp;mdash; &lt;/strong&gt;These are frequently added to fresh water used to displace more corrosive liquid in systems that can&amp;rsquo;t be effectively cleaned or dried out.&lt;/li&gt;
+	&lt;li&gt;
+		&lt;strong&gt;Chemical inhibitors &amp;mdash; &lt;/strong&gt;These are added to liquids and chemicals and are designed to remove unwanted products while preferentially inhibiting their attack on the body of the container. (Antifreeze sometimes used in this process contains them.)&lt;/li&gt;
+	&lt;li&gt;
+		&lt;strong&gt;Desiccants &amp;mdash; &lt;/strong&gt;These include numerous substances (solids) that absorb water from gases (air) or liquids.&lt;/li&gt;
+	&lt;li&gt;
+		&lt;strong&gt;Biocides &amp;mdash; &lt;/strong&gt;These are used to prevent microbial growths in water and fuels such as gasoline and diesel fuel.&lt;/li&gt;
+	&lt;li&gt;
+		&lt;strong&gt;Light waxes &amp;mdash; &lt;/strong&gt;These are used as surface protectors for metals.&lt;/li&gt;
+	&lt;li&gt;
+		&lt;strong&gt;Sacrificial Anodes &amp;mdash; &lt;/strong&gt;These are used in tanks that cannot be drained of their contents.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;
+	The primary pieces of equipment are dehumidifiers. These are available in two forms: those that work on the refrigeration principle and those that use two-cycle rotary (wheel) heated desiccant absorption.&lt;/p&gt;
+&lt;h2&gt;
+	Strategies by Equipment Class&lt;/h2&gt;
+&lt;p&gt;
+	Before considering individual techniques, make a best guess of the duration and whether it is going to be an &amp;ldquo;attended monitored&amp;rdquo; lay-up or a &amp;ldquo;walk-away&amp;rdquo; lay-up. This article is simply a guide and is not intended to be totally comprehensive and detailed.&lt;/p&gt;
+&lt;h2&gt;
+	Tanks, Pressure Vessels and Pipework&lt;/h2&gt;
+&lt;p&gt;
+	It is essential that tanks, pressure vessels and pipework be left as clean and dry as possible. Insert line blinds to create manageable zones that can be slightly pressurized (0.5 psig+) using nitrogen or dry air. Include some small flow and arrange for some simple telltale mechanism to show pressure flow and the level of humidity (indicator cards). For large enclosures, use a commercial dehumidifier of an appropriate capacity. For vessels, tanks and containments that must be kept full of liquid, some form of oxygen scavenger or anti-biological growth chemical can be used (see boilers). If a pipework system contains any traps, have its internals removed and clear all strainers.&lt;/p&gt;
+&lt;h2&gt;
+	Boilers&lt;/h2&gt;
+&lt;p&gt;
+	Boilers can be laid up using either the long-term dry method or the hydrazine wet lay-up method, which involves leaving the wet side (boiler, economizer and super heater) full of feed-treated water. The feed water is dosed with 15 percent hydrazine and then pH-adjusted to raise the alkalinity to a minimum pH of 8.3. The fire side is supplied with heated air, with desiccant as a backup. Both water-side and fire-side points should have new gaskets, except for furnace hot-air entry inspection and exit points.&lt;/p&gt;
+&lt;h2&gt;
+	Pumps, Engines, Compressors and Machinery&lt;/h2&gt;
+&lt;p&gt;
+	To minimize internal corrosion, close off all vents and openings, and completely fill the casing with the manufacturer&amp;rsquo;s recommended lubricant. Alternatively, add a volatile corrosion inhibitor in the correct proportion to the lubricating oil. For large compressors, turbines, etc., first centrifuge/circulate the existing oil using a portable filtration cart through water-absorbing filter elements to remove any free water. For diesel and gasoline engines, drain the fuel systems and add biocide to the remaining fuel. To prevent external corrosion, if unpainted, one of the recommended spray-on coatings should be used (either a light wax or liquid PVC).&lt;/p&gt;
+&lt;h2&gt;
+	Instruments/Controls&lt;/h2&gt;
+&lt;p&gt;
+	Maintaining the driest possible conditions for both electronics and external field devices, including sensors, transmitters and valves, can be achieved by strategic placement of desiccant packages and sealing the enclosures. This should be supplemented by placing small containers of VCI powder wherever possible. These will not adversely affect electronics. Instruments that normally would be in contact with the process materials should be removed, cleaned, protected and marked for immediate local storage.&lt;/p&gt;
+&lt;h2&gt;
+	Electrical Enclosures&lt;/h2&gt;
+&lt;p&gt;
+	Seal and insert bags or wraps of desiccants and containers of volatile corrosion inhibitors. Alternatively, heat using individual strip or built-in heaters.&lt;/p&gt;
+&lt;h2&gt;
+	Motors and Generators&lt;/h2&gt;
+&lt;p&gt;
+	Clean the exterior, grease and apply a protective covering. If completely sealed, add packets of desiccant. Lift carbon brushes from commutators/slip rings. Where sleeve-type bearings are fitted, a VSI concentrate should be added to the lubrication system.&lt;/p&gt;
+&lt;h2&gt;
+	Exercising and Monitoring&lt;/h2&gt;
+&lt;p&gt;
+	Depending on the time involved, it will be necessary to periodically exercise equipment by rotating it several times and leaving it at a different (90-degree) angle. Where humidity controls have been set, these need at least weekly monitoring. Where chemical controls are used, these should be checked every three months. Periodic monitoring of motor/generator internal resistance, as well as tank oxygen levels and humidity levels, is necessary for long-term lay-up.&lt;/p&gt;
+&lt;h2&gt;
+	Auxiliaries&lt;/h2&gt;
+&lt;p&gt;
+	In most cases, various fire-protection systems and alarms still need to be maintained and powered up. Fires are common in dried-out cooling towers. If batteries are normally used, disconnect them and smear the terminals with petroleum jelly. Vented-type lead-acid batteries should first be fully charged, then drained and flushed with distilled water.&lt;/p&gt;
+&lt;h2&gt;
+	A Final Note&lt;/h2&gt;
+&lt;p&gt;
+	A recent discussion with two major plant-dismantling/second-hand equipment vendors revealed that currently there are very few people looking for used equipment, and many idle plants are being offered for sale. They reported that when the decision to shut down comes, most companies remove anything that could present an immediate danger but essentially close the doors and walk away from millions of dollars&amp;rsquo; worth of equipment.&amp;nbsp;&lt;/p&gt;&lt;img src="http://feeds.feedburner.com/~r/noria/reliableplant/tags/overall_equipment_effectiveness/~4/gNUtJHO1oq0" height="1" width="1" alt=""/&gt;</description>
+            <a10:updated>2012-03-09T08:45:06-06:00</a10:updated>
+            <a10:content type="text/html" src="http://reliableplant.com/Read/28796/do-before-plant-closure" />
+        <feedburner:origLink>http://reliableplant.com/Read/28796/do-before-plant-closure</feedburner:origLink></item>
+        <item>
+            <guid isPermaLink="false">tag:noria.com,2010-06-10:publishing:magazines:rp:997ed5ed-26fb-4a65-9876-9fea008e7305</guid>
+            <link>http://feedproxy.google.com/~r/noria/reliableplant/tags/overall_equipment_effectiveness/~3/7mc6hMx1Fy0/performance-based-metrics</link>
+            <a10:author>
+                <a10:name>Josh Rothenberg</a10:name>
+            </a10:author>
+            <category>Web Exclusives</category>
+            <category>Articles</category>
+            <title>How to Use Key Performance-based Metrics </title>
+            <description>&lt;p&gt;
+	In today&amp;rsquo;s competitive global environment, we are constantly being asked to do more with less. Now more than ever, companies are asking their employees to become more productive, more efficient and more &amp;ldquo;lean.&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;
+	Strategic planning, value stream mapping, reliability engineering, loss elimination &amp;ndash; these phrases have become popular from the boardroom to the shop floor. But where does their value really lie? How do we make decisions that uncover value, eliminate loss and allow for proper strategic planning for the future?&lt;/p&gt;
+&lt;p&gt;
+	The answer lies not in the decisions we make but in the data we use to make those decisions. Good, strong data is key to making good, strong decisions. We are all familiar with the axiom of &amp;ldquo;garbage in, garbage out.&amp;rdquo; So what kind of data should we use? What metrics give us the best snapshot of our current levels of performance?&lt;/p&gt;
+&lt;p&gt;
+	Asset utilization (AU) and overall equipment effectiveness (OEE) are key performance-based metrics that, when calculated and communicated properly, allow for effective facility management and provide sound backing for potentially difficult business decisions to be made. However, much confusion lies in their definition and understanding when and where to use them.&lt;/p&gt;
+&lt;p&gt;
+	AU is defined as: availability x rate x quality&lt;br /&gt;
+	OEE is defined as: uptime x rate x quality&lt;br /&gt;
+	As you can see, AU and OEE are similar &amp;ndash; both calculations for rate and quality are the same, and are defined as follows:&lt;br /&gt;
+	&lt;br /&gt;
+	&amp;nbsp;&lt;img alt="" src="http://media.noria.com/sites/Uploads/2012/1/23/9427c4a5-6466-4d8e-a2bf-7bef27e61365_AU and OEE image 1.jpeg" style="width: 550px; height: 96px;" /&gt;&lt;/p&gt;
+&lt;p&gt;
+	&lt;em&gt;where average rate is the speed or efficiency of the system under analysis over a given time period.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;
+	The best demonstrated or design rate is determined by the nameplate capacity of the system or the best demonstrated rate recorded. I prefer to use the best demonstrated rate, as empirical data is a better model of the system in question. A 100-percent rate calculation would signal that the system is operating consistently at its maximum demonstrated speed.&lt;/p&gt;
+&lt;p&gt;
+	&lt;img alt="" src="http://media.noria.com/sites/Uploads/2012/1/23/fc289d33-e998-459c-bcc8-01dc1ae596a1_AU and OEE image 2.jpeg" style="width: 550px; height: 96px;" /&gt;&lt;/p&gt;
+&lt;p&gt;
+	&lt;em&gt;where first pass units is defined as the good units produced over a certain time period that meet customer specifications.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;
+	These &amp;ldquo;quality&amp;rdquo; units are compared to the total units produced, including those that do not meet customer specifications. A 100-percent quality calculation would signify no scrap or rework in the process.&lt;/p&gt;
+&lt;p&gt;
+	Based on the above formulas, you can easily see that the difference between OEE and AU lies in how you compare availability and uptime. So what is the difference? Availability and uptime are defined as follows:&lt;img alt="" src="http://media.noria.com/sites/Uploads/2012/1/23/dc027bfb-15b2-4a86-be25-4ee59bf4f14d_AU and OEE image 3.jpeg" style="width: 550px; height: 151px;" /&gt;&lt;/p&gt;
+&lt;p&gt;
+	&lt;em&gt;where operating time is defined as the amount of time that the system is actually operating.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;
+	Calendar time is based on the 24/7/365 schedule as we know it. Scheduled time is defined as the amount of time the system under analysis was planned or scheduled to operate. Therefore, if I operate my system for six hours on one eight-hour shift during a given day, my uptime is 6/8 or 75 percent, while my availability is 6/24 or 25 percent. That is quite a difference.&lt;/p&gt;
+&lt;p&gt;
+	Typically, OEE is used to understand how well systems or assets perform based on current business demands and production schedules. AU allows for a better understanding of how well that system or asset is currently utilized and allows insight for future business planning by calculating what type of production could be achieved.&lt;/p&gt;
+&lt;p&gt;
+	In some industries (petroleum, specialty chemical, etc.), scheduled time is equal to calendar time. In this case, availability equals uptime, so OEE and AU are equal. This scenario is similar to how a square is a rectangle, but a rectangle isn&amp;rsquo;t a square.&lt;/p&gt;
+&lt;p&gt;
+	It is important to understand the terminology. My background in Six Sigma differentiated between availability and uptime for AU and OEE, respectively. Lean terminology defines OEE as the product of availability x rate x quality, with availability defined in the same way uptime is defined (above). So which is correct? The truth is it doesn&amp;rsquo;t matter. What is important is to clearly define what you and your organization are trying to capture, agree on common terminology to allow for clear and concise discussion, and determine the best way to capture the needed data.&lt;/p&gt;
+&lt;p&gt;
+	As always, the devil is in the details. When setting up data-capture systems to determine rate and quality and uptime/availability calculations, take care to ensure consistent measurement and data validity.&lt;/p&gt;
+&lt;p&gt;
+	In summary, AU and OEE can be defined as:&lt;/p&gt;
+&lt;p&gt;
+	&lt;img alt="" src="http://media.noria.com/sites/Uploads/2012/1/23/fc89fb18-130d-406f-a0c2-695af5b34c6e_AU and OEE image 4.jpeg" style="width: 646px; height: 237px;" /&gt;&lt;/p&gt;
+&lt;p&gt;
+	&lt;strong&gt;&lt;u&gt;About the Author&lt;/u&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;
+	&lt;em&gt;A Life Cycle Engineering reliability subject matter expert (SME) and a skilled Six Sigma Black Belt, Josh Rothenberg utilizes the tools learned in the tire manufacturing, specialty chemical and semi-conductor industries to help facilitate change. With experience in CMMS, fixed/rotating equipment, logistics, planning/scheduling and a talent for fostering interpersonal relationships, Josh brings a unique perspective to reliability-centered maintenance that fosters the growth and development of cross-functional teams. You can reach Josh at &lt;/em&gt;&lt;a href="mailto:jrothenberg@lce.com"&gt;&lt;strong&gt;&lt;em&gt;jrothenberg@LCE.com&lt;/em&gt;&lt;/strong&gt;&lt;/a&gt;&lt;em&gt;. &lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;
+	&lt;br /&gt;
+	&lt;br /&gt;
+	&lt;br /&gt;
+	&lt;br /&gt;
+	&amp;nbsp;&lt;/p&gt;&lt;img src="http://feeds.feedburner.com/~r/noria/reliableplant/tags/overall_equipment_effectiveness/~4/7mc6hMx1Fy0" height="1" width="1" alt=""/&gt;</description>
+            <a10:updated>2012-02-01T08:38:35-06:00</a10:updated>
+            <a10:content type="text/html" src="http://reliableplant.com/Read/28729/performance-based-metrics" />
+        <feedburner:origLink>http://reliableplant.com/Read/28729/performance-based-metrics</feedburner:origLink></item>
+        <item>
+            <guid isPermaLink="false">tag:noria.com,2010-06-10:publishing:magazines:rp:2839a9da-8795-4b18-92f0-9ee60096af7b</guid>
+            <link>http://feedproxy.google.com/~r/noria/reliableplant/tags/overall_equipment_effectiveness/~3/7HwL8cGG9wM/Lubricant%20Market%20Expands%20to%20Wind%20Turbines</link>
+            <a10:author>
+                <a10:name>Noria Corporation</a10:name>
+            </a10:author>
+            <category>Industry News</category>
+            <category>Articles</category>
+            <title>Lubricant Market Expands to Wind Turbines</title>
+            <description>&lt;p&gt;
+	Global lubricant demand is forecast to reach 40.5 million metric tons in 2012. According to a recent study, the market is estimated at $48.8 billion. Companies in this booming market are expanding their lubricant lines to include those for more industries such as wind. Wind equipment requires specialized lubricants.&lt;/p&gt;
+&lt;p&gt;
+	For instance, they may require certain blends of base oil and additives to cover different lubrication requirements of individual bearings in wind-power stations. One trend has been toward reducing maintenance costs and simplifying lubrication routines in the nacelle. Also, as wind turbines are built higher and in more extreme conditions, the trends is toward using low-viscosity lubricants to address cold weather effects, produce more power, and decrease micropitting.&lt;/p&gt;
+&lt;p&gt;
+	Also, engineers are using specialty synthetics instead of mineral oils, along with particle counters to control contamination.&lt;/p&gt;
+&lt;p&gt;
+	To reduce maintenance costs and simplify lubrication in the nacelle, operators are using one lubricant for all bearings.&lt;/p&gt;
+&lt;p&gt;
+	&amp;ldquo;Repairs on wind turbines can be costly, difficult, and dangerous,&amp;rdquo; says Jesse Dilk, wind industry manager at Kl&amp;uuml;ber. &amp;ldquo;Therefore, it is vital to use high-quality components at every opportunity. Bearings, seals, and lubricants are essential design elements when analyzing mechanical systems. Optimizing these elements leads to a more efficient, reliable machine design.&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;
+	For example, Kl&amp;uuml;ber&amp;rsquo;s high-performance grease has a blend of base oil and additives to cover different lubrication requirements of individual bearings. Another adhesive grease lubricates gears in pitch and yaw drives, while reducing the risk of migration inside the nacelle and onto the tower.&lt;/p&gt;
+&lt;p&gt;
+	Also, the industry has moved toward using synthetics instead of mineral oils to minimize maintenance. &amp;ldquo;The lubricants tend to be well balanced, and have been widely tested in laboratory rigs and in the field,&amp;rdquo; Dilk says. &amp;ldquo;The preference for synthetics include high wear protection, higher efficiency from lower friction, and a wide operating temperature range. Specialty synthetic lubricants typically outperform mineral-based versions under the same conditions. Synthetics are further driven by a requirement for extended lubrication intervals.&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;
+	Exxon Mobil Corp. engineers also say synthetic gear oil protects against micropitting, scuffing wear, and corrosion. Synthetic oils function over a wide temperature range and resist deposit formation. Furthermore, many new lubricants and greases extend oil change intervals from a matter of months to years, which significantly reduces time and cost of maintenance.&lt;/p&gt;
+&lt;p&gt;
+	Shell Lubricants also says it recognizes the significance of reduced reliability and demands of operating wind farms in remote locations (on and offshore) and in harsh climates. Their engineers have developed a variety of lubricants to withstand extremely low temperatures and protect against micropitting and bearing wear. Another trend is to monitor the oil conditions, especially in gearboxes. Shell, for example, offers an oil-analysis program that can help operators monitor the condition of their lubricant along with equipment that helps avoid unscheduled downtime.&lt;/p&gt;
+&lt;p&gt;
+	Finally, particle counters, such as those from Parker Hannifin Corp., provide contamination control for lubricants. Such units independently monitor system contamination trends, and give early warnings. LEDs or digital displays indicate low, medium, and high contamination levels. Such advancements, keep oil clean and increase its lifespan.&lt;/p&gt;&lt;img src="http://feeds.feedburner.com/~r/noria/reliableplant/tags/overall_equipment_effectiveness/~4/7HwL8cGG9wM" height="1" width="1" alt=""/&gt;</description>
+            <a10:updated>2011-05-17T09:08:35-05:00</a10:updated>
+            <a10:content type="text/html" src="http://reliableplant.com/Read/28455/Lubricant%20Market%20Expands%20to%20Wind%20Turbines" />
+        <feedburner:origLink>http://reliableplant.com/Read/28455/Lubricant%20Market%20Expands%20to%20Wind%20Turbines</feedburner:origLink></item>
+        <item>
+            <guid isPermaLink="false">tag:noria.com,2010-06-10:publishing:magazines:rp:cb37715c-e732-453c-a4f5-9ed800918550</guid>
+            <link>http://feedproxy.google.com/~r/noria/reliableplant/tags/overall_equipment_effectiveness/~3/9Vlg9Mx3bFg/New%20Conveyor%20Lubricant%20Released%20by%20Ecolab</link>
+            <a10:author>
+                <a10:name>Noria Corporation</a10:name>
+            </a10:author>
+            <category>Industry News</category>
+            <category>Articles</category>
+            <title>New Conveyor Lubricant Released by Ecolab</title>
+            <description>&lt;p&gt;
+	Ecolab Inc. recently introduced DryExx&amp;reg; GF, a new conveyor lubricant specifically designed for use with glass bottles on steel conveyor belts. According to Ecolab, DryExx GF saves up to 80 percent of the water used when compared to traditional wet lubricants but still achieves the highest possible hygiene levels and does not compromise efficiency.&lt;/p&gt;
+&lt;p&gt;
+	The DryExx GF formula contains an active lubricating substance which creates a protective film on the belts. This results in reduced friction, less abrasion and consequently eliminates the need to use large amounts of water to continually wash any abrasion off the belts.&lt;/p&gt;
+&lt;p&gt;
+	&amp;quot;The introduction of DryExx GF once again demonstrates Ecolab&amp;#39;s leadership in the field of innovative conveyor lubrication technologies and our focus on helping our customers run more sustainable operations,&amp;quot; said Andreas Weilinghoff, general manager of Ecolab Food &amp;amp; Beverage in Europe. &amp;quot;The use of dry lubricants combines the highest possible water savings with hygienic and efficient technology - all cornerstone features of Ecolab&amp;#39;s products within this industry.&amp;quot;&lt;/p&gt;
+&lt;p&gt;
+	With sales of $6 billion and more than 26,000 associates, Ecolab Inc. (NYSE: ECL) is the global leader in cleaning, sanitizing, food safety and infection prevention products and services. Ecolab delivers comprehensive programs and services to foodservice, food and beverage processing, healthcare, and hospitality markets in more than 160 countries. More news and information is available at &lt;a href="http://www.ecolab.com"&gt;www.ecolab.com&lt;/a&gt;&lt;/p&gt;&lt;img src="http://feeds.feedburner.com/~r/noria/reliableplant/tags/overall_equipment_effectiveness/~4/9Vlg9Mx3bFg" height="1" width="1" alt=""/&gt;</description>
+            <a10:updated>2011-05-03T08:49:47-05:00</a10:updated>
+            <a10:content type="text/html" src="http://reliableplant.com/Read/28446/New%20Conveyor%20Lubricant%20Released%20by%20Ecolab" />
+        <feedburner:origLink>http://reliableplant.com/Read/28446/New%20Conveyor%20Lubricant%20Released%20by%20Ecolab</feedburner:origLink></item>
+        <item>
+            <guid isPermaLink="false">tag:noria.com,2010-06-10:publishing:magazines:rp:499727e8-039b-46ce-8e8e-9ed000f7ebdd</guid>
+            <link>http://feedproxy.google.com/~r/noria/reliableplant/tags/overall_equipment_effectiveness/~3/XG9Riw3ORic/Oil%20analysis%20provider%20unveils%20new%20services</link>
+            <a10:author>
+                <a10:name>Insight Services</a10:name>
+            </a10:author>
+            <category>Industry News</category>
+            <category>Articles</category>
+            <title>Oil analysis provider unveils new services</title>
+            <description>&lt;p&gt;
+	Insight Services, Inc., an independent provider of industrial oil analysis services located in Cleveland, Ohio, has announced the details of its brand TESTOIL, which represents the company&amp;rsquo;s full-service oil testing laboratory services. According to Insight Services, TESTOIL offers a comprehensive range of oil analysis testing services that help reliability engineers save money by alerting them of potential machine problems before catastrophic failure occurs.&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;
+	&amp;ldquo;Insight Services has been providing exceptional oil analysis services for nearly 25 years and the TESTOIL brand continues that tradition,&amp;rdquo; explained Dan Richards, president and CEO of Insight Services. &amp;ldquo;We have always kept our promise of providing customers with same day turnaround on test results and will continue to provide customers with the highest caliber of laboratory expertise available under the TESTOIL brand.&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;
+	At &lt;a href="http://www.testoil.com/"&gt;www.testoil.com&lt;/a&gt;, customers can access report retrieval, database management, management reporting, supply procurement and more. All of their oil analysis information is stored and accessible from the customer&amp;rsquo;s own password protected at the Web site.&lt;/p&gt;
+&lt;p&gt;
+	Insight Services is ISO/IEC 17025:2005 accredited, which demonstrates TESTOIL&amp;rsquo;s technical competence for the methods in its scope, and for the operation and effectiveness of its standardized best practice in oil testing techniques.&amp;nbsp; TESTOIL also has a diagnostic technology that assists machine condition analysts in making equipment and lubrication condition assessments.&lt;/p&gt;
+&lt;p&gt;
+	&amp;ldquo;We are the recognized leader in the industrial oil analysis market and as we expand our marketing the TESTOIL brand becomes a logical evolution of Insight Services,&amp;rdquo; said Michael Barrett, vice president of sales and marketing.&lt;/p&gt;
+&lt;p&gt;
+	In addition to oil testing, Insight Services offers a variety of services including on-site lubrication programs audits, lubrication and oil analysis training and on-site oil sample collection services.&lt;/p&gt;
+&lt;p&gt;
+	For more information, visit &lt;a href="http://www.testoil.com/"&gt;www.testoil.com&lt;/a&gt;.&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;
+	&lt;strong&gt;About Insight Services, Inc.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;
+	Insight Services Inc. opened its doors in 1988 to provide Ferrographic Analysis to industry.&amp;nbsp; Since that time we have greatly expanded our oil testing laboratory in instrumentation, technology and data interpretation capabilities.&amp;nbsp; Today, TESTOIL employs a sophisticated diagnostic technology to assist our machine condition analysts in making equipment and lubrication condition assessments.&lt;/p&gt;&lt;img src="http://feeds.feedburner.com/~r/noria/reliableplant/tags/overall_equipment_effectiveness/~4/XG9Riw3ORic" height="1" width="1" alt=""/&gt;</description>
+            <a10:updated>2011-04-25T15:02:37-05:00</a10:updated>
+            <a10:content type="text/html" src="http://reliableplant.com/Read/28440/Oil%20analysis%20provider%20unveils%20new%20services" />
+        <feedburner:origLink>http://reliableplant.com/Read/28440/Oil%20analysis%20provider%20unveils%20new%20services</feedburner:origLink></item>
+        <item>
+            <guid isPermaLink="false">tag:noria.com,2010-06-10:publishing:magazines:rp:5ecbe31a-2a5f-4fbb-92c8-9ec300ea8e49</guid>
+            <link>http://feedproxy.google.com/~r/noria/reliableplant/tags/overall_equipment_effectiveness/~3/-5K8ONq6owg/Expanded%20Lubrication%20Oil%20Monitoring%20for%20Gas%20Compressors</link>
+            <a10:author>
+                <a10:name>Cambridge Viscosity</a10:name>
+            </a10:author>
+            <category>Industry News</category>
+            <category>Articles</category>
+            <title>Expanded Lubrication Oil Monitoring for Gas Compressors</title>
+            <description>&lt;p&gt;
+	&lt;font size="3"&gt;Boston, MA &amp;ndash; Protecting their large hydrogen screw compressors while assuring refinery uptime, the largest US Gulf Coast refiner is adding in-line lube &lt;/font&gt;&lt;font color="#0000ff" size="3"&gt;&lt;font color="#0000ff" size="3"&gt;oil viscometers &lt;/font&gt;&lt;/font&gt;&lt;font size="3"&gt;to all their new and existing units. The sensors will be used to provide real-time continuous monitoring of the compressor bearing lubrication fluid throughout equipment operations. A lead engineer at this facility says, &amp;quot;Despite using separators, the lubricant can become diluted by gas carry-over or contamination. If left unchecked, this can cause problems, especially during subsequent start-ups.&amp;quot; &lt;/font&gt;&lt;/p&gt;
+&lt;p&gt;
+	&lt;font size="3"&gt;Cambridge Viscosity President Robert Kasameyer says that &amp;quot;when the compressor is running, the lubrication oil is hot and the entrained gas remains in gaseous phase. When the compressor is down, the lubrication oil cools and some of this gas can become liquid, which causes the lube oil viscosity to drop. Then, when the equipment is re-started but before it heats up, the equipment is operating with inadequate lubrication, which can be a disaster! If it makes it through this stage, the light hydrocarbons will again become gaseous, separating out of the lube oil, and the lube oil will regain its proper viscosity. But the damage will already be done.&amp;quot; &lt;/font&gt;&lt;/p&gt;
+&lt;p&gt;
+	&lt;font size="3"&gt;The refinery is centralizing the viscosity sensor outputs with easy-to-access and use displays tied to the overall plant information system. The refinery uses centralized monitoring stations, each of which receives instantaneous information. One is currently tracking four viscometers while another connects with ten individual sensors on different gas compressors. This saves lab and technician time, as well as potential damage to the equipment itself. &lt;/font&gt;&lt;/p&gt;
+&lt;p&gt;
+	&lt;span style="font-family: times new roman, times, serif"&gt;&lt;b&gt;&lt;font size="3"&gt;&lt;font size="3"&gt;&lt;span style="font-family: arial, helvetica, sans-serif"&gt;About Cambridge Viscosity&lt;/span&gt;&amp;nbsp;&lt;/font&gt;&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;
+	&lt;font size="3"&gt;Cambridge Viscosity, the leader in small sample viscometry, provides automated viscometers for advanced laboratory and production viscometer systems worldwide. Cambridge&amp;rsquo;s global reach is important for providing application engineering support and service wherever and whenever needed &lt;/font&gt;&lt;/p&gt;
+&lt;p&gt;
+	&lt;font size="3"&gt;Cambridge Viscosity sets the standard for precise, reliable and low maintenance viscosity measurement and control systems. Patented oscillating piston technology ensures accurate, true results across a broad range of lab and in-line applications, including refining and petrochemicals, oil and gas, coatings, paints and inks, pharmaceuticals and other substances. Cambridge Viscosity&amp;#39;s sensors and viscometer systems conform to ASTM, DIN, JIS and ISO standards, with a range of models designed to meet specific industry and application needs. Certifications include ATEX, CE, and FM. CSA certification is available upon request. For additional information visit: &lt;/font&gt;&lt;font color="#0000ff" size="3"&gt;&lt;font color="#0000ff" size="3"&gt;&lt;a href="http://www.cambridgeviscosity.com"&gt;www.cambridgeviscosity.com&lt;/a&gt;.&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;&lt;img src="http://feeds.feedburner.com/~r/noria/reliableplant/tags/overall_equipment_effectiveness/~4/-5K8ONq6owg" height="1" width="1" alt=""/&gt;</description>
+            <a10:updated>2011-04-12T14:13:57-05:00</a10:updated>
+            <a10:content type="text/html" src="http://reliableplant.com/Read/28428/Expanded%20Lubrication%20Oil%20Monitoring%20for%20Gas%20Compressors" />
+        <feedburner:origLink>http://reliableplant.com/Read/28428/Expanded%20Lubrication%20Oil%20Monitoring%20for%20Gas%20Compressors</feedburner:origLink></item>
+        <item>
+            <guid isPermaLink="false">tag:noria.com,2010-06-10:publishing:magazines:rp:0aa5d047-f047-4a6b-aa61-9ec300e0c896</guid>
+            <link>http://feedproxy.google.com/~r/noria/reliableplant/tags/overall_equipment_effectiveness/~3/NZboBp-5DSA/Abanaki%20Releases%20New%20Edition%20of%20Oil%20Skimmer%20Facts%20Handbook</link>
+            <a10:author>
+                <a10:name>Noria Corporation</a10:name>
+            </a10:author>
+            <category>Industry News</category>
+            <category>Articles</category>
+            <title>Abanaki Releases New Edition of Oil Skimmer Facts Handbook</title>
+            <description>&lt;p&gt;
+	CLEVELAND, OH--(Marketwire - April 12, 2011) - Abanaki Corporation, the world leader in oil skimming and coolant maintenance products, announces the new updated edition of its Oil Skimmer Facts Handbook for solving oil removal problems.&amp;nbsp;The new handbook offers expanded information about oil skimming principles, applications, technologies, installation tips, and how to select and size an &lt;a href="http://ctt.marketwire.com/?release=742124&amp;amp;id=234940&amp;amp;type=1&amp;amp;url=http%3a%2f%2fwww.abanaki.com%2fskimsel.html"&gt;&lt;font color="#cc0000"&gt;oil skimmer&lt;/font&gt;&lt;/a&gt;.&amp;nbsp;In addition, this complete oil skimming guide shows comparative skimmer types as well as turnkey systems.&lt;/p&gt;
+&lt;p&gt;
+	An electronic version of Abanaki&amp;#39;s Oil Skimmer Facts Handbook is a handy resource for environmental engineers, plant maintenance personnel, wastewater treatment engineers, manufacturing engineers and related professionals looking for a solution to their oil contamination problems.&amp;nbsp;A complimentary copy of the new Oil Skimmer Facts Handbook may be downloaded from Abanaki&amp;#39;s website at &lt;a href="http://ctt.marketwire.com/?release=742124&amp;amp;id=234943&amp;amp;type=1&amp;amp;url=http%3a%2f%2fwww.abanaki.com%2f157"&gt;&lt;font color="#cc0000"&gt;http://www.abanaki.com/157&lt;/font&gt;&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;
+	Oil skimming is the most economical, low-maintenance method for removing floating oil, grease, fuel and other hydrocarbons from water. As the oil skimmer belt or tube passes through water, the contaminants are attracted to the media and carried to wiper blades where the oil is removed.&amp;nbsp;Oil skimming uses the differences in specific gravity and surface tension between oil and water to pick up oil, grease and other hydrocarbons. Companies use Abanaki &lt;a href="http://ctt.marketwire.com/?release=742124&amp;amp;id=234946&amp;amp;type=1&amp;amp;url=http%3a%2f%2fwww.abanaki.com%2fmodel8.html"&gt;&lt;font color="#cc0000"&gt;oil skimmers&lt;/font&gt;&lt;/a&gt; in a wide range of applications from meeting EPA and municipal pollution standards to improving coolant quality in machine tool operations.&lt;/p&gt;
+&lt;p&gt;
+	&lt;strong&gt;About Abanaki Corporation&lt;/strong&gt;: Abanaki, the world leader in oil skimmer products, manufactures a wide range of products to remove oils, greases, solvents, and related hydrocarbons from water. Headquartered in Cleveland, Ohio, Abanaki has served a global customer base in industries as diverse as iron and steel, wastewater, paper, food processing, automotive, environmental remediation and recycling&amp;nbsp;for more than 40 years. Today, under the corporate motto &amp;quot;Clean Our World&amp;trade;,&amp;quot; Abanaki continues to address pollution in industry through innovation, customer commitment, and environmental stewardship within its own operations.&lt;/p&gt;
+&lt;p&gt;
+	For more information, call (440) 543-7400; or (800) 358-SKIM (7546), or e-mail: &lt;a href="mailto:info@abanaki.com"&gt;&lt;font color="#cc0000"&gt;info@abanaki.com&lt;/font&gt;&lt;/a&gt;. See the full-line of Abanaki products and videos at &lt;a href="http://ctt.marketwire.com/?release=742124&amp;amp;id=234949&amp;amp;type=1&amp;amp;url=http%3a%2f%2fwww.abanaki.com%2f156"&gt;&lt;font color="#cc6666"&gt;http://www.abanaki.com/156&lt;/font&gt;&lt;/a&gt;.&lt;/p&gt;&lt;img src="http://feeds.feedburner.com/~r/noria/reliableplant/tags/overall_equipment_effectiveness/~4/NZboBp-5DSA" height="1" width="1" alt=""/&gt;</description>
+            <a10:updated>2011-04-12T13:38:22-05:00</a10:updated>
+            <a10:content type="text/html" src="http://reliableplant.com/Read/28425/Abanaki%20Releases%20New%20Edition%20of%20Oil%20Skimmer%20Facts%20Handbook" />
+        <feedburner:origLink>http://reliableplant.com/Read/28425/Abanaki%20Releases%20New%20Edition%20of%20Oil%20Skimmer%20Facts%20Handbook</feedburner:origLink></item>
+        <item>
+            <guid isPermaLink="false">tag:noria.com,2010-06-10:publishing:magazines:rp:cb1a81ab-6704-4ba9-a287-9ebe00f05f0c</guid>
+            <link>http://feedproxy.google.com/~r/noria/reliableplant/tags/overall_equipment_effectiveness/~3/cf9sFNT8c1g/ALS%20Tribology%20opens%20new%20facility</link>
+            <a10:author>
+                <a10:name>Noria Corporation</a10:name>
+            </a10:author>
+            <category>Industry News</category>
+            <category>Articles</category>
+            <title>ALS Tribology opens new facility</title>
+            <description>&lt;p&gt;
+	In business since 1961, ALS Tribology&amp;#39;s Cleveland Technical Center and commercial laboratory operation commemorated their 50th anniversary by moving into a newer, more modern facility. Located in the greater Cleveland area, the move was completed on March 28. The new location will accommodate expanded research and development, laboratory operations, and future operational growth. In addition to the Tribology laboratory, the center will house the Technical Resource Department, the Information Technology Department, and present and future centralized support services staff.&amp;nbsp;&amp;nbsp;&lt;/p&gt;
+&lt;p align="center"&gt;
+	&lt;img src="http://media.noria.com/sites/Web_Images/Cleveland02.jpg" /&gt;&lt;/p&gt;
+&lt;p&gt;
+	Enhanced workflow efficiencies and expanded commercial lubricant, metalworking fluids, coolants, and fuel testing services are made possible by the move to this newer facility. Vice President and Manager of North American Operations, David Doyle, shared, &amp;quot;The creation of a new facility for our technical center and commercial laboratory operations will strengthen support for our overall North American operations as well as continue to provide expanded growth possibilities and enhancements for our lubricants, coolants, wear analysis, and metalworking fluids testing services.&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;
+	The new ALS Tribology Cleveland Technical Center address is:&lt;/p&gt;
+&lt;p&gt;
+	ALS Tribology&lt;br /&gt;
+	6180 Halle Dr. Suite D&lt;br /&gt;
+	Valley View, OH 44125&lt;br /&gt;
+	Phone: 800-726-5400&lt;/p&gt;
+&lt;p&gt;
+	ALS Tribology is a full service testing laboratory and part of ALS Group, a global provider of analytical testing services. ALS Tribology offers comprehensive oil, fuel, coolant, and metalworking fluid testing services as well as over 100 different specialized ASTM tests that cover all combinations of conditions, fluids, and applications.&lt;/p&gt;&lt;img src="http://feeds.feedburner.com/~r/noria/reliableplant/tags/overall_equipment_effectiveness/~4/cf9sFNT8c1g" height="1" width="1" alt=""/&gt;</description>
+            <a10:updated>2011-04-07T14:35:07-05:00</a10:updated>
+            <a10:content type="text/html" src="http://reliableplant.com/Read/28418/ALS%20Tribology%20opens%20new%20facility" />
+        <feedburner:origLink>http://reliableplant.com/Read/28418/ALS%20Tribology%20opens%20new%20facility</feedburner:origLink></item>
+        <item>
+            <guid isPermaLink="false">tag:noria.com,2010-06-10:publishing:magazines:rp:c4d801bf-6179-4918-97e2-9ebe008d7929</guid>
+            <link>http://feedproxy.google.com/~r/noria/reliableplant/tags/overall_equipment_effectiveness/~3/OuBcCFeNul0/Mobile%20lubrication%20system%20available</link>
+            <a10:author>
+                <a10:name>Noria Corporation</a10:name>
+            </a10:author>
+            <category>Industry News</category>
+            <category>Articles</category>
+            <title>Mobile lubrication system now available</title>
+            <description>&lt;p&gt;
+	&lt;a href="http://www.wastequip-cusco.com"&gt;Cusco&lt;/a&gt;, a company operating under &lt;a href="http://www.wastequip.com" target="_blank"&gt;Wastequip&lt;/a&gt;, has introduced its mobile lubrication and waste fluid retrieval systems for servicing mobile equipment. The systems allow for servicing in the field when time does not allow for the return of equipment back to fixed service locations.&lt;/p&gt;
+&lt;p&gt;
+	The mobile units are equipped with seven different fluid delivery systems, along with a grease-dispensing system, a waste fluid recovery system and compressed air.&lt;/p&gt;
+&lt;p&gt;
+	Typical applications include mining operations, oil field sites, forestry, construction sites and any company with fleets of equipment that may require servicing while in the field.&lt;/p&gt;
+&lt;p&gt;
+	&amp;ldquo;Cusco&amp;rsquo;s mobile lubrication and waste fluid retrieval systems are ideal for everything from changing the fluid on an excavator in the field to changing a tire on a truck on the side of the road,&amp;rdquo; says Steve Godwin, president, Cusco. &amp;ldquo;Best of all, these systems are designed to perform in the most demanding weather conditions.&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;
+	For more information, visit &lt;a href="http://www.wastequip-cusco.com"&gt;www.wastequip-cusco.com&lt;/a&gt;&lt;/p&gt;
+&lt;hr /&gt;&lt;img src="http://feeds.feedburner.com/~r/noria/reliableplant/tags/overall_equipment_effectiveness/~4/OuBcCFeNul0" height="1" width="1" alt=""/&gt;</description>
+            <a10:updated>2011-04-07T08:35:03-05:00</a10:updated>
+            <a10:content type="text/html" src="http://reliableplant.com/Read/28417/Mobile%20lubrication%20system%20available" />
+        <feedburner:origLink>http://reliableplant.com/Read/28417/Mobile%20lubrication%20system%20available</feedburner:origLink></item>
+        <item>
+            <guid isPermaLink="false">tag:noria.com,2010-06-10:publishing:magazines:rp:5c542ec5-b757-46b3-9e8c-9ebc010db385</guid>
+            <link>http://feedproxy.google.com/~r/noria/reliableplant/tags/overall_equipment_effectiveness/~3/8J44K0vcSA8/Stainless%20steel%20hoist</link>
+            <a10:author>
+                <a10:name>Noria Corporation</a10:name>
+            </a10:author>
+            <category>Industry News</category>
+            <category>Articles</category>
+            <title>Stainless steel hoist available for clean rooms</title>
+            <description>&lt;p&gt;
+	&lt;strong&gt;New Lab-Lift&amp;trade; all-stainless steel strap hoist is specifically engineered for demanding pharmaceutical manufacturing use&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;
+	The David Round Company has announced an all-stainless steel strap hoist specifically engineered for demanding pharmaceutical manufacturing use. The new Lab-Lift&amp;trade; product represents an advancement in clean room material handling equipment design to further minimize the potential for contamination.&lt;br /&gt;
+	&lt;br /&gt;
+	The Lab-Lift product features a highly polished finish and a urethane-coated lubrication-&lt;wbr&gt;free lifting strap, which eliminates the particulate contamination associated with chain hoists or wire rope hoists. There is no metal-on-metal abrasion to potentially create particle contaminates. The hoist mechanism is enclosed in a smooth-sided polished 304 stainless steel enclosure for easy wash-down. The enclosure slides away to allow easy cleaning of internal components. A wiper seal for the strap helps isolate the hoist&amp;rsquo;s internal mechanism from the clean room environment.&lt;br /&gt;
+	&lt;br /&gt;
+	Construction is all-stainless steel, including motors and motor brakes. Gearing is sealed, with food grade lubrication. Welds are smooth-ground, faces are flush-mounted and fasteners are plugged to further reduce potential contamination. Load hook and latch are stainless steel.&lt;br /&gt;
+	&lt;br /&gt;
+	&amp;ldquo;We are pleased to introduce the first clean room hoist designed from the ground up for lifting in the pharmaceutical environment,&amp;rdquo;&lt;wbr&gt; said Brad Young, president of David Round. &amp;ldquo;For a number of years, we have recognized the special requirements of pharma by manufacturing all-stainless steel material and handling products featuring paint-free construction. This new line of hoists builds on this experience, but adds a streamlined completely crack-and-crevice free exterior.&amp;rdquo;&lt;br /&gt;
+	&lt;br /&gt;
+	Eight out of ten of the largest pharmaceutical manufacturers have David Round stainless hoists in their newest facilities, according to the manufacturer. Many drug makers now mandate all-stainless steel external construction, refusing any painted surfaces, even those with FDA-approved epoxies.&lt;br /&gt;
+	&lt;br /&gt;
+	David Round products can be found in almost every industry from pharmaceutical processing and food manufacturing to oil and gas, aviation, pulp and paper and water control, and help improve handling system efficiency while making the workplace a more productive and safer environment through their ergonomic designs.&lt;/wbr&gt;&lt;/wbr&gt;&lt;br /&gt;
+	&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;
+	The David Round Company is located at 10200 Wellman Road, Streetsboro, OH 44241.&lt;/p&gt;
+&lt;p&gt;
+	For more information visit &lt;a href="http://www.davidround.com"&gt;www.davidround.com&lt;/a&gt;&lt;!-- google_ad_section_end --&gt;&lt;/p&gt;&lt;img src="http://feeds.feedburner.com/~r/noria/reliableplant/tags/overall_equipment_effectiveness/~4/8J44K0vcSA8" height="1" width="1" alt=""/&gt;</description>
+            <a10:updated>2011-04-05T16:21:55-05:00</a10:updated>
+            <a10:content type="text/html" src="http://reliableplant.com/Read/28413/Stainless%20steel%20hoist" />
+        <feedburner:origLink>http://reliableplant.com/Read/28413/Stainless%20steel%20hoist</feedburner:origLink></item>
+        <item>
+            <guid isPermaLink="false">tag:noria.com,2010-06-10:publishing:magazines:rp:20f547a8-8cca-4aa6-8a34-9ebc00a07126</guid>
+            <link>http://feedproxy.google.com/~r/noria/reliableplant/tags/overall_equipment_effectiveness/~3/K_VsjBEXyDs/Surge%20in%20Automotive%20Market%20in%20Emerging%20Economies%20Driving%20Demand</link>
+            <a10:author>
+                <a10:name>Noria Corporation</a10:name>
+            </a10:author>
+            <category>Web Exclusives</category>
+            <category>Articles</category>
+            <title>Automotive industry pursuing new technology, techniques</title>
+            <description>&lt;p&gt;
+	MarketResearch.com has announced the addition of GBI Research&amp;#39;s new report &amp;quot;Lubricants Industry to 2015 - Surge in Automotive Market in Emerging Economies Driving Demand,&amp;quot; to their collection of Chemicals market reports.&lt;/p&gt;
+&lt;p&gt;
+	According to the report, the global automotive industry is back on the growth path after the setback caused by the financial crisis of 2009. The industry is now actively pursuing innovative new technologies, production and business techniques. Although it is on a growth path, the fact remains that it will take a long time for it to recover, the report states.&lt;/p&gt;
+&lt;p&gt;
+	Asia has recovered well as compared to the West, and this is reflected in the growing automobile numbers. China, the world&amp;#39;s largest automotive market, showed a more than 20% growth in December 2010. China and India seem to have weathered the financial crisis storm, compensating for the decline in lubricant demand in the rest of the world. In 2009, these countries took over the automotive production leadership position, with over 14 million units -- a surge of more than 48% over 2008 -- and well over 10 million more than the total production of the US, Canada, and Mexico combined. In India, the production growth was less dramatic.&lt;/p&gt;
+&lt;p&gt;
+&lt;!--portletbreak--&gt;&lt;/p&gt;
+&lt;p&gt;
+	The report scope includes&lt;/p&gt;
+&lt;ul&gt;
+	&lt;li&gt;
+		Overview of lubricant Industry, Refining and Blending and Formulation of Lubricant and various classifications of the lubricant such as general classification based on Additives and based on Application.&lt;/li&gt;
+	&lt;li&gt;
+		Global lubricant Industry demand and Market Size forecast to 2015&lt;/li&gt;
+	&lt;li&gt;
+		Key trends and Challenges in the industry , Global Motor Vehicle outlook and Industry outlook and how they are affecting the lubricant Industry&lt;/li&gt;
+	&lt;li&gt;
+		Global lubricant demand by Region including key regions such as Asia-Pacific, Europe, Americas and Middle East and Africa.&lt;/li&gt;
+	&lt;li&gt;
+		Global lubricant demand to 2015 by formulation such as synthetic, vegetable, re-refined and hydrocarbon.&lt;/li&gt;
+	&lt;li&gt;
+		Global lubricant demand by market to 2015 by automotive, industrial and metalworking fluids/Grease.&lt;/li&gt;
+	&lt;li&gt;
+		Key strategies used by various companies to compete in the global market&lt;/li&gt;
+	&lt;li&gt;
+		Major players and SWOT analysis of companies such as Royal Dutch Shell, Total, Exxon Mobil, British Petroleum, PetroChina, Sinopec, Chevron and OAO Lukoil&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;
+	For more information, visit &lt;a href="http://www.marketresearch.com/product/display.asp?ProductID=6207045"&gt;http://www.marketresearch.com/product/display.asp?ProductID=6207045&lt;/a&gt;&lt;/p&gt;&lt;img src="http://feeds.feedburner.com/~r/noria/reliableplant/tags/overall_equipment_effectiveness/~4/K_VsjBEXyDs" height="1" width="1" alt=""/&gt;</description>
+            <a10:updated>2011-04-05T09:44:06-05:00</a10:updated>
+            <a10:content type="text/html" src="http://reliableplant.com/Read/28411/Surge%20in%20Automotive%20Market%20in%20Emerging%20Economies%20Driving%20Demand" />
+        <feedburner:origLink>http://reliableplant.com/Read/28411/Surge%20in%20Automotive%20Market%20in%20Emerging%20Economies%20Driving%20Demand</feedburner:origLink></item>
+        <item>
+            <guid isPermaLink="false">tag:noria.com,2010-06-10:publishing:magazines:rp:4cd4981e-9cd3-4f4b-b1dc-9ebb00e2c127</guid>
+            <link>http://feedproxy.google.com/~r/noria/reliableplant/tags/overall_equipment_effectiveness/~3/FYKAydk1I_0/Mfg.%20acquires%20grease%20maker</link>
+            <a10:author>
+                <a10:name>Stratco Inc.</a10:name>
+            </a10:author>
+            <category>Industry News</category>
+            <category>Articles</category>
+            <title>Swedish manufacturer acquires U.S. grease maker</title>
+            <description>&lt;p&gt;
+	KANSAS CITY, MO--(Marketwire - April 4, 2011) - STRATCO, Inc. (online at: &lt;a href="http://ctt.marketwire.com/?release=740423&amp;amp;id=214687&amp;amp;type=1&amp;amp;url=http%3a%2f%2fwww.stratcoinc.com%2f"&gt;www.Stratcoinc.com&lt;/a&gt;), an industry leader in providing engineering design, equipment and R&amp;amp;D for the grease, petrochemical, asphalt, roofing and chemical industries, is excited to learn about the announcement by Sweden-based grease manufacturer, Axel Christiernsson -- one of STRATCO&amp;#39;s recent customers -- of their mid-March acquisition of US-based grease maker, Jesco Resources, STRATCO&amp;#39;s very first customer.&lt;/p&gt;
+&lt;p&gt;
+	&amp;quot;We have had great experiences with both Axel and Jesco as valued customers over the years,&amp;quot; said Cecilia Mancero, Vice President of International Sales at STRATCO, Inc. &amp;quot;Now that these companies are merging, we are excited to enhance our ongoing relationship with them, and we envision a bright, long-lasting and mutually prosperous relationship between STRATCO and Axel/Jesco.&amp;quot;&lt;/p&gt;
+&lt;p&gt;
+	For STRATCO, best known for its world famous STRATCO&amp;reg; Contactor&amp;trade; reactor -- the most efficient batch reactor employed in manufacturing lubricating grease -- the announcement of Axel&amp;#39;s purchase of Jesco is of particular significance. Jesco bought the very first STRATCO Contactor reactor (installed in 1929), a machine that the company is still operating today.&lt;/p&gt;
+&lt;p&gt;
+	Jesco purchased its second STRATCO Contactor reactor in 2000. Axel has purchased STRATCO equipment for their plants in the Netherlands and in Sweden to allow for increased production needs.&lt;/p&gt;
+&lt;p&gt;
+	The acquisition of Jesco significantly expands Axel&amp;#39;s global presence. Axel currently produces more than 20,000 metric tons of grease annually and has sites located in France, the Netherlands and in Sweden.&lt;/p&gt;
+&lt;p&gt;
+	Axel and Jesco are longtime clients of STRATCO, and use STRATCO&amp;#39;s technology to grow and improve their products and operations. STRATCO looks forward to future opportunities to support Axel and Jesco in their continued growth.&lt;/p&gt;
+&lt;p&gt;
+	&amp;quot;Our technology -- focusing on the best equipment and the best process -- enables us to strive to achieve and deliver excellence,&amp;quot; Mancero said.&lt;/p&gt;
+&lt;p&gt;
+	To learn more about STRATCO, Inc. please visit: &lt;a href="http://www.Stratcoinc.com"&gt;www.Stratcoinc.com&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;
+	STRATCO, Inc. was founded in 1928 and provides engineering design, equipment and R&amp;amp;D for the grease, petrochemical, asphalt, roofing and chemical industries. STRATCO process equipment is backed by 83 years of experience with a customer base in 60 countries on 6 continents. STRATCO, Inc. is a certified Woman-Owned Business by the Women&amp;#39;s Business Enterprise National Council.&lt;/p&gt;&lt;img src="http://feeds.feedburner.com/~r/noria/reliableplant/tags/overall_equipment_effectiveness/~4/FYKAydk1I_0" height="1" width="1" alt=""/&gt;</description>
+            <a10:updated>2011-04-04T13:45:32-05:00</a10:updated>
+            <a10:content type="text/html" src="http://reliableplant.com/Read/28410/Mfg.%20acquires%20grease%20maker" />
+        <feedburner:origLink>http://reliableplant.com/Read/28410/Mfg.%20acquires%20grease%20maker</feedburner:origLink></item>
+        <item>
+            <guid isPermaLink="false">tag:noria.com,2010-06-10:publishing:magazines:rp:5c51f3b2-66d4-4621-9a99-9ddb0096b8d9</guid>
+            <link>http://feedproxy.google.com/~r/noria/reliableplant/tags/overall_equipment_effectiveness/~3/XhOMrvpdMDM/results-oee-strategy-marketing</link>
+            <a10:author>
+                <a10:name>Mike Wroblewski</a10:name>
+            </a10:author>
+            <category>Web Exclusives</category>
+            <category>Articles</category>
+            <title>Show me the results</title>
+            <description>&lt;p&gt;
+	One cultural aspect of American business that is both a driving force and a curse is our obsession with getting results. It does not matter if we are looking at company performance or individual performance. It does not matter if we are looking at strategy, marketing, sales, manufacturing or finance. Neither does it matter if we look at our lean progress or any other business approach, our business metrics or our stock performance. The bottom line is that everything and everyone is rated and evaluated on results and only on results.&lt;br /&gt;
+	&lt;br /&gt;
+	Just as in sports, all that matters is the final score &amp;ndash; who won. What do we see in the majority of sports headlines &amp;hellip; who won, who lost and the score.&lt;br /&gt;
+	&lt;br /&gt;
+	For most of us, this is just a fact of life, a given, part of our competitive nature, our culture. I cannot argue against results entirely; results are important.&lt;br /&gt;
+	&lt;br /&gt;
+	Sometimes we can easily quantify the results by making them objective. Sometime we cannot. Results that are subjective are like beauty &amp;ndash; it is in the eye of the beholder. Despite our efforts to make all results objective and quantifiable, in many cases, subjectivity remains.&lt;br /&gt;
+	&lt;br /&gt;
+	Overlooking this problem, we obsess over results. What is our stock price? What were our quarterly financials? Did I hit my quota? What is our 5-S audit score? What is our overall equipment effectiveness (OEE)? What are my direct labor costs? Was this project a success? What is each employee&amp;rsquo;s talent matrix rating? Just tell me the score.&lt;br /&gt;
+	&lt;br /&gt;
+	But does this tell us the whole story? Are we focused long-term? Does it reflect the struggle? What about the knowledge gained? Does it matter? What impact will it have on our future? What was the cost of our success? Were there any negative consequences in getting our results? Do we care?&lt;br /&gt;
+	&lt;br /&gt;
+	In our obsession with results, do we actually miss something, perhaps something greater?&lt;/p&gt;
+&lt;p&gt;
+	&lt;strong&gt;&lt;u&gt;About the author:&lt;/u&gt;&lt;/strong&gt;&lt;br /&gt;
+	Mike Wroblewski started his lean journey with instruction in quick die change from Shigeo Shingo. Mike is currently a senior operations consultant for Gemba Consulting North America LLC. He also writes a blog called &amp;ldquo;&lt;a href="http://gotboondoggle.blogspot.com/"&gt;Got Boondoggle?&lt;/a&gt;&amp;rdquo; featuring lean and Six Sigma topics. You may contact Mike via e-mail at &lt;a href="mailto:MWroblewski@gemba.com"&gt;MWroblewski@gemba.com&lt;/a&gt;.&lt;/p&gt;&lt;img src="http://feeds.feedburner.com/~r/noria/reliableplant/tags/overall_equipment_effectiveness/~4/XhOMrvpdMDM" height="1" width="1" alt=""/&gt;</description>
+            <a10:updated>2010-08-23T09:08:44-05:00</a10:updated>
+            <a10:content type="text/html" src="http://reliableplant.com/Read/26212/results-oee-strategy-marketing" />
+        <feedburner:origLink>http://reliableplant.com/Read/26212/results-oee-strategy-marketing</feedburner:origLink></item>
+        <item>
+            <guid isPermaLink="false">tag:noria.com,2010-06-10:publishing:magazines:rp:fd1808cb-0bfa-4896-976f-9db80083c7a7</guid>
+            <link>http://feedproxy.google.com/~r/noria/reliableplant/tags/overall_equipment_effectiveness/~3/JSp6JiZV6Z4/Intersnack-to-expand-factory-solution</link>
+            <a10:author>
+                <a10:name>RP news wires</a10:name>
+            </a10:author>
+            <category>Industry News</category>
+            <category>Articles</category>
+            <title>Intersnack to expand factory solution to 10 additional plants across Europe</title>
+            <description>&lt;p&gt;
+	CDC Software Corporation, a hybrid enterprise software provider of on-premise and cloud deployments, announced July 19 that Intersnack, a leading European snack manufacturer, plans to implement CDC Factory, a manufacturing operations management and enterprise manufacturing intelligence solution, at 10 additional plants in Europe based on the initial successes of its CDC Factory implementations at the company&amp;#39;s Netherland&amp;#39;s plants last year.&lt;/p&gt;
+&lt;p&gt;
+	The multi-plant implementation of CDC Factory is part of Intersnack&amp;#39;s ongoing plan for operational excellence. The initial CDC Factory implementations at the Doetinchem and Hardinxveld plants in the Netherlands took only six weeks each and were delivered on time and within budget. According to Intersnack, CDC Factory already has delivered significant Overall Equipment Effectiveness (OEE) rates. Additionally, the two plants have been able to eliminate paperwork associated with in-line Quality Control processes, which not only dramatically reduces administration costs on the shop floor but also helps to reduce waste. As a result of these initial successes and improvements, Intersnack plans to deploy CDC Factory across its multi-plant network to help ensure standard OEE and Quality across their business.&lt;/p&gt;
+&lt;p&gt;
+	CDC Factory is expected to be rolled out to Intersnack&amp;#39;s plants in the Netherlands, Germany, Hungary and France within 12 months. As part of these implementations, CDC Software will use CDC Factory&amp;#39;s Project Execution Template (PET) model to help ensure consistency and scalability of best practices and continuous improvement initiatives across the plants&amp;#39; diverse product portfolio and workplace cultures.&lt;/p&gt;
+&lt;p&gt;
+	&amp;quot;We are delighted that the initial implementations of CDC Factory were delivered as CDC Software promised in terms of workplace behavior change and improved operational and financial metrics,&amp;quot; said Johan Van Winkel, managing director of Intersnack Group. &amp;quot;We have witnessed significant OEE improvement and the workforce has embraced ownership of their own performance. The successful performance of these initial implementations has encouraged us to replicate this across our plant network as soon as possible so that we have a standard OEE platform on which to base our decisions for our ongoing Operational Excellence programs.&amp;quot;&lt;/p&gt;
+&lt;p&gt;
+	&amp;quot;CDC Software is excited that this leading food manufacturer plans to implement CDC Factory across its European plant network as a result of the resounding success at the initial two plants,&amp;quot; said Mark Sutcliffe, president of the CDC Factory product line of CDC Software. &amp;quot;As a true out-of-the-box manufacturing operations management system, CDC Factory has proven repeatedly that it can deliver improved results in weeks rather than years. Intersnack now has a suite of manufacturing intelligence tools for the workforce that can be rolled out to other plants in a standardized manner. As we have seen with our other customers, CDC Factory can deliver compelling improvements for manufacturers in terms of higher productivity, reduced operating costs and waste, and ultimately, higher operating profits.&amp;quot;&lt;/p&gt;
+&lt;p&gt;
+	CDC Factory is a packaged manufacturing operations management system that transforms manufacturing performance by empowering people to make real-time actionable decisions. It combines shop floor data capture, paperless quality management, packaged metrics like OEE, manufacturing analytics and executive scorecards. Pre-built continuous improvement capabilities combined with an implementation model focused on business transformation means that, in many cases, organizations can be live within six weeks and delivering improvement results rapidly from project commencement.&lt;/p&gt;
+&lt;p&gt;
+	&lt;strong&gt;&lt;u&gt;About Intersnack &lt;/u&gt;&lt;/strong&gt;&lt;br /&gt;
+	Recognized as one of the leading snack producers, Intersnack Group is the result of a combination of Intersnack Knabber-Geback GmbH &amp;amp; Co. KG and The Nut Company. This pan-European group, formed in 2008, manufactures snacks in the following product categories: nuts, potato crisps, extruded and pellet products as well as crackers and pretzels. The highest level of quality based on know-how and modern technology is important for all manufacturing processes. Consumer-orientated innovations, top quality, a wide range of shapes and flavors are also the mainstays of Intersnack&amp;#39;s success for further international growth.&amp;nbsp;&lt;/p&gt;&lt;img src="http://feeds.feedburner.com/~r/noria/reliableplant/tags/overall_equipment_effectiveness/~4/JSp6JiZV6Z4" height="1" width="1" alt=""/&gt;</description>
+            <a10:updated>2010-07-19T07:59:45-05:00</a10:updated>
+            <a10:content type="text/html" src="http://reliableplant.com/Read/25600/Intersnack-to-expand-factory-solution" />
+        <feedburner:origLink>http://reliableplant.com/Read/25600/Intersnack-to-expand-factory-solution</feedburner:origLink></item>
+        <item>
+            <guid isPermaLink="false">tag:noria.com,2010-06-10:publishing:magazines:rp:6a52a620-f076-47cd-8bd3-9dab01079039</guid>
+            <link>http://feedproxy.google.com/~r/noria/reliableplant/tags/overall_equipment_effectiveness/~3/4ZEPMB3INx4/paper-mill-outsource-maintenance</link>
+            <a10:author>
+                <a10:name>ABB</a10:name>
+            </a10:author>
+            <category>Web Exclusives</category>
+            <category>Articles</category>
+            <title>Paper mill succeeds with outsource approach to maintenance </title>
+            <description>&lt;p&gt;
+	ABB took over the maintenance operations of Myllykoski&amp;rsquo;s flagship paper mill at Anjalankoski, Finland, in January 2007 and quickly achieved some remarkable results with its Full Service concept of plant maintenance.&lt;br /&gt;
+	&lt;br /&gt;
+	Explaining why Myllykoski decided to outsource its maintenance operations to ABB, Tuomo Tuomela, executive vice president for technology at the group, says: &amp;ldquo;We wanted to improve the mill&amp;rsquo;s performance and efficiency and cut the maintenance costs as well. We looked at all the alternatives and possible partners in maintenance outsourcing and made comparisons. ABB had a good, proven concept on how to take over the maintenance process and implement it successfully. This, and their experience in the pulp and paper industry and strong local presence in Finland, convinced us that they would be successful.&amp;rdquo;&lt;br /&gt;
+	&lt;br /&gt;
+	Within just two years, Myllykoski could register the following improvements:&lt;/p&gt;
+&lt;ul type="disc"&gt;
+	&lt;li&gt;
+		Overall equipment effectiveness of the mill&amp;rsquo;s three paper machines was improved by 0.9 percent, 5 percent and 7 percent, respectively&lt;/li&gt;
+	&lt;li&gt;
+		Nine different records were set with regard to machine speed and production&lt;/li&gt;
+	&lt;li&gt;
+		Total annual maintenance costs were reduced by 10 percent, equivalent to savings of $6.8 million during the first two years&lt;/li&gt;
+	&lt;li&gt;
+		Maintenance-related accidents were reduced by 70 percent in the first year and 66 percent in the second&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;
+	The maintenance organization was right-sized by 21 percent during the first two years&lt;/p&gt;
+&lt;p align="center"&gt;
+	&lt;img src=" http://media.noria.com/sites/web_exclusives/ABB101.jpg " /&gt;&lt;/p&gt;
+&lt;p align="center"&gt;
+	&lt;em&gt;&lt;strong&gt;The Myllykoski paper mill at Anjalankoski, Finland, produces up to 560,000 tons of uncoated and coated printing paper a year. Myllykoski is a family-owned international paper group with seven mills in Finland, Germany and the United States. The company is one of the largest producers of publication paper in the world. &lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;
+	ABB Full Service is a globally supported long-term performance-based agreement in which ABB takes over the maintenance operations at a production site and commits to improve the performance and reliability of the production equipment at the entire facility.&lt;br /&gt;
+	&lt;br /&gt;
+	Proven at 300 sites worldwide in a broad range of industries, ABB Full Service focuses on improving key performance indicators like overall equipment effectiveness (OEE), availability, maintenance cost per unit, safety, and customer and employee satisfaction.&lt;br /&gt;
+	&lt;br /&gt;
+	Improving the OEE of a site (asset availability x performance rate x quality rate) while reducing the site&amp;rsquo;s maintenance costs has a major impact on profitability. It enables customers to improve productivity, cut costs, eliminate overheads, share risk, focus on their core business and turn maintenance into a profit-centered business.&lt;br /&gt;
+	&lt;br /&gt;
+	Industries in which ABB is performing Full Service contracts include chemicals, oil and gas, petrochemicals, metals and minerals, food and beverage, pulp and paper, electronics and many more.&lt;/p&gt;
+&lt;p&gt;
+	For more information, visit &lt;a href="http://www.abb.com"&gt;www.abb.com&lt;/a&gt;.&lt;/p&gt;&lt;img src="http://feeds.feedburner.com/~r/noria/reliableplant/tags/overall_equipment_effectiveness/~4/4ZEPMB3INx4" height="1" width="1" alt=""/&gt;</description>
+            <a10:updated>2010-07-06T15:59:34-05:00</a10:updated>
+            <a10:content type="text/html" src="http://reliableplant.com/Read/25449/paper-mill-outsource-maintenance" />
+        <feedburner:origLink>http://reliableplant.com/Read/25449/paper-mill-outsource-maintenance</feedburner:origLink></item>
+        <item>
+            <guid isPermaLink="false">tag:noria.com,2010-06-10:publishing:magazines:rp:597af25e-fbd8-4a7d-a5b4-9d9d00e888bc</guid>
+            <link>http://feedproxy.google.com/~r/noria/reliableplant/tags/overall_equipment_effectiveness/~3/5hSmD0mEKg8/Book-overall-equipment-effectiveness</link>
+            <a10:author>
+                <a10:name>RP news wires</a10:name>
+            </a10:author>
+            <category>Industry News</category>
+            <category>Articles</category>
+            <title>New book is primer on overall equipment effectiveness</title>
+            <description>&lt;p&gt;
+	A valuable tool for establishing and maintaining system reliability, overall equipment effectiveness (OEE) has proven to be very effective in reducing unscheduled downtime for companies around the world. So much so that OEE is quickly becoming a requirement for improving quality and substantiating capacity in leading organizations, as well as a required area of study for the ISO/TS 16949.&lt;/p&gt;
+&lt;p&gt;
+	Breaking down the methodology from a historical perspective, &lt;em&gt;The OEE Primer: Understanding Overall Equipment Effectiveness, Reliability and Maintainability&lt;/em&gt; (ISBN 9781439814062, retail price of $54.95) explores the overall effectiveness of machines and unveils novel methods that focus on design improvement &amp;ndash; including hazard analysis, rate of change of failure (ROCOF) analysis, failure rate finite element analysis (FEA), and theory of inventive problem solving (TRIZ). It covers loss of effectiveness, new machinery, electrical maintenance issues, Weibull distribution, measurement techniques, and mechanical and electrical reliability. The book also:&lt;/p&gt;
+&lt;ul&gt;
+	&lt;li&gt;
+		Discusses reliability and maintainability (R&amp;amp;M), not as tools to be used in specific tasks, rather as a discipline&lt;/li&gt;
+	&lt;li&gt;
+		Covers the application of OEE as an overall improvement tool&lt;/li&gt;
+	&lt;li&gt;
+		Assesses existing and new equipment from classical, reliability, and maintainability perspectives&lt;/li&gt;
+	&lt;li&gt;
+		Includes a bonus CD with more than 100 pages of appendices and additional resources featuring statistical tables, outlines, case studies, guidelines and standards&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;
+	Introducing the classical approach to improvement, this book provides an understanding of exactly what OEE is and how it can be best applied to address capacity issues. Highlighting mechanical and electrical opportunities throughout, the text includes many tables, forms and examples that clearly illustrate and enhance the material presented.&lt;/p&gt;
+&lt;p&gt;
+	&lt;strong&gt;&lt;u&gt;About the author:&lt;/u&gt;&lt;/strong&gt;&lt;br /&gt;
+	D. H. Stamatis, Ph.D., CQE, CMfgE, MSSBB is president of Contemporary Consultants, specializing in quality science applications, management, organizational development. Dr. Stamatis has more than 30 years of experience in both training and consulting, in the private, public, academia and healthcare sectors of our economy. He has published 30 books and more than 170 articles on several topics of quality including six sigma, FMEA, APQP and presented papers in both National and International Conferences. He has consulted in Australia, Egypt, China, Japan, S. Korea, Twain, all over Europe, India, Malaysia, Singapore, N. America, Mexico, Brazil, Argentina and many other countries.&lt;/p&gt;
+&lt;p&gt;
+	Currently, he is an adjunct faculty at Central Michigan University, Phoenix and Northwood Universities teaching Project Management, Statistics and Operations Management. He received his BS/BA (1975) degree in marketing from Wayne State University in Detroit; the MA degree (1981) in business management from Central Michigan University, Mount Pleasant, Mich.; and the PhD degree (1986) in instructional technology and business administration (statistics) from Wayne State University, Detroit. He is certified quality engineer (CQE) and Fellow from ASQ; certified manufacturing engineer (CMfgE) from SME; and certified master Six Sigma black belt (SSMBB) from IABLS Inc.&lt;/p&gt;&lt;img src="http://feeds.feedburner.com/~r/noria/reliableplant/tags/overall_equipment_effectiveness/~4/5hSmD0mEKg8" height="1" width="1" alt=""/&gt;</description>
+            <a10:updated>2010-06-22T14:06:36-05:00</a10:updated>
+            <a10:content type="text/html" src="http://reliableplant.com/Read/25206/Book-overall-equipment-effectiveness" />
+        <feedburner:origLink>http://reliableplant.com/Read/25206/Book-overall-equipment-effectiveness</feedburner:origLink></item>
+        <item>
+            <guid isPermaLink="false">tag:noria.com,2010-06-10:publishing:magazines:rp:2479dd7a-45b2-4905-91f0-9d6500dba0b8</guid>
+            <link>http://feedproxy.google.com/~r/noria/reliableplant/tags/overall_equipment_effectiveness/~3/PtgW7fn88Vs/Vortex-flowmeter-availability-safety</link>
+            <a10:author>
+                <a10:name>RP news wires</a10:name>
+            </a10:author>
+            <category>Industry News</category>
+            <category>Articles</category>
+            <title>Vortex flowmeter designed to increase plant availability and enhance safety</title>
+            <description>&lt;p&gt;
+	Emerson Process Management introduces a new offering to the vortex flowmeter family, the Rosemount 8800D CriticalProcess Vortex flowmeter, designed to increase plant availability and enhance overall safety. This new flowmeter enhances online vortex sensor maintainability, while providing an added level of safety on critical applications.&lt;/p&gt;
+&lt;p&gt;
+	The vortex sensor in the Rosemount 8800D vortex flowmeter is isolated from the process, making it possible to maintain the vortex sensor without requiring a process shutdown, greatly increasing process availability. Sensor verification and maintenance can be costly on traditional vortex applications. With traditional vortex flowmeters, users typically need to shutdown or bypass their process in order to verify performance of the vortex sensor.&lt;/p&gt;
+&lt;p&gt;
+	The CriticalProcess Vortex&amp;rsquo;s unique ability to insure the vortex sensor is isolated from the process enhances safety by limiting personnel exposure, and maximizes product throughput by eliminating the need to shutdown the process to maintain a vortex sensor. In addition to the ability to maintain the vortex sensor online the Rosemount 8800D Vortex flowmeter has the ability to verify the health of the transmitter by simulating the vortex flow signal. The combination of these two features enables complete verification of the electrical components of the flowmeter while the process is up and running. The Rosemount 8800D CriticalProcess Vortex is the ideal flowmeter solution for processes requiring maximum availability.&lt;/p&gt;
+&lt;p&gt;
+	Rosemount 8800D flowmeters are part of Emerson&amp;rsquo;s broad range of intelligent, digital field devices that power the PlantWeb architecture. Further cost savings, increased plant availability, and enhanced safety and environmental compliance are achieved when the transmitters are integrated into the PlantWeb digital plant architecture.&lt;/p&gt;&lt;img src="http://feeds.feedburner.com/~r/noria/reliableplant/tags/overall_equipment_effectiveness/~4/PtgW7fn88Vs" height="1" width="1" alt=""/&gt;</description>
+            <a10:updated>2010-04-27T13:19:36-05:00</a10:updated>
+            <a10:content type="text/html" src="http://reliableplant.com/Read/24278/Vortex-flowmeter-availability-safety" />
+        <feedburner:origLink>http://reliableplant.com/Read/24278/Vortex-flowmeter-availability-safety</feedburner:origLink></item>
+        <item>
+            <guid isPermaLink="false">tag:noria.com,2010-06-10:publishing:magazines:rp:774a15f5-3e87-4679-943e-9d5000eb04b9</guid>
+            <link>http://feedproxy.google.com/~r/noria/reliableplant/tags/overall_equipment_effectiveness/~3/DEoDjoaIUOs/Online-assessment-sustainable-production</link>
+            <a10:author>
+                <a10:name>RP news wires</a10:name>
+            </a10:author>
+            <category>Industry News</category>
+            <category>Articles</category>
+            <title>Online assessment benchmarks performance in sustainable production</title>
+            <description>&lt;p&gt;
+	Aberdeen Group, a Harte-Hanks Company, on April 6 announced the availability of a new online sustainable manufacturing &lt;a href="http://assessment.aberdeen.com/rd/SustainableProduction.aspx"&gt;assessment tool&lt;/a&gt;&amp;nbsp;for Rockwell Automation. The tool utilizes data collected and analyzed from more than 200 manufacturing organizations participating in Aberdeen&amp;#39;s primary research in sustainable production.&lt;/p&gt;
+&lt;p&gt;
+	First launched in 2004, Aberdeen&amp;#39;s Assessment Tool Series has proven to be a very successful format to provide individualized and research-based recommendations for end-users across multiple industries and at varying levels of organizational maturity. This is the first tool to specifically target business processes for manufacturers in managing sustainability across production operations.&lt;/p&gt;
+&lt;p&gt;
+	&amp;quot;Increased regulatory, social responsibility and cost pressures are all creating a very challenging business climate for the manufacturing industry,&amp;quot; said Marcia Walker, global manager of sustainable production for Rockwell Automation. &amp;quot;We are excited to make this interactive diagnostic tool available to manufacturers and hope they can benefit directly from seeing how their organizations stack up against top performers and what they can do to improve.&amp;quot;&lt;/p&gt;
+&lt;p&gt;
+	The assessment tool uses Aberdeen&amp;#39;s PACE (Pressures, Actions, Capabilities and Enablers) research model. By completing a 10- to 15-minute online survey, participants receive a personalized analysis of how their organization compares to industry peers and helps them to quickly identify key capabilities and technologies used by companies with top performance.&lt;/p&gt;
+&lt;p&gt;
+	&amp;quot;We evaluate and classify manufacturers based on a variety of important performance indicators such as OEE, energy use reductions, and corporate profitability,&amp;quot; said Matthew Littlefield, a senior research analyst with the Aberdeen Group&amp;#39;s Global Manufacturing Practice. &amp;quot;By taking an enterprise wide approach, across manufacturing operations, corporate performance, and energy intensity, this new assessment helps manufacturers understand the value of sustainability investments to the entire organization.&amp;quot;&lt;/p&gt;
+&lt;p&gt;
+	&amp;quot;We are also able to correlate performance in these metrics against the use of specific technology enablers and make specific recommendations to manufacturers for improved visibility and overall performance,&amp;quot; added Mehul Shah, research analyst with the Global Manufacturing Practice. &amp;quot;The report that is provided at the end of the assessment will allow manufacturers the ability to see where they fall in comparison to top ranked companies, build a business case for new initiatives or investment, and map out an action plan to improve.&amp;quot;&lt;/p&gt;
+&lt;p&gt;
+	For more information about the manufacturer&amp;#39;s management assessment tool or to benchmark your own performance, visit &lt;a href="http://www.manufacturingenergymanagement.com/"&gt;http://www.ManufacturingEnergyManagement.com/&lt;/a&gt;. To learn more about Aberdeen&amp;#39;s Interactive Assessment Tools, visit: &lt;a href="http://roi.aberdeen.com/"&gt;http://roi.aberdeen.com&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;
+	&lt;strong&gt;&lt;u&gt;About Aberdeen Group, a Harte-Hanks Company&lt;br /&gt;
+	&lt;/u&gt;&lt;/strong&gt;Aberdeen provides fact-based research and market intelligence that delivers demonstrable results. Having queried more than 30,000 companies in the past two years, Aberdeen is positioned to educate users to action: driving market awareness, creating demand, enabling sales and delivering meaningful return-on-investment analysis. As the trusted advisor to the global technology markets, corporations turn to Aberdeen Group for insights that drive decisions.&lt;/p&gt;
+&lt;p&gt;
+	&lt;strong&gt;&lt;u&gt;About Rockwell Automation&lt;/u&gt;&lt;/strong&gt;&lt;br /&gt;
+	Rockwell Automation Inc., the world&amp;#39;s largest company dedicated to industrial automation and information, makes its customers more productive and the world more sustainable. Headquartered in Milwaukee, Rockwell Automation employs approximately 19,000 people serving customers in more than 80 countries.&amp;nbsp;&lt;/p&gt;&lt;img src="http://feeds.feedburner.com/~r/noria/reliableplant/tags/overall_equipment_effectiveness/~4/DEoDjoaIUOs" height="1" width="1" alt=""/&gt;</description>
+            <a10:updated>2010-04-06T14:15:38-05:00</a10:updated>
+            <a10:content type="text/html" src="http://reliableplant.com/Read/23851/Online-assessment-sustainable-production" />
+        <feedburner:origLink>http://reliableplant.com/Read/23851/Online-assessment-sustainable-production</feedburner:origLink></item>
+        <item>
+            <guid isPermaLink="false">tag:noria.com,2010-06-10:publishing:magazines:rp:8e1ad44a-c436-4428-99d2-9d3c008b7948</guid>
+            <link>http://feedproxy.google.com/~r/noria/reliableplant/tags/overall_equipment_effectiveness/~3/Hwn6oczxYAE/Get-results-lean-initiatives</link>
+            <a10:author>
+                <a10:name>RP news wires</a10:name>
+            </a10:author>
+            <category>Videos</category>
+            <category>Media Entries</category>
+            <title>How to get results from your lean initiatives</title>
+            <description>&lt;p&gt;
+	&lt;span&gt;See how you can significantly improve the efficiency of your manufacturing operations quickly, measurably and economically without disruption or infrastructure changes. &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;
+	&lt;span&gt;Access this 9-minute, 50-second video by clicking on the link below.&lt;/span&gt;&lt;/p&gt;
+&lt;br /&gt;&lt;img src="http://feeds.feedburner.com/~r/noria/reliableplant/tags/overall_equipment_effectiveness/~4/Hwn6oczxYAE" height="1" width="1" alt=""/&gt;</description>
+            <a10:updated>2010-03-17T08:27:47-05:00</a10:updated>
+            <a10:content type="text/html" src="http://reliableplant.com/View/23468/Get-results-lean-initiatives" />
+        <feedburner:origLink>http://reliableplant.com/View/23468/Get-results-lean-initiatives</feedburner:origLink></item>
+        <item>
+            <guid isPermaLink="false">tag:noria.com,2010-06-10:publishing:magazines:rp:8a72e917-116b-4380-973b-9d3000a0cdfd</guid>
+            <link>http://feedproxy.google.com/~r/noria/reliableplant/tags/overall_equipment_effectiveness/~3/xY9cxUWr4k0/technology-hygiene-food-beverage</link>
+            <a10:author>
+                <a10:name>Trelleborg</a10:name>
+            </a10:author>
+            <category>Web Exclusives</category>
+            <category>Articles</category>
+            <title>Technology for hygiene in the food and beverage industry</title>
+            <description>&lt;p&gt;
+	The food and beverage processing industry is one of the most highly regulated industries and faces unique challenges, not the least of which are related to hygiene. Trelleborg plays an important role by contributing a variety of solutions to ensure the hygienic production of food and beverages.&lt;br /&gt;
+	&lt;br /&gt;
+	The food and beverage processing industry is one that impacts on all our lives, handling virtually all that we eat and drink. We rely on processing companies to deliver the product we want, where we want it, in the form we want and, most importantly, reliably safe. Regulations are stringent and globally controlled through major government bodies such as the Food and Drug Administration (FDA) in the U.S. and the European Food Safety Authority (EFSA).&lt;br /&gt;
+	&lt;br /&gt;
+	Trelleborg contributes to ensuring the hygienic production of food and beverages. Many of its products are integral to processing equipment such as the thousands of seals used in a typical processing line. It is vital that there is no risk of these contaminating the system. That means that they must be compatible with sometimes aggressive process media and withstand the stringent cleaning regimes involving destructive chemicals.&lt;br /&gt;
+	&lt;br /&gt;
+	Special hoses and couplings are also provided by Trelleborg. These are used in everything from dry goods transport to wine production. Trelleborg&amp;rsquo;s vibration isolation solutions are used under the base of food processing equipment.&lt;br /&gt;
+	&lt;br /&gt;
+	Here are some examples of Trelleborg&amp;rsquo;s solutions for the food processing industry.&lt;br /&gt;
+	&lt;br /&gt;
+	&lt;strong&gt;Seals for filling heads:&lt;/strong&gt; Ultra-clean seals prevent leakage and ensure there is no contamination at the critical filling stage of production.&lt;br /&gt;
+	Trelleborg products: Variseal Ultraclean, O-rings&lt;br /&gt;
+	&lt;br /&gt;
+	&lt;strong&gt;Seals for valves in the filling mechanism:&lt;/strong&gt; Valves control the amount of liquid fed into the bottle. Low-friction seals that withstand aggressive cleaning regimes are required in these dynamic applications.&lt;br /&gt;
+	Trelleborg products: Scrapers, molded components, Glyd Ring, wipers&lt;br /&gt;
+	&lt;br /&gt;
+	&lt;strong&gt;Seals for bottle lifters:&lt;/strong&gt; Seals are required for the pneumatic pistons within the cylinders that lift the bottles for filling. The low friction and wear resistance of seals are important to maximize productivity.&lt;br /&gt;
+	Trelleborg products: Slydring, Glyd Ring&lt;br /&gt;
+	&lt;br /&gt;
+	&lt;strong&gt;Hoses that meet standards:&lt;/strong&gt; Trelleborg supplies a wide range of hoses and couplings for food processing applications. These are designed and manufactured with hygiene in mind. Compounds are compliant with global food standards, while smooth extruded inner tubes can withstand aggressive cleaning regimes. This, combined with specially designed coupling systems, means no bacterial growth is possible on hose assemblies.&lt;br /&gt;
+	&lt;br /&gt;
+	&lt;strong&gt;Seals for hygienic-design couplings:&lt;/strong&gt; Hygienic-design couplings are located at virtually every connection in the system. Gaskets and seals must withstand stringent cleaning-in-place regimes to give long-life and no contamination.&lt;br /&gt;
+	Trelleborg products: Sanitary gaskets, O-rings&lt;br /&gt;
+	&lt;br /&gt;
+	&lt;strong&gt;Anti-vibration isolation:&lt;/strong&gt; Isolation systems reduce vibration to the support structure of equipment by up to 90 percent and significantly lower noise levels. Products are supplied in a variety of different polymer compounds along with silicone and stainless steel for critical food production applications.&lt;br /&gt;
+	Trelleborg products: Cushyfoot, TF bushes.&lt;br /&gt;
+	&lt;br /&gt;
+	&lt;strong&gt;Seals for rotary distributor and bearings:&lt;/strong&gt; The rotary mechanism distributes the media being processed around the processing system. Special dynamic seals keep grease, cleaning fluids and water out of rotary bearings.&lt;br /&gt;
+	Trelleborg products: Roto Variseal, Turcon Varilip PDR, X-Ring, radial oil seal.&lt;br /&gt;
+	&lt;br /&gt;
+	For more information, visit &lt;a href="http://www.trelleborg.com/"&gt;www.trelleborg.com&lt;/a&gt;.&lt;/p&gt;&lt;img src="http://feeds.feedburner.com/~r/noria/reliableplant/tags/overall_equipment_effectiveness/~4/xY9cxUWr4k0" height="1" width="1" alt=""/&gt;</description>
+            <a10:updated>2010-03-05T09:45:26-06:00</a10:updated>
+            <a10:content type="text/html" src="http://reliableplant.com/Read/23252/technology-hygiene-food-beverage" />
+        <feedburner:origLink>http://reliableplant.com/Read/23252/technology-hygiene-food-beverage</feedburner:origLink></item>
+        <item>
+            <guid isPermaLink="false">tag:noria.com,2010-06-10:publishing:magazines:rp:7731b9e5-ac11-4a49-967f-9d2900e533ef</guid>
+            <link>http://feedproxy.google.com/~r/noria/reliableplant/tags/overall_equipment_effectiveness/~3/h7bddAO4-_U/role-reliability-engineer-operations</link>
+            <a10:author>
+                <a10:name>Donald Ray</a10:name>
+            </a10:author>
+            <category>Web Exclusives</category>
+            <category>Articles</category>
+            <title>What's the role of the reliability engineer?</title>
+            <description>&lt;p&gt;
+	&lt;img align="left" hspace="7" src="http://media.noria.com/sites/Uploads/2013/12/20/45cc81b2-8183-421e-a611-a5ce00088b73_Fotolia_40410101_XS.jpeg" vspace="7" /&gt;&lt;/p&gt;
+&lt;p&gt;
+	The primary role of the reliability engineer is to identify and manage asset reliability risks that could adversely affect plant or business operations. This broad primary role can be divided into three smaller, more manageable roles: loss elimination, risk management and life cycle asset management (LCAM).&lt;/p&gt;
+&lt;p&gt;
+	&lt;strong&gt;&lt;em&gt;Loss Elimination&lt;/em&gt;&lt;/strong&gt;&lt;br /&gt;
+	One of the fundamental roles of the reliability engineer is to track the production losses and abnormally high maintenance cost assets, then find ways to reduce those losses or high costs. These losses are prioritized to focus efforts on the largest/most critical opportunities. The reliability engineer (in full partnership with the operations team) develops a plan to eliminate or reduce the losses through root cause analysis, obtains approval of the plan and facilitates the implementation.&lt;/p&gt;
+&lt;p&gt;
+	&lt;strong&gt;&lt;em&gt;Risk Management&lt;/em&gt;&lt;/strong&gt;&lt;br /&gt;
+	Another role of the reliability engineer is to manage risk to the achievement of an organization&amp;rsquo;s strategic objectives in the areas of environmental health and safety, asset capability, quality and production. Some tools used by a reliability engineer to identify and reduce risk include:&lt;/p&gt;
+&lt;ul&gt;
+	&lt;li&gt;
+		PHA &amp;ndash; Preliminary hazards analysis&lt;/li&gt;
+	&lt;li&gt;
+		FMEA &amp;ndash; Failure modes and effects analysis&lt;/li&gt;
+	&lt;li&gt;
+		CA &amp;ndash; Criticality analysis&lt;/li&gt;
+	&lt;li&gt;
+		SFMEA &amp;ndash; Simplified failure modes and effects analysis&lt;/li&gt;
+	&lt;li&gt;
+		MI &amp;ndash; Maintainability information&lt;/li&gt;
+	&lt;li&gt;
+		FTA &amp;ndash; Fault tree analysis&lt;/li&gt;
+	&lt;li&gt;
+		ETA &amp;ndash; Event tree analysis&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;
+	&lt;strong&gt;&lt;em&gt;Life Cycle Asset Management&lt;/em&gt;&lt;/strong&gt;&lt;br /&gt;
+	Studies show that as much as 95 percent of the total cost of ownership (TCO) or life cycle cost (LCC) of an asset is determined before it is put into use. This reveals the need for the reliability engineer to be involved in the design and installation stages of projects for new assets and modification of existing assets.&lt;/p&gt;
+&lt;p&gt;
+	&lt;strong&gt;&lt;em&gt;Reliability Engineer Responsibilities and Duties&lt;/em&gt;&lt;/strong&gt;&lt;br /&gt;
+	Here&amp;rsquo;s a list of responsibilities and duties commonly found in the job description of a reliability engineer:&lt;/p&gt;
+&lt;ul&gt;
+	&lt;li&gt;
+		Works with project engineering to ensure the reliability and maintainability of new and modified installations. The reliability engineer is responsible for adhering to the life cycle asset management (LCAM) process throughout the entire life cycle of new assets.&lt;br /&gt;
+		&amp;nbsp;&lt;/li&gt;
+	&lt;li&gt;
+		Participates in the development of design and installation specifications along with commissioning plans. Participates in the development of criteria for and evaluation of equipment and technical MRO suppliers and technical maintenance service providers. Develops acceptance tests and inspection criteria.&lt;br /&gt;
+		&amp;nbsp;&lt;/li&gt;
+	&lt;li&gt;
+		Participates in the final check-out of new installations. This includes factory and site acceptance testing that will assure adherence to functional specifications.&lt;br /&gt;
+		&amp;nbsp;&lt;/li&gt;
+	&lt;li&gt;
+		Guides efforts to ensure reliability and maintainability of equipment, processes, utilities, facilities, controls and safety/security systems.&lt;br /&gt;
+		&amp;nbsp;&lt;/li&gt;
+	&lt;li&gt;
+		Professionally and systematically defines, designs, develops, monitors and refines an asset maintenance plan that includes:
+		&lt;ul&gt;
+			&lt;li&gt;
+				Value-added preventive maintenance tasks&lt;/li&gt;
+			&lt;li&gt;
+				Effective utilization of predictive and other non-destructive testing methodologies designed to identify and isolate inherent reliability problems&lt;br /&gt;
+				&amp;nbsp;&lt;/li&gt;
+		&lt;/ul&gt;
+	&lt;/li&gt;
+	&lt;li&gt;
+		Provides input to a risk management plan that will anticipate reliability-related and non-reliability-related risks that could adversely impact plant operations.&lt;br /&gt;
+		&amp;nbsp;&lt;/li&gt;
+	&lt;li&gt;
+		Develops engineering solutions to repetitive failures and all other problems that adversely affect plant operations. These problems include capacity, quality, cost or regulatory compliance issues. To fulfill this responsibility, the reliability engineer applies:
+		&lt;ul&gt;
+			&lt;li&gt;
+				Data analysis techniques that can include:
+				&lt;ul&gt;
+					&lt;li&gt;
+						Statistical process control&lt;/li&gt;
+					&lt;li&gt;
+						Reliability modeling and prediction&lt;/li&gt;
+					&lt;li&gt;
+						Fault tree analysis&lt;/li&gt;
+					&lt;li&gt;
+						Weibull analysis&lt;/li&gt;
+					&lt;li&gt;
+						Six Sigma (6&amp;sigma;) methodology&lt;/li&gt;
+				&lt;/ul&gt;
+			&lt;/li&gt;
+			&lt;li&gt;
+				Root cause analysis (RCA) and root cause failure analysis (RCFA)&lt;/li&gt;
+			&lt;li&gt;
+				Failure reporting, analysis and corrective action system (FRACAS)&lt;br /&gt;
+				&amp;nbsp;&lt;/li&gt;
+		&lt;/ul&gt;
+	&lt;/li&gt;
+	&lt;li&gt;
+		Works with Production to perform analyses of assets including:
+		&lt;ul&gt;
+			&lt;li&gt;
+				Asset utilization&lt;/li&gt;
+			&lt;li&gt;
+				Overall equipment effectiveness&lt;/li&gt;
+			&lt;li&gt;
+				Remaining useful life&lt;/li&gt;
+			&lt;li&gt;
+				Other parameters that define operating condition, reliability and costs of assets&lt;br /&gt;
+				&amp;nbsp;&lt;/li&gt;
+		&lt;/ul&gt;
+	&lt;/li&gt;
+	&lt;li&gt;
+		Provides technical support to production, maintenance management and technical personnel.&lt;br /&gt;
+		&amp;nbsp;&lt;/li&gt;
+	&lt;li&gt;
+		Applies value analysis to repair/replace, repair/redesign and make/buy decisions.&lt;/li&gt;
+&lt;/ul&gt;&lt;img src="http://feeds.feedburner.com/~r/noria/reliableplant/tags/overall_equipment_effectiveness/~4/h7bddAO4-_U" height="1" width="1" alt=""/&gt;</description>
+            <a10:updated>2010-02-26T13:54:28-06:00</a10:updated>
+            <a10:content type="text/html" src="http://reliableplant.com/Read/23083/role-reliability-engineer-operations" />
+        <feedburner:origLink>http://reliableplant.com/Read/23083/role-reliability-engineer-operations</feedburner:origLink></item>
+        <item>
+            <guid isPermaLink="false">tag:noria.com,2010-06-10:publishing:magazines:rp:e6fac76a-12f2-4d9a-8ce1-9cf800da223e</guid>
+            <link>http://feedproxy.google.com/~r/noria/reliableplant/tags/overall_equipment_effectiveness/~3/4dGb0L9yp5M/au-oee-difference</link>
+            <a10:author>
+                <a10:name>Josh Rothenberg</a10:name>
+            </a10:author>
+            <category>Web Exclusives</category>
+            <category>Articles</category>
+            <title>What is the difference between AU and OEE?</title>
+            <description>&lt;P&gt;In todayâs competitive global environment, we are constantly being asked to do more with less. Now more than ever, companies are asking their employees to become more productive, more efficient â¦ more âleanâ. Strategic planning, value stream mapping, reliability engineering, loss elimination â these phrases have become popular from the boardroom to the shop floor. But where does their value really lie? How do we make decisions that uncover value, eliminate loss and allow for proper strategic planning for the future? The answer lies not in the decisions we make, but in the data which we use to make those decisions. Good, strong data is key to making good, strong decisions.&lt;/P&gt;
+&lt;P&gt;We are all familiar with the axiom âgarbage in, garbage outâ. So, what kind of data should we use? What metrics give us the best snapshot of our current levels of performance? If you read the title of this article, chances are youâre ready to guess.&lt;/P&gt;
+&lt;P&gt;Asset utilization (AU) and overall equipment effectiveness (OEE) are key performance-based metrics that â when calculated and communicated properly â allow for effective facility management and provide sound backing for potentially difficult business decisions to be made. Much confusion, however, lies in their definition and understanding when and where to use them.&lt;/P&gt;
+&lt;P&gt;Asset utilization is defined as: Availability x Rate x Quality&lt;/P&gt;
+&lt;P&gt;Overall equipment effectiveness is defined as: Uptime x Rate x Quality&lt;/P&gt;
+&lt;P&gt;As we can see, AU and OEE are similar â both calculations for Rate and Quality are the same, and are defined as follows:&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;Rate = Average Rate divided by Best Demonstrated or Design Rate&lt;/STRONG&gt;&lt;BR&gt;Where average rate is the speed or efficiency of the system under analysis over a given time period. Best demonstrated or design rate is determined by the nameplate capacity of the system or the best demonstrated rate recorded. I prefer to use the best demonstrated rate, as empirical data is a better model of the system in question. A 100 percent Rate calculation would signal that the system is operating consistently at its maximum demonstrated speed.&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;Quality = First-pass Units divided by Total Units&lt;/STRONG&gt;&lt;BR&gt;Where first-pass units is defined as the good units produced over a certain time period that meet customer specifications. These âqualityâ units are compared to the total units produced â which include those that do not meet customer specifications. A 100 percent Quality calculation would signify no scrap or rework in the process.&lt;/P&gt;
+&lt;P&gt;Based on the above formulas, we can easily see that the difference between OEE and AU lies in how one compares availability and uptime. So, what is the difference? Availability and Uptime are defined as follows:&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;Availability = Operating Time divided by Calendar Time&lt;/STRONG&gt;&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;Uptime = Operating Time divided by Scheduled Time&lt;/STRONG&gt;&lt;/P&gt;
+&lt;P&gt;Where operating time is defined as the amount of time that the system is actually operating. Calendar time is based on the 24/7/365 schedule as we know it. Scheduled time is defined as the amount of time the system under analysis was planned or scheduled to operate. So, if I operate my system for six hours on one eight-hour shift on a given day, my Uptime is 6/8 or 75 percent, while my Availability is 6/24 or 25 percent. What a difference! Typically, OEE is used to understand how well systems or assets perform based on current business demands and production schedules. AU allows for a better understanding of how well that system or asset is currently utilized and allows insight for future business planning by calculating what type of production could be achieved.&lt;/P&gt;
+&lt;P&gt;In some industries (petroleum, specialty chemical, etc.), scheduled time is equal to calendar time, and in that case, Availability = Uptime, and OEE and AU are equal.&lt;/P&gt;
+&lt;P&gt;This scenario is similar to how a square is a rectangle but a rectangle isnât a square. Itâs easy to understand once youâve got it, but confusing the first couple of times you hear it.&lt;/P&gt;
+&lt;P&gt;It is important now to take a few moments and discuss terminology. My background in Six Sigma differentiated between Availability and Uptime for AU and OEE, respectively â as defined above. Lean terminology defines OEE as the product of Availability x Rate x Quality, with Availability defined in the same way Uptime is defined above. So, which is correct? Truth is, it doesnât matter. As Shakespeare said, âWhat's in a name? That which we call a rose, by any other name, would smell as sweet.â What IS important is to clearly define what you and your organization are trying to capture, agree on common terminology to allow for clear, concise discussion, and determine the best way to capture the needed data. &lt;/P&gt;
+&lt;P&gt;As always, the devil is in the details. When setting up data capture systems to determine Rate and Quality and Uptime/Availability calculations, take care to ensure consistent measurement and data validity.&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;&lt;U&gt;References:&lt;/U&gt;&lt;/STRONG&gt;&lt;BR&gt;Vorne Industries. The Fast Guide to OEE. &lt;A href="http://www.vorne.com/pdf/fast-guide-tooee.pdf"&gt;http://www.vorne.com/pdf/fast-guide-tooee.pdf&lt;/A&gt;&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;&lt;U&gt;About the author:&lt;/U&gt;&lt;/STRONG&gt;&lt;BR&gt;Josh Rothenberg, CMRP, is a principal consultant with Life Cycle Engineering. For more information, visit &lt;A href="http://www.LCE.com"&gt;www.LCE.com&lt;/A&gt; or call 843-744-7110.&lt;/P&gt;&lt;img src="http://feeds.feedburner.com/~r/noria/reliableplant/tags/overall_equipment_effectiveness/~4/4dGb0L9yp5M" height="1" width="1" alt=""/&gt;</description>
+            <a10:updated>2009-08-19T00:00:00-05:00</a10:updated>
+            <a10:content type="text/html" src="http://reliableplant.com/Read/19529/au-oee-difference" />
+        <feedburner:origLink>http://reliableplant.com/Read/19529/au-oee-difference</feedburner:origLink></item>
+        <item>
+            <guid isPermaLink="false">tag:noria.com,2010-06-10:publishing:magazines:rp:be8aa865-7b4a-4de2-9b21-9cf800da6c25</guid>
+            <link>http://feedproxy.google.com/~r/noria/reliableplant/tags/overall_equipment_effectiveness/~3/KczxP01CT9U/oee-real-time</link>
+            <a10:author>
+                <a10:name>RP news wires</a10:name>
+            </a10:author>
+            <category>Media Entries</category>
+            <title>Vodcast: OEE and real-time performance management</title>
+            <description>&lt;IMG src="http://media.noria.com/sites/archive_images/images_spacer.gif" width=1 height=1&gt; 
+&lt;P&gt;&lt;SPAN&gt;Today's manufacturers require an OEE solution which provides plantwide metrics and real-time information to help drive performance improvements including reduced downtime, reduced cycle times and lower costs. The Iconics OEE solution can be implemented as part of your continuous improvement program and to support other lean manufacturing initiatives including 5-S, Six Sigma and TPM. This vodcast will give you an idea of what this OEE Solution looks like and how it can save you money.&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P&gt;&lt;SPAN&gt;Access this 7-minute, 9-second vodcast by clicking on the link below.&amp;nbsp;&lt;/SPAN&gt;&lt;/P&gt;&lt;img src="http://feeds.feedburner.com/~r/noria/reliableplant/tags/overall_equipment_effectiveness/~4/KczxP01CT9U" height="1" width="1" alt=""/&gt;</description>
+            <a10:updated>2009-06-30T00:00:00-05:00</a10:updated>
+            <a10:content type="text/html" src="http://reliableplant.com/View/18519/oee-real-time" />
+        <feedburner:origLink>http://reliableplant.com/View/18519/oee-real-time</feedburner:origLink></item>
+        <item>
+            <guid isPermaLink="false">tag:noria.com,2010-06-10:publishing:magazines:rp:44b6f1cb-bf46-4070-aac1-9cf800da5cb5</guid>
+            <link>http://feedproxy.google.com/~r/noria/reliableplant/tags/overall_equipment_effectiveness/~3/CfKfvYqqKls/oee-assessment</link>
+            <a10:author>
+                <a10:name>RP news wires</a10:name>
+            </a10:author>
+            <category>Videos</category>
+            <category>Media Entries</category>
+            <title>OEE as a valuable assessment tool</title>
+            <description>&lt;p&gt;
+	Listen to how overall equipment effectiveness (OEE) provides an analytical framework for assessing true manufacturing effectiveness.&lt;/p&gt;
+&lt;p&gt;
+	Access this 1-minute, 9-second video by clicking on the link below.&lt;/p&gt;
+&lt;p&gt;
+	 &lt;/p&gt;&lt;img src="http://feeds.feedburner.com/~r/noria/reliableplant/tags/overall_equipment_effectiveness/~4/CfKfvYqqKls" height="1" width="1" alt=""/&gt;</description>
+            <a10:updated>2009-03-16T00:00:00-05:00</a10:updated>
+            <a10:content type="text/html" src="http://reliableplant.com/View/16498/oee-assessment" />
+        <feedburner:origLink>http://reliableplant.com/View/16498/oee-assessment</feedburner:origLink></item>
+        <item>
+            <guid isPermaLink="false">tag:noria.com,2010-06-10:publishing:magazines:rp:854081e6-cdec-46f9-adf6-9cf800da4f24</guid>
+            <link>http://feedproxy.google.com/~r/noria/reliableplant/tags/overall_equipment_effectiveness/~3/t0cji5bYdyY/vodcast-a-primer-on-total-productive-maintenance</link>
+            <a10:author>
+                <a10:name>RP news wires</a10:name>
+            </a10:author>
+            <category>Media Entries</category>
+            <title>Vodcast: A primer on Total Productive Maintenance</title>
+            <description>&lt;IMG height=1 src="http://media.noria.com/sites/archive_images/images_spacer.gif" width=1&gt;
+&lt;P&gt;This vodcast provides a presentation on the subject of&amp;nbsp;Total Productive Maintenance (TPM), an important lean manufacturing tool. &lt;/P&gt;
+&lt;P&gt;Access this 3-minute, 15-second vodcast by clicking on the link below.&lt;/P&gt;&lt;img src="http://feeds.feedburner.com/~r/noria/reliableplant/tags/overall_equipment_effectiveness/~4/t0cji5bYdyY" height="1" width="1" alt=""/&gt;</description>
+            <a10:updated>2008-10-24T00:00:00-05:00</a10:updated>
+            <a10:content type="text/html" src="http://reliableplant.com/View/14048/vodcast-a-primer-on-total-productive-maintenance" />
+        <feedburner:origLink>http://reliableplant.com/View/14048/vodcast-a-primer-on-total-productive-maintenance</feedburner:origLink></item>
+        <item>
+            <guid isPermaLink="false">tag:noria.com,2010-06-10:publishing:magazines:rp:b4ae94c5-84e6-4c68-be13-9cf800da16b0</guid>
+            <link>http://feedproxy.google.com/~r/noria/reliableplant/tags/overall_equipment_effectiveness/~3/-Cn72e27BvE/overall-equipment-effectiveness</link>
+            <a10:author>
+                <a10:name>Carl Wright</a10:name>
+            </a10:author>
+            <category>Web Exclusives</category>
+            <category>Articles</category>
+            <title>Understanding overall equipment effectiveness</title>
+            <description>&lt;P&gt;Overall equipment effectiveness (OEE) is a concept utilized in a lean manufacturing implementation. OEE is becoming a commonly utilized maintenance metric within lean organizations.&lt;BR&gt;&lt;/P&gt;
+&lt;P&gt;The &lt;A href="http://www.1stcourses.com/"&gt;OEE&lt;/A&gt; concept normally measures the effectiveness of a machine center or process line, but can be utilized in non-manufacturing operations, also.&lt;BR&gt;&lt;/P&gt;
+&lt;P&gt;The high-level formula for the lean manufacturing OEE is:&lt;BR&gt;&lt;/P&gt;
+&lt;P&gt;OEE = Availability X Productivity X Quality. &amp;nbsp;&lt;BR&gt;&lt;/P&gt;
+&lt;P&gt;Abbreviated, it is OEE = A X P X Q.&lt;BR&gt;&lt;/P&gt;
+&lt;P&gt;The âAvailabilityâ portion of the equation measures the percentage of time the equipment or operation was running compared to the available time. For example, if a machine was available to run 16 hours but was only run for 12, then the âAvailabilityâ is 75 percent (12/16). The four hours when the machine didnât run would be setup time, breakdown or other down time. The eight hours the company did not plan to run the machine is rarely used in the calculation.&lt;BR&gt;&lt;/P&gt;
+&lt;P&gt;The âPerformanceâ portion of the equation measures the running speed of the operation compared to its maximum capability, often called the rated speed. For example, if a machine produced 70 pieces per hour while running but the capability of the machine is 100, then the âPerformanceâ is 70 percent (70/100). The concept can be used multiple ways depending on the capability number. For example, the machine might be capable of producing 100 pieces per hour with the perfect part, but only 90 on that particular order. When the capability of 100 is used for the calculation, the result is more a measure of facility OEE. For example, the sales department may take an order for a part than can only be produced at 90 per hour, which negatively affects OEE.&lt;BR&gt;&lt;/P&gt;
+&lt;P&gt;The âQualityâ portion of the equation measures the number of good parts produced compared to the total number of parts made. For example, if 100 parts are made and 90 of them are good, the âQualityâ is 90 percent (90/100).&lt;BR&gt;&lt;/P&gt;
+&lt;P&gt;Combining the above example into the OEE equation, the OEE is:&lt;BR&gt;&lt;/P&gt;
+&lt;P&gt;OEE = 75% X 70% X 90% = 47.25%&lt;BR&gt;&lt;/P&gt;
+&lt;P&gt;As you can see, an OEE of 100 percent would require a machine to produce good quality every second of the available time at its top rated speed.&lt;BR&gt;&lt;/P&gt;
+&lt;P&gt;The key to using OEE is in the analysis. For example, if the âAvailabilityâ is 70 percent, the 30 percent of time for breakdowns, setup and downtime should be analyzed for improvement opportunities.&lt;BR&gt;&lt;/P&gt;
+&lt;P&gt;The most effective use of OEE is to break down the losses into smaller buckets of âopportunityâ. A 50 percent OEE doesnât mean much without any detail.&lt;BR&gt;&lt;/P&gt;
+&lt;P&gt;The OEE goal depends on the process, setup times and order quantities. For example, a machine that produces 10 orders per day with a 30-minute setup time would have 300 minutes reduced from the Availability equation. Conversely, a machine that runs one order all day would only have 30 minutes of setup time. These facts make it difficult to compare two machinesâ OEE numbers. The value is in the analysis and comparison of a machineâs OEE in one period vs. another. The comparison may also become meaningless if the order quantities vary significantly day to day.&lt;BR&gt;&lt;/P&gt;
+&lt;P&gt;Knowing the complete OEE breakdown, the opportunities for improvement become apparent. The largest opportunities should be improved first, working down the list until all opportunities are improved.&lt;BR&gt;&lt;/P&gt;
+&lt;P&gt;The improvement opportunities are always in one of the following âbucketsâ.&lt;BR&gt;&lt;/P&gt;
+&lt;UL&gt;
+&lt;LI&gt;Breakdown 
+&lt;LI&gt;Setup 
+&lt;LI&gt;Downtime 
+&lt;LI&gt;Speed loss 
+&lt;LI&gt;Small stops 
+&lt;LI&gt;Quality &lt;/LI&gt;&lt;/UL&gt;
+&lt;P&gt;OEE is an excellent way of communicating the improvement opportunities to everyone, including operators, maintenance technicians, sales representatives, engineers and managers.&lt;BR&gt;&lt;/P&gt;
+&lt;P&gt;Most lean manufacturing tools work together to create value in the system and eliminate âwasteâ. OEE is a prime example of this integration of tools.&lt;BR&gt;&lt;/P&gt;
+&lt;P&gt;Many lean implementations begin with a concept called â5-Sâ and value stream mapping. The value stream map shows where the waste occurs in the system. OEE analysis can be applied at the point where the waste occurs. The improvement in the OEE number will take the use of other lean applications, such as SMED (setup reduction), TPM (Total Productive Maintenance), standardized operations and âkaizen eventsâ targeting specific areas.&lt;BR&gt;&lt;/P&gt;
+&lt;P&gt;It is important in a lean manufacturing implementation to use the correct tools at the right time. Many lean implementations have failed because organizations failed to grasp a deep understanding of all lean concepts. &amp;nbsp;&lt;BR&gt;&lt;/P&gt;
+&lt;P&gt;The tools should be âpickedâ based on the opportunities in the organization, rather than âfitâ into the organization. When an organization forces tools that donât apply, it creates chaos and credibility problems.&lt;BR&gt;&lt;/P&gt;
+&lt;P&gt;OEE is a powerful lean manufacturing tool, especially when combined with other tools using an integrated approach. &amp;nbsp;&lt;BR&gt;&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;&lt;U&gt;About the author:&lt;/U&gt;&lt;/STRONG&gt;&lt;BR&gt;Carl Wright is an industrial engineer, ASQ Six Sigma blackbelt and master blackbelt. For more information on lean manufacturing and Six Sigma, visit Wrightâs Web site at &lt;A href="http://www.1stcourses.com" target=_blank&gt;www.1stcourses.com&lt;/A&gt;.&lt;/P&gt;&lt;img src="http://feeds.feedburner.com/~r/noria/reliableplant/tags/overall_equipment_effectiveness/~4/-Cn72e27BvE" height="1" width="1" alt=""/&gt;</description>
+            <a10:updated>2008-05-06T00:00:00-05:00</a10:updated>
+            <a10:content type="text/html" src="http://reliableplant.com/Read/11785/overall-equipment-effectiveness" />
+        <feedburner:origLink>http://reliableplant.com/Read/11785/overall-equipment-effectiveness</feedburner:origLink></item>
+        <item>
+            <guid isPermaLink="false">tag:noria.com,2010-06-10:publishing:magazines:rp:284ff9be-cd4d-4f9a-80a3-9cf800da163b</guid>
+            <link>http://feedproxy.google.com/~r/noria/reliableplant/tags/overall_equipment_effectiveness/~3/1ylp7ojXSw4/value-oee</link>
+            <a10:author>
+                <a10:name>Keith Mobley</a10:name>
+            </a10:author>
+            <category>Web Exclusives</category>
+            <category>Articles</category>
+            <title>'How do I determine the value of OEE?'</title>
+            <description>&lt;P&gt;Overall equipment effectiveness (OEE) can be an accurate representation of overall plant performance. Derived from Total Productive Maintenance (TPM) and the Toyota Production System (lean), OEE is a single, calculated value that represents the plantâs effectiveness in three key performance indicators: 1) availability or runtime, 2) production rate, and 3) quality rate. This straightforward value was intended to be the product of these three values, but has become a convoluted, almost infinite variation of calculations.&lt;/P&gt;
+&lt;P&gt;The correct calculation for OEE is the product of the availability, production and quality rates and should be calculated as follows:&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;&lt;EM&gt;Availability Rate&lt;/EM&gt;&lt;/STRONG&gt;&lt;BR&gt;Availability rate is the actual production runtime for a specific time interval divided by the âplannedâ runtime for the same interval. For example, an asset that is planned and scheduled to operation eight hours per day, five days per week has a total availability of 40 hours. If it has an actual runtime of 20 hours, the resultant availability rate is 50 percent.&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;&lt;EM&gt;Production Rate&lt;/EM&gt;&lt;/STRONG&gt;&lt;BR&gt;Production rate is the actual gross units produced for a specific time interval divided by the number of units that should have been produced. Technically, the denominator in this case should be the ideal rate as defined by the assetâs design specifications; but in most cases, assets are operating well above the original ânameplateâ production rate. Therefore, the best demonstrated production rate should be used for this calculation. Best demonstrated is simply the best sustainable rate, based on asset history that your plant has been able to achieve.&lt;/P&gt;
+&lt;P&gt;For example, when an asset produces 1,000 units per hour and its best demonstrated rate is 2,000 units per hour, the resultant production rate is 50 percent.&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;&lt;EM&gt;Quality Rate&lt;/EM&gt;&lt;/STRONG&gt;&lt;BR&gt;Quality rate should be straightforward. It is the total quality units produced divided by the total or gross units produced. Total quality units is defined as the total (gross) units produced minus all scrap, rejects, reworks and any other units that cannot be sold as prime. For example, if the asset produces 1,000 total units but 100 units are rejected, the numerator becomes 900 and the denominator is 1,000, or a quality rate of 90 percent.&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;&lt;EM&gt;Put it all Together&lt;/EM&gt;&lt;/STRONG&gt;&lt;BR&gt;Once these three values are determined, the final OEE calculation is simply the product of the three values, expressed as percentages, or 50% x 50% x 90%, or 22.5%.&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;&lt;U&gt;About the author:&lt;/U&gt;&lt;/STRONG&gt;&lt;BR&gt;Keith Mobley, a principal consultant with Life Cycle Engineering, has earned an international reputation as one of the premier consultants in the fields of plant performance optimization, reliability engineering, predictive maintenance and effective management. He has more than 35 years of direct experience in corporate management, process design and troubleshooting. For the past 16 years, he has helped hundreds of clients worldwide achieve and sustain world-class performance. Mobley is actively involved in numerous professional organizations. Currently, he is a member of the technical advisory boards of: American National Standards Institute (ANSI), International Standards Organization (ISO) as well as American Society of Mechanical Engineers (ASME) and others. He is also a Distinguished Lecturer for ASME International. To learn more, visit &lt;A href="http://www.lce.com/"&gt;www.lce.com&lt;/A&gt;. &lt;/P&gt;&lt;img src="http://feeds.feedburner.com/~r/noria/reliableplant/tags/overall_equipment_effectiveness/~4/1ylp7ojXSw4" height="1" width="1" alt=""/&gt;</description>
+            <a10:updated>2008-04-23T00:00:00-05:00</a10:updated>
+            <a10:content type="text/html" src="http://reliableplant.com/Read/11595/value-oee" />
+        <feedburner:origLink>http://reliableplant.com/Read/11595/value-oee</feedburner:origLink></item>
+        <item>
+            <guid isPermaLink="false">tag:noria.com,2010-06-10:publishing:magazines:rp:dd006e94-5af6-443b-a712-9cf800d9fdea</guid>
+            <link>http://feedproxy.google.com/~r/noria/reliableplant/tags/overall_equipment_effectiveness/~3/g8RzxZ-7n4w/oee-uptime</link>
+            <a10:author>
+                <a10:name>Mike Verdin</a10:name>
+            </a10:author>
+            <category>Magazine Articles</category>
+            <category>Articles</category>
+            <title>Lean O-E-E: The quest for uptime</title>
+            <description>&lt;P align=left&gt;Brian Kenny, the plant manager of Paulco, teetered on the middle of a big picket fence. When does a career-making challenge turn into a career-limiting problem? Recently, he and plant lean principles expert Linda Amoroso had been charged with finding ways to increase site output 15 percent to cover a sudden sales upside opportunity. &lt;/P&gt;
+&lt;P&gt;There were four little things getting in the way: &lt;/P&gt;
+&lt;OL&gt;
+&lt;LI&gt;
+&lt;P&gt;They were maxed out on equipment output. &lt;/P&gt;
+&lt;LI&gt;
+&lt;P&gt;There was no time to buy equipment. &lt;/P&gt;
+&lt;LI&gt;
+&lt;P&gt;There was no time to hire and train new people. &lt;/P&gt;
+&lt;LI&gt;
+&lt;P&gt;The increased shipments needed to start within a month. &lt;/P&gt;&lt;/LI&gt;&lt;/OL&gt;
+&lt;P&gt;Other than that, they were in great shape. &lt;/P&gt;
+&lt;P&gt;"Fifteen percent is a lot," exclaimed Brian. "It's not like we're dogging it now. Everything and everyone I have is giving their all." &lt;/P&gt;
+&lt;P&gt;"I know it seems like a big hurdle," replied Linda, "but there is hope. We already decided that the Finntronics equipment was the main focus since it is the true bottleneck (see Part 2, in the July/August 2007 issue, at www.reliableplant.com). However, based on the floor diagnostic study I did a few days ago, there is waste that we can cut." &lt;/P&gt;
+&lt;P&gt;Linda showed Brian the results of her floor study (Figure 1). &lt;/P&gt;
+&lt;P align=center&gt;&lt;IMG alt=Reli_Forum-Fig2.gif src="http://media.noria.com/sites/archive_images/articles_200801_Reli_Forum-Fig2.gif"&gt;&lt;/P&gt;
+&lt;P align=center&gt;&lt;B&gt;&lt;B&gt;Figure 1. Finntronics Floor Study Results: Percent of Total Time &lt;/B&gt;&lt;/B&gt;&lt;/P&gt;
+&lt;P&gt;"Wow!" yawped Brian. "I'm getting hungry looking at that pie â¦ and I'm absolutely salivating at the Availability Waste slice! Let's eat that one first." &lt;/P&gt;
+&lt;P&gt;"Agreed," replied Linda. "But, let me show you some more detail (Figure 2) so that we'll know exactly where to go. You see, we spend an awful lot of downtime (44 percent) in conversion setup." &lt;/P&gt;
+&lt;P&gt;&lt;IMG alt=Reli_Forum-Fig1.gif src="http://media.noria.com/sites/archive_images/articles_200801_Reli_Forum-Fig1.gif"&gt;&lt;/P&gt;
+&lt;P align=center&gt;&lt;B&gt;&lt;B&gt;Figure 2. Downtime Components as Percent of Total Downtime &lt;/B&gt;&lt;/B&gt;&lt;/P&gt;
+&lt;P&gt;"Of course, we do," rejoined Brian. "We have many products run through the Finntronics in a given day. You're not suggesting limiting our product line, are you?" &lt;/P&gt;
+&lt;P&gt;"No, no, nothing of the kind," responded Linda. "It's not the number of conversions we do, it's the time it takes to do them. That is what we must attack. In past projects that I have led, when we apply lean principles to setup reduction, we often save 50 percent of the setup time. And, look at this equipment qualification data. That category accounts for 17 percent of our downtime." &lt;/P&gt;
+&lt;P&gt;"Hold on to your horses. That's a quality issue. We are not cutting there," asserted Brian. &lt;/P&gt;
+&lt;P&gt;"Is it?" said Linda. "When was that qualification instituted? Don't we have other product and machine measures during our process to ensure that the equipment is not drifting or producing bad product?" &lt;/P&gt;
+&lt;P&gt;"Yes, I suppose we do," offered Brian. "We put in that qualification step when we installed the machines because there were some start-up problems. I guess we never stopped it. And, yes, we do constantly check our product and equipment quality, so I see your point. Why do we need to qual every shift?" &lt;/P&gt;
+&lt;P&gt;"Exactly. So, now let's look at preventive maintenance." &lt;/P&gt;
+&lt;P&gt;"Whoa, partner!" interjected Brian. "Open any book on maintenance and they will tell you that PM is vital. Do it early and often." &lt;/P&gt;
+&lt;P&gt;"Well, you're certainly right," acknowledged Linda. "I have looked in some books from the 1980s that told me just that. Yes, we need to prevent episodes of corrective maintenance, but can we change the way that we do and trigger preventive maintenance? Do we need to do weekly and daily PMs like clockwork? Are they helping us reduce overall downtime? Are they taking too long? Maybe if we monitored the condition of equipment parameters, process outcomes, use hours, failure patterns and so on, we could more effectively use preventive maintenance. You know, it could be more condition-based. And, with conversion reduction techniques, we could also reduce PM time when we do choose to do it. &lt;/P&gt;
+&lt;P&gt;"So, now let's look at the last piece, corrective maintenance, at 21 percent. Do we know how much of that time is actual wrench repair time?" &lt;/P&gt;
+&lt;P&gt;"Well, sure," replied Brian, "You just said 21 percent." &lt;/P&gt;
+&lt;P&gt;"That is only one part of downtime," continued Linda. "What about the time to do root cause diagnosis, or the time to re-commission, or the time to recognize the equipment is down, or the time to respond once it is recognized? When we can break maintenance into the 5Rs - for recognize, respond, root cause, repair and recommission - then we can pinpoint effective action. &lt;/P&gt;
+&lt;P&gt;"Now, look at this (Figure 3). This shows our downtime by equipment copy. See anything funny?" &lt;/P&gt;
+&lt;P align=center&gt;&lt;IMG alt=Reli_Forum-Fig3.gif src="http://media.noria.com/sites/archive_images/articles_200801_Reli_Forum-Fig3.gif"&gt;&lt;/P&gt;
+&lt;P align=center&gt;&lt;B&gt;&lt;B&gt;Figure 3. Down Hours by Individual Equipment &lt;/B&gt;&lt;/B&gt;&lt;/P&gt;
+&lt;P&gt;"Yes," said Brian. "Look at this. Three of the four Finntronics are about equal - but Finn 2 is much higher in PM and corrective hours. Hey, wait a minute â¦ that's the one we put in late. There was no more room, so we placed it in another part of the building. Could there be some 5R issues there?" &lt;/P&gt;
+&lt;P&gt;"Sure, and possibly some training or procedural issues as well," stated Linda. &lt;/P&gt;
+&lt;P&gt;"Well, this all is great!" Brian exhaled a big sigh of relief. "Since availability is 14 percent of total lost time and we can fix all the downtime, I've only got 1 percent to go to make the 15 percent! Let's take it to the bank!" &lt;/P&gt;
+&lt;P&gt;"Well," said Linda hesitantly, "it's not that easy. I'm projecting we can cut maybe half of the availability loss. That leaves us with 7 to 8 percent to go. Tomorrow, let's talk 'speed loss'." &lt;/P&gt;
+&lt;P&gt;&lt;I&gt;To be continued ...&lt;/I&gt; &lt;/P&gt;
+&lt;P align=left&gt;&lt;B&gt;&lt;B&gt;&lt;/B&gt;&lt;/B&gt;&lt;/P&gt;&lt;B&gt;&lt;B&gt;&lt;/B&gt;&lt;/B&gt;
+&lt;P align=left&gt;&lt;EM&gt;Mike Verdin is a principal with Aveus, a global strategy and &lt;BR&gt;operational change firm located in St. Paul, Minn. Contact him at &lt;BR&gt;480-231-3368 or at &lt;/EM&gt;&lt;A href="mailto:mverdin@aveus.com"&gt;&lt;EM&gt;mverdin@aveus.com&lt;/EM&gt;&lt;/A&gt;&lt;EM&gt;. To learn more, visit &lt;/EM&gt;&lt;A href="http://www.aveus.com/"&gt;&lt;EM&gt;www.aveus.com&lt;/EM&gt;&lt;/A&gt;&lt;EM&gt;.&lt;/EM&gt;&lt;/P&gt;&lt;img src="http://feeds.feedburner.com/~r/noria/reliableplant/tags/overall_equipment_effectiveness/~4/g8RzxZ-7n4w" height="1" width="1" alt=""/&gt;</description>
+            <a10:updated>2008-02-25T00:00:00-06:00</a10:updated>
+            <a10:content type="text/html" src="http://reliableplant.com/Read/10691/oee-uptime" />
+        <feedburner:origLink>http://reliableplant.com/Read/10691/oee-uptime</feedburner:origLink></item>
+        <item>
+            <guid isPermaLink="false">tag:noria.com,2010-06-10:publishing:magazines:rp:e931c45e-2437-4064-8475-9cf800d9fc49</guid>
+            <link>http://feedproxy.google.com/~r/noria/reliableplant/tags/overall_equipment_effectiveness/~3/7PLVzfgY09I/lean-oee</link>
+            <a10:author>
+                <a10:name>Mike Verdin</a10:name>
+            </a10:author>
+            <category>Magazine Articles</category>
+            <category>Articles</category>
+            <title>Spelling lean O-E-E: The next day</title>
+            <description>&lt;P&gt;&lt;I&gt;This article is the second in a series on the marriage of lean and overall equipment effectiveness.&lt;/I&gt; &lt;/P&gt;
+&lt;P&gt;Brian Kenny, the plant manager of Paulco Inc., had a good problem. As with most opportunities - and thunderstorms - this one came up suddenly and intensely. Paulco had a great opportunity at a sales upside of 15 percent this quarter if they could deliver quickly. The increased shipments were to start within a month. &lt;/P&gt;
+&lt;P&gt;There were only three little problems standing in the way: &lt;/P&gt;
+&lt;OL&gt;
+&lt;LI&gt;
+&lt;P&gt;He was maxed out on equipment output. &lt;/P&gt;
+&lt;LI&gt;
+&lt;P&gt;There was no time to buy equipment. &lt;/P&gt;
+&lt;LI&gt;
+&lt;P&gt;There was no time to hire and train new people. &lt;/P&gt;&lt;/LI&gt;&lt;/OL&gt;
+&lt;P&gt;Other than that, he was in great shape. &lt;/P&gt;
+&lt;P&gt;Brian consulted his plant lean principles expert, Linda Amoroso, on how to proceed. &lt;/P&gt;
+&lt;P align=center&gt;&lt;IMG src="http://media.noria.com/sites/archive_images/articles_200707_Spelling-Lean-OEE-chart.jpg"&gt;&lt;/P&gt;
+&lt;P align=center&gt;&lt;B&gt;Figure 1. Equipment priority diagram. &lt;/B&gt;&lt;/P&gt;
+&lt;P&gt;"OK, this is a tall challenge," started Linda, "but I'm sure we can find a way to meet the numbers. I just need to know two things and then I'll get right on it." &lt;/P&gt;
+&lt;P&gt;"Great! What two things?" asked Brian. &lt;/P&gt;
+&lt;P&gt;"Which tool set is holding us back and where is the performance waste?" she said. &lt;/P&gt;
+&lt;P&gt;"All right," said Brian. "Two answers: I don't know, and what in the world do you mean by 'performance waste'?" &lt;/P&gt;
+&lt;P&gt;"You know, waste related to the overall equipment effectiveness categories of availability, performance and quality," replied Linda. "If we significantly improve the OEE of critical tool sets by removing waste, we can significantly increase throughput for the whole site." &lt;/P&gt;
+&lt;P&gt;"Well, we don't really know any of that," answered Brian. "But there is no waste. We are maxed out, obviously! But to be sure, talk to our production, engineering and maintenance folks." &lt;/P&gt;
+&lt;P&gt;Linda went to see the floor leaders and then returned later that day to see Brian. &lt;/P&gt;
+&lt;P&gt;"Well, do you have enough answers on the problem equipment to get going?" spouted Brian. &lt;/P&gt;
+&lt;P&gt;"I've got answers, all right. Three of them," returned Linda. "One thinks the main problem is the Mollynizer XLs, one thinks it's the Finntronics and one thinks it's the Nickrogenics! And the capacity model says we have the theoretical capacity on all of those. We must be losing our actual capacity to unplanned waste." &lt;/P&gt;
+&lt;P&gt;"So, which tool set is the real problem?" asked Brian. "And, what are its wastes - those two things you mentioned before?" &lt;/P&gt;
+&lt;P&gt;"Well, the numbers and opinions aren't telling us enough," said Linda. "We need to see, touch and record . . . first hand. If we conduct a floor diagnostic, we can determine the main problem tool set and its issues. We must combine the power of OEE and its equipment focus with the power of lean and its eye on waste reduction." &lt;/P&gt;
+&lt;P&gt;Linda and her team conducted a continuous floor diagnostic over the next several days focusing on the three critical tool sets and their utilization, work-in-process (WIP) levels and performance time losses. &lt;/P&gt;
+&lt;P align=center&gt;&lt;IMG src="http://media.noria.com/sites/archive_images/articles_200707_Spelling-Lean-OEE-Pie-Charts.jpg"&gt;&lt;/P&gt;
+&lt;P align=center&gt;&lt;STRONG&gt;Figure 2. Mollynizer Performance Summary.&amp;nbsp; Figure 3. Finntronics Performance Summary. &lt;/STRONG&gt;&lt;/P&gt;
+&lt;P&gt;Linda looked over the first data summaries from her team and plotted them on her whiteboard (Figure 1). She determined that there were two types of bottlenecks: &lt;/P&gt;
+&lt;OL&gt;
+&lt;LI&gt;"Glass" bottlenecks are easy to break (those with high WIP but low actual utilization). These usually can be fixed through quick projects related to resource allocation, procedure, setup reduction or focused improvement. The Mollynizer fit this category. &lt;BR&gt;
+&lt;LI&gt;"Iron" bottlenecks, on the other hand, featured high WIP but also high utilization. Thus, they were running hard and still accumulating WIP. These required a formal and comprehensive program, but are still breakable with the right focus. The Finntronics matched this description. &lt;/LI&gt;&lt;/OL&gt;
+&lt;P&gt;Based on the chart, Linda focused on the Mollynizer and Finntronics data and analyzed the detailed data of the diagnostic to determine which OEE area - availability, performance or quality - and which components of these factors held the biggest potential gains. &lt;/P&gt;
+&lt;P&gt;She burst into Brian's office. "I've got it! I've got it!" &lt;/P&gt;
+&lt;P&gt;"What have you got?" Brian stammered. "Is it contagious?" &lt;/P&gt;
+&lt;P&gt;"No!" replied Linda. "I've got the 15 percent!" &lt;/P&gt;
+&lt;P&gt;"What's the upside? How? Where?" replied Brian. &lt;/P&gt;
+&lt;P&gt;"Here," she beamed, "let me show you all of this glorious data. No? Are you sure? OK, well, let me summarize the findings then." &lt;/P&gt;
+&lt;P&gt;Linda showed the diagnostic data summary from the Mollynizer (Figure 2) and Finntronics (Figure 3). &lt;/P&gt;
+&lt;P&gt;"See, for the Mollynizer, the left chart, most of the time is wasted due to idleness - 28 percent! Our data shows that 17 percent of the total time, people are on break or lunch and the machines are stopped." &lt;/P&gt;
+&lt;P&gt;"Linda, if you think I'm going to cut out lunch times . . ." remarked Brian. &lt;/P&gt;
+&lt;P&gt;"No, not cut out lunch for the people, just for the machines," retorted Linda. "They don't eat! The Mollynizer is actually a simple machine. I know a lot of people started out on it and are crossed-trained. Now, these people have migrated to various areas. So, during the Mollynizer break periods, import in several people from other areas that aren't at critical tool sets, and then the six Mollynizers are always covered." &lt;/P&gt;
+&lt;P&gt;"Great," said Brian. "Then I've got my 15 percent?" " &lt;/P&gt;
+&lt;P&gt;"Well, no. Then the real work begins on the iron bottleneck," said Linda. "Notice on this Finntronics graph (top right) that there is a different problem - availability. Our utilization is already very high, so we are dealing with smaller grains of rice here. The big issues are availability waste, followed by speed waste. Both of these are heavily influenced by maintenance." &lt;/P&gt;
+&lt;P&gt;"I see it," said Brian. "I guess it's time to take a fresh look at availability and speed loss. I suppose your numbers tell us a story on these?" &lt;/P&gt;
+&lt;P&gt;"I suppose they do," grinned Linda. &lt;/P&gt;
+&lt;P&gt;To be continued . . . &lt;/P&gt;
+&lt;P&gt;&lt;EM&gt;Mike Verdin is a principal with Aveus, a global strategy and operational change firm located in St. Paul, Minn. Contact him at 480-231-3368 or at &lt;/EM&gt;&lt;A href="mailto:mverdin@aveus.com"&gt;&lt;EM&gt;mverdin@aveus.com&lt;/EM&gt;&lt;/A&gt;&lt;EM&gt;. To learn more, visit &lt;/EM&gt;&lt;A href="http://www.aveus.com/"&gt;&lt;EM&gt;www.aveus.com&lt;/EM&gt;&lt;/A&gt;&lt;EM&gt;.&lt;/EM&gt;&lt;/P&gt;&lt;img src="http://feeds.feedburner.com/~r/noria/reliableplant/tags/overall_equipment_effectiveness/~4/7PLVzfgY09I" height="1" width="1" alt=""/&gt;</description>
+            <a10:updated>2007-06-25T00:00:00-05:00</a10:updated>
+            <a10:content type="text/html" src="http://reliableplant.com/Read/7059/lean-oee" />
+        <feedburner:origLink>http://reliableplant.com/Read/7059/lean-oee</feedburner:origLink></item>
+        <item>
+            <guid isPermaLink="false">tag:noria.com,2010-06-10:publishing:magazines:rp:1b7ee6a6-5157-49cc-91ac-9cf800d9fbfe</guid>
+            <link>http://feedproxy.google.com/~r/noria/reliableplant/tags/overall_equipment_effectiveness/~3/GuU1nZPIpiA/oee-business-effectiveness</link>
+            <a10:author>
+                <a10:name>Drew Troyer</a10:name>
+            </a10:author>
+            <category>Magazine Articles</category>
+            <category>Articles</category>
+            <title>Think of OEE as overall business effectiveness</title>
+            <description>&lt;p&gt;
+	In this column, I hope to influence you to think about our old friend overall equipment effectiveness (availability x yield x quality = OEE) in a different light.&lt;/p&gt;
+&lt;p&gt;
+	As an educator and consultant in the field of reliability management, I&amp;#39;ve observed that most organizations struggle to define their version of OEE. In particular, they have trouble with availability. In some instances, defining quality is challenging, but that&amp;#39;s a topic for another column. Availability is our focus here.&lt;/p&gt;
+&lt;p&gt;
+	Within the field of reliability engineering, there are several technical definitions of availability, which I&amp;#39;ll not bore you with here (e-mail me if you&amp;#39;d like to see these definitions). But with few exceptions, for business purposes, availability is the number of hours you are running in a year divided by 8,760 (the number of hours in a calendar year). In other words, availability is total equipment, line or plant running time divided by total elapsed time. For a manufacturing firm, availability and yield determine how much product you have to sell.&lt;/p&gt;
+&lt;p&gt;
+	So, where do things go wrong? In a nutshell, we fiddle around with the denominator of the availability and yield equations, which may make us feel better about how we&amp;#39;re doing, but it compromises the validity of the metric. It&amp;#39;s a bit like supporting part of your weight on the bathroom counter as you step on to the scale to weigh yourself in the morning. The number looks nice and may make you feel good, but our trousers still feel tight around the middle.&lt;/p&gt;
+&lt;p&gt;
+	The fact is, when you reduce the denominator in the availability equation by one hour, you&amp;#39;re proclaiming that the management of that hour is and always will be completely out of our control. Only the occurrence of &amp;quot;acts of god&amp;quot; - like hurricanes and floods - are completely out of your control, and those can&amp;#39;t really be factored into the plan. Moreover, your preparedness for such events will to a large extent determine the extent of the damage and the speed with which you recover.&lt;/p&gt;
+&lt;p&gt;
+	For discussion purposes, I&amp;#39;ve outlined three common mistakes that organizations make in eroding the denominator of the availability equation. After which, I propose a more all-inclusive model for OEE that more accurately reflects the firm&amp;#39;s entire business.&lt;/p&gt;
+&lt;p&gt;
+	&lt;img src="http://media.noria.com/sites/archive_images/articles_200707_Exponent-benefits_profits.jpg" /&gt;&lt;/p&gt;
+&lt;p align="center"&gt;
+	&lt;strong&gt;To accurately address problems, availability, yield and quality defects must be classified as market-, production- or equipment-induced. &lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;
+	&lt;b&gt;1) Marketing downtime:&lt;/b&gt; Many organizations fall into the trap of convincing themselves that if the plant is available to produce product, but the market doesn&amp;#39;t want to buy the product it makes, those non-productive hours shouldn&amp;#39;t count against OEE performance. OEE, along with cost management, drives your profit, which in turn drives return on net assets (RONA), your firm&amp;#39;s primary measure of management effectiveness.&lt;/p&gt;
+&lt;p&gt;
+	While marketing downtime might not reflect how you&amp;#39;re doing from an equipment reliability perspective, it&amp;#39;s certainly important to the business. You see, if your plant remains in an undersold position, returns, relative to the net assets required to produce them, will suffer, and shareholders and prospective shareholders (investors) may decide to take their money elsewhere.&lt;/p&gt;
+&lt;p&gt;
+	We may need to modify our marketing strategy: make different products, promote them differently, evaluate our pricing strategy, etc. Or, if we find that we can&amp;#39;t address the marketing issue, we may need to reduce the net operating assets in place (the denominator in the RONA equation). While marketing downtime isn&amp;#39;t specifically an equipment issue, it is na&amp;iuml;ve to suggest that it doesn&amp;#39;t affect the business. It&amp;#39;s certainly not free. A notable exception to this rule is the military, whose mission is operational readiness to defend the country, not active fighting (the equivalent of production).&lt;/p&gt;
+&lt;p&gt;
+	&lt;b&gt;2) Production downtime:&lt;/b&gt; This, for example, is the time it takes to retool/adjust for a product changeover, for equipment cleaning and decontamination, and for regulatory checks and inspections. Failure to capture product changeover limits the OEE metric&amp;#39;s ability to reveal opportunities to streamline the changeover process with single-minute exchange of die (SMED) analysis, or to improve shutdown and/or startup procedures that cause equipment problems or destabilize the production process.&lt;/p&gt;
+&lt;p&gt;
+	Cleaning and regulatory inspection time often sneakily erodes away the validity of our availability measurement. We get drawn into this due to our near-term lack of choice. For example, food processing plants must clean the plants to decontaminate them and assure food safety. However, when you discount the denominator, you reduce your motivation to search out technologies and strategies that can enable you to run more hours without compromising food safety. In other words, by changing the denominator, the lack of choice is psychologically made permanent.&lt;/p&gt;
+&lt;p&gt;
+	&lt;b&gt;3) Planned maintenance downtime: &lt;/b&gt;While it&amp;#39;s less common today than it was 10 years ago, many firms still fall into the trap of removing scheduled downtime from the production plan in the availability equation. This is analogous to proclaiming that scheduled and planned maintenance downtime is free. It&amp;#39;s not! For certain, planned downtime is typically preferable to forced downtime. We want to count those hours against our availability measurement to inspire the organization to think creatively to implement proactive measures that reduce the need to perform maintenance, improve planning and shutdown work management practices, and improve design for maintainability. That way, we can transition more tasks to run-time activities and improve the speed with which we complete downtime maintenance.&lt;/p&gt;
+&lt;p&gt;
+	So, in reality, overall business effectiveness (where OBE = yield x availability x quality) is mathematically identical to overall equipment effectiveness (OEE). However, it is reflective of a more holistic view of your business in that availability reflects your firm&amp;#39;s overall performance relative to perfection, as it should be. Here is a more modern general equation for plant availability measurement:&lt;/p&gt;
+&lt;p&gt;
+	(Dm + Dp + Def + Dpm)&lt;/p&gt;
+&lt;p&gt;
+	Where:&lt;/p&gt;
+&lt;p&gt;
+	Dm = Marketing downtime&lt;br /&gt;
+	Dp = Production downtime&lt;br /&gt;
+	Def = Equipment forced downtime&lt;br /&gt;
+	Dpm = Planned maintenance downtime&lt;/p&gt;
+&lt;p&gt;
+	Measure each of the four downtime components individually so you can address opportunities and threats. Moreover, develop a standardized taxonomy for defining the nature of a downtime event in each of the categories.&lt;/p&gt;
+&lt;p&gt;
+	I&amp;#39;ve focused this column primarily on the availability factor of the OEE metric. However, the logic is applicable to the yield factor and, to a lesser extent, quality. I encourage you to classify instances where production yield is reduced into market-driven, production-driven and equipment-driven categories so you can more effectively address the underlying root causes of production slowdowns. Talk internally about how to break down your quality defects relative to the specific characteristics of your industry.&lt;/p&gt;
+&lt;p&gt;
+	Metrics, when they are valid, enable us to identify threats and opportunities, and make more effective decisions. When we compromise the validity of the metric for &amp;quot;feel good&amp;quot; purposes, we&amp;#39;re not doing ourselves or our stakeholders any favors. Keep the metric pure and set about the business of being the best plant you can be - with an unrelenting focus on economically justified reliability improvement.&lt;/p&gt;
+&lt;p&gt;
+	Also, forget about broad claims about what constitutes &amp;quot;world-class OEE&amp;quot; that are often espoused as general goals. While these may be valid averages, what and who is average? I&amp;#39;ve seen these so-called benchmark numbers ranging from 80 to 90 percent - an OEE that is absolutely unattainable in some industries without compromising the metric itself, and at the same time constitutes extremely poor performance in some other industries. Pursuit of these so-called benchmarks causes some organizations to manipulate the metric and others to become dangerously complacent. Metrics are here to serve us, not us them. Keep your OEE (or OBE) pure, valid and real, then focus your energy on running the plant.&lt;/p&gt;
+&lt;p class="authorbio"&gt;
+	Drew D. Troyer is a champion of effective reliability management and passionate about helping companies find hidden profits inside their plants. As a highly sought consultant to Fortune 500 manufacturing firms, award-winning columnist and teacher, he understands both management expectations and plant-floor realities. Troyer is a Certified Reliability Engineer (CRE), a Certified Maintenance and Reliability Professional (CMRP), and chairs the standards committee of the Society for Maintenance and Reliability Professionals (SMRP). Contact Drew at 800-597-5460.&lt;/p&gt;
+&lt;table align="center" cellpadding="5" class="sidebar"&gt;
+	&lt;tbody&gt;
+		&lt;tr&gt;
+			&lt;td class="sidebarheader"&gt;
+				&lt;span class="subtitle"&gt;BRING DREW TO YOU &lt;/span&gt;&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td class="sidebar"&gt;
+				&lt;p&gt;
+					Want to supercharge your knowledge on lean manufacturing and/or effective plant reliability management? Want to make a bottom-line impact in 2007? You can accomplish both by inviting &lt;i&gt;Reliable Plant&amp;#39;s&lt;/i&gt; Drew D. Troyer to speak at your event or company meeting. Drawing on his personal plant experiences and MBA - along with an entertaining and spirited style - he has a unique ability to challenge and inform professionals at all levels.&lt;/p&gt;
+				&lt;p&gt;
+					For more details, contact Tammy Johnson at 800-597-5460, ext. 143.&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+	&lt;/tbody&gt;
+&lt;/table&gt;&lt;img src="http://feeds.feedburner.com/~r/noria/reliableplant/tags/overall_equipment_effectiveness/~4/GuU1nZPIpiA" height="1" width="1" alt=""/&gt;</description>
+            <a10:updated>2007-06-25T00:00:00-05:00</a10:updated>
+            <a10:content type="text/html" src="http://reliableplant.com/Read/7048/oee-business-effectiveness" />
+        <feedburner:origLink>http://reliableplant.com/Read/7048/oee-business-effectiveness</feedburner:origLink></item>
+        <item>
+            <guid isPermaLink="false">tag:noria.com,2010-06-10:publishing:magazines:rp:6706398a-ec77-4725-adcd-9cf800d9fb1d</guid>
+            <link>http://feedproxy.google.com/~r/noria/reliableplant/tags/overall_equipment_effectiveness/~3/-fvPIDZpCc8/lean-oee</link>
+            <a10:author>
+                <a10:name>Mike Verdin</a10:name>
+            </a10:author>
+            <category>Magazine Articles</category>
+            <category>Articles</category>
+            <title>Spelling lean O-E-E</title>
+            <description>&lt;P&gt;Brian Kenny, a plant manager at Paulco Inc., had a good problem. He had just gotten off the phone with Randall Tinsley, the company's vice president of operations. Mr. Tinsley had let him know - in enthusiastic and optimistic terms - that Paulco had a great opportunity to achieve a sales upside of 15 percent this quarter, if it could deliver quickly. As the VP said, "These are the moments that make careers!" &lt;/P&gt;
+&lt;P&gt;"Make careers?" Brian mused to himself. "How about making shipments?" &lt;/P&gt;
+&lt;P&gt;The increased shipments were to start within a month. &lt;/P&gt;
+&lt;P align=center&gt;&lt;A href="http://media.noria.com/sites/archive_images/articles_200701_Focus----Fig-1.gif" target=new&gt;&lt;IMG alt=Focus----Fig-1.gif src="http://media.noria.com/sites/archive_images/articles_200701_Focus----Fig-1.gif" width=100 border=0&gt;&lt;/A&gt;&lt;BR&gt;(Click Image to Enlarge)&lt;/P&gt;
+&lt;P align=center&gt;&lt;B&gt;Figure 1. The components of OEE are availability, performance and quality. &lt;/B&gt;&lt;/P&gt;
+&lt;P&gt;In his plant management role, Brian always relished a challenge. Unfortunately, this relish also had some mustard, ketchup and sauerkraut thrown in. He quickly counted three problems standing in the way of increasing Paulco's revenue by 15 percent: &lt;/P&gt;
+&lt;P&gt;1) He was maxed out on equipment capacity. &lt;/P&gt;
+&lt;P&gt;2) There was no time to buy and install needed equipment. &lt;/P&gt;
+&lt;P&gt;3) And, there was no time to hire and train new people. &lt;/P&gt;
+&lt;P&gt;Other than that, he was in great shape. &lt;/P&gt;
+&lt;P&gt;"How am I going to get more out of what I have?" he ruminated. "I'm already handing my people excessive overtime and the machines always look busy. Yet, somehow, there must be some waste out there." &lt;/P&gt;
+&lt;P&gt;Brian remembered his plant had someone who knew how to identify and reduce process waste, but could this concept work well on equipment? He summoned the plant's resident lean principles expert, Linda Amoroso, to assist and explain the situation to her. &lt;/P&gt;
+&lt;P&gt;"Yes, I understand," said Linda. "But often, even busy-looking machines and operations have wasted and lost time that could be turned into positive output. The key is to improve the overall equipment effectiveness, or OEE, at key operations." &lt;/P&gt;
+&lt;P&gt;"Great. Another acronym. So, what is this OEE, and how can it help me?" asked Brian. &lt;/P&gt;
+&lt;P&gt;Linda took her cue. "OEE is a measure of how close to perfection a piece of equipment is running. Think of perfect OEE as if the equipment ran with no downtime, no idle time, no quality issues or no speed slower than the maximum." &lt;/P&gt;
+&lt;P&gt;"What fantasy world is that?" retorted Brian. "This is Paulco. We make things for a living - real things. Real â¦ imperfect â¦ things." &lt;/P&gt;
+&lt;P&gt;"Well, as you know," replied Linda, "lean often deals in absolutes, and so does OEE. It is an ultimate goal to be perfect. Several companies have achieved 85 percent of this perfection, and strive toward higher marks every day. But bottom line, OEE is the ratio between what was produced in a time period, say a week, vs. what could have been produced in the time period under the perfect conditions I mentioned earlier. Here, let me draw a picture." (See Figure 1.) &lt;/P&gt;
+&lt;P&gt;She explained that the availability efficiency is lessened when the machine is down and can't perform its intended function. The downtime can be unplanned, planned, changeover, etc. For desired down activities, it is the time that's the waste. For unplanned work, it's frequency and duration that are the wasters. &lt;/P&gt;
+&lt;P&gt;Performance efficiency is reduced when the machine is functional but idle (no work in progress, no operator, no fixture, etc.) or if it's slower than the maximum speed (the result of mechanical/electrical/software imperfections, minor unrecordable stoppages, under-batching, etc.). Quality rate is hit when there is rework, scrap or redo activities. The final OEE figure is determined by multiplying the Availability percentage by the Performance percentage by the Quality percentage. &lt;/P&gt;
+&lt;P&gt;"I can go into these equations if you â¦ no? â¦ OK," said Linda. "So you see, it's an optimization game. You can't maximize one thing at the expense of another." &lt;/P&gt;
+&lt;P&gt;"So, you're a lean person. How does all this relate to lean principles?" queried Brian. &lt;/P&gt;
+&lt;P&gt;"Good question. It certainly does," answered Linda. "Lean is about reducing wastes, and OEE is about the same thing - identifying wastes of machine time and reducing them. OEE measures the waste in equipment availability, performance and quality." &lt;/P&gt;
+&lt;P&gt;"OK," offered Brian. "I know for a fact we have problems with downtime and mysterious slowness. We never hit the speed we used to. Can we start there? But, tell me, can this OEE really make a difference?" &lt;/P&gt;
+&lt;P&gt;"Yes, it can," she said. "Let me show you here on the board (see Figure 2). Here are two companies, one with 40 percent OEE and one with 80 percent at key tool sets. The 40 percent company wastes its resources related to equipment. The 80 percent company uses them efficiently. I will write below the characteristics of each. Most companies look more like the 40-percenter, and we may look like it, too. If we could move from the 40 percent environment at least partially toward the 80 percent, we would have a chance at the increased output opportunity - without buying new equipment or adding people." &lt;/P&gt;
+&lt;P&gt;"So, how do we do this?" asked Brian. &lt;/P&gt;
+&lt;P&gt;"Let me tell you," started Linda. &lt;/P&gt;
+&lt;P&gt;At that moment, the phone rang. It was Mr. Tinsley, the VP. &lt;/P&gt;
+&lt;P&gt;"Didn't I just talk to him a few hours ago," Brian thought to himself. &lt;/P&gt;
+&lt;P&gt;After the call ended, Brian turned to Linda. &lt;/P&gt;
+&lt;P&gt;"He wants to meet right now on my approach for meeting our opportunity," he said. "Well, at least now I have something to tell him. Linda, let's you and I meet later today to continue our discussion. I want to know how we'll use an OEE and lean partnership to get this 15 percent." &lt;/P&gt;
+&lt;P&gt;To be continued ... &lt;/P&gt;
+&lt;P&gt;&lt;EM&gt;Mike Verdin is a principal consultant with Aveus (formerly Supurna Solutions), a change and customer experience company located in St. Paul, Minn. Contact him at 480-231-3368, or &lt;/EM&gt;&lt;A href="mailto:mverdin@aveus.com"&gt;&lt;EM&gt;mverdin@aveus.com&lt;/EM&gt;&lt;/A&gt;&lt;EM&gt;. To learn more, visit &lt;/EM&gt;&lt;A href="http://www.aveus.com/"&gt;&lt;EM&gt;www.aveus.com&lt;/EM&gt;&lt;/A&gt;&lt;EM&gt;.&lt;/EM&gt;&lt;/P&gt;
+&lt;P align=center&gt;&lt;A href="http://media.noria.com/sites/archive_images/articles_200701_Focus---Figure-2-Aveus-OEE-chart.gif" target=new&gt;&lt;IMG alt=Focus---Figure-2-Aveus-OEE-chart.gif src="http://media.noria.com/sites/archive_images/articles_200701_Focus---Figure-2-Aveus-OEE-chart.gif" width=100 border=0&gt;&lt;/A&gt;&lt;BR&gt;(Click Image to Enlarge)&lt;/P&gt;
+&lt;P align=center&gt;&lt;B&gt;Figure 2. Comparing a company with 40 percent OEE against one &lt;/B&gt;&lt;B&gt;with 80 percent OEE. &lt;/B&gt;&lt;/P&gt;&lt;img src="http://feeds.feedburner.com/~r/noria/reliableplant/tags/overall_equipment_effectiveness/~4/-fvPIDZpCc8" height="1" width="1" alt=""/&gt;</description>
+            <a10:updated>2007-02-12T00:00:00-06:00</a10:updated>
+            <a10:content type="text/html" src="http://reliableplant.com/Read/4731/lean-oee" />
+        <feedburner:origLink>http://reliableplant.com/Read/4731/lean-oee</feedburner:origLink></item>
+        <item>
+            <guid isPermaLink="false">tag:noria.com,2010-06-10:publishing:magazines:rp:cdd1b293-c07c-468e-98f2-9cf800d9f6b3</guid>
+            <link>http://feedproxy.google.com/~r/noria/reliableplant/tags/overall_equipment_effectiveness/~3/eUF74D2TFCk/rona-oee</link>
+            <a10:author>
+                <a10:name>Tom O'Reilly</a10:name>
+            </a10:author>
+            <category>Magazine Articles</category>
+            <category>Articles</category>
+            <title>RONA and OEE</title>
+            <description>&lt;P align=center&gt;&lt;IMG height=228 src="http://media.noria.com/sites/archive_images/200507_rona_oee_pic.jpg" width=300 border=1&gt;&lt;/P&gt;
+&lt;P&gt;As manufacturers continuously look for ways to enhance profits, they are focusing on asset management initiatives to maximize business efficiency and boost the bottom line. Return on net assets (RONA) and overall equipment effectiveness (OEE) are two important indicators companies can use to measure how effectively they utilize their assets in relation to production output, income and expenses â all of which impact profitability. &lt;/P&gt;
+&lt;P&gt;RONA simply calculates how well a company converts assets to sales, and therefore income. (The simple calculation is sales minus expenses divided by net assets). &lt;/P&gt;
+
+&lt;P&gt;By definition, an asset is nothing more than an investment. However, large amounts of assets tie up cash, increase the expense of carrying inventory and reduce profitability. &lt;/P&gt;
+&lt;P&gt;While all levels of an organization impact RONA, the metric has largely been a concern reserved for upper management. Plant-floor personnel, particularly the maintenance and reliability organization, typically have had little exposure to RONA and donât understand how their activities can influence this performance equation. Ironically, itâs this organization that is responsible for driving a large percentage of these profit-influencing activities. &lt;/P&gt;
+&lt;P&gt;There are three primary ways in which a company can increase its RONA: &lt;/P&gt;
+&lt;OL&gt;
+&lt;LI&gt;
+&lt;P&gt;Reduce costs &lt;/P&gt;
+&lt;LI&gt;
+&lt;P&gt;Decrease expenses &lt;/P&gt;
+&lt;LI&gt;
+&lt;P&gt;Increase sales &lt;/P&gt;&lt;/LI&gt;&lt;/OL&gt;&lt;SPAN class=subtitle3&gt;Reducing Assets &lt;/SPAN&gt;
+
+&lt;P&gt;Inventory, as it relates to spare parts for the automation system, is usually considered a capitalized asset. Itâs purchased for its potential to create income. Keeping a well-stocked inventory of spare parts is an important part of the automation system, and while inventory itself is usually considered an asset, money spent maintaining that inventory is expensive. &lt;/P&gt;
+&lt;P&gt;By properly managing assets, companies can increase RONA by simultaneously reducing expenses and assets. You achieve this by downsizing or eliminating the spare parts inventory (by shifting this responsibility to the supplier); reducing carrying costs associated with maintaining an inventory (such as space, utilities and insurance expenses); and increasing the availability of critical parts to maximize uptime. By having the correct inventory on-site, or readily available, companies can reduce downtime and boost productivity. &lt;/P&gt;&lt;SPAN class=subtitle3&gt;Reducing Costs &lt;/SPAN&gt;
+&lt;P&gt;With manufacturers often allocating as much as 40 percent of their revenues for maintenance department activities, a single process, such as tracking equipment warranties, has the potential to yield significant cost savings. &lt;/P&gt;
+&lt;P&gt;New electronic manufacturing technologies also are driving cost-saving initiatives. For example, asset utilization software is capable of calculating the production schedule for a particular machine, selecting the optimum time to shut it down for maintenance and issuing the work order. Therefore, these solutions not only improve the flow of information throughout the company, but also address scheduling and procurement functions. &lt;/P&gt;&lt;SPAN class=subtitle3&gt;Increasing Sales &lt;/SPAN&gt;
+&lt;P&gt;To remain profitable, manufacturers need to keep processes running as efficiently as possible. As plant reliability improves, there is a measurable increase in production. When production increases, sales can also increase (assuming the market can sufficiently handle the additional goods). Therefore, equipment reliability can have a significant impact on revenue. Today, focused process methodologies, combined with sophisticated condition monitoring equipment, are helping boost reliability by providing the tools to collect, analyze and distribute data throughout the enterprise. &lt;/P&gt;
+&lt;P&gt;Without adequate insight into the health of plant floor equipment, manufacturers lose time and money. When a machine fails, the loss exceeds the simple cost of replacing or repairing the machine. Companies must also consider lost revenue resulting from downtime and the personnel time required to remedy the problem. &lt;/P&gt;&lt;SPAN class=subtitle3&gt;Factoring in OEE &lt;/SPAN&gt;
+&lt;P&gt;OEE is an innovative method to measure productivity performance. More specifically, it is a statistical metric to determine how efficient a machine is running. You calculate it by multiplying a machineâs efficiency, quality and availability. The combination is the value a machine contributes to the production process. &lt;/P&gt;
+
+&lt;P&gt;Many companies are developing OEE programs to improve the performance of their maintenance operations. For example, the automatic collection of machine fault data allows the maintenance and engineering staff to analyze the data and determine the root cause of the problem. The maintenance activity is then focused on actual problems and time to repair is reduced. You can use the additional time saved for preventive maintenance. &lt;/P&gt;
+
+&lt;P&gt;Every day, thousands of activities are performed on the plant floor that directly impact a companyâs bottom line. The ability to harness and measure these activities through powerful asset management tools helps companies improve their RONA and OEE, while providing a distinct competitive advantage. It also widens the accountability for financial performance from the top floor to the plant floor â a trend that is certain to pay dividends in todayâs highly competitive manufacturing market. &lt;/P&gt;
+&lt;P&gt;Tom OâReilly is the business manager for Rockwell Automationâs Plant Services business. A component of the companyâs portfolio of engineering and maintenance support services, he is responsible for the companyâs global MRO asset management services and maintenance solutions. Additionally, OâReilly is a member of the Reliable Plant magazine editorial advisory board. For more information on the subjects of RONA and OEE, e-mail &lt;A href="mailto:toreilly@ra.rockwell.com"&gt;toreilly@ra.rockwell.com&lt;/A&gt; or visit &lt;A href="http://www.ra.rockwell.com"&gt;www.ra.rockwell.com&lt;/A&gt;. &lt;/P&gt;&lt;img src="http://feeds.feedburner.com/~r/noria/reliableplant/tags/overall_equipment_effectiveness/~4/eUF74D2TFCk" height="1" width="1" alt=""/&gt;</description>
+            <a10:updated>2005-08-05T00:00:00-05:00</a10:updated>
+            <a10:content type="text/html" src="http://reliableplant.com/Read/94/rona-oee" />
+        <feedburner:origLink>http://reliableplant.com/Read/94/rona-oee</feedburner:origLink></item>
+    </channel>
+</rss>

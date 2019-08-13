@@ -1,0 +1,1079 @@
+<?php
+
+(defined('BASEPATH')) OR exit('No direct script access allowed');
+
+class New_articles_model extends CI_Model {
+    
+    private $_tableName = 'tbl_new_articles';
+    private $_id = "";
+    private $_title = "";
+    private $_author = "";
+    private $_description = "";
+    private $_description_without_html = "";
+    private $_article_link = "";
+    private $_publish_date = "";
+    private $_category_id = "";
+    private $_tags = "";
+    private $_crawling_date = "";
+    private $_media_id = "";
+    private $_website_url = "";
+    private $_status = "";
+    private $_image = "";
+    private $_language_id = "";
+    private $_video_path = "";
+    private $_customer_id = "";
+    private $_magazine_id = "";
+    private $_created_by = "";
+    private $_media_type = "";
+    private $_allow_comment = "";
+    private $_allow_share = "";
+    private $_token = "";
+    private $_language_name = "";
+    private $_device_type = "";
+    private $_page_number = "";
+    private $_comment = "";
+    private $_user_id = "";
+    private $_we_category="";
+    private $_server="";
+    private $_lang_param="";
+    
+    public function get_lang_param() {
+        return $this->_lang_param;
+    }
+
+    public function set_lang_param($_lang_param) {
+        $this->_lang_param = $_lang_param;
+    }
+    
+    
+    function getServer() {
+        return $this->_server;
+    }
+
+    function setServer($server) {
+        $this->_server = $server;
+    }
+    
+    function getWe_category() {
+        return $this->_we_category;
+    }
+
+    function setWe_category($we_category) {
+        $this->_we_category = $we_category;
+    }
+    
+    public function get_comment() {
+        return $this->_comment;
+    }
+
+    public function get_user_id() {
+        return $this->_user_id;
+    }
+
+    public function set_comment($_comment) {
+        $this->_comment = $_comment;
+    }
+
+    public function set_user_id($_user_id) {
+        $this->_user_id = $_user_id;
+    }
+    
+    public function get_page_number() {
+        return $this->_page_number;
+    }
+
+    public function set_page_number($_page_number) {
+        $this->_page_number = $_page_number;
+    }
+    
+    
+    public function get_device_type() {
+        return $this->_device_type;
+    }
+
+    public function set_device_type($_device_type) {
+        $this->_device_type = $_device_type;
+    }
+    
+    
+    public function get_language_name() {
+        return $this->_language_name;
+    }
+
+    public function set_language_name($_language_name) {
+        $this->_language_name = $_language_name;
+    }
+    
+    public function get_tableName() {
+        return $this->_tableName;
+    }
+
+    public function get_id() {
+        return $this->_id;
+    }
+
+    public function get_title() {
+        return $this->_title;
+    }
+
+    public function get_author() {
+        return $this->_author;
+    }
+
+    public function get_description() {
+        return $this->_description;
+    }
+
+    public function get_description_without_html() {
+        return $this->_description_without_html;
+    }
+
+    public function get_article_link() {
+        return $this->_article_link;
+    }
+
+    public function get_publish_date() {
+        return $this->_publish_date;
+    }
+
+    public function get_category_id() {
+        return $this->_category_id;
+    }
+
+    public function get_tags() {
+        return $this->_tags;
+    }
+
+    public function get_crawling_date() {
+        return $this->_crawling_date;
+    }
+
+    public function get_media_id() {
+        return $this->_media_id;
+    }
+
+    public function get_website_url() {
+        return $this->_website_url;
+    }
+
+    public function get_status() {
+        return $this->_status;
+    }
+
+    public function get_image() {
+        return $this->_image;
+    }
+
+    public function get_language_id() {
+        return $this->_language_id;
+    }
+
+    public function get_video_path() {
+        return $this->_video_path;
+    }
+
+    public function get_customer_id() {
+        return $this->_customer_id;
+    }
+
+    public function get_magazine_id() {
+        return $this->_magazine_id;
+    }
+
+    public function get_created_by() {
+        return $this->_created_by;
+    }
+
+    public function get_media_type() {
+        return $this->_media_type;
+    }
+
+    public function get_allow_comment() {
+        return $this->_allow_comment;
+    }
+
+    public function get_allow_share() {
+        return $this->_allow_share;
+    }
+
+    public function get_token() {
+        return $this->_token;
+    }
+
+    public function set_tableName($_tableName) {
+        $this->_tableName = $_tableName;
+    }
+
+    public function set_id($_id) {
+        $this->_id = $_id;
+    }
+
+    public function set_title($_title) {
+        $this->_title = $_title;
+    }
+
+    public function set_author($_author) {
+        $this->_author = $_author;
+    }
+
+    public function set_description($_description) {
+        $this->_description = $_description;
+    }
+
+    public function set_description_without_html($_description_without_html) {
+        $this->_description_without_html = $_description_without_html;
+    }
+
+    public function set_article_link($_article_link) {
+        $this->_article_link = $_article_link;
+    }
+
+    public function set_publish_date($_publish_date) {
+        $this->_publish_date = $_publish_date;
+    }
+
+    public function set_category_id($_category_id) {
+        $this->_category_id = $_category_id;
+    }
+
+    public function set_tags($_tags) {
+        $this->_tags = $_tags;
+    }
+
+    public function set_crawling_date($_crawling_date) {
+        $this->_crawling_date = $_crawling_date;
+    }
+
+    public function set_media_id($_media_id) {
+        $this->_media_id = $_media_id;
+    }
+
+    public function set_website_url($_website_url) {
+        $this->_website_url = $_website_url;
+    }
+
+    public function set_status($_status) {
+        $this->_status = $_status;
+    }
+
+    public function set_image($_image) {
+        $this->_image = $_image;
+    }
+
+    public function set_language_id($_language_id) {
+        $this->_language_id = $_language_id;
+    }
+
+    public function set_video_path($_video_path) {
+        $this->_video_path = $_video_path;
+    }
+
+    public function set_customer_id($_customer_id) {
+        $this->_customer_id = $_customer_id;
+    }
+
+    public function set_magazine_id($_magazine_id) {
+        $this->_magazine_id = $_magazine_id;
+    }
+
+    public function set_created_by($_created_by) {
+        $this->_created_by = $_created_by;
+    }
+
+    public function set_media_type($_media_type) {
+        $this->_media_type = $_media_type;
+    }
+
+    public function set_allow_comment($_allow_comment) {
+        $this->_allow_comment = $_allow_comment;
+    }
+
+    public function set_allow_share($_allow_share) {
+        $this->_allow_share = $_allow_share;
+    }
+
+    public function set_token($_token) {
+        $this->_token = $_token;
+    }
+    
+    public function verifyTokenValue(){
+        $query = $this->db->select("id")
+                          ->from("tbl_users")
+                          ->where("token",  $this->get_token())
+                          ->where("token_expiry_date >=","NOW()",false)
+                          ->get();
+        //echo $this->db->last_query();die;
+        if($query->num_rows()>0){
+            return TRUE;
+        }else{
+            return FALSE;
+        }
+    }
+    
+    public function getNewArticle(){
+        $date = date("Y-m-d");
+        
+        if($this->getServer()=='web'){
+        $langId=ltrim ($this->get_language_id(), ',');
+        $webCat=ltrim ($this->getWe_category(), '|');
+        $sql="SELECT 
+    *
+FROM
+    (`tbl_new_articles`)
+WHERE
+    `status` = '2'
+        AND `publish_from` <= '$date'
+        AND `publish_to` >= '$date'";
+        $sql .="AND `language_id` IN($langId)";
+        if($webCat!=''){
+        $sql .="AND `category_id` REGEXP '(^|,)($webCat)(,|$)'";
+        }
+$sql .="ORDER BY `publish_date` desc
+LIMIT 1";
+        $query=  $this->db->query($sql);
+        //echo $this->db->last_query();die;
+        }else{
+        $query = $this->db->select("*")
+                          ->from("tbl_new_articles")
+                          //->where("magazine_id","0")
+                          ->where("status","2")
+                          ->where("publish_from <=",$date)
+                          ->where("publish_to >=",$date)
+                          ->where_in("language_id",  $this->get_language_id())
+                          ->order_by("publish_date","desc")
+                          ->limit("1")
+                          ->get();
+        }
+        //echo $this->db->last_query();die;
+        if($query->num_rows()>0){
+            $row = $query->row_array();
+            
+            $queryCommentCount = $this->db->select("count(id) as commentCount")
+                                          ->from("tbl_article_comment")
+                                          ->where("article_id",$row['id'])
+                                          ->get();
+            $rowCount = $queryCommentCount->row_array();
+            $row['commentCount'] = $rowCount['commentCount'];
+            //echo "<pre>";print_r($row);die;
+            return $row;
+        }else{
+            return FALSE;
+        }
+                          
+    }
+    
+    public function getUserArticles(){
+        $date = date("Y-m-d");
+        $langId = ltrim($this->get_language_id(),",");
+        $queryGetUserMagId = $this->db->select("magazine_id")
+                                      ->from("tbl_user_magazines")
+                                      ->where("user_id",  $this->get_token())
+                                      ->get();
+        $rowMagId = $queryGetUserMagId->result_array();
+        //echo $this->db->last_query();die;
+        if($queryGetUserMagId->num_rows()>0){
+        foreach($rowMagId as $r){
+            
+            $magId[] = $r['magazine_id'];
+        }
+        }else{
+            $magId = array(0);
+        }
+        //echo "<pre>";print_r($magId);die;
+        if($langId == ''){
+            $langId = $this->get_language_id();
+        }
+        
+        $query = $this->db->select("*")
+                          ->from("tbl_magazine")                          
+                          ->where("publish_date_from <=",$date)
+                          ->where("publish_date_to >=",$date)
+                          //->where_in("language_id",  $langId)
+                          ->where("status","1")
+                          ->where_in("id",$magId)
+                          ->get();
+        //echo $this->db->last_query();
+        
+        if($query->num_rows()>0){
+           $row = $query->result_array();
+           $i=0;
+        foreach($row as $r){
+           $date = date("Y-m-d");
+        $queryArt = $this->db->select("count(id) as totalArticle")
+                          ->from("tbl_magazine_articles")
+                          ->where("magazine_id",  $r['id'])
+                          ->where("status","2")
+                          ->where("publish_from <=",$date)
+                          ->where("publish_to >=",$date)
+                          ->get();
+        $rowArt = $queryArt->row_array();
+        $row[$i]['totalArticle'] = $rowArt['totalArticle'];
+        $i++;
+        }
+           return $row;
+        }else{
+            return FALSE;
+        }
+    }
+    
+    public function getLanguageId(){        
+        if($this->get_language_name() != ''){
+            if($this->get_language_name() == "en" || $this->get_language_name() == "es" || $this->get_language_name() == "pt"){
+                $exp = $this->get_language_name();
+                if($exp == 'es'){
+                   $exp = 'sp'; 
+                }
+            }else{
+        $exp = explode(",",$this->get_language_name());
+        $expCount = count($exp);
+        
+            if($exp[0] == "pt"){
+                $exp[0] = "po";
+            }elseif($exp[1] == "pt"){
+                $exp[1] = "po";
+            }elseif($exp[2] == "pt"){
+                $exp[2] = "po";
+            }
+            }
+        }else{
+            $exp = "en";
+        }
+        
+        //echo "<pre>";print_r($exp);die;
+        $query = $this->db->select("id")
+                          ->from("tbl_language")
+                          ->where_in("language_code",  $exp)
+                          ->get();
+        //echo $this->db->last_query();die;
+        if($query->num_rows()>1){
+        $row = $query->result_array();
+        $this->set_lang_param("2");
+        
+        return $row;
+        }else{
+          $row = $query->row_array();
+        $this->set_lang_param("1");
+        return $row;  
+        }
+        
+    }
+    
+    public function getOpenArticles(){
+       $deviceType = $this->get_device_type();
+       $pageNum = $this->get_page_number();
+       
+       if($deviceType == "tablet" || $deviceType == "web"){
+          $onePage = "30";
+       }elseif($deviceType == "mobile"){
+          $onePage = "36";
+       }
+       for($i=1;$i<=$pageNum;$i++){
+           $offset += $onePage;
+       }
+       if(($onePage == $offset) || ($onePage<$offset)){
+           $offset = $offset-$onePage;
+       }
+       $date = date("Y-m-d");
+       if($this->get_category_id() != ''){
+       $topicId = explode(",",  $this->get_category_id());
+       }
+       //print_r($topicId);
+       $query = $this->db->select("*")
+                          ->from("tbl_new_articles")
+                          //->where("magazine_id","0")
+                          ->where("status","2")
+                          ->where_in("language_id",  $this->get_language_id());
+       if($this->get_category_id() != ''){
+       foreach($topicId as $t){
+       if($t!='0'){
+       $query = $this->db->or_like("category_id",$t,"both");
+       }
+       }
+       }
+       
+       $query = $this->db->where("publish_from <=",$date)
+                          ->where("publish_to >=",$date);
+       $query = $this->db->limit($onePage,$offset)
+                          ->order_by('publish_date','desc')->get();
+       //echo $this->db->last_query();die;
+       if($query->num_rows()>0){
+           
+          $row = $query->result_array();
+          
+          
+       //echo "<pre>";print_r($row);die;
+       return $row;
+       }else{
+           
+           return FALSE;
+       }
+    }
+    
+    public function articleCommentCountOpen(){
+    $queryCommentCount = $this->db->select("count(id) as commentCount")
+                                  ->from("tbl_article_comment")
+                                  ->where("article_id",  $this->get_id())
+                                  ->get();
+    $rowCount = $queryCommentCount->row_array();
+    return $rowCount;
+    }
+    
+    public function articleCommentCountMagazine(){
+    $queryCommentCount = $this->db->select("count(id) as commentCount")
+                                  ->from("tbl_magazine_article_comment")
+                                  ->where("article_id",  $this->get_id())
+                                  ->get();
+    $rowCount = $queryCommentCount->row_array();
+    return $rowCount;
+    }
+    
+    public function getMagzineArticle(){
+       $deviceType = $this->get_device_type();
+       $pageNum = $this->get_page_number();
+       
+       if($deviceType == "tablet" || $deviceType == "web"){
+          $onePage = "15";
+       }elseif($deviceType == "mobile"){
+          $onePage = "9";
+       }
+       for($i=1;$i<=$pageNum;$i++){
+           $offset += $onePage;
+       }
+       if(($onePage == $offset) || ($onePage<$offset)){
+           $offset = $offset-$onePage;
+       }
+       $date = date("Y-m-d");       
+       
+       $query = $this->db->select("*")
+                          ->from("tbl_magazine_articles")
+                          ->where("magazine_id",  $this->get_magazine_id())
+                          ->where("status","2")
+                          ->where("publish_from <=",$date)
+                          ->where("publish_to >=",$date)
+                          ->where_in("language_id",  $this->get_language_id())
+                          ->limit($onePage,$offset)
+                          ->order_by('publish_date','desc')
+                          ->get();
+       //echo $this->db->last_query();die;
+       if($query->num_rows()>0){
+           
+          $row = $query->result_array();
+          
+       //echo "<pre>";print_r($row);die;
+       return $row;
+       }else{
+           
+           return FALSE;
+       } 
+    }
+    
+    public function getTotalPagesMagzine(){
+        $deviceType = $this->get_device_type();
+       
+       
+       if($deviceType == "tablet" || $deviceType == "web"){
+          $onePage = "15";
+       }elseif($deviceType == "mobile"){
+          $onePage = "9";
+       }
+       
+       $date = date("Y-m-d");
+        $queryTotalRows = $this->db->select("count(id) as totalPages")
+                          ->from("tbl_magazine_articles")
+                          ->where("magazine_id",  $this->get_magazine_id())
+                          ->where("status","2")
+                          ->where("publish_from <=",$date)
+                          ->where("publish_to >=",$date)
+                          ->where_in("language_id",  $this->get_language_id())
+                          ->get();
+       //echo $this->db->last_query();die;
+       $rowTotalPages = $queryTotalRows->row_array();
+       $row = round($rowTotalPages['totalPages']/$onePage);
+       if($row == "0"){
+           $row = "1";
+       }
+       return $row;
+    }
+    
+    public function getTotalPagesArticles(){
+        $deviceType = $this->get_device_type();
+       
+       
+       if($deviceType == "tablet" || $deviceType == "web"){
+          $onePage = "15";
+       }elseif($deviceType == "mobile"){
+          $onePage = "9";
+       }
+       
+       $date = date("Y-m-d");
+       if($this->get_category_id() != ''){
+       $topicId = explode(",",  $this->get_category_id());
+       
+       }
+        
+        $queryTotalRows = $this->db->select("count(id) as totalPages")
+                          ->from("tbl_new_articles")
+                          ->where("magazine_id","0")
+                          ->where("status","2")
+                          ->where("publish_from <=",$date)
+                          ->where("publish_to >=",$date)
+                          ->where_in("language_id",  $this->get_language_id());
+        if($this->get_category_id() != ''){ 
+       foreach($topicId as $t){
+           if($t !='0'){
+       $queryTotalRows = $this->db->or_like("category_id",$t,"both");
+           }
+       }
+        }
+       $queryTotalRows = $this->db->get();
+       //echo $this->db->last_query();die;
+       $rowTotalPages = $queryTotalRows->row_array();
+       //print_r($rowTotalPages);die;
+       $row = round($rowTotalPages['totalPages']/$onePage);
+       if($row == "0"){
+           $row = "1";
+       }
+       return $row;
+    }
+    
+    public function getArticleDetail(){
+        $query = $this->db->select("*")
+                          ->from("tbl_new_articles")
+                          ->where("id",  $this->get_id())
+                          ->get();
+        $row = $query->row_array();
+        return $row;
+    }
+    
+    public function getAllComments(){
+        $server=  $this->getServer();
+        if($server=='open'){
+        $query = $this->db->select("ac.*,tu.name,tu.photoUrl")
+                          ->from("tbl_article_comment as ac")
+                          ->join("tbl_users as tu",'ac.user_id = tu.id','left')
+                          ->where("ac.article_id",  $this->get_id())
+                          ->get();
+        $row = $query->result_array();
+        }if($server=='magazine'){
+        $query = $this->db->select("ac.*,tu.name,tu.photoUrl")
+                          ->from("tbl_magazine_article_comment as ac")
+                          ->join("tbl_users as tu",'ac.user_id = tu.id','left')
+                          ->where("ac.article_id",  $this->get_id())
+                          ->get();
+        $row = $query->result_array();
+        }
+        return $row;
+            
+    }
+    
+    public function getRelatedArticles(){
+       $server=  $this->getServer();
+       if($server=='web'){
+       $id=  $this->get_id();
+       $date = date("Y-m-d");
+       $topicId = ltrim ($this->get_category_id(), '|');
+       $langId=ltrim ($this->get_language_id(), ',');
+       $magazineId=  $this->get_magazine_id();
+       if($magazineId!=''){
+       $sql= "SELECT 
+    *
+FROM
+    (`tbl_magazine_articles`)
+WHERE
+    `status` = '2'
+        AND `publish_from` <= '$date'
+        AND `publish_to` >= '$date'
+        AND `id` != '$id'";
+       if($topicId!=''){
+        $sql .= " AND category_id REGEXP '(^|,)($topicId)(,|$)'";
+       }if($langId!=''){
+        $sql .= " AND language_id IN($langId)";   
+       }
+$sql .= " ORDER BY `publish_date` desc
+LIMIT 4";
+       }else{
+       $sql= "SELECT 
+    *
+FROM
+    (`tbl_new_articles`)
+WHERE
+    `status` = '2'
+        AND `publish_from` <= '$date'
+        AND `publish_to` >= '$date'
+        AND `id` != '$id'";
+       if($topicId!=''){
+        $sql .= " AND category_id REGEXP '(^|,)($topicId)(,|$)'";
+       }if($langId!=''){
+        $sql .= " AND language_id IN($langId)";   
+       }
+$sql .= " ORDER BY `publish_date` desc
+LIMIT 4";
+       }
+       $query = $this->db->query($sql);
+       //echo $this->db->last_query();
+       if($query->num_rows()>0){
+           
+          $row = $query->result_array();
+          $i=0;
+         foreach($row as $r){
+             $catId = explode(",",$r['category_id']);
+             $queryTopic = $this->db->select("*")
+                                    ->from("tbl_category")
+                                    ->where_in("id",$catId)
+                                    ->get();
+             //echo $this->db->last_query();die;
+             $rowTopic = $queryTopic->row_array();
+             //echo "<pre>";print_r($rowTopic);die;
+             $row[$i]['topicName'] = $rowTopic['category_name'];
+         $i++;} 
+         
+       //echo "<pre>";print_r($row);die;
+       return $row;
+       }else{
+           
+           return FALSE;
+       } 
+           
+       }else{
+       $date = date("Y-m-d");
+       $topicId = explode(",",  $this->get_category_id());
+       
+       $query = $this->db->select("*")
+                          ->from("tbl_new_articles")                          
+                          ->where("status","2")
+                          ->where("publish_from <=",$date)
+                          ->where("publish_to >=",$date)
+                          ->where("id !=",  $this->get_id());                          
+       foreach($topicId as $t){
+       $query = $this->db->or_like("category_id",$t,"both");
+       }
+       $query = $this->db->order_by("publish_date","desc")
+                         ->limit("4")
+                         ->get();
+       //echo $this->db->last_query();die;
+       if($query->num_rows()>0){
+           
+          $row = $query->result_array();
+          $i=0;
+         foreach($row as $r){
+             $catId = explode(",",$r['category_id']);
+             $queryTopic = $this->db->select("*")
+                                    ->from("tbl_category")
+                                    ->where_in("id",$catId)
+                                    ->get();
+             //echo $this->db->last_query();die;
+             $rowTopic = $queryTopic->row_array();
+             //echo "<pre>";print_r($rowTopic);die;
+             $row[$i]['topicName'] = $rowTopic['category_name'];
+         $i++;} 
+         
+       //echo "<pre>";print_r($row);die;
+       return $row;
+       }else{
+           
+           return FALSE;
+       } 
+       }
+    }
+    
+    public function getThreeMagazineOnly(){
+        $date = date("Y-m-d");
+        $queryGetUserMagId = $this->db->select("magazine_id")
+                                      ->from("tbl_user_magazines")
+                                      ->where("user_id",  $this->get_token())
+                                      ->get();
+        $rowMagId = $queryGetUserMagId->result_array();
+        
+        if($queryGetUserMagId->num_rows()>0){
+        foreach($rowMagId as $r){
+            
+            $magId[] = $r['magazine_id'];
+        }
+        }else{
+            $magId = array(0);
+        }
+        $query = $this->db->select("*")
+                          ->from("tbl_magazine")                          
+                          ->where("publish_date_from <=",$date)
+                          ->where("publish_date_to >=",$date)
+                          ->where("language_id",  $this->get_language_id())
+                          ->where("status","1")
+                          ->where_in("id",$magId)
+                          ->limit("3")
+                          ->get();
+        if($query->num_rows()>0){
+           $row = $query->result_array(); 
+           return $row;
+        }else{
+            return FALSE;
+        }
+    }
+    
+    public function getSearchOpenArticles(){
+        $date = date("Y-m-d");
+        $lang = $this->get_language_id();
+        $imp = implode(",", $lang);
+        $lang = $imp;
+        if($lang == ''){
+            $lang = '1';
+        }
+        if($this->get_category_id() != ''){
+        $topicId = explode(",",  $this->get_category_id());
+        $topicImplode = implode("|", $topicId);
+        
+        //echo "<pre>";print_r($topicImplode);die;
+        //print_r(count($topicId));die;
+        
+//        $query = $this->db->select("*")
+//                          ->from("tbl_new_articles")                          
+//                          ->where("status","2")
+//                          ->where("publish_from <=",$date)
+//                          ->where("publish_to >=",$date)
+//                          ->where("language_id",  $this->get_language_id())
+//                          ->like("title",  $this->get_title(),"both");                          
+//       
+//       $query = $this->db->where("category_id","REGEXP '(^|,)($topicImplode)(,|$)'");
+//       
+//       $query = $this->db->get();
+       //echo $this->db->last_query();die;
+//        $title = $this->get_title();
+//       $query = "";
+//       $query .= "SELECT 
+//    *
+//FROM
+//    (tbl_new_articles)
+//WHERE
+//    status = '2' AND publish_from <= '$date' AND publish_to >= '$date' AND language_id = ".$this->get_language_id()." AND (";
+//       $getCount = count($topicId);
+//       $i = 1;
+//       foreach($topicId as $t){
+//           if($i != $getCount){
+//       $query .= " FIND_IN_SET('$t', category_id) > 0 OR";
+//           }else{
+//               $query .= " FIND_IN_SET('$t', category_id) > 0";
+//           }
+//       $i++;}
+//       $query .= " ) AND title LIKE '%$title%'";
+//     
+//       $queryRes = $this->db->query($query);
+//       //echo $this->db->last_query();die;
+//       $row = $queryRes->result_array();
+//       return $row;
+       
+       
+               $title = $this->get_title();
+       $query = "";
+       $query .= "SELECT 
+    *
+FROM
+    (tbl_new_articles)
+WHERE
+    status = '2' AND publish_from <= '$date' AND publish_to >= '$date' AND language_id IN ($lang) AND ";
+       
+       $query .= "category_id REGEXP '(^|,)($topicImplode)(,|$)' AND title LIKE '%$title%'";
+       $query .= " OR tags LIKE '%$title%'";
+       $query .= "order by publish_date desc";
+       $query .= " limit 20";
+        }else{
+            $title = $this->get_title();
+            $query = "";
+       $query .= "SELECT 
+    *
+FROM
+    (tbl_new_articles)
+WHERE
+    status = '2' AND publish_from <= '$date' AND publish_to >= '$date' AND language_id IN ($lang) AND ";
+       if($title!=''){
+       $query .= " title LIKE '%$title%'";
+       $query .= " OR tags LIKE '%$title%'";
+       }else{
+       $query .= " title = ''";
+       $query .= " OR tags =''";
+       }
+       $query .= "order by publish_date desc";
+       $query .= " limit 20";
+        }
+     
+       $queryRes = $this->db->query($query);
+       ///echo $this->db->last_query();die;
+       
+       $row = $queryRes->result_array();
+       return $row;
+        
+    }
+    
+    
+    
+    public function getSearchedMagazineData(){
+        
+        $date = date("Y-m-d");
+        if($this->get_title()){
+        $query = $this->db->select("*")
+                          ->from("tbl_magazine_articles")
+                          ->where("status","2")
+                          ->where("magazine_id",  $this->get_magazine_id())
+                          ->where("publish_from <=",$date)
+                          ->where("publish_to >=",$date)
+                          ->like("title",  $this->get_title(),"both")
+                          ->or_like("tags",  $this->get_title(),"both")
+                          ->order_by("publish_date","desc")
+                          ->limit("20")
+                          ->get();
+        //echo $this->db->last_query();die;
+        $row = $query->result_array();
+    }else{
+        $row = array();
+    }
+        return $row;
+                          
+    }
+    
+    public function getArticleIdUsingTitle(){
+       $date = date("Y-m-d");
+        if($this->get_category_id() != ''){        
+        $topicImplode = $this->get_category_id();
+        
+        $title = $this->get_title();
+       $query = "";
+       $query .= "SELECT 
+    *
+FROM
+    (tbl_new_articles)
+WHERE
+    status = '2' AND publish_from <= '$date' AND publish_to >= '$date' AND language_id = ".$this->get_language_id()." AND ";
+       
+       $query .= "category_id REGEXP '(^|,)($topicImplode)(,|$)' AND title LIKE '%$title%'";
+       $query .= "order by publish_date desc";
+       $query .= " limit 1";
+        }else{
+            $title = $this->get_title();
+            $query = "";
+       $query .= "SELECT 
+    *
+FROM
+    (tbl_new_articles)
+WHERE
+    status = '2' AND publish_from <= '$date' AND publish_to >= '$date' AND language_id = ".$this->get_language_id()." AND ";
+       
+       $query .= " title LIKE '%$title%'";
+       $query .= "order by publish_date desc";
+       $query .= " limit 1";
+        }
+     
+       $queryRes = $this->db->query($query);
+       //echo $this->db->last_query();die;
+       $row = $queryRes->row_array();
+       return $row;
+    }
+    
+    public function getSearchMagazines(){
+       $date = date("Y-m-d");
+        
+        $queryGetUserMagId = $this->db->select("magazine_id")
+                                      ->from("tbl_user_magazines")
+                                      ->where("user_id",  $this->session->userdata("user_id"))
+                                      ->get();
+        $rowMagId = $queryGetUserMagId->result_array();
+        
+        if($queryGetUserMagId->num_rows()>0){
+        foreach($rowMagId as $r){
+            
+            $magId[] = $r['magazine_id'];
+        }
+        }else{
+            $magId = array(0);
+        }
+        //echo "<pre>";print_r($magId);die;
+        
+        $query = $this->db->select("*")
+                          ->from("tbl_magazine")                          
+                          ->where("publish_date_from <=",$date)
+                          ->where("publish_date_to >=",$date)
+                          ->where("language_id",  $this->get_language_id())
+                          ->where("status","1")
+                          ->where_in("id",$magId)
+                          ->like("title",  $this->get_title(),"both")
+                          ->get();
+        //echo $this->db->last_query();die;
+        
+        if($query->num_rows()>0){
+           $row = $query->result_array(); 
+           return $row;
+        }else{
+            return FALSE;
+        } 
+    }
+    
+    public function getRelatedArticleList(){
+       $id=  $this->get_id();
+       $date = date("Y-m-d");
+       $topicId = ltrim ($this->get_category_id(), '|');
+       $langId=ltrim ($this->get_language_id(), ',');
+       $magazineId=  $this->get_magazine_id();
+       if($magazineId!=''){
+       $sql= "SELECT 
+    *
+FROM
+    (`tbl_magazine_articles`)
+WHERE
+    `status` = '2'
+        AND `publish_from` <= '$date'
+        AND `publish_to` >= '$date'
+        AND `id` != '$id'
+        AND `magazine_id` = '$magazineId'";
+       if($topicId!=''){
+        $sql .= " AND category_id REGEXP '(^|,)($topicId)(,|$)'";
+       }if($langId!=''){
+        $sql .= " AND language_id IN($langId)";   
+       }
+$sql .= " ORDER BY `publish_date` desc
+LIMIT 4";
+       }else{
+       $sql= "SELECT 
+    *
+FROM
+    (`tbl_new_articles`)
+WHERE
+    `status` = '2'
+        AND `publish_from` <= '$date'
+        AND `publish_to` >= '$date'
+        AND `id` != '$id'
+        AND `magazine_id` = '$magazineId'";
+       if($topicId!=''){
+        $sql .= " AND category_id REGEXP '(^|,)($topicId)(,|$)'";
+       }if($langId!=''){
+        $sql .= " AND language_id IN($langId)";   
+       }
+$sql .= " ORDER BY `publish_date` desc
+LIMIT 4";
+       }
+       $query = $this->db->query($sql);
+       //echo $this->db->last_query();
+       if($query->num_rows()>0){
+           
+          $row = $query->result_array();
+          $i=0;
+         foreach($row as $r){
+             $catId = explode(",",$r['category_id']);
+             $queryTopic = $this->db->select("*")
+                                    ->from("tbl_category")
+                                    ->where_in("id",$catId)
+                                    ->get();
+             //echo $this->db->last_query();die;
+             $rowTopic = $queryTopic->row_array();
+             //echo "<pre>";print_r($rowTopic);die;
+             $row[$i]['topicName'] = $rowTopic['category_name'];
+         $i++;} 
+         
+       //echo "<pre>";print_r($row);die;
+       return $row;
+       }else{
+           
+           return FALSE;
+       } 
+        
+    }
+
+    
+}
+

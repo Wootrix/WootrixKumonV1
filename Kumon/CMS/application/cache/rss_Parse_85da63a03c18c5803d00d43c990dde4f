@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="0.91">
+<?xml-stylesheet type="text/xsl" media="screen" href="http://www.supplychainbrain.com/content/fileadmin/template/main/css_new/rss2full.xsl"?>
+<?xml-stylesheet type="text/css" media="screen" href="http://www.supplychainbrain.com/content/fileadmin/template/main/css_new/rss.css"?>
+	<channel>
+		
+		<title>Headline News - latest news</title>
+		<link>http://www.supplychainbrain.com/content/</link>
+		<description>SupplyChainBrain RSS Feed</description>
+		<language>nl</language>
+		<image>
+			<title>Headline News - latest news</title>
+			<url>http://www.supplychainbrain.com/content/content/typo3conf/ext/tt_news/ext_icon.gif</url>
+			<link>http://www.supplychainbrain.com/content/</link>
+			<width></width>
+			<height></height>
+			<description>SupplyChainBrain RSS Feed</description>
+		</image>
+		<docs>http://backend.userland.com/rss091</docs>
+		
+		
+		
+		<lastBuildDate>Mon, 23 Jan 2017 23:05:00 -0500</lastBuildDate>
+		
+		
+		<item>
+			<title>Lenovo's Key To Boosting Market Share: Become 'Amazon-Like'</title>
+			<link>http://www.supplychainbrain.com/content/single-article-page/article/lenovos-key-to-boosting-market-share-become-amazon-like/</link>
+			<description>Lenovo Group Ltd. is the world's leading original equipment manufacturer (OEM) of personal computers. So why is it determined to overhaul the way it sells and markets product?</description>
+		</item>
+		
+		<item>
+			<title>AI Adoption Linked To Faster Revenue Growth, Research Shows</title>
+			<link>http://www.supplychainbrain.com/content/single-article-page/article/ai-adoption-linked-to-faster-revenue-growth-research-shows/</link>
+			<description>Organizations who reported faster growth in revenue over the past three years were also more likely to be further ahead in using artificial intelligence, according to new research by IT consulting company Infosys.</description>
+		</item>
+		
+		<item>
+			<title>Feds: McKesson Agrees To Pay $150M In Pill Shipment Case</title>
+			<link>http://www.supplychainbrain.com/content/single-article-page/article/feds-mckesson-agreestto-pay-150m-in-pill-shipment-case/</link>
+			<description>A major California-based drug wholesaler has agreed to pay $150m to settle allegations that it failed to detect and report pharmacies' suspicious orders of prescription pain pills, federal prosecutors said last week.</description>
+		</item>
+		
+		<item>
+			<title>Managing Your Freight Spend In The Age Of Big Data</title>
+			<link>http://www.supplychainbrain.com/content/single-article-page/article/managing-your-freight-spend-in-the-age-of-big-data/</link>
+			<description>Without effective freight-cost management, you're leaving millions of dollars a year on the table.</description>
+		</item>
+		
+		<item>
+			<title>European Auto Sales Jump To 9-Year High</title>
+			<link>http://www.supplychainbrain.com/content/single-article-page/article/european-auto-sales-jump-to-9-year-high/</link>
+			<description>European car sales rose to a nine-year high in 2016, with Renault SA taking advantage of recovering demand and Volkswagen AG's tarnished reputation to leap to second place from third in the region.</description>
+		</item>
+		
+		<item>
+			<title>Unilever Pledges To Go Green On All Plastic Packaging</title>
+			<link>http://www.supplychainbrain.com/content/single-article-page/article/unilever-pledges-to-go-green-on-all-plastic-packaging/</link>
+			<description>The consumer goods giant Unilever has pledged to make all of its plastic packaging reusable, recyclable or compostable by 2025.</description>
+		</item>
+		
+		<item>
+			<title>More Pay, Greater Confidence Lift U.S. Retail Sales - But Brick-and-Mortar Chains Lag</title>
+			<link>http://www.supplychainbrain.com/content/single-article-page/article/more-pay-greater-confidence-lift-us-retail-sales-but-brick-and-mortar-chains-lag/</link>
+			<description>Americans stepped up their auto buying and online shopping in December, reflecting a boost in confidence after the election and a solid increase in pay.</description>
+		</item>
+		
+		<item>
+			<title>China, Vietnam Pledge South China Sea Peace</title>
+			<link>http://www.supplychainbrain.com/content/single-article-page/article/china-vietnam-pledge-south-china-sea-peace/</link>
+			<description>China and Vietnam have issued a joint statement pledging to manage their maritime differences and safeguard peace in the South China Sea.</description>
+		</item>
+		
+		<item>
+			<title>Fedex, Walgreens Hope To Thwart 'Porch Pirates' With 8,000 More Secure Locations</title>
+			<link>http://www.supplychainbrain.com/content/single-article-page/article/fedex-walgreens-hope-to-thwart-porch-pirates-with-8000-more-secure-locations/</link>
+			<description>As concerns rise over express package thefts, FedEx and Walgreens pharmacies have inked a long-term deal to install 8,000 secure pickup/dropoff locations in pharmacies across the United States.</description>
+		</item>
+		
+		<item>
+			<title>World Economy To Grow At 2.7 Percent, World Bank Says</title>
+			<link>http://www.supplychainbrain.com/content/single-article-page/article/world-economy-to-grow-at-27-percent-world-bank-says/</link>
+			<description>The global economy is forecast to grow by 2.7 percent in 2017 after reaching a post-crisis low of 2.3 percent in 2016, according to the World Bank.</description>
+		</item>
+		
+	</channel>
+</rss>

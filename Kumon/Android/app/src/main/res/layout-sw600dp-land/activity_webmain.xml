@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    android:orientation="vertical">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/navbar_bg">
+
+        <ImageView
+            android:id="@+id/backs_imageVw"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:padding="@dimen/margin_5"
+            android:src="@drawable/icon_back"
+            android:visibility="visible" />
+
+        <ImageView
+            android:id="@+id/banner_imageVw"
+            android:layout_width="@dimen/custom_logo_width"
+            android:layout_height="@dimen/custom_logo_height"
+            android:layout_centerInParent="true"
+            android:layout_marginLeft="@dimen/margin_10"
+            android:scaleType="centerInside"
+            android:src="@drawable/wootrix_logo" />
+
+    </RelativeLayout>
+
+    <FrameLayout
+        android:id="@+id/custom_webView_frame"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1">
+
+        <WebView
+            android:id="@+id/webview"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />
+
+        <ProgressBar
+            android:id="@+id/progressBar"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:visibility="gone" />
+
+        <FrameLayout
+            android:id="@+id/about_usfragment_fram_layout"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:visibility="invisible"></FrameLayout>
+    </FrameLayout>
+
+</LinearLayout>

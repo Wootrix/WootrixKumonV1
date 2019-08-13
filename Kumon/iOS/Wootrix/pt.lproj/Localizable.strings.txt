@@ -1,0 +1,151 @@
+/* 
+  Localizable.strings
+  Wootrix
+
+  Created by Mayank Pahuja on 10/02/15.
+  Copyright (c) 2015 Techahead. All rights reserved.
+*/
+
+
+"Wootrix" = "Wootrix";
+"ph" = "ph";
+"Settings" = "Definições";
+"Successfully shared on Twitter" = "Compartilhado com sucesso no Twitter";
+"Twitter Login Failed" = "Login no Twitter falhou";
+"Twitter is not configured your device settings. Please go to device settings and configure twitter account first." = " Twitter não está configurado em suas configurações do dispositivo. Por favor, vá para as configurações do dispositivo e configurar conta no Twitter em primeiro lugar. ";
+"Failed to shared on Twitter" = "Compartilhamento no Twitter falhou";
+"Successfully shared on Facebook" = "Compartilhado com sucesso no Facebook";
+"Failed to shared on Facebook" = "Falha ao compartilhar no Facebook";
+"Out Of Memory Error" = "Erro de falta de memória";
+"Hello world!" = "Olá mundo!";
+"Network Not Available" = "Rede Não Disponível";
+
+
+
+"Name" = "Nome";
+"Email" = "Email";
+"Error" = "Erro";
+"Password" = "Senha";
+"Confirm Password" = "Confirme Senha";
+"Log in" = "Conecte-se";
+"Sign up" = "Inscrever-se";
+"Log in with" = "Entrar com";
+"Don't have an account yet? Sign up here" = "Não tem uma conta ainda? Cadastre-se aqui";
+"Alreay have an account? Login here" = "Já tem uma conta ? Acesse aqui";
+"Invalid email address" = "E-mail inválido";
+"Please wait..." = "Por favor, aguarde ...";
+"Loading..." = "Carregando...";
+"Send" = "Enviar";
+"Write a comment..." = ">Escreva um comentário...";
+"Camera" = "Camera";
+"Gallery" = "Galeria";
+"SD-Card not available" = "SD-Card não disponível";
+"Ok" = "Ok";
+"Cancel" = "Cancelar";
+"Choose Image" = "Escolha Imagem";
+
+
+
+"Show Page" = "Mostrar Página";
+"Change Email" = "Alterar e-mail";
+"Change Password" = "Alterar a Senha";
+"Rate App" = "Avalie App";
+"Change Language" = "Alterar idioma";
+"About Us" = "Sobre Nós";
+"Topics" = "Tópicos";
+"Magazines" = "Revistas";
+"Article Languages" = "Idioma Artigos";
+"Log out" = "Sair";
+"CANCEL" = "CANCELAR";
+"DONE" = "FEITO";
+"New Email ID" = "Novo e-mail ID";
+"Confirm Email ID" = "Confirmar e-mail ID";
+"Old Password" = "Senha Antiga";
+"New Password" = "Nova Senha";
+"Confirm New Password" = "Confirmar nova senha";
+
+//<!-- HEADER NAMES -->
+"Comments" = "Co
+
+mentários";
+"My Account" = "Minha Conta";
+
+"About us" = "Sobre Nós";
+"Change Password" = "Alterar a Senha";
+"Change Email" = "Alterar e-mail";
+"Change Language" = "Alterar Idioma";
+"Content" = "Conteúdo";
+"Article" = "Artigo";
+"Add New Magazines" = "Adicionar Novas Revistas";
+"Add Account" = "Adicione Contas";
+//<!-- languages -->
+
+"English" = "Inglês";
+"Spanish" = "Espanhol";
+"Portuguese" = "Português";
+"Forgot Password?" = "Esqueceu Sua Senha?";
+"Please enter your email" = "Digite seu e-mail";
+"Search Articles" = "Buscar";
+"Advertisement" = "Publicidade";
+"Please enter your Name" = "Digite seu nome";
+"Please enter your Password" = "Digite sua Senha";
+"Please enter your current password" = "Digite sua senha atual";
+"Current password should be atleast 6 chracter long" = "Senha atual deve ter no mínimo 6 caracteres";
+"Please enter your confirm password" = "Por favor insira sua senha confirm";
+"Password and Confirm password does not match" = "Senha e Confirmação da Senha não conferem";
+"Open Article" = "Artigos Aberto";
+"Open Articles" = "Artigos Abertos";
+"No comments Found. Be the first one to comment on this Article" = "Não foram encontrados comentários . Seja o primeiro a comentar este artigo";
+"Please enter comment" = "Por favor insira o seu comentário";
+"Enter Subscription Password"  = "Digite Senha de Assinante";
+"Add Email" = "Adicionar E-mail";
+"Add Password" = "Adicione Senha";
+"Please choose at least one language" = "Por favor, escolha pelo menos um Idioma";
+"Please enter new email" = "Por favor, insira o novo e-mail";
+"Please enter confirm email" = "Favor confirmar o email";
+"Email and confirm email do not match" = "E-mail e Email de Confirmação não Conferem";
+"No Social media found to share." = "Nenhuma Rede Social encontrada para compartilhar";
+"Send" = "Enviar";
+"Do you want to logout?" = "Você quer sair?";
+"Yes" = "Sim";
+"No" = "Não";
+"Subscription Password" = "Senha de Assinante";
+"Please select atleast one Article Language" = "Por favor, selecione pelo menos um Idioma para os Artigos";
+
+"Like me you can find relevant content on www.wootrix.com" = "Como eu, você pode encontrar conteúdos relevantes no www.wootrix.com";
+
+//<!-- server side error messges strings -->
+//<string name="service_failed">Webservice failed to give the result.</string>
+//<string name="server_ntwrk_error">Network error Occoured. Please try again.</string>
+//<string name="server_timout_error">Timeout Occured. Please try again.</string>
+//<string name="server_response_error">Response is not Coming from server. Please try again.</string>
+
+//<!-- tags for advertisement module -->
+//<string name="ad_advtID">1</string>
+//<string name="ad_videourl">2</string>
+//<string name="ad_link_url">3</string>
+//<string name="ad_tim_in_sec">4</string>
+
+//<!-- NEW STRINGS -->
+"Do you want to keep selected language as your app\'s default language?" = "Você quer manter o idioma selecionado como padrão do seu aplicativo ?";
+"Press back button again to exit." = "Pressione o botão voltar novamente para sair.";
+"Hey! I am using Wootrix Application. I just read this article:" = "Hey! Estou usando o aplicativo Wootrix . Acabei de ler este artigo:";
+"You can read and subscribe Articles, Magazines, Magazine articles on Android, iOS and on Web. \n\n Just check it out http://www.wootrix.com" = "Você ter acesso em um único local aos principais artigos de seu interesse em Android, iOS e na Web . Basta dar uma olhada http://www.wootrix.com";
+"Password should be atleast 6 character long." = "A senha deve ter no mínimo 6 caracteres.";
+"Username should be atleast 4 character long." = "Nome de usuário deve ter no mínimo 4 caracteres.";
+"sec ago" = "XXX segundos atrás";
+"secs ago" = "XXX segundos atrás";
+"min ago" = "XXX minutos atrás";
+"mins ago" = "XXX minutos atrás";
+"hour ago" = "XXX horas atrás";
+"hours ago" = "XXX horas atrás";
+"day ago" = "XXX dias atrás";
+"days ago" = "XXX dias atrás";
+
+
+
+
+
+
+
+

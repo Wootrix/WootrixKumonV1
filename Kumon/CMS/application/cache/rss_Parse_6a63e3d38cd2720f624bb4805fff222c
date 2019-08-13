@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Product and Literature Showcase</title>
+    <description>
+      <![CDATA[Featured products and papers.]]>
+    </description>
+    <link>http://www.adhesivesmag.com/rss</link>
+    <language>en-us</language>
+  </channel>
+</rss>

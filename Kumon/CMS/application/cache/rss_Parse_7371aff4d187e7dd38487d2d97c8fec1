@@ -1,0 +1,447 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Smart Technology</title>
+    <description>
+      <![CDATA[The smart grid, smart homes, smart appliances, and smart technologies.
+]]>
+    </description>
+    <link>http://www.appliancedesign.com/rss</link>
+    <language>en-us</language>
+    <item>
+      <title>Keep It Simple, Stupid</title>
+      <author></author>
+      <description>
+        <![CDATA[<p>K-I-S-S. It&rsquo;s a pneumonic device. Crude but effective, it helps us remember to keep things manageable. But, as we all know, many times the ease or difficulty of a situation is not up to us. Hence, the Cynefin model.</p>]]>
+      </description>
+      <guid>http://www.appliancedesign.com/articles/95308</guid>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0500</pubDate>
+      <link>http://www.appliancedesign.com/articles/95308-keep-it-simple-stupid</link>
+      <enclosure url="http://www.appliancedesign.com/ext/resources/NewRDWebsite/DefaultImages/AD-Darryl-Sealand.jpg?1480612489" type="image/jpeg" length="108385"/>
+    </item>
+    <item>
+      <title>For Shape-Changing Smart Materials, Applications Abound</title>
+      <author></author>
+      <description>
+        <![CDATA[<p>Smart materials are so named because they are designed to react to environmental changes, such as variances in temperature, moisture, electric or magnetic fields, or physical stress.</p>]]>
+      </description>
+      <guid>http://www.appliancedesign.com/articles/95303</guid>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0500</pubDate>
+      <link>http://www.appliancedesign.com/articles/95303-for-shape-changing-smart-materials-applications-abound</link>
+      <enclosure url="http://www.appliancedesign.com/ext/resources/issues2/2017/January/smart-materials/1-Smart-Material.jpg?1482430188" type="image/jpeg" length="34127"/>
+      <media:content url="http://www.appliancedesign.com/ext/resources/issues2/2017/January/smart-materials/1-Smart-Material.jpg?1482430188" type="image/jpeg" fileSize="34127">
+        <media:title type="plain">Smart Material</media:title>
+        <media:description type="plain">Tinkering with smart material. Source: WSU
+</media:description>
+      </media:content>
+      <media:content url="http://www.appliancedesign.com/ext/resources/issues2/2017/January/smart-materials/2-Folding-and-unfolding-smart-material.jpg?1482430318" type="image/jpeg" fileSize="96645">
+        <media:title type="plain">Folding and unfolding smart material</media:title>
+        <media:description type="plain">Smart material that folds and unfolds itself.&amp;nbsp; Source: WSU
+</media:description>
+      </media:content>
+      <media:content url="http://www.appliancedesign.com/ext/resources/issues2/2017/January/smart-materials/3-3Dprinted-stent.jpg?1482430370" type="image/jpeg" fileSize="58635">
+        <media:title type="plain">smart material</media:title>
+      </media:content>
+    </item>
+    <item>
+      <title>The Internet of Things: A Universal World?</title>
+      <author></author>
+      <description>
+        <![CDATA[<p>Whether consumer or industrial. Whether you&rsquo;ve heard it called IoT, Industry 4.0, or the smart factory, the Internet of Things is here and it&rsquo;s only going to grow. I particularly like the term the Internet of Everything. It&rsquo;s quite descriptive if you think about the ultimate goal&mdash;everything connected to everyone and everything else.</p>]]>
+      </description>
+      <guid>http://www.appliancedesign.com/articles/95296</guid>
+      <pubDate>Tue, 13 Dec 2016 00:00:00 -0500</pubDate>
+      <link>http://www.appliancedesign.com/articles/95296-the-internet-of-things-a-universal-world</link>
+      <enclosure url="http://www.appliancedesign.com/ext/resources/NewRDWebsite/DefaultImages/AD-Darryl-Sealand.jpg?1480612489" type="image/jpeg" length="108385"/>
+    </item>
+    <item>
+      <title>What is SHaaS? And Why Should You Care?</title>
+      <description>
+        <![CDATA[<p>In April 2016, Comcast released an interesting report, compiled from almost 1,300 U.S. consumers, providing valuable insight into why customers are interested in smart home services, what features they really want and how they plan to use smart home technologies.</p>]]>
+      </description>
+      <guid>http://www.appliancedesign.com/articles/95291</guid>
+      <pubDate>Tue, 13 Dec 2016 00:00:00 -0500</pubDate>
+      <link>http://www.appliancedesign.com/articles/95291-what-is-shaas-and-why-should-you-care</link>
+      <enclosure url="http://www.appliancedesign.com/ext/resources/issues/2016/October/IAM/Quorvo/Open--Proprietary-Activities.jpg?1481656263" type="image/jpeg" length="60283"/>
+      <media:content url="http://www.appliancedesign.com/ext/resources/issues/2016/October/IAM/Quorvo/DSRSmartHomeDashboard.jpg?1481656360" type="image/jpeg" fileSize="41762">
+        <media:title type="plain">Smart Home Dashboard</media:title>
+      </media:content>
+      <media:content url="http://www.appliancedesign.com/ext/resources/issues/2016/October/IAM/Quorvo/Family-Lifestyle-Graphic.jpg?1481656331" type="image/jpeg" fileSize="56171">
+        <media:title type="plain">Family Lifestyle</media:title>
+        <media:description type="plain">The family lifestyle system uses sensors, connected devices, cloud intelligence and social media to combine a variety of important services into a simple to use app that enables service providers to make their customer&amp;rsquo;s lives easier and more secure. Source: Qorvo
+</media:description>
+      </media:content>
+      <media:content url="http://www.appliancedesign.com/ext/resources/issues/2016/October/IAM/Quorvo/Open--Proprietary-Activities.jpg?1481656263" type="image/jpeg" fileSize="60283">
+        <media:title type="plain">Open--Proprietary-Activities</media:title>
+        <media:description type="plain">Overview of Open and Proprietary Standard Activities. In addition to the available RF standards at the communication layer, there is a great deal of competition and fighting among the industry leaders at the application layer. This competition can make it challenging for service providers and device manufacturers to decide which wireless communications technology to adopt for the smart home solutions. Source: Qorvo</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>After the Smart Phone: The Smart Home</title>
+      <description>
+        <![CDATA[<p>As humans, we share a few common questions&mdash;we all want to know what the future is going to bring us, we would like to know what is coming.</p>
+]]>
+      </description>
+      <guid>http://www.appliancedesign.com/articles/95288</guid>
+      <pubDate>Tue, 13 Dec 2016 00:00:00 -0500</pubDate>
+      <link>http://www.appliancedesign.com/articles/95288-after-the-smart-phone-the-smart-home</link>
+      <enclosure url="http://www.appliancedesign.com/ext/resources/issues/2016/October/IAM/greenpeak/GreenPeak_SensorFusion300dpi.jpg?1481648705" type="image/jpeg" length="77501"/>
+    </item>
+    <item>
+      <title>The Internet of Things and the Modern Supply Chain</title>
+      <description>
+        <![CDATA[<p>Internet of Things: What Is It?</p>]]>
+      </description>
+      <guid>http://www.appliancedesign.com/articles/95285</guid>
+      <pubDate>Tue, 13 Dec 2016 00:00:00 -0500</pubDate>
+      <link>http://www.appliancedesign.com/articles/95285-the-internet-of-things-and-the-modern-supply-chain</link>
+      <enclosure url="http://www.appliancedesign.com/ext/resources/issues/2016/October/IAM/c3-solutions/iot.jpg?1481643729" type="image/jpeg" length="58954"/>
+      <media:content url="http://www.appliancedesign.com/ext/resources/issues/2016/October/IAM/c3-solutions/C3-Solutions-Logo.jpg?1481643854" type="image/jpeg" fileSize="13665">
+        <media:title type="plain">Internet of Things</media:title>
+      </media:content>
+      <media:content url="http://www.appliancedesign.com/ext/resources/issues/2016/October/IAM/c3-solutions/Internet-of-Things-White-Paper-Cover.jpg?1481643800" type="image/jpeg" fileSize="25101">
+        <media:title type="plain">Internet of Things</media:title>
+      </media:content>
+      <media:content url="http://www.appliancedesign.com/ext/resources/issues/2016/October/IAM/c3-solutions/Internet-of-things.jpg?1481643814" type="image/jpeg" fileSize="44623">
+        <media:title type="plain">Internet of Things</media:title>
+      </media:content>
+      <media:content url="http://www.appliancedesign.com/ext/resources/issues/2016/October/IAM/c3-solutions/IoT-White-Paper.jpg?1481643829" type="image/jpeg" fileSize="44551">
+        <media:title type="plain">Internet of Things</media:title>
+      </media:content>
+      <media:content url="http://www.appliancedesign.com/ext/resources/issues/2016/October/IAM/c3-solutions/iot.jpg?1481643729" type="image/jpeg" fileSize="58954">
+        <media:title type="plain">Internet of Things</media:title>
+      </media:content>
+    </item>
+    <item>
+      <title>ZigBee Alliance Accelerates IoT Unification with 20 ZigBee 3.0 Platform Certifications From Eight Silicon ProvidersÂ </title>
+      <description>
+        <![CDATA[<p>The large number of certifications gives product developers broad supply chain options for building lighting solutions, energy devices, sensors, controllers, gateways and other IoT objects that will work together using the industry&rsquo;s most widely deployed common language between IoT devices.</p>]]>
+      </description>
+      <guid>http://www.appliancedesign.com/articles/95279</guid>
+      <pubDate>Wed, 07 Dec 2016 00:00:00 -0500</pubDate>
+      <link>http://www.appliancedesign.com/articles/95279-zigbee-alliance-accelerates-iot-unification-with-20-zigbee-30-platform-certifications-from-eight-silicon-providers</link>
+      <enclosure url="http://www.appliancedesign.com/ext/resources/Default_Images/Ed/AD-News-Wire.jpg?1481749574" type="image/jpeg" length="100061"/>
+    </item>
+    <item>
+      <title>Alibabaâs YunOS Joins the ZigBee Alliance</title>
+      <description>
+        <![CDATA[<p>YunOS is a business division of Alibaba responsible for developing the cloud-based, data and service-oriented operating system for the IoT.</p>]]>
+      </description>
+      <guid>http://www.appliancedesign.com/articles/95277</guid>
+      <pubDate>Fri, 02 Dec 2016 00:00:00 -0500</pubDate>
+      <link>http://www.appliancedesign.com/articles/95277-alibabas-yunos-joins-the-zigbee-alliance</link>
+      <enclosure url="http://www.appliancedesign.com/ext/resources/Default_Images/Ed/AD-News-Wire.jpg?1481749574" type="image/jpeg" length="100061"/>
+    </item>
+    <item>
+      <title>Best When Unnoticed</title>
+      <author></author>
+      <description>
+        <![CDATA[<p>According to Frank Deford in a column for WBUR News in Boston, &ldquo;Referees always say it&rsquo;s best not to be noticed.&rdquo; That is not to say that officials should never make a call or not administer their duty to control the game.&nbsp;</p>
+]]>
+      </description>
+      <guid>http://www.appliancedesign.com/articles/95276</guid>
+      <pubDate>Thu, 01 Dec 2016 00:00:00 -0500</pubDate>
+      <link>http://www.appliancedesign.com/articles/95276-best-when-unnoticed</link>
+      <enclosure url="http://www.appliancedesign.com/ext/resources/NewRDWebsite/DefaultImages/AD-Darryl-Sealand.jpg?1480612489" type="image/jpeg" length="108385"/>
+    </item>
+    <item>
+      <title>The Small Things</title>
+      <author></author>
+      <description>
+        <![CDATA[<p>Whether positive or negative, small things can have a large impact.</p>]]>
+      </description>
+      <guid>http://www.appliancedesign.com/articles/95251</guid>
+      <pubDate>Tue, 01 Nov 2016 00:00:00 -0400</pubDate>
+      <link>http://www.appliancedesign.com/articles/95251-the-small-things</link>
+      <enclosure url="http://www.appliancedesign.com/ext/resources/NewRDWebsite/DefaultImages/AD-Darryl-Sealand.jpg?1480612489" type="image/jpeg" length="108385"/>
+    </item>
+    <item>
+      <title>Monitoring equipment performance in the field through sensor technology in the IoT</title>
+      <description>
+        <![CDATA[<p>The Internet of Things (IoT) has moved beyond a developing trend and is now a way to innovate technology further, allowing companies and their customers to begin to reap IoT&rsquo;s growing list of benefits.</p>]]>
+      </description>
+      <guid>http://www.appliancedesign.com/articles/95244</guid>
+      <pubDate>Tue, 01 Nov 2016 00:00:00 -0400</pubDate>
+      <link>http://www.appliancedesign.com/articles/95244-monitoring-equipment-performance-in-the-field-through-sensor-technology-in-the-iot</link>
+      <enclosure url="http://www.appliancedesign.com/ext/resources/issues/2016/November/monitoring/Image-1-MEnergy.jpg?1477669004" type="image/jpeg" length="107186"/>
+      <media:content url="http://www.appliancedesign.com/ext/resources/issues/2016/November/monitoring/Image-1-MEnergy.jpg?1477669004" type="image/jpeg" fileSize="107186">
+        <media:title type="plain">Internet of Things</media:title>
+      </media:content>
+      <media:content url="http://www.appliancedesign.com/ext/resources/issues/2016/November/monitoring/Image-2-MEnergy.jpg?1477669146" type="image/jpeg" fileSize="73828">
+        <media:title type="plain">Internet of Things</media:title>
+      </media:content>
+    </item>
+    <item>
+      <title>The Shake-up in M2M Communication for the Internet of Things</title>
+      <description>
+        <![CDATA[<p>The hallmark of the Internet of Things is machine-to-machine (M2M) communication. Shipping containers will report to their hubs, rain gauges will inform irrigation systems, and your solar panels will talk to your utility.&nbsp;</p>]]>
+      </description>
+      <guid>http://www.appliancedesign.com/articles/95243</guid>
+      <pubDate>Tue, 01 Nov 2016 00:00:00 -0400</pubDate>
+      <link>http://www.appliancedesign.com/articles/95243-the-shake-up-in-m2m-communication-for-the-internet-of-things</link>
+      <enclosure url="http://www.appliancedesign.com/ext/resources/issues/2016/November/Internet-of-Things/1_LoRa.jpg?1477668509" type="image/jpeg" length="114448"/>
+      <media:content url="http://www.appliancedesign.com/ext/resources/issues/2016/November/Internet-of-Things/1_LoRa.jpg?1477668509" type="image/jpeg" fileSize="114448">
+        <media:title type="plain">ear tag sensors for detecting sick cows</media:title>
+        <media:description type="plain">A Nebraska startup called Quantified Ag developed ear-tag sensors to help feedlot managers detect sick cows. The data is communicated using the LoRa Alliance&amp;rsquo;s communication protocol. Source: Bresslergroup
+</media:description>
+      </media:content>
+      <media:content url="http://www.appliancedesign.com/ext/resources/issues/2016/November/Internet-of-Things/2_Medals.jpg?1477668647" type="image/jpeg" fileSize="39697">
+        <media:title type="plain">SIGFOX and LoRa</media:title>
+        <media:description type="plain">SIGFOX and LoRa are in a bit of a race to claim worldwide dominance. Then there&amp;rsquo;s LTE-M, scheduled to be deployed in mid-2017. Source: Bresslergroup
+</media:description>
+      </media:content>
+      <media:content url="http://www.appliancedesign.com/ext/resources/issues/2016/November/Internet-of-Things/3_SigFox.jpg?1477668694" type="image/jpeg" fileSize="109843">
+        <media:title type="plain">WhistleGPS</media:title>
+        <media:description type="plain">WhistleGPS was the first consumer device in the U.S. to join SIGFOX. It decided to tap into the new IoT network in order to provide lower fees for its subscribers. Source: Whistle.com
+</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>Smart Home Revenue to Nearly Triple Over Current Five-Year Period</title>
+      <description>
+        <![CDATA[<p>While only 21 percent&nbsp;of U.S. homes have smart home technology, smart home revenue is forecasted to almost triple over the current five-year period, according to an informative new <a href="http://www.custom-audio-video.com/wp-content/uploads/sites/203/2016/09/How-SmartHome-CHANGE-R2.png">web graphic</a> from&nbsp;Custom Audio Video.</p>]]>
+      </description>
+      <guid>http://www.appliancedesign.com/articles/95233</guid>
+      <pubDate>Mon, 17 Oct 2016 15:40:00 -0400</pubDate>
+      <link>http://www.appliancedesign.com/articles/95233-article-headline</link>
+      <enclosure url="http://www.appliancedesign.com/ext/resources/Default_Images/Eds-photos/How-SmartHome-CHANGE-R2.png?1476733574" type="image/png" length="158368"/>
+    </item>
+    <item>
+      <title>The Ultimate in Energy Efficiency is âNet Zeroâ</title>
+      <author></author>
+      <description>
+        <![CDATA[<p>According to the Department of Energy (DOE), a Zero Energy Ready Home (ZERH) is a high-performance home that is so energy efficient, its renewable energy system can offset all or most of its annual energy consumption.&nbsp;</p>]]>
+      </description>
+      <guid>http://www.appliancedesign.com/articles/95198</guid>
+      <pubDate>Sat, 01 Oct 2016 00:00:00 -0400</pubDate>
+      <link>http://www.appliancedesign.com/articles/95198-the-ultimate-in-energy-efficiency-is-net-zero</link>
+      <enclosure url="http://www.appliancedesign.com/ext/resources/issues/2016/October/Net-Zero/Net-Zero-1.jpg?1475075194" type="image/jpeg" length="135724"/>
+      <media:content url="http://www.appliancedesign.com/ext/resources/issues/2016/October/Net-Zero/Net-Zero-1.jpg?1475075194" type="image/jpeg" fileSize="135724">
+        <media:title type="plain">Net-Zero</media:title>
+        <media:description type="plain">The exterior of the in-progress New Generation Net Zero Energy Manufactured Home, built as part of a U.S. Department of Energy-funded effort to develop ultra-efficient and affordable home designs.&amp;nbsp;Source: Whirlpool Corporation.
+</media:description>
+      </media:content>
+      <media:content url="http://www.appliancedesign.com/ext/resources/issues/2016/October/Net-Zero/Net-Zero-2.jpg?1475075338" type="image/jpeg" fileSize="57392">
+        <media:title type="plain">Net-Zero</media:title>
+        <media:description type="plain">The ZERH home is outfitted with Whirlpool&amp;rsquo;s 4.2 Cu. Ft. Duet Front-Load Washer with Eco-Sanitize Cycle and Electric Dryer with EcoBoost, among other appliances.&amp;nbsp;Source: Whirlpool Corporation.
+</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>The Four Pitfalls You Need to Avoid When Making Your Refrigerator Smart</title>
+      <description>
+        <![CDATA[<p>It&rsquo;s great to see first manufacturers taking steps towards Internet connected fridges. But many are still wondering: &ldquo;Why would we stick a tablet to a fridge? What is the use case for a smart fridge? Would people really want this?&rdquo; If you are still asking this, you are absolutely right to.</p>]]>
+      </description>
+      <guid>http://www.appliancedesign.com/articles/95223</guid>
+      <pubDate>Fri, 30 Sep 2016 00:00:00 -0400</pubDate>
+      <link>http://www.appliancedesign.com/articles/95223-the-4-pitfalls-you-need-to-avoid-when-making-your-refrigerator-smart</link>
+      <enclosure url="http://www.appliancedesign.com/ext/resources/Default_Images/Eds-photos/Scheme-fridge2-txt-1.png?1475256469" type="image/png" length="66640"/>
+    </item>
+    <item>
+      <title>IMTS 2016: Third-Largest Show For Registration And Exhibit Space, Also Showcased Highest Number Of Exhibitors In History</title>
+      <description>
+        <![CDATA[<p>This show hosted the highest number of exhibiting companies ever (2,407). After move in, the building was 76 million pounds heavier.</p>]]>
+      </description>
+      <guid>http://www.appliancedesign.com/articles/95221</guid>
+      <pubDate>Thu, 29 Sep 2016 00:00:00 -0400</pubDate>
+      <link>http://www.appliancedesign.com/articles/95221-imts-2016-third-largest-show-for-registration-and-exhibit-space-also-showcased-highest-number-of-exhibitors-in-history</link>
+      <enclosure url="http://www.appliancedesign.com/ext/resources/Default_Images/Eds-photos/IMTS_03.jpg?1475176117" type="image/jpeg" length="249275"/>
+    </item>
+    <item>
+      <title>First NTIA Multistakeholder Meeting on IoT Security to Coincide with CTA Technology &amp; Standards Forum</title>
+      <description>
+        <![CDATA[<p>The first meeting of the U.S. Commerce Department&#39;s National Telecommunications and Information Administration (NTIA) multistakeholder process to improve the Internet of Things (IoT) security and upgradability will coincide with the CTA Technology &amp; Standards Forum in Austin, TX, in October.</p>
+]]>
+      </description>
+      <guid>http://www.appliancedesign.com/articles/95195</guid>
+      <pubDate>Tue, 20 Sep 2016 00:00:00 -0400</pubDate>
+      <link>http://www.appliancedesign.com/articles/95195-first-ntia-multistakeholder-meeting-on-iot-security-to-coincide-with-cta-technology-standards-forum</link>
+      <enclosure url="http://www.appliancedesign.com/ext/resources/Default_Images/Ed/AD-News-Wire.jpg?1481749574" type="image/jpeg" length="100061"/>
+    </item>
+    <item>
+      <title>Intrusion Detection for the IIoT: How Do We Detect Threats on the Factory Floor?</title>
+      <description>
+        <![CDATA[<p>
+	Intrusion Detection Solutions (IDS) for IIoT need to be customized to the nature of the devices.</p>]]>
+      </description>
+      <guid>http://www.appliancedesign.com/blogs/14/post/95192</guid>
+      <pubDate>Fri, 16 Sep 2016 00:00:00 -0400</pubDate>
+      <link>http://www.appliancedesign.com/blogs/14-appliance-design-blog/post/95192-intrusion-detection-for-the-iiot-how-do-we-detect-threats-on-the-factory-floor</link>
+      <enclosure url="http://www.appliancedesign.com/ext/resources/Default_Images/Eds-photos/Defender-InfographicLR.jpg?1474059716" type="image/jpeg" length="87336"/>
+    </item>
+    <item>
+      <title>Industrial 3D Printing Making Gains in Using Large Range of Polymers, Metals</title>
+      <author></author>
+      <description>
+        <![CDATA[<p>
+	Industrial 3D printing (otherwise known as additive manufacturing) has been making major strides in the world of manufacturing, generating substantial gains to transform industrial workflows using this technology.</p>]]>
+      </description>
+      <guid>http://www.appliancedesign.com/articles/95166</guid>
+      <pubDate>Thu, 01 Sep 2016 00:00:00 -0400</pubDate>
+      <link>http://www.appliancedesign.com/articles/95166-industrial-3d-printing-making-gains-in-using-large-range-of-polymers-metals</link>
+      <enclosure url="http://www.appliancedesign.com/ext/resources/issues/2016/September/industrial-3D/3D-Metal-Printing.jpg?1472476244" type="image/jpeg" length="99404"/>
+    </item>
+    <item>
+      <title>European Home and Commercial Automation Leader SOMFY Joins ZigBee Alliance Board of Directors</title>
+      <description>
+        <![CDATA[<p>
+	SOMFY develops, manufactures and distributes products in 58 countries across five continents.</p>
+]]>
+      </description>
+      <guid>http://www.appliancedesign.com/articles/95154</guid>
+      <pubDate>Wed, 10 Aug 2016 00:00:00 -0400</pubDate>
+      <link>http://www.appliancedesign.com/articles/95154-european-home-and-commercial-automation-leader-somfy-joins-zigbee-alliance-board-of-directors</link>
+      <enclosure url="http://www.appliancedesign.com/ext/resources/Default_Images/Ed/AD-News-Wire.jpg?1481749574" type="image/jpeg" length="100061"/>
+    </item>
+    <item>
+      <title>Pendant Controller</title>
+      <description>
+        <![CDATA[<p>
+	APEM, Inc.&rsquo;s PC Series is an innovative and ergonomic game style pendant controller.</p>]]>
+      </description>
+      <guid>http://www.appliancedesign.com/articles/95146</guid>
+      <pubDate>Mon, 01 Aug 2016 00:00:00 -0400</pubDate>
+      <link>http://www.appliancedesign.com/articles/95146-pendant-controller</link>
+      <enclosure url="http://www.appliancedesign.com/ext/resources/NewRDWebsite/DefaultImages/AD-New-Products.jpg?1482435312" type="image/jpeg" length="68645"/>
+    </item>
+    <item>
+      <title>Interoperability</title>
+      <author></author>
+      <description>
+        <![CDATA[<p>
+	Forgetting for a moment the obstacle of the development and use of some 6,500 languages in the world, language is the reason human society was able to evolve at all.</p>]]>
+      </description>
+      <guid>http://www.appliancedesign.com/articles/95143</guid>
+      <pubDate>Mon, 01 Aug 2016 00:00:00 -0400</pubDate>
+      <link>http://www.appliancedesign.com/articles/95143-interoperability</link>
+      <enclosure url="http://www.appliancedesign.com/ext/resources/NewRDWebsite/DefaultImages/AD-Darryl-Sealand.jpg?1480612489" type="image/jpeg" length="108385"/>
+    </item>
+    <item>
+      <title>Electrical Parts Selection: IoT Product Strategies</title>
+      <description>
+        <![CDATA[<p>
+	As the Internet of Things ecosystem grows, the continuous rollout of new smart product categories (smart shoes, connected beds, smart cups?) shows no sign of slowing down.</p>]]>
+      </description>
+      <guid>http://www.appliancedesign.com/articles/95136</guid>
+      <pubDate>Mon, 01 Aug 2016 00:00:00 -0400</pubDate>
+      <link>http://www.appliancedesign.com/articles/95136-electrical-parts-selection-iot-product-strategies</link>
+      <enclosure url="http://www.appliancedesign.com/ext/resources/issues/2016/August/selection/1-Rachio.jpg?1470060722" type="image/jpeg" length="97654"/>
+      <media:content url="http://www.appliancedesign.com/ext/resources/issues/2016/August/selection/1-Rachio.jpg?1470060722" type="image/jpeg" fileSize="97654">
+        <media:title type="plain">Rachio</media:title>
+        <media:description type="plain">
+	Environmental specifications guided parts selection for the Rachio Smart Sprinkler Controller, Gen 2, which uses high-temp electrolytic capacitors for an outdoor application. Courtesy of Bresslergroup
+</media:description>
+      </media:content>
+      <media:content url="http://www.appliancedesign.com/ext/resources/issues/2016/August/selection/2-ConnectedHomeIllo.jpg?1470060821" type="image/jpeg" fileSize="29195">
+        <media:title type="plain">Connected Home</media:title>
+        <media:description type="plain">
+	Don&amp;rsquo;t let the part selection for your connected product be driven by the newest device or easiest prototyping solution. Courtesy of Bresslergroup
+</media:description>
+      </media:content>
+      <media:content url="http://www.appliancedesign.com/ext/resources/issues/2016/August/selection/3-ElectronicGutsIllo.jpg?1470060863" type="image/jpeg" fileSize="40465">
+        <media:title type="plain">IoT electronic guts</media:title>
+        <media:description type="plain">
+	Your IoT device&amp;rsquo;s electronic parts are akin to vital organs&amp;mdash;don&amp;rsquo;t select them lightly! Courtesy of Bresslergroup
+</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>Finding a Common Language</title>
+      <author></author>
+      <description>
+        <![CDATA[<p>
+	Even the most tech-savvy consumer might suffer whiplash eyeing the competing smart home protocols and platforms. Want to dim the Philips smart lights and simultaneously cue a playlist through the Sonos home audio system?</p>]]>
+      </description>
+      <guid>http://www.appliancedesign.com/articles/95135</guid>
+      <pubDate>Mon, 01 Aug 2016 00:00:00 -0400</pubDate>
+      <link>http://www.appliancedesign.com/articles/95135-finding-a-common-language</link>
+      <enclosure url="http://www.appliancedesign.com/ext/resources/issues/2016/August/common-language/IoT-screen.jpg?1470060249" type="image/jpeg" length="202498"/>
+    </item>
+    <item>
+      <title>CTA Midyear Forecast: IoT Adoption, Emerging Tech Driving Technology Industry to Revenue Growth</title>
+      <description>
+        <![CDATA[<p>
+	Sales of burgeoning tech products such as wearables, smart home devices and drones will deliver an increase of 1.3 percent over last year&rsquo;s industry revenues.</p>
+]]>
+      </description>
+      <guid>http://www.appliancedesign.com/articles/95129</guid>
+      <pubDate>Mon, 18 Jul 2016 00:00:00 -0400</pubDate>
+      <link>http://www.appliancedesign.com/articles/95129-cta-midyear-forecast-iot-adoption-emerging-tech-driving-technology-industry-to-revenue-growth</link>
+      <enclosure url="http://www.appliancedesign.com/ext/resources/Default_Images/Ed/AD-News-Wire.jpg?1481749574" type="image/jpeg" length="100061"/>
+    </item>
+    <item>
+      <title>AT&amp;T and IBM Team to Bring Enhanced Internet of Things Capabilities to Developers on IBM Cloud</title>
+      <description>
+        <![CDATA[<p>
+	IoT developers can gain deeper insights from data on connected devices with new open standards-based capabilities.</p>
+]]>
+      </description>
+      <guid>http://www.appliancedesign.com/articles/95128</guid>
+      <pubDate>Wed, 13 Jul 2016 00:00:00 -0400</pubDate>
+      <link>http://www.appliancedesign.com/articles/95128-att-and-ibm-team-to-bring-enhanced-internet-of-things-capabilities-to-developers-on-ibm-cloud</link>
+      <enclosure url="http://www.appliancedesign.com/ext/resources/Default_Images/Ed/AD-News-Wire.jpg?1481749574" type="image/jpeg" length="100061"/>
+    </item>
+    <item>
+      <title>The Consumer Purchase Cycle</title>
+      <description>
+        <![CDATA[<p>
+	Manufacturers and retailers alike need to know where, when and how to connect with consumers along their purchase journey&mdash;and understand that winning the sale is not the final destination.&nbsp;</p>]]>
+      </description>
+      <guid>http://www.appliancedesign.com/articles/95109</guid>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 -0400</pubDate>
+      <link>http://www.appliancedesign.com/articles/95109-the-consumer-purchase-cycle</link>
+      <enclosure url="http://www.appliancedesign.com/ext/resources/issues/2016/July/association/Eva-Coll.jpg?1467313451" type="image/jpeg" length="45360"/>
+    </item>
+    <item>
+      <title>The Internet of Things â The Value is the Customer Experience</title>
+      <description>
+        <![CDATA[<p>
+	The internet is currently undergoing its third revolution. The first wave was the fast and easy availability of information through search engines such as Google.</p>]]>
+      </description>
+      <guid>http://www.appliancedesign.com/articles/95107</guid>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 -0400</pubDate>
+      <link>http://www.appliancedesign.com/articles/95107-the-internet-of-things-the-value-is-the-customer-experience</link>
+      <enclosure url="http://www.appliancedesign.com/ext/resources/issues/2016/July/IoT/Interface-IoT.jpg?1467311515" type="image/jpeg" length="53367"/>
+    </item>
+    <item>
+      <title>The VIPs You Need to Know</title>
+      <description>
+        <![CDATA[<p>
+	They&rsquo;ve been called the best kept secret that is quietly having a massive impact. U.S. Department of Energy appliance standards rank as a top energy saving tool nationwide, and new standards soon to be in force are expected to generate even greater energy savings.&nbsp;</p>]]>
+      </description>
+      <guid>http://www.appliancedesign.com/articles/95106</guid>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 -0400</pubDate>
+      <link>http://www.appliancedesign.com/articles/95106-the-vips-you-need-to-know</link>
+      <enclosure url="http://www.appliancedesign.com/ext/resources/issues/2016/July/vips/aasnowman_highres.jpg?1467311028" type="image/jpeg" length="120111"/>
+      <media:content url="http://www.appliancedesign.com/ext/resources/issues/2016/July/vips/appliance_design_test_1.jpg?1467311132" type="image/jpeg" fileSize="80867">
+        <media:title type="plain">appliance_design</media:title>
+        <media:description type="plain">
+	Last year the clock started ticking on a compliance date for a DOE efficiency standard covering central air conditioning. That compliance date is the first in about a dozen set to kick in between now and 2025 and outline requirements for most commercial refrigeration equipment. Source: Panasonic
+</media:description>
+      </media:content>
+      <media:content url="http://www.appliancedesign.com/ext/resources/issues/2016/July/vips/aasnowman_highres.jpg?1467311028" type="image/jpeg" fileSize="120111">
+        <media:title type="plain">snowman in the desert</media:title>
+        <media:description type="plain">
+	Using no refrigeration, a snowman made in Japan traveled 5,314 miles to the desert of Bahrain, surviving the journey in one piece. Source: Panasonic
+</media:description>
+      </media:content>
+      <media:content url="http://www.appliancedesign.com/ext/resources/issues/2016/July/vips/vip_graphic_2.jpg?1467311193" type="image/jpeg" fileSize="74554">
+        <media:title type="plain">The VIPs You Need to Know</media:title>
+        <media:description type="plain">
+	This shows a general idea of how effective VIPs can be in refrigeration, with specific applications able to achieve even higher energy consumption savings. Source: Panasonic
+</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>Comcast Signs Agreement to Acquire Icontrol Networks Inc.</title>
+      <description>
+        <![CDATA[<p>
+	Icontrol has been a technology partner for Comcast since the launch of Xfinity Home in 2010.</p>]]>
+      </description>
+      <guid>http://www.appliancedesign.com/articles/95100</guid>
+      <pubDate>Thu, 23 Jun 2016 00:00:00 -0400</pubDate>
+      <link>http://www.appliancedesign.com/articles/95100-comcast-signs-agreement-to-acquire-icontrol-networks-inc</link>
+      <enclosure url="http://www.appliancedesign.com/ext/resources/Default_Images/Ed/AD-News-Wire.jpg?1481749574" type="image/jpeg" length="100061"/>
+    </item>
+  </channel>
+</rss>

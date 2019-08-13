@@ -1,0 +1,41 @@
+{
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "6cd04198-7dd4-1a4c-8865-fe094605d721++4738" : {
+
+    },
+    "6cd04198-7dd4-1a4c-8865-fe094605d721++4480" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "619724370DEC2851357FB5BE70AD98BAED8B9FCD" : 9223372036854775807,
+    "6cd04198-7dd4-1a4c-8865-fe094605d721++4738" : 0,
+    "6cd04198-7dd4-1a4c-8865-fe094605d721++4480" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "BB32F895-B284-4ECE-BF1C-0CCB71F4D45A",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "619724370DEC2851357FB5BE70AD98BAED8B9FCD" : "",
+    "6cd04198-7dd4-1a4c-8865-fe094605d721++4738" : "Wootrix_IOS\/Pods\/",
+    "6cd04198-7dd4-1a4c-8865-fe094605d721++4480" : "Wootrix_IOS\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Wootrix",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Wootrix.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/bitbucket.org\/cgastadia\/wootrixlatestsep13.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "619724370DEC2851357FB5BE70AD98BAED8B9FCD"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/10.11.5.3\/svn\/pedro_wootrix_ias_f",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "6cd04198-7dd4-1a4c-8865-fe094605d721++4480"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/10.11.5.3\/svn\/pedro_wootrix_ias_f",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "6cd04198-7dd4-1a4c-8865-fe094605d721++4738"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>IDSA</title>
+    <description>
+      <![CDATA[Regular column by the Industrial Designers Society of America]]>
+    </description>
+    <link>http://www.appliancedesign.com/rss</link>
+    <language>en-us</language>
+    <item>
+      <title>Association Report, IDSA: Transforming Products into Services</title>
+      <description>
+        <![CDATA[<p>
+	Medical appliances are an ideal case study for the dual nature of industrial design. The devices must function flawlessly, incorporate a complex set of user/stakeholder needs and also appeal on an emotional level.</p>]]>
+      </description>
+      <guid>http://www.appliancedesign.com/articles/93727</guid>
+      <pubDate>Thu, 05 Sep 2013 10:03:00 -0400</pubDate>
+      <link>http://www.appliancedesign.com/articles/93727-association-report-idsa-transforming-products-into-services</link>
+      <enclosure url="http://www.appliancedesign.com/ext/resources/NewRDWebsite/DefaultImages/ad_default_idsa.jpg?1436458818" type="image/jpeg" length="30749"/>
+    </item>
+    <item>
+      <title>Association Report: The 2012 Tour de-Sign</title>
+      <author></author>
+      <description>
+        <![CDATA[Despite its current standing in the business community, industrial design has not always been considered a core business practice.]]>
+      </description>
+      <guid>http://www.appliancedesign.com/articles/93120</guid>
+      <pubDate>Tue, 01 May 2012 10:16:00 -0400</pubDate>
+      <link>http://www.appliancedesign.com/articles/93120-association-report-the-2012-tour-de-sign</link>
+      <enclosure url="http://www.appliancedesign.com/ext/resources/NewRDWebsite/DefaultImages/ad_default_idsa.jpg?1436458818" type="image/jpeg" length="30749"/>
+    </item>
+    <item>
+      <title>Association Report: Clean Up the Vacuum Industry</title>
+      <description>
+        <![CDATA[<p>
+	The long-term expense of operating and maintaining a vacuum cleaner usually costs consumers much more than the vacuum&rsquo;s purchase price.</p>
+]]>
+      </description>
+      <guid>http://www.appliancedesign.com/articles/92814</guid>
+      <pubDate>Wed, 04 May 2011 14:00:00 -0400</pubDate>
+      <link>http://www.appliancedesign.com/articles/92814-association-report-clean-up-the-vacuum-industry</link>
+      <enclosure url="http://www.appliancedesign.com/ext/resources/NewRDWebsite/DefaultImages/ad_default_idsa.jpg?1436458818" type="image/jpeg" length="30749"/>
+    </item>
+    <item>
+      <title>Association Report: DOT Rule Would Hurt Makers and Users of Lithium Ion Batteries</title>
+      <description>
+        <![CDATA[On January 11, 2010, the U.S. Department of Transportation (DOT) Pipeline and Hazardous Materials Safety Administration (PHMSA) published a Notice of Proposed Rulemaking on lithium ion (and lithium metal) batteries.]]>
+      </description>
+      <guid>http://www.appliancedesign.com/articles/92092</guid>
+      <pubDate>Sat, 01 May 2010 14:22:00 -0400</pubDate>
+      <link>http://www.appliancedesign.com/articles/92092-association-report-dot-rule-would-hurt-makers-and-users-of-lithium-ion-batteries</link>
+      <enclosure url="http://www.appliancedesign.com/ext/resources/NewRDWebsite/DefaultImages/ad_default_idsa.jpg?1436458818" type="image/jpeg" length="30749"/>
+    </item>
+    <item>
+      <title>Association Report: SPI: Designing with Plastic</title>
+      <description>
+        <![CDATA[<p>
+	While appliance industry OEMs may not see themselves as part of the plastics industry, those who design and produce their plastic components know better.</p>]]>
+      </description>
+      <guid>http://www.appliancedesign.com/articles/91753</guid>
+      <pubDate>Mon, 20 Apr 2009 15:00:00 -0400</pubDate>
+      <link>http://www.appliancedesign.com/articles/91753-association-report-spi-designing-with-plastic</link>
+      <enclosure url="http://www.appliancedesign.com/ext/resources/NewRDWebsite/DefaultImages/ad_default_idsa.jpg?1436458818" type="image/jpeg" length="30749"/>
+    </item>
+    <item>
+      <title>Association Report: PSMA: Online Tool Lists Efficiency Regulations</title>
+      <description>
+        <![CDATA[<p>
+	Energy efficiency and going &ldquo;green&rdquo; is all the rage these days. All industries, including those making appliances, electronic equipment, and data centers, are promoting higher energy efficiency and its resulting savings.</p>
+]]>
+      </description>
+      <guid>http://www.appliancedesign.com/articles/91264</guid>
+      <pubDate>Thu, 01 May 2008 00:00:00 -0400</pubDate>
+      <link>http://www.appliancedesign.com/articles/91264-association-report-psma-online-tool-lists-efficiency-regulations</link>
+      <enclosure url="http://www.appliancedesign.com/ext/resources/NewRDWebsite/DefaultImages/ad_default_idsa.jpg?1436458818" type="image/jpeg" length="30749"/>
+    </item>
+  </channel>
+</rss>

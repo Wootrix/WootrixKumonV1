@@ -1,0 +1,889 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Test and Inspection Assembly</title>
+    <description>
+      <![CDATA[Articles about vision systems, leak testers and other technologies for testing and inspecting parts and assemblies. ]]>
+    </description>
+    <link>http://www.assemblymag.com/rss</link>
+    <language>en-us</language>
+    <item>
+      <title>Infrared Cameras Improve Quality of Plastic Welding Process</title>
+      <author>camilloj@bnpmedia.com (Jim Camillo)</author>
+      <description>
+        <![CDATA[<p>For more than 30 years, manufacturers have used infrared welding (IW) to assemble plastic components that are large, made of challenging materials or have high strength and hermetic requirements.</p>
+]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93644</guid>
+      <pubDate>Thu, 01 Dec 2016 00:00:00 -0500</pubDate>
+      <link>http://www.assemblymag.com/articles/93644-infrared-cameras-improve-quality-of-plastic-welding-process</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Issues/2016/December/AIA/asb1216AIA1.jpg?1480522129" type="image/jpeg" length="105262"/>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/December/AIA/asb1216AIA1.jpg?1480522129" type="image/jpeg" fileSize="105262">
+        <media:title type="plain">1</media:title>
+        <media:description type="plain">About four years ago, Yanfeng Automotive Interiors installed an infrared welding machine at its Louisville, KY, facility to assemble plastic parts of the defroster grille for the Ford Escape. Photo courtesy Ford Motor Co.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/December/AIA/asb1216AIA2.jpg?1480522235" type="image/jpeg" fileSize="82316">
+        <media:title type="plain">2</media:title>
+        <media:description type="plain">Four FLIR A315 thermal imaging cameras monitor 40 surface regions on the plastic parts after the heat cycle. Built-in analysis software determines if part temperature falls within the upper and lower control limits, and immediately notifies the welding machine PLC. Photo courtesy Flir
+</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>Statistical Process Control of Torque Data on Assembly Lines</title>
+      <author>sprovierij@bnpmedia.com (John Sprovieri)</author>
+      <description>
+        <![CDATA[<p>Power tools collect a wealth of data about the fastening process. With some simple statistical analysis, engineers can obtain valuable insight into the fastening process.</p>]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93621</guid>
+      <pubDate>Mon, 07 Nov 2016 00:00:00 -0500</pubDate>
+      <link>http://www.assemblymag.com/articles/93621-statistical-process-control-of-torque-data-on-assembly-lines</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Issues/2016/November/torque/asb1116torque4.jpg?1478534577" type="image/jpeg" length="144761"/>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/November/torque/asb1116torque1.jpg?1478534422" type="image/jpeg" fileSize="47682">
+        <media:title type="plain">1</media:title>
+        <media:description type="plain">In a histogram of torque data, the area under the curve that lies within one standard deviation of the mean represents 68 percent of all torque readings in the data set. The area within two deviations represents 95 percent of all readings, and the area within three deviations represents 99.7 percent of all readings. Illustration courtesy Kanbanize Inc.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/November/torque/asb1116torque2.jpg?1478534508" type="image/jpeg" fileSize="67577">
+        <media:title type="plain">2</media:title>
+        <media:description type="plain">X-bar and R charts can identify fastening problems quickly by comparing samples of torque and angle data to your overall results. Illustration courtesy Minitab Inc.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/November/torque/asb1116torque3.jpg?1478534540" type="image/jpeg" fileSize="179268">
+        <media:title type="plain">3</media:title>
+        <media:description type="plain">Power tools collect a wealth of data about the fastening process. Photo courtesy Desoutter Industrial Tools
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/November/torque/asb1116torque4.jpg?1478534577" type="image/jpeg" fileSize="144761">
+        <media:title type="plain">4</media:title>
+        <media:description type="plain">No matter how accurate the tool, there will always be some variation in how much torque is applied to a fastener. Photo courtesy Atlas Copco Tools and Assembly Systems
+</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>Whatâs New With Machine Vision Systems</title>
+      <author>sprovierij@bnpmedia.com (John Sprovieri)</author>
+      <description>
+        <![CDATA[<p>Vision systems play a vital role in automated assembly systems. They can check for the presence or absence of parts or materials. They can measure key dimensions of assemblies. They can tell robots the precise location of parts. They can even read 1D and 2D codes.</p>
+]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93620</guid>
+      <pubDate>Mon, 07 Nov 2016 00:00:00 -0500</pubDate>
+      <link>http://www.assemblymag.com/articles/93620-whats-new-with-machine-vision-systems</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Issues/2016/November/Vision/asb1116vision1.jpg?1478532702" type="image/jpeg" length="76056"/>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/November/Vision/asb1116vision1.jpg?1478532702" type="image/jpeg" fileSize="76056">
+        <media:title type="plain">1</media:title>
+        <media:description type="plain">The BVS-E universal vision sensor can detect objects regardless of their location or position. Photo courtesy Balluff Inc.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/November/Vision/asb1116vision2.jpg?1478532799" type="image/jpeg" fileSize="108629">
+        <media:title type="plain">2</media:title>
+        <media:description type="plain">AutoVISION 4.0 allows engineers to easily implement machine vision jobs for item tracking, traceability, defect detection, guidance and monitoring. Photo courtesy Microscan Systems Inc.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/November/Vision/asb1116vision3.jpg?1478532830" type="image/jpeg" fileSize="58589">
+        <media:title type="plain">3</media:title>
+        <media:description type="plain">The Iris GTR smart camera measures just 75 by 75 by 54 millimeters, allowing it to fit into tight spaces. Photo courtesy Matrox Imaging
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/November/Vision/asb1116vision4.jpg?1478532858" type="image/jpeg" fileSize="56320">
+        <media:title type="plain">4</media:title>
+        <media:description type="plain">The iVu Plus Gen2 vision sensors have touch screen interfaces for easy setup and monitoring. Photo courtesy Banner Engineering
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/November/Vision/asb1116vision5.jpg?1478532997" type="image/jpeg" fileSize="69633">
+        <media:title type="plain">5</media:title>
+        <media:description type="plain">Compact 12-Megapixel Camera from Baumer Ltd.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/November/Vision/asb1116vision6tiff.jpg?1478533040" type="image/jpeg" fileSize="68669">
+        <media:title type="plain">6</media:title>
+        <media:description type="plain">Five-Megapixel CMOS Camera from JAI Inc.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/November/Vision/asb1116vision7.jpg?1478533098" type="image/jpeg" fileSize="30930">
+        <media:title type="plain">7</media:title>
+        <media:description type="plain">SICK Inc. has introduced the TriSpector1000 vision sensor for costefficient and reliable 3D inspection.
+</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>Whatâs New With Power Tools</title>
+      <author>camilloj@bnpmedia.com (Jim Camillo)</author>
+      <description>
+        <![CDATA[<p>
+	If we are to build a better world, politicians tell us, power must be placed in the right hands. This statement will draw no protest from assemblers. After all, these skilled workers require state-of-the-art power tools to build long-lasting quality products on a daily basis.</p>
+]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93428</guid>
+      <pubDate>Fri, 03 Jun 2016 00:00:00 -0400</pubDate>
+      <link>http://www.assemblymag.com/articles/93428-whats-new-with-power-tools</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Issues/2016/June/tools/asb0616Power1.jpg?1464966056" type="image/jpeg" length="87414"/>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/June/tools/asb0616Power1.jpg?1464966056" type="image/jpeg" fileSize="87414">
+        <media:title type="plain">1</media:title>
+        <media:description type="plain">
+	Assemblers use the 26C APU series pneumatic screwdriver upside down. Photo courtesy ASG, Div. of Jergens
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/June/tools/asb0616Power2.jpg?1464966131" type="image/jpeg" fileSize="94345">
+        <media:title type="plain">2</media:title>
+        <media:description type="plain">
+	The 19-Series of pneumatic nutrunners and screwdrivers includes right-angle, inline and pistoltrigger models with a torque range of 0.3 to 15.8 newton-meters. Photo courtesy APEX Tool Group LLC
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/June/tools/asb0616Power3.jpg?1464966162" type="image/jpeg" fileSize="31351">
+        <media:title type="plain">3</media:title>
+        <media:description type="plain">
+	Recently upgraded, the Minimat-ED digital electric screwdriver enables the operator to set torque (0.24 to 4.8 newton-meters) by pushing a button. Photo courtesy DEPRAG Inc.
+</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>New Test Method Helps Ford Develop Quieter Cars</title>
+      <description>
+        <![CDATA[<p>
+	DEARBORN, MI&mdash;Ford&rsquo;s latest vehicles will be quieter thanks to a new testing method called aeroacoustic mobile wind tunnel testing.</p>
+]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93396</guid>
+      <pubDate>Fri, 06 May 2016 00:00:00 -0400</pubDate>
+      <link>http://www.assemblymag.com/articles/93396-new-test-method-helps-ford-develop-quieter-cars</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/LatestHeadlines/headlines900/wind-tunnel-900.jpg?1462554065" type="image/jpeg" length="458897"/>
+    </item>
+    <item>
+      <title>Leak Testing Auto Parts</title>
+      <description>
+        <![CDATA[<p>
+	In the past, automobile manufacturers only required basic forms of leak testing to check standard subassemblies, such as, air conditioning, power train and cooling system components. Traditional hard-vacuum and accumulation methods were&mdash;and still are&mdash;used to test components such as radiators, evaporators, condensers, air-conditioner hoses, torque converters and valve bodies.</p>]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93390</guid>
+      <pubDate>Thu, 05 May 2016 00:00:00 -0400</pubDate>
+      <link>http://www.assemblymag.com/articles/93390-leak-testing-auto-parts</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Issues/2016/May/leak/asb0516leak1.jpg?1462472619" type="image/jpeg" length="163173"/>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/May/leak/asb0516leak1.jpg?1462472619" type="image/jpeg" fileSize="163173">
+        <media:title type="plain">1</media:title>
+        <media:description type="plain">
+	This leak test system for fuel rails includes a hard-vacuum test chamber, vacuum pump and helium mass spectrometer. Photo courtesy Vacuum Instrument Corp.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/May/leak/asb0516leak2.jpg?1462472704" type="image/jpeg" fileSize="193377">
+        <media:title type="plain">2</media:title>
+        <media:description type="plain">
+	High-pressure, direct-injection fuel rails have a leak rate spec of 10-4 atmospheric cubic centimeters per second. Photo courtesy Vacuum Instrument Corp.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/May/leak/asb0516leak3.jpg?1462472732" type="image/jpeg" fileSize="181064">
+        <media:title type="plain">3</media:title>
+        <media:description type="plain">
+	This six-station, hard-vacuum system was built to check lithium-ion batteries for leaks. Photo courtesy Vacuum Instrument Corp.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/May/leak/asb0516leak4.jpg?1462472759" type="image/jpeg" fileSize="180457">
+        <media:title type="plain">4</media:title>
+        <media:description type="plain">
+	An air-conditioner condenser is in position to be leak-tested in a helium hard-vacuum system. Photo courtesy Vacuum Instrument Corp.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/May/leak/asb0516leak5.jpg?1462472787" type="image/jpeg" fileSize="176350">
+        <media:title type="plain">5</media:title>
+        <media:description type="plain">
+	An operator loads an air-conditioner condenser into a hard-vacuum test chamber. Photo courtesy Vacuum Instrument Corp.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/May/leak/asb0516leak6.jpg?1462472815" type="image/jpeg" fileSize="157734">
+        <media:title type="plain">6</media:title>
+        <media:description type="plain">
+	In the accumulation test method, helium escaping the part is allowed to accumulate in an enclosure that surrounds the part at atmospheric pressure. The accumulated helium is then mixed and sampled by a mass spectrometer. Photo courtesy Vacuum Instrument Corp.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/May/leak/asb0516leak7.jpg?1462472849" type="image/jpeg" fileSize="199625">
+        <media:title type="plain">7</media:title>
+        <media:description type="plain">
+	Implementing a leak test system is much easier if engineers begin thinking about testing before the rest of the assembly process is in place. Photo courtesy Vacuum Instrument Corp.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/May/leak/asb0516leak8.jpg?1462472879" type="image/jpeg" fileSize="158908">
+        <media:title type="plain">8</media:title>
+        <media:description type="plain">
+	Fixturing is critical for accurate leak testing. This fixture was built for high-pressure fuel rails. Photo courtesy Vacuum Instrument Corp.
+</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>Coordinate Measuring Machine Helps Manufacturer Produce Bus Chassis</title>
+      <author>camilloj@bnpmedia.com (Jim Camillo)</author>
+      <description>
+        <![CDATA[<p>
+	Although being part of an international conglomerate has its advantages (such as extensive financial resources and access to cutting-edge technologies), a company still must make good products to establish and expand its customer base. This statement definitely applies to Canadian bus manufacturer Nova Bus Inc., which began in 1993 and has been part of Volvo Bus Corp.&mdash;the world&rsquo;s largest motorcoach and transit bus manufacturer&mdash;since 1998.</p>
+]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93385</guid>
+      <pubDate>Wed, 04 May 2016 00:00:00 -0400</pubDate>
+      <link>http://www.assemblymag.com/articles/93385-coordinate-measuring-machine-helps-manufacturer-produce-bus-chassis</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Issues/2016/May/AIA/asb0516AIA5.jpg?1462387813" type="image/jpeg" length="87660"/>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/May/AIA/asb0516AIA5.jpg?1462387813" type="image/jpeg" fileSize="87660">
+        <media:title type="plain">aia 5</media:title>
+        <media:description type="plain">
+	To determine the exact degree of rear chassis deformation, an application engineer used a HandyPROBE, optical scanner and dual-camera sensor. Photo courtesy Creaform Inc.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/May/AIA/asb0516AIA6.jpg?1462387893" type="image/jpeg" fileSize="137933">
+        <media:title type="plain">aia 6</media:title>
+        <media:description type="plain">
+	U.S. cities that operate Nova Bus Inc. buses in their public-transportation systems include Hartford and New Haven, CT; New York; Philadelphia; Honolulu; and Chicago. Photo courtesy Nova Bus Inc.
+</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>Airbus Invents Tool for Inspecting Composites</title>
+      <description>
+        <![CDATA[<p>
+	TOULOUSE, France&mdash;Airbus has invented a nondestructive, ultrasonic tool for inspecting the composite airframe of the A350 XWB jetliner.</p>
+]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93329</guid>
+      <pubDate>Tue, 05 Apr 2016 00:00:00 -0400</pubDate>
+      <link>http://www.assemblymag.com/articles/93329-airbus-invents-tool-for-inspecting-composites</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/LatestHeadlines/headlines900/airbus-mfg-900.jpg?1433272684" type="image/jpeg" length="748353"/>
+    </item>
+    <item>
+      <title>How to Select the Proper LaserGauge Sensor for your Application</title>
+      <description>
+        <![CDATA[<p>
+	Origin Technologies Corporation receives many inquiries about our LaserGauge&reg; product line.</p>
+]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93306</guid>
+      <pubDate>Tue, 08 Mar 2016 00:00:00 -0500</pubDate>
+      <link>http://www.assemblymag.com/articles/93306-how-to-select-the-proper-lasergauge-sensor-for-your-application</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Issues/2016/HowTo/asbht0316_originLaserGague.jpg?1457719090" type="image/jpeg" length="35311"/>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/HowTo/asbht0316_originLaserGague.jpg?1457719090" type="image/jpeg" fileSize="35311">
+        <media:title type="plain">origin 1</media:title>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/HowTo/asbht0316_originapp.jpg?1457719160" type="image/jpeg" fileSize="48563">
+        <media:title type="plain">origin 2</media:title>
+      </media:content>
+    </item>
+    <item>
+      <title>Test Chamber Proves a Sound Solution for Whirlpool</title>
+      <author>camilloj@bnpmedia.com (Jim Camillo)</author>
+      <description>
+        <![CDATA[<p>
+	Few things in a home are as annoying as a noisy appliance.</p>
+]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93265</guid>
+      <pubDate>Tue, 01 Mar 2016 00:00:00 -0500</pubDate>
+      <link>http://www.assemblymag.com/articles/93265-test-chamber-proves-a-sound-solution-for-whirlpool</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Issues/2016/March/AIA/asb0316AIA5.jpg?1456429758" type="image/jpeg" length="142652"/>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/March/AIA/asb0316AIA5.jpg?1456429758" type="image/jpeg" fileSize="142652">
+        <media:title type="plain">appliance 1</media:title>
+        <media:description type="plain">
+	Whirlpool Corp. engineers use two anechoic chambers to measure sound produced by appliances and appliance components. Photo courtesy Eckel Industries Inc.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/March/AIA/asb0316AIA6.jpg?1456429830" type="image/jpeg" fileSize="122263">
+        <media:title type="plain">appliance 6</media:title>
+        <media:description type="plain">
+	Each anechoic chamber is large enough to accommodate any Whirlpool product&amp;mdash;from a toaster to a refrigerator. Photo courtesy Eckel Industries Inc.
+</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>Smart Phones Aid Quality Checks at Ford Assembly Plant</title>
+      <description>
+        <![CDATA[<p>
+	VALENCIA, Spain&mdash;Ford Motor Co. has developed a wearable device that, when connected to a smartphone app, enables assembly line workers to make faster and more accurate quality checks on new vehicles.</p>
+]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93238</guid>
+      <pubDate>Wed, 10 Feb 2016 00:00:00 -0500</pubDate>
+      <link>http://www.assemblymag.com/articles/93238-smart-phones-aid-quality-checks-at-ford-assembly-plant</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/LatestHeadlines/headlines900/ford-watch-900.jpg?1455122805" type="image/jpeg" length="352660"/>
+    </item>
+    <item>
+      <title>Miniature Force Sensors Aid in Testing Touchscreens and Consumer Electronics</title>
+      <description>
+        <![CDATA[<p>
+	Miniature force sensors ensure quality of touchscreens, buttons and other electronic assemblies.</p>]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93226</guid>
+      <pubDate>Mon, 01 Feb 2016 00:00:00 -0500</pubDate>
+      <link>http://www.assemblymag.com/articles/93226-miniature-force-sensors-aid-in-testing-touchscreens-and-consumer-electronics</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Issues/2016/February/sensors/asb0216kistler1.jpg?1454347800" type="image/jpeg" length="178519"/>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/February/sensors/asb0216kistler1.jpg?1454347800" type="image/jpeg" fileSize="178519">
+        <media:title type="plain">sensors 1</media:title>
+        <media:description type="plain">
+	To ensure precise measurement and exclude measuring inaccuracies, the force application area at the sensor&amp;mdash;and therefore the sensor itself&amp;mdash;should be as small as possible. Photo courtesy Kistler Instrument Corp.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/February/sensors/asb0216kistler2.jpg?1454347898" type="image/jpeg" fileSize="68534">
+        <media:title type="plain">sensors 2</media:title>
+        <media:description type="plain">
+	The size of a force sensor is important to the overall design of an automated test system. There&amp;rsquo;s usually not much space available for the sensor to be installed. Photo courtesy Kistler Instrument Corp.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/February/sensors/asb0216kistler3.jpg?1454347927" type="image/jpeg" fileSize="30364">
+        <media:title type="plain">sensors 3</media:title>
+        <media:description type="plain">
+	This piezoelectric sensor measures quasistatic and dynamic tensile and compression force, from a few millinewtons to several hundred newtons. Photo courtesy Kistler Instrument Corp.
+</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>Software Helps Manufacturers Implement Data-Based Growth Plans</title>
+      <author>camilloj@bnpmedia.com (Jim Camillo)</author>
+      <description>
+        <![CDATA[<p>
+	Accurate and timely performance data is just as important to manufacturers as the latest welding technology, super-strong adhesive or unique-thread fastener.</p>
+]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93218</guid>
+      <pubDate>Mon, 01 Feb 2016 00:00:00 -0500</pubDate>
+      <link>http://www.assemblymag.com/articles/93218-software-helps-manufacturers-implement-data-based-growth-plans</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Issues/2016/February/AIA/asb0216AIA5.jpg?1454095968" type="image/jpeg" length="89521"/>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/February/AIA/asb0216AIA5.jpg?1454095968" type="image/jpeg" fileSize="89521">
+        <media:title type="plain">erp 1</media:title>
+        <media:description type="plain">
+	DTR Industries Inc. makes a broad range of automotive anti-vibration products, as well as rubber and plastic fuel and vapor hoses. Graphic courtesy DTR Industries Inc.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/February/AIA/asb0216AIA6.jpg?1454096185" type="image/jpeg" fileSize="99071">
+        <media:title type="plain">erp 2</media:title>
+        <media:description type="plain">
+	Instron uses IFS Applications software to efficiently design, build and service instruments, systems and accessories that evaluate the mechanical properties of materials and components. Photo courtesy Instron
+</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>Metrology Equipment Raises Machine Tool Productivity</title>
+      <author>camilloj@bnpmedia.com (Jim Camillo)</author>
+      <description>
+        <![CDATA[<p>
+	Konecranes plc is best known as a company that builds and maintains cranes of all sizes for customers in manufacturing, process industries, shipyards, ports and terminals.</p>]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93174</guid>
+      <pubDate>Mon, 04 Jan 2016 00:00:00 -0500</pubDate>
+      <link>http://www.assemblymag.com/articles/93174-metrology-equipment-raises-machine-tool-productivity</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Issues/2016/January/aia/asb0116AIA7.jpg?1451931321" type="image/jpeg" length="137493"/>
+    </item>
+    <item>
+      <title>Automated Assembly System Moves Hitachi in Right Direction</title>
+      <author>camilloj@bnpmedia.com (Jim Camillo)</author>
+      <description>
+        <![CDATA[<p>
+	At Hitachi Metals Automotive Components USA LLC (HMAC), suspensions, exhaust manifolds and other components are assembled every day for all of the world&rsquo;s leading automakers.</p>
+]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93173</guid>
+      <pubDate>Mon, 04 Jan 2016 00:00:00 -0500</pubDate>
+      <link>http://www.assemblymag.com/articles/93173-automated-assembly-system-moves-hitachi-in-right-direction</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Issues/2016/January/aia/asb0116AIA5.jpg?1451930749" type="image/jpeg" length="162230"/>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/January/aia/asb0116AIA5.jpg?1451930749" type="image/jpeg" fileSize="162230">
+        <media:title type="plain">aia 5</media:title>
+        <media:description type="plain">
+	This customized HIT-0001system automatically assembles turbo housings for Hitachi Metals Automotive Components USA LLC. Photo courtesy Compass Automation
+</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>Error-Proofing With Sensors and RFID</title>
+      <description>
+        <![CDATA[<p>
+	Sensors and RFID technology can be used to error-proof automated assembly processes.</p>]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93145</guid>
+      <pubDate>Mon, 07 Dec 2015 00:00:00 -0500</pubDate>
+      <link>http://www.assemblymag.com/articles/93145-error-proofing-with-sensors-and-rfid</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Issues/2015/December/error/asb1215error1.jpg?1449588075" type="image/jpeg" length="48184"/>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/December/error/asb1215error1.jpg?1449588075" type="image/jpeg" fileSize="48184">
+        <media:title type="plain">error proofing 1</media:title>
+        <media:description type="plain">
+	An analog sensor is used to exactly track jaw position and gripping pressure on this robotic gripper. Illustration courtesy Balluff Inc.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/December/error/asb1215error2.jpg?1449588493" type="image/jpeg" fileSize="54585">
+        <media:title type="plain">error proofing 2</media:title>
+        <media:description type="plain">
+	A laser through-beam sensor spots a misassembled washer. Illustration courtesy Balluff Inc.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/December/error/asb1215error3.jpg?1449588520" type="image/jpeg" fileSize="232213">
+        <media:title type="plain">error proofing 3</media:title>
+        <media:description type="plain">
+	Working together, these two color sensors can detect the exact color of these two dissimilar floor mat materials. This prevents the wrong mat from being installed a vehicle. Photo courtesy Balluff Inc.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/December/error/asb1215error4.jpg?1449588546" type="image/jpeg" fileSize="35403">
+        <media:title type="plain">error proofing 4</media:title>
+        <media:description type="plain">
+	A UV photoelectric sensor reads invisible tracer material on medicine bottle caps to verify their contents. Illustration courtesy Balluff Inc.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/December/error/asb1215error5.jpg?1449588688" type="image/jpeg" fileSize="112562">
+        <media:title type="plain">error proofing 5</media:title>
+        <media:description type="plain">
+	Impacts destroyed these sensors. Photo courtesy Balluff Inc.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/December/error/asb1215error6.jpg?1449588720" type="image/jpeg" fileSize="201331">
+        <media:title type="plain">error proofing 6</media:title>
+        <media:description type="plain">
+	Slag builds up on sensors in a welding cell. Photo courtesy Balluff Inc.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/December/error/asb1215error7.jpg?1449588749" type="image/jpeg" fileSize="46449">
+        <media:title type="plain">error proofing 7</media:title>
+        <media:description type="plain">
+	Even photoelectric sensors can be protected from harsh weld cell conditions. Photo courtesy Balluff Inc.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/December/error/asb1215error8.jpg?1449588779" type="image/jpeg" fileSize="172730">
+        <media:title type="plain">error proofing 8</media:title>
+        <media:description type="plain">
+	These protected inductive proximity sensors will last for months or longer, safe from heat and weld cell spatter. Photo courtesy Balluff Inc.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/December/error/asb1215error9.jpg?1449588808" type="image/jpeg" fileSize="113678">
+        <media:title type="plain">error proofing 9</media:title>
+        <media:description type="plain">
+	An RFID read-write sensor and electronic tag error-proof an automatic tool selection system. Photo courtesy Balluff Inc.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/December/error/asb1215error10.jpg?1449588837" type="image/jpeg" fileSize="216445">
+        <media:title type="plain">error proofing 10</media:title>
+        <media:description type="plain">
+	An RFID sensor correctly reads build information from an electronic tag through a pool of cutting fluid. Photo courtesy Balluff Inc.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/December/error/asb1215error11.jpg?1449588870" type="image/jpeg" fileSize="148531">
+        <media:title type="plain">error proofing 11</media:title>
+        <media:description type="plain">
+	The total build history for an assembly can be read and updated on an RFID tag. Illustration courtesy Balluff Inc.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/December/error/asb1215error12.jpg?1449588906" type="image/jpeg" fileSize="74172">
+        <media:title type="plain">error proofing 12</media:title>
+        <media:description type="plain">
+	In many applications, vision sensors can perform error-proofing more efficiently and less expensively than arrays of multiple sensors. Photo courtesy Balluff Inc.
+</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>Data Logger Plays Key Role in Design of Solar-Powered Race Car</title>
+      <author>camilloj@bnpmedia.com (Jim Camillo)</author>
+      <description>
+        <![CDATA[<p>
+	Traveling more than 1,800 miles across the Australian outback in a standard automobile is an extremely tough challenge for any driver. Imagine how much more difficult it is to traverse this harsh terrain in a solar-powered vehicle with little or no track record of reliability.</p>
+]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93142</guid>
+      <pubDate>Mon, 07 Dec 2015 00:00:00 -0500</pubDate>
+      <link>http://www.assemblymag.com/articles/93142-data-logger-plays-key-role-in-design-of-solar-powered-race-car</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Issues/2015/December/AIA/asb1215AIA5.jpg?1449512847" type="image/jpeg" length="98689"/>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/December/AIA/asb1215AIA5.jpg?1449512847" type="image/jpeg" fileSize="98689">
+        <media:title type="plain">aia 5</media:title>
+        <media:description type="plain">
+	Cambridge University Eco-Racing won the 2013 Matchtech Engineering Showcase for its solar-powered vehicle called Resolution. Photo courtesy Cambridge University Eco-Racing
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/December/AIA/asb1215AIA6.jpg?1449512923" type="image/jpeg" fileSize="62359">
+        <media:title type="plain">aia 6</media:title>
+        <media:description type="plain">
+	Besides being compact, Influx Rebel XT data loggers feature high-speed microprocessors that simultaneously capture real-time data from three controller area network sources. Photo courtesy CAS DataLoggers Inc.
+</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>Knife and Tool Manufacturers Still Thrive in USA</title>
+      <author>sprovierij@bnpmedia.com (John Sprovieri)</author>
+      <description>
+        <![CDATA[<p>
+	Manufacturers of knives and tools gain a competitive advantage by assembling their products in the U.S.</p>]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93098</guid>
+      <pubDate>Wed, 04 Nov 2015 02:00:00 -0500</pubDate>
+      <link>http://www.assemblymag.com/articles/93098-knife-and-tool-manufacturers-still-thrive-in-usa</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Issues/2015/November/knife-manufacturing/asb1115knife1.jpg?1446653572" type="image/jpeg" length="125258"/>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/November/knife-manufacturing/asb1115knife1.jpg?1446653572" type="image/jpeg" fileSize="125258">
+        <media:title type="plain">knife and tool 1</media:title>
+        <media:description type="plain">
+	Heat treating is a critical aspect of tool manufacturing. Heat the steel too much and it becomes hard and brittle. Heat it too little and it remains relatively soft and easily fatigued. Photo courtesy Channellock Inc.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/November/knife-manufacturing/asb1115knife2.jpg?1446653637" type="image/jpeg" fileSize="159601">
+        <media:title type="plain">knife and tool 2</media:title>
+        <media:description type="plain">
+	The handles of Channellock pliers are dipped in a pool of blue-colored liquid PVC, which is then cured in an oven. The soft, yet resilient, coating makes the tools comfortable to hold. Photo courtesy Channellock Inc.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/November/knife-manufacturing/asb1115knife3.jpg?1446653663" type="image/jpeg" fileSize="163474">
+        <media:title type="plain">knife and tool 3</media:title>
+        <media:description type="plain">
+	At Channellock, massive, computer-controlled die forgers precisely hammer microwave-heated steel into plier parts. Photo courtesy Channellock Inc.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/November/knife-manufacturing/asb1115knife4.jpg?1446653689" type="image/jpeg" fileSize="143921">
+        <media:title type="plain">knife and tool 4</media:title>
+        <media:description type="plain">
+	A worker polishes the heads on pliers. Channellock has begun using six-axis robots to handle this task, as well. Photo courtesy Channellock Inc.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/November/knife-manufacturing/asb1115knife5.jpg?1446653725" type="image/jpeg" fileSize="297760">
+        <media:title type="plain">knife and tool 5</media:title>
+        <media:description type="plain">
+	Leatherman multitools are put together by hand. Workers assemble 12,000 tools during an average day. Photo courtesy Leatherman Tool Group Inc.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/November/knife-manufacturing/asb1115knife6.jpg?1446653830" type="image/jpeg" fileSize="279832">
+        <media:title type="plain">knife and tool 6</media:title>
+        <media:description type="plain">
+	At Leatherman Tool Group, assemblers use advanced, torque-controlled screwdrivers to install fasteners. Photo courtesy Leatherman Tool Group Inc.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/November/knife-manufacturing/asb1115knife7.jpg?1446653862" type="image/jpeg" fileSize="57009">
+        <media:title type="plain">knife and tool 7</media:title>
+        <media:description type="plain">
+	Most parts of a Leatherman multitool, such as handles, knife blades, screwdrivers and saws, are produced in-house with servo-controlled stamping presses. Photo courtesy Leatherman Tool Group Inc.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/November/knife-manufacturing/asb1115knife8.jpg?1446653891" type="image/jpeg" fileSize="88655">
+        <media:title type="plain">knife and tool 8</media:title>
+        <media:description type="plain">
+	A vertically integrated operation, the Leatherman assembly plant produces more than 1 million tools each year. Photo courtesy Leatherman Tool Group Inc.
+</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>Manual Torque Tools Still Rule</title>
+      <author>webera@bnpmedia.com (Austin Weber)</author>
+      <description>
+        <![CDATA[<p>
+	Every assembly line should be equipped with manual torque wrenches and screwdrivers.</p>
+]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93104</guid>
+      <pubDate>Wed, 04 Nov 2015 00:00:00 -0500</pubDate>
+      <link>http://www.assemblymag.com/articles/93104-manual-torque-tools-still-rule</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Issues/2015/November/torque/asb1115torque1.jpg?1446660378" type="image/jpeg" length="72764"/>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/November/torque/asb1115torque1.jpg?1446660378" type="image/jpeg" fileSize="72764">
+        <media:title type="plain">torque 1</media:title>
+        <media:description type="plain">
+	ESD preset screwdrivers prevent fasteners from being under- and over-tightened. Photo courtesy Mountz Inc.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/November/torque/asb1115torque2.jpg?1446660508" type="image/jpeg" fileSize="34322">
+        <media:title type="plain">torque 2</media:title>
+        <media:description type="plain">
+	This lightweight miniature screwdriver allows operators to monitor the torque applied to nuts and bolts. Photo courtesy Futek Advanced Sensor Technology Inc.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/November/torque/asb1115torque3.jpg?1446660544" type="image/jpeg" fileSize="49793">
+        <media:title type="plain">torque 3</media:title>
+        <media:description type="plain">
+	Application of static torque is typically more accurate than torque applied by a dynamic device. Photo courtesy Mountz Inc.
+</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>Do You Need a Color Vision System?</title>
+      <author>webera@bnpmedia.com (Austin Weber)</author>
+      <description>
+        <![CDATA[<p>
+	New vision technology offers engineers a rainbow of options.</p>]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93103</guid>
+      <pubDate>Wed, 04 Nov 2015 00:00:00 -0500</pubDate>
+      <link>http://www.assemblymag.com/articles/93103-do-you-need-a-color-vision-system</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Issues/2015/November/Color-Vision/asb1115vision1.jpg?1446658081" type="image/jpeg" length="100203"/>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/November/Color-Vision/asb1115vision1.jpg?1446658081" type="image/jpeg" fileSize="100203">
+        <media:title type="plain">color vision 1</media:title>
+        <media:description type="plain">
+	As costs come down and the technology improves, engineers have more opportunity than ever to implement color vision systems on assembly lines. Photo courtesy Cognex Corp.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/November/Color-Vision/asb1115vision2.jpg?1446658247" type="image/jpeg" fileSize="103227">
+        <media:title type="plain">color vision 2</media:title>
+        <media:description type="plain">
+	Most inspections work well in monochrome. But, there are cases when only color provides the ability to discriminate the part from the background and inspect it. Photo courtesy Microscan Systems Inc.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/November/Color-Vision/asb1115vision3.jpg?1446658279" type="image/jpeg" fileSize="104651">
+        <media:title type="plain">color vision 3</media:title>
+        <media:description type="plain">
+	Color processing can detect and bring out very subtle color differences on a target that monochrome cannot. Photo courtesy Keyence Corp. of America
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/November/Color-Vision/asb1115vision4.jpg?1446658311" type="image/jpeg" fileSize="95734">
+        <media:title type="plain">color vision 4</media:title>
+        <media:description type="plain">
+	Some engineers mistakenly believe that color processing is harder to use than gray scale. Photo courtesy Edmund Optics Inc.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/November/Color-Vision/asb1115vision6.jpg?1446658381" type="image/jpeg" fileSize="137232">
+        <media:title type="plain">color vision 6</media:title>
+        <media:description type="plain">
+	Inexperience causes some engineers to shy away from using color vision systems. Photo courtesy Keyence Corp. of America
+</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>Materials Tester Gives Redesigned Stool a Leg Up</title>
+      <author>camilloj@bnpmedia.com (Jim Camillo)</author>
+      <description>
+        <![CDATA[<p>
+	Functionality and ergonomics are becoming increasingly important to furniture manufacturers around the world.</p>
+]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93097</guid>
+      <pubDate>Tue, 03 Nov 2015 00:00:00 -0500</pubDate>
+      <link>http://www.assemblymag.com/articles/93097-materials-tester-gives-redesigned-stool-a-leg-up</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Issues/2015/November/AiA/asb1115AIA7.jpg?1446583302" type="image/jpeg" length="50836"/>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/November/AiA/asb1115AIA7.jpg?1446583302" type="image/jpeg" fileSize="50836">
+        <media:title type="plain">aia 7</media:title>
+        <media:description type="plain">
+	Last year, OneLeg added a silicone seat cover to its one-legged gardening stool to provide users with extra comfort and the ability to lean forward without sliding off the seat. Graphic courtesy AMETEK Test &amp;amp; Calibration Instruments
+</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>Vision System is Right Inspection Tool for Leatherman</title>
+      <author>camilloj@bnpmedia.com (Jim Camillo)</author>
+      <description>
+        <![CDATA[<p>
+	The right tools are always essential to properly perform repair work.</p>
+]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93096</guid>
+      <pubDate>Tue, 03 Nov 2015 00:00:00 -0500</pubDate>
+      <link>http://www.assemblymag.com/articles/93096-vision-system-is-right-inspection-tool-for-leatherman</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Issues/2015/November/AiA/asb1115AIA5.jpg?1446582716" type="image/jpeg" length="96222"/>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/November/AiA/asb1115AIA5.jpg?1446582716" type="image/jpeg" fileSize="96222">
+        <media:title type="plain">aia 5</media:title>
+        <media:description type="plain">
+	Leatherman Tool Group uses three dimensional vision systems to perform first-article inspection of metal parts for its multi-tools products. Photo courtesy Keyence Corp. of America
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/November/AiA/asb1115AIA6.jpg?1446582790" type="image/jpeg" fileSize="177389">
+        <media:title type="plain">aia 6</media:title>
+        <media:description type="plain">
+	Multi-tools feature a pair of pliers with up to 20 tools, including screwdrivers, knives, saws, wire cutters, files and a bottle opener. Photo courtesy Leatherman Tool Group Inc.
+</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>Wireless data collection helps automotive supplier monitor production</title>
+      <author>camilloj@bnpmedia.com (Jim Camillo)</author>
+      <description>
+        <![CDATA[<p>
+	This past May, automotive modules and components manufacturer TRW was purchased by transmission manufacturer ZF for $12.4 billion. The deal creates ZF-TRW&mdash;the world&rsquo;s third-largest auto supplier, with 130,000 employees and annual sales of more than $34.2 billion.</p>
+]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93060</guid>
+      <pubDate>Thu, 01 Oct 2015 00:00:00 -0400</pubDate>
+      <link>http://www.assemblymag.com/articles/93060-wireless-data-collection-helps-automotive-supplier-monitor-production</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Issues/2015/October/aia/asb1015AIA1.jpg?1443719436" type="image/jpeg" length="77191"/>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/October/aia/asb1015AIA1.jpg?1443719436" type="image/jpeg" fileSize="77191">
+        <media:title type="plain">wireless data</media:title>
+        <media:description type="plain">
+	Each signal tower has LED lights in red, yellow and green. A slave is placed beneath the tower (which mounts easily onto a machine), and the master device is positioned on the wall or next to the PC and connected via a USB cable. Photo courtesy WERMA Signaltechnik
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/October/aia/asb1015AIA2.jpg?1443719524" type="image/jpeg" fileSize="118383">
+        <media:title type="plain">wireless data 2</media:title>
+        <media:description type="plain">
+	Machine data is displayed on five large plasma screens located throughout the plant to immediately inform service, electrical and mechanical maintenance departments of any production problems. Photo courtesy WERMA Signaltechnik
+</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>Pneumatic Actuators, Controller Play Key Role in Flexible Test System for Automotive Electronics</title>
+      <description>
+        <![CDATA[<p>
+	A flexible pneumatic test system finds bad automotive electronics before consumers do.</p>]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93035</guid>
+      <pubDate>Thu, 03 Sep 2015 00:00:00 -0400</pubDate>
+      <link>http://www.assemblymag.com/articles/93035-pneumatic-actuators-controller-play-key-role-in-flexible-test-system-for-automotive-electronics</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Issues/2015/September/pneumatic/asb0915meth1.jpg?1441293457" type="image/jpeg" length="134979"/>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/September/pneumatic/asb0915meth1.jpg?1441293457" type="image/jpeg" fileSize="134979">
+        <media:title type="plain">pneumatic 1</media:title>
+        <media:description type="plain">
+	Methode worked with Parker Hannifin to develop a flexible pneumatic test system for ICS modules. Photo courtesy Parker Hannifin Corp.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/September/pneumatic/asb0915meth2.jpg?1441293574" type="image/jpeg" fileSize="119129">
+        <media:title type="plain">pneumatic 2</media:title>
+        <media:description type="plain">
+	To check an ICS module, the tester pushes six to 19 buttons and turns two to three knobs. Photo courtesy Parker Hannifin Corp.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/September/pneumatic/asb0915meth3.jpg?1441293621" type="image/jpeg" fileSize="119315">
+        <media:title type="plain">pneumatic 3</media:title>
+        <media:description type="plain">
+	Methode Electronics designed and built the integrated center stack for the 2011 Ford Flex. Photo courtesy Ford Motor Co.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/September/pneumatic/asb0915meth4.jpg?1441293637" type="image/jpeg" fileSize="95616">
+        <media:title type="plain">pneumatic 4</media:title>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/September/pneumatic/asb0915meth5.jpg?1441293672" type="image/jpeg" fileSize="58995">
+        <media:title type="plain">pneumatic 5</media:title>
+      </media:content>
+    </item>
+    <item>
+      <title>Smart Cameras Open Door to Accurate A3 Assembly</title>
+      <author>camilloj@bnpmedia.com (Jim Camillo)</author>
+      <description>
+        <![CDATA[<p>
+	Every year, more than 500,000 A3, A4, A5 and Q5 vehicles leave the production line at Audi AG&rsquo;s largest plant in In-golstadt, Germany.</p>
+]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93028</guid>
+      <pubDate>Thu, 03 Sep 2015 00:00:00 -0400</pubDate>
+      <link>http://www.assemblymag.com/articles/93028-smart-cameras-open-door-to-accurate-a3-assembly</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Issues/2015/September/AIA/asb0915AIA5.jpg?1441288463" type="image/jpeg" length="133600"/>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/September/AIA/asb0915AIA5.jpg?1441288463" type="image/jpeg" fileSize="133600">
+        <media:title type="plain">smart camera 1</media:title>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/September/AIA/asb0915AIA6.jpg?1441288542" type="image/jpeg" fileSize="127017">
+        <media:title type="plain">smart camera 2</media:title>
+        <media:description type="plain">
+	Two LSIS 400i smart cameras on each side verify the exact position of the large and small hinge bolt holes for each door. Photo courtesy Leuze electronic GmbH
+</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>Robots and Machine Vision Automate Inspection of Jet Engine Parts</title>
+      <author>camilloj@bnpmedia.com (Jim Camillo)</author>
+      <description>
+        <![CDATA[Turbines housed in aircraft engines are regularly subjected to very harsh conditions. ]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93026</guid>
+      <pubDate>Thu, 03 Sep 2015 00:00:00 -0400</pubDate>
+      <link>http://www.assemblymag.com/articles/93026-robots-and-machine-vision-automate-inspection-of-jet-engine-parts</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Issues/2015/September/AIA/asb0915AIA1.jpg?1441287195" type="image/jpeg" length="107025"/>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/September/AIA/asb0915AIA1.jpg?1441287195" type="image/jpeg" fileSize="107025">
+        <media:title type="plain">machine vision</media:title>
+        <media:description type="plain">
+	The INL-1900x2T inspection system features a six-axis robot, a PLC, a display monitor, six GigE cameras and Matrox Imaging Library 9 image-analysis software. Photo courtesy Matrox Imaging
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/September/AIA/asb0915AIA2.jpg?1441287282" type="image/jpeg" fileSize="84979">
+        <media:title type="plain">machine vision 2</media:title>
+        <media:description type="plain">
+	Matrox Imaging Library 9 software measures up to 50 tolerances and several hundred features of each turbine blade, including parallelism, length, radius and angles. Photo courtesy Matrox Imaging
+</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>Airbus Introduces Smart Glasses for Final Assembly </title>
+      <description>
+        <![CDATA[<p>
+	PARIS&mdash;Airbus has developed &ldquo;connected glasses&rdquo; for technicians to wear on the A330 final assembly line. The glasses enable precise positioning&mdash;down to the millimeter&mdash;during the cabin installation marking process, when operators designate the exact location where seats and cabin furnishings should be affixed inside the aircraft.</p>
+]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/92997</guid>
+      <pubDate>Wed, 05 Aug 2015 00:00:00 -0400</pubDate>
+      <link>http://www.assemblymag.com/articles/92997-airbus-introduces-smart-glasses-for-final-assembly</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/LatestHeadlines/headlines900/glasses-900.jpg?1438792989" type="image/jpeg" length="305963"/>
+    </item>
+    <item>
+      <title>Ensuring Traceability in Electronics Assembly</title>
+      <description>
+        <![CDATA[<p>
+	Data from a traceability system can be used for process improvement, defect resolution and regulatory compliance.</p>]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/92976</guid>
+      <pubDate>Sat, 01 Aug 2015 00:00:00 -0400</pubDate>
+      <link>http://www.assemblymag.com/articles/92976-ensuring-traceability-in-electronics-assembly</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Issues/2015/August/traceability/asb0815trace1.jpg?1438019501" type="image/jpeg" length="147432"/>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/August/traceability/asb0815trace1.jpg?1438019501" type="image/jpeg" fileSize="147432">
+        <media:title type="plain">traceability 1</media:title>
+        <media:description type="plain">
+	Traceability initiatives can extend all the way down to the component level. Photo courtesy Brady Corp.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/August/traceability/asb0815trace2.jpg?1438019604" type="image/jpeg" fileSize="236601">
+        <media:title type="plain">traceability 2</media:title>
+        <media:description type="plain">
+	A traceability system can help keep counterfeit components out of electronics assemblies. Photo courtesy Brady Corp.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/August/traceability/asb0815trace3.jpg?1438019640" type="image/jpeg" fileSize="134968">
+        <media:title type="plain">traceability 3</media:title>
+        <media:description type="plain">
+	Recall costs increase ten-fold at each step along the product life cycle. Photo courtesy Brady Corp.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/August/traceability/asb0815trace4.jpg?1438019674" type="image/jpeg" fileSize="148303">
+        <media:title type="plain">traceability 4</media:title>
+        <media:description type="plain">
+	Consumer electronics manufacturers, communication carriers and retailers spent some $16.7 billion to process returned merchandise in 2011. Photo courtesy Brady Corp.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/August/traceability/asb0815trace5.jpg?1438019719" type="image/jpeg" fileSize="184283">
+        <media:title type="plain">traceability 5</media:title>
+        <media:description type="plain">
+	Traceability systems that are implemented in conjunction with a lean initiative can reduce total product cost by nearly 10 percent. Photo courtesy Brady Corp.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/August/traceability/asb0815trace6.jpg?1438019754" type="image/jpeg" fileSize="96074">
+        <media:title type="plain">traceability 6</media:title>
+        <media:description type="plain">
+	Bar code labels are one of the most common methods of tracking parts and finished products. Photo courtesy Brady Corp
+</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>Robot-Mounted Vision System Simplifies Large-Part Inspection</title>
+      <author>camilloj@bnpmedia.com (Jim Camillo)</author>
+      <description>
+        <![CDATA[<p>
+	Designing an automated, inline system to perform final quality inspection of a large or complicated assembly can be tricky.</p>
+]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/92972</guid>
+      <pubDate>Sat, 01 Aug 2015 00:00:00 -0400</pubDate>
+      <link>http://www.assemblymag.com/articles/92972-robot-mounted-vision-system-simplifies-large-part-inspection</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Issues/2015/August/AIA/asb0815AIA5.jpg?1438010769" type="image/jpeg" length="74618"/>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/August/AIA/asb0815AIA5.jpg?1438010769" type="image/jpeg" fileSize="74618">
+        <media:title type="plain">vision system</media:title>
+        <media:description type="plain">
+	Featuring a UR5 robotic arm guided by a smart camera, this turnkey system provides inline inspection of large components like automotive engines or electronic subassemblies. Photo courtesy Cross Co.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/August/AIA/asb0815AIA6.jpg?1438010844" type="image/jpeg" fileSize="94519">
+        <media:title type="plain">vision system 2</media:title>
+        <media:description type="plain">
+	The Vision HAWK smart camera has built-in advanced optics, liquid lens autofocus and LED lighting. Photo courtesy Microscan Inc.
+</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>Coordinate Measuring Machine Helps Race Car Manufacturer Make Precision Parts</title>
+      <author>camilloj@bnpmedia.com (Jim Camillo)</author>
+      <description>
+        <![CDATA[<p>
+	Based in New Hudson, MI, Pratt & Miller (PM) is a world-class engineering company that turns its clients' automotive concepts into reality.</p>
+]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/92971</guid>
+      <pubDate>Sat, 01 Aug 2015 00:00:00 -0400</pubDate>
+      <link>http://www.assemblymag.com/articles/92971-coordinate-measuring-machine-helps-race-car-manufacturer-make-precision-parts</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Issues/2015/August/AIA/asb0815AIA3.jpg?1438009905" type="image/jpeg" length="142606"/>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/August/AIA/asb0815AIA3.jpg?1438009905" type="image/jpeg" fileSize="142606">
+        <media:title type="plain">corvette 1</media:title>
+        <media:description type="plain">
+	In 1999, Pratt &amp;amp; Miller developed the Chevrolet Corvette C5-R for motor sports. The Corvette Racing team&amp;rsquo;s latest car, introduced in 2014, is the C7-R (shown). Photo courtesy General Motors
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/August/AIA/asb0815AIA4.jpg?1438009983" type="image/jpeg" fileSize="97251">
+        <media:title type="plain">corvette 2</media:title>
+        <media:description type="plain">
+	Pratt &amp;amp; Miller engineers use the portable ScanArm coordinate measuring machine to design, construct and analyze virtual components, computational fluid dynamics systems and complete cars. Photo courtesy FARO Technologies Inc.
+</media:description>
+      </media:content>
+    </item>
+  </channel>
+</rss>

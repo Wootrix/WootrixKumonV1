@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Product of the Week</title>
+    <description>
+      <![CDATA[Click here each week for a brief description of a new and innovative assembly technology.]]>
+    </description>
+    <link>http://www.assemblymag.com/rss</link>
+    <language>en-us</language>
+    <item>
+      <title>Adjustable Workbench Addresses Ergonomic Needs</title>
+      <description>
+        <![CDATA[
+	The 950 Series workbench has cantilevered supporting legs, which provides superior leg and knee clearance.</p>
+]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/90179</guid>
+      <pubDate>Thu, 31 May 2012 00:00:00 -0400</pubDate>
+      <link>http://www.assemblymag.com/articles/90179-adjustable-workbench-addresses-ergonomic-needs</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Product_Of_Week/product-of-the-week.jpg?1338484415" type="image/jpeg" length="16984"/>
+    </item>
+    <item>
+      <title>Automated IV Leak Test Systems Eliminates Visual Inspections</title>
+      <description>
+        <![CDATA[The Med75 leak detector is designed for production testing of IV filters. It speeds cycle times and eliminates human error from visual inspection.]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/89654</guid>
+      <pubDate>Tue, 10 Jan 2012 00:00:00 -0500</pubDate>
+      <link>http://www.assemblymag.com/articles/89654-automated-iv-leak-test-systems-eliminates-visual-inspections</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Podcasts/asb0212nn1slideshow.jpg?1401716351" type="image/jpeg" length="149146"/>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>Wootrix copy.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>11</integer>
+		</dict>
+		<key>Wootrix.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>0</integer>
+		</dict>
+		<key>WootrixDev.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
+		<key>WootrixStage.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>3</integer>
+		</dict>
+		<key>WootrixTest.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>2</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>75BEAD941A5D060800B1260A</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>75F3C8931A39708900986D49</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>75F3C8AF1A39708900986D49</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>75F3C8C01A3970A600986D49</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>75F3C8D01A3970B000986D49</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>75F3C8E01A3970B900986D49</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>

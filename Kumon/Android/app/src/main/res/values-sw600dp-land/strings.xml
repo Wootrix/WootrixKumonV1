@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Kumon</string>
+    <string name="device_type">tab</string>
+    <string name="lbl_twitter_post_sucess">Successfully shared on Twitter</string>
+    <string name="lbl_twitter_logni_falied">Twitter Login Failed</string>
+    <string name="lbl_twitter_post_fail">Failed to shared on Twitter</string>
+    <string name="lbl_fb_post_sucess">Successfully shared on Facebook</string>
+    <string name="lbl_fb_post_fail">Failed to shared on Facebook</string>
+    <string name="out_of_memeory">Out Of Memory Error</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="network_not_avail">Network Not Available</string>
+    <!--  <string name="app_id">906837972662201</string>
+     Mom2MomcentsID
+     <string name="app_id">372037492932433</string> -->
+
+    <!--Toast Message-->
+    <string name="toast_article">Article</string>
+    <string name="toast_message">Message</string>
+    <string name="toast_advertisement">Advertisement</string>
+    <string name="toast_close">Closed Magazine</string>
+
+    <!-- strings for login/signup screen -->
+    <string name="lbl_name">Name</string>
+    <string name="lbl_email">Email</string>
+    <string name="lbl_error">Error</string>
+    <string name="lbl_pass">Password</string>
+    <string name="lbl_confirm_pass">Confirm Password</string>
+    <string name="lbl_login">Log in</string>
+    <string name="lbl_signup">Sign up</string>
+    <string name="lbl_loginwith">Log in with</string>
+    <string name="lbl_try_signup">Don\'t have an account yet? Signup here</string>
+    <string name="lbl_try_login">Alreay have an account? Login here</string>
+    <string name="invalid_email">Invalid email address</string>
+    <string name="please_wait_lbl">Please wait...</string>
+    <string name="loading">Loading...</string>
+    <string name="lbl_send">Send</string>
+    <string name="lbl_wrt_comment">Write a comment...</string>
+    <string name="lbl_camera">Camera</string>
+    <string name="lbl_gallery">Gallery</string>
+    <string name="sd_card_not_available">SD-Card not available</string>
+    <string name="lbl_ok">Ok</string>
+    <string name="lbl_cancel">Cancel</string>
+    <string name="msg_select_image">Choose Image</string>
+
+    <!-- strings for the profilepage -->
+
+    <string name="lbl_showpage">Show Page</string>
+    <string name="lbl_change_email">Change Email</string>
+    <string name="lbl_change_pass">Change Password</string>
+    <string name="lbl_rate_app">Rate App</string>
+    <string name="lbl_chng_language">Change Language</string>
+    <string name="lbl_abt_us">About Us</string>
+    <string name="lbl_topics">Topics</string>
+    <string name="lbl_magazines">Magazines</string>
+    <string name="lbl_languages">Article Languages</string>
+    <string name="lbl_logout">Log out</string>
+    <string name="lbl_cancel_cap">CANCEL</string>
+    <string name="lbl_done_cap">DONE</string>
+    <string name="lbl_new_email">New Email ID</string>
+    <string name="lbl_confrm_email">Confirm Email ID</string>
+    <string name="lbl_old_pass">Old Password</string>
+    <string name="lbl_new_pass">New Password</string>
+    <string name="lbl_confirm_new_pass">Confirm New Password</string>
+
+    <!-- HEADER NAMES -->
+    <string name="header_comment">Comments</string>
+    <string name="header_my_account">My Account</string>
+    <string name="header_aboutus">About us</string>
+    <string name="header_chng_pass">Change Password</string>
+    <string name="header_chng_email">Change Email</string>
+    <string name="header_chng_lng">Change Language</string>
+    <string name="header_content">Content</string>
+    <string name="header_article">Article</string>
+    <string name="add_magazines">Add New Magazines</string>
+    <!-- languages -->
+
+    <string name="lbl_english">English</string>
+    <string name="lbl_spanish">Spanish</string>
+    <string name="lbl_portuguese">Portuguese</string>
+    <string name="lbl_forgot_pass">Forgot Password?</string>
+    <string name="enter_email">Please enter your email</string>
+    <string name="lbl_search_magazines">Search Articles</string>
+    <string name="lbl_advrtsmnt">Advertisement</string>
+    <string name="enter_name">Please enter your Name</string>
+    <string name="enter_pass">Please enter your Password</string>
+    <string name="enter_cur_pass">Please enter your current password</string>
+    <string name="cur_pass_min_length">Current password should be atleast 6 chracter long</string>
+    <string name="enter_confirm_pass">Please enter your confirm password</string>
+    <string name="pass_mismatch">Password and Confirm password does not match</string>
+    <string name="lbl_open_article">Open Article</string>
+    <string name="lbl_open_articles">Open Articles</string>
+    <string name="lbl_no_comments_found">No comments Found. Be the first one to comment on this Article</string>
+    <string name="enter_comment">Please enter comment</string>
+    <string name="subscription_pass">Enter Subscription Password</string>
+    <string name="add_email">Add Email</string>
+    <string name="add_pass">Add Password</string>
+    <string name="select_language">Please choose at least one language</string>
+    <string name="enter_new_email">Please enter new email</string>
+    <string name="enter_new_confrm_email">Please enter confirm email</string>
+    <string name="new_and_confrm_email_mismatch">Email and confirm email do not match</string>
+    <string name="lbl_no_social_found">No Social media found to share.</string>
+    <string name="wanna_logout">Do you want to logout?</string>
+    <string name="lbl_yes">Yes</string>
+    <string name="lbl_no">No</string>
+    <string name="subscription_pass_enter_pass">Subscription Password</string>
+    <string name="please_choose_article_lang">Please select atleast one Article Language</string>
+
+    <!-- server side error messges strings -->
+    <string name="service_failed">Webservice failed to give the result.</string>
+    <string name="server_ntwrk_error">Network error Occoured. Please try again.</string>
+    <string name="server_timout_error">Timeout Occured. Please try again.</string>
+    <string name="server_response_error">Response is not Coming from server. Please try again.</string>
+
+    <!-- tags for advertisement module -->
+    <string name="ad_advtID">1</string>
+    <string name="ad_videourl">2</string>
+    <string name="ad_link_url">3</string>
+    <string name="ad_tim_in_sec">4</string>
+    <string name="ad_embedded_url">5</string>
+
+    <!-- NEW STRINGS -->
+    <string name="change_language_warning_message">Do you want to keep selected language as your app\'s default language?</string>
+    <string name="lbl_press_back_again">Press back button again to exit.</string>
+    <string name="action_settings">Settings</string>
+    <string name="pre_sharing_text">Hey! I am using Kumon Application. I just read this article: </string>
+    <string name="post_sharing_text"> You can read and subscribe Articles, Magazines, Magazine articles on Android, iOS and on Web. \n\n Just check it out http://www.Kumon.com </string>
+    <string name="short_password">Password should be atleast 6 character long.</string>
+    <string name="short_username">Username should be atleast 4 character long.</string>
+    <string name="sec_ago">sec ago</string>
+    <string name="secs_ago">secs ago</string>
+    <string name="min_ago">min ago</string>
+    <string name="mins_ago">mins ago</string>
+    <string name="hr_ago">hour ago</string>
+    <string name="hrs_ago">hours ago</string>
+    <string name="day_ago">day ago</string>
+    <string name="days_ago">days ago</string>
+    <string name="pre_ago"></string>
+
+    <!-- about us url  -->
+    <string name="url_about_us">http://Kumon.wootrix.com/sobre</string>
+    <string name="app_code">jsjj2</string>
+    <!--<string name="app_id">1627701464153107</string>-->
+
+    <!-- new app id for KumonApp -->
+    <string name="app_id">370549973380582</string>
+</resources>

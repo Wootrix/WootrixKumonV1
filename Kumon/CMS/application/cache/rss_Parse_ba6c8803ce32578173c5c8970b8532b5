@@ -1,0 +1,823 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Connector and Cable Assembly Supplier</title>
+	<atom:link href="http://www.connectorsupplier.com/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.connectorsupplier.com</link>
+	<description>Connector Supplier and Cable Assembly Supplier</description>
+	<lastBuildDate>Mon, 23 Jan 2017 14:10:36 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.7.1</generator>
+	<item>
+		<title>Specifying medical device connectors</title>
+		<link>http://www.connectorsupplier.com/specifying-medical-device-connectors/</link>
+		<comments>http://www.connectorsupplier.com/specifying-medical-device-connectors/#respond</comments>
+		<pubDate>Fri, 20 Jan 2017 03:43:25 +0000</pubDate>
+		<dc:creator><![CDATA[Contributed Article]]></dc:creator>
+				<category><![CDATA[Featured Slides]]></category>
+		<category><![CDATA[Home Page]]></category>
+		<category><![CDATA[Home page articles]]></category>
+		<category><![CDATA[Market]]></category>
+		<category><![CDATA[Market Page Articles]]></category>
+		<category><![CDATA[Medical Articles]]></category>
+		<category><![CDATA[connector design]]></category>
+		<category><![CDATA[Fischer Connectors SA]]></category>
+		<category><![CDATA[medical market]]></category>
+		<category><![CDATA[wearables]]></category>
+
+		<guid isPermaLink="false">http://www.connectorsupplier.com/?p=17012</guid>
+		<description><![CDATA[<p>Designing handhelds, wearables, and tomorrowâs smaller medical devices comes with a unique set of design challenges. Engineers and designers are striving to drive size, weight, and cost from their devices, looking critically at every component, including medical device connectors. &#160; Handhelds, wearables and more: Smaller medical devices mean smaller, multi-tasking connectors New technology in connector<a href="http://www.connectorsupplier.com/specifying-medical-device-connectors/"> Read More >></a></p><p>The post <a rel="nofollow" href="http://www.connectorsupplier.com/specifying-medical-device-connectors/">Specifying medical device connectors</a> appeared first on <a rel="nofollow" href="http://www.connectorsupplier.com">Connector and Cable Assembly Supplier</a>.</p>]]></description>
+				<content:encoded><![CDATA[<div class="pf-content"><h2>Designing handhelds, wearables, and tomorrowâs smaller medical devices comes with a unique set of design challenges. Engineers and designers are striving to drive size, weight, and cost from their devices, looking critically at every component, including medical device connectors.</h2>
+<p><div class="woo-sc-twitter left"><a href="http://twitter.com/share" class="twitter-share-button"data-count="horizontal">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script></div> <script type="IN/Share" ></script>
+
+ <a href="https://secure.campaigner.com/CSB/Public/Form.aspx?fid=1153473"><img class="alignnone wp-image-14527 size-full" src="http://www.connectorsupplier.com/wp-content/uploads/Subscribe-g80.gif" alt="Subscribe-g80" width="80" height="20" /></a></p>
+<p>&nbsp;</p>
+<p><img class="aligncenter size-full wp-image-17014" src="http://www.connectorsupplier.com/wp-content/uploads/medical-devices-575.gif" alt="" width="572" height="293" /></p>
+<h3><span style="color: #000080;"><strong>Handhelds, wearables and more: Smaller medical devices mean smaller, multi-tasking connectors</strong></span></h3>
+<p>New technology in connector design is changing how medical device manufacturers build smaller, more reliable devices than ever before. One approach is the increased use of small hybrid connectors that combine signal, power, and data into one small, dense connector.</p>
+<p>This is particularly helpful when the patient is responsible for maintaining the device on a daily basis. Patients who are not technologically proficient bring their own set of challenges and risks to the table, especially when their own failing health plays a role. The fewer the connections and cables that have to be managed, the lower the risk of an in-home device problem due to user error.</p>
+<p>Suppliers constantly work with engineers designing handheld or wearable connector solutions that take up less space and handle a broader range of functions. The most common is putting power and signal into one connector. But there are other combinations, such as power and fluid or air, specifically in the medical industry that play a role as well. Those engineers report that their end-use customers ask for simplicity and ease-of-use while still maintaining safety, reliability, and FDA-level or appropriate country medical device directive quality standards. It is no small task to satisfy everyone.</p>
+<p>Moving from the older, larger connectors that handle only signal or only power to smaller connectors that handle both power and signal comes with a bit of a learning curve. The problem is that most engineers donât get the chance to review their connector solutions all that often, especially when they need to pass FDA trials. However, reviewing the connector and cable assembly needs and possibilities early in a project can save a lot of heartache later on.</p>
+<p>If the connector solution is typically connected and then forgotten, those working on new designs have myriad solutions available. They can minimize the number of wires coming out of the connector to make sure medical professionals or patients can easily handle the single connection. In some instances, they donât need to worry a lot about how the connectors feel, or whether they are easy to connect and disconnect over a period of time. When connectors arenât touched very often, itâs important to make sure the signal and power connections donât create interference and are as small as possible.</p>
+<p>But if the connector solution is mated and unmated often, the end user and the environment must be closely examined. For instance, a solution in a hospital surgical environment where staff is wearing gloves will have different needs than connectors for a patient in poor health who canât grasp small connectors.</p>
+<h3><span style="color: #000080;"><strong>Here are a few tips to consider when going to a hybrid connector solution that multi-tasks in a frequent-use application.</strong></span></h3>
+<ul>
+<li>Sure, itâs easy to determine the contact count. But details become more important as the voltage and current increases. Compare models for the exact size of the contact. A 0.5mm contact will carry more power than a 0.3mm contact. The smaller the contact, the lower the current it will pass. Early connector failures can occur if too much power is run through a small contact.</li>
+<li>Pin density and configuration are important. The ideal connector performs several functions including transmission of power, Ethernet, HDMI, etc., without interference. The cable plays a significant role, but connectors without the proper spacing may play havoc with data transmission if there are unexpected levels of interference. Combinations of data, signal and power need to be tested as no two applications are exactly the same.</li>
+<li>Check for available keying and color-coding variations so that users can quickly and easily determine where to connect a specific cable.</li>
+</ul>
+<h3><span style="color: #000080;"><strong>Review for overall ruggedness:</strong></span></h3>
+<ul>
+<li>Make sure to get enough mating cycles out of the connectors. If 5,000 mating cycles are needed, make sure the connector solution can handle them. Determine how many mating cycles per day are expected and the probable product lifetime to come up with a target for the minimum required mating cycles.</li>
+<li>Check to make sure that connector can be sealed to product requirements. Not every IP68 solution is created equally. IP68 can be achieved with a test of one meter for two hours or 120 meters for 24 hours. Thereâs a big difference, so take the time to understand whatâs behind every providerâs IP68 testing. On the other hand, donât pay for sealing levels that arenât needed.</li>
+<li>When sterilization is an issue, be sure to understand which sterilization method will be used. Different methods need connectors with different materials.</li>
+</ul>
+<h3><span style="color: #000080;"><strong>Cable configurations:</strong></span></h3>
+<ul>
+<li>Be sure that the cable selected works best for the application. Not every cable with multiple twisted pairs is the same. If a specific data speed is required, be sure to specify it.</li>
+<li>With todayâs smaller connectors, be sure that the cable and connector actually mate. People often ask for cables that are too big for the connectors.</li>
+</ul>
+<p>Working with hybrid connectors doesnât end with traditional copper connectors. Many companies offer fiber-copper hybrid connectors and cables to move a lot of data a long way and provide power.</p>
+<p>So what is the payoff? Customers have been able to make substantial changes to designs by making hybrid connectors part of their solution. Replacing two connectors with one lowers the total cost of ownership. It simplifies design, and makes the systems more efficient, and maybe â just maybe â makes everyone a little happier.</p>
+<div class="woo-sc-hr"></div>
+<p><em>Earl Kneessi is a Sales Engineering Manager at Fischer Connectors.</em></p>
+<p><a href="https://secure.campaigner.com/CSB/Public/Form.aspx?fid=1153473"><img class="aligncenter wp-image-14525 size-full" src="http://www.connectorsupplier.com/wp-content/uploads/signup-button.gif" alt="Sign Up for Updates" width="300" height="100" /></a></p>
+<blockquote data-secret="V7Nel9Nk94" class="wp-embedded-content"><p><a href="http://www.connectorsupplier.com/software-analytics-are-revolutionizing-medical-sensors/">Software and Analytics are Revolutionizing Medical Sensors</a></p></blockquote>
+<p><iframe class="wp-embedded-content" sandbox="allow-scripts" security="restricted" src="http://www.connectorsupplier.com/software-analytics-are-revolutionizing-medical-sensors/embed/#?secret=V7Nel9Nk94" data-secret="V7Nel9Nk94" width="500" height="282" title="&#8220;Software and Analytics are Revolutionizing Medical Sensors&#8221; &#8212; Connector and Cable Assembly Supplier" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe></p>
+<blockquote data-secret="j99qRDhv7R" class="wp-embedded-content"><p><a href="http://www.connectorsupplier.com/risk-management-alters-medical-requirements/">Risk Management Alters Medical Requirements</a></p></blockquote>
+<p><iframe class="wp-embedded-content" sandbox="allow-scripts" security="restricted" src="http://www.connectorsupplier.com/risk-management-alters-medical-requirements/embed/#?secret=j99qRDhv7R" data-secret="j99qRDhv7R" width="500" height="282" title="&#8220;Risk Management Alters Medical Requirements&#8221; &#8212; Connector and Cable Assembly Supplier" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe></p>
+<p>&nbsp;</p>
+<p>Recently posted:</p>
+<div class="woo-sc-related-posts">
+<ul>
+<li class="post-id-16975">
+
+<a href="http://www.connectorsupplier.com/software-analytics-are-revolutionizing-medical-sensors/" title="Software and Analytics are Revolutionizing Medical Sensors" class="related-title"><span>Software and Analytics are Revolutionizing Medical Sensors</span></a>
+</li>
+<li class="post-id-16977">
+
+<a href="http://www.connectorsupplier.com/risk-management-alters-medical-requirements/" title="Risk Management Alters Medical Requirements" class="related-title"><span>Risk Management Alters Medical Requirements</span></a>
+</li>
+<li class="post-id-16981">
+
+<a href="http://www.connectorsupplier.com/medical-connector-product-roundup/" title="Medical Connector Product Roundup" class="related-title"><span>Medical Connector Product Roundup</span></a>
+</li>
+<li class="post-id-16933">
+
+<a href="http://www.connectorsupplier.com/circular-connectors-evolve-meet-rugged-portability-requirements/" title="Circular connectors evolve to meet rugged portability requirements" class="related-title"><span>Circular connectors evolve to meet rugged portability requirements</span></a>
+</li>
+<li class="post-id-16932">
+
+<a href="http://www.connectorsupplier.com/peace-vs-war-uavs-automation-tell-us-next-generation-connector-technology/" title="Peace vs. war: what UAVs and automation tell us about the next generation of connector technology" class="related-title"><span>Peace vs. war: what UAVs and automation tell us about the next generation of connector technology</span></a>
+</li>
+<li class="post-id-16942">
+
+<a href="http://www.connectorsupplier.com/product-roundup-january-10-2017/" title="Product Roundup for January 10, 2017" class="related-title"><span>Product Roundup for January 10, 2017</span></a>
+</li>
+<li class="post-id-16939">
+
+<a href="http://www.connectorsupplier.com/molex-te-partner-high-performance-connectors/" title="Molex, TE partner for high performance connectors" class="related-title"><span>Molex, TE partner for high performance connectors</span></a>
+</li>
+<li class="post-id-16876">
+
+<a href="http://www.connectorsupplier.com/idt-skedd-combine-for-benefits/" title="IDT, SKEDD combined to bring many benefits" class="related-title"><span>IDT, SKEDD combined to bring many benefits</span></a>
+</li>
+<li class="post-id-16887">
+
+<a href="http://www.connectorsupplier.com/connector-trends-to-improve-speed/" title="Trends to improve speed, size and pricing continue" class="related-title"><span>Trends to improve speed, size and pricing continue</span></a>
+</li>
+<li class="post-id-16894">
+
+<a href="http://www.connectorsupplier.com/decade-change-te-connectivity-corporation/" title="A Decade of Change for TE Connectivity Corporation" class="related-title"><span>A Decade of Change for TE Connectivity Corporation</span></a>
+</li>
+</ul>
+<div class="fix"></div><!--/.fix-->
+</div><!--/.woo-sc-related-posts-->
+</div><p>The post <a rel="nofollow" href="http://www.connectorsupplier.com/specifying-medical-device-connectors/">Specifying medical device connectors</a> appeared first on <a rel="nofollow" href="http://www.connectorsupplier.com">Connector and Cable Assembly Supplier</a>.</p>]]></content:encoded>
+			<wfw:commentRss>http://www.connectorsupplier.com/specifying-medical-device-connectors/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Software and Analytics are Revolutionizing Medical Sensors</title>
+		<link>http://www.connectorsupplier.com/software-analytics-are-revolutionizing-medical-sensors/</link>
+		<comments>http://www.connectorsupplier.com/software-analytics-are-revolutionizing-medical-sensors/#respond</comments>
+		<pubDate>Tue, 17 Jan 2017 13:46:34 +0000</pubDate>
+		<dc:creator><![CDATA[Contributed Article]]></dc:creator>
+				<category><![CDATA[Featured Slides]]></category>
+		<category><![CDATA[Home Page]]></category>
+		<category><![CDATA[Home page articles]]></category>
+		<category><![CDATA[Market]]></category>
+		<category><![CDATA[Medical Articles]]></category>
+		<category><![CDATA[medical market]]></category>
+		<category><![CDATA[sensors]]></category>
+
+		<guid isPermaLink="false">http://www.connectorsupplier.com/?p=16975</guid>
+		<description><![CDATA[<p>From Monitoring to Disease Fighting: Software and Analytics are Revolutionizing Medical Sensors Electronic sensors have been in use in medicine for decades, but their status is currently being elevated from monitoring tools to one of the most powerful sources of data used in disease fighting. This revolution is not being spurred directly by innovations in<a href="http://www.connectorsupplier.com/software-analytics-are-revolutionizing-medical-sensors/"> Read More >></a></p><p>The post <a rel="nofollow" href="http://www.connectorsupplier.com/software-analytics-are-revolutionizing-medical-sensors/">Software and Analytics are Revolutionizing Medical Sensors</a> appeared first on <a rel="nofollow" href="http://www.connectorsupplier.com">Connector and Cable Assembly Supplier</a>.</p>]]></description>
+				<content:encoded><![CDATA[<div class="pf-content"><h2><strong>From Monitoring to Disease Fighting: Software and Analytics are Revolutionizing Medical Sensors</strong></h2>
+<p><div class="woo-sc-twitter left"><a href="http://twitter.com/share" class="twitter-share-button"data-count="horizontal">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script></div> <script type="IN/Share" ></script>
+
+ <a href="https://secure.campaigner.com/CSB/Public/Form.aspx?fid=1153473"><img class="alignnone wp-image-14527 size-full" src="http://www.connectorsupplier.com/wp-content/uploads/Subscribe-g80.gif" alt="Subscribe-g80" width="80" height="20" /></a></p>
+<p><img class="aligncenter size-full wp-image-11773" src="http://www.connectorsupplier.com/wp-content/uploads/medical-technology-600x200.jpg" alt="Medical Technology" width="600" height="200" srcset="http://www.connectorsupplier.com/wp-content/uploads/medical-technology-600x200.jpg 600w, http://www.connectorsupplier.com/wp-content/uploads/medical-technology-600x200-300x100.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" />Electronic sensors have been in use in medicine for decades, but their status is currently being elevated from monitoring tools to one of the most powerful sources of data used in disease fighting. This revolution is not being spurred directly by innovations in sensor technology or other hardware, but rather by innovations in software and in data collection, aggregation, and analysis that can make even apparently mundane information useful in improving healthcare outcomes and patient care.</p>
+<p><strong>Medicine Gets Data-Hungry</strong></p>
+<p>Before this shift in data collection and analysis, sensors could provide a variety of patient metrics like pulse rate, blood pressure, and EEG, but were mostly limited to monitoring, particularly in clinical settings. With nowhere for vast amounts of data to be stored, no way to access it if it were stored, and no effective way to analyze it, sensors remained in the critical but limited role of reactive monitoring.</p>
+<p>Today, data collected by those same types of sensors, now interconnected, can be stored in the cloud and made accessible to patients, doctors, and even researchers, and can be analyzed and monitored automatically. Sensors are becoming part of a proactive healthcare effort rather than being merely reactive.</p>
+<p>One thing thatâs changing is the emergence of a new market for wearable monitoring products. They leverage compact sensors and connectors, often including wireless devices and some processing capabilities as well. That requires compact and fairly inexpensive sensors and connectors.</p>
+<p>What this means from a hardware perspective is that sensors and the data they collect have gotten a lot more valuable. This is true in nearly every industry, but healthcare is unique in its high stakes nature and complex regulatory environment. Makers of sensor components and supporting connectors and other hardware have a massive business and research opportunity, but meeting industry demand and regulatory requirements will be a challenge.</p>
+<p><strong>Decades of Experience</strong></p>
+<p>Fortunately, sensor and connector companies are not starting at square one. As in many industries that are seeing the business and research potential of data analytics, the underlying sensors in many healthcare settings have been in place for a long time. MEMS (microelectromechanical systems) components have been in use since the 1970s, using tiny structures micromachined in silicon to convert mechanical factors like a patientâs heartbeat to electrical signals and data.</p>
+<p>Sensors for healthcare applications, including MEMS components, continue to shrink and improve, encouraged at least in part by the heightened role of data in health decisions and the patient experience.</p>
+<p>Components like Analog Devicesâ AD8232, a single-lead heart rate monitor for ECG and other biopotential measurement applications, are using less power and making monitoring less obtrusive than their predecessors. These newest sensors, including the AD8232, are being created with wearables in mind, enabling designers to include them quickly and easily in an expanding range of products.</p>
+<p>With data becoming more useful and valuable, the demand is strong for hardware innovations enabling wearability and implantability of medical devices; but the demand for health-related sensors wonât come entirely from the healthcare industry itself.</p>
+<p><strong>Bundles of Sensors</strong></p>
+<p>Industries are finding new ways to collect more and more valuable sensor data every day by putting sensors in everything. Much of this is sold to consumers on the basis of convenience or personal interest, like the accelerometer-derived fitness data collected by FitBits and iPhones. Sensors like STMicroelectronicsâ LIS331DLH 3-axis digital accelerometer are part of the latest generation of continually shrinking MEMS sensors being included in consumer products like smartphones.</p>
+<p>The practical upshot of this widespread inclusion of connected sensors in consumer products is that their data can eventually be aggregated with and augment more formal medical data to become an important diagnostic and research tool. With data aggregation, nearly every sensor could potentially have medical applications.</p>
+<p><strong>Real-World Testing</strong></p>
+<p>Kaiser Permanente, one of the largest HMOs in the United States, is actively working to put these principles of data aggregation, analysis, and reporting into practical use. One of the goals of the companyâs Garfield Center for Innovation is to provide a testing ground where new technologies can be tested and developed under the stresses of a real hospital environment.</p>
+<p>One of the issues being studied at the Garfield Center is a direct result of the pervasiveness of connected sensors: alarms. In the monitoring role of healthcare sensors, machines are capable of alerting hospital staff to emergency situations. However, false alarms produced by these sensors and machines are a major source of fatigue and distraction; in these cases, more information could actually mean worse patient outcomes.</p>
+<p>Major healthcare companies like GE and Philips are all developing advanced software systems for what they call âalarm management.â Algorithms and automated monitoring can reduce the number of false alarms referred to hospital staff, improving their work environment and enabling them to serve patients better.</p>
+<p>Kaiserâs Garfield Center is helping bring these innovations to real-world use more quickly. In an industry with high stakes, confirming a technologyâs effectiveness before it goes into use is critical.</p>
+<p>âWe look at the technology in a level of detail thatâs not possible anywhere else,â said Trevor Hogberg, Executive Director, Facilities Strategic Solutions &amp; Clinical Operations at the Garfield Center. âWe ran somewhere in the neighborhood of 2,500 different test cases on how an alarm can be generated, processed, and reacted to by a human being, and we made sure that, one, the technology was sound, but two, that the workflow processes were optimalâ.</p>
+<p>Without software innovations that can automate the handling of data, and computing and data storage technologies that mean sensor data can be used to enhance patient outcomes and fuel research, the large scale expansion of the use of sensors would remain impractical. Because of these software, computing, and storage advances, the demand for sensors, connectors and their supporting hardware will continue to grow.</p>
+<div class="woo-sc-hr"></div>
+<p><em>Neil Shurtz is a contributor toÂ </em>ConnectorSupplier.comÂ <em>based in San Francisco. AsÂ a freelancer and in his work in public relations for high-tech companies, he has written about technology in the oil and gas, aerospace, and manufacturing industries. ShurtzÂ specializes in framing complex and niche technical topics in a broader social context.</em></p>
+<p><a href="https://secure.campaigner.com/CSB/Public/Form.aspx?fid=1153473"><img class="aligncenter wp-image-14525 size-full" src="http://www.connectorsupplier.com/wp-content/uploads/signup-button.gif" alt="Sign Up for Updates" width="300" height="100" /></a></p>
+<p>Recently posted:</p>
+<div class="woo-sc-related-posts">
+<ul>
+<li class="post-id-17012">
+
+<a href="http://www.connectorsupplier.com/specifying-medical-device-connectors/" title="Specifying medical device connectors" class="related-title"><span>Specifying medical device connectors</span></a>
+</li>
+<li class="post-id-16977">
+
+<a href="http://www.connectorsupplier.com/risk-management-alters-medical-requirements/" title="Risk Management Alters Medical Requirements" class="related-title"><span>Risk Management Alters Medical Requirements</span></a>
+</li>
+<li class="post-id-16981">
+
+<a href="http://www.connectorsupplier.com/medical-connector-product-roundup/" title="Medical Connector Product Roundup" class="related-title"><span>Medical Connector Product Roundup</span></a>
+</li>
+<li class="post-id-16933">
+
+<a href="http://www.connectorsupplier.com/circular-connectors-evolve-meet-rugged-portability-requirements/" title="Circular connectors evolve to meet rugged portability requirements" class="related-title"><span>Circular connectors evolve to meet rugged portability requirements</span></a>
+</li>
+<li class="post-id-16932">
+
+<a href="http://www.connectorsupplier.com/peace-vs-war-uavs-automation-tell-us-next-generation-connector-technology/" title="Peace vs. war: what UAVs and automation tell us about the next generation of connector technology" class="related-title"><span>Peace vs. war: what UAVs and automation tell us about the next generation of connector technology</span></a>
+</li>
+<li class="post-id-16942">
+
+<a href="http://www.connectorsupplier.com/product-roundup-january-10-2017/" title="Product Roundup for January 10, 2017" class="related-title"><span>Product Roundup for January 10, 2017</span></a>
+</li>
+<li class="post-id-16939">
+
+<a href="http://www.connectorsupplier.com/molex-te-partner-high-performance-connectors/" title="Molex, TE partner for high performance connectors" class="related-title"><span>Molex, TE partner for high performance connectors</span></a>
+</li>
+<li class="post-id-16876">
+
+<a href="http://www.connectorsupplier.com/idt-skedd-combine-for-benefits/" title="IDT, SKEDD combined to bring many benefits" class="related-title"><span>IDT, SKEDD combined to bring many benefits</span></a>
+</li>
+<li class="post-id-16887">
+
+<a href="http://www.connectorsupplier.com/connector-trends-to-improve-speed/" title="Trends to improve speed, size and pricing continue" class="related-title"><span>Trends to improve speed, size and pricing continue</span></a>
+</li>
+<li class="post-id-16894">
+
+<a href="http://www.connectorsupplier.com/decade-change-te-connectivity-corporation/" title="A Decade of Change for TE Connectivity Corporation" class="related-title"><span>A Decade of Change for TE Connectivity Corporation</span></a>
+</li>
+</ul>
+<div class="fix"></div><!--/.fix-->
+</div><!--/.woo-sc-related-posts-->
+</div><p>The post <a rel="nofollow" href="http://www.connectorsupplier.com/software-analytics-are-revolutionizing-medical-sensors/">Software and Analytics are Revolutionizing Medical Sensors</a> appeared first on <a rel="nofollow" href="http://www.connectorsupplier.com">Connector and Cable Assembly Supplier</a>.</p>]]></content:encoded>
+			<wfw:commentRss>http://www.connectorsupplier.com/software-analytics-are-revolutionizing-medical-sensors/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Risk Management Alters Medical Requirements</title>
+		<link>http://www.connectorsupplier.com/risk-management-alters-medical-requirements/</link>
+		<comments>http://www.connectorsupplier.com/risk-management-alters-medical-requirements/#respond</comments>
+		<pubDate>Tue, 17 Jan 2017 13:45:35 +0000</pubDate>
+		<dc:creator><![CDATA[Contributed Article]]></dc:creator>
+				<category><![CDATA[Featured Slides]]></category>
+		<category><![CDATA[Home Page]]></category>
+		<category><![CDATA[Home page articles]]></category>
+		<category><![CDATA[Market]]></category>
+		<category><![CDATA[Medical Articles]]></category>
+		<category><![CDATA[Fischer Connectors SA]]></category>
+		<category><![CDATA[industry standards]]></category>
+		<category><![CDATA[medical market]]></category>
+
+		<guid isPermaLink="false">http://www.connectorsupplier.com/?p=16977</guid>
+		<description><![CDATA[<p>Many medical regulations and standards have made risk management a critical element for system and component developers. Factors like creepage and clearance are now important aspects of connector design. &#160; Every day, medical device manufacturers get better and better at managing risk as they respond to international regulatory schemes that impact device design all the<a href="http://www.connectorsupplier.com/risk-management-alters-medical-requirements/"> Read More >></a></p><p>The post <a rel="nofollow" href="http://www.connectorsupplier.com/risk-management-alters-medical-requirements/">Risk Management Alters Medical Requirements</a> appeared first on <a rel="nofollow" href="http://www.connectorsupplier.com">Connector and Cable Assembly Supplier</a>.</p>]]></description>
+				<content:encoded><![CDATA[<div class="pf-content"><h2>Many medical regulations and standards have made risk management a critical element for system and component developers. Factors like creepage and clearance are now important aspects of connector design.</h2>
+<p><div class="woo-sc-twitter left"><a href="http://twitter.com/share" class="twitter-share-button"data-count="horizontal">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script></div> <script type="IN/Share" ></script>
+
+ <a href="https://secure.campaigner.com/CSB/Public/Form.aspx?fid=1153473"><img class="alignnone wp-image-14527 size-full" src="http://www.connectorsupplier.com/wp-content/uploads/Subscribe-g80.gif" alt="Subscribe-g80" width="80" height="20" /></a></p>
+<p>&nbsp;</p>
+<p><img class="aligncenter size-full wp-image-11896" src="http://www.connectorsupplier.com/wp-content/uploads/medical-cover-480x151.gif" alt="" width="480" height="151" /></p>
+<p>Every day, medical device manufacturers get better and better at managing risk as they respond to international regulatory schemes that impact device design all the way down to the component level. Perhaps the most fundamental and wide-ranging of these has been the emergence and adoption of formal risk management methodologies.</p>
+<p>ISO14971, Application of Risk Management to Medical Devices, is the international standard for applying risk management principles to the medical devices in major markets including the US, Australia, Canada, the EU, and Japan.</p>
+<p>In the US, manufacturers are looking closer at components and materials, documenting risks for FDA inspection. This ISO standard has altered product selection methods and requirements for electronic components like connectors and cabling.</p>
+<p>For years, US regulations acknowledged differences in the type and level of risk represented by medical technologies. The FDAâs Center for Devices and Radiological Health shapes the regulatory processes for permitting devices to enter the marketplace in accordance their risk.</p>
+<p>There are three risk levels, Class I, II and III, with Class I at the lowest risk and Class III representing the highest risk level.</p>
+<p>In the European Union, medical products are regulated through three ânew approachâ directives that were enacted during the 1990s. To receive the CE mark, products must satisfy the âessential requirementsâ established by the applicable directive.</p>
+<p>Like the FDAâs classification system, the CE marking system also relies on a risk-stratified approach, applying such criteria as the duration of body contact, invasive character, use of an energy source, effect on the central circulation or nervous system, or diagnostic impact, to determine the level of risk. ISO 13485, Quality Management SystemsâRequirements for Regulatory Purposes, is another important standard.</p>
+<p>IEC 60601 also addresses medical electrical equipment. The standard has been brought into alignment with the industryâs broad regulatory trends to a risk management approach.</p>
+<p>Manufacturers will experience this shift in these ways:</p>
+<ul>
+<li>A productâs essential performance characteristics must be examined in relation to criteria needed to avoid unacceptable risk.</li>
+<li>The manufacturerâs process for complying with IEC 60601-1 must itself be in compliance withÂ ISO 14971.</li>
+<li>A risk management file will be required for every product. The 3rd edition of IECÂ 60601-1 also revises technical requirements in areas ranging from mechanical hazards such as crushing or instability to the application of alarm systems.</li>
+</ul>
+<h3>Impact on connectors</h3>
+<p>Virtually every one of the standardâs sections incorporates subsections that have special importance for the field of medical connectors. An example of the standardâs new and important technical requirements for connectors can be seen if we drill down even further.</p>
+<p>Illustrated here are the standardâs definitions and new requirements for creepage distance and air clearance, which are essential for distinguishing the means of patient protection (MOPP) from the means of operator protection (MOOP) required for a particular device.</p>
+<p>To comply with the requirements of the new edition of IEC 60601-1, manufacturers will need to assess how creepage and air clearance in their connectors affects the risks associated with their products. To accomplish that, developers need to know how creepage and air clearance are measured.</p>
+<p>Shown here are a couple examples from the IEC rules that are used to clarify the way that creepage and air clearance are measured under the new requirements of IEC 60601-1 (3rd ed.).</p>
+<p><img class="aligncenter size-full wp-image-16978" src="http://www.connectorsupplier.com/wp-content/uploads/creepage-and-clearance-requirements.gif" alt="Creepage and clearance requirements" width="335" height="169" /></p>
+<p>&nbsp;</p>
+<p>In todayâs increasingly IT-enabled and interoperable world of medical devices, electrical connectors are playing a vital role in advancing product capabilities. They are also an important element that must be addressed whenever a manufacturer develops a risk assessment profile for a new or updated device.</p>
+<p>Worldwide trends in medical device regulation favor the convergence of risk stratification, quality systems, and risk management approaches. Manufacturers will bear responsibility for conducting risk management processes in compliance with applicable standards. Working with qualified suppliers will facilitate manufacturersâ compliance with quality systems and risk management requirements.</p>
+<div class="woo-sc-hr"></div>
+<p>Patrick Kinyanju is a senior engineer at <a href="http://www.fischerconnectors.com/" target="_blank">Fischer Connectors, Inc</a>.</p>
+<p><a href="https://secure.campaigner.com/CSB/Public/Form.aspx?fid=1153473" target="_blank"><img class="aligncenter wp-image-14525 size-full" src="http://www.connectorsupplier.com/wp-content/uploads/signup-button.gif" alt="Sign Up for Updates" width="300" height="100" /></a></p>
+<p>&nbsp;</p>
+<p>You might like:</p>
+<blockquote data-secret="uyWxBri0Dj" class="wp-embedded-content"><p><a href="http://www.connectorsupplier.com/how-to-choose-a-medical-connector-supplier/">How to Choose a Medical Connector Supplier</a></p></blockquote>
+<p><iframe class="wp-embedded-content" sandbox="allow-scripts" security="restricted" src="http://www.connectorsupplier.com/how-to-choose-a-medical-connector-supplier/embed/#?secret=uyWxBri0Dj" data-secret="uyWxBri0Dj" width="500" height="282" title="&#8220;How to Choose a Medical Connector Supplier&#8221; &#8212; Connector and Cable Assembly Supplier" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe></p>
+<blockquote data-secret="x7WbCnh9IX" class="wp-embedded-content"><p><a href="http://www.connectorsupplier.com/battling-superbugs-with-medical-equipment/">Battling Superbugs with Medical Equipment</a></p></blockquote>
+<p><iframe class="wp-embedded-content" sandbox="allow-scripts" security="restricted" src="http://www.connectorsupplier.com/battling-superbugs-with-medical-equipment/embed/#?secret=x7WbCnh9IX" data-secret="x7WbCnh9IX" width="500" height="282" title="&#8220;Battling Superbugs with Medical Equipment&#8221; &#8212; Connector and Cable Assembly Supplier" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe></p>
+<p>Recently posted:</p>
+<div class="woo-sc-related-posts">
+<ul>
+<li class="post-id-17012">
+
+<a href="http://www.connectorsupplier.com/specifying-medical-device-connectors/" title="Specifying medical device connectors" class="related-title"><span>Specifying medical device connectors</span></a>
+</li>
+<li class="post-id-16975">
+
+<a href="http://www.connectorsupplier.com/software-analytics-are-revolutionizing-medical-sensors/" title="Software and Analytics are Revolutionizing Medical Sensors" class="related-title"><span>Software and Analytics are Revolutionizing Medical Sensors</span></a>
+</li>
+<li class="post-id-16981">
+
+<a href="http://www.connectorsupplier.com/medical-connector-product-roundup/" title="Medical Connector Product Roundup" class="related-title"><span>Medical Connector Product Roundup</span></a>
+</li>
+<li class="post-id-16933">
+
+<a href="http://www.connectorsupplier.com/circular-connectors-evolve-meet-rugged-portability-requirements/" title="Circular connectors evolve to meet rugged portability requirements" class="related-title"><span>Circular connectors evolve to meet rugged portability requirements</span></a>
+</li>
+<li class="post-id-16932">
+
+<a href="http://www.connectorsupplier.com/peace-vs-war-uavs-automation-tell-us-next-generation-connector-technology/" title="Peace vs. war: what UAVs and automation tell us about the next generation of connector technology" class="related-title"><span>Peace vs. war: what UAVs and automation tell us about the next generation of connector technology</span></a>
+</li>
+<li class="post-id-16942">
+
+<a href="http://www.connectorsupplier.com/product-roundup-january-10-2017/" title="Product Roundup for January 10, 2017" class="related-title"><span>Product Roundup for January 10, 2017</span></a>
+</li>
+<li class="post-id-16939">
+
+<a href="http://www.connectorsupplier.com/molex-te-partner-high-performance-connectors/" title="Molex, TE partner for high performance connectors" class="related-title"><span>Molex, TE partner for high performance connectors</span></a>
+</li>
+<li class="post-id-16876">
+
+<a href="http://www.connectorsupplier.com/idt-skedd-combine-for-benefits/" title="IDT, SKEDD combined to bring many benefits" class="related-title"><span>IDT, SKEDD combined to bring many benefits</span></a>
+</li>
+<li class="post-id-16887">
+
+<a href="http://www.connectorsupplier.com/connector-trends-to-improve-speed/" title="Trends to improve speed, size and pricing continue" class="related-title"><span>Trends to improve speed, size and pricing continue</span></a>
+</li>
+<li class="post-id-16894">
+
+<a href="http://www.connectorsupplier.com/decade-change-te-connectivity-corporation/" title="A Decade of Change for TE Connectivity Corporation" class="related-title"><span>A Decade of Change for TE Connectivity Corporation</span></a>
+</li>
+</ul>
+<div class="fix"></div><!--/.fix-->
+</div><!--/.woo-sc-related-posts-->
+</div><p>The post <a rel="nofollow" href="http://www.connectorsupplier.com/risk-management-alters-medical-requirements/">Risk Management Alters Medical Requirements</a> appeared first on <a rel="nofollow" href="http://www.connectorsupplier.com">Connector and Cable Assembly Supplier</a>.</p>]]></content:encoded>
+			<wfw:commentRss>http://www.connectorsupplier.com/risk-management-alters-medical-requirements/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Medical Connector Product Roundup</title>
+		<link>http://www.connectorsupplier.com/medical-connector-product-roundup/</link>
+		<comments>http://www.connectorsupplier.com/medical-connector-product-roundup/#respond</comments>
+		<pubDate>Tue, 17 Jan 2017 13:42:46 +0000</pubDate>
+		<dc:creator><![CDATA[Connector Supplier]]></dc:creator>
+				<category><![CDATA[Buyers Guide]]></category>
+		<category><![CDATA[Featured Slides]]></category>
+		<category><![CDATA[Home Page]]></category>
+		<category><![CDATA[Home page articles]]></category>
+		<category><![CDATA[Market]]></category>
+		<category><![CDATA[Medical Articles]]></category>
+		<category><![CDATA[Product News]]></category>
+		<category><![CDATA[Cinch]]></category>
+		<category><![CDATA[ERNI]]></category>
+		<category><![CDATA[Heilind]]></category>
+		<category><![CDATA[Hirose]]></category>
+		<category><![CDATA[ITT Cannon]]></category>
+		<category><![CDATA[LEMO]]></category>
+		<category><![CDATA[LEONI]]></category>
+		<category><![CDATA[Molex]]></category>
+		<category><![CDATA[ODU]]></category>
+		<category><![CDATA[Samtec]]></category>
+		<category><![CDATA[SCHURTER]]></category>
+		<category><![CDATA[Smiths]]></category>
+
+		<guid isPermaLink="false">http://www.connectorsupplier.com/?p=16981</guid>
+		<description><![CDATA[<p>Medical Connector Product Roundup for January 2017 &#160; Smiths Connectorsâ D Series quick-disconnect, plastic circular connectors deliver durable, high reliability connections in medical applications as diverse as: electrophysiology catheters, patient monitors, MRI machines, intravascular ultrasound devices, defibrillators, infusion pumps, and laboratory equipment. Available in three sizes with varying numbers of HypertacÂ® hyperboloid, power, signal, power<a href="http://www.connectorsupplier.com/medical-connector-product-roundup/"> Read More >></a></p><p>The post <a rel="nofollow" href="http://www.connectorsupplier.com/medical-connector-product-roundup/">Medical Connector Product Roundup</a> appeared first on <a rel="nofollow" href="http://www.connectorsupplier.com">Connector and Cable Assembly Supplier</a>.</p>]]></description>
+				<content:encoded><![CDATA[<div class="pf-content"><h2>Medical Connector Product Roundup for January 2017</h2>
+<p><div class="woo-sc-twitter left"><a href="http://twitter.com/share" class="twitter-share-button"data-count="horizontal">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script></div> <script type="IN/Share" ></script>
+
+ <a href="https://secure.campaigner.com/CSB/Public/Form.aspx?fid=1153473"><img class="alignnone wp-image-14527 size-full" src="http://www.connectorsupplier.com/wp-content/uploads/Subscribe-g80.gif" alt="Subscribe-g80" width="80" height="20" /></a></p>
+<p>&nbsp;</p>
+<p><a href="http://smithsconnectors.com/us/home">Smiths Connectors</a><a href="http://smithsconnectors.com/us/products/product-catalog/d-series-quick-disconnect-plastic-connector" target="_blank"><img class="alignleft wp-image-16992 size-full" src="http://www.connectorsupplier.com/wp-content/uploads/Smiths-d-series-quick-connect.gif" alt="Smiths Connectorsâ D Series quick-disconnect, plastic circular connectors" width="200" height="121" /></a>â <a href="http://smithsconnectors.com/us/products/product-catalog/d-series-quick-disconnect-plastic-connector">D Series</a> quick-disconnect, plastic circular connectors deliver durable, high reliability connections in medical applications as diverse as: electrophysiology catheters, patient monitors, MRI machines, intravascular ultrasound devices, defibrillators, infusion pumps, and laboratory equipment. Available in three sizes with varying numbers of Hypertac<sup>Â®</sup> hyperboloid, power, signal, power and signal, or coax and signal contacts, as well as a custom cable assembly, the series features simple, push-button latching and a D-shaped flange for obvious mating orientation.</p>
+<p><a href="http://www.btcelectronics.com">BTC Electronics</a><a href="http://www.btcelectronics.com/documents/news/ReduceSignalNoiseInducedbyElectrostaticCharges.pdf" target="_blank"><img class="alignleft wp-image-16991 size-full" src="http://www.connectorsupplier.com/wp-content/uploads/BTC-Meritec-connectors.gif" alt="BTC Electronics offers MERITEC static dissipating connectors" width="200" height="140" /></a> offers <a href="http://www.btcelectronics.com/documents/news/ReduceSignalNoiseInducedbyElectrostaticCharges.pdf">MERITEC static dissipating connectors</a>. Designed for use in medical imaging equipment, including: CT, MRI, ultrasound, and X-ray machines, these connectors are RoHS compliant, insert molded for high reliability, and feature thermally conductive outer shells with a surface resistance of less than 103Î©<sup>2</sup> to prevent the buildup of electrostatic charges, which can interfere with analog and digital communications. Available in several industry-standard styles and footprints, the series is also high-temperature reflow compatible and resistant to solvent cleaners.</p>
+<p><a href="http://www.heilind.com">Heilind Electronics</a><a href="http://www.heilind.com/rpages/molex_medispec_csupva" target="_blank"><img class="alignleft wp-image-16988 size-full" src="http://www.connectorsupplier.com/wp-content/uploads/Heilind-Molex-medispec-series.gif" alt="Molex MediSpecâ¢ Plastic Circular (MPC) Connector System" width="200" height="137" /></a> now stocks the <a href="http://www.heilind.com/rpages/molex_medispec_csupva">Molex MediSpecâ¢ Plastic Circular (MPC) Connector System</a>. Housed in lightweight, medical-grade plastic housings and rated for 10,000 mating cycles, this custom-off-the-shelf series delivers high-reliability electrical performance especially designed to meet stringent medical standards at a fraction of the cost of competing machined-contact systems. Currently available with up to 17 stamped and formed LFHâ¢ contacts compatible with selective plating for further cost reduction, the series also features simple push-pull mating engagement with an optional locking sleeve, and an IP64 sealing option for splash-proof protection.</p>
+<p><a href="http://www.ittcannon.com/">ITT Cannon</a><a href="http://www.ittcannon.com/products/pl/" target="_blank"><img class="alignleft wp-image-16986 size-full" src="http://www.connectorsupplier.com/wp-content/uploads/itt-cannon-pl-series.gif" alt="ITT Cannonâs PL Series plastic, push-pull interconnects" width="200" height="93" /></a>âs <a href="http://www.ittcannon.com/products/pl/">PL Series</a> plastic, push-pull interconnects provide versatile, high-reliability solutions for challenging cable-to-cable and cable-to-board medical applications, including dental and electrosurgery tools, ECG devices, catheters, sensors, respirators, and defibrillators. Featuring a lightweight housing with an easy-grip design, the series exhibits quick connect and disconnect capabilities, and is available in 2â14-way variants with 2,000+ mating cycle durability, six keying options, and seven color codes.</p>
+<p><a href="http://www.molex.com/molex/home">Molex</a><a href="http://www.mouser.com/new/molex/molex-neopress-mezzanine-system/?utm_source=connectorsuppliernewsletter&amp;utm_medium=newsletter&amp;utm_campaign=molex-molex-neopress-mezzanine-system&amp;utm_content=supplierproductcopy-image-text" target="_blank"><img class="alignleft wp-image-16983 size-full" src="http://www.connectorsupplier.com/wp-content/uploads/Molex-NeoPress-High-Speed-Mezzanine-System-1.gif" alt="Molexâs NeoPressâ¢High-Speed Mezzanine System" width="200" height="149" /></a>âs <a href="http://www.mouser.com/new/molex/molex-neopress-mezzanine-system/?utm_source=connectorsuppliernewsletter&amp;utm_medium=newsletter&amp;utm_campaign=molex-molex-neopress-mezzanine-system&amp;utm_content=supplierproductcopy-image-text">NeoPressâ¢High-Speed Mezzanine System</a> helps medical electronics engineers maximize PCB real estate without sacrificing performance to meet the industryâs evolving demand for higher speeds and smaller form factors. The system creates design flexibility on space-constrained PCBs with tunable differential pairs, low stack heights, and compliant-pin terminations, and produces data rates up to 28Gbps.</p>
+<p><a href="http://www.erni.com/">ERNI</a><a href="http://www.erni.com/en/products/show/category/connectors-microstac-08-mm/" target="_blank"><img class="alignleft wp-image-16989 size-full" src="http://www.connectorsupplier.com/wp-content/uploads/ERNI-micro-stac-series.gif" alt="ERNIâs 0.8mm MicroStacÂ® Series" width="200" height="133" /></a>âs <a href="http://www.erni.com/en/products/show/category/connectors-microstac-08-mm/">0.8mm MicroStac<sup>Â®</sup> Series</a> includes the industryâs first miniature, anti-magnetic, hermaphroditic, SMT connector. Available in 12-pin, single-row and 54-pin, dual-row configurations with a 5mm stack height and 1.5mm effective wipe length, the non-ferrous connectors are ideal for medical and instrumentation applications with a limited number of mating cycles, such as MRI machines. The unique male and female connectors deliver relatively high contact force and mate to themselves, reducing logistics, inventory, and manufacturing costs.</p>
+<p><a href="https://www.leoni-healthcare.com/en/">LEONI</a><a href="https://www.leoni-healthcare.com/en/news/details/leonis-new-cat-5e-solution-is-universally-flexible/" target="_blank"><img class="alignleft wp-image-16984 size-full" src="http://www.connectorsupplier.com/wp-content/uploads/Leoni-cat5-data-cables.gif" alt="LEONIâs pre-assembled, 100Mhz, Cat5 data cables" width="200" height="140" /></a>âs pre-assembled, 100Mhz, <a href="https://www.leoni-healthcare.com/en/news/details/leonis-new-cat-5e-solution-is-universally-flexible/">Cat5 data cables</a> minimize data loss, space requirements, and installation costs, as well as deliver long-lasting flexibility and high resistance to mechanical, thermal, and electrical stress in applications including hospital beds. Featuring over-molded angle grommets with individually definable angles or shielded RJ45 socket, these cables can also negate the need for RJ45 gender changers and drag chains, and are available in any length with an outer diameter of at least 25mm.</p>
+<p><a href="http://www.schurter.com/en/Home">SCHURTER</a><a href="http://ip67.schurter.com/" target="_blank"><img class="alignleft wp-image-16993 size-full" src="http://www.connectorsupplier.com/wp-content/uploads/Schurter-push-pull-couplers.gif" alt="SCHURTERâs waterproof, push-pull appliance couplers" width="200" height="213" /></a>âs <a href="http://ip67.schurter.com/">waterproof, push-pull appliance couplers</a> supply robust, reliable power connections in harsh medical, marine, outdoor, industrial, and laboratory applications. Featuring Series 4761 IEC appliance inlets and Series 4762 rewireable cord connectors rated IP67 when mated and IP69 when unmated and used with accessory covers, the connector set robustly withstands disinfection and sterilization processes, making it especially well-suited for use in medical equipment, including: ultrasonic cleaning equipment, suction devices, and infusion pumps. VDE and UL/CSA approved per IEC/UL 60320, the set also simplifies the approvals process for equipment manufacturers, saving both time and money.</p>
+<p><a href="https://www.samtec.com/">Samtec</a><a href="https://www.samtec.com/connectors/high-speed-board-to-board/mezzanine/edge-rate" target="_blank"><img class="alignleft wp-image-16994 size-full" src="http://www.connectorsupplier.com/wp-content/uploads/Samtec-edge-rate-contact-system.gif" alt="Samtecâs Edge RateÂ® contact system" width="200" height="200" /></a>âs <a href="https://www.samtec.com/connectors/high-speed-board-to-board/mezzanine/edge-rate">Edge Rate<sup>Â®</sup> contact system</a> satisfies stringent size, quality, and performance requirements in rugged, high-speed, and high-cycle medical applications. Featuring a smooth, milled mating surface instead of a stamped contact surface, the series delivers superior signal integrity, enhanced durability for longer lifecycles, and reduced insertion and withdrawal forces that allow for zippered unmating. Edge Rate connectors are currently available in vertical, right angle, and edge mount configurations with 0.5mm or 0.8mm pitches and up to 200 pins.</p>
+<p><a href="https://www.hirose.com/">Hirose Electric</a><a href="https://www.hirose.com/product/en/products/BM29" target="_blank"><img class="alignleft wp-image-16996 size-full" src="http://www.connectorsupplier.com/wp-content/uploads/Hirose-bm-29-series-b.gif" alt="Hirose Electric âs BM29 Series hybrid board-to-FPC connectors" width="200" height="157" /></a>âs <a href="https://www.hirose.com/product/en/products/BM29">BM29 Series</a> hybrid board-to-FPC connectors are the industryâs smallest, featuring a miniscule 0.35mm pitch, 0.6mm stacking height, and 1.5mm depth. Designed for battery pack connections in handheld medical, IoT, and POS devices, amongst other wireless equipment, the series delivers high transmission speeds, a reliable two-point contact design with a robust metal lock for extreme resistance to intense shock and vibration, and up to 3A per power pin and 0.3A per signal contact.</p>
+<p><a href="https://www.lemo.com/">LEMO</a><a href="https://www.lemo.com/catalog/ROW/UK_English/SP_connector_medical_en.pdf" target="_blank"><img class="alignleft wp-image-16985 size-full" src="http://www.connectorsupplier.com/wp-content/uploads/Lemo-REDEL-SP-Connectors.gif" alt="LEMOâs REDEL SP Connectors" width="200" height="133" /></a>âs <a href="https://www.lemo.com/catalog/ROW/UK_English/SP_connector_medical_en.pdf">REDEL SP Connectors</a> are circular, plastic, push-pull connectors that feature an ergonomic grip and high resistance to chemicals, shock, and sterilization processes. Ideal for applications including medical, automotive, and test and measurement equipment, the scoop-proof, IP50 series features a rectangular insert that enables high contact density, and is available in eight shell styles with 4â22 solder, crimp, or PCB contacts, as well as several keying and color-coding options.</p>
+<p><a href="http://www.odu-uk.co.uk/">ODU</a><a href="http://www.odu-usa.com/fileadmin/downloadcenter/kataloge/ODU-MAC_Zero_Manual_Mating.pdf" target="_blank"><img class="alignleft wp-image-16982 size-full" src="http://www.connectorsupplier.com/wp-content/uploads/ODU-MAC-ZERO.gif" alt="ODUâs new ODU-MACÂ® ZERO" width="200" height="133" /></a>âs new <a href="http://www.odu-usa.com/fileadmin/downloadcenter/kataloge/ODU-MAC_Zero_Manual_Mating.pdf">ODU-MAC<sup>Â®</sup> ZERO</a> space-saving, blind-mating, non-magnetic hybrid connectors can combine several different media, enabling versatile modularity in even the smallest of spaces. The seriesâ symmetric housing geometry enables up to nine units of signal, power, optical fiber, data-rate, and coax modules, and its plastic housing features lateral grip recesses for enhanced ergonomics and integrated rails that make magnetic components unnecessary. Available as a chassis/panel mount or with straight, 45Â°, and 90Â° cable outlets, the series is rated for up to 60,000 mating cycles, and is ideal for use in medical applications, amongst many others.</p>
+<p><a href="https://cinchconnectivity.com" target="_blank">Cinch Connectivity Solutions</a><a href="https://cinchconnectivity.com/OA_MEDIA/catalog/Non-Magnetic%20Connector-Brochure_catalog.pdf" target="_blank"><img class="alignleft wp-image-16990 size-full" src="http://www.connectorsupplier.com/wp-content/uploads/Cinch-Johnson-rf-connectors.gif" alt="Johnson family of non-magnetic RF connectors" width="200" height="99" /></a> offers the <a href="https://cinchconnectivity.com/OA_MEDIA/catalog/Non-Magnetic%20Connector-Brochure_catalog.pdf">Johnson family of non-magnetic RF connectors</a>. The rugged MMCX, MCX, SMA, SMB, and N-Type coaxial interfaces deliver reliable, high-density power and RF signal transmission especially designed to improve multi-coil imaging resolution at greater physical depths within the body. Additionally, MMCX modules can be configured as rails, blocks, and cable handles, and enable rapid RF coil hookups and change-outs.</p>
+<p><a href="https://secure.campaigner.com/CSB/Public/Form.aspx?fid=1153473"><img class="aligncenter wp-image-14525 size-full" src="http://www.connectorsupplier.com/wp-content/uploads/signup-button.gif" alt="Sign Up for Updates" width="300" height="100" /></a></p>
+<p>&nbsp;</p>
+<p>Recently posted:</p>
+<div class="woo-sc-related-posts">
+<ul>
+<li class="post-id-17012">
+
+<a href="http://www.connectorsupplier.com/specifying-medical-device-connectors/" title="Specifying medical device connectors" class="related-title"><span>Specifying medical device connectors</span></a>
+</li>
+<li class="post-id-16975">
+
+<a href="http://www.connectorsupplier.com/software-analytics-are-revolutionizing-medical-sensors/" title="Software and Analytics are Revolutionizing Medical Sensors" class="related-title"><span>Software and Analytics are Revolutionizing Medical Sensors</span></a>
+</li>
+<li class="post-id-16977">
+
+<a href="http://www.connectorsupplier.com/risk-management-alters-medical-requirements/" title="Risk Management Alters Medical Requirements" class="related-title"><span>Risk Management Alters Medical Requirements</span></a>
+</li>
+<li class="post-id-16933">
+
+<a href="http://www.connectorsupplier.com/circular-connectors-evolve-meet-rugged-portability-requirements/" title="Circular connectors evolve to meet rugged portability requirements" class="related-title"><span>Circular connectors evolve to meet rugged portability requirements</span></a>
+</li>
+<li class="post-id-16932">
+
+<a href="http://www.connectorsupplier.com/peace-vs-war-uavs-automation-tell-us-next-generation-connector-technology/" title="Peace vs. war: what UAVs and automation tell us about the next generation of connector technology" class="related-title"><span>Peace vs. war: what UAVs and automation tell us about the next generation of connector technology</span></a>
+</li>
+<li class="post-id-16942">
+
+<a href="http://www.connectorsupplier.com/product-roundup-january-10-2017/" title="Product Roundup for January 10, 2017" class="related-title"><span>Product Roundup for January 10, 2017</span></a>
+</li>
+<li class="post-id-16939">
+
+<a href="http://www.connectorsupplier.com/molex-te-partner-high-performance-connectors/" title="Molex, TE partner for high performance connectors" class="related-title"><span>Molex, TE partner for high performance connectors</span></a>
+</li>
+<li class="post-id-16876">
+
+<a href="http://www.connectorsupplier.com/idt-skedd-combine-for-benefits/" title="IDT, SKEDD combined to bring many benefits" class="related-title"><span>IDT, SKEDD combined to bring many benefits</span></a>
+</li>
+<li class="post-id-16887">
+
+<a href="http://www.connectorsupplier.com/connector-trends-to-improve-speed/" title="Trends to improve speed, size and pricing continue" class="related-title"><span>Trends to improve speed, size and pricing continue</span></a>
+</li>
+<li class="post-id-16894">
+
+<a href="http://www.connectorsupplier.com/decade-change-te-connectivity-corporation/" title="A Decade of Change for TE Connectivity Corporation" class="related-title"><span>A Decade of Change for TE Connectivity Corporation</span></a>
+</li>
+</ul>
+<div class="fix"></div><!--/.fix-->
+</div><!--/.woo-sc-related-posts-->
+</div><p>The post <a rel="nofollow" href="http://www.connectorsupplier.com/medical-connector-product-roundup/">Medical Connector Product Roundup</a> appeared first on <a rel="nofollow" href="http://www.connectorsupplier.com">Connector and Cable Assembly Supplier</a>.</p>]]></content:encoded>
+			<wfw:commentRss>http://www.connectorsupplier.com/medical-connector-product-roundup/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Cable Assemblies for High Speed Data Transmission</title>
+		<link>http://www.connectorsupplier.com/cable-assemblies-high-speed-data-transmission/</link>
+		<comments>http://www.connectorsupplier.com/cable-assemblies-high-speed-data-transmission/#respond</comments>
+		<pubDate>Tue, 10 Jan 2017 19:56:59 +0000</pubDate>
+		<dc:creator><![CDATA[Connector Supplier]]></dc:creator>
+				<category><![CDATA[LEONI Videos]]></category>
+		<category><![CDATA[Telecom/Datacom Videos]]></category>
+
+		<guid isPermaLink="false">http://www.connectorsupplier.com/?p=16969</guid>
+		<description><![CDATA[<p>The post <a rel="nofollow" href="http://www.connectorsupplier.com/cable-assemblies-high-speed-data-transmission/">Cable Assemblies for High Speed Data Transmission</a> appeared first on <a rel="nofollow" href="http://www.connectorsupplier.com">Connector and Cable Assembly Supplier</a>.</p>]]></description>
+				<content:encoded><![CDATA[<p>The post <a rel="nofollow" href="http://www.connectorsupplier.com/cable-assemblies-high-speed-data-transmission/">Cable Assemblies for High Speed Data Transmission</a> appeared first on <a rel="nofollow" href="http://www.connectorsupplier.com">Connector and Cable Assembly Supplier</a>.</p>]]></content:encoded>
+			<wfw:commentRss>http://www.connectorsupplier.com/cable-assemblies-high-speed-data-transmission/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Circular connectors evolve to meet rugged portability requirements</title>
+		<link>http://www.connectorsupplier.com/circular-connectors-evolve-meet-rugged-portability-requirements/</link>
+		<comments>http://www.connectorsupplier.com/circular-connectors-evolve-meet-rugged-portability-requirements/#respond</comments>
+		<pubDate>Tue, 10 Jan 2017 13:50:17 +0000</pubDate>
+		<dc:creator><![CDATA[Contributed Article]]></dc:creator>
+				<category><![CDATA[Featured Slides]]></category>
+		<category><![CDATA[Home Page]]></category>
+		<category><![CDATA[Home page articles]]></category>
+		<category><![CDATA[Market]]></category>
+		<category><![CDATA[Market Page Articles]]></category>
+		<category><![CDATA[Mil/Aero Articles]]></category>
+		<category><![CDATA[circular connectors]]></category>
+		<category><![CDATA[military]]></category>
+		<category><![CDATA[Omnetics Connector Corporation]]></category>
+
+		<guid isPermaLink="false">http://www.connectorsupplier.com/?p=16933</guid>
+		<description><![CDATA[<p>Electronic systems are rapidly expanding into new military and space applications that often require smaller connectors that have higher density. Changes in the electronic equipment prompt the development of connectors and cabling to fit and perform in new environments and packages. Â  The need for small size and low weight have always been important for<a href="http://www.connectorsupplier.com/circular-connectors-evolve-meet-rugged-portability-requirements/"> Read More >></a></p><p>The post <a rel="nofollow" href="http://www.connectorsupplier.com/circular-connectors-evolve-meet-rugged-portability-requirements/">Circular connectors evolve to meet rugged portability requirements</a> appeared first on <a rel="nofollow" href="http://www.connectorsupplier.com">Connector and Cable Assembly Supplier</a>.</p>]]></description>
+				<content:encoded><![CDATA[<div class="pf-content"><h2>Electronic systems are rapidly expanding into new military and space applications that often require smaller connectors that have higher density. Changes in the electronic equipment prompt the development of connectors and cabling to fit and perform in new environments and packages.</h2>
+<p><div class="woo-sc-twitter left"><a href="http://twitter.com/share" class="twitter-share-button"data-count="horizontal">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script></div> <script type="IN/Share" ></script>
+
+ <a href="https://secure.campaigner.com/CSB/Public/Form.aspx?fid=1153473"><img class="alignnone wp-image-14527 size-full" src="http://www.connectorsupplier.com/wp-content/uploads/Subscribe-g80.gif" alt="Subscribe-g80" width="80" height="20" /></a></p>
+<p><span style="color: #ff0000;"><strong>Â </strong></span></p>
+<p>The need for small size and low weight have always been important for aircraft and spacecraft. Those requirements are now becoming more important as earthbound military users require more portability. Connectors are critical elements in systems that must be rugged enough to survive unique environments as diverse as personal watercraft, drones, and helmet cameras.</p>
+<div id="attachment_16938" style="width: 250px" class="wp-caption alignright"><img class="wp-image-16938 size-full" src="http://www.connectorsupplier.com/wp-content/uploads/Nano-circular-25mil-Pitch.gif" alt="Nano-circular 25mil pitch connectors" width="240" height="167" /><p class="wp-caption-text">Nano Circular at 25 mil. Pitch</p></div>
+<p>To support portable equipment, connectors must be smaller in size and diameter. Increasingly, these connectors mate with round cables that carry signals and power. Circular connectors are a natural shape for many panel interface connections because they take less front panel space than rectangular connectors and can support rapid plug and unplug connections for fast and easy instrument mating. They are often available in a number of mate and lock formats to serve various needs.</p>
+<p><img class="alignleft size-full wp-image-16935" src="http://www.connectorsupplier.com/wp-content/uploads/circular-connectors.gif" alt="circular connectors" width="195" height="131" />Systems being used in extreme environments also expand the challenge for circular connector design. For example, space qualified connectors must often be shielded from electromagnetic interference and avoid polymer outgassing as well as being extremely lightweight. Military applications require improved plating materials such as nickel plated aluminum, or the newer nickel/Teflon overcoating to help resist corrosion. Â Shock and vibration resistance is essential to maintain signal integrity simultaneously with signal speed increasing and voltage swings decreasing.</p>
+<div id="attachment_16936" style="width: 260px" class="wp-caption alignright"><img class="size-full wp-image-16936" src="http://www.connectorsupplier.com/wp-content/uploads/dts-circular-connectors.gif" alt="DTS Data Acquisiton" width="250" height="185" /><p class="wp-caption-text">Photo courtesy of DTS Data Acquisition Systems</p></div>
+<p>To meet todayâs demand for small diameter connectors, many manufacturers are scaling down older designs. One way to observe changes in connector size is to note the pin sizes and current carrying capacity. Â For example, the popular Mil-DTL-38999 Circular connector uses 18-20 size pins to carry up to 12 Amps on 20 AWG wiring.</p>
+<p>This year, a smaller 38999 connector is being standardized by a number of companies working with the Defense Logistics Agency (DLA).This down-sized mil spec version will be a smaller, more universally available circular connector with a triple-start thread coupling system. It will also mate quickly and have EMI shielding.</p>
+<p>This new standard will likely use size 23 pins and handle about 10 Amps on 20-22 AWG wire. Companies already offer micro-circular connectors with size 24 pin/sockets that support 3 Amps on 24-30 AWG wire. Some of the smallest circular connectors use size 30 pins, support 1 Amp and 30-32 AWG wiring. Pinâto-pin spacing drops from over 75 mils to 25 mils. This reduces the diameter of both the connector and the cable. Cable flexibility improves simultaneously.</p>
+<div id="attachment_16937" style="width: 260px" class="wp-caption alignleft"><img class="size-full wp-image-16937" src="http://www.connectorsupplier.com/wp-content/uploads/gigabit-circular-connectors.gif" alt="" width="250" height="160" /><p class="wp-caption-text">Gigabit Speeds with Power</p></div>
+<p>In addition to physical changes, systems and circular connectors are going through an electronic renaissance. Many new circuits are using solid state chips that operate on significantly lower voltage and current levels and now run at digital gigabit speeds. High speed surveillance, and image displays demand this technology, similar to the consumer industry demanding faster TVs, computers, gaming devices, etc.</p>
+<p>Consider a satellite taking photos as it orbits earth at 7,000 miles per hour. Each photo takes a minimum of 30 megapixels for one frame. The camera runs at 30 to 60 frames per second. The download of the images then end up using more than 7 gigabits/second. A connector and cable must support that signal speed and quality from the camera to its storage or transmission module. Note also that the request is that the connector and cable must be light weight and rugged as well as withstand constant temperature changes as it passes from sunlight to the cold darkness of space.</p>
+<div id="attachment_16934" style="width: 260px" class="wp-caption alignright"><img class="size-full wp-image-16934" src="http://www.connectorsupplier.com/wp-content/uploads/black-diamond-soldier-mixed-signal.gif" alt="" width="250" height="123" /><p class="wp-caption-text">Black Diamond Advanced Technologyâs Soldier Mixed Signal systems</p></div>
+<p>These connectors now include power within the same cable to reduce size and weight. The new connector designations are still evolving, but seem to be settling at SWaP-R or SWaP-C, acronyms for speed, weight, power, and either cost or reliability. SWaP connectors are used in diverse applications such as radios and computer systems on the soldierâs uniform.</p>
+<p>There are at least two key trends. The first is size reduction and standardization. Creating a standard allows for multiple connector suppliers to participate and for customers to select models that best fit their design needs.</p>
+<p>The other change is the expanding use of modeling as developers strive to meet changing demand for efficiency in the design of products that are lightweight and fit in small, unique spaces. Often, customers want a group of mixed signal plus power connectors and cable systems. Â Cable companies and connector companies are beginning to work together to meet this need. Â With use of solid modeling and direct communication between customers and suppliers, itâs easier to achieve both fast turn-around and good performance.</p>
+<p>Cables are often pre-tested for eye diagram performance at the high digital speeds and leading connector suppliers offer high speed wiring protocol and data to support the changes. Â Connectors are indeed getting smaller and more complex as our electronic appetite pushes connectivity systems to satisfy those needs.</p>
+<div class="woo-sc-hr"></div>
+<p>Bob Stanton is Director of Technology at <a href="http://www.omnetics.com">Omnetics Connector Corp.</a></p>
+<p><a href="https://secure.campaigner.com/CSB/Public/Form.aspx?fid=1153473"><img class="aligncenter wp-image-14525 size-full" src="http://www.connectorsupplier.com/wp-content/uploads/signup-button.gif" alt="Sign Up for Updates" width="300" height="100" /></a></p>
+<p>Recently posted:</p>
+<div class="woo-sc-related-posts">
+<ul>
+<li class="post-id-17012">
+
+<a href="http://www.connectorsupplier.com/specifying-medical-device-connectors/" title="Specifying medical device connectors" class="related-title"><span>Specifying medical device connectors</span></a>
+</li>
+<li class="post-id-16975">
+
+<a href="http://www.connectorsupplier.com/software-analytics-are-revolutionizing-medical-sensors/" title="Software and Analytics are Revolutionizing Medical Sensors" class="related-title"><span>Software and Analytics are Revolutionizing Medical Sensors</span></a>
+</li>
+<li class="post-id-16977">
+
+<a href="http://www.connectorsupplier.com/risk-management-alters-medical-requirements/" title="Risk Management Alters Medical Requirements" class="related-title"><span>Risk Management Alters Medical Requirements</span></a>
+</li>
+<li class="post-id-16981">
+
+<a href="http://www.connectorsupplier.com/medical-connector-product-roundup/" title="Medical Connector Product Roundup" class="related-title"><span>Medical Connector Product Roundup</span></a>
+</li>
+<li class="post-id-16932">
+
+<a href="http://www.connectorsupplier.com/peace-vs-war-uavs-automation-tell-us-next-generation-connector-technology/" title="Peace vs. war: what UAVs and automation tell us about the next generation of connector technology" class="related-title"><span>Peace vs. war: what UAVs and automation tell us about the next generation of connector technology</span></a>
+</li>
+<li class="post-id-16942">
+
+<a href="http://www.connectorsupplier.com/product-roundup-january-10-2017/" title="Product Roundup for January 10, 2017" class="related-title"><span>Product Roundup for January 10, 2017</span></a>
+</li>
+<li class="post-id-16939">
+
+<a href="http://www.connectorsupplier.com/molex-te-partner-high-performance-connectors/" title="Molex, TE partner for high performance connectors" class="related-title"><span>Molex, TE partner for high performance connectors</span></a>
+</li>
+<li class="post-id-16876">
+
+<a href="http://www.connectorsupplier.com/idt-skedd-combine-for-benefits/" title="IDT, SKEDD combined to bring many benefits" class="related-title"><span>IDT, SKEDD combined to bring many benefits</span></a>
+</li>
+<li class="post-id-16887">
+
+<a href="http://www.connectorsupplier.com/connector-trends-to-improve-speed/" title="Trends to improve speed, size and pricing continue" class="related-title"><span>Trends to improve speed, size and pricing continue</span></a>
+</li>
+<li class="post-id-16894">
+
+<a href="http://www.connectorsupplier.com/decade-change-te-connectivity-corporation/" title="A Decade of Change for TE Connectivity Corporation" class="related-title"><span>A Decade of Change for TE Connectivity Corporation</span></a>
+</li>
+</ul>
+<div class="fix"></div><!--/.fix-->
+</div><!--/.woo-sc-related-posts-->
+</div><p>The post <a rel="nofollow" href="http://www.connectorsupplier.com/circular-connectors-evolve-meet-rugged-portability-requirements/">Circular connectors evolve to meet rugged portability requirements</a> appeared first on <a rel="nofollow" href="http://www.connectorsupplier.com">Connector and Cable Assembly Supplier</a>.</p>]]></content:encoded>
+			<wfw:commentRss>http://www.connectorsupplier.com/circular-connectors-evolve-meet-rugged-portability-requirements/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Peace vs. war: what UAVs and automation tell us about the next generation of connector technology</title>
+		<link>http://www.connectorsupplier.com/peace-vs-war-uavs-automation-tell-us-next-generation-connector-technology/</link>
+		<comments>http://www.connectorsupplier.com/peace-vs-war-uavs-automation-tell-us-next-generation-connector-technology/#respond</comments>
+		<pubDate>Tue, 10 Jan 2017 13:48:42 +0000</pubDate>
+		<dc:creator><![CDATA[Contributed Article]]></dc:creator>
+				<category><![CDATA[Featured Slides]]></category>
+		<category><![CDATA[Home Page]]></category>
+		<category><![CDATA[Home page articles]]></category>
+		<category><![CDATA[Market]]></category>
+		<category><![CDATA[Mil/Aero Articles]]></category>
+		<category><![CDATA[aerospace]]></category>
+		<category><![CDATA[automation]]></category>
+		<category><![CDATA[cable assembly market]]></category>
+		<category><![CDATA[mil/aero]]></category>
+		<category><![CDATA[military]]></category>
+
+		<guid isPermaLink="false">http://www.connectorsupplier.com/?p=16932</guid>
+		<description><![CDATA[<p>UAVs have been employed by the military for years, and their sophistication is increasing. &#160; Smaller and lighter components are allowing designers to give military UAVs more capabilities, and have brought previously exclusively military technologies like UAV-mounted cameras to consumer drones. As sensor technology gets smaller, lighter, and cheaper, more and more mechanical processes can<a href="http://www.connectorsupplier.com/peace-vs-war-uavs-automation-tell-us-next-generation-connector-technology/"> Read More >></a></p><p>The post <a rel="nofollow" href="http://www.connectorsupplier.com/peace-vs-war-uavs-automation-tell-us-next-generation-connector-technology/">Peace vs. war: what UAVs and automation tell us about the next generation of connector technology</a> appeared first on <a rel="nofollow" href="http://www.connectorsupplier.com">Connector and Cable Assembly Supplier</a>.</p>]]></description>
+				<content:encoded><![CDATA[<div class="pf-content"><h2>UAVs have been employed by the military for years, and their sophistication is increasing.</h2>
+<p><div class="woo-sc-twitter left"><a href="http://twitter.com/share" class="twitter-share-button"data-count="horizontal">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script></div> <script type="IN/Share" ></script>
+
+ <a href="https://secure.campaigner.com/CSB/Public/Form.aspx?fid=1153473"><img class="alignnone wp-image-14527 size-full" src="http://www.connectorsupplier.com/wp-content/uploads/Subscribe-g80.gif" alt="Subscribe-g80" width="80" height="20" /></a></p>
+<p>&nbsp;</p>
+<p><img class="alignright wp-image-15533 size-medium" src="http://www.connectorsupplier.com/wp-content/uploads/MQ9-Reaper-UAV-300x221.gif" width="300" height="221" /></p>
+<p>Smaller and lighter components are allowing designers to give military UAVs more capabilities, and have brought previously exclusively military technologies like UAV-mounted cameras to consumer drones. As sensor technology gets smaller, lighter, and cheaper, more and more mechanical processes can be taken over by electronics. Even more importantly for the hardware component industry, including manufacturers of connectors and cables, more and more human-directed UAV activity will be automated, making additional electronic systems and sensors more prolific.</p>
+<p>These expanding UAV sensor arrays inevitably require more cabling and connectors, with a concurrent demand for shrinking size and weight. Currently, designers are meeting these challenges with multi-port connectors, particularly the MIL-DTL-38999 Series III types. These MIL-standard, vibration, shock, and moisture resistant connectors significantly reduce redundant shielding and connector weight associated with using separate cables, and can also improve reliability and shielding.</p>
+<p>These kinds of multi-port connectors have a long history of use in harsh environments for military and aerospace applications. Their use in UAVs is a prime example of how the success and speed of implementation of new technologies is built on the creative use of proven cable and connector components. In fact, the history of multi-pin circular connectors dates all the way back to the 1930s and the aviation demands brought about by World War II. Remarkably, aviation electronics went from just a few (comparatively crude) engine ignition parts in World War I to sophisticated, rugged circular connectors enabling projects like the Apollo missions just half a century later.</p>
+<p>These Industrial Age innovations were driven by brute force: during World War II, defense had entire economies and workforces at its disposal, and the trend continued into the Cold War and Space Race. In the Information Age, rather than from brute force, innovations will come because automation and interconnection is actually making sensors and their supporting cables and connectors cheaper by reducing human involvement. The past century has shown, and consumer drones remind us now, that products built by defense contractors today will find their way into the next generation of consumer products.</p>
+<h3><span style="color: #000080;"><strong>Delegating Brain Tasks</strong></span></h3>
+<p>In many contexts, computing power is replacing brain power, as direct human control is being given over to automation. Early military UAVs had to be connected via satellite because a person on the ground controls it. With more and richer sensor data available, together with advances in automation, the primary reason for connectedness is the sharing of valuable sensor data. Eventually, âunmannedâ will take on new meaning as direct human control over UAVs continues to diminish. The practical upshot of this is that UAVs will become much less expensive to operate and will allow personnel to focus more and more on the strategic big picture.</p>
+<p>In military applications, the ethics of complete automation are understandably controversial, but the same technology that is driving the proliferation of military UAVs is migrating to other applications such as commercial deliveries.</p>
+<h3><span style="color: #000080;"><strong>From Hellfire to Amazon</strong></span></h3>
+<p>In the mid-1990s, the US military had deployed its first practical UAV, serving surveillance roles in Bosnia. By the second Iraq war, American UAVs were equipped with Hellfire missiles. In the last few years companies like Amazon have begun experimenting with using UAVs for delivering goods to consumers. Just as World War II aviation advances led to widespread commercial air travel, military UAV concepts are being adapted to less lethal applications.</p>
+<p>One such non-military deployment of UAVs becoming widespread is in inspection and monitoring. UAVs can be employed in scenarios like railroad inspection to perform visual survey tasks like track inspection. Conceivably, these kinds of tasks will eventually also be fully automated.</p>
+<p>Going forward though, will the direction of innovation remain the same? Will defense spending and innovations continue to trickle down to consumer products, or will the more consumer-oriented data revolution ignited in Silicon Valley bring new technology to the military? The so-called Internet of Things is defined by an explosion of sensors and sensor data in a wide range of industries, and private profit motivation may soon overtake defense spending as the source for innovations in areas like aviation electronics.</p>
+<h3><span style="color: #000080;"><strong>The Next Generation of Cable Assemblies</strong></span></h3>
+<p>While the last 50 years have seen numerous innovations in cabling and interconnect technology for aviation, it doesnât really compare to the half century before 1969. That period saw the shift from hand-crank airplane engine starters to landing a man on the moon. The reason for this is that the utility of each individual sensor, connector, and cable assembly has been limited by the human element. Even the incredible technology enabling military UAVs to keep soldiers out of harmâs way and strike targets precisely still requires a great deal of human involvement. Over the next 50 years, automation is the force that will massively increase demand for connector and cable components and spur a half century of real revolution.</p>
+<div class="woo-sc-hr"></div>
+<p><em>Neil Shurtz is a contributor to </em>ConnectorSupplier.com <em>based in San Francisco. As a freelancer and in his work in public relations for high-tech companies, he has written about technology in the oil and gas, aerospace, and manufacturing industries. Shurtz specializes in framing complex and niche technical topics in a broader social context.</em></p>
+<p><a href="https://secure.campaigner.com/CSB/Public/Form.aspx?fid=1153473"><img class="aligncenter wp-image-14525 size-full" src="http://www.connectorsupplier.com/wp-content/uploads/signup-button.gif" alt="Sign Up for Updates" width="300" height="100" /></a></p>
+<p>&nbsp;</p>
+<p>Recently posted:</p>
+<div class="woo-sc-related-posts">
+<ul>
+<li class="post-id-17012">
+
+<a href="http://www.connectorsupplier.com/specifying-medical-device-connectors/" title="Specifying medical device connectors" class="related-title"><span>Specifying medical device connectors</span></a>
+</li>
+<li class="post-id-16975">
+
+<a href="http://www.connectorsupplier.com/software-analytics-are-revolutionizing-medical-sensors/" title="Software and Analytics are Revolutionizing Medical Sensors" class="related-title"><span>Software and Analytics are Revolutionizing Medical Sensors</span></a>
+</li>
+<li class="post-id-16977">
+
+<a href="http://www.connectorsupplier.com/risk-management-alters-medical-requirements/" title="Risk Management Alters Medical Requirements" class="related-title"><span>Risk Management Alters Medical Requirements</span></a>
+</li>
+<li class="post-id-16981">
+
+<a href="http://www.connectorsupplier.com/medical-connector-product-roundup/" title="Medical Connector Product Roundup" class="related-title"><span>Medical Connector Product Roundup</span></a>
+</li>
+<li class="post-id-16933">
+
+<a href="http://www.connectorsupplier.com/circular-connectors-evolve-meet-rugged-portability-requirements/" title="Circular connectors evolve to meet rugged portability requirements" class="related-title"><span>Circular connectors evolve to meet rugged portability requirements</span></a>
+</li>
+<li class="post-id-16942">
+
+<a href="http://www.connectorsupplier.com/product-roundup-january-10-2017/" title="Product Roundup for January 10, 2017" class="related-title"><span>Product Roundup for January 10, 2017</span></a>
+</li>
+<li class="post-id-16939">
+
+<a href="http://www.connectorsupplier.com/molex-te-partner-high-performance-connectors/" title="Molex, TE partner for high performance connectors" class="related-title"><span>Molex, TE partner for high performance connectors</span></a>
+</li>
+<li class="post-id-16876">
+
+<a href="http://www.connectorsupplier.com/idt-skedd-combine-for-benefits/" title="IDT, SKEDD combined to bring many benefits" class="related-title"><span>IDT, SKEDD combined to bring many benefits</span></a>
+</li>
+<li class="post-id-16887">
+
+<a href="http://www.connectorsupplier.com/connector-trends-to-improve-speed/" title="Trends to improve speed, size and pricing continue" class="related-title"><span>Trends to improve speed, size and pricing continue</span></a>
+</li>
+<li class="post-id-16894">
+
+<a href="http://www.connectorsupplier.com/decade-change-te-connectivity-corporation/" title="A Decade of Change for TE Connectivity Corporation" class="related-title"><span>A Decade of Change for TE Connectivity Corporation</span></a>
+</li>
+</ul>
+<div class="fix"></div><!--/.fix-->
+</div><!--/.woo-sc-related-posts-->
+</div><p>The post <a rel="nofollow" href="http://www.connectorsupplier.com/peace-vs-war-uavs-automation-tell-us-next-generation-connector-technology/">Peace vs. war: what UAVs and automation tell us about the next generation of connector technology</a> appeared first on <a rel="nofollow" href="http://www.connectorsupplier.com">Connector and Cable Assembly Supplier</a>.</p>]]></content:encoded>
+			<wfw:commentRss>http://www.connectorsupplier.com/peace-vs-war-uavs-automation-tell-us-next-generation-connector-technology/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Product Roundup for January 10, 2017</title>
+		<link>http://www.connectorsupplier.com/product-roundup-january-10-2017/</link>
+		<comments>http://www.connectorsupplier.com/product-roundup-january-10-2017/#respond</comments>
+		<pubDate>Tue, 10 Jan 2017 13:47:51 +0000</pubDate>
+		<dc:creator><![CDATA[Connector Supplier]]></dc:creator>
+				<category><![CDATA[Buyers Guide]]></category>
+		<category><![CDATA[Featured Slides]]></category>
+		<category><![CDATA[Home Page]]></category>
+		<category><![CDATA[Home page articles]]></category>
+		<category><![CDATA[Product News]]></category>
+		<category><![CDATA[AerosUSA]]></category>
+		<category><![CDATA[Amphenol Industrial Products Group]]></category>
+		<category><![CDATA[Binder]]></category>
+		<category><![CDATA[Chogori Technology Co.]]></category>
+		<category><![CDATA[Hirose Electric]]></category>
+		<category><![CDATA[Jonhon]]></category>
+		<category><![CDATA[LEMO Connectors]]></category>
+		<category><![CDATA[ODU]]></category>
+		<category><![CDATA[Omnetics Connector Corporation]]></category>
+		<category><![CDATA[PA&E]]></category>
+		<category><![CDATA[Phoenix Contact]]></category>
+		<category><![CDATA[SEACON Group]]></category>
+		<category><![CDATA[TE Conectivity]]></category>
+
+		<guid isPermaLink="false">http://www.connectorsupplier.com/?p=16942</guid>
+		<description><![CDATA[<p>New connector and cable product roundup for January 10, 2017. &#160; LEMOâs new Multi Concentric Contact Connectors for the oil and gas market are dedicated to applications in which connectors need to allow for a measure of low-speed rotation, making them an ideal solution for petroleum downhole drilling systems, turrets, and other free-twisting equipment. Available<a href="http://www.connectorsupplier.com/product-roundup-january-10-2017/"> Read More >></a></p><p>The post <a rel="nofollow" href="http://www.connectorsupplier.com/product-roundup-january-10-2017/">Product Roundup for January 10, 2017</a> appeared first on <a rel="nofollow" href="http://www.connectorsupplier.com">Connector and Cable Assembly Supplier</a>.</p>]]></description>
+				<content:encoded><![CDATA[<div class="pf-content"><h2>New connector and cable product roundup for January 10, 2017.</h2>
+<p><div class="woo-sc-twitter left"><a href="http://twitter.com/share" class="twitter-share-button"data-count="horizontal">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script></div> <script type="IN/Share" ></script>
+
+ <a href="https://secure.campaigner.com/CSB/Public/Form.aspx?fid=1153473"><img class="alignnone wp-image-14527 size-full" src="http://www.connectorsupplier.com/wp-content/uploads/Subscribe-g80.gif" alt="Subscribe-g80" width="80" height="20" /></a></p>
+<p>&nbsp;</p>
+<p><a href="https://www.lemo.com/">LEMO</a><a href="https://www.lemo.com/catalog/ROW/UK_English/multi_concentric_connector.pdf"><img class="alignleft wp-image-16947 size-full" src="http://www.connectorsupplier.com/wp-content/uploads/lemo-Multi-Concentric-Contact-Connectors-for-oil-gas-.gif" alt="LEMO Multi-Concentric Contact Connectors for oil and gas" width="246" height="166" /></a>âs new <a href="https://www.lemo.com/catalog/ROW/UK_English/multi_concentric_connector.pdf">Multi Concentric Contact Connectors</a> for the oil and gas market are dedicated to applications in which connectors need to allow for a measure of low-speed rotation, making them an ideal solution for petroleum downhole drilling systems, turrets, and other free-twisting equipment. Available in various shell sizes with four to 10 recessed and scoop-proof contacts, the series is designed for up to 10,000 rotation cycles and is not impedance controlled.</p>
+<p><a href="http://www.odu-uk.co.uk/">ODU</a><a href="https://www.odu.de/fileadmin/redaktion/downloads/downloadcenter-usa-only/catalogues/Hybrid_Connector-PROOF.pdf"><img class="alignleft wp-image-16946 size-full" src="http://www.connectorsupplier.com/wp-content/uploads/odu-circular-connectors.gif" alt="ODU hybrid connectors" width="250" height="166" /></a>âs versatile <a href="https://www.odu.de/fileadmin/redaktion/downloads/downloadcenter-usa-only/catalogues/Hybrid_Connector-PROOF.pdf">Hybrid Connectors</a> accommodate multiple pin counts and contact combinations, enabling the reliable transfer of power, signal, data, and media in a wide range of demanding medical, military, industrial, and test and measurement applications, including: gas analyzers, dental devices, precision measuring, and fertilizer discharge equipment. The series also features several waterproof ratings and termination types, and delivers high data transfer rates.</p>
+<p><a href="http://www.amphenol-industrial.com/">Amphenol Industrial Products Group</a><a href="http://www.amphenol-industrial.com/upt"><img class="alignleft wp-image-16953 size-full" src="http://www.connectorsupplier.com/wp-content/uploads/amphenol-upt-series-plastic-connectors.gif" alt="Amphenol UPT series plastic circular connectors" width="250" height="166" /></a>âs <a href="http://www.amphenol-industrial.com/upt">UPT Series</a> plastic shell interconnects are designed for use in industrial applications that donât require metal shells or mil-spec equivalents, including: diesel engines, tractors, construction equipment, and industrial pumping and power generation systems. Lightweight, compact, and cost effective, the series features a metal bayonet coupling system, and is available in wall-mount, jam nut, and straight plug shell styles with 12 or 16 stamped and formed crimp contacts and 24â32 or 24â48 insert arrangements.</p>
+<p><a href="http://www.aerosusa.com/index.html">AerosUSA</a><a href="http://www.aerosusa.com/Polyamide%20Straight%20Connectors1.html"><img class="alignleft wp-image-16954 size-full" src="http://www.connectorsupplier.com/wp-content/uploads/aerosusa-RQG2-UNEF-polyamide-connectors.gif" alt="AerosUSA RQG2 UNEF polyamide connectors" width="250" height="250" /></a>Â offers Flexaâs ruggedÂ <a href="http://www.aerosusa.com/Polyamide%20Straight%20Connectors1.html">RQG2 UNEF polyamide connectors</a> are designed to thread onto the back end of traditional, military style 5015 connectors to protect the overall assembly in applications including: military ground support equipment, railway cars, and heavy machinery. The female threaded fittings are available with IP66, IP68, and IP69K ingress protection; exhibit outstanding resistance to high impact forces, acids, and solvents; are free of silicone, cadmium, and halogen; and have excellent flame retardant and self-extinguishing properties.</p>
+<p><a href="https://www.hirose.com/">Hirose Electric</a><a href="https://www.hirose.com/product/en/products/HR30/"><img class="alignleft wp-image-16949 size-full" src="http://www.connectorsupplier.com/wp-content/uploads/hirose-HR30-Series-circular-plastic-power-connectors.gif" alt="Hirose HR30 Series circular connectors" width="250" height="166" /></a>âs <a href="https://www.hirose.com/product/en/products/HR30/">HR30 Series</a> circular plastic power connectors are small, lightweight, and low profile, and deliver extreme reliability in harsh outdoor and industrial applications, including: LED lighting, street lamps, base transceiver systems (BTS), servo motors, ship GPS, test and measurement equipment, and linear scales. Featuring a patented push-and-pull lock mating mechanism and a unique IP68-rated waterproof gasket that prevents water intrusion at depths up to 2m for up to 14 days, the series is available with 3, 6, 10, and 12 positions rated for up to 100VAC, 140VDC, and 5A, and in plug, receptacle, and jack-and-cap versions, the latter of which is compatible with overmolding processes.</p>
+<p><a href="http://pacaero.com/">PA&amp;E</a><a href="http://pacaero.com/hermetic-connectors/dc-connectors-circular/"><img class="alignleft wp-image-16944 size-full" src="http://www.connectorsupplier.com/wp-content/uploads/pa-e-circular-DC-hermetic-connectors.gif" alt="PA&amp;E circular DC hermetic connectors" width="250" height="209" /></a>âs <a href="http://pacaero.com/hermetic-connectors/dc-connectors-circular/">circular DC hermetic connectors</a> are designed for military, space, commercial, and medical applications with environmental conditions that require extremely rugged and reliable hermetic seals. Available in catalog and custom versions compatible with both laser welding and soldering, these connectors utilize Kryoflex<sup>Â®</sup>, the companyâs specialized polycrystalline ceramic material, to produce seals with robust resistance to extreme temperatures and humidity.</p>
+<p><a href="http://www.chogori-tech.com/">Chogori</a><a href="http://www.chogori-tech.com/m12/55-60.html"><img class="alignleft wp-image-16950 size-full" src="http://www.connectorsupplier.com/wp-content/uploads/chogori-M12-Series-field-installable-connectors.gif" alt="Chogoriâs M12 Series field-installable connectors" width="250" height="250" /></a>âs <a href="http://www.chogori-tech.com/m12/55-60.html">M12 Series field-installable connectors</a> feature coupling nuts for enhanced vibration resistance and allow users to customize cable type and length, enabling quick, easy, and cost-effective onsite installations in applications including proximity and safety switches, and other miniature I/O devices and sensors. Rated for up to 250V and 4A, the series is available in male and female straight and right angle versions with 3, 4, 5, and 8 pins, screw-in or solder terminations, plastic or metal housings, and A, B, or D coding.</p>
+<p>&nbsp;</p>
+<p><a href="http://www.bulgin.com/">Bulgin</a><a href="http://www.bulgin.com/products/circular-power-connectors/exp-series.html"><img class="alignleft wp-image-16951 size-thumbnail" src="http://www.connectorsupplier.com/wp-content/uploads/bulgin-EXPlora-Series-sealed-circular-connectors-150x150.gif" alt="Bulgin EXPlora Series sealed circular connectors" width="150" height="150" /></a>âs <a href="http://www.bulgin.com/products/circular-power-connectors/exp-series.html">EXPlora Series</a> environmentally sealed circular connectors enable quick and easy screw-fixed connections with robust dust and waterproof resistance. Designed for use in ATEX Zone 2 applications with hazardous or explosive atmospheres, including: motors, pumps, lighting, and process and control equipment, the series is available with 2, 3, 4, 5, 7, and 10 pole variants and features positive location keyways to prevent incorrect coupling.</p>
+<p>&nbsp;</p>
+<p><a href="https://www.phoenixcontact.com/online/portal/us?1dmy&amp;urile=wcm%3apath%3a/usen/web/home">Phoenix Contact</a><a href="https://www.phoenixcontact.com/online/portal/us/pxc/offcontext/insite_landing_page/!ut/p/b1/pZLLkqJAEEW_xQ-QKiykYFk8ShRHQOS5qSiBplEBURRmvn66e1azaIeIyVxlxLl5MzIuSEEyVxGUsaqoCohB2vBnVfK-aht--ZxTmR20g2m6C1l0vKUG18ZSN7fSXgyX6ANIvgcsD_2fnoj_0u-sti6AXzQ"><img class="alignleft wp-image-16943 size-thumbnail" src="http://www.connectorsupplier.com/wp-content/uploads/phoenix-contact-18AWG-M12-cordsets-150x150.gif" alt="Phoenix Contactâs 18AWG M12 cordsets" width="150" height="150" /></a>âs <a href="https://www.phoenixcontact.com/online/portal/us/pxc/offcontext/insite_landing_page/!ut/p/b1/pZLLkqJAEEW_xQ-QKiykYFk8ShRHQOS5qSiBplEBURRmvn66e1azaIeIyVxlxLl5MzIuSEEyVxGUsaqoCohB2vBnVfK-aht--ZxTmR20g2m6C1l0vKUG18ZSN7fSXgyX6ANIvgcsD_2fnoj_0u-sti6AXzQ">18AWG M12 cordsets</a> were designed for use in traditional 22AWG M12 assembly applications in which voltage drop is a concern, necessitating the specification of a larger wire. Available in 3, 4, and 5 positions, the PLTC cables feature sunlight resistant PVC jackets, and are rated for use in temperatures up to 105Â°C.</p>
+<p>&nbsp;</p>
+<p><a href="http://www.singatron.com.tw/style/frame/templates17_t/frame.asp?lang=2&amp;customer_id=801&amp;content_set=color_3">SGconn</a><a href="http://dnagroup.com/case-studies/waterproof-usb-charge-port/"><img class="alignleft wp-image-16957 size-thumbnail" src="http://www.connectorsupplier.com/wp-content/uploads/SGConn-IP66-waterproof-dual-port-USB-chargers-150x150.gif" alt="SGconnâs IP66 waterproof, dual-port USB chargers" width="150" height="150" /></a>âs IP66 <a href="http://dnagroup.com/case-studies/waterproof-usb-charge-port/">waterproof, dual-port USB chargers</a> are designed for use in harsh, outdoor environment applications, including: marine, power sport, and utility vehicles, heavy equipment, and golf carts. Capable of powering smartphones, tablets, and other USB-enabled electronic devices, the series is available in 12V, 12â24V, and 48V options with a normally open or normally closed magnetic cap, and is engineered to fit into traditional 12V power points with simple snap-in panel mounting.</p>
+<p><a href="http://www.omnetics.com">Omnetics</a><a href="http://www.omnetics.com/products/circular-micro_ACME/"><img class="alignleft wp-image-16945 size-full" src="http://www.connectorsupplier.com/wp-content/uploads/omnetics-Micro-ACME-Triple-Thread-Ratcheting-Circular-Connectors.gif" alt="Omneticsâ Micro ACME Triple Thread Ratcheting Circular Connectors" width="250" height="167" /></a>â <a href="http://www.omnetics.com/products/circular-micro_ACME/">Micro ACME Triple Thread Ratcheting Circular Connectors</a> feature lightweight aluminum ratchet-coupling shells that provide rugged, high-reliability, IP68 watertight connections for continuous signal integrity in harsh military, aerospace, security, and petroleum applications subject to high shock and vibration. The series also features alignment keys and insulators that enable quick, secure couplings and over-molded strain reliefs on the back of each connector that conform to the cabling, improving the overall reliability of the completed cable assembly.</p>
+<p><a href="http://www.te.com/usa-en/home.html">TE Connectivity</a><a href="http://seaconworldwide.com/products/waterproof-electrical-connectors/mini-con/"><img class="alignleft wp-image-16956 size-full" src="http://www.connectorsupplier.com/wp-content/uploads/TE-SEACON-MINI-CON-dry-mate-electrical-connectors.gif" alt="TE Connectivityâs SEACON MINI-CON dry-mate electrical connectors" width="250" height="126" /></a>âs <a href="http://seaconworldwide.com/products/waterproof-electrical-connectors/mini-con/">SEACON MINI-CON dry-mate electrical connectors</a> are small diameter, high density connectors designed for use in high pressure marine applications, including: drilling systems, umbilical links, and submarines. Made of 316 stainless steel with glass reinforced epoxy (GRE) inserts and gold-plated copper alloy contacts, the series is available in 13 shell sizes with up to 203 contacts (including coax), and is rated for up to 16,000psi, 5,000VDC, and 23A. The series is also available with higher psi ratings and in optical, hybrid, self-wiping, reverse insert, pressure balanced oil-filled (PBOF), titanium, and Monelâ¢ models upon request.</p>
+<p><a href="https://www.binder-usa.com/">Binder</a><a href="https://www.binder-usa.com/news/show/binder-m12-power-flange-connectors"><img class="alignleft wp-image-16952 size-full" src="http://www.connectorsupplier.com/wp-content/uploads/binder-M12-S-and-T-coded-Power-Panel-Mount-Connectors.gif" alt="Binderâs M12 S- and T-coded Power Panel Mount Connectors" width="250" height="167" /></a>âs <a href="https://www.binder-usa.com/news/show/binder-m12-power-flange-connectors">M12 S- and T-coded Power Panel Mount Connectors</a> are now available with plastic, prewired receptacles ideal for use in process and manufacturing automation applications in industrial networks. Designed to be threaded into panels or fixed with a locking nut, the series features IP67-rated protection from liquids and debris, gold-plated contacts with crimp terminations for low contact resistance, and is rated for up to 630VAC, 63VDC, and 12A per contact.</p>
+<p><a href="http://jonhon.us">JONHON</a><a href="http://www.jonhon.us/?page=series-jha"><img class="alignleft wp-image-16948 size-full" src="http://www.connectorsupplier.com/wp-content/uploads/jonhon-JHA-Series-high-density-electrical-circular-connectors.gif" alt="Jonhonâs JHA Series high-density electrical circular connectors" width="250" height="146" /></a>âsÂ <a href="http://www.jonhon.us/?page=series-jha">JHA Series</a> high-density electrical circular connectors are compliant with MIL-C-38999 Series I, and feature small, lightweight packaging, quick bayonet coupling, EMI/RFI shielding, vibration resistance, and removable crimp contacts with a scoop-proof design that delivers secure connections ideal for use in military aviation, aerospace, and weapons systems. The series is available in box-mount, through-hole, front-mount, rear-mount, and jam-nut versions in nine housing sizes, 74 insert arrangements, and various modification types.</p>
+<p>&nbsp;</p>
+<p><a href="https://secure.campaigner.com/CSB/Public/Form.aspx?fid=1153473"><img class="aligncenter wp-image-14525 size-full" src="http://www.connectorsupplier.com/wp-content/uploads/signup-button.gif" alt="Sign Up for Updates" width="300" height="100" /></a></p>
+<p>&nbsp;</p>
+<p>Recently posted:</p>
+<div class="woo-sc-related-posts">
+<ul>
+<li class="post-id-17012">
+
+<a href="http://www.connectorsupplier.com/specifying-medical-device-connectors/" title="Specifying medical device connectors" class="related-title"><span>Specifying medical device connectors</span></a>
+</li>
+<li class="post-id-16975">
+
+<a href="http://www.connectorsupplier.com/software-analytics-are-revolutionizing-medical-sensors/" title="Software and Analytics are Revolutionizing Medical Sensors" class="related-title"><span>Software and Analytics are Revolutionizing Medical Sensors</span></a>
+</li>
+<li class="post-id-16977">
+
+<a href="http://www.connectorsupplier.com/risk-management-alters-medical-requirements/" title="Risk Management Alters Medical Requirements" class="related-title"><span>Risk Management Alters Medical Requirements</span></a>
+</li>
+<li class="post-id-16981">
+
+<a href="http://www.connectorsupplier.com/medical-connector-product-roundup/" title="Medical Connector Product Roundup" class="related-title"><span>Medical Connector Product Roundup</span></a>
+</li>
+<li class="post-id-16933">
+
+<a href="http://www.connectorsupplier.com/circular-connectors-evolve-meet-rugged-portability-requirements/" title="Circular connectors evolve to meet rugged portability requirements" class="related-title"><span>Circular connectors evolve to meet rugged portability requirements</span></a>
+</li>
+<li class="post-id-16932">
+
+<a href="http://www.connectorsupplier.com/peace-vs-war-uavs-automation-tell-us-next-generation-connector-technology/" title="Peace vs. war: what UAVs and automation tell us about the next generation of connector technology" class="related-title"><span>Peace vs. war: what UAVs and automation tell us about the next generation of connector technology</span></a>
+</li>
+<li class="post-id-16939">
+
+<a href="http://www.connectorsupplier.com/molex-te-partner-high-performance-connectors/" title="Molex, TE partner for high performance connectors" class="related-title"><span>Molex, TE partner for high performance connectors</span></a>
+</li>
+<li class="post-id-16876">
+
+<a href="http://www.connectorsupplier.com/idt-skedd-combine-for-benefits/" title="IDT, SKEDD combined to bring many benefits" class="related-title"><span>IDT, SKEDD combined to bring many benefits</span></a>
+</li>
+<li class="post-id-16887">
+
+<a href="http://www.connectorsupplier.com/connector-trends-to-improve-speed/" title="Trends to improve speed, size and pricing continue" class="related-title"><span>Trends to improve speed, size and pricing continue</span></a>
+</li>
+<li class="post-id-16894">
+
+<a href="http://www.connectorsupplier.com/decade-change-te-connectivity-corporation/" title="A Decade of Change for TE Connectivity Corporation" class="related-title"><span>A Decade of Change for TE Connectivity Corporation</span></a>
+</li>
+</ul>
+<div class="fix"></div><!--/.fix-->
+</div><!--/.woo-sc-related-posts-->
+</div><p>The post <a rel="nofollow" href="http://www.connectorsupplier.com/product-roundup-january-10-2017/">Product Roundup for January 10, 2017</a> appeared first on <a rel="nofollow" href="http://www.connectorsupplier.com">Connector and Cable Assembly Supplier</a>.</p>]]></content:encoded>
+			<wfw:commentRss>http://www.connectorsupplier.com/product-roundup-january-10-2017/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Molex, TE partner for high performance connectors</title>
+		<link>http://www.connectorsupplier.com/molex-te-partner-high-performance-connectors/</link>
+		<comments>http://www.connectorsupplier.com/molex-te-partner-high-performance-connectors/#respond</comments>
+		<pubDate>Tue, 10 Jan 2017 13:46:36 +0000</pubDate>
+		<dc:creator><![CDATA[Terry Costlow]]></dc:creator>
+				<category><![CDATA[Featured Slides]]></category>
+		<category><![CDATA[Headliners]]></category>
+		<category><![CDATA[Headliners Articles]]></category>
+		<category><![CDATA[Home page articles]]></category>
+		<category><![CDATA[News Releases]]></category>
+		<category><![CDATA[Molex]]></category>
+		<category><![CDATA[TE Connectivity]]></category>
+
+		<guid isPermaLink="false">http://www.connectorsupplier.com/?p=16939</guid>
+		<description><![CDATA[<p>Joint efforts ensure compatible products from multiple sources &#160; The complexity of high-end electronics creates many opportunities for hardware and/or software problems, while pricing and time to market pressures create problems for those tasked with setting up the supply chain. For the connector world, the merger of these trends often means that second sources need<a href="http://www.connectorsupplier.com/molex-te-partner-high-performance-connectors/"> Read More >></a></p><p>The post <a rel="nofollow" href="http://www.connectorsupplier.com/molex-te-partner-high-performance-connectors/">Molex, TE partner for high performance connectors</a> appeared first on <a rel="nofollow" href="http://www.connectorsupplier.com">Connector and Cable Assembly Supplier</a>.</p>]]></description>
+				<content:encoded><![CDATA[<div class="pf-content"><h2>Joint efforts ensure compatible products from multiple sources</h2>
+<p><div class="woo-sc-twitter left"><a href="http://twitter.com/share" class="twitter-share-button"data-count="horizontal">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script></div> <script type="IN/Share" ></script>
+
+ <a href="https://secure.campaigner.com/CSB/Public/Form.aspx?fid=1153473"><img class="alignnone wp-image-14527 size-full" src="http://www.connectorsupplier.com/wp-content/uploads/Subscribe-g80.gif" alt="Subscribe-g80" width="80" height="20" /></a></p>
+<p>&nbsp;</p>
+<p><img class="aligncenter size-full wp-image-16941" src="http://www.connectorsupplier.com/wp-content/uploads/TE-Molex-second-source-connectors.gif" alt="TE and Molex second source connectors" width="550" height="342" /></p>
+<p>The complexity of high-end electronics creates many opportunities for hardware and/or software problems, while pricing and time to market pressures create problems for those tasked with setting up the supply chain. For the connector world, the merger of these trends often means that second sources need to be ready to step in with complex parts that can be shipped without delay.</p>
+<p>Molex and TE Connectivity have teamed up for a dual source alliance (DSA) agreement where each company will produce a new generation of high-speed input/output (I/O) and backplane connectors, and cable assemblies for data communications applications. Those products are designed for environments such as cloud computing equipment, switches, servers, and high performance storage.</p>
+<p>The DSA is intended to build on the duoâs earlier sourcing agreements for products such as: zSFP+ interconnects, zQSFP+ interconnects, CDFP interconnects, microQSFP interconnects, and Nano-Pitch I/O interconnects. The partners will collaborate on the launch and promotion of select new connector and cable assembly products that enable the growing number of high-speed applications. These connectors will provide speeds up to 56 Gbps and beyond.</p>
+<p>âThings that were problems at 10 Gbps are different than the issue with products that run at 25 Gbps today, and those problems will be different in next-generation 50 Gbps connectors. How product lines are ramped up will also change,â said Nathan Tracy, Technologist, system architecture team and manager of industry standards at TE Connectivity Data Communications.</p>
+<p>He noted that customers were clear that they wanted second sources for high speed connectors. Molex and TE will each work to develop the design features that customers want, and they will share information and cross test products to ensure that the components meet userâs performance requirements.</p>
+<p>âThis agreement lets us accelerate things,â said Scott Sommers, group product manager for I/O products and standards at Molex. âWe have the ability to collaborate during the design phase when it wise to do so. Working together lets us accelerate testing, and both companies can tool up at the same time.â</p>
+<p>Though the companies will work together in some areas, they will compete in the marketplace. Both spokesmen noted that while many parameters will be identical, the end products and their pricing will be finalized independently.</p>
+<p>Data centers are a primary target for the products. Equipment in these centers is rapidly evolving to deliver higher density, higher speeds and richer virtualization models. High-performance, high-speed connectors and cable assemblies must support the system data requirements of new data storage, servers, switches, routers and other applications.</p>
+<p>Connectivity products need to offer high-speed electrical performance, which in turn requires sophisticated connector and cable assembly designs with advanced features for high-speed signaling, EMI containment and thermal efficiencies.</p>
+<p>The Molex and TE alliance aims to produce connectors and cable assemblies that meet current and future requirements. The agreement is intended to offer increased product availability to customers and reduce the risk of new technology adoption by providing customers with a choice of independent suppliers with interoperable products.</p>
+<p><a href="https://secure.campaigner.com/CSB/Public/Form.aspx?fid=1153473"><img class="aligncenter wp-image-14525 size-full" src="http://www.connectorsupplier.com/wp-content/uploads/signup-button.gif" alt="Sign Up for Updates" width="300" height="100" /></a></p>
+<p>&nbsp;</p>
+<p>Recently posted:</p>
+<div class="woo-sc-related-posts">
+<ul>
+<li class="post-id-17012">
+
+<a href="http://www.connectorsupplier.com/specifying-medical-device-connectors/" title="Specifying medical device connectors" class="related-title"><span>Specifying medical device connectors</span></a>
+</li>
+<li class="post-id-16975">
+
+<a href="http://www.connectorsupplier.com/software-analytics-are-revolutionizing-medical-sensors/" title="Software and Analytics are Revolutionizing Medical Sensors" class="related-title"><span>Software and Analytics are Revolutionizing Medical Sensors</span></a>
+</li>
+<li class="post-id-16977">
+
+<a href="http://www.connectorsupplier.com/risk-management-alters-medical-requirements/" title="Risk Management Alters Medical Requirements" class="related-title"><span>Risk Management Alters Medical Requirements</span></a>
+</li>
+<li class="post-id-16981">
+
+<a href="http://www.connectorsupplier.com/medical-connector-product-roundup/" title="Medical Connector Product Roundup" class="related-title"><span>Medical Connector Product Roundup</span></a>
+</li>
+<li class="post-id-16933">
+
+<a href="http://www.connectorsupplier.com/circular-connectors-evolve-meet-rugged-portability-requirements/" title="Circular connectors evolve to meet rugged portability requirements" class="related-title"><span>Circular connectors evolve to meet rugged portability requirements</span></a>
+</li>
+<li class="post-id-16932">
+
+<a href="http://www.connectorsupplier.com/peace-vs-war-uavs-automation-tell-us-next-generation-connector-technology/" title="Peace vs. war: what UAVs and automation tell us about the next generation of connector technology" class="related-title"><span>Peace vs. war: what UAVs and automation tell us about the next generation of connector technology</span></a>
+</li>
+<li class="post-id-16942">
+
+<a href="http://www.connectorsupplier.com/product-roundup-january-10-2017/" title="Product Roundup for January 10, 2017" class="related-title"><span>Product Roundup for January 10, 2017</span></a>
+</li>
+<li class="post-id-16876">
+
+<a href="http://www.connectorsupplier.com/idt-skedd-combine-for-benefits/" title="IDT, SKEDD combined to bring many benefits" class="related-title"><span>IDT, SKEDD combined to bring many benefits</span></a>
+</li>
+<li class="post-id-16887">
+
+<a href="http://www.connectorsupplier.com/connector-trends-to-improve-speed/" title="Trends to improve speed, size and pricing continue" class="related-title"><span>Trends to improve speed, size and pricing continue</span></a>
+</li>
+<li class="post-id-16894">
+
+<a href="http://www.connectorsupplier.com/decade-change-te-connectivity-corporation/" title="A Decade of Change for TE Connectivity Corporation" class="related-title"><span>A Decade of Change for TE Connectivity Corporation</span></a>
+</li>
+</ul>
+<div class="fix"></div><!--/.fix-->
+</div><!--/.woo-sc-related-posts-->
+</div><p>The post <a rel="nofollow" href="http://www.connectorsupplier.com/molex-te-partner-high-performance-connectors/">Molex, TE partner for high performance connectors</a> appeared first on <a rel="nofollow" href="http://www.connectorsupplier.com">Connector and Cable Assembly Supplier</a>.</p>]]></content:encoded>
+			<wfw:commentRss>http://www.connectorsupplier.com/molex-te-partner-high-performance-connectors/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>JAE: About Us</title>
+		<link>http://www.connectorsupplier.com/jae-us/</link>
+		<pubDate>Sat, 31 Dec 2016 14:14:39 +0000</pubDate>
+		<dc:creator><![CDATA[Connector Supplier]]></dc:creator>
+				<category><![CDATA[JAE Videos]]></category>
+
+		<guid isPermaLink="false">http://www.connectorsupplier.com/?p=16929</guid>
+		<description><![CDATA[<p>The post <a rel="nofollow" href="http://www.connectorsupplier.com/jae-us/">JAE: About Us</a> appeared first on <a rel="nofollow" href="http://www.connectorsupplier.com">Connector and Cable Assembly Supplier</a>.</p>]]></description>
+				<content:encoded><![CDATA[<p>The post <a rel="nofollow" href="http://www.connectorsupplier.com/jae-us/">JAE: About Us</a> appeared first on <a rel="nofollow" href="http://www.connectorsupplier.com">Connector and Cable Assembly Supplier</a>.</p>]]></content:encoded>
+			</item>
+	</channel>
+</rss>

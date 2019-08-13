@@ -1,0 +1,415 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" media="screen" href="/~d/styles/rss2full.xsl"?><?xml-stylesheet type="text/css" media="screen" href="http://feeds.feedburner.com/~d/styles/itemcontent.css"?><rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/" xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" version="2.0">
+
+<channel>
+	<title>Linear Motion Tips</title>
+	
+	<link>http://www.linearmotiontips.com</link>
+	<description>Covering Linear Motion Systems, Components and Linear Motion Resources</description>
+	<lastBuildDate>Thu, 19 Jan 2017 22:19:24 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.7.1</generator>
+
+<image>
+	<url>http://www.linearmotiontips.com/wp-content/uploads/2016/08/cropped-lmtfavicon-32x32.gif</url>
+	<title>Linear Motion Tips</title>
+	<link>http://www.linearmotiontips.com</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://feeds.feedburner.com/LinearMotionTips" /><feedburner:info uri="linearmotiontips" /><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/" /><feedburner:emailServiceId>LinearMotionTips</feedburner:emailServiceId><feedburner:feedburnerHostname>https://feedburner.google.com</feedburner:feedburnerHostname><item>
+		<title>Where linear motors improve designs: Application example in multi-axis stage</title>
+		<link>http://feedproxy.google.com/~r/LinearMotionTips/~3/Cwk-BMd4S4k/</link>
+		<comments>http://www.linearmotiontips.com/linear-motors-improve-designs-application-example-multi-axis-stage/#respond</comments>
+		<pubDate>Thu, 19 Jan 2017 22:09:53 +0000</pubDate>
+		<dc:creator><![CDATA[Lisa Eitel]]></dc:creator>
+				<category><![CDATA[Applications]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[Linear motors]]></category>
+		<category><![CDATA[Motion Casebook]]></category>
+		<category><![CDATA[Stages + gantries]]></category>
+		<category><![CDATA[intellidrives]]></category>
+
+		<guid isPermaLink="false">http://www.linearmotiontips.com/?p=6280</guid>
+		<description><![CDATA[<p>Machine-tool applications and the manufacture and assembly of semiconductor components account for more than half of all linear-motor use. Thatâs because linear motors are precise (albeit costly compared to other linear-motion options). Other applications for these relatively new motion components also include those that need fast and precise positioning or slow and extremely steady strokes. [&#8230;]</p>
+<p><a rel="nofollow" href="http://www.linearmotiontips.com">Linear Motion Tips</a></p>
+]]></description>
+				<content:encoded><![CDATA[<p class="p1"><span class="s1">Machine-tool applications </span>and the manufacture and assembly of semiconductor components account for more than half of all linear-motor use. Thatâs because linear motors are precise (albeit costly compared to other linear-motion options). Other applications for these relatively new motion components also include those that need fast and precise positioning or slow and extremely steady strokes.</p>
+<div id="attachment_6287" style="width: 680px" class="wp-caption aligncenter"><a href="http://www.linearmotiontips.com/wp-content/uploads/2017/01/06-Chieftek-opening-linear-motor-lineup.jpg"><img class="size-full wp-image-6287" src="http://www.linearmotiontips.com/wp-content/uploads/2017/01/06-Chieftek-opening-linear-motor-lineup.jpg" alt="" width="670" height="417" srcset="http://1ugn2l2m3z2y31d4y73c1m5w.wpengine.netdna-cdn.com/wp-content/uploads/2017/01/06-Chieftek-opening-linear-motor-lineup.jpg 670w, http://1ugn2l2m3z2y31d4y73c1m5w.wpengine.netdna-cdn.com/wp-content/uploads/2017/01/06-Chieftek-opening-linear-motor-lineup-300x187.jpg 300w" sizes="(max-width: 670px) 100vw, 670px" /></a><p class="wp-caption-text">Linear motors include a coil and stationary platform. Linearâmotor subtypes include brushless ironcore and ironless designs as the ones from Chieftek Precision USA shown here.</p></div>
+<p class="p2">Linear motor speeds range from a few inches to thousands of inches per second. The designs can deliver unlimited strokes and (with an encoder) accuracy to Â±1 Î¼m/100 mm. For this reason, a variety of medical, inspection and material-handling applications use linear motors to boost throughput.</p>
+<p class="p2">Unlike rotary motors (which need mechanical rotary-to-linear devices to get straight moves) linear motors are direct drive. So, they avoid the gradual wear of traditional rack-and-pinion sets. Linear motors also avoid drawbacks of rotary motors running belts and pulleys &#8230; limited thrust because of tensile-strength limits; lengthy settling times; belt stretching, backlash and mechanical windup; and speed limits of 15 ft/sec or so. Plus linear motors avoid lead and ballscrew inefficiencies (about 50 and 90% respectively) as well as whip and vibration. They donât force designers to sacrifice speed (with higher pitches) for lower resolution, either.</p>
+<div id="attachment_6283" style="width: 680px" class="wp-caption aligncenter"><img class="wp-image-6283 size-full" src="http://www.linearmotiontips.com/wp-content/uploads/2017/01/02-IntelLiDrives-XYZ-robot-in-plant-study-10.jpg" width="670" height="374" srcset="http://1ugn2l2m3z2y31d4y73c1m5w.wpengine.netdna-cdn.com/wp-content/uploads/2017/01/02-IntelLiDrives-XYZ-robot-in-plant-study-10.jpg 670w, http://1ugn2l2m3z2y31d4y73c1m5w.wpengine.netdna-cdn.com/wp-content/uploads/2017/01/02-IntelLiDrives-XYZ-robot-in-plant-study-10-300x167.jpg 300w" sizes="(max-width: 670px) 100vw, 670px" title="" alt="" /><p class="wp-caption-text">A robotic control XYZ gantry with linear-motor actuators from IntelLiDrives moves a pair of cameras between growing plant samples. Infrared light-emitting diodes behind the fixture provide illumination.</p></div>
+<p class="p2">Multi-axis stages that use linear motors on each axis are more compact than traditional set-ups, so fit into smaller spaces. Their lower component count also boosts reliability. Here, the motors connect to regular drives, and (in servo operation) a motion controller closes the position loop.</p>
+<p class="p2">Linear stepper motors deliver speeds to 70 in./sec, suitable for relatively quick-acting pick-and-place and inspection machines. Other applications include part-transfer stations. Some manufacturers sell twin linear steppers with a common forcer to form X-Y stages. These stages mount in any orientation and have high stiffness and flatness to a few nanometers for every hundred millimeters to output accurate moves.</p>
+<p class="p2">Some cost-sensitive applications benefit from hybrid linear motors, as they have inexpensive ferromagnetic platens. Much like linear stepper motors, they vary magnetic saturation from the platen to shape opposition to magnetic flow. Feedback plus a PID loop with positioning control helps the motor output servo-grade performance. The only catch is that hybrid motors have limited output and exhibit cogging from coupling between forcer and platen. Two solutions are phase-teeth offset and driving for partial saturation of platen teeth and forcer teeth sections. Some hybrid motors also use external cooling to boost output during continuous operation.</p>
+<div id="attachment_6285" style="width: 310px" class="wp-caption alignright"><img class="wp-image-6285" src="http://www.linearmotiontips.com/wp-content/uploads/2017/01/04-IntelLiDrives-XYZ-robot-in-plant-study-22.jpg" width="300" height="465" srcset="http://1ugn2l2m3z2y31d4y73c1m5w.wpengine.netdna-cdn.com/wp-content/uploads/2017/01/04-IntelLiDrives-XYZ-robot-in-plant-study-22.jpg 670w, http://1ugn2l2m3z2y31d4y73c1m5w.wpengine.netdna-cdn.com/wp-content/uploads/2017/01/04-IntelLiDrives-XYZ-robot-in-plant-study-22-193x300.jpg 193w, http://1ugn2l2m3z2y31d4y73c1m5w.wpengine.netdna-cdn.com/wp-content/uploads/2017/01/04-IntelLiDrives-XYZ-robot-in-plant-study-22-660x1024.jpg 660w" sizes="(max-width: 300px) 100vw, 300px" title="" alt="" /><p class="wp-caption-text">Image courtesy of University of Wisconsin-Madison Plant Imaging Center and IntelLiDrives</p></div>
+<p class="p2">Linear ac induction motors that run to 2,000 in./sec work for people movers, roller coasters and large aerospace applications. General-purpose types can move a few inches to 150 ft/sec or faster. Cylindrical linear motors have steel rods and a moving coil or rods filled with stacked magnets, so work in myriad ma-chines that need quick and accurate strokes.</p>
+<p class="p2"><strong>In a similar way, ironless-core (or air-core) linear motors output up to 3,000 N and speeds exceeding 230 in./sec.</strong> These capabilities make this linear-motor subtype indispensable in long-stroke pick-and-place applications, flying-shear setups, and laser and waterjet cutting.</p>
+<p class="p2">Linear ac synchronous motors can output 7,000 N or more. Some use water cooling to boost force output. Such designs find use in baggage-handling systems and amusement rides. Iron-core motors also work in machine tool and robotics applications.</p>
+<h4 class="p4">Linear-motor application example: Researchers use XYZ robot to develop hardier crops</h4>
+<p class="p2">Watching plants grow and develop roots can be tiresome, but tracking plant development reveals how genetically modified plants can give better yields than unaltered versions.</p>
+<p class="p2">Now, plant-physiology researchers at the University of Wisconsin-Madison are using automated image acquisition to make that easier.<a href="http://www.linearmotiontips.com/wp-content/uploads/2017/01/05-IntelLiDrives-XYZ-robot-in-plant-study-21.jpg"><img class="alignleft wp-image-6286 size-medium" src="http://www.linearmotiontips.com/wp-content/uploads/2017/01/05-IntelLiDrives-XYZ-robot-in-plant-study-21-224x300.jpg" width="224" height="300" srcset="http://1ugn2l2m3z2y31d4y73c1m5w.wpengine.netdna-cdn.com/wp-content/uploads/2017/01/05-IntelLiDrives-XYZ-robot-in-plant-study-21-224x300.jpg 224w, http://1ugn2l2m3z2y31d4y73c1m5w.wpengine.netdna-cdn.com/wp-content/uploads/2017/01/05-IntelLiDrives-XYZ-robot-in-plant-study-21.jpg 670w" sizes="(max-width: 224px) 100vw, 224px" title="" alt="" /></a></p>
+<p class="p2">Researchers place plant samples in an LED-illuminated 6&#215;6 grid of Petri plates on a vertical tubular aluminum frame to conduct 36 experiments in parallel. Then robotic camera CCD imagers working off an XYZ vertical gantry create time-lapse movies of plant growth to give researchers better understanding of how genetic manipulations affect development.</p>
+<p class="p2">The XYZ gantry consists of computer-controlled linear actuators, each integrating a brushless linear servo motor from IntelLiDrives with a high-resolution linear encoder.</p>
+<p class="p2"><strong>The gantry moves the CCD cameras over a 1-m-by-1-m area with positioning resolution of 10 Âµm.</strong></p>
+<p class="p2">An extra linear axis lets the researchers change the cameraâs field of view to get well-focused images of the seedlings in their Petri plates.</p>
+<p class="p2"><strong>The robotic camera snaps a picture every 30 seconds to capture the curling and twisting motion of germinating seeds putting out new roots.</strong></p>
+<p style="text-align: center;"><iframe src="https://www.youtube.com/embed/rL8blwOLdEA" width="670" height="370" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
+<p class="p2">After capture, the images go through analysis that determines cellular growth rates in the root as well as the angle and curvature of the root tip. Computer-vision algorithms study the cameraâs time-lapse videos and measure (among other things) the sizes of seeds, plantsâ cellular growth rates, and the angle and curvature of the roots.<a href="http://www.linearmotiontips.com/wp-content/uploads/2017/01/03-IntelLiDrives-XYZ-robot-in-plant-study-13.jpg"><img class="aligncenter size-full wp-image-6284" src="http://www.linearmotiontips.com/wp-content/uploads/2017/01/03-IntelLiDrives-XYZ-robot-in-plant-study-13.jpg" alt="" width="670" height="374" srcset="http://1ugn2l2m3z2y31d4y73c1m5w.wpengine.netdna-cdn.com/wp-content/uploads/2017/01/03-IntelLiDrives-XYZ-robot-in-plant-study-13.jpg 670w, http://1ugn2l2m3z2y31d4y73c1m5w.wpengine.netdna-cdn.com/wp-content/uploads/2017/01/03-IntelLiDrives-XYZ-robot-in-plant-study-13-300x167.jpg 300w" sizes="(max-width: 670px) 100vw, 670px" /></a></p>
+<p class="p2">Using this XYZ robot with computer vision gives researchers the ability to automate the plant growth time-lapsed image acquisition and processing &#8230; and increase throughput of experiments to track the plants growth and development. Now researchers can find the genes that control plantâs root growth and have fundamental importance to crop improvement. It lays the foundation for discoveries that could one day further improve plants for human consumption and other use.</p>
+<div id="attachment_6282" style="width: 680px" class="wp-caption aligncenter"><a href="http://www.linearmotiontips.com/wp-content/uploads/2017/01/01-IntelLiDrives-XYZ-robot-in-plant-study-20.jpg"><img class="wp-image-6282 size-full" src="http://www.linearmotiontips.com/wp-content/uploads/2017/01/01-IntelLiDrives-XYZ-robot-in-plant-study-20.jpg" alt="linear motors at work" width="670" height="363" srcset="http://1ugn2l2m3z2y31d4y73c1m5w.wpengine.netdna-cdn.com/wp-content/uploads/2017/01/01-IntelLiDrives-XYZ-robot-in-plant-study-20.jpg 670w, http://1ugn2l2m3z2y31d4y73c1m5w.wpengine.netdna-cdn.com/wp-content/uploads/2017/01/01-IntelLiDrives-XYZ-robot-in-plant-study-20-300x163.jpg 300w" sizes="(max-width: 670px) 100vw, 670px" /></a><p class="wp-caption-text">Robotic cameras and computerized motion control are helping researchers identify plant characteristics that improve hardiness. Image courtesy IntelLiDrives</p></div>
+<p><a rel="nofollow" href="http://www.linearmotiontips.com">Linear Motion Tips</a></p>
+<img src="http://feeds.feedburner.com/~r/LinearMotionTips/~4/Cwk-BMd4S4k" height="1" width="1" alt=""/>]]></content:encoded>
+			<wfw:commentRss>http://www.linearmotiontips.com/linear-motors-improve-designs-application-example-multi-axis-stage/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<feedburner:origLink>http://www.linearmotiontips.com/linear-motors-improve-designs-application-example-multi-axis-stage/</feedburner:origLink></item>
+		<item>
+		<title>ELP electric linear module from SCHUNK for user-friendly operation</title>
+		<link>http://feedproxy.google.com/~r/LinearMotionTips/~3/_YvQhq71_cI/</link>
+		<comments>http://www.linearmotiontips.com/elp-electric-linear-module-schunk-user-friendly-operation/#respond</comments>
+		<pubDate>Thu, 19 Jan 2017 20:43:01 +0000</pubDate>
+		<dc:creator><![CDATA[Lisa Eitel]]></dc:creator>
+				<category><![CDATA[Featured]]></category>
+		<category><![CDATA[Linear motors]]></category>
+		<category><![CDATA[schunk]]></category>
+
+		<guid isPermaLink="false">http://www.linearmotiontips.com/?p=6278</guid>
+		<description><![CDATA[<p>The SCHUNK ELP can be adjusted in two simple steps making it the most user friendly electric linear module on the market. The end positions can be mechanically adjusted with a screw and the speed of extension and retraction is adjusted using rotary switches on the side of the unit. More after the jump. Speed [&#8230;]</p>
+<p><a rel="nofollow" href="http://www.linearmotiontips.com">Linear Motion Tips</a></p>
+]]></description>
+				<content:encoded><![CDATA[<p>The <a href="https://us.schunk.com/us_en/gripping-systems/series/elp/" target="_blank">SCHUNK ELP</a> can be adjusted in two simple steps making it the most user friendly electric linear module on the market. The end positions can be mechanically adjusted with a screw and the speed of extension and retraction is adjusted using rotary switches on the side of the unit. More after the jump.</p>
+<p><img class="aligncenter wp-image-6279" src="http://www.linearmotiontips.com/wp-content/uploads/2017/01/ELP-electric-linear-module-from-SCHUNK-for-user-friendly-operation.png" width="670" height="229" srcset="http://1ugn2l2m3z2y31d4y73c1m5w.wpengine.netdna-cdn.com/wp-content/uploads/2017/01/ELP-electric-linear-module-from-SCHUNK-for-user-friendly-operation.png 1172w, http://1ugn2l2m3z2y31d4y73c1m5w.wpengine.netdna-cdn.com/wp-content/uploads/2017/01/ELP-electric-linear-module-from-SCHUNK-for-user-friendly-operation-300x102.png 300w, http://1ugn2l2m3z2y31d4y73c1m5w.wpengine.netdna-cdn.com/wp-content/uploads/2017/01/ELP-electric-linear-module-from-SCHUNK-for-user-friendly-operation-768x262.png 768w, http://1ugn2l2m3z2y31d4y73c1m5w.wpengine.netdna-cdn.com/wp-content/uploads/2017/01/ELP-electric-linear-module-from-SCHUNK-for-user-friendly-operation-1024x349.png 1024w" sizes="(max-width: 670px) 100vw, 670px" title="" alt="" /></p>
+<p>Speed can be automatically adjusted, depending on extension weight and no shock absorber adjustment is necessary, because the drive automatically regulates the brake process. The ELP is practically wear-free with a long service life and low maintenance cycles. The control and power electronics are directly integrated into the module, and can be controlled by a fieldbus distributor or through digital signals. Other features:</p>
+<ul>
+<li>Compact designÂ forÂ tight spaces; Linear direct driveÂ for almost wear-free use and a long service lifeControl via digital I/O for easy commissioning and rapid integration into existing systems</li>
+<li>10 independent extension and retraction speedsÂ  for high flexibility in cycle times</li>
+<li>Robust bearing guidance for high load capacities and end-position accuracy in all installation positions;Â Maintenance-free for high machine uptime and low operating costs</li>
+<li><a href="https://us.schunk.com/us_en/gripping-systems/series/elp/" target="_blank">Standardized mounting bores</a>Â  for interfacing withÂ components from the modular systems</li>
+</ul>
+<hr />
+<p>SCHUNK is a German family-owned company and global player in one. More than 2,500 employees in 8 plants and 30 directly owned subsidiaries and distribution partners in more than 50 countries throughout the world ensure an intensive market presence. SCHUNK designs and manufactures an unmatched selection of clamping technology and gripping systems.</p>
+<p><a rel="nofollow" href="http://www.linearmotiontips.com">Linear Motion Tips</a></p>
+<img src="http://feeds.feedburner.com/~r/LinearMotionTips/~4/_YvQhq71_cI" height="1" width="1" alt=""/>]]></content:encoded>
+			<wfw:commentRss>http://www.linearmotiontips.com/elp-electric-linear-module-schunk-user-friendly-operation/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<feedburner:origLink>http://www.linearmotiontips.com/elp-electric-linear-module-schunk-user-friendly-operation/</feedburner:origLink></item>
+		<item>
+		<title>Linear actuators: belt driven vs. rack and pinion driven</title>
+		<link>http://feedproxy.google.com/~r/LinearMotionTips/~3/eT2S2mEDrUg/</link>
+		<comments>http://www.linearmotiontips.com/linear-actuators-belt-driven-vs-rack-and-pinion-driven/#respond</comments>
+		<pubDate>Thu, 19 Jan 2017 13:15:40 +0000</pubDate>
+		<dc:creator><![CDATA[Danielle Collins]]></dc:creator>
+				<category><![CDATA[Applications]]></category>
+		<category><![CDATA[Belt + chain driven]]></category>
+		<category><![CDATA[Belt + chain drives for linear]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[Linear actuators (all)]]></category>
+		<category><![CDATA[Rack + pinion driven]]></category>
+		<category><![CDATA[Rack + pinion sets]]></category>
+
+		<guid isPermaLink="false">http://www.linearmotiontips.com/?p=6134</guid>
+		<description><![CDATA[<p>Belts and rack and pinions have several common benefits for linearÂ motion applications. Theyâre both well-establishedÂ drive mechanisms in linear actuators, providing high-speed travel over extremely long lengths. And both are frequently used in large gantry systems for material handling, machining, welding and assembly, especially in the automotive, machine tool, and packaging industries. Timing belts for linear [&#8230;]</p>
+<p><a rel="nofollow" href="http://www.linearmotiontips.com">Linear Motion Tips</a></p>
+]]></description>
+				<content:encoded><![CDATA[<p>Belts and rack and pinions have several common benefits for linearÂ motion applications. Theyâre both well-establishedÂ drive mechanisms in linear actuators, providing high-speed travel over extremely long lengths. And both are frequently used in large gantry systems for material handling, machining, welding and assembly, especially in the automotive, machine tool, and packaging industries.</p>
+<p>Timing belts for linear actuatorsÂ are typically made of polyurethane reinforced with internal steel or Kevlar cords. The most common tooth geometry for belts in linear actuators is the AT profile, which has a large tooth width that provides high resistance against shear forces. On the driven end of the actuator (where the motor is attached) a precision-machined toothed pulley engages with the belt, while on the non-driven end, a flat pulley simply provides guidance. The non-driven, or idler, pulley is often used for tensioning the belt, although some designs provide tensioning mechanisms on the carriage. The type of belt, tooth profile, and applied tension force allÂ determine the force that can be transmitted.</p>
+<div id="attachment_6140" style="width: 326px" class="wp-caption aligncenter"><img class=" wp-image-6140" src="http://www.linearmotiontips.com/wp-content/uploads/2017/01/AT-Series-Belt.gif" alt="rack and pinion" width="316" height="158" /><p class="wp-caption-text">Belt driven linear actuators typically use steel-reinforced polyurethane belts.<br /><em>Image credit: Brecoflex Co., L.L.C</em></p></div>
+<p>Rack and pinion systems used in linear actuators consist of a rack (also referred to as the &#8220;linear gear&#8221;), a pinion (or &#8220;circular gear&#8221;), and a gearbox. The gearbox helps to optimize the speed of the servo motor and the inertia match of the system. The teeth of a rack and pinion drive can be straight or helical, although helical teeth are often used due to theirÂ higher load capacity and quieter operation. For rack and pinion systems, the maximum force that can be transmitted is largely determined by the tooth pitch and the size of the pinion.</p>
+<div id="attachment_6141" style="width: 341px" class="wp-caption aligncenter"><img class=" wp-image-6141" src="http://www.linearmotiontips.com/wp-content/uploads/2017/01/Straight-vs-Helical-Rack.jpg" alt="rack and pinion" width="331" height="152" srcset="http://1ugn2l2m3z2y31d4y73c1m5w.wpengine.netdna-cdn.com/wp-content/uploads/2017/01/Straight-vs-Helical-Rack.jpg 500w, http://1ugn2l2m3z2y31d4y73c1m5w.wpengine.netdna-cdn.com/wp-content/uploads/2017/01/Straight-vs-Helical-Rack-300x138.jpg 300w" sizes="(max-width: 331px) 100vw, 331px" /><p class="wp-caption-text">Rack and pinion actuators typically use helical-cut rack and pinion gears.<br /><em>Image credit: MultiCam Canada</em></p></div>
+<hr />
+<p>Despite their overlap in capabilities and uses, there are some performance criteria that can steerÂ the decision between belts and rack and pinion systems. Below are the application parameters that can have the most influence on which technology to use.</p>
+<hr />
+<h4>Stroke length</h4>
+<p>Both belts and rack and pinions can accommodate very long travel lengths. Case in point: belt drive actuators have been built at lengths up to 14 m. But, after a point, tensioning the belt becomes problematic. This is because the longer the belt, the higher the required tension force and the farther the tensioning mechanism (such as the idler pulley) needs toÂ travel to &#8220;pull&#8221; the belt into tension. In theory, a belt could be almost infinitely long, but in reality, there&#8217;s a practical limit to how far the tensioning mechanism can travel. In addition, as more tension force is induced on the belt, the external force itÂ can transmit decreases. Longer belts also add to the moved mass and inertia, which can drive the need for a larger motor.</p>
+<p>Rack and pinions, on the other hand, can be constructed in nearly unlimited lengths. Rack sections can be joined endlessly, although the guide mechanism (profiled rail or cam roller, for example) can be the limiting factor in maximum stroke length. Rack and pinion systems can operate in one of two ways: with the pinion (including gearbox and motor) moving and the rack stationary, or with the pinion assembly stationary and the rack moving. The first scenario is more common, although it does introduce more complex cable management. The benefit of a moving pinion assembly is that the moving mass and inertia are lower than if the entire rack were the moving component. This keeps the required motor smaller and eliminates the need for extremely high gear ratios.</p>
+<h4>Positioning accuracy</h4>
+<p>While rack and pinion systems have not historically been thought of as &#8220;precise&#8221; when compared to ball screws and linear motors (although that perception is changing), they do hold an advantage over belt drives in terms of <a href="http://www.linearmotiontips.com/whats-difference-accuracy-repeatability/" target="_blank">positioning accuracy</a>. This is because no matter how precise the belt profile and pulley teeth are, itâs an unavoidable fact that belts have compliance and are plastic. This means that they will eventually stretch, especially if their tensile strength is exceeded.</p>
+<p>Rack and pinion systems do have backlash, due to the meshing of gear teeth. But high precision helical rack and pinion systems have tooth pitch errors in the single-micron range. Itâs also possible to preload a rack and pinion system to prevent backlash. This is done with either a split-pinion or a dual-pinion design. In the split-pinion design, two pinion halves mesh with opposite tooth flanks on the same rack. One pinion half is driven and the other half is preloaded with an axial spring pack in order to remove backlash. The dual-pinion design uses a driven (aka âmasterâ) pinion and a preloaded (aka âslaveâ) pinion, each driven by a gearbox and motor. Preload is managed electronically through the controller.</p>
+<div id="attachment_6142" style="width: 310px" class="wp-caption aligncenter"><img class="wp-image-6142 size-full" src="http://www.linearmotiontips.com/wp-content/uploads/2017/01/Split-Pinions-BW.jpg" alt="rack and pinon" width="300" height="244" /><p class="wp-caption-text">In a split-pinion design, one pinion drives the system and the other is preloaded via an axial spring to remove backlash.</p></div>
+<div id="attachment_6143" style="width: 320px" class="wp-caption aligncenter"><img class="wp-image-6143" src="http://www.linearmotiontips.com/wp-content/uploads/2017/01/Dual-Pinions-BW.jpg" alt="rack and pinion" width="310" height="223" /><p class="wp-caption-text">In a dual-pinion design, one pinion is preloaded electronically to remove backlash.<br /> <em>Image credit: ATLANTA Drive Systems, Inc.</em></p></div>
+<h4>Vertical applications</h4>
+<p>Manufacturers regularly discourage the use ofÂ belt driven actuators inÂ <a href="http://www.linearmotiontips.com/five-things-to-consider-in-vertical-applications/" target="_blank">vertical applications</a>, due to the risk of damageâor more importantly, personal injuryâif the belt breaks or the brake mechanism fails. While rack and pinion systems can be back driven like ball screws, theyÂ are much less likely to experience catastrophic failure in vertical applications.</p>
+<h4>Harsh environments</h4>
+<p>Here, belt driven actuators generally have the advantage, since belts are relatively unaffected by liquid contamination such as water or oil. (Caustic liquids can, however, degrade belt material.) And most belt driven actuators can be sealed to avoid the ingress of contamination.</p>
+<p>Rack and pinion actuators, on the other hand, are open systems, with no simple and effective way to enclose them. But mounting a rack and pinion system on its side or upside down can minimize the amount of debris that makes its way onto the rack.</p>
+<h4>Maintenance</h4>
+<p>While belt and pulley systems do not require lubrication, the metal-on-metal contact of rack and pinion systems, together with the tight clearances between gear teeth, make lubrication critical. Automatic lubrication systems are recommended for use with rack and pinions to ensure proper lubrication at all times and avoid reduced performance or even failure. Keep in mind, however, thatÂ regardless of the drive typeâbelt or rack and pinionâthe guide mechanism used in the actuator will most likely require lubrication.</p>
+<p><em>Feature image credit: Andantex USA</em></p>
+<p><a rel="nofollow" href="http://www.linearmotiontips.com">Linear Motion Tips</a></p>
+<img src="http://feeds.feedburner.com/~r/LinearMotionTips/~4/eT2S2mEDrUg" height="1" width="1" alt=""/>]]></content:encoded>
+			<wfw:commentRss>http://www.linearmotiontips.com/linear-actuators-belt-driven-vs-rack-and-pinion-driven/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<feedburner:origLink>http://www.linearmotiontips.com/linear-actuators-belt-driven-vs-rack-and-pinion-driven/</feedburner:origLink></item>
+		<item>
+		<title>Low-cost FDA/USDA/3A dairy compliant Water Dog linear slides</title>
+		<link>http://feedproxy.google.com/~r/LinearMotionTips/~3/rillGz1uM10/</link>
+		<comments>http://www.linearmotiontips.com/low-cost-fdausda3a-dairy-compliant-water-dog-linear-slides/#respond</comments>
+		<pubDate>Wed, 18 Jan 2017 23:05:30 +0000</pubDate>
+		<dc:creator><![CDATA[Lisa Eitel]]></dc:creator>
+				<category><![CDATA[Featured]]></category>
+		<category><![CDATA[Plastic + composite guides]]></category>
+		<category><![CDATA[Slides + guides (all)]]></category>
+		<category><![CDATA[LM76]]></category>
+
+		<guid isPermaLink="false">http://www.linearmotiontips.com/?p=6138</guid>
+		<description><![CDATA[<p>FDA/USDA/3A-Dairy compliant, Water Dog Sliders from LM76 feature Corro-SlickÂ coated 300 series stainless steel rails and contoured WDX Polymer blocks. Â Water Dog Sliders can be washed down with the most aggressive chemicals and caustic foaming agents and have an operating temperature range of &#8211; 400O to +180 OF.Â  Quiet, low maintenance Water Dog Sliders can be [&#8230;]</p>
+<p><a rel="nofollow" href="http://www.linearmotiontips.com">Linear Motion Tips</a></p>
+]]></description>
+				<content:encoded><![CDATA[<p>FDA/USDA/3A-Dairy compliant, Water Dog Sliders from LM76 feature Corro-SlickÂ coated 300 series stainless steel rails and contoured WDX Polymer blocks. Â Water Dog Sliders can be washed down with the most aggressive chemicals and caustic foaming agents and have an operating temperature range of &#8211; 400<sup>O</sup> to +180<sup> O</sup>F.Â  Quiet, low maintenance Water Dog Sliders can be used: Dry, submerged in liquids, and in refrigerated and frozen environments.</p>
+<p><img class="aligncenter wp-image-6139" src="http://www.linearmotiontips.com/wp-content/uploads/2017/01/LM76-FDA-USDA-3A-Dairy-Slides-02.jpg" width="670" height="362" srcset="http://1ugn2l2m3z2y31d4y73c1m5w.wpengine.netdna-cdn.com/wp-content/uploads/2017/01/LM76-FDA-USDA-3A-Dairy-Slides-02.jpg 1500w, http://1ugn2l2m3z2y31d4y73c1m5w.wpengine.netdna-cdn.com/wp-content/uploads/2017/01/LM76-FDA-USDA-3A-Dairy-Slides-02-300x162.jpg 300w, http://1ugn2l2m3z2y31d4y73c1m5w.wpengine.netdna-cdn.com/wp-content/uploads/2017/01/LM76-FDA-USDA-3A-Dairy-Slides-02-768x415.jpg 768w, http://1ugn2l2m3z2y31d4y73c1m5w.wpengine.netdna-cdn.com/wp-content/uploads/2017/01/LM76-FDA-USDA-3A-Dairy-Slides-02-1024x553.jpg 1024w, http://1ugn2l2m3z2y31d4y73c1m5w.wpengine.netdna-cdn.com/wp-content/uploads/2017/01/LM76-FDA-USDA-3A-Dairy-Slides-02-740x400.jpg 740w" sizes="(max-width: 670px) 100vw, 670px" title="" alt="" /></p>
+<p>The hard Rc78 Corro-SlickÂ coating applied to the 300 series stainless steel rails is exceptionally corrosion and wear resistant.Â  The coating under a microscope appears as small extremely hard spheres which results in a reduction in the coefficient of friction.Â  The Corro-Slick<sup>TM</sup> coating which becomes an integral part of the rail is not subject to cracking or micro-fractures with deflection of the rails.</p>
+<blockquote><p>Widely used in packaging, food processing, pharmaceutical, bio-pharma, bottling, medical, and dairy industries the smooth WDX Polymer as used in Water Dog Sliders has a very low coefficient of friction, does not absorb fluids, is self lubricating, is FDA/Caustic Wash Down compliant, and prevents debris from adhere to it&#8217;s surfaces.</p></blockquote>
+<p>Water Dog sliders are available in two sizes. WD1 rail and block assemblies measures just 1.02 inches x 1.00 inches high.Â  Standard off-the-shelf rail lengths are 12, 24, 36 and 48 in., and standard stock lengths of 157 in. are available.Â  The WD1 blocks are 1.00 in. wide x 0.75 in. high x 4.00 in. long with two Stainless Steel anchors threaded for 1/4-20 screws.Â  Rails are drilled on 3.15 inch centers for easy integration into a processing system and are designed for side loads up to 179 lbs and vertical compression loads of 89 lbs.</p>
+<p>WD2 rail and block assemblies measures just 1.57 in. x 1.125 in. high.Â  Standard off-the-shelf rail lengths are 12, 24, 36 and 48 in., and custom length to 122 in. are available.Â  The WD2 blocks are 1.50 in. wide x 1.00 in. high x 5.250 in. long with four Stainless Steel anchors threaded for 1/4-20 screws.Â  Rails are drilled on 3.15 inch centers and are designed for side loads up to 258 lbs and vertical down loads of 178 lbs.</p>
+<hr />
+<p>LM76 also manufacturers a broad variety of FDA/USDA/3A-Dairy compliant bearings and shafting, in inch sizes of .25 inches to 1.5 inches, and a FDA/USDA/3A-Dairy compliant profile rail and slide system that can easily be integrated into new and existing applications.Â  The bearing options include: Self-lubricating FDA/USDA/3A-Dairy compliant PTFE composite bearings in a 304 stainless steel shell, and lower cost bearings with a ceramic coated shell and FDA/USDA/3A-Dairy compliant liner.Â  Bearings are available in closed and open configurations, and are drop-in replacements for all inch sized linear ball bearings.</p>
+<p><a rel="nofollow" href="http://www.linearmotiontips.com">Linear Motion Tips</a></p>
+<img src="http://feeds.feedburner.com/~r/LinearMotionTips/~4/rillGz1uM10" height="1" width="1" alt=""/>]]></content:encoded>
+			<wfw:commentRss>http://www.linearmotiontips.com/low-cost-fdausda3a-dairy-compliant-water-dog-linear-slides/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<feedburner:origLink>http://www.linearmotiontips.com/low-cost-fdausda3a-dairy-compliant-water-dog-linear-slides/</feedburner:origLink></item>
+		<item>
+		<title>New linear motor stages with magnetic direct drives and motion controller</title>
+		<link>http://feedproxy.google.com/~r/LinearMotionTips/~3/1_Il6zyi9X8/</link>
+		<comments>http://www.linearmotiontips.com/new-linear-motor-stages-magnetic-direct-drives-motion-controller/#respond</comments>
+		<pubDate>Wed, 18 Jan 2017 22:37:18 +0000</pubDate>
+		<dc:creator><![CDATA[Lisa Eitel]]></dc:creator>
+				<category><![CDATA[Linear motors]]></category>
+		<category><![CDATA[physikinstrumente]]></category>
+
+		<guid isPermaLink="false">http://www.linearmotiontips.com/?p=6136</guid>
+		<description><![CDATA[<p>Ultra-precise linear motor stages are well-suited for industry and research positioning and scanning applications, such as found in precision automation, micro-assembly, biotechnology, laser beam control, optics, lens testing, and photonics alignment. Motion and nanopositioning industry leader PI is expanding its PIMagÂ® series of high dynamics linear motor stages with 2 new models and a new [&#8230;]</p>
+<p><a rel="nofollow" href="http://www.linearmotiontips.com">Linear Motion Tips</a></p>
+]]></description>
+				<content:encoded><![CDATA[<p>Ultra-precise linear motor stages are well-suited for industry and research positioning and scanning applications, such as found in precision automation, micro-assembly, biotechnology, laser beam control, optics, lens testing, and photonics alignment.</p>
+<p>Motion and nanopositioning industry leader PI is expanding its PIMagÂ® series of high dynamics linear motor stages with 2 new models and a new motion controller. Stages are equipped with incremental and absolute-type linear encoders for direct position measurement and ironless 3-phase motors and single-phase voice-coil drives.<strong>Â </strong></p>
+<h4><strong>Why ironless linear motors?</strong></h4>
+<p>Ironless, non-cogging linear motors provide very smooth motion, and a high dynamic velocity range along with rapid acceleration. They are ideal for applications where high or extremely constant velocity is required, such as in optics inspection, metrology, photonics, interferometry, and semiconductor test equipment. The frictionless, zero-wear motor drives are also popular in fast automation applications, where reliability and maximum uptime are crucial.<br />
+<iframe src="https://www.youtube.com/embed/1jgp99cV1xk" width="670" height="360" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
+<p><strong><a href="http://www.pi-usa.us/blog/performance-of-linear-motor-stages-in-precision-positioning-applications/">Read a blog about the performance of direct-drive linear motor stages in precision positioning applications.</a></strong></p>
+<h4><strong>Affordable system with excellent guiding accuracy: V-551, 4 to 9 inch travel range</strong></h4>
+<p>The V-551 models come equipped with an integrated absolute-measuring, encoder providing 2 nanometers resolution. Absolute encoders donât require referencing and avoid accumulation of errors due to noise or cable issues. Precision crossed roller bearings with anti-creep cage assist guarantee excellent guiding accuracy (1Âµm straightness / flatness per 100mm).</p>
+<h4><strong>V-522 Voice-Coil Linear Stage: 5 to 20mm travel range </strong></h4>
+<p>With travel ranges of 5mm, 10mm, 20mm, and a maximum velocity of 250mm/s, the frictionless voice-coil drive of the V-52x series ensures high accuracy and long life. An integrated optical linear encoder and precision crossed roller bearings with anti-creep cage assist provide high positioning resolution and guiding accuracy. With very low moving mass and no moving cables, the voice-coil direct linear drive results in high scanning frequencies to tens of Hz while not being subject to wear and tear. The stages can also be easily stacked to make XY systems.</p>
+<h4><strong>C-891 Compact Motion Controller for 3-Phase Linear and Torque Servo Motors</strong></h4>
+<p>PIâs compact C-891 motion controller is designed for sine-commuted 3-phase linear and rotary motors, is equipped with automatic detection of the motor phase. It can run on A/B digital or analog (sin/cos) encoder signals and also incorporates BiSS interface support for absolute-measuring encoders. Get more information:Â <a href="http://www.pi-usa.us/products/precision_positioning_pi-micos/Linear_Precision_Positioning_Stages_Mc.php#High_Accuracy">V-551 â Long Travel, 3-Phase Linear Motor Stages</a>Â â¢Â <a href="http://www.pi-usa.us/products/precision_positioning_pi-micos/Linear_Precision_Positioning_Stages_Mc.php#Linear_Motor">V-522 â Compact Voice-Coil Linear Scanning Stages</a>Â â¢ andÂ <a href="http://www.pi-usa.us/products/Motor_Controllers/Motor_Controller_Precision_Positioner.php#C891">C-891 â Closed-Loop Motion Controller for 3-Phase Motors.</a></p>
+<p><a rel="nofollow" href="http://www.linearmotiontips.com">Linear Motion Tips</a></p>
+<img src="http://feeds.feedburner.com/~r/LinearMotionTips/~4/1_Il6zyi9X8" height="1" width="1" alt=""/>]]></content:encoded>
+			<wfw:commentRss>http://www.linearmotiontips.com/new-linear-motor-stages-magnetic-direct-drives-motion-controller/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<feedburner:origLink>http://www.linearmotiontips.com/new-linear-motor-stages-magnetic-direct-drives-motion-controller/</feedburner:origLink></item>
+		<item>
+		<title>New Profile Rail Linear Recirculating Bearings from Lintech</title>
+		<link>http://feedproxy.google.com/~r/LinearMotionTips/~3/2GIX1nW68SQ/</link>
+		<comments>http://www.linearmotiontips.com/new-profile-rail-linear-recirculating-bearings-lintech/#respond</comments>
+		<pubDate>Fri, 13 Jan 2017 02:14:15 +0000</pubDate>
+		<dc:creator><![CDATA[Danielle Collins]]></dc:creator>
+				<category><![CDATA[Ball + roller guides]]></category>
+		<category><![CDATA[Industry news]]></category>
+		<category><![CDATA[Slides + guides (all)]]></category>
+		<category><![CDATA[Electorate]]></category>
+		<category><![CDATA[Lintech]]></category>
+
+		<guid isPermaLink="false">http://www.linearmotiontips.com/?p=6123</guid>
+		<description><![CDATA[<p>Lintechâs MR, ARC, and HRCÂ Profile Rail Linear Recirculating BearingsÂ incorporate two or four rows of recirculating balls arranged in a 45 degree contact angle with the raceway. The rigidity under moment and torsional loads is increased by this design. Larger ball size is used to enhance the load capabilities. This design offers equal loading in all [&#8230;]</p>
+<p><a rel="nofollow" href="http://www.linearmotiontips.com">Linear Motion Tips</a></p>
+]]></description>
+				<content:encoded><![CDATA[<p>Lintechâs MR, ARC, and HRCÂ Profile Rail Linear Recirculating BearingsÂ incorporate two or four rows of recirculating balls arranged in a 45 degree contact angle with the raceway. The rigidity under moment and torsional loads is increased by this design. Larger ball size is used to enhance the load capabilities. This design offers equal loading in all directions while providing smooth motion. Features of the MR, ARC, and HRC series include:</p>
+<ul>
+<li>Size 15, 20, 25, 30, 35, 45 available in N, H and P accuracy grades</li>
+<li>V0, V1 and V2 block pre-loading options for most models</li>
+<li>Short/Normal/Long block lengths available with Normal and Flange width styles</li>
+</ul>
+<p>Lintechâs family of cost-effective short-delivery Profile Rail Linear Bearings includes:</p>
+<hr />
+<p><strong>MR Series</strong>Â â Miniature Profile Rail Linear Guides featuring:</p>
+<ul>
+<li>2 rows of re-circulating balls</li>
+<li>Equal loading in all directions</li>
+<li>Dust proof design</li>
+<li>SS bearing, rail, and balls</li>
+<li>Self-lube reservoir standard</li>
+</ul>
+<p><img class="wp-image-6127 aligncenter" src="http://www.linearmotiontips.com/wp-content/uploads/2017/01/Lintech-MR-Series.jpg" alt="profile rail" width="629" height="249" srcset="http://1ugn2l2m3z2y31d4y73c1m5w.wpengine.netdna-cdn.com/wp-content/uploads/2017/01/Lintech-MR-Series.jpg 812w, http://1ugn2l2m3z2y31d4y73c1m5w.wpengine.netdna-cdn.com/wp-content/uploads/2017/01/Lintech-MR-Series-300x119.jpg 300w, http://1ugn2l2m3z2y31d4y73c1m5w.wpengine.netdna-cdn.com/wp-content/uploads/2017/01/Lintech-MR-Series-768x305.jpg 768w" sizes="(max-width: 629px) 100vw, 629px" /></p>
+<hr />
+<p><strong>ARC Series</strong>Â â Standard Profile Rail Linear Guides featuring:</p>
+<ul>
+<li>Application Rail</li>
+<li>4 rows of re-circulating balls</li>
+<li>Equal loading in all directions</li>
+<li>Dust proof design</li>
+<li>Alloy steel bearing, rail, and balls</li>
+<li>Self-lube reservoir optional</li>
+</ul>
+<p><img class="wp-image-6124 aligncenter" src="http://www.linearmotiontips.com/wp-content/uploads/2017/01/Lintech-ARC-Series.jpg" alt="Profile Rail" width="628" height="246" srcset="http://1ugn2l2m3z2y31d4y73c1m5w.wpengine.netdna-cdn.com/wp-content/uploads/2017/01/Lintech-ARC-Series.jpg 810w, http://1ugn2l2m3z2y31d4y73c1m5w.wpengine.netdna-cdn.com/wp-content/uploads/2017/01/Lintech-ARC-Series-300x117.jpg 300w, http://1ugn2l2m3z2y31d4y73c1m5w.wpengine.netdna-cdn.com/wp-content/uploads/2017/01/Lintech-ARC-Series-768x301.jpg 768w" sizes="(max-width: 628px) 100vw, 628px" /></p>
+<hr />
+<p><strong>HRC Series</strong>&#8211; Heavy Profile Rail Linear Guides featuring:</p>
+<ul>
+<li>Heavy Load Rail</li>
+<li>4 rows of re-circulating balls</li>
+<li>Equal loading in all directions</li>
+<li>Dust proof design</li>
+<li>Alloy steel bearing, rail, and balls</li>
+<li>Self-lube reservoir optional</li>
+</ul>
+<p><img class="wp-image-6125 aligncenter" src="http://www.linearmotiontips.com/wp-content/uploads/2017/01/Lintech-HRC-Series.jpg" alt="Profile Rail" width="626" height="283" srcset="http://1ugn2l2m3z2y31d4y73c1m5w.wpengine.netdna-cdn.com/wp-content/uploads/2017/01/Lintech-HRC-Series.jpg 822w, http://1ugn2l2m3z2y31d4y73c1m5w.wpengine.netdna-cdn.com/wp-content/uploads/2017/01/Lintech-HRC-Series-300x136.jpg 300w, http://1ugn2l2m3z2y31d4y73c1m5w.wpengine.netdna-cdn.com/wp-content/uploads/2017/01/Lintech-HRC-Series-768x348.jpg 768w" sizes="(max-width: 626px) 100vw, 626px" /></p>
+<hr />
+<p><strong><a href="https://www.electromate.com" target="_blank">Electromate</a></strong></p>
+<p><a rel="nofollow" href="http://www.linearmotiontips.com">Linear Motion Tips</a></p>
+<img src="http://feeds.feedburner.com/~r/LinearMotionTips/~4/2GIX1nW68SQ" height="1" width="1" alt=""/>]]></content:encoded>
+			<wfw:commentRss>http://www.linearmotiontips.com/new-profile-rail-linear-recirculating-bearings-lintech/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<feedburner:origLink>http://www.linearmotiontips.com/new-profile-rail-linear-recirculating-bearings-lintech/</feedburner:origLink></item>
+		<item>
+		<title>How to estimate your linear actuator needs with minimal application data</title>
+		<link>http://feedproxy.google.com/~r/LinearMotionTips/~3/nwb0bY_GMe0/</link>
+		<comments>http://www.linearmotiontips.com/how-to-estimate-your-linear-actuator-needs-with-minimal-application-data/#respond</comments>
+		<pubDate>Wed, 11 Jan 2017 21:23:39 +0000</pubDate>
+		<dc:creator><![CDATA[Danielle Collins]]></dc:creator>
+				<category><![CDATA[Applications]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[Linear actuators (all)]]></category>
+
+		<guid isPermaLink="false">http://www.linearmotiontips.com/?p=6115</guid>
+		<description><![CDATA[<p>Choosing linear motion components during the developmentÂ phase of a project has been a source of frustration for designers and application engineers for decadesâespecially when it comes to complex subassemblies such as linear actuators. Consider for a moment the influence that a linear actuator has on the overall machine design. First of all, in an actuator, [&#8230;]</p>
+<p><a rel="nofollow" href="http://www.linearmotiontips.com">Linear Motion Tips</a></p>
+]]></description>
+				<content:encoded><![CDATA[<p>Choosing linear motion components during the developmentÂ phase of a project has been a source of frustration for designers and application engineers for decadesâespecially when it comes to complex subassemblies such as linear actuators. Consider for a moment the influence that a linear actuator has on the overall machine design. First of all, in an actuator, the guide and drive are coupled together, integral to the unit. So itâs imperative that Â both the guide selection and the drive selection are correct. Also, an actuator has significant influence on the overall size of the machine. For example,Â shifting the position of the load on the actuatorÂ can cause aÂ high moment load and change the requirement from a single-guide design to a dual-guide design, effectively doubling or tripling the actuatorâs overall width, and hence the size of the machine.</p>
+<div id="attachment_4835" style="width: 379px" class="wp-caption aligncenter"><img class="wp-image-4835" src="http://www.linearmotiontips.com/wp-content/uploads/2016/01/Rollon-how-to-specify-actuators-integration.jpg" alt="Rollon-how-to-specify-actuators-integration" width="369" height="294" srcset="http://1ugn2l2m3z2y31d4y73c1m5w.wpengine.netdna-cdn.com/wp-content/uploads/2016/01/Rollon-how-to-specify-actuators-integration.jpg 500w, http://1ugn2l2m3z2y31d4y73c1m5w.wpengine.netdna-cdn.com/wp-content/uploads/2016/01/Rollon-how-to-specify-actuators-integration-300x239.jpg 300w" sizes="(max-width: 369px) 100vw, 369px" /><p class="wp-caption-text">High moment loads can dictate the use of a dual-rail style linear actuator, which can be two or three times wider than a single rail design.<br /><em>Image credit: Rollon Corp.</em></p></div>
+<p>SelectingÂ an actuator based on approximations of the performance requirementsÂ is arguably more risky than choosing a linear guide or drive with minimal application info. But still, the situation is quite common where a designer or engineer needs a reasonable estimate of the systemÂ that will work best for their application, before all the application criteria are nailed down.</p>
+<p>Although a proper sizing exercise requires a thorough understanding of theÂ application requirements, a general solutionâsuitable for initial design and costing estimatesâcan usually be established based on fourÂ keyÂ criteria.</p>
+<hr />
+<h4>Load</h4>
+<p>The load that needs to be carried, and its orientationÂ relative to the system, is one of the most important criteria in choosing a linear actuator. Light loads that are mounted more-or-less directly over the bearings can be accommodated by virtually any guide technologyârecirculating profiled rail bearings, linear bushings and shafts, or even plain bearings. However, the heavier the load, and the more moment (pitch, roll, and/or yaw) that it creates, the more robust the guide mechanismÂ should be in order to ensure suitable life and minimal deflection.</p>
+<h4>Accuracy</h4>
+<p>Understanding the requirements for positioning accuracy and repeatability will helpÂ to narrow the decision regarding drive mechanism. Low-accuracy, point-to-point positioning can be accomplished with a pneumatic drive or belt and pulley system, while positioning accuracy and repeatability in the single-micron range would requireÂ a ball screw or even a linear motor. Although the load can often be accommodated by any of several drive technologies,Â repeatability is oftenÂ the deciding factor between these options.</p>
+<h4>Speed</h4>
+<p>The average and maximum velocities during the move will also help define the choice of drive mechanism. For example, a rule of thumb is that maximum speed for ball screw assemblies is 1 m/s, although there are <a href="http://www.linearmotiontips.com/long-travel-vs-high-speed-part-2/" target="_blank">ways to obtain faster speeds</a>. Belts, on the other hand, can easily travel up to 10 m/s, and maximum speed for linear motor drives is primarily limited by the supporting guide mechanism. Acceleration also plays a role, both in drive and guide selection.</p>
+<h4>Travel</h4>
+<p>While the required travel is less often a make-or-break criteria, itâs important to double-check that the chosen linear actuator type can meet the specification for stroke length. Ball and lead screws in particular have limited travel ranges. Again, a rule of thumb for screw drives is 3 meters maximum length. Although screws are available in longer lengths, as length increases, maximum speed decreases, due to the <a href="http://www.linearmotiontips.com/achieve-long-travel-high-speed-ball-screws/" target="_blank">critical speed</a> of the screw.</p>
+<div id="attachment_6117" style="width: 528px" class="wp-caption aligncenter"><img class=" wp-image-6117" src="http://www.linearmotiontips.com/wp-content/uploads/2017/01/Critical-Speed-Chart-Tolomatic-Screw.jpg" alt="linear actuator" width="518" height="316" srcset="http://1ugn2l2m3z2y31d4y73c1m5w.wpengine.netdna-cdn.com/wp-content/uploads/2017/01/Critical-Speed-Chart-Tolomatic-Screw.jpg 1837w, http://1ugn2l2m3z2y31d4y73c1m5w.wpengine.netdna-cdn.com/wp-content/uploads/2017/01/Critical-Speed-Chart-Tolomatic-Screw-300x183.jpg 300w, http://1ugn2l2m3z2y31d4y73c1m5w.wpengine.netdna-cdn.com/wp-content/uploads/2017/01/Critical-Speed-Chart-Tolomatic-Screw-768x468.jpg 768w, http://1ugn2l2m3z2y31d4y73c1m5w.wpengine.netdna-cdn.com/wp-content/uploads/2017/01/Critical-Speed-Chart-Tolomatic-Screw-1024x624.jpg 1024w" sizes="(max-width: 518px) 100vw, 518px" /><p class="wp-caption-text">For actuators with ball screw drives, maximum (critical) speed falls sharply beyond a certain stroke length.<br /><em>Image credit: Tolomatic, Inc.</em></p></div>
+<hr />
+<p>While theseÂ four criteria can provide a ballpark estimate of suitable linear actuators, in order to carry out a complete sizing and selection process, a number of application parametersÂ must be specified and considered. To help designers and engineersÂ gather the critical information needed forÂ sizing, several manufacturers have come up with simple acronyms to follow.</p>
+<p><a href="https://www.boschrexroth.com/en/us/products/product-groups/linear-motion-technology/linear-motion-systems/linear-motion-systems-overview/how-to-choose-a-module/index" target="_blank">Bosch Rexroth</a> uses the acronym <strong>LOSTPED</strong> to guide engineers in defining the application requirements for <strong>L</strong>oad, <strong>O</strong>rientation, <strong>S</strong>peed, <strong>T</strong>ravel, <strong>P</strong>recision, <strong>E</strong>nvironment, and <strong>D</strong>uty cycle.</p>
+<p>Similarly, <a href="http://www.rollon.com/US/en/news-item/620-how-to-accomplish-predictable--reliable-linear-motion/" target="_blank">Rollon</a> uses the acronym <strong>ACTUATOR</strong>, which stands for <strong>A</strong>ccuracy, <strong>C</strong>apacity, <strong>T</strong>ravel length, <strong>U</strong>sage (aka duty cycle), <strong>A</strong>mbient environment, <strong>T</strong>iming (aka time and budget), <strong>O</strong>rientation, and <strong>R</strong>ates (aka motion profile).</p>
+<p>&nbsp;</p>
+<p><em>Feature image credit: Thomson Industries</em></p>
+<p><a rel="nofollow" href="http://www.linearmotiontips.com">Linear Motion Tips</a></p>
+<img src="http://feeds.feedburner.com/~r/LinearMotionTips/~4/nwb0bY_GMe0" height="1" width="1" alt=""/>]]></content:encoded>
+			<wfw:commentRss>http://www.linearmotiontips.com/how-to-estimate-your-linear-actuator-needs-with-minimal-application-data/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<feedburner:origLink>http://www.linearmotiontips.com/how-to-estimate-your-linear-actuator-needs-with-minimal-application-data/</feedburner:origLink></item>
+		<item>
+		<title>FAQ: When do you need a ball screw?</title>
+		<link>http://feedproxy.google.com/~r/LinearMotionTips/~3/7XYE9mv7Oms/</link>
+		<comments>http://www.linearmotiontips.com/when-do-you-need-a-ball-screw/#respond</comments>
+		<pubDate>Sat, 07 Jan 2017 16:04:08 +0000</pubDate>
+		<dc:creator><![CDATA[Danielle Collins]]></dc:creator>
+				<category><![CDATA[Ball + lead + roller screws]]></category>
+		<category><![CDATA[Ball + leadscrew driven]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[Linear drives (all)]]></category>
+
+		<guid isPermaLink="false">http://www.linearmotiontips.com/?p=6109</guid>
+		<description><![CDATA[<p>The gap is narrowing between applicationsÂ that require ball screws and those that are suitable for lead screws, and it&#8217;s becomingÂ more difficult for engineers and designers to determine which technology is best for their machine. Advances in lead screw designs and materials have given them higher load capacities and better positioning accuracy, making them a soundÂ choice [&#8230;]</p>
+<p><a rel="nofollow" href="http://www.linearmotiontips.com">Linear Motion Tips</a></p>
+]]></description>
+				<content:encoded><![CDATA[<p>The gap is narrowing between applicationsÂ that require ball screws and those that are suitable for lead screws, and it&#8217;s becomingÂ more difficult for engineers and designers to determine which technology is best for their machine. Advances in lead screw designs and materials have given them higher load capacities and better positioning accuracy, making them a soundÂ choice for more than just the low-cost, low-precision applications that they were used for in the past.</p>
+<hr />
+<p><em><strong>Lead screws</strong> incorporate a screw and a plain nut (with no rolling mechanisms). They rely on the <a href="http://www.linearmotiontips.com/examining-screws-three-different-angles/" target="_blank">angle of the thread</a> and friction between the nut and the screwÂ to produce motion. The screw is typically made of either carbon steel or stainless steel, while the nut can be bronze, plastic, or polymer.Â </em></p>
+<p><em><strong>Ball screws</strong> also incorporate a screw and a nut, but in this case, the nut housesÂ recirculating ballsÂ to carry the load. This design minimizes friction and provides high efficiency.Â </em></p>
+<hr />
+<div id="attachment_4555" style="width: 350px" class="wp-caption aligncenter"><img class=" wp-image-4555" src="http://www.linearmotiontips.com/wp-content/uploads/2015/08/Ball-Screw-Cutaway.jpg" alt="ball screw" width="340" height="232" srcset="http://1ugn2l2m3z2y31d4y73c1m5w.wpengine.netdna-cdn.com/wp-content/uploads/2015/08/Ball-Screw-Cutaway.jpg 320w, http://1ugn2l2m3z2y31d4y73c1m5w.wpengine.netdna-cdn.com/wp-content/uploads/2015/08/Ball-Screw-Cutaway-300x204.jpg 300w" sizes="(max-width: 340px) 100vw, 340px" /><p class="wp-caption-text">Many of the advantages that ball screws hold over lead screws are due to the recirculating balls that support the load.<br /><em>Image credit: Bosch Rexroth</em></p></div>
+<p>Despite the growing overlap in their technical capabilities, however, there are still best-fit applications for each technology. In some cases, the application requirements simply exceed the capabilities of a lead screw, and only a ball screw will perform as needed. Below are four common application criteria that (<em>in most cases</em>) require a ball screw.</p>
+<h4>Heavy loads</h4>
+<p>With recirculating steel balls to support the load, ball screws have a higher load capacity than comparably sized lead screws with plastic or polymer nuts. Lead screws with bronze nuts can drive heavier loads, but as the load increases, so does friction. And higher friction means lower duty cycle. (<em>More on duty cycle below&#8230;</em>)</p>
+<p>Also related to load, ball screw sizing is based on the L<sub>10</sub> bearing life equation, which provides a statistically proven estimation of the screwâs life, in meters or rotations traveled. The wear characteristics of a lead screw make life nearly impossible to predict. Lead screws with plastic nuts can be selected based on their PV value, but this gives a range of pressures and velocities that the screw can withstand; not an estimation of life.</p>
+<h4>High accuracy requirements</h4>
+<p>Unlike lead screws, which have backlash between the nut and the screw, ball screws canÂ be,Â and often are, preloaded to remove backlash. This is typically done by using balls that have a slightly larger diameter than the space between the raceways of the screw and the nut. (Some lead screws are offered with nut designs that eliminate backlash, but these typically add friction and reduce efficiency.)</p>
+<p>In addition, ball screws are classified by ISO, DIN and JIS standards regarding their lead deviation, so choosing the proper accuracy class ball screw is straightforward.</p>
+<div id="attachment_6110" style="width: 603px" class="wp-caption aligncenter"><img class=" wp-image-6110" src="http://www.linearmotiontips.com/wp-content/uploads/2017/01/Permissible-Travel-Deviation-Chart.jpg" alt="ball screw" width="593" height="354" srcset="http://1ugn2l2m3z2y31d4y73c1m5w.wpengine.netdna-cdn.com/wp-content/uploads/2017/01/Permissible-Travel-Deviation-Chart.jpg 750w, http://1ugn2l2m3z2y31d4y73c1m5w.wpengine.netdna-cdn.com/wp-content/uploads/2017/01/Permissible-Travel-Deviation-Chart-300x179.jpg 300w" sizes="(max-width: 593px) 100vw, 593px" /><p class="wp-caption-text">International standards (ISO, DIN, and JIS) define the allowable travel deviation for each Â  Â  Â ball screw accuracy class.<br /><em>Image credit: Thomson Industries, Inc.</em></p></div>
+<h4>High efficiency</h4>
+<p>Rolling elements, such as the balls in a ball screw assembly, rely on point contact to support a load, whereas sliding elements, like the screw and nut of a lead screw assembly, rely on line contact. Point contact produces less friction, which gives the assembly higher efficiency. Case in point: ball screw efficiency is almost always 90 percent or better, while lead screw efficiency is normally below 50 percent. High efficiency translates to lower required motor torque, which means that a smaller motor (and related components) may be suitable for the application.</p>
+<div id="attachment_5397" style="width: 414px" class="wp-caption aligncenter"><img class="size-full wp-image-5397" src="http://www.linearmotiontips.com/wp-content/uploads/2016/05/Efficiency-Graph.jpg" alt="Lead Angle" width="404" height="365" srcset="http://1ugn2l2m3z2y31d4y73c1m5w.wpengine.netdna-cdn.com/wp-content/uploads/2016/05/Efficiency-Graph.jpg 404w, http://1ugn2l2m3z2y31d4y73c1m5w.wpengine.netdna-cdn.com/wp-content/uploads/2016/05/Efficiency-Graph-300x271.jpg 300w" sizes="(max-width: 404px) 100vw, 404px" /><p class="wp-caption-text">Lead angle vs. forward efficiency for various friction coefficients common to ball screws and lead screws.<br /><em>Image credit: THK</em></p></div>
+<h4>Demanding duty cycle</h4>
+<p>The maximum speed of both lead screws and ball screws is limited by the critical speed of the screw. However, the lower friction inherent in ball screw designs means they produce less heat, and therefore, can withstand higher duty cycles than lead screws can. In fact, duty cycle is only considered in ball screw selection when determining the amount of travel that the screw will achieve in its calculated life. On the other hand, duty cycle and heat generation must always be taken into account when selecting a lead screw.</p>
+<hr />
+<p><em>Like plain linear guides with sliding friction, lead screws with plastic nuts must adhere to their maximum <a href="http://www.linearmotiontips.com/what-is-a-pv-rating/" target="_blank">PV</a> (pressure x velocity) value.</em></p>
+<hr />
+<p>Choosing the wrong productâwhether it be an oversized ball screw or a lead screw that doesn&#8217;t provide sufficient lifeâcan lead to unnecessary costs, design rework, frequent replacement, or even failure. Here we&#8217;ve reviewed common requirements that call forÂ the use of ball screws over lead screws. To see when lead screws are the more appropriate choice, check out <a href="http://www.linearmotiontips.com/can-lead-screws-outperform-ball-screws/" target="_blank">this article</a>.</p>
+<p><em>Feature image credit: NSK Ltd.</em></p>
+<p><a rel="nofollow" href="http://www.linearmotiontips.com">Linear Motion Tips</a></p>
+<img src="http://feeds.feedburner.com/~r/LinearMotionTips/~4/7XYE9mv7Oms" height="1" width="1" alt=""/>]]></content:encoded>
+			<wfw:commentRss>http://www.linearmotiontips.com/when-do-you-need-a-ball-screw/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<feedburner:origLink>http://www.linearmotiontips.com/when-do-you-need-a-ball-screw/</feedburner:origLink></item>
+		<item>
+		<title>Latest motion applications: Electric actuators in new designs</title>
+		<link>http://feedproxy.google.com/~r/LinearMotionTips/~3/N5YJWhhxcKc/</link>
+		<comments>http://www.linearmotiontips.com/latest-motion-applications-electric-actuators-new-designs/#respond</comments>
+		<pubDate>Fri, 06 Jan 2017 20:45:30 +0000</pubDate>
+		<dc:creator><![CDATA[Lisa Eitel]]></dc:creator>
+				<category><![CDATA[Applications]]></category>
+		<category><![CDATA[Linear actuators (all)]]></category>
+		<category><![CDATA[Motion Casebook]]></category>
+
+		<guid isPermaLink="false">http://www.linearmotiontips.com/?p=6105</guid>
+		<description><![CDATA[<p>Electric actuators come in versions as small as syringes for medical applications to those big enough to drive industrial presses. These muscles of precision motion usually incorporate an electric motor and rotary-to-linear device for conversion of torque to linear force. No matter the application, electric actuators deliver repeatability thatâs indispensable for moving loads to a [&#8230;]</p>
+<p><a rel="nofollow" href="http://www.linearmotiontips.com">Linear Motion Tips</a></p>
+]]></description>
+				<content:encoded><![CDATA[<p class="p1"><span class="s1"><b>Electric actuators come in versions</b></span> as small as syringes for medical applications to those big enough to drive industrial presses. These muscles of precision motion usually incorporate an electric motor and rotary-to-linear device for conversion of torque to linear force.</p>
+<p class="p2">No matter the application, electric actuators deliver repeatability thatâs indispensable for moving loads to a given positions. Often theyâre also more controllable than fluid-power actuators, giving engineers a way to shape speed, force and acceleration of machine-axis moves.</p>
+<div id="attachment_6106" style="width: 680px" class="wp-caption aligncenter"><a href="http://www.linearmotiontips.com/wp-content/uploads/2017/01/01-LINAK-Deutz-Fahr-application-tractor-uses-actuator.jpg"><img class="size-full wp-image-6106" src="http://www.linearmotiontips.com/wp-content/uploads/2017/01/01-LINAK-Deutz-Fahr-application-tractor-uses-actuator.jpg" alt="" width="670" height="377" srcset="http://1ugn2l2m3z2y31d4y73c1m5w.wpengine.netdna-cdn.com/wp-content/uploads/2017/01/01-LINAK-Deutz-Fahr-application-tractor-uses-actuator.jpg 670w, http://1ugn2l2m3z2y31d4y73c1m5w.wpengine.netdna-cdn.com/wp-content/uploads/2017/01/01-LINAK-Deutz-Fahr-application-tractor-uses-actuator-300x169.jpg 300w" sizes="(max-width: 670px) 100vw, 670px" /></a><p class="wp-caption-text">Deutz-Fahr 9 Series tractors now incorporate electric actuators to operate electronic hood mechanisms. These make engine access less of a hassle for farmers. Electric actuators from LINAK replace gas springs on tractor hoods. This eliminates loss of force and the need for auxiliary safety mechanisms.</p></div>
+<p class="p2">Another benefit for applications that need multiple outputs over time is that most electric actuators are programmable so adapt to changing conditions.</p>
+<p class="p2">Applications with similar dynamics often make use of the same actuator types â those that pair motors with ballscrews or leadscrews; incorporate brushless dc motors and belt-and-pulley setups; take a rod-style morphology; use motors with planetary roller screws; or integrate built-in guides.</p>
+<p class="p2">Electric actuators running closed-loop or with a micro-stepping motor can match force and speed output commands best with feedback to overcome most of the mechanical limitations of rotary-to-linear devices.</p>
+<div id="attachment_6107" style="width: 680px" class="wp-caption aligncenter"><a href="http://www.linearmotiontips.com/wp-content/uploads/2017/01/03-Linak-LA36-used-for-tractor-hood-lift.jpg"><img class="size-full wp-image-6107" src="http://www.linearmotiontips.com/wp-content/uploads/2017/01/03-Linak-LA36-used-for-tractor-hood-lift.jpg" alt="" width="670" height="670" srcset="http://1ugn2l2m3z2y31d4y73c1m5w.wpengine.netdna-cdn.com/wp-content/uploads/2017/01/03-Linak-LA36-used-for-tractor-hood-lift.jpg 670w, http://1ugn2l2m3z2y31d4y73c1m5w.wpengine.netdna-cdn.com/wp-content/uploads/2017/01/03-Linak-LA36-used-for-tractor-hood-lift-150x150.jpg 150w, http://1ugn2l2m3z2y31d4y73c1m5w.wpengine.netdna-cdn.com/wp-content/uploads/2017/01/03-Linak-LA36-used-for-tractor-hood-lift-300x300.jpg 300w" sizes="(max-width: 670px) 100vw, 670px" /></a><p class="wp-caption-text">This is the LINAK LA36 that goes into the Deutz-Fahr hood lifts. The actuator comes with a 12, 24 or 36-Vdc permanent-magnet motor to output 500 to 10,000 N depending on gear ratio. Speed is to 160 mm/sec partly depending on load.</p></div>
+<p class="p2">Some application tips: Establish the designâs power draw and determine whether the machine will draw power continuously or intermittently or both, as that ultimately determines actuator size and type. Remember that overly large electric actuators are often less responsive than well-sized units.</p>
+<p class="p2">That said, appropriate safety factors ensure that electric actuators run coolly. Plus, lighter loads on the mechanical components can extend life. Halving load on a leadscrew can extend its life eightfold, for example. Also account for where the actuator will operate. Will it need to withstand exposure to dirt, chemicals and liquids? If so, its O-rings and seals must be made of materials to withstand application contaminants. Another tip: Analyze the final installation point to ensure that the electric actuator can handle side, radial and axial loads.</p>
+<h4 class="p4"><b>Getting under hood just got easier thanks to linear actuators</b></h4>
+<p class="p1">Engineers at DEUTZFAHR no longer use simple tilt mechanisms and gas springs on their 150-kg vehicle hoods, because these designs are impractical.</p>
+<p class="p2">Now they use kinematics driven with actuators from LINAK. These donât tilt the hood, but raise and lower it parallel to the vehicle. More specifically, the kinematics run off a LINAK LA36 actuator that can move up to one ton over stroke lengths from 100 to 999 mm. The actuator also withstands the high heat associated with sitting right above the engine. Thatâs another reason why the OEM picked the LA36.</p>
+<p class="p2">Farmers who have tried the technology on new tractors praise it. The actuator gives them electric hood adjustment so they can easily access all areas in the engine compartment.</p>
+<p class="p2">One caveat: The solution is more complex than basic mechanical offerings, so is harder to service during maintenance. To prevent this from being a problem, the LA36 is solid and rugged to operate under tough and harsh conditions, with a die-cast aluminum housing and quality components. So the LA36 withstands cold, heat, and high temperature fluctuations of being so close to an engine in a vehicle that operates outside. It also withstands splashes and moisture from precipitation and chemicals. In the static state the LA36 is rated to IP69K and in operation to IP66.</p>
+<p class="p2">Electrification in agricultural machinery makes this a growth industry for LINAK, according to Johannes Gruber, product manager at DEUTZFAHR. The sheer size of off-highway machines and demand for ergonomics and user-friendliness will only increase demand for electric adjustments in the future.</p>
+<p class="p2">âElectrification with attachments and tractors will increase in coming years,â Gruber added.</p>
+<h4 class="p4"><b>Matching actuators to design demands</b></h4>
+<p class="p1">Electric actuators for automation must deliver set levels of speed and force requirements. Here, better feedback and controls can increase responsiveness to overcome any mechanical limitations while boosting output-motion accuracy. OEMs and end users can pick from myriad actuators to get needed accuracy for everything from lumber-processing machines to those medical applications that need accuracy to a few micrometers. Electric-motor actuators that use belts and acme screws for rotary-to-linear conversion of motion abound. That said, the majority of general motion applications (including positioning tables, workpiece-pivoting stations, robotic end effectors and machining axes) make use of actuators that integrate ballscrews. With precision of down to micrometers, these satisfy designs that need thrust to thousands of pounds-force or linear positioning speeds to several feet per second.</p>
+<p class="p2">Elsewhere, on injection-molding applications, packaging machines, presses and other setups that need high thrust, actuators that pair electric motor with roller screw (sporting a nut loaded with roller bearings that work like planetary gears around the screw) are a newer and increasingly common option. Stroke is about 2 m with acceleration to a few <i>g</i>s.</p>
+<p><a rel="nofollow" href="http://www.linearmotiontips.com">Linear Motion Tips</a></p>
+<img src="http://feeds.feedburner.com/~r/LinearMotionTips/~4/N5YJWhhxcKc" height="1" width="1" alt=""/>]]></content:encoded>
+			<wfw:commentRss>http://www.linearmotiontips.com/latest-motion-applications-electric-actuators-new-designs/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<feedburner:origLink>http://www.linearmotiontips.com/latest-motion-applications-electric-actuators-new-designs/</feedburner:origLink></item>
+		<item>
+		<title>The top 5.5 linear motion stories of 2016</title>
+		<link>http://feedproxy.google.com/~r/LinearMotionTips/~3/Jwse8gnK9sw/</link>
+		<comments>http://www.linearmotiontips.com/top-5-5-linear-motion-stories-2016/#respond</comments>
+		<pubDate>Thu, 29 Dec 2016 12:45:24 +0000</pubDate>
+		<dc:creator><![CDATA[Danielle Collins]]></dc:creator>
+				<category><![CDATA[Applications]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[Linear actuators (all)]]></category>
+		<category><![CDATA[Linear drives (all)]]></category>
+		<category><![CDATA[Linear motors]]></category>
+		<category><![CDATA[Slides + guides (all)]]></category>
+
+		<guid isPermaLink="false">http://www.linearmotiontips.com/?p=6098</guid>
+		<description><![CDATA[<p>As a writer and editor, it&#8217;s always fun (and sometimes surprising)Â to look back at the end of the year and see what articles our readers were most interested in. And for you, our readers, it offers the chance to take a quick look at what are, at least to some of your peers, important topics [&#8230;]</p>
+<p><a rel="nofollow" href="http://www.linearmotiontips.com">Linear Motion Tips</a></p>
+]]></description>
+				<content:encoded><![CDATA[<p>As a writer and editor, it&#8217;s always fun (and sometimes surprising)Â to look back at the end of the year and see what articles our readers were most interested in. And for you, our readers, it offers the chance to take a quick look at what are, at least to some of your peers, important topics in the world of linear motion. With this in mind, here are the top 5 (and one bonus!) <a href="http://www.linearmotiontips.com" target="_blank">LinearMotionTips.com</a> articles of 2016.</p>
+<hr />
+<h2>1. How to calculate motor drive torque for ball screws</h2>
+<hr />
+<p><img class="alignright wp-image-5374" src="http://www.linearmotiontips.com/wp-content/uploads/2016/05/BWC-xla15.jpg" alt="" width="251" height="174" srcset="http://1ugn2l2m3z2y31d4y73c1m5w.wpengine.netdna-cdn.com/wp-content/uploads/2016/05/BWC-xla15.jpg 320w, http://1ugn2l2m3z2y31d4y73c1m5w.wpengine.netdna-cdn.com/wp-content/uploads/2016/05/BWC-xla15-300x207.jpg 300w" sizes="(max-width: 251px) 100vw, 251px" />When sizing a motor, one of the most important factors is the required torque. In general, motor torque-speed curves outline two primary areas of permissible torque: continuous and intermittent. Intermittent motor torque is allowed only for a short time (specified by the manufacturer) and in most cases is the torque required during acceleration.Â A motorâs continuous torque is determined by calculating theÂ <a href="http://www.linearmotiontips.com/why-rms-torque-is-important-for-motor-sizing/" target="_blank">root mean square</a>Â of all the torques that occur throughout the application, which typically includes torque during acceleration, torque during constant speed, and torque during deceleration.</p>
+<p><a href="http://www.linearmotiontips.com/calculate-motor-drive-torque-ball-screws/" target="_blank"><em>Read the full article here.</em></a></p>
+<p><a rel="nofollow" href="http://www.linearmotiontips.com">Linear Motion Tips</a></p>
+<img src="http://feeds.feedburner.com/~r/LinearMotionTips/~4/Jwse8gnK9sw" height="1" width="1" alt=""/>]]></content:encoded>
+			<wfw:commentRss>http://www.linearmotiontips.com/top-5-5-linear-motion-stories-2016/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<feedburner:origLink>http://www.linearmotiontips.com/top-5-5-linear-motion-stories-2016/</feedburner:origLink></item>
+	</channel>
+</rss>

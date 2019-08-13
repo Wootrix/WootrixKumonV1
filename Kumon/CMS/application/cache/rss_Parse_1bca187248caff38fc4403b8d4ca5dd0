@@ -1,0 +1,932 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Welding Assembly</title>
+    <description>
+      <![CDATA[Articles about the various technologies for welding, soldering and brazing metal and plastic parts.]]>
+    </description>
+    <link>http://www.assemblymag.com/rss</link>
+    <language>en-us</language>
+    <item>
+      <title>Resistance Spot Riveting</title>
+      <author>sprovierij@bnpmedia.com (John Sprovieri)</author>
+      <description>
+        <![CDATA[<p>The need to reduce vehicle weight has spawned myriad new technologies for assembling aluminum, high-strength steel and other materials. These new technologies include self-piercing rivets, flow-drilling screws and friction-stir spot welding.</p>
+]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93677</guid>
+      <pubDate>Thu, 05 Jan 2017 00:00:00 -0500</pubDate>
+      <link>http://www.assemblymag.com/articles/93677-resistance-spot-riveting</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Issues/2017/January/rivets/asb0117riv2.jpg?1483641156" type="image/jpeg" length="39646"/>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2017/January/rivets/asb0117riv2.jpg?1483641156" type="image/jpeg" fileSize="39646">
+        <media:title type="plain">2</media:title>
+        <media:description type="plain">To create a joint, two or more sheets are placed between the electrodes of a standard spot welding system. The upper sheets have holes for the rivet. The bottom sheet does not. At the start of the cycle, a feeder delivers a rivet beneath the upper electrode. Next, the electrodes apply force and current to the rivet and bottom sheet, creating a weld. Photo courtesy Arconic Fastening Systems and Rings
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2017/January/rivets/asb0117riv1.jpg?1483641225" type="image/jpeg" fileSize="76591">
+        <media:title type="plain">1</media:title>
+        <media:description type="plain">The RSR rivet is a small, mushroom-shaped fastener made from low-carbon steel or aluminum. Photo courtesy Arconic Fastening Systems and Rings
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2017/January/rivets/asb0117riv3.jpg?1483641255" type="image/jpeg" fileSize="34063">
+        <media:title type="plain">3</media:title>
+        <media:description type="plain">The rivet head is designed to match the shape of existing electrodes and to center the fastener on the weld spot. Photo courtesy Arconic Fastening Systems and Rings
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2017/January/rivets/asb0117riv4.jpg?1483641304" type="image/jpeg" fileSize="37366">
+        <media:title type="plain">4</media:title>
+        <media:description type="plain">In RSR, the weld is between the fastener and the bottom sheet. The top sheets are not electrically involved. Rather, they are mechanically captured by the head of the fastener. Photo courtesy Arconic Fastening Systems and Rings
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2017/January/rivets/asb0117riv5.jpg?1483641338" type="image/jpeg" fileSize="51792">
+        <media:title type="plain">5</media:title>
+        <media:description type="plain">The RSR process exceeds the strength of competing technologies for current and future automotive materials, such as high-strength aluminum and ultra-high-strength steel. Photo courtesy Arconic Fastening Systems and Rings
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2017/January/rivets/asb0117riv6.jpg?1483641376" type="image/jpeg" fileSize="56228">
+        <media:title type="plain">6</media:title>
+        <media:description type="plain">The RSR process was developed as a way to join mixed-material assemblies in auto body applications, such as aluminum to steel. This graph shows the tensile strengths created when a steel rivet is used to attach various aluminum alloys to a steel sheet. Photo courtesy Arconic Fastening Systems and Rings
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2017/January/rivets/asb0117riv7.jpg?1483641410" type="image/jpeg" fileSize="52722">
+        <media:title type="plain">7</media:title>
+        <media:description type="plain">RSR works with existing spot welding equipment, enabling OEMs to weld or rivet joints without revamping their body lines. Photo courtesy Arconic Fastening Systems and Rings
+</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>Infrared Cameras Improve Quality of Plastic Welding Process</title>
+      <author>camilloj@bnpmedia.com (Jim Camillo)</author>
+      <description>
+        <![CDATA[<p>For more than 30 years, manufacturers have used infrared welding (IW) to assemble plastic components that are large, made of challenging materials or have high strength and hermetic requirements.</p>
+]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93644</guid>
+      <pubDate>Thu, 01 Dec 2016 00:00:00 -0500</pubDate>
+      <link>http://www.assemblymag.com/articles/93644-infrared-cameras-improve-quality-of-plastic-welding-process</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Issues/2016/December/AIA/asb1216AIA1.jpg?1480522129" type="image/jpeg" length="105262"/>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/December/AIA/asb1216AIA1.jpg?1480522129" type="image/jpeg" fileSize="105262">
+        <media:title type="plain">1</media:title>
+        <media:description type="plain">About four years ago, Yanfeng Automotive Interiors installed an infrared welding machine at its Louisville, KY, facility to assemble plastic parts of the defroster grille for the Ford Escape. Photo courtesy Ford Motor Co.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/December/AIA/asb1216AIA2.jpg?1480522235" type="image/jpeg" fileSize="82316">
+        <media:title type="plain">2</media:title>
+        <media:description type="plain">Four FLIR A315 thermal imaging cameras monitor 40 surface regions on the plastic parts after the heat cycle. Built-in analysis software determines if part temperature falls within the upper and lower control limits, and immediately notifies the welding machine PLC. Photo courtesy Flir
+</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>New Machine Rolls, Welds Stainless Steel Drums for Laundry Appliances</title>
+      <description>
+        <![CDATA[COLDWATER, OHâSystems integrator Coldwater Machine Co. has developed a new machine that automatically rolls and welds stainless steel drums and baskets for washers and dryers.]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93633</guid>
+      <pubDate>Tue, 15 Nov 2016 00:00:00 -0500</pubDate>
+      <link>http://www.assemblymag.com/articles/93633-new-machine-rolls-welds-stainless-steel-drums-for-laundry-appliances</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Default_Images/responsive/ASB_default_latestnews.jpg?1479231322" type="image/jpeg" length="166380"/>
+    </item>
+    <item>
+      <title>Truck-body welding gets lift from tandem robots</title>
+      <author>camilloj@bnpmedia.com (Jim Camillo)</author>
+      <description>
+        <![CDATA[<p>Manufacturers with long histories and famous founders (e.g., John Deere, Henry Ford, F.L. Maytag) are numerous throughout the world.</p>
+]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93574</guid>
+      <pubDate>Sat, 01 Oct 2016 00:00:00 -0400</pubDate>
+      <link>http://www.assemblymag.com/articles/93574-truck-body-welding-gets-lift-from-tandem-robots</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Issues/2016/October/AIA/asb1016AIA1.jpg?1475255157" type="image/jpeg" length="232409"/>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/October/AIA/asb1016AIA1.jpg?1475255157" type="image/jpeg" fileSize="232409">
+        <media:title type="plain">1</media:title>
+        <media:description type="plain">Last year, Meiller Aufzugt&amp;uuml;ren GmbH installed tandem QIROX QRC-350-E robots at its plant in Slan&amp;yacute;, Czech Republic. The robots weld steel side walls for tipper bodies. Photo courtesy Carl Cloos Schweisstechnik GmbH
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/October/AIA/asb1016AIA2.jpg?1475255237" type="image/jpeg" fileSize="133491">
+        <media:title type="plain">2</media:title>
+        <media:description type="plain">Meiller Aufzugt&amp;uuml;ren GmbH is a market leader in the design and manufacture of tipper bodies (shown) and trailers, as well as lift doors. Photo courtesy Carl Cloos Schweisstechnik GmbH
+</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>New Technology for Robotic Welding</title>
+      <author>sprovierij@bnpmedia.com (John Sprovieri)</author>
+      <description>
+        <![CDATA[<p>
+	Welding of one sort or another has been the No. 1 application for industrial robots almost since the technology was invented.</p>
+]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93555</guid>
+      <pubDate>Thu, 08 Sep 2016 02:00:00 -0400</pubDate>
+      <link>http://www.assemblymag.com/articles/93555-new-technology-for-robotic-welding</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Issues/2016/september/welding/asb0916weld1.jpg?1473349151" type="image/jpeg" length="146892"/>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/september/welding/asb0916weld1.jpg?1473349151" type="image/jpeg" fileSize="146892">
+        <media:title type="plain">1</media:title>
+        <media:description type="plain">
+	Driven by demand from the automotive industry, laser welding is one of the fastest growing applications for six-axis robots. Photo courtesy ABB Robotics
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/september/welding/asb0916weld2.jpg?1473349357" type="image/jpeg" fileSize="130796">
+        <media:title type="plain">2</media:title>
+        <media:description type="plain">
+	The dress package for laser welding requires some care to set up. Bend radius restrictions must be adhered to, and the cables can&amp;rsquo;t take shock. Photo courtesy Comau LLC
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/september/welding/asb0916weld3.jpg?1473349388" type="image/jpeg" fileSize="56576">
+        <media:title type="plain">3</media:title>
+        <media:description type="plain">
+	Whether the robot will be used for GTAW or GMAW, experts recommend a machine specifically designed for the task. Photo courtesy FANUC America Corp.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/september/welding/asb0916weld4.jpg?1473349426" type="image/jpeg" fileSize="116076">
+        <media:title type="plain">4</media:title>
+        <media:description type="plain">
+	ABB has recently added the TIP TIG process to its platform of robotic welding technologies. Instead of supplying the filler wire into the weld pool at a continuous rate, the feeder agitates the wire back and forth. Electrical current, supplied by a secondary power source, is also applied to the filler wire. Photo courtesy ABB Robotics
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/september/welding/asb0916weld5.jpg?1473349455" type="image/jpeg" fileSize="220493">
+        <media:title type="plain">5</media:title>
+        <media:description type="plain">
+	With fixtureless welding, the base part is located in a simple fixture. Then, a vision-guided, material handling robot picks up the part to be welded, sets it in place on the base part, and holds it there while an arc welding robot does its task. Photo courtesy FANUC America Corp.
+</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>Welding Incompatible Thermoplastics</title>
+      <description>
+        <![CDATA[<p>
+	Ideally, every component in a plastic assembly would be made from the same material. However, cost, functional and aesthetic requirements often dictate that a mix of materials be used.</p>]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93558</guid>
+      <pubDate>Thu, 08 Sep 2016 00:00:00 -0400</pubDate>
+      <link>http://www.assemblymag.com/articles/93558-welding-incompatible-thermoplastics</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Issues/2016/september/plastics/asb0916plastic6.jpg?1473359387" type="image/jpeg" length="232457"/>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/september/plastics/asb0916plastic1.jpg?1473359052" type="image/jpeg" fileSize="35057">
+        <media:title type="plain">1</media:title>
+        <media:description type="plain">
+	The maleic anhydride groups are the most commonly used coupling agents. The maleic anhydride is grafted on the PE and the pendent anhydride groups then react with the polyamide amine end-groups. This illustration shows the reaction of a succinic anhydride group in the modifie
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/september/plastics/asb0916plastic2.jpg?1473359241" type="image/jpeg" fileSize="74933">
+        <media:title type="plain">2</media:title>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/september/plastics/asb0916plastic3.jpg?1473359199" type="image/jpeg" fileSize="73629">
+        <media:title type="plain">3</media:title>
+        <media:description type="plain">
+	This graph summarizes the results for yield stress and strain. Values for the base materials are plotted on the right to serve as a comparison. The yield stress of the polymer blend decreases with increasing HDPE content, while the yield strain remains constant at around 14 percent and is higher than that of the base materials.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/september/plastics/asb0916plastic4.jpg?1473359293" type="image/jpeg" fileSize="59665">
+        <media:title type="plain">4</media:title>
+        <media:description type="plain">
+	This graph illustrates the tensile strength achieved when the authors used hot-plate welding to join their polymer blends to HDPE and PA12. The gray bars show the results obtained with their original optimized settings. The dark bars show the results when they used two separate heating tools to tailor the heat to each part.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/september/plastics/asb0916plastic5.jpg?1473359324" type="image/jpeg" fileSize="69215">
+        <media:title type="plain">5</media:title>
+        <media:description type="plain">
+	This graph illustrates the melt viscosity of the polymer blends and base materials at varying temperatures. The viscosity of the blends is higher than the viscosity of the base materials, due to the higher molar mass of the blends.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/september/plastics/asb0916plastic6.jpg?1473359387" type="image/jpeg" fileSize="232457">
+        <media:title type="plain">6</media:title>
+        <media:description type="plain">
+	The authors used hot-plate welding to join a PA12 part to a coupon made from a blend of 70 percent PA12 and 30 percent HDPE. Surprisingly, the welding seam contained several small micro-cracks.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/september/plastics/asb0916plastic7.jpg?1473359428" type="image/jpeg" fileSize="55325">
+        <media:title type="plain">7</media:title>
+        <media:description type="plain">
+	This graph compares the tensile strength achieved with hot-plate welding (grey bars) and diffusion welding (dark bars).
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/september/plastics/asb0916plastic8.jpg?1473359467" type="image/jpeg" fileSize="201140">
+        <media:title type="plain">8</media:title>
+        <media:description type="plain">
+	This photo shows fracture patterns after tensile testing of parts joined with diffusion welding. For joints with blend 1 (70 percent PA12), the fracture path goes through the base material, and the fracture starts in the most fragile polymer part&amp;mdash;the blend.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/september/plastics/asb0916plastics_chart1.jpg?1473359497" type="image/jpeg" fileSize="67353">
+        <media:title type="plain">t1</media:title>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/september/plastics/asb0916plastics_chart2.jpg?1473359526" type="image/jpeg" fileSize="64824">
+        <media:title type="plain">t2</media:title>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/september/plastics/asb0916plastics_chart3.jpg?1473359547" type="image/jpeg" fileSize="80961">
+        <media:title type="plain">t3</media:title>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/september/plastics/asb0916plastics_chart4.jpg?1473359566" type="image/jpeg" fileSize="85858">
+        <media:title type="plain">t4</media:title>
+      </media:content>
+    </item>
+    <item>
+      <title>Lasers Will Play Greater Role in Auto Body Assembly Lines</title>
+      <description>
+        <![CDATA[<p>
+	TRAVERSE CITY, MI&mdash;Robotic laser welding will play a greater role in body-in-white assembly lines, as automakers increase their use of lightweight materials, according to Peter Busuttil, director of technology for KUKA Systems North America.</p>
+]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93514</guid>
+      <pubDate>Mon, 08 Aug 2016 00:00:00 -0400</pubDate>
+      <link>http://www.assemblymag.com/articles/93514-lasers-will-play-greater-role-in-auto-body-assembly-lines</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Default_Images/responsive/ASB_default_latestnews.jpg?1479231322" type="image/jpeg" length="166380"/>
+    </item>
+    <item>
+      <title>New GM Welding Process Joins Steel to Aluminum</title>
+      <description>
+        <![CDATA[<p>
+	WARREN, MI&mdash;General Motors engineers have developed a technique to join steel to aluminum with resistance spot welding.</p>]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93408</guid>
+      <pubDate>Tue, 24 May 2016 12:49:00 -0400</pubDate>
+      <link>http://www.assemblymag.com/articles/93408-new-gm-welding-process-joins-steel-to-aluminum</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Default_Images/responsive/ASB_default_latestnews.jpg?1479231322" type="image/jpeg" length="166380"/>
+    </item>
+    <item>
+      <title>Boeing Has a Tradition of Assembly Line Innovation</title>
+      <author>webera@bnpmedia.com (Austin Weber)</author>
+      <description>
+        <![CDATA[<p>
+	When it comes to developing new production tools and assembly processes, it&rsquo;s hard to beat Boeing. The company has always been ahead of the curve implementing new technology on its assembly lines.</p>]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93362</guid>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      <link>http://www.assemblymag.com/articles/93362-boeing-has-a-tradition-of-assembly-line-innovation</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Issues/2016/April/Boeing/innovation/asb0416boeing-innovation1.jpg?1461179826" type="image/jpeg" length="230508"/>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/April/Boeing/innovation/asb0416boeing-innovation1.jpg?1461179826" type="image/jpeg" fileSize="230508">
+        <media:title type="plain">innovation 1</media:title>
+        <media:description type="plain">
+	Boeing assembled 25 Model40A mail planes in the mid-1920s. It was the company&amp;rsquo;s first successful commercial aircraft. Photo courtesy Boeing
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/April/Boeing/innovation/asb0416boeing-innovation2.jpg?1461179892" type="image/jpeg" fileSize="188025">
+        <media:title type="plain">innovation 2</media:title>
+        <media:description type="plain">
+	Boeing engineers used state-ofthe- art tools to mass-produce the B-29 Superfortress bomber at the end of World War II. Photo courtesy Boeing
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/April/Boeing/innovation/asb0416boeing-innovation4.jpg?1461179930" type="image/jpeg" fileSize="146567">
+        <media:title type="plain">innovation 4</media:title>
+        <media:description type="plain">
+	In the days before computers, Boeing engineers used models like this to lay out factories. Photo courtesy Boeing
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/April/Boeing/innovation/asb0416boeing-innovation5.jpg?1461179967" type="image/jpeg" fileSize="184241">
+        <media:title type="plain">innovation 5</media:title>
+        <media:description type="plain">
+	To assemble the mammoth Model 314 flying boat in the late 1930s, Boeing engineers had to develop special jigs, fixtures, platforms and scaffolds. Photo courtesy Boeing
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/April/Boeing/innovation/asb0416boeing-innovation6.jpg?1461180003" type="image/jpeg" fileSize="206358">
+        <media:title type="plain">innovation 6</media:title>
+        <media:description type="plain">
+	The groundbreaking 707 forced Boeing engineers to develop new ways to assemble wiring harnesses. Photo courtesy Boeing
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/April/Boeing/innovation/asb0416boeing-innovation8.jpg?1461180037" type="image/jpeg" fileSize="49448">
+        <media:title type="plain">innovation 8</media:title>
+        <media:description type="plain">
+	Advanced spot welding equipment was used to massproduce B-17 bombers during World War II. Photo courtesy Boeing
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/April/Boeing/innovation/asb0416boeing-innovation9.jpg?1461180075" type="image/jpeg" fileSize="177875">
+        <media:title type="plain">innovation 9</media:title>
+        <media:description type="plain">
+	For decades, riveting has been the heart and soul of aircraft assembly at Boeing. Photo courtesy Boeing
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/April/Boeing/innovation/asb0416boeing-innovation10.jpg?1461180115" type="image/jpeg" fileSize="224837">
+        <media:title type="plain">innovation 10</media:title>
+        <media:description type="plain">
+	Boeing built 56 copies of the Model 377 Stratocruiser between 1947 and 1950. The long-range, double-deck aircraft set a new standard for luxurious air travel. Photo courtesy Boeing
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/April/Boeing/innovation/asb0416boeing-innovation11.jpg?1461180151" type="image/jpeg" fileSize="236557">
+        <media:title type="plain">innovation 11</media:title>
+        <media:description type="plain">
+	In the 1920s, wood, wire and cloth were a common site in the Boeing and Douglas factories. Photo courtesy Boeing
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/April/Boeing/innovation/asb0416boeing-innovation12.jpg?1461180191" type="image/jpeg" fileSize="139566">
+        <media:title type="plain">innovation 12</media:title>
+        <media:description type="plain">
+	Between 1957 and 1964, Boeing built 700 Bomarc supersonic, longrange anti-aircraft missiles. The company also designed and built underground launch facilities throughout the United States. Photo courtesy Boeing
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/April/Boeing/innovation/asb0416boeing-innovation13.jpg?1461180230" type="image/jpeg" fileSize="125141">
+        <media:title type="plain">innovation 13</media:title>
+        <media:description type="plain">
+	Boeing assemblers used new tools and techniques to assemble jet-age products, such as the 707, in the 1950s and 1960s. Photo courtesy Boeing
+</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>Friction Stir Spot Welding</title>
+      <author>sprovierij@bnpmedia.com (John Sprovieri)</author>
+      <description>
+        <![CDATA[<p>
+	Friction stir spot welding has many advantages compared with riveting or resistance spot welding.</p>
+]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93337</guid>
+      <pubDate>Thu, 07 Apr 2016 00:00:00 -0400</pubDate>
+      <link>http://www.assemblymag.com/articles/93337-friction-stir-spot-welding</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Issues/2016/April/stir/asb0416stir5.jpg?1460036320" type="image/jpeg" length="146115"/>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/April/stir/asb0416stir5.jpg?1460036320" type="image/jpeg" fileSize="146115">
+        <media:title type="plain">stir 5</media:title>
+        <media:description type="plain">
+	To prevent denting the materials during FSSW, support is needed on the back side of the joint. Photo courtesy Mazda Motor Corp.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/April/stir/asb0416stir1.jpg?1460036409" type="image/jpeg" fileSize="152140">
+        <media:title type="plain">stir 1</media:title>
+        <media:description type="plain">
+	Both FSSW and refill FSSW can be performed with a six-axis articulated robot. Photo courtesy Coldwater Machine Co.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/April/stir/asb0416stir2.jpg?1460036446" type="image/jpeg" fileSize="127318">
+        <media:title type="plain">stir 2</media:title>
+        <media:description type="plain">
+	Refill FSSW produces a flat, smooth surface across the top of the sheet. Photo courtesy Coldwater Machine Co.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/April/stir/asb0416stir3.jpg?1460036487" type="image/jpeg" fileSize="53514">
+        <media:title type="plain">stir 3</media:title>
+        <media:description type="plain">
+	At the start of the refill FSSW process, all three tools apply downward force to the sheets. The pin and sleeve heat the material and begin to penetrate the top sheet. Next, the pin retracts slightly, while the sleeve continues downward into the bottom sheet. At a preset distance, the sleeve reverses direction and the pin moves down again. When both the sleeve and pin are flush with the work surface, rotation stops and the tool is held in place to allow the joint to cool. Illustration courtesy Coldwater Machine Co.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/April/stir/asb0416stir4.jpg?1460036526" type="image/jpeg" fileSize="275768">
+        <media:title type="plain">stir 4</media:title>
+        <media:description type="plain">
+	FSSW has been around since 2003. The process was developed by Mazda Motor Corp. and Kawasaki Heavy Industries. Photo courtesy Mazda Motor Corp.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/April/stir/asb0416stir6.jpg?1460036570" type="image/jpeg" fileSize="208758">
+        <media:title type="plain">stir 6</media:title>
+        <media:description type="plain">
+	As automakers expand the use of aluminum in vehicles, interest in FSSW is increasing. Photo courtesy Mazda Motor Corp.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/April/stir/asb0416stir7.jpg?1460036604" type="image/jpeg" fileSize="79968">
+        <media:title type="plain">stir 7</media:title>
+        <media:description type="plain">
+	The FSSW process leaves a circular indentation on the top side of the joint. The back surface is unblemished. Photo courtesy Mazda Motor Corp.
+</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>How To Use Structural Adhesives to Replace Welding and Mechanical Fasteners</title>
+      <description>
+        <![CDATA[<p>
+	In numerous industries and applications, high-performing structural adhesives are replacing standard joining methods such as welding and the use of mechanical fasteners like rivets and bolts.</p>]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/92741</guid>
+      <pubDate>Mon, 07 Mar 2016 00:00:00 -0500</pubDate>
+      <link>http://www.assemblymag.com/articles/92741-how-to-use-structural-adhesives-to-replace-welding-and-mechanical-fasteners</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Issues/2015/March/HowTo/asb0315HTG_hernon1.jpg?1425918552" type="image/jpeg" length="11700"/>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/March/HowTo/asb0315HTG_hernon11.jpg?1425918626" type="image/jpeg" fileSize="15871">
+        <media:title type="plain">hernon slide 1</media:title>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/March/HowTo/asb0315HTG_hernon3.jpg?1425918643" type="image/jpeg" fileSize="51260">
+        <media:title type="plain">hernon slide 2</media:title>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/March/HowTo/asb0315HTG_HernonLogo.jpg?1425918715" type="image/jpeg" fileSize="58996">
+        <media:title type="plain">hernon slide 3</media:title>
+      </media:content>
+    </item>
+    <item>
+      <title>Sonotrode Design Is Key to Success of Ultrasonic Welding of Automotive Assemblies</title>
+      <description>
+        <![CDATA[<p>
+	Sonotrode design is critical to a successful ultrasonic plastic welding application.</p>]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93273</guid>
+      <pubDate>Tue, 01 Mar 2016 00:00:00 -0500</pubDate>
+      <link>http://www.assemblymag.com/articles/93273-sonotrode-design-is-key-to-success-of-ultrasonic-welding-of-automotive-assemblies</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Issues/2016/March/horn/asb0316horn1.jpg?1456513878" type="image/jpeg" length="122686"/>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/March/horn/asb0316horn1.jpg?1456513878" type="image/jpeg" fileSize="122686">
+        <media:title type="plain">horn 1</media:title>
+        <media:description type="plain">
+	Herrmann was tasked with welding aluminum-coated insulation panels for an engine compartment. Photo courtesy Herrmann Ultrasonics Inc.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/March/horn/asb0316horn2.jpg?1456513655" type="image/jpeg" fileSize="134337">
+        <media:title type="plain">horn 2</media:title>
+        <media:description type="plain">
+	A six-axis robot uses an ultrasonic spot-welding tool to assemble plastic insulation panels for an engine compartment. Photo courtesy Herrmann Ultrasonics Inc.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/March/horn/asb0316horn3.jpg?1456513681" type="image/jpeg" fileSize="58534">
+        <media:title type="plain">horn 3</media:title>
+        <media:description type="plain">
+	Ultrasonic welding is used to attach a clear plastic lens to a plastic body with a hermetic seal. The part&amp;rsquo;s complex 3D shape and class A surface are a challenge to weld. Photo courtesy Herrmann Ultrasonics Inc.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/March/horn/asb0316horn4.jpg?1456513710" type="image/jpeg" fileSize="101518">
+        <media:title type="plain">horn 4</media:title>
+        <media:description type="plain">
+	To assemble model variants of daytime running lights, all parts of this ultrasonic welder form a &amp;ldquo;quick-change tooling frame&amp;rdquo; that can be detached from the main machine and exchanged with a different frame. Photo courtesy Herrmann Ultrasonics Inc.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/March/horn/asb0316horn5.jpg?1456513739" type="image/jpeg" fileSize="104203">
+        <media:title type="plain">horn 5</media:title>
+        <media:description type="plain">
+	Herrmann has introduced a new ultrasonic welder that simultaneously punches out a polyester membrane from a reel of material and welds it to a plastic housing. Photo courtesy Herrmann Ultrasonics Inc.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/March/horn/asb0316horn7.jpg?1456513810" type="image/jpeg" fileSize="56283">
+        <media:title type="plain">horn 7</media:title>
+        <media:description type="plain">
+	This ultrasonic welder offers five operating modes: time, energy, power, absolute distance (end point of the weld distance), and RPN distance (referencing weld depth to a starting point). Photo courtesy Herrmann Ultrasonics Inc.
+</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>Plastics Assembly Machines Maximize Productivity</title>
+      <description>
+        <![CDATA[<p>
+	No matter which method you use to assemble plastic parts, you would have found the latest technologies at The ASSEMBLY Show. There were at least 10 suppliers of plastics joining equipment on the show floor, including first-time exhibitors Rinco Ultrasonics and Thermal Press International Inc.</p>]]>
+      </description>
+      <guid>http://www.assemblymag.com/blogs/14/post/93241</guid>
+      <pubDate>Wed, 10 Feb 2016 00:00:00 -0500</pubDate>
+      <link>http://www.assemblymag.com/blogs/14-assembly-blog/post/93241-plastics-assembly-machines-maximize-productivity</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/blogimages/900-images/sonics900-16.jpg?1455134403" type="image/jpeg" length="103011"/>
+      <media:content url="http://www.assemblymag.com/ext/resources/blogimages/900-images/thermalpress900-16.jpg?1455134470" type="image/jpeg" fileSize="118791">
+        <media:title type="plain">Thermal Press International </media:title>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/blogimages/900-images/branson900-16.jpg?1455134601" type="image/jpeg" fileSize="87128">
+        <media:title type="plain">Branson Ultrasonics Corp. </media:title>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/blogimages/900-images/dukane900-16.jpg?1455134700" type="image/jpeg" fileSize="169699">
+        <media:title type="plain">Dukane Corp. </media:title>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/blogimages/900-images/HAindustries900-16.jpg?1455134759" type="image/jpeg" fileSize="202816">
+        <media:title type="plain">HA Industries </media:title>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/blogimages/900-images/extol900-16.jpg?1455134805" type="image/jpeg" fileSize="197317">
+        <media:title type="plain">Extol Inc. </media:title>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/blogimages/900-images/rinco900-16.jpg?1455134850" type="image/jpeg" fileSize="169335">
+        <media:title type="plain">Rinco Ultrasonics </media:title>
+      </media:content>
+    </item>
+    <item>
+      <title>2015 Was Record Year for Robot Sales in North America</title>
+      <description>
+        <![CDATA[<p>
+	ANN ARBOR, MI&mdash;Robot orders and shipments in North America set new records in 2015, according to Robotic Industries Association. A total of 31,464 robots valued at $1.8 billion were ordered from North American companies during 2015, an increase of 14 percent in units and 11 percent in dollars over 2014.</p>
+]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93240</guid>
+      <pubDate>Wed, 10 Feb 2016 00:00:00 -0500</pubDate>
+      <link>http://www.assemblymag.com/articles/93240-was-record-year-for-robot-sales-in-north-america</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/LatestHeadlines/latest_headlines2/welding-robot-900.jpg?1428591992" type="image/jpeg" length="556544"/>
+    </item>
+    <item>
+      <title>GM Connects Robots Through the Cloud</title>
+      <description>
+        <![CDATA[<p>
+	DETROIT&mdash;Working with robotics manufacturer FANUC, networking giant Cisco, and hardware maker Rockwell Automation, GM has installed a &ldquo;mother brain&rdquo; at its Lake Orion assembly plant. The system accepts data flowing to and from robots, conveyors, temperature sensors and other devices and sends that information to a cloud network. That enables plant managers and supplier technicians to monitor assembly technology and prevent mishaps.</p>
+]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93223</guid>
+      <pubDate>Mon, 01 Feb 2016 00:00:00 -0500</pubDate>
+      <link>http://www.assemblymag.com/articles/93223-gm-connects-robots-through-the-cloud</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/LatestHeadlines/headlines900/gm-robot-900.jpg?1454341264" type="image/jpeg" length="793753"/>
+    </item>
+    <item>
+      <title>Whatâs New With Vibration Welding</title>
+      <author>camilloj@bnpmedia.com (Jim Camillo)</author>
+      <description>
+        <![CDATA[<p>
+	Enhanced process-control, preheating and data-gathering capabilities make vibration welding an even better choice for joining thermoplastic parts.</p>
+]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93222</guid>
+      <pubDate>Mon, 01 Feb 2016 00:00:00 -0500</pubDate>
+      <link>http://www.assemblymag.com/articles/93222-whats-new-with-vibration-welding</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Issues/2016/February/welding/asb0216Weld1.jpg?1454339441" type="image/jpeg" length="172059"/>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/February/welding/asb0216Weld1.jpg?1454339441" type="image/jpeg" fileSize="172059">
+        <media:title type="plain">welding 1</media:title>
+        <media:description type="plain">
+	A large appliance manufacturer uses two custom vibration welders to weld thermoplastic tubs for front-loading washing machines. The production rate is about 1,000 tubs per 8-hour shift. Photo courtesy Forward Technology
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/February/welding/asb0216Weld2.jpg?1454339594" type="image/jpeg" fileSize="62871">
+        <media:title type="plain">welding 2</media:title>
+        <media:description type="plain">
+	Manufacturers of lawn and garden equipment use vibration welding to assemble a wide range of products, including chainsaw housings. Photo courtesy Dukane Corp.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/February/welding/asb0216Weld3.jpg?1454339687" type="image/jpeg" fileSize="53529">
+        <media:title type="plain">welding 3</media:title>
+        <media:description type="plain">
+	MX welders have an Auto-Tune feature that automatically detects, sets and locks-in the platen&amp;rsquo;s optimum frequency within seconds. Photo courtesy Sonics &amp;amp; Materials Inc.
+</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>Nitinol: Taming the Magical Metal</title>
+      <author>webera@bnpmedia.com (Austin Weber)</author>
+      <description>
+        <![CDATA[<p>
+	Shape memory alloys offer numerous benefits, but cause assembly headaches.</p>]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93221</guid>
+      <pubDate>Mon, 01 Feb 2016 00:00:00 -0500</pubDate>
+      <link>http://www.assemblymag.com/articles/93221-nitinol-taming-the-magical-metal</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Issues/2016/February/nitinol/asb0216nitinol1.jpg?1454338567" type="image/jpeg" length="37665"/>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/February/nitinol/asb0216nitinol1.jpg?1454338567" type="image/jpeg" fileSize="37665">
+        <media:title type="plain">nitinol 1</media:title>
+        <media:description type="plain">
+	Engineers turned to nitinol when they created a new stent that features a 3D geometry. Photo courtesy Veryan Medical Ltd.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/February/nitinol/asb0216nitinol2.jpg?1454338655" type="image/jpeg" fileSize="28133">
+        <media:title type="plain">nitinol 2</media:title>
+        <media:description type="plain">
+	This nitinol medical device is used by surgeons to engage, reposition, release or extract stones in the kidney and the ureter. Photo courtesy Cook Medical LLC
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/February/nitinol/asb0216nitinol3.jpg?1454338694" type="image/jpeg" fileSize="117207">
+        <media:title type="plain">nitinol 3</media:title>
+        <media:description type="plain">
+	This atrial septal defect occluder consists of flexible nitinol wire mesh. Photo courtesy Occlutech International AB
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/February/nitinol/asb0216nitinol4.jpg?1454338735" type="image/jpeg" fileSize="60294">
+        <media:title type="plain">nitinol 4</media:title>
+        <media:description type="plain">
+	Nitinol is a metal that has magical properties, such as superelasticity and the ability to repeatedly retain its preformed shape. Photo courtesy Boston Scientific Corp.
+</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>FANUC Sets Record for Robot Production in 2015</title>
+      <description>
+        <![CDATA[<p>
+	ROCHESTER HILLS, MI&mdash;FANUC Corp. produced more than 400,000 robots in 2015, a record high for the company.</p>
+]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93185</guid>
+      <pubDate>Fri, 08 Jan 2016 00:00:00 -0500</pubDate>
+      <link>http://www.assemblymag.com/articles/93185-fanuc-sets-record-for-robot-production-in-2015</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/LatestHeadlines/headlines900/fanuc900.jpg?1452288304" type="image/jpeg" length="496381"/>
+    </item>
+    <item>
+      <title>Error-Proofing With Sensors and RFID</title>
+      <description>
+        <![CDATA[<p>
+	Sensors and RFID technology can be used to error-proof automated assembly processes.</p>]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93145</guid>
+      <pubDate>Mon, 07 Dec 2015 00:00:00 -0500</pubDate>
+      <link>http://www.assemblymag.com/articles/93145-error-proofing-with-sensors-and-rfid</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Issues/2015/December/error/asb1215error1.jpg?1449588075" type="image/jpeg" length="48184"/>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/December/error/asb1215error1.jpg?1449588075" type="image/jpeg" fileSize="48184">
+        <media:title type="plain">error proofing 1</media:title>
+        <media:description type="plain">
+	An analog sensor is used to exactly track jaw position and gripping pressure on this robotic gripper. Illustration courtesy Balluff Inc.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/December/error/asb1215error2.jpg?1449588493" type="image/jpeg" fileSize="54585">
+        <media:title type="plain">error proofing 2</media:title>
+        <media:description type="plain">
+	A laser through-beam sensor spots a misassembled washer. Illustration courtesy Balluff Inc.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/December/error/asb1215error3.jpg?1449588520" type="image/jpeg" fileSize="232213">
+        <media:title type="plain">error proofing 3</media:title>
+        <media:description type="plain">
+	Working together, these two color sensors can detect the exact color of these two dissimilar floor mat materials. This prevents the wrong mat from being installed a vehicle. Photo courtesy Balluff Inc.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/December/error/asb1215error4.jpg?1449588546" type="image/jpeg" fileSize="35403">
+        <media:title type="plain">error proofing 4</media:title>
+        <media:description type="plain">
+	A UV photoelectric sensor reads invisible tracer material on medicine bottle caps to verify their contents. Illustration courtesy Balluff Inc.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/December/error/asb1215error5.jpg?1449588688" type="image/jpeg" fileSize="112562">
+        <media:title type="plain">error proofing 5</media:title>
+        <media:description type="plain">
+	Impacts destroyed these sensors. Photo courtesy Balluff Inc.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/December/error/asb1215error6.jpg?1449588720" type="image/jpeg" fileSize="201331">
+        <media:title type="plain">error proofing 6</media:title>
+        <media:description type="plain">
+	Slag builds up on sensors in a welding cell. Photo courtesy Balluff Inc.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/December/error/asb1215error7.jpg?1449588749" type="image/jpeg" fileSize="46449">
+        <media:title type="plain">error proofing 7</media:title>
+        <media:description type="plain">
+	Even photoelectric sensors can be protected from harsh weld cell conditions. Photo courtesy Balluff Inc.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/December/error/asb1215error8.jpg?1449588779" type="image/jpeg" fileSize="172730">
+        <media:title type="plain">error proofing 8</media:title>
+        <media:description type="plain">
+	These protected inductive proximity sensors will last for months or longer, safe from heat and weld cell spatter. Photo courtesy Balluff Inc.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/December/error/asb1215error9.jpg?1449588808" type="image/jpeg" fileSize="113678">
+        <media:title type="plain">error proofing 9</media:title>
+        <media:description type="plain">
+	An RFID read-write sensor and electronic tag error-proof an automatic tool selection system. Photo courtesy Balluff Inc.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/December/error/asb1215error10.jpg?1449588837" type="image/jpeg" fileSize="216445">
+        <media:title type="plain">error proofing 10</media:title>
+        <media:description type="plain">
+	An RFID sensor correctly reads build information from an electronic tag through a pool of cutting fluid. Photo courtesy Balluff Inc.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/December/error/asb1215error11.jpg?1449588870" type="image/jpeg" fileSize="148531">
+        <media:title type="plain">error proofing 11</media:title>
+        <media:description type="plain">
+	The total build history for an assembly can be read and updated on an RFID tag. Illustration courtesy Balluff Inc.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/December/error/asb1215error12.jpg?1449588906" type="image/jpeg" fileSize="74172">
+        <media:title type="plain">error proofing 12</media:title>
+        <media:description type="plain">
+	In many applications, vision sensors can perform error-proofing more efficiently and less expensively than arrays of multiple sensors. Photo courtesy Balluff Inc.
+</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>Ultrasonic welder assembles gearbox components</title>
+      <author>camilloj@bnpmedia.com (Jim Camillo)</author>
+      <description>
+        <![CDATA[<p>
+	EVCO Plastics is a custom plastic injection molding company that specializes in providing value-added engineered parts to manufacturers in markets ranging from medical to agriculture.</p>
+]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93137</guid>
+      <pubDate>Mon, 07 Dec 2015 00:00:00 -0500</pubDate>
+      <link>http://www.assemblymag.com/articles/93137-ultrasonic-welder-assembles-gearbox-components</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Issues/2015/December/AIA/asb1215AIA1.jpg?1449504190" type="image/jpeg" length="91768"/>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/December/AIA/asb1215AIA1.jpg?1449504190" type="image/jpeg" fileSize="91768">
+        <media:title type="plain">aia 1</media:title>
+        <media:description type="plain">
+	EVCO Plastics welds a high volume of large gearboxes for an agricultural equipment manufacturer. Once welded, the box is inserted into an attachment for seeding equipment. Photo courtesy Herrmann Ultrasonics Inc.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/December/AIA/asb1215AIA2.jpg?1449504365" type="image/jpeg" fileSize="57708">
+        <media:title type="plain">aia 2</media:title>
+        <media:description type="plain">
+	The HiQ DIALOG welder&amp;rsquo;s composite sonotrode is specially designed using a highly advanced finite element analysis program. The sonotrode&amp;rsquo;s geometry provides even amplitude distribution that extends wear life. Photo courtesy Herrmann Ultrasonics Inc.
+</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>Engelberger, the Father of Robotics, Dies</title>
+      <description>
+        <![CDATA[<p>
+	NEWTOWN, CT&mdash;Joseph F. Engelberger, an engineer and entrepreneur who pioneered the robotics field, died Dec. 1, 2015, at age 90. Engelberger was founder and president of Unimation Inc., the world&rsquo;s first industrial robotics manufacturer, which he launched in 1956 and grew into a company with more than 1,000 employees before the enterprise was acquired by Westinghouse.</p>]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93131</guid>
+      <pubDate>Wed, 02 Dec 2015 00:00:00 -0500</pubDate>
+      <link>http://www.assemblymag.com/articles/93131-engelberger-the-father-of-robotics-dies</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Default_Images/responsive/ASB_default_latestnews.jpg?1479231322" type="image/jpeg" length="166380"/>
+    </item>
+    <item>
+      <title>Hold It: Whatâs New With Clamping and Workholding Technology</title>
+      <author>camilloj@bnpmedia.com (Jim Camillo)</author>
+      <description>
+        <![CDATA[<p>
+	Suppliers&rsquo; continually evolving and expanding offerings now include compact units with high clamping force and models capable of position sensing.</p>
+]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93105</guid>
+      <pubDate>Wed, 04 Nov 2015 00:00:00 -0500</pubDate>
+      <link>http://www.assemblymag.com/articles/93105-hold-it-whats-new-with-clamping-and-workholding-technology</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Issues/2015/November/clamp/asb1115Clamp1.jpg?1446661313" type="image/jpeg" length="160801"/>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/November/clamp/asb1115Clamp1.jpg?1446661313" type="image/jpeg" fileSize="160801">
+        <media:title type="plain">clamp 1</media:title>
+        <media:description type="plain">
+	Most toggle clamps used for assembly feature a handle that locks in the vertical or horizontal position. Some, like the pullback toggle clamp, have a handle that locks in the down position. Photo courtesy DE-STA-CO
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/November/clamp/asb1115Clamp2.jpg?1446661435" type="image/jpeg" fileSize="57048">
+        <media:title type="plain">clamp 2</media:title>
+        <media:description type="plain">
+	This B1827 hydraulic steel clamp is compact enough for use in narrow recesses. The clamping lever pivots a full 90 degrees into position for clear loading. Photo courtesy Carr Lane Roemheld Manufacturing Co.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/November/clamp/asb1115Clamp3.jpg?1446661466" type="image/jpeg" fileSize="28912">
+        <media:title type="plain">clamp 3</media:title>
+        <media:description type="plain">
+	WHE pneumatic swing clamps come with several options. Operators can use a dual end rod or an air catch sensor to confirm clamp action. A balance lever lets them clamp workpieces on both sides. Photo courtesy Kosmek USA Ltd.
+</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>Hot-Plate Welding vs. Infrared Welding for Plastics Assembly</title>
+      <description>
+        <![CDATA[<p>
+	Both hot-plate welding and infrared welding are used to join plastic parts. One method contacts the parts; the other does not.</p>]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93066</guid>
+      <pubDate>Thu, 01 Oct 2015 00:00:00 -0400</pubDate>
+      <link>http://www.assemblymag.com/articles/93066-hot-plate-welding-vs-infrared-welding-for-plastics-assembly</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Issues/2015/October/hot-plate-welding/asb1015extol1.jpg?1443727862" type="image/jpeg" length="94023"/>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/October/hot-plate-welding/asb1015extol1.jpg?1443727862" type="image/jpeg" fileSize="94023">
+        <media:title type="plain">welding 1</media:title>
+        <media:description type="plain">
+	Conduction is the primary method of heat transfer in hot-plate welding. Heat conducts from the heated platen directly to a rib molded into the part. Photo courtesy Extol Inc.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/October/hot-plate-welding/asb1015extol2.jpg?1443727626" type="image/jpeg" fileSize="117059">
+        <media:title type="plain">welding 2</media:title>
+        <media:description type="plain">
+	The hot-plate welding process consists of three key steps: the melt phase, the open phase and the seal phase. Drawing courtesy Extol Inc.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/October/hot-plate-welding/asb1015extol3.jpg?1443727663" type="image/jpeg" fileSize="118422">
+        <media:title type="plain">welding 3</media:title>
+        <media:description type="plain">
+	Infrared welding has the same fundamental steps as hot-plate welding. The one big difference is that there is no contact between the plastic components and infrared emitters on the heated platen during the melt phase. Photo courtesy Extol Inc.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/October/hot-plate-welding/asb1015extol4.jpg?1443727766" type="image/jpeg" fileSize="38089">
+        <media:title type="plain">welding 4</media:title>
+        <media:description type="plain">
+	For infrared welding and hot-plate welding, the parts to be joined should include a raised rib to provide material for the welded joint. Photo courtesy Extol Inc.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/October/hot-plate-welding/asb1015extol5.jpg?1443727803" type="image/jpeg" fileSize="241616">
+        <media:title type="plain">welding 5</media:title>
+        <media:description type="plain">
+	A critical parameter in infrared welding is the rate of heating. If the plastic is heated too quickly, there is a risk of material degradation, burning or charring. Photo courtesy Extol Inc.
+</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>Linear Tracks for Robots Offer Dynamic Solution for Integrator</title>
+      <author>camilloj@bnpmedia.com (Jim Camillo)</author>
+      <description>
+        <![CDATA[<p>
+	As its name implies, Dynamic Robotic Solutions (DRS) believes in flexible, fast and reliable customer service. This approach has helped the company (formerly KMT Robotic Solutions) find success as a specialty integrator of robotic material-removal systems.</p>
+]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93061</guid>
+      <pubDate>Thu, 01 Oct 2015 00:00:00 -0400</pubDate>
+      <link>http://www.assemblymag.com/articles/93061-linear-tracks-for-robots-offer-dynamic-solution-for-integrator</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Issues/2015/October/aia/asb1015AIA4.jpg?1443719889" type="image/jpeg" length="85153"/>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/October/aia/asb1015AIA3.jpg?1443719860" type="image/jpeg" fileSize="163638">
+        <media:title type="plain">robot tracks</media:title>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/October/aia/asb1015AIA4.jpg?1443719889" type="image/jpeg" fileSize="85153">
+        <media:title type="plain">robot tracks</media:title>
+        <media:description type="plain">
+	In the DRS system, the robot mounts directly to the (red) baseplate of the track&amp;rsquo;s carriage unit. Versatile (white) adaptor plates handle more than 600 different models of robots. Photo courtesy G&amp;uuml;del Inc.
+</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>Market for Welding Robots to Grow 6 Percent Annually</title>
+      <description>
+        <![CDATA[<p>
+	LEWES, DE&mdash;The worldwide market for welding robots is expected to grow 6.09 percent annually through 2019, according to a new forecast from Market Research Reports Inc.</p>]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93057</guid>
+      <pubDate>Wed, 30 Sep 2015 00:00:00 -0400</pubDate>
+      <link>http://www.assemblymag.com/articles/93057-market-for-welding-robots-to-grow-6-percent-annually</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/LatestHeadlines/headlines900/ABB-welding-robot-900.jpg?1436202959" type="image/jpeg" length="459817"/>
+    </item>
+    <item>
+      <title>Round Energy Directors for Ultrasonic Welding</title>
+      <description>
+        <![CDATA[<p>
+	Plastic parts with a round energy director can produce stronger, more consistent welds than parts with a sharp energy director.</p>]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93031</guid>
+      <pubDate>Thu, 03 Sep 2015 00:00:00 -0400</pubDate>
+      <link>http://www.assemblymag.com/articles/93031-round-energy-directors-for-ultrasonic-welding</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Issues/2015/September/dukane/asb0915dukane1.jpg?1441291199" type="image/jpeg" length="89755"/>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/September/dukane/asb0915dukane1.jpg?1441291199" type="image/jpeg" fileSize="89755">
+        <media:title type="plain">dukane 1</media:title>
+        <media:description type="plain">
+	Dukane developed the ISTeP to provide a test specimen with changeable joint designs for ultrasonic welding. Photo courtesy Dukane Corp.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/September/dukane/asb0915dukane2.jpg?1441291302" type="image/jpeg" fileSize="110859">
+        <media:title type="plain">dukane 2</media:title>
+        <media:description type="plain">
+	This image shows a cross-section an ISTeP part prior to welding. Note the 90-degree energy director. Photo courtesy Dukane Corp.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/September/dukane/asb0915dukane3.jpg?1441291325" type="image/jpeg" fileSize="41227">
+        <media:title type="plain">dukane 3</media:title>
+        <media:description type="plain">
+	Experiments were conducted using a Dukane 30-kilohertz IQ Servo ultrasonic welder with Melt-Match technology. The welder was equipped with a flat-face, high-gain horn. Photo courtesy Dukane Corp.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/September/dukane/asb0915dukane4.jpg?1441291348" type="image/jpeg" fileSize="40263">
+        <media:title type="plain">dukane 4</media:title>
+        <media:description type="plain">
+	For pull testing, Dukane researchers used a variable-speed test stand equipped with this custom fixture. Photo courtesy Dukane Corp.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/September/dukane/asb0915dukane5.jpg?1441291373" type="image/jpeg" fileSize="108648">
+        <media:title type="plain">dukane 5</media:title>
+        <media:description type="plain">
+	During pull testing, the breaks often occurred in the parent material rather than the welded joint, regardless of the design of the energy director. Photo courtesy Dukane Corp.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/September/dukane/asb0915dukane6.jpg?1441291399" type="image/jpeg" fileSize="203485">
+        <media:title type="plain">dukane 6</media:title>
+        <media:description type="plain">
+	The best results in strength and consistency were achieved using a profiled weld velocity that gradually increased from 0.25 to 0.4 millimeter per second after formation of an initial melt layer at the joint interface. Note the large homogenous area at the joint interface. Photo courtesy Dukane Corp.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/September/dukane/asb0915dukane7.jpg?1441291428" type="image/jpeg" fileSize="56684">
+        <media:title type="plain">dukane 7</media:title>
+        <media:description type="plain">
+	A part with a round energy director can be molded more consistently than a part with a sharp energy director. The mold is also less expensive to make. Photo courtesy Dukane Corp.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/September/dukane/asb0915dukane8.jpg?1441291464" type="image/jpeg" fileSize="62282">
+        <media:title type="plain">dukane 8</media:title>
+        <media:description type="plain">
+	An round energy director requires a slightly higher amplitude to initiate melting than a part with a sharp tip. Tests revealed that an amplitude of 32 microns produced the strongest, most consistent welds. Source: Dukane Corp.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/September/dukane/asb0915dukane9.jpg?1441291492" type="image/jpeg" fileSize="58161">
+        <media:title type="plain">dukane 9</media:title>
+        <media:description type="plain">
+	With a sharp energy director, the strongest welds were produced at an amplitude of 28 microns. Source: Dukane Corp.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/September/dukane/asb0915dukane10.jpg?1441291524" type="image/jpeg" fileSize="64012">
+        <media:title type="plain">dukane 10</media:title>
+        <media:description type="plain">
+	Parts with a round energy director can be successfully welded with a strength and consistency matching and even exceeding parts with a sharp energy director. Source: Dukane Corp.
+</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>BMW Adding New Body Shop</title>
+      <description>
+        <![CDATA[<p>
+	SPARTANBURG, SC&mdash;BMW is constructing a 527,000-square-foot body shop at its assembly plant here. The facility will include more than 650 robots.</p>]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93000</guid>
+      <pubDate>Fri, 07 Aug 2015 00:00:00 -0400</pubDate>
+      <link>http://www.assemblymag.com/articles/93000-bmw-adding-new-body-shop</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/LatestHeadlines/latest_headlines2/bmw-mfg-900.jpg?1428696965" type="image/jpeg" length="455661"/>
+    </item>
+    <item>
+      <title>ABB Lands $52 Million Robot Order From Ford Assembly Plant</title>
+      <description>
+        <![CDATA[<p>
+	ZURICH&mdash;ABB Ltd. has received a $52 million order to supply welding robots for Ford Motor Co.&rsquo;s assembly plant in Harbin, China.</p>
+]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/92945</guid>
+      <pubDate>Mon, 06 Jul 2015 00:00:00 -0400</pubDate>
+      <link>http://www.assemblymag.com/articles/92945-abb-lands-52-million-robot-order-from-ford-assembly-plant</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/LatestHeadlines/headlines900/ABB-welding-robot-900.jpg?1436202959" type="image/jpeg" length="459817"/>
+    </item>
+    <item>
+      <title>Robot Kills Worker at VW Assembly Plant</title>
+      <description>
+        <![CDATA[<p>
+	BAUNATAL, Germany&mdash;A robot accidentally killed a worker at Volkswagen&rsquo;s automotive assembly plant here. The robot pressed the worker up against a metal plate, crushing his chest.</p>]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/92944</guid>
+      <pubDate>Mon, 06 Jul 2015 00:00:00 -0400</pubDate>
+      <link>http://www.assemblymag.com/articles/92944-robot-kills-worker-at-vw-assembly-plant</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/LatestHeadlines/headlines900/VW-mfg-germany-900.jpg?1436202720" type="image/jpeg" length="418443"/>
+    </item>
+    <item>
+      <title>Controller, HMI Improve Welding in a Flash</title>
+      <author>camilloj@bnpmedia.com (Jim Camillo)</author>
+      <description>
+        <![CDATA[<p>
+	Like any technology, welding continues to evolve. This is especially true for a technique known as flash-butt welding, which has been around since the early 20th century.</p>
+]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/92926</guid>
+      <pubDate>Wed, 01 Jul 2015 00:00:00 -0400</pubDate>
+      <link>http://www.assemblymag.com/articles/92926-controller-hmi-improve-welding-in-a-flash</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Issues/2015/July/aia/asb0715AIA3.jpg?1435767755" type="image/jpeg" length="139540"/>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/July/aia/asb0715AIA3.jpg?1435767755" type="image/jpeg" fileSize="139540">
+        <media:title type="plain">welding 1</media:title>
+        <media:description type="plain">
+	Taylor-Winfield has developed a welding solution for joining advanced high-strength steel. Photo courtesy Bosch Rexroth Corp.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/July/aia/asb0715AIA4.jpg?1435767841" type="image/jpeg" fileSize="90066">
+        <media:title type="plain">welding 2</media:title>
+        <media:description type="plain">
+	The Open Core Engineering interface enables Taylor-Winfield to easily integrate the MLC L45 motion logic controller with hydraulic power units. Photo courtesy Bosch Rexroth Corp.
+</media:description>
+      </media:content>
+    </item>
+  </channel>
+</rss>

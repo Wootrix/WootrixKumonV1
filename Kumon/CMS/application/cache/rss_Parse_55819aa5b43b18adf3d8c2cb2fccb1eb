@@ -1,0 +1,821 @@
+
+
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+          <title>Automation.com | Automation News &lt;span&gt;The latest news in Automation technology for Automation industry professionals&lt;/span&gt;</title>
+              <link>http://www.automation.com/automation-news/rss</link>
+              <atom:link href="http://www.automation.com/automation-news/rss" rel="self" type="application/rss+xml" />
+        <description>Daily news headlines for industrial automation, process control and instrumentation professionals from Automation.com. Includes product news, company and organizational news, and application news.</description>
+    <language>en-us</language>
+    <pubDate>Mon, 23 Jan 2017 14:25:44 -0600</pubDate>
+    <lastBuildDate>Mon, 23 Jan 2017 14:25:44 -0600</lastBuildDate>
+    <generator>SMC 3.34 http://www.fivetechnology.com</generator>
+        <item>
+      <title>Perspectives on Digital Transformation: A Look at the Future of Automation Through the Eyes of Dell</title>
+              <link>http://www.automation.com/automation-news/perspectives-on-digital-transformation-a-look-at-the-future-of-automation-through-the-eyes-of-dell</link>
+            
+            <guid>http://www.automation.com/automation-news/article/perspectives-on-digital-transformation-a-look-at-the-future-of-automation-through-the-eyes-of-dell</guid>
+            <description>By Bill Lydon, Editor, Automation.com
+The Dell EMC World 2016, in October, was a thought-provoking experience, where Dell set forth their bright vision of the automation industry&#039;s connected future. </description>
+      <pubDate>Mon, 23 Jan 2017 12:28:25 -0600</pubDate>
+    </item>
+        <item>
+      <title>Automation Federation to present at 2017 Workforce Development Institute conference</title>
+              <link>http://www.automation.com/automation-news/automation-federation-to-present-at-2017-workforce-development-institute-conference</link>
+            
+            <guid>http://www.automation.com/automation-news/industry/automation-federation-to-present-at-2017-workforce-development-institute-conference</guid>
+            <description>The presentation by the Automation Federation, âCybersecurity Career Pathways for Protecting Critical Infrastructure,â will be delivered at 11 a.m. on Friday, 27 January.</description>
+      <pubDate>Mon, 23 Jan 2017 11:42:16 -0600</pubDate>
+    </item>
+        <item>
+      <title>Infotecs chooses Rohde &amp; Schwarz&#039; cybersecurity engine to implement JavaScript protection in firewall offering</title>
+              <link>http://www.automation.com/automation-news/infotecs-chooses-rohde-schwarz-cybersecurity-engine-to-implement-javascript-protection-in-firewall-offering</link>
+            
+            <guid>http://www.automation.com/automation-news/industry/infotecs-chooses-rohde-schwarz-cybersecurity-engine-to-implement-javascript-protection-in-firewall-offering</guid>
+            <description>R&amp;S PACE 2 â the Deep Packet Inspection (DPI) engine by Rohde &amp; Schwarz Cybersecurity â now enables Infotecsâ ViPNet xFirewall to inspect web content for potential malicious or injected code and to block Javascript threats in realtime. </description>
+      <pubDate>Mon, 23 Jan 2017 11:39:52 -0600</pubDate>
+    </item>
+        <item>
+      <title>Bel Power Solutions releases LD series of DIN rail switching power supplies</title>
+              <link>http://www.automation.com/automation-news/bel-power-solutions-releases-ld-series-of-din-rail-switching-power-supplies</link>
+            
+            <guid>http://www.automation.com/product-showcase/bel-power-solutions-releases-ld-series-of-din-rail-switching-power-supplies</guid>
+            <description>The Bel Power Solutions line of DIN Rail Power Supplies have been designed for use in many industrial applications, including automation, process control, semiconductor manufacturing and packing equipment. </description>
+      <pubDate>Mon, 23 Jan 2017 11:38:59 -0600</pubDate>
+    </item>
+        <item>
+      <title>Pentek introduces Model 71131 Jade XMC module</title>
+              <link>http://www.automation.com/automation-news/pentek-introduces-model-71131-jade-xmc-module</link>
+            
+            <guid>http://www.automation.com/product-showcase/pentek-introduces-model-71131-jade-xmc-module</guid>
+            <description>The Model 71131 is suitable for connection to HF or IF ports of a communications or radar system. Its built-in data capture feature offers a turnkey solution as well as a platform for developing and deploying custom FPGA-processing IP. </description>
+      <pubDate>Mon, 23 Jan 2017 11:31:59 -0600</pubDate>
+    </item>
+        <item>
+      <title>EVT announces EyeVision 3D software for EyeScan 3D sensor series</title>
+              <link>http://www.automation.com/automation-news/evt-announces-eyevision-3d-software-for-eyescan-3d-sensor-series</link>
+            
+            <guid>http://www.automation.com/product-showcase/evt-announces-eyevision-3d-software-for-eyescan-3d-sensor-series</guid>
+            <description> This version contains the commands of the Basic version and a 3D command set for evaluating and measuring on 3D point clouds.</description>
+      <pubDate>Mon, 23 Jan 2017 11:26:04 -0600</pubDate>
+    </item>
+        <item>
+      <title>Pickering announces 40-614 family of PXI Multiplexers</title>
+              <link>http://www.automation.com/automation-news/pickering-announces-40-614-family-of-pxi-multiplexers</link>
+            
+            <guid>http://www.automation.com/product-showcase/pickering-announces-40-614-family-of-pxi-multiplexers</guid>
+            <description>This range of High-Density 2 Amp PXI Multiplexers was designed for signal routing in Automatic Test Equipment (ATE) and data acquisition systems.</description>
+      <pubDate>Mon, 23 Jan 2017 11:20:26 -0600</pubDate>
+    </item>
+        <item>
+      <title>PanaTeQ introduces VPX3-ZU1 single board computer</title>
+              <link>http://www.automation.com/automation-news/panateq-introduces-vpx3-zu1-single-board-computer</link>
+            
+            <guid>http://www.automation.com/product-showcase/panateq-introduces-vpx3-zu1-single-board-computer</guid>
+            <description>In the device, the Zynq UltraScale+ integrates a Quad-core 1.5GHz 32/64-bit ARM Cortex-A53 based Application Processing Unit (APU), a Dual-core ARM Cortex-R5 based Real-Time Processing Unit (RPU), an ARM MALI-400 based Graphic Processing Unit (GPU) and a large Programmable Logic (PL) Array.</description>
+      <pubDate>Mon, 23 Jan 2017 11:06:47 -0600</pubDate>
+    </item>
+        <item>
+      <title>MicroPower Direct releases IG275E series of  DC/DC converters</title>
+              <link>http://www.automation.com/automation-news/micropower-direct-releases-ig275e-series-of-dcdc-converters</link>
+            
+            <guid>http://www.automation.com/product-showcase/micropower-direct-releases-ig275e-series-of-dcdc-converters</guid>
+            <description>Three models operate from 12, 15 or 24 VDC input bus voltages, providing dual outputs of +15 VDC and -8 VDC; the recommended  gate bias levels for most IGBT driver circuits.</description>
+      <pubDate>Fri, 20 Jan 2017 11:25:37 -0600</pubDate>
+    </item>
+        <item>
+      <title>Schneider Electric recognizes 50th anniversary of SimSci process simulation solution</title>
+              <link>http://www.automation.com/automation-news/schneider-electric-recognizes-50th-anniversary-of-simsci-process-simulation-solution</link>
+            
+            <guid>http://www.automation.com/automation-news/event/schneider-electric-recognizes-50th-anniversary-of-simsci-process-simulation-solution</guid>
+            <description>SimSci process simulation solutions serve 23 of the worldâs top 25 petroleum companies; 48 of the top 50 chemical companies; and all of the top mining companies.</description>
+      <pubDate>Fri, 20 Jan 2017 11:21:23 -0600</pubDate>
+    </item>
+        <item>
+      <title>Hannover Fairs partners with FABTECH to co-locate IANA and MDA North America with FABTECH Chicago</title>
+              <link>http://www.automation.com/automation-news/hannover-fairs-partners-with-fabtech-to-co-locate-iana-and-mda-north-america-with-fabtech-chicago</link>
+            
+            <guid>http://www.automation.com/automation-news/industry/hannover-fairs-partners-with-fabtech-to-co-locate-iana-and-mda-north-america-with-fabtech-chicago</guid>
+            <description>Co-locating Industrial Automation North America and MDA North America at FABTECH Chicago allows Hannover Fairs USA to provide these two key tradeshows on an annual basis. Both currently are held at the International Manufacturing Technology Show (IMTS) in the even years.</description>
+      <pubDate>Fri, 20 Jan 2017 11:15:28 -0600</pubDate>
+    </item>
+        <item>
+      <title>EVT releases EyeSens ColorInspect vision sensor</title>
+              <link>http://www.automation.com/automation-news/evt-releases-eyesens-colorinspect-vision-sensor</link>
+            
+            <guid>http://www.automation.com/product-showcase/evt-releases-eyesens-colorinspect-vision-sensor</guid>
+            <description>The vision sensor levels out vibrations or fast movements of the machine in the production line. With IP67 and the integrated LED illumination in the camera housing, the camera is suitable for industrial environments.</description>
+      <pubDate>Fri, 20 Jan 2017 11:10:50 -0600</pubDate>
+    </item>
+        <item>
+      <title>Delta Electronics announces PJT-27V150WBNA open frame power supply</title>
+              <link>http://www.automation.com/automation-news/delta-electronics-announces-pjt-27v150wbna-open-frame-power-supply</link>
+            
+            <guid>http://www.automation.com/product-showcase/delta-electronics-announces-pjt-27v150wbna-open-frame-power-supply</guid>
+            <description>The 3âx5â product comes with universal AC input voltage range at 90Vac to 264Vac, is usable worldwide and features built-in Power Boost of 175W for 5 seconds.</description>
+      <pubDate>Fri, 20 Jan 2017 11:03:21 -0600</pubDate>
+    </item>
+        <item>
+      <title>Endress + Hauser earns IACET accreditation for IACET Continuing Education Units (CEUs)</title>
+              <link>http://www.automation.com/automation-news/endress-hauser-earns-iacet-accreditation-for-iacet-continuing-education-units-ceus</link>
+            
+            <guid>http://www.automation.com/automation-news/industry/endress-hauser-earns-iacet-accreditation-for-iacet-continuing-education-units-ceus</guid>
+            <description>Upcoming classes in 2017 which offer CEUs at Endress+Hauser include I-101 Basic instrumentation in January, March, June, and September in Greenwood, IN.</description>
+      <pubDate>Fri, 20 Jan 2017 10:58:22 -0600</pubDate>
+    </item>
+        <item>
+      <title>GAST Manufacturing introduces GAST range of vacuum pumps and compressors</title>
+              <link>http://www.automation.com/automation-news/gast-manufacturing-introduces-gast-range-of-vacuum-pumps-and-compressors</link>
+            
+            <guid>http://www.automation.com/product-showcase/gast-manufacturing-introduces-gast-range-of-vacuum-pumps-and-compressors</guid>
+            <description>The three pump and compressor ranges include sixteen oil-free and oil-lubricated rotary vane models and, in a first for the organization, four claw pump models.</description>
+      <pubDate>Fri, 20 Jan 2017 10:51:26 -0600</pubDate>
+    </item>
+        <item>
+      <title>Phoenix Contact introduces HMC series of circuit breakers</title>
+              <link>http://www.automation.com/automation-news/phoenix-contact-introduces-hmc-series-of-circuit-breakers</link>
+            
+            <guid>http://www.automation.com/product-showcase/phoenix-contact-introduces-hmc-series-of-circuit-breakers</guid>
+            <description>The HMC offers pluggable line and load terminations, along with the unique T-bus option that allows breakers to snap into a common power bus. </description>
+      <pubDate>Fri, 20 Jan 2017 10:43:24 -0600</pubDate>
+    </item>
+        <item>
+      <title>Lenze Americas announces appointment of Ralph Rosa as president</title>
+              <link>http://www.automation.com/automation-news/lenze-americas-announces-appointment-of-ralph-rosa-as-president</link>
+            
+            <guid>http://www.automation.com/automation-news/industry/lenze-americas-announces-appointment-of-ralph-rosa-as-president</guid>
+            <description>Rosa brings a strong track record to Lenze with more than 25 years of experience at Eaton Corporation in the controls, automation, power electronics, and services businesses. </description>
+      <pubDate>Fri, 20 Jan 2017 10:31:58 -0600</pubDate>
+    </item>
+        <item>
+      <title>FIPA delivers machine handling for Foilpuller automated sheet metal system</title>
+              <link>http://www.automation.com/automation-news/fipa-delivers-machine-handling-for-foilpuller-automated-sheet-metal-system</link>
+            
+            <guid>http://www.automation.com/library/case-studies/fipa-delivers-machine-handling-for-foilpuller-automated-sheet-metal-system</guid>
+            <description>Featuring cycle times of 30â45 seconds, the CNC-controlled Foilpuller with FIPA EOAT and vacuum technology automates the film-removal process for metal sheets used in white goods.</description>
+      <pubDate>Fri, 20 Jan 2017 10:26:05 -0600</pubDate>
+    </item>
+        <item>
+      <title>Green Watt Power introduces EVD 500 series of DC/DC converters</title>
+              <link>http://www.automation.com/automation-news/green-watt-power-introduces-evd-500-series-of-dcdc-converters</link>
+            
+            <guid>http://www.automation.com/product-showcase/green-watt-power-introduces-evd-500-series-of-dcdc-converters</guid>
+            <description>The EVD 500 has two input ranges, 30 to 65 VDC and 50 to 120VDC, with output voltages of either 13.5 or 14.2VDC to power auxiliary EV functions such as lights, instruments, accessories, etc.</description>
+      <pubDate>Fri, 20 Jan 2017 10:17:08 -0600</pubDate>
+    </item>
+        <item>
+      <title>Empowering the Workforce to Control the Future of Automation </title>
+              <link>http://www.automation.com/automation-news/empowering-the-workforce-to-control-the-future-of-automation</link>
+            
+            <guid>http://www.automation.com/automation-news/article/empowering-the-workforce-to-control-the-future-of-automation</guid>
+            <description>By Peter Martin, Schneider Electric Process Automation
+Connected products are expected to approach 30 billion by 2020, with utilities, telecommunications and manufacturing as the top three verticals using IoT. The revolution is that finally companies have the real opportunity to move from managing their business to actually controlling it.</description>
+      <pubDate>Thu, 19 Jan 2017 11:52:27 -0600</pubDate>
+    </item>
+        <item>
+      <title>Moxa announces Turbo Pack 3 firmware upgrade for industrial Ethernet switches</title>
+              <link>http://www.automation.com/automation-news/moxa-announces-turbo-pack-3-firmware-upgrade-for-industrial-ethernet-switches</link>
+            
+            <guid>http://www.automation.com/automation-news/industry/moxa-announces-turbo-pack-3-firmware-upgrade-for-industrial-ethernet-switches</guid>
+            <description>This firmware is  compliant with the IEC 62443-4-2 level 2 cybersecurity standard, and also supports other security management features, such as MAC Address and RADIUS authentication to prevent from unauthorized access, known security leaks and unknown attacks. </description>
+      <pubDate>Thu, 19 Jan 2017 11:49:35 -0600</pubDate>
+    </item>
+        <item>
+      <title>T&amp;M Associates announces Victor Acosta as CAD Manager</title>
+              <link>http://www.automation.com/automation-news/tm-associates-announces-victor-acosta-as-cad-manager</link>
+            
+            <guid>http://www.automation.com/automation-news/industry/tm-associates-announces-victor-acosta-as-cad-manager</guid>
+            <description> Acosta brings nearly 20 years of experience in implementing design standards and quality procedures and leveraging burgeoning technologies to create efficiencies that improve workflow, project delivery and work products. </description>
+      <pubDate>Thu, 19 Jan 2017 11:43:37 -0600</pubDate>
+    </item>
+        <item>
+      <title>Bachmann introduces the SCT202 M1 automation module</title>
+              <link>http://www.automation.com/automation-news/bachmann-introduces-the-sct202-m1-automation-module</link>
+            
+            <guid>http://www.automation.com/product-showcase/bachmann-introduces-the-sct202-m1-automation-module</guid>
+            <description>The SCT202 M1 automation module is designed as a speed and position measurement module for safety-related applications, particularly also in the wind sector.</description>
+      <pubDate>Thu, 19 Jan 2017 11:30:07 -0600</pubDate>
+    </item>
+        <item>
+      <title>Okuma to highlight automated machining advancements at NTMA Plant Managers Roundtable</title>
+              <link>http://www.automation.com/automation-news/okuma-to-highlight-automated-machining-advancements-at-ntma-plant-managers-roundtable</link>
+            
+            <guid>http://www.automation.com/automation-news/event/okuma-to-highlight-automated-machining-advancements-at-ntma-plant-managers-roundtable</guid>
+            <description>The NTMA Plant Managers Roundtable at Modern Industries in Phoenix, Arizona will discuss the various types of automation devices that make lights-out manufacturing possible in addition to the advantages and challenges of each type of automization</description>
+      <pubDate>Thu, 19 Jan 2017 11:25:35 -0600</pubDate>
+    </item>
+        <item>
+      <title>The Association for Advancing Automation (A3) announces launch of Mexican trade association</title>
+              <link>http://www.automation.com/automation-news/the-association-for-advancing-automation-a3-announces-launch-of-mexican-trade-association</link>
+            
+            <guid>http://www.automation.com/automation-news/industry/the-association-for-advancing-automation-a3-announces-launch-of-mexican-trade-association</guid>
+            <description>A3 Mexico will serve as a networking hub, fostering interaction between entrepreneurs, investors, vendors, customers, students, educators, scientists, journalists and industry analysts. </description>
+      <pubDate>Thu, 19 Jan 2017 11:20:00 -0600</pubDate>
+    </item>
+        <item>
+      <title>AutomationDirect announces XTP series of temperature transmitter probes</title>
+              <link>http://www.automation.com/automation-news/automationdirect-announces-xtp-series-of-temperature-transmitter-probes</link>
+            
+            <guid>http://www.automation.com/product-showcase/automationdirect-announces-xtp-series-of-temperature-transmitter-probes</guid>
+            <description>The series combines a precision RTD sensing element and transmitter electronics in a single stainless steel temperature transmitter probe. </description>
+      <pubDate>Thu, 19 Jan 2017 11:08:55 -0600</pubDate>
+    </item>
+        <item>
+      <title>Softing adds MQTT connector to dataFEED OPC Suite</title>
+              <link>http://www.automation.com/automation-news/softing-adds-mqtt-connector-to-datafeed-opc-suite</link>
+            
+            <guid>http://www.automation.com/product-showcase/softing-adds-mqtt-connector-to-datafeed-opc-suite</guid>
+            <description>The MQTT Connector enables the integration of automation devices via MQTT Publisher functionality in IoT cloud applications, e.g. IBM Bluemix Cloud.</description>
+      <pubDate>Thu, 19 Jan 2017 11:03:22 -0600</pubDate>
+    </item>
+        <item>
+      <title>Thermon introduces TraceNet TCM2 Dual Circuit Control &amp; Monitoring Unit</title>
+              <link>http://www.automation.com/automation-news/thermon-introduces-tracenet-tcm2-dual-circuit-control-monitoring-unit</link>
+            
+            <guid>http://www.automation.com/product-showcase/thermon-introduces-tracenet-tcm2-dual-circuit-control-monitoring-unit</guid>
+            <description>Like the 18-circuit TraceNet TCM18 Control &amp; Monitoring Unit, the TCM2 unit makes it possible to remotely maintain heat trace circuits that play a critical role in industrial processing facilities.</description>
+      <pubDate>Thu, 19 Jan 2017 10:40:08 -0600</pubDate>
+    </item>
+        <item>
+      <title>Bedrock Automation and Jacobs partner to pursue automation system security</title>
+              <link>http://www.automation.com/automation-news/bedrock-automation-and-jacobs-partner-to-pursue-automation-system-security</link>
+            
+            <guid>http://www.automation.com/automation-news/industry/bedrock-automation-and-jacobs-partner-to-pursue-automation-system-security</guid>
+            <description>Under the agreement, the companies will pursue selected projects with automation system requirements for potential implementation of the Bedrock Open Secure Automation (OSA) system.</description>
+      <pubDate>Thu, 19 Jan 2017 10:29:37 -0600</pubDate>
+    </item>
+        <item>
+      <title>Acnodes announces KD80274 27ââ  LCD</title>
+              <link>http://www.automation.com/automation-news/acnodes-announces-kd80274-27-lcd</link>
+            
+            <guid>http://www.automation.com/product-showcase/acnodes-announces-kd80274-27-lcd</guid>
+            <description>The KD80274 features a 1U rack console with ultra high resolution, a rugged steel enclosure, and a 28.38 inch depth rack mount drawer.</description>
+      <pubDate>Wed, 18 Jan 2017 14:49:49 -0600</pubDate>
+    </item>
+        <item>
+      <title>Emerson to help EPH Lynemouth Power automate biomass-fueled power plant</title>
+              <link>http://www.automation.com/automation-news/emerson-to-help-eph-lynemouth-power-automate-biomass-fueled-power-plant</link>
+            
+            <guid>http://www.automation.com/automation-news/industry/emerson-to-help-eph-lynemouth-power-automate-biomass-fueled-power-plant</guid>
+            <description>When the conversion is complete in late 2017, the plant, near Newcastle in the United Kingdom, will be fueled by approximately 1.4 million tons of wood waste per year, supplying the national grid with up to 390 megawatts of low-carbon electricity. </description>
+      <pubDate>Wed, 18 Jan 2017 11:49:33 -0600</pubDate>
+    </item>
+        <item>
+      <title>Adcole introduces the Adcole 1302 Dual Head Camshaft Gage</title>
+              <link>http://www.automation.com/automation-news/adcole-introduces-the-adcole-1302-dual-head-camshaft-gage</link>
+            
+            <guid>http://www.automation.com/product-showcase/adcole-introduces-the-adcole-1302-dual-head-camshaft-gage</guid>
+            <description>The Adcole 1302 Dual Head Camshaft Gage features two independent opposed Heidenhain side wall measuring heads with Â±10 mm travel for measuring sliding cam components with sub-micron accuracy.</description>
+      <pubDate>Wed, 18 Jan 2017 11:44:22 -0600</pubDate>
+    </item>
+        <item>
+      <title>Sciemetric Instruments releases Model 3675 leak test station</title>
+              <link>http://www.automation.com/automation-news/sciemetric-instruments-releases-model-3675-leak-test-station</link>
+            
+            <guid>http://www.automation.com/product-showcase/sciemetric-instruments-releases-model-3675-leak-test-station</guid>
+            <description>The 3675 can combine up to three of Sciemetricâs 3520 Series Leak Test units in one stand, controlled by a single sigPOD controller. </description>
+      <pubDate>Wed, 18 Jan 2017 11:40:05 -0600</pubDate>
+    </item>
+        <item>
+      <title>HARTING announces partnership with Heilind Electronics</title>
+              <link>http://www.automation.com/automation-news/harting-announces-partnership-with-heilind-electronics</link>
+            
+            <guid>http://www.automation.com/automation-news/industry/harting-announces-partnership-with-heilind-electronics</guid>
+            <description>HARTING will provide Heilindâs customers with its connectivity solutions. Heilind will, in turn, increase HARTINGâs growth through their online sales and industry presence. </description>
+      <pubDate>Wed, 18 Jan 2017 11:35:17 -0600</pubDate>
+    </item>
+        <item>
+      <title>Gilman Precision announces Donald Hunkel as new application engineer</title>
+              <link>http://www.automation.com/automation-news/gilman-precision-announces-donald-hunkel-as-new-application-engineer</link>
+            
+            <guid>http://www.automation.com/automation-news/industry/gilman-precision-announces-donald-hunkel-as-new-application-engineer</guid>
+            <description>In his current role, Donâs objective is to assist customers in overcoming engineering challenges and produce customized products that achieve the desired application using high quality solutions.  </description>
+      <pubDate>Wed, 18 Jan 2017 11:24:33 -0600</pubDate>
+    </item>
+        <item>
+      <title>Fluke announces addition of four pyrometers to Endurance series</title>
+              <link>http://www.automation.com/automation-news/fluke-announces-addition-of-four-pyrometers-to-endurance-series</link>
+            
+            <guid>http://www.automation.com/product-showcase/fluke-announces-addition-of-four-pyrometers-to-endurance-series</guid>
+            <description> Application areas include primary and secondary metals manufacturing, carbon processing, silicon production, and now also foundries and welding, as well as rubber and thick plastics. </description>
+      <pubDate>Wed, 18 Jan 2017 11:15:03 -0600</pubDate>
+    </item>
+        <item>
+      <title>Red Lion earns &#039;Leadership in Automation&#039; award</title>
+              <link>http://www.automation.com/automation-news/red-lion-earns-leadership-in-automation-award</link>
+            
+            <guid>http://www.automation.com/automation-news/event/red-lion-earns-leadership-in-automation-award</guid>
+            <description>Red Lion earned the award for the sixth consecutive year, in part due to its HMI hardware and wireless networking components</description>
+      <pubDate>Wed, 18 Jan 2017 11:04:02 -0600</pubDate>
+    </item>
+        <item>
+      <title>Crouzet introduces BDE PRO external motor drive</title>
+              <link>http://www.automation.com/automation-news/crouzet-introduces-bde-pro-external-motor-drive</link>
+            
+            <guid>http://www.automation.com/product-showcase/crouzet-introduces-bde-pro-external-motor-drive</guid>
+            <description>This analog controller is suitable for use in a variety of markets including medical, access control, commercial and industrial applications, and is ideal for prototyping in new product development.</description>
+      <pubDate>Wed, 18 Jan 2017 11:00:32 -0600</pubDate>
+    </item>
+        <item>
+      <title>Honeywell and Intel collaborate to develop IoT solutions for the retail industry</title>
+              <link>http://www.automation.com/automation-news/honeywell-and-intel-collaborate-to-develop-iot-solutions-for-the-retail-industry</link>
+            
+            <guid>http://www.automation.com/automation-news/industry/honeywell-and-intel-collaborate-to-develop-iot-solutions-for-the-retail-industry</guid>
+            <description>The Honeywell and Intel collaboration will focus on solutions that utilize the two companiesâ technology offerings, including sensors, handheld computers, processors, bar code scanners, RFID tags and readers and cloud-based software</description>
+      <pubDate>Wed, 18 Jan 2017 10:37:35 -0600</pubDate>
+    </item>
+        <item>
+      <title>PI introduces V-551, V-552 motor stages &amp; C-891 motion controller to PIMag series </title>
+              <link>http://www.automation.com/automation-news/pi-introduces-v-551-v-552-motor-stages-c-891-motion-controller-to-pimag-series</link>
+            
+            <guid>http://www.automation.com/product-showcase/pi-introduces-v-551-v-552-motor-stages-c-891-motion-controller-to-pimag-series</guid>
+            <description>The stages are equipped with incremental and absolute-type linear encoders for direct position measurement and ironless 3-phase motors and single-phase voice-coil drives.</description>
+      <pubDate>Wed, 18 Jan 2017 10:31:49 -0600</pubDate>
+    </item>
+        <item>
+      <title>MESA to co-locate 2017 conference with IndustryWeek Manufacturing Conference and Expo</title>
+              <link>http://www.automation.com/automation-news/mesa-to-co-locate-2017-conference-with-industryweek-manufacturing-conference-and-expo</link>
+            
+            <guid>http://www.automation.com/automation-news/event/mesa-to-co-locate-2017-conference-with-industryweek-manufacturing-conference-and-expo</guid>
+            <description>Both events will be held at the Huntington Convention Center in Cleveland, Ohio, USA, May 8 - 10, 2017. </description>
+      <pubDate>Wed, 18 Jan 2017 10:24:40 -0600</pubDate>
+    </item>
+        <item>
+      <title>Antaira introduces the IMC-C1000-SFP series Ethernet-to-fiber media converter</title>
+              <link>http://www.automation.com/automation-news/antaira-introduces-the-imc-c1000-sfp-series-ethernet-to-fiber-media-converter</link>
+            
+            <guid>http://www.automation.com/product-showcase/antaira-introduces-the-imc-c1000-sfp-series-ethernet-to-fiber-media-converter</guid>
+            <description>The IMC-C1000-SFP series is designed to fulfill industrial applications that have small space requirements and need high bandwidth capabilities such as factory automation, security, ITS transportation, power/utility, and water wastewater treatment plants.</description>
+      <pubDate>Wed, 18 Jan 2017 09:41:22 -0600</pubDate>
+    </item>
+        <item>
+      <title>DHS Best Practices to Secure ICS Communications</title>
+              <link>http://www.automation.com/automation-news/dhs-best-practices-to-secure-ics-communications</link>
+            
+            <guid>http://www.automation.com/automation-news/article/dhs-best-practices-to-secure-ics-communications</guid>
+            <description>By Daniel Crum, Owl Computing Technologies, Inc.
+The US Department of Homeland Security, in conjunction with the FBI and NSA, has released recommended best practices that any organization can use to help secure their ICS communications. This article discusses these practices</description>
+      <pubDate>Tue, 17 Jan 2017 14:52:43 -0600</pubDate>
+    </item>
+        <item>
+      <title>How Smart Instruments Enable Improved Pumping</title>
+              <link>http://www.automation.com/automation-news/how-smart-instruments-enable-improved-pumping</link>
+            
+            <guid>http://www.automation.com/automation-news/article/how-smart-instruments-enable-improved-pumping</guid>
+            <description>By Nathan Hedrick, Endress+Hauser
+Several instrument manufacturers offer various types of âsmart instruments,â and their approaches vary. This article covers how Endress+Hauser flow sensors with Heartbeat Technology provide the kind of information needed to implement smart pumping.</description>
+      <pubDate>Tue, 17 Jan 2017 13:21:30 -0600</pubDate>
+    </item>
+        <item>
+      <title>Is MES On Its Way Out?</title>
+              <link>http://www.automation.com/automation-news/is-mes-on-its-way-out</link>
+            
+            <guid>http://www.automation.com/automation-news/article/is-mes-on-its-way-out</guid>
+            <description>By Bill Lydon, Editor, Automation.com
+The convergence of IT and OT is one of the more fascinating trends that has spawned many discussions throughout the industrial space., but does it sound the death knell for Manufacturing Execution Systems?
+</description>
+      <pubDate>Tue, 17 Jan 2017 11:21:41 -0600</pubDate>
+    </item>
+        <item>
+      <title>ams launches AS 7262 and AS 7263 multispectral sensors</title>
+              <link>http://www.automation.com/automation-news/ams-launches-as-7262-and-as-7263-multispectral-sensors</link>
+            
+            <guid>http://www.automation.com/product-showcase/ams-launches-as-7262-and-as-7263-multispectral-sensors</guid>
+            <description>Key solution spaces include material and product authentication, product quality and integrity as well as material content analysis in the near-infrared (NIR) and visible spectrums.</description>
+      <pubDate>Tue, 17 Jan 2017 11:16:54 -0600</pubDate>
+    </item>
+        <item>
+      <title>Teledyne DALSA announces M4030, M4020, C4030 and C4020 Genie Nano cameras</title>
+              <link>http://www.automation.com/automation-news/teledyne-dalsa-announces-m4030-m4020-c4030-and-c4020-genie-nano-cameras</link>
+            
+            <guid>http://www.automation.com/product-showcase/teledyne-dalsa-announces-m4030-m4020-c4030-and-c4020-genie-nano-cameras</guid>
+            <description>Developed for an expanding number of industrial imaging applications, including intelligent traffic systems, printed circuit board inspection and metrology, Genie Nano models feature a global shutter and a 3.45 Âµm pixel. </description>
+      <pubDate>Tue, 17 Jan 2017 11:10:05 -0600</pubDate>
+    </item>
+        <item>
+      <title>Yokogawa to deliver control systems for Layyah Power and Desalinization Station in UAE</title>
+              <link>http://www.automation.com/automation-news/yokogawa-to-deliver-control-systems-for-layyah-power-and-desalinization-station-in-uae</link>
+            
+            <guid>http://www.automation.com/automation-news/industry/yokogawa-to-deliver-control-systems-for-layyah-power-and-desalinization-station-in-uae</guid>
+            <description>For this project, Yokogawa Middle East &amp; Africa will deliver the CENTUM VP integrated production control system for the boiler, turbine governor, turbine protection system and the desalination plant at each of these units.</description>
+      <pubDate>Tue, 17 Jan 2017 11:05:32 -0600</pubDate>
+    </item>
+        <item>
+      <title>CEL introduces CG series of SPDT RF switches</title>
+              <link>http://www.automation.com/automation-news/cel-introduces-cg-series-of-spdt-rf-switches</link>
+            
+            <guid>http://www.automation.com/product-showcase/cel-introduces-cg-series-of-spdt-rf-switches</guid>
+            <description>Target markets include test and measurement systems as well as Wi-Fi, ZigBee and Bluetooth routers, sensors, appliances, and other radio equipped products.</description>
+      <pubDate>Tue, 17 Jan 2017 11:02:09 -0600</pubDate>
+    </item>
+        <item>
+      <title>Allied Vision introduces Manta G-1236 camera with 12 mega-pixel CMOS sensor</title>
+              <link>http://www.automation.com/automation-news/allied-vision-introduces-manta-g-1236-camera-with-12-mega-pixel-cmos-sensor</link>
+            
+            <guid>http://www.automation.com/product-showcase/allied-vision-introduces-manta-g-1236-camera-with-12-mega-pixel-cmos-sensor</guid>
+            <description>The Manta G-1236 incorporates the IMX304 CMOS sensor out of Sonyâs Pregius series. This image sensor has a resolution of approximately 12.3 megapixels (4112 x 3008) with a pixel size of 3.45Âµm. </description>
+      <pubDate>Tue, 17 Jan 2017 10:56:38 -0600</pubDate>
+    </item>
+        <item>
+      <title>Casa Systems chooses Omnify Empower PLM software to manage engineering products</title>
+              <link>http://www.automation.com/automation-news/casa-systems-chooses-omnify-empower-plm-software-to-manage-engineering-products</link>
+            
+            <guid>http://www.automation.com/library/case-studies/casa-systems-chooses-omnify-empower-plm-software-to-manage-engineering-products</guid>
+            <description>Casa Systems was growing and they needed to find a solution to support formal engineering change control processes in order to eliminate issues they were experiencing with accountability, delays and lost information. </description>
+      <pubDate>Tue, 17 Jan 2017 10:51:08 -0600</pubDate>
+    </item>
+        <item>
+      <title>EnOcean announces Andreas Schneider as next CEO</title>
+              <link>http://www.automation.com/automation-news/enocean-announces-andreas-schneider-as-next-ceo</link>
+            
+            <guid>http://www.automation.com/automation-news/industry/enocean-announces-andreas-schneider-as-next-ceo</guid>
+            <description>In this position, Andreas Schneider will further expand EnOcean&#039;s business in line with its long-term strategy in the self-powered IoT for the core markets of building automation, smart homes, LED light control and industrial automation.</description>
+      <pubDate>Tue, 17 Jan 2017 10:40:49 -0600</pubDate>
+    </item>
+        <item>
+      <title>Deutsche Messe announces CeMAT Canada to be held in September 2017</title>
+              <link>http://www.automation.com/automation-news/deutsche-messe-announces-cemat-canada-to-be-held-in-september-2017</link>
+            
+            <guid>http://www.automation.com/automation-news/industry/deutsche-messe-announces-cemat-canada-to-be-held-in-september-2017</guid>
+            <description>CANADA will run parallel to the Canadian metalworking trade fair CMTS (Canadian Manufacturing Technology Show). The event venue is the International Centre in Mississauga, Ontario, which is adjacent to the Toronto Airport.</description>
+      <pubDate>Tue, 17 Jan 2017 10:36:26 -0600</pubDate>
+    </item>
+        <item>
+      <title>Spectrum releases 14 and 16 bit LXI-based digitizers</title>
+              <link>http://www.automation.com/automation-news/spectrum-releases-14-and-16-bit-lxi-based-digitizers</link>
+            
+            <guid>http://www.automation.com/product-showcase/spectrum-releases-14-and-16-bit-lxi-based-digitizers</guid>
+            <description>The high channel density makes the instruments suitable for applications where arrays of receivers, sensors, detectors, rectifiers, antennas and other electronic devices are to be used and tested.</description>
+      <pubDate>Tue, 17 Jan 2017 10:16:35 -0600</pubDate>
+    </item>
+        <item>
+      <title>Fujitsu releases panel-mount thermal printer module</title>
+              <link>http://www.automation.com/automation-news/fujitsu-releases-panel-mount-thermal-printer-module</link>
+            
+            <guid>http://www.automation.com/product-showcase/fujitsu-releases-panel-mount-thermal-printer-module</guid>
+            <description>The panel-mount thermal printer subassembly streamlines the process of embedding a printing/cutting solution into POS, kiosk, ticketing and vending machine, measurement equipment, medical device, and banking ATM applications.</description>
+      <pubDate>Tue, 17 Jan 2017 09:59:35 -0600</pubDate>
+    </item>
+        <item>
+      <title>Linear Technology announces expansion of SmartMesh IP wireless sensor network</title>
+              <link>http://www.automation.com/automation-news/linear-technology-announces-expansion-of-smartmesh-ip-wireless-sensor-network</link>
+            
+            <guid>http://www.automation.com/product-showcase/linear-technology-announces-expansion-of-smartmesh-ip-wireless-sensor-network</guid>
+            <description>SmartMesh IP, based on 6LoWPAN, delivers wire-like reliability and  power to wireless mesh networks, allowing secure deployment of battery-operated IoT sensors in harsh environments with more than 10 years of battery life. </description>
+      <pubDate>Tue, 17 Jan 2017 09:53:21 -0600</pubDate>
+    </item>
+        <item>
+      <title>AutomationDirect introduces the Stride SE2 series of industrial Ethernet switches</title>
+              <link>http://www.automation.com/automation-news/automationdirect-introduces-the-stride-se2-series-of-industrial-ethernet-switches</link>
+            
+            <guid>http://www.automation.com/product-showcase/automationdirect-introduces-the-stride-se2-series-of-industrial-ethernet-switches</guid>
+            <description>SE2 series switches offer an operating temperature range and are available with a 12-48 VDC or 18-30 VAC redundant power input, reverse polarity protection, and IP30 metal cases.</description>
+      <pubDate>Fri, 13 Jan 2017 11:03:09 -0600</pubDate>
+    </item>
+        <item>
+      <title>Okuma announces Koma Precision as 2016 Partner of the Year</title>
+              <link>http://www.automation.com/automation-news/okuma-announces-koma-precision-as-2016-partner-of-the-year</link>
+            
+            <guid>http://www.automation.com/automation-news/industry/okuma-announces-koma-precision-as-2016-partner-of-the-year</guid>
+            <description>Koma Precision received the highest number of votes amongst all 50 members of Partners in THINC in the annual partner effectiveness survey to earn the distinguished title.</description>
+      <pubDate>Fri, 13 Jan 2017 10:59:02 -0600</pubDate>
+    </item>
+        <item>
+      <title>Carolina Color chooses Liad to automate color delivery product line</title>
+              <link>http://www.automation.com/automation-news/carolina-color-chooses-liad-to-automate-color-delivery-product-line</link>
+            
+            <guid>http://www.automation.com/library/case-studies/carolina-color-chooses-liad-to-automate-color-delivery-product-line</guid>
+            <description>Carolina Color faced an interesting business decision arising from the launch of two new coloring technologies. Carolina Colors decided to find an automated solution that the customers could install and use in order to achieve a cost advantage. </description>
+      <pubDate>Fri, 13 Jan 2017 10:56:14 -0600</pubDate>
+    </item>
+        <item>
+      <title>Lapp Group announces OLFLEX 409 P PUR control cable</title>
+              <link>http://www.automation.com/automation-news/lapp-group-announces-olflex-409-p-pur-control-cable</link>
+            
+            <guid>http://www.automation.com/product-showcase/lapp-group-announces-olflex-409-p-pur-control-cable</guid>
+            <description>ÃLFLEX 409 P is resistant to contact with many mineral oil-based lubricants, diluted acids, aqueous alkaline solutions and other chemical media.</description>
+      <pubDate>Fri, 13 Jan 2017 10:31:04 -0600</pubDate>
+    </item>
+        <item>
+      <title>ASTM appoints Arman Shakkaliyev to International Board of Directors</title>
+              <link>http://www.automation.com/automation-news/astm-appoints-arman-shakkaliyev-to-international-board-of-directors</link>
+            
+            <guid>http://www.automation.com/automation-news/industry/astm-appoints-arman-shakkaliyev-to-international-board-of-directors</guid>
+            <description>Shakkaliyev holds a law degree from Gumilyov Eurasian National University; an economics degree from Karaganda State University; and a degree in standardization, certification, and metrology from Kostanay Engineering Economic University.</description>
+      <pubDate>Fri, 13 Jan 2017 10:00:32 -0600</pubDate>
+    </item>
+        <item>
+      <title>SPECTRO introduces SPECTROPORT OES metals analyzer</title>
+              <link>http://www.automation.com/automation-news/spectro-introduces-spectroport-oes-metals-analyzer</link>
+            
+            <guid>http://www.automation.com/product-showcase/spectro-introduces-spectroport-oes-metals-analyzer</guid>
+            <description>SPECTROPORT analyzes elements such as carbon, sulfur, phosphorus, and boron. Its optical system is designed to cover a range of elemental wavelengths, displaying precision, stability, and robustness without additional heating.</description>
+      <pubDate>Fri, 13 Jan 2017 09:56:16 -0600</pubDate>
+    </item>
+        <item>
+      <title>Mentor Graphics introduces Mentor Safe ISO 26262 qualification programs</title>
+              <link>http://www.automation.com/automation-news/mentor-graphics-introduces-mentor-safe-iso-26262-qualification-programs</link>
+            
+            <guid>http://www.automation.com/library/resources/mentor-graphics-introduces-mentor-safe-iso-26262-qualification-programs</guid>
+            <description>Mentor is an automotive systems supplier providing design tools and embedded software in the areas of connectivity, electrification, autonomous drive and vehicle architecture.</description>
+      <pubDate>Fri, 13 Jan 2017 09:49:14 -0600</pubDate>
+    </item>
+        <item>
+      <title>Plex Systems announces Richard Murray as Vice President of Engineering</title>
+              <link>http://www.automation.com/automation-news/plex-systems-announces-richard-murray-as-vice-president-of-engineering</link>
+            
+            <guid>http://www.automation.com/automation-news/industry/plex-systems-announces-richard-murray-as-vice-president-of-engineering</guid>
+            <description>Murray was most recently senior vice president of engineering at Bromium, where he led development for the companyâs global enterprise cyber security solutions.</description>
+      <pubDate>Thu, 12 Jan 2017 12:03:01 -0600</pubDate>
+    </item>
+        <item>
+      <title>Rotork provides automated shut-off for heating pipelines in Northern Sweden bridge</title>
+              <link>http://www.automation.com/automation-news/rotork-provides-automated-shut-off-for-heating-pipelines-in-northern-sweden-bridge</link>
+            
+            <guid>http://www.automation.com/library/case-studies/rotork-provides-automated-shut-off-for-heating-pipelines-in-northern-sweden-bridge</guid>
+            <description>Opened in 2014, the 2.1 kilometre bridge also carries two 400 mm diameter district heating pipelines which are now protected by an emergency shut-off system incorporating Rotork pneumatic actuators.</description>
+      <pubDate>Thu, 12 Jan 2017 11:59:22 -0600</pubDate>
+    </item>
+        <item>
+      <title>PcVue Solutions introduces PCVue 11.2</title>
+              <link>http://www.automation.com/automation-news/pcvue-solutions-introduces-pcvue-112</link>
+            
+            <guid>http://www.automation.com/product-showcase/pcvue-solutions-introduces-pcvue-112</guid>
+            <description>PcVue 11.2 offers consolidation and integration to support convergence of SMART Buildings, Distributed Energy Resources (DER), Infrastructure, Transportation, and Industrial Automation. </description>
+      <pubDate>Thu, 12 Jan 2017 11:44:49 -0600</pubDate>
+    </item>
+        <item>
+      <title>ISA announces Call for Abstracts for 2017 Water/Wastewater and Automatic Controls Symposium</title>
+              <link>http://www.automation.com/automation-news/isa-announces-call-for-abstracts-for-2017-waterwastewater-and-automatic-controls-symposium</link>
+            
+            <guid>http://www.automation.com/automation-news/industry/isa-announces-call-for-abstracts-for-2017-waterwastewater-and-automatic-controls-symposium</guid>
+            <description>Abstracts should include a 250-word proposal outlining the topic to be presented. Prospective authors have the choice of presenting a 30-minute PowerPoint presentation, a paper presentation, or a poster session. Deadline for submission is 31 January 2017.</description>
+      <pubDate>Thu, 12 Jan 2017 11:38:20 -0600</pubDate>
+    </item>
+        <item>
+      <title>HARTING CEO to discuss manufacturing and IoT on Fox Business show &#039;Worldwide Business&#039;</title>
+              <link>http://www.automation.com/automation-news/harting-ceo-to-discuss-manufacturing-and-iot-on-fox-business-show-worldwide-business</link>
+            
+            <guid>http://www.automation.com/automation-news/event/harting-ceo-to-discuss-manufacturing-and-iot-on-fox-business-show-worldwide-business</guid>
+            <description>Tune in to see HARTING on Fox Business Network on January 15, 2017 at 5:30pm ET and Bloomberg International on January 22, 2017 at 7:30am GMT, 10:30am CST D.F. and 3:00pm HKT.</description>
+      <pubDate>Thu, 12 Jan 2017 11:38:20 -0600</pubDate>
+    </item>
+        <item>
+      <title>Lakeview Farms uses Leading2Lean&#039;s CloudDISPATCH system to cut downtime by 34 percent</title>
+              <link>http://www.automation.com/automation-news/lakeview-farms-uses-leading2leans-clouddispatch-system-to-cut-downtime-by-34-percent</link>
+            
+            <guid>http://www.automation.com/library/case-studies/lakeview-farms-uses-leading2leans-clouddispatch-system-to-cut-downtime-by-34-percent</guid>
+            <description>Six months after implementing Leading2Leanâs CloudDISPATCH system, however, Lakeview Farms experienced a 34 percent decrease in line downtime, a 15 percent reduction in repair costs, and a 30 percent increase in maintenance technician efficiency. </description>
+      <pubDate>Thu, 12 Jan 2017 11:33:15 -0600</pubDate>
+    </item>
+        <item>
+      <title>TT Electronics announces participation in NASA mission to Mars</title>
+              <link>http://www.automation.com/automation-news/tt-electronics-announces-participation-in-nasa-mission-to-mars</link>
+            
+            <guid>http://www.automation.com/automation-news/industry/tt-electronics-announces-participation-in-nasa-mission-to-mars</guid>
+            <description>The Mars 2020 Rover will carry an entirely new subsystem to collect and prepare Martian rocks and soil samples.  This subsystem will include a coring drill on its arm, controlled partially by TT Electronicsâ Hall-effect sensors. </description>
+      <pubDate>Thu, 12 Jan 2017 11:29:01 -0600</pubDate>
+    </item>
+        <item>
+      <title>ESA Automation announces acquisition of Selema.</title>
+              <link>http://www.automation.com/automation-news/esa-automation-announces-acquisition-of-selema</link>
+            
+            <guid>http://www.automation.com/automation-news/industry/esa-automation-announces-acquisition-of-selema</guid>
+            <description>The recent acquisition represents a step ahead towards the accomplishment of a complete supply chain for the world of industrial automation</description>
+      <pubDate>Thu, 12 Jan 2017 10:20:04 -0600</pubDate>
+    </item>
+        <item>
+      <title>Servomex launches SERVOTOUGH Laser 3 Plus laser analyzer range</title>
+              <link>http://www.automation.com/automation-news/servomex-launches-servotough-laser-3-plus-laser-analyzer-range</link>
+            
+            <guid>http://www.automation.com/product-showcase/servomex-launches-servotough-laser-3-plus-laser-analyzer-range</guid>
+            <description>The Combustion O2 version is optimized to measure oxygen in flue gas to control oxygen levels and optimize combustion efficiency</description>
+      <pubDate>Thu, 12 Jan 2017 10:10:42 -0600</pubDate>
+    </item>
+        <item>
+      <title>KD80170 Features 17.3&quot; Monitor with Full HD</title>
+              <link>http://www.automation.com/automation-news/kd80170-features-173-monitor-with-full-hd</link>
+            
+            <guid>http://www.automation.com/product-showcase/kd80170-features-173-monitor-with-full-hd</guid>
+            <description>Acnodes Corporation introduces the KD80170, a 17.3 inch rack console with full HD resolution and ICD. It features a full IP65 rated rugged enclosure.</description>
+      <pubDate>Wed, 11 Jan 2017 14:57:58 -0600</pubDate>
+    </item>
+        <item>
+      <title>ISA Security Compliances announces ISASecure SLDA certification for Honeywell&#039;s Phoenix development site</title>
+              <link>http://www.automation.com/automation-news/isa-security-compliances-announces-isasecure-slda-certification-for-honeywells-phoenix-development-site</link>
+            
+            <guid>http://www.automation.com/automation-news/industry/isa-security-compliances-announces-isasecure-slda-certification-for-honeywells-phoenix-development-site</guid>
+            <description>The certification independently confirms that Honeywellâs named system development lifecycle (SDL), the Standard HPS Iterative Process (HIP), meets the security development lifecycle requirements of the ISASecure Security Development Lifecycle Assurance (SDLA) certification</description>
+      <pubDate>Wed, 11 Jan 2017 11:49:26 -0600</pubDate>
+    </item>
+        <item>
+      <title>CeMAT to partner and share locations with HANNOVER MESSE 2017</title>
+              <link>http://www.automation.com/automation-news/cemat-to-partner-and-share-locations-with-hannover-messe-2017</link>
+            
+            <guid>http://www.automation.com/automation-news/industry/cemat-to-partner-and-share-locations-with-hannover-messe-2017</guid>
+            <description>CeMAT and HANNOVER MESSE are being staged as standalone events, but their common ground will be prominently highlighted for the benefit of potential crossover visitors.</description>
+      <pubDate>Wed, 11 Jan 2017 11:43:17 -0600</pubDate>
+    </item>
+        <item>
+      <title>EVT introduces Eyecheck 5xxx smart camera series</title>
+              <link>http://www.automation.com/automation-news/evt-introduces-eyecheck-5xxx-smart-camera-series</link>
+            
+            <guid>http://www.automation.com/product-showcase/evt-introduces-eyecheck-5xxx-smart-camera-series</guid>
+            <description>The EyeCheck 5xxx smart camera series with integrated EyeVision software is a solution for image evaluation and can be applied to tasks such as e.g. pattern matching, code reading, OCR/ OCV, object detection, measurement technology, surface inspection, and more.</description>
+      <pubDate>Wed, 11 Jan 2017 11:39:05 -0600</pubDate>
+    </item>
+        <item>
+      <title>ISA and Automation Federation announce kickoff of 2017 FIRST Robotics competition</title>
+              <link>http://www.automation.com/automation-news/isa-and-automation-federation-announce-kickoff-of-2017-first-robotics-competition</link>
+            
+            <guid>http://www.automation.com/automation-news/industry/isa-and-automation-federation-announce-kickoff-of-2017-first-robotics-competition</guid>
+            <description>This yearâs FRC, titled FIRST STEAMWORKS, is expected to involve approximately 85,000 high school students on more than 3,400 participating teams throughout the world. </description>
+      <pubDate>Wed, 11 Jan 2017 11:34:21 -0600</pubDate>
+    </item>
+        <item>
+      <title>System Logistics announces acquisition of Vertique to expand warehouse automation solutions</title>
+              <link>http://www.automation.com/automation-news/system-logistics-announces-acquisition-of-vertique-to-expand-warehouse-automation-solutions</link>
+            
+            <guid>http://www.automation.com/automation-news/industry/system-logistics-announces-acquisition-of-vertique-to-expand-warehouse-automation-solutions</guid>
+            <description>Vertique is located in Arden, North Carolina, and over the past 15 plus years, has grown to be one of the most important key players in the food &amp; beverage market providing solutions for intra-logistics. </description>
+      <pubDate>Wed, 11 Jan 2017 11:23:32 -0600</pubDate>
+    </item>
+        <item>
+      <title>MYNAH&#039;s PROFINET Driver for DeltaV VIM2 recieves PROFINET International certification</title>
+              <link>http://www.automation.com/automation-news/mynahs-profinet-driver-for-deltav-vim2-recieves-profinet-international-certification</link>
+            
+            <guid>http://www.automation.com/product-showcase/mynahs-profinet-driver-for-deltav-vim2-recieves-profinet-international-certification</guid>
+            <description>The addition of PROFINET is designed to save DeltaV users time and effort by enabling direct connection between the DeltaV DCS and plant floor devices such as motor control centers, variable speed drives, and PLCs in process automation businesses. </description>
+      <pubDate>Wed, 11 Jan 2017 11:14:12 -0600</pubDate>
+    </item>
+        <item>
+      <title>binder expands M12 connector series to include overmolded cables</title>
+              <link>http://www.automation.com/automation-news/binder-expands-m12-connector-series-to-include-overmolded-cables</link>
+            
+            <guid>http://www.automation.com/product-showcase/binder-expands-m12-connector-series-to-include-overmolded-cables</guid>
+            <description>These cordsets are designed using PUR cable material and are available in 2 meter and 5 meter solutions. They are available in two power versions; the S-Coded version for AC power and the T-Coded version for DC power.</description>
+      <pubDate>Wed, 11 Jan 2017 11:10:01 -0600</pubDate>
+    </item>
+        <item>
+      <title>autoVimation announces stainless steel enclosure series</title>
+              <link>http://www.automation.com/automation-news/autovimation-announces-stainless-steel-enclosure-series</link>
+            
+            <guid>http://www.automation.com/product-showcase/autovimation-announces-stainless-steel-enclosure-series</guid>
+            <description>The housings allow for the protection of cameras with up to 62x62mm cross section â often used within the food industry â from aggressive cleaning agents and high pressure water jets.</description>
+      <pubDate>Wed, 11 Jan 2017 11:07:01 -0600</pubDate>
+    </item>
+        <item>
+      <title>Honeywell and Aereon to collaborate on IIoT solutions for oil and gas industry</title>
+              <link>http://www.automation.com/automation-news/honeywell-and-aereon-to-collaborate-on-iiot-solutions-for-oil-and-gas-industry</link>
+            
+            <guid>http://www.automation.com/automation-news/industry/honeywell-and-aereon-to-collaborate-on-iiot-solutions-for-oil-and-gas-industry</guid>
+            <description>The Inspire ecosystem is a key part of Honeywellâs Connected Plant initiative that helps manufacturers leverage the IIoT to improve the safety, efficiency and reliability of operations across a single plant or several plants across an enterprise.</description>
+      <pubDate>Wed, 11 Jan 2017 11:01:02 -0600</pubDate>
+    </item>
+        <item>
+      <title>Hilscher announces IIoT Solutions Marketing Cooperation with Cirrus Link Solutions and Inductive Automation</title>
+              <link>http://www.automation.com/automation-news/hilscher-announces-iiot-solutions-marketing-cooperation-with-cirrus-link-solutions-and-inductive-automation</link>
+            
+            <guid>http://www.automation.com/automation-news/industry/hilscher-announces-iiot-solutions-marketing-cooperation-with-cirrus-link-solutions-and-inductive-automation</guid>
+            <description>The IIoT Solutions Marketing Cooperation is intended to support sales of high value Industrial Internet of Things (IIoT) solutions to industrial automation markets.</description>
+      <pubDate>Wed, 11 Jan 2017 10:46:03 -0600</pubDate>
+    </item>
+        <item>
+      <title>Antaira releases LNX-C500 series of industrial Ethernet switches</title>
+              <link>http://www.automation.com/automation-news/antaira-releases-lnx-c500-series-of-industrial-ethernet-switches</link>
+            
+            <guid>http://www.automation.com/product-showcase/antaira-releases-lnx-c500-series-of-industrial-ethernet-switches</guid>
+            <description>Antaira Technologiesâ LNX-C500 series is designed to fulfill industrial applications that have small space requirements such as factory automation, ITS, security, ITS transportation, power/utility, and water wastewater treatment plants.</description>
+      <pubDate>Wed, 11 Jan 2017 10:33:46 -0600</pubDate>
+    </item>
+        <item>
+      <title>NI announces opening of Industrial IoT Lab</title>
+              <link>http://www.automation.com/automation-news/ni-announces-opening-of-industrial-iot-lab</link>
+            
+            <guid>http://www.automation.com/automation-news/industry/ni-announces-opening-of-industrial-iot-lab</guid>
+            <description>Designed with flexibility for the future, the labâs operational focus includes areas such as microgrid control and communication, advanced control for manufacturing, and asset monitoring for heavy equipment.</description>
+      <pubDate>Wed, 11 Jan 2017 10:19:56 -0600</pubDate>
+    </item>
+        <item>
+      <title>United Electric Controls&#039; transmitter wins 2016 exida Safety Award</title>
+              <link>http://www.automation.com/automation-news/united-electric-controls-transmitter-wins-2016-exida-safety-award</link>
+            
+            <guid>http://www.automation.com/automation-news/industry/united-electric-controls-transmitter-wins-2016-exida-safety-award</guid>
+            <description>Selected in the sensor category, the United Electric Safety Transmitter (ST) incorporates a logic solver and high capacity safety relay output (SRO) in addition to an industry standard transmitter and an explosion-proof enclosure.</description>
+      <pubDate>Wed, 11 Jan 2017 10:07:32 -0600</pubDate>
+    </item>
+        <item>
+      <title>MPPIglobal launches Optimum, a new business improvement software</title>
+              <link>http://www.automation.com/automation-news/mppiglobal-launches-optimum-a-new-business-improvement-software</link>
+            
+            <guid>http://www.automation.com/product-showcase/mppiglobal-launches-optimum-a-new-business-improvement-software</guid>
+            <description>MPPIglobal is excited to announce the launch of Optimum, the asset optimization software purpose-built for any heavy asset-based operation.  </description>
+      <pubDate>Tue, 10 Jan 2017 20:22:59 -0600</pubDate>
+    </item>
+        <item>
+      <title>Red Lion adds DNP3 support to Graphite HMI platform</title>
+              <link>http://www.automation.com/automation-news/red-lion-adds-dnp3-support-to-graphite-hmi-platform</link>
+            
+            <guid>http://www.automation.com/product-showcase/red-lion-adds-dnp3-support-to-graphite-hmi-platform</guid>
+            <description> Working with Graphite Human Machine Interface (HMI) operator panels and Core Controllers, this communication protocol enables monitoring and control to process automation equipment that requires DNP3 support.</description>
+      <pubDate>Tue, 10 Jan 2017 11:53:17 -0600</pubDate>
+    </item>
+        <item>
+      <title>Bitflow shares 5 technology trends likely to affect machine vision in 2017</title>
+              <link>http://www.automation.com/automation-news/bitflow-shares-5-technology-trends-likely-to-affect-machine-vision-in-2017</link>
+            
+            <guid>http://www.automation.com/automation-news/industry/bitflow-shares-5-technology-trends-likely-to-affect-machine-vision-in-2017</guid>
+            <description>Each has the potential to significantly impact or even disrupt processes, and may poise the need for investment by manufacturers who face the risk of being late to adopt.</description>
+      <pubDate>Tue, 10 Jan 2017 11:40:49 -0600</pubDate>
+    </item>
+        <item>
+      <title>igus announces launch of 8th igus manus award competition</title>
+              <link>http://www.automation.com/automation-news/igus-announces-launch-of-8th-igus-manus-award-competition</link>
+            
+            <guid>http://www.automation.com/automation-news/industry/igus-announces-launch-of-8th-igus-manus-award-competition</guid>
+            <description>Prizes up to 5,000 euros will be awarded for the most innovative uses of iglide plain plastic bearings and will be presented at Aprilâs Hanover Trade Show in Germany</description>
+      <pubDate>Tue, 10 Jan 2017 11:32:59 -0600</pubDate>
+    </item>
+        <item>
+      <title>CC-Link announces launch of CC-Link IE Field Basic</title>
+              <link>http://www.automation.com/automation-news/cc-link-announces-launch-of-cc-link-ie-field-basic</link>
+            
+            <guid>http://www.automation.com/library/resources/cc-link-announces-launch-of-cc-link-ie-field-basic</guid>
+            <description>This is an open field network using general-purpose 100Mbps Ethernet communication and is a new network mode in the CC-Link IE Ethernet-based integrated network lineup. </description>
+      <pubDate>Tue, 10 Jan 2017 11:24:30 -0600</pubDate>
+    </item>
+        <item>
+      <title>KASTO introduces KASTO machine monitoring app</title>
+              <link>http://www.automation.com/automation-news/kasto-introduces-kasto-machine-monitoring-app</link>
+            
+            <guid>http://www.automation.com/library/resources/kasto-introduces-kasto-machine-monitoring-app</guid>
+            <description>The KASTOapp displays the status of all KASTO sawing machines in the network that are equipped with the EasyControl or ExpertControl systems.</description>
+      <pubDate>Tue, 10 Jan 2017 11:20:35 -0600</pubDate>
+    </item>
+        <item>
+      <title>Micronor and Optocon AG join to announce FOTEMP1-OEM-MNT signal conditioner</title>
+              <link>http://www.automation.com/automation-news/micronor-and-optocon-ag-join-to-announce-fotemp1-oem-mnt-signal-conditioner</link>
+            
+            <guid>http://www.automation.com/product-showcase/micronor-and-optocon-ag-join-to-announce-fotemp1-oem-mnt-signal-conditioner</guid>
+            <description>Applications include monitoring temperature inside transformers and switchgear, MR imaging, semiconductor manufacturing, petrochemical plants, as well as microwave ovens and reactors used in food industry, material processing and bioengineering. </description>
+      <pubDate>Tue, 10 Jan 2017 11:16:20 -0600</pubDate>
+    </item>
+        <item>
+      <title>Axiomtek announces CAPA500 embedded board</title>
+              <link>http://www.automation.com/automation-news/axiomtek-announces-capa500-embedded-board</link>
+            
+            <guid>http://www.automation.com/product-showcase/axiomtek-announces-capa500-embedded-board</guid>
+            <description>The CAPA500 supports one 260-pin DDR4-1867 SO-DIMM with a memory capacity up to 16GB. The 3.5-inch embedded motherboard also offers display outputs through HDMI, VGA and LVDS for triple independent display applications.</description>
+      <pubDate>Tue, 10 Jan 2017 11:07:47 -0600</pubDate>
+    </item>
+        <item>
+      <title>Kamstrup helps Aalborg District Heating automate meter reading system</title>
+              <link>http://www.automation.com/automation-news/kamstrup-helps-aalborg-district-heating-automate-meter-reading-system</link>
+            
+            <guid>http://www.automation.com/library/case-studies/kamstrup-helps-aalborg-district-heating-automate-meter-reading-system</guid>
+            <description> The investment includes 38,000 intelligent heat meters and a fully automatic remote reading system from Kamstrup. This large project begins in March 2017.</description>
+      <pubDate>Tue, 10 Jan 2017 10:53:04 -0600</pubDate>
+    </item>
+        <item>
+      <title>LEMO announces Anglissimo elbow plug connector</title>
+              <link>http://www.automation.com/automation-news/lemo-announces-anglissimo-elbow-plug-connector</link>
+            
+            <guid>http://www.automation.com/product-showcase/lemo-announces-anglissimo-elbow-plug-connector</guid>
+            <description>This patent pending connector offers the system integrator and manufacturer the possibility to orientate the connector in one of the eight possible positions during its assembly.</description>
+      <pubDate>Tue, 10 Jan 2017 10:30:28 -0600</pubDate>
+    </item>
+        <item>
+      <title>BEI Kimco announces DIP26-08, DIP30-11 &amp; DIP38-13 frameless motors for robotic applications</title>
+              <link>http://www.automation.com/automation-news/bei-kimco-announces-dip26-08-dip30-11-dip38-13-frameless-motors-for-robotic-applications</link>
+            
+            <guid>http://www.automation.com/product-showcase/bei-kimco-announces-dip26-08-dip30-11-dip38-13-frameless-motors-for-robotic-applications</guid>
+            <description>The company recently met Brushless DC (BLDC) Motor needs for use in a multi-axis assembly robot for semiconductor and other light manufacturing applications.</description>
+      <pubDate>Tue, 10 Jan 2017 10:04:08 -0600</pubDate>
+    </item>
+        <item>
+      <title>USMTO Report: Manufacturing technology orders drop slightly in November</title>
+              <link>http://www.automation.com/automation-news/usmto-report-manufacturing-technology-orders-drop-slightly-in-november</link>
+            
+            <guid>http://www.automation.com/automation-news/industry/usmto-report-manufacturing-technology-orders-drop-slightly-in-november</guid>
+            <description>The motor vehicle, aerospace and job shop sectors showed increased order activity in the last few months of the year, indicating capital investment in anticipation of a need for additional capacity.</description>
+      <pubDate>Tue, 10 Jan 2017 09:29:33 -0600</pubDate>
+    </item>
+        <item>
+      <title>Inside Turckâs Industrial Control Edge Devices - Embedded PLC &amp; ARGEE Logic Engines</title>
+              <link>http://www.automation.com/automation-news/inside-turcks-industrial-control-edge-devices-embedded-plc-argee-logic-engines</link>
+            
+            <guid>http://www.automation.com/automation-news/article/inside-turcks-industrial-control-edge-devices-embedded-plc-argee-logic-engines</guid>
+            <description>By Bill Lydon, Editor, Automation.com
+Keeping consistent with Internet of Things and Industry 4.0 concepts and architectures, Turck has embedded PLC control into their traditional products, thereby extending capabilities to be a control company.</description>
+      <pubDate>Mon, 09 Jan 2017 11:16:19 -0600</pubDate>
+    </item>
+        <item>
+      <title>GEA and Siemens announces partnership in pharmaceutical and life sciences manufacturing</title>
+              <link>http://www.automation.com/automation-news/gea-and-siemens-announces-partnership-in-pharmaceutical-and-life-sciences-manufacturing</link>
+            
+            <guid>http://www.automation.com/automation-news/industry/gea-and-siemens-announces-partnership-in-pharmaceutical-and-life-sciences-manufacturing</guid>
+            <description>The collaboration will deliver both production benefits, in terms of reduced project execution risk, higher quality manufacturing and customer benefits in the form of  integrated technologies, expertise and support.</description>
+      <pubDate>Mon, 09 Jan 2017 11:07:27 -0600</pubDate>
+    </item>
+      </channel>
+</rss>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- End current session if app sleeps for a period of time -->
+    <integer name="ga_sessionTimeout">300</integer>
+
+    <!-- Enable automatic Activity measurement -->
+    <bool name="ga_autoActivityTracking">true</bool>
+
+    <!--  The property id associated with this analytics tracker
+    <string name="ga_trackingId">UA-82262530-1</string>-->
+
+
+    <!-- India ID Tracking ID :- UA-82262530-1 WoorixDemo-->
+      <String name="ga_trackingId">UA-82262530-1</String>
+
+
+    <!--Brazile ID Tracking ID:- UA-83374924-1 WoorixLive
+    <String name="ga_trackingId">UA-83374924-1</String>-->
+
+    <string name="ga_sampleFrequency">100.0</string>
+
+    <bool name="ga_reportUncaughtExceptions">false</bool>
+
+    <screenName name="com.ta.wootrix.phone.LoginActivity">Login Page</screenName>
+    <screenName name="com.ta.wootrix.phone.HomeActivity">Phone Home Page</screenName>
+    <screenName name="com.ta.wootrix.phone.ChangeEmailActivity">Phone Change Email Page</screenName>
+    <screenName name="com.ta.wootrix.phone.ChangePasswordActivity">Phone Change Password Page</screenName>
+    <screenName name="com.ta.wootrix.phone.ChangeLanguageActivity">Phone Change Language Page</screenName>
+    <screenName name="com.ta.wootrix.phone.CommentActivity">Phone Comment Page</screenName>
+    <screenName name="com.ta.wootrix.phone.AboutUsActivity">Phone Aboutus Page</screenName>
+    <screenName name="com.ta.wootrix.phone.MyAccountActivity">Phone MyAccount Page</screenName>
+    <screenName name="com.ta.wootrix.phone.ArticleDetailActivity">Phone Article Detail Page</screenName>
+    <screenName name="com.ta.wootrix.phone.SignupActivity">Phone SignUp Page</screenName>
+    <screenName name="com.ta.wootrix.phone.SettingActivity">Phone Setting Page</screenName>
+    <screenName name="com.ta.wootrix.phone.AddAccountActivity">Phone Add Account Page</screenName>
+    <screenName name="com.ta.wootrix.phone.LandingPageActivity">Phone Landing Page</screenName>
+    <screenName name="com.ta.wootrix.phone.AdvertisementViewActivity">Phone Advertisement Page</screenName>
+    <screenName name="com.ta.wootrix.phone.EmbeddedVideoActivity">Phone Embedded Video Page</screenName>
+    <screenName name="com.ta.wootrix.phone.EmbeddedArticleDetailActivity">Phone Embedded Article Page</screenName>
+
+
+    <screenName name="com.ta.wootrix.tablet.TabletHomeActivity">Tablet Home Page</screenName>
+    <screenName name="com.ta.wootrix.tablet.TabletArticleDetailActivity">Tablet Article Detail Page</screenName>
+    <screenName name="com.ta.wootrix.tablet.TabletAdvertViewActivity">Tablet Advertisement Page</screenName>
+    <screenName name="com.ta.wootrix.tablet.TabletEmbeddedVideoActivity">Tablet Embedded Page</screenName>
+    <screenName name="com.ta.wootrix.tablet.TabletEmbeddedArticleDetailActivity">Tablet Embedded Article Detail Page</screenName>
+
+
+    <!--
+      See Project Structure -> Analytics -> Google Analytics -> Learn More
+      to learn more about configuring this file.
+    -->
+</resources>

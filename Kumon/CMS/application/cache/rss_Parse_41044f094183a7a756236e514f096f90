@@ -1,0 +1,514 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Vision &amp; Sensors Exclusives</title>
+    <description>
+      <![CDATA[Web-only articles covering the vision and sensors market.]]>
+    </description>
+    <link>http://www.qualitymag.com/rss</link>
+    <language>en-us</language>
+    <item>
+      <title>Synchronizing Multiple Cameras through Machine Vision Standards</title>
+      <description>
+        <![CDATA[<p>As computer systems and cameras become faster and more powerful, vision systems are finding their way into increasingly diverse applications. So what&rsquo;s better than one super powerful camera solving the world&rsquo;s problems?</p>]]>
+      </description>
+      <guid>http://www.qualitymag.com/articles/93741</guid>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0500</pubDate>
+      <link>http://www.qualitymag.com/articles/93741-synchronizing-multiple-cameras-through-machine-vision-standards</link>
+      <enclosure url="http://www.qualitymag.com/ext/resources/Issues/2017/January/Vision-Sensors/machine-vision-standards/VS0117-FT1-camera-p1FT.jpg?1482505373" type="image/jpeg" length="76078"/>
+    </item>
+    <item>
+      <title>Large Automotive Manufacturer Integrates eFlex Vision with Cognex Cameras to Improve Vision Inspection System</title>
+      <description>
+        <![CDATA[<p>Due to the detailed nature of automotive transmission manufacturing and the high cost of errors, vision inspection systems have become the key to ensuring high levels of quality and minimizing warranty costs.</p>]]>
+      </description>
+      <guid>http://www.qualitymag.com/articles/93724</guid>
+      <pubDate>Fri, 09 Dec 2016 12:41:00 -0500</pubDate>
+      <link>http://www.qualitymag.com/articles/93724-large-automotive-manufacturer-integrates-eflex-vision-with-cognex-cameras-to-optimize-vision-inspection-system-improve-part-quality-and-reduce-warranty-costs</link>
+      <enclosure url="http://www.qualitymag.com/ext/resources/Default_Images/EdMc-photos/eFlex-Vision-Cognex-Case-Study.jpg?1481306423" type="image/jpeg" length="97231"/>
+    </item>
+    <item>
+      <title>Pushing the Limits of Flawless Fastener Manufacturing</title>
+      <description>
+        <![CDATA[<p>International manufacturer-supplier relationship spurs innovation in laser gauging and axial vision inspection technology for critical fasteners.</p>
+]]>
+      </description>
+      <guid>http://www.qualitymag.com/articles/93669</guid>
+      <pubDate>Wed, 02 Nov 2016 00:00:00 -0400</pubDate>
+      <link>http://www.qualitymag.com/articles/93669-pushing-the-limits-of-flawless-fastener-manufacturing</link>
+      <enclosure url="http://www.qualitymag.com/ext/resources/Default_Images/EdMc-photos/Aeronut-with-defect.jpg?1478107181" type="image/jpeg" length="106683"/>
+    </item>
+    <item>
+      <title>Machine Vision in IIoT</title>
+      <description>
+        <![CDATA[<p>
+	Industrial companies are confronted with several new trends that will fundamentally change production and logistics processes. For example, the term &ldquo;Industry&nbsp;4.0,&rdquo; which was coined in Germany, stands for the digital networking of people, objects, and systems to create integrated production processes.&nbsp;</p>]]>
+      </description>
+      <guid>http://www.qualitymag.com/articles/93296</guid>
+      <pubDate>Sun, 01 May 2016 00:00:00 -0400</pubDate>
+      <link>http://www.qualitymag.com/articles/93296-machine-vision-in-iiot</link>
+      <enclosure url="http://www.qualitymag.com/ext/resources/Issues/2016/May/vision-sensors/IIoT/VS0516-FT-Software-p1FT.jpg?1461777678" type="image/jpeg" length="152930"/>
+      <media:content url="http://www.qualitymag.com/ext/resources/Issues/2016/May/vision-sensors/IIoT/VS0516-FT-Software-p1FT.jpg?1461777678" type="image/jpeg" fileSize="152930">
+        <media:title type="plain">Machine Vision</media:title>
+        <media:description type="plain">
+	Machine vision technologies optimize production processes in several industries. Source: MVTec
+</media:description>
+      </media:content>
+      <media:content url="http://www.qualitymag.com/ext/resources/Issues/2016/May/vision-sensors/IIoT/VS0516-FT-Software-p2.jpg?1461777748" type="image/jpeg" fileSize="95711">
+        <media:title type="plain">Machine Vision</media:title>
+      </media:content>
+      <media:content url="http://www.qualitymag.com/ext/resources/Issues/2016/May/vision-sensors/IIoT/VS0516-FT-Software-p3.jpg?1461777826" type="image/jpeg" fileSize="119869">
+        <media:title type="plain">Machine Vision</media:title>
+        <media:description type="plain">
+	Machine vision is used for 3-D surface inspection based on surface-based matching and object comparison. Source: MVTec
+</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>âAn Exciting Timeâ for Optics</title>
+      <author></author>
+      <description>
+        <![CDATA[<p>
+	The importance of lenses in machine vision applications cannot be overstated. At Edmund Optics, producer of optics, imaging, and photonics technology, the lenses offered are optical components that either focus or diverge light and may consist of single or multiple elements.&nbsp;</p>]]>
+      </description>
+      <guid>http://www.qualitymag.com/articles/93295</guid>
+      <pubDate>Sun, 01 May 2016 00:00:00 -0400</pubDate>
+      <link>http://www.qualitymag.com/articles/93295-an-exciting-time-for-optics</link>
+      <enclosure url="http://www.qualitymag.com/ext/resources/Issues/2016/May/vision-sensors/exciting/VS0516-FT-MacineVision101-p1FT.jpg?1461776666" type="image/jpeg" length="40613"/>
+      <media:content url="http://www.qualitymag.com/ext/resources/Issues/2016/May/vision-sensors/exciting/VS0516-FT-MacineVision101-p1FT.jpg?1461776666" type="image/jpeg" fileSize="40613">
+        <media:title type="plain">Machine Vision</media:title>
+        <media:description type="plain">
+	An achromatic lens typically consists of two optical components cemented together. In comparison to a single lens, the additional design freedom provided by using a doublet design allows for further optimization of performance. Source: Edmund Optics</media:description>
+      </media:content>
+      <media:content url="http://www.qualitymag.com/ext/resources/Issues/2016/May/vision-sensors/exciting/VS0516-FT-MacineVision101-p2.jpg?1461776712" type="image/jpeg" fileSize="43056">
+        <media:title type="plain">Machine Vision</media:title>
+        <media:description type="plain">
+	Aspheric Lenses are used to eliminate spherical aberration in a range of applications, including bar code scanners, laser diode collimation, or OEM or R&amp;amp;D integration. By utilizing a single element design, aspheric lenses help minimize the number of lenses found in multi-lens optical assemblies. Source: Edmund Optics
+</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>Practical VGR</title>
+      <author></author>
+      <description>
+        <![CDATA[<p>
+	Intelligent automation systems for the plant floor increasingly rely on robotics and machine vision, generally known as Vision Guided Robotics (VGR), to provide the flexibility and reliability demanded by manufacturing environments&mdash;now and in the immediate future.</p>]]>
+      </description>
+      <guid>http://www.qualitymag.com/articles/93293</guid>
+      <pubDate>Sun, 01 May 2016 00:00:00 -0400</pubDate>
+      <link>http://www.qualitymag.com/articles/93293-practical-vgr</link>
+      <enclosure url="http://www.qualitymag.com/ext/resources/Issues/2016/May/vision-sensors/practicalVGR/VS0516-FT-VisionRobotics-p1FT.jpg?1461775575" type="image/jpeg" length="195283"/>
+      <media:content url="http://www.qualitymag.com/ext/resources/Issues/2016/May/vision-sensors/practicalVGR/VS0516-FT-VisionRobotics-p1FT.jpg?1461775575" type="image/jpeg" fileSize="195283">
+        <media:title type="plain">Vision Robotics</media:title>
+        <media:description type="plain">
+	Flexible and efficient plant floor automation increasingly depends on machine vision and robotics. Source: FANUC
+</media:description>
+      </media:content>
+      <media:content url="http://www.qualitymag.com/ext/resources/Issues/2016/May/vision-sensors/practicalVGR/VS0516-FT-VisionRobotics-p2.jpg?1461775722" type="image/jpeg" fileSize="115713">
+        <media:title type="plain">Vision Robotics</media:title>
+        <media:description type="plain">
+	Component architecture for VGR systems can utilize either fixed- or robot-mounted cameras.&amp;nbsp;Source: FANUC
+</media:description>
+      </media:content>
+      <media:content url="http://www.qualitymag.com/ext/resources/Issues/2016/May/vision-sensors/practicalVGR/VS0516-FT-VisionRobotics-p3.jpg?1461775758" type="image/jpeg" fileSize="72119">
+        <media:title type="plain">Vision Robotics</media:title>
+        <media:description type="plain">
+	Lighting for VGR may require compromise in light position and geometry due to avoid interference from the robot and/or other automation components. Source: FANUC
+</media:description>
+      </media:content>
+      <media:content url="http://www.qualitymag.com/ext/resources/Issues/2016/May/vision-sensors/practicalVGR/VS0516-FT-VisionRobotics-p4.jpg?1461775801" type="image/jpeg" fileSize="141091">
+        <media:title type="plain">Vision Robotics</media:title>
+        <media:description type="plain">
+	In VGR applications, imaging areas often are large, dictating the implementation of broad area illumination. Source: FANUC
+</media:description>
+      </media:content>
+      <media:content url="http://www.qualitymag.com/ext/resources/Issues/2016/May/vision-sensors/practicalVGR/VS0516-FT-VisionRobotics-p5.jpg?1461775888" type="image/jpeg" fileSize="170175">
+        <media:title type="plain">vision robotics</media:title>
+        <media:description type="plain">
+	A graphic rendering of a typical 3-D point cloud image used for 3-D VGR. Source: FANUC
+</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>Remote Monitoring at the Sensor Level</title>
+      <description>
+        <![CDATA[<p>
+	Remote connectivity with automated manufacturing systems&mdash;once considered the domain of complex, high-end operations&mdash;has quickly become a routine requirement across the breadth of the manufacturing industry. And for good reason.</p>]]>
+      </description>
+      <guid>http://www.qualitymag.com/articles/93292</guid>
+      <pubDate>Sun, 01 May 2016 00:00:00 -0400</pubDate>
+      <link>http://www.qualitymag.com/articles/93292-remote-monitoring-at-the-sensor-level</link>
+      <enclosure url="http://www.qualitymag.com/ext/resources/Issues/2016/May/vision-sensors/remote-monitoring/VS0516-FT-SensorTrends-p1FT.jpg?1461774929" type="image/jpeg" length="51440"/>
+    </item>
+    <item>
+      <title>Top Five Criteria to Keep in Mind When Considering a Smart Camera</title>
+      <description>
+        <![CDATA[<p>
+	Determining what type of vision system is right for your application&mdash;whether you&rsquo;re thinking of a PC-based solution or a smart camera&mdash;begins with the application itself.&nbsp;</p>]]>
+      </description>
+      <guid>http://www.qualitymag.com/articles/93291</guid>
+      <pubDate>Sun, 01 May 2016 00:00:00 -0400</pubDate>
+      <link>http://www.qualitymag.com/articles/93291-top-five-criteria-to-keep-in-mind-when-considering-a-smart-camera</link>
+      <enclosure url="http://www.qualitymag.com/ext/resources/Issues/2016/May/vision-sensors/smart-camera/VS0516-FT-SmartCamera-p1-FT.jpg?1461773522" type="image/jpeg" length="46812"/>
+      <media:content url="http://www.qualitymag.com/ext/resources/Issues/2016/May/vision-sensors/smart-camera/VS0516-FT-SmartCamera-p1-FT.jpg?1461773522" type="image/jpeg" fileSize="46812">
+        <media:title type="plain">Smart camera</media:title>
+        <media:description type="plain">
+	Smart camera systems require connection to a PC only for programming; once programming is complete, smart camera systems are fully autonomous. Source: Teledyne DALSA
+</media:description>
+      </media:content>
+      <media:content url="http://www.qualitymag.com/ext/resources/Issues/2016/May/vision-sensors/smart-camera/VS0516-FT-SmartCamera-p2.jpg?1461773667" type="image/jpeg" fileSize="51383">
+        <media:title type="plain">Smart camera</media:title>
+        <media:description type="plain">
+	Any smart camera you choose should provide standard communication protocols so that it can integrate seamlessly into your network. Source: Teledyne DALSA
+</media:description>
+      </media:content>
+      <media:content url="http://www.qualitymag.com/ext/resources/Issues/2016/May/vision-sensors/smart-camera/VS0516-FT-SmartCamera-p3.jpg?1461773705" type="image/jpeg" fileSize="50096">
+        <media:title type="plain">Smart Camera</media:title>
+        <media:description type="plain">
+	A smart camera&amp;rsquo;s user interface minimizes the knowledge needed to program and deploy the system and should be easy to use. Source: Teledyne DALSA
+</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>Wearable Manufacturers Are Feeling the Pressure</title>
+      <description>
+        <![CDATA[<p>
+	Capacitive sensor technology fuels research and development to improve fit and function of wearables and capture additional market share.</p>]]>
+      </description>
+      <guid>http://www.qualitymag.com/articles/93239</guid>
+      <pubDate>Mon, 04 Apr 2016 00:00:00 -0400</pubDate>
+      <link>http://www.qualitymag.com/articles/93239-wearable-manufacturers-are-feeling-the-pressure</link>
+      <enclosure url="http://www.qualitymag.com/ext/resources/Ed/thumb/QM-DEPTs-900x550-webex-1.jpg?1454437803" type="image/jpeg" length="80675"/>
+    </item>
+    <item>
+      <title>JAI Cameras Put a New 'Spin' on Super Bowl Replays</title>
+      <description>
+        <![CDATA[<p>
+	The freeD system deployed at the Super Bowl utilized 36 of JAI&rsquo;s Spark Series SP-20000 20-megapixel cameras mounted around the upper level of the stadium to continuously capture the action from every angle.&nbsp;</p>]]>
+      </description>
+      <guid>http://www.qualitymag.com/articles/93135</guid>
+      <pubDate>Fri, 19 Feb 2016 00:00:00 -0500</pubDate>
+      <link>http://www.qualitymag.com/articles/93135-jai-cameras-put-a-new-spin-on-super-bowl-replays</link>
+      <enclosure url="http://www.qualitymag.com/ext/resources/Default_Images/EdMc-photos/JAI-Replay-FreeD-at-SuperBowl.jpg?1455910445" type="image/jpeg" length="228849"/>
+    </item>
+    <item>
+      <title>Eliminating Defective Fasteners with Higher-Resolution 3D Inspection Equipment</title>
+      <description>
+        <![CDATA[<p>
+	As manufacturers look to lightweight materials for improved fuel economy, the associated fastening problems necessitate zero defects through 100 percent inspection.</p>]]>
+      </description>
+      <guid>http://www.qualitymag.com/articles/93114</guid>
+      <pubDate>Tue, 02 Feb 2016 00:00:00 -0500</pubDate>
+      <link>http://www.qualitymag.com/articles/93114-eliminating-defective-fasteners-with-higher-resolution-3d-inspection-equipment</link>
+      <enclosure url="http://www.qualitymag.com/ext/resources/Ed/thumb/QM-DEPTs-900x550-webex-1.jpg?1454437803" type="image/jpeg" length="80675"/>
+    </item>
+    <item>
+      <title>Case Study: Allied Vision Vibration Analysis Aids in Predictive Maintenance</title>
+      <description>
+        <![CDATA[<p>
+	OptiVibe uses the Vibragrams to provide a visual representation of the measured asset.</p>]]>
+      </description>
+      <guid>http://www.qualitymag.com/articles/93113</guid>
+      <pubDate>Tue, 02 Feb 2016 00:00:00 -0500</pubDate>
+      <link>http://www.qualitymag.com/articles/93113-case-study-allied-vision-vibration-analysis-aids-in-predictive-maintenance</link>
+      <enclosure url="http://www.qualitymag.com/ext/resources/Ed/thumb/QM-DEPTs-900x550-webex-1.jpg?1454437803" type="image/jpeg" length="80675"/>
+    </item>
+    <item>
+      <title>Make Way for Automated Vision Systems</title>
+      <description>
+        <![CDATA[<p>
+	Building on familiar demands, packaging lines will evolve to address the need for product safety as well as consumer confidence.</p>
+]]>
+      </description>
+      <guid>http://www.qualitymag.com/articles/93039</guid>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 -0500</pubDate>
+      <link>http://www.qualitymag.com/articles/93039-make-way-for-automated-vision-systems</link>
+      <enclosure url="http://www.qualitymag.com/ext/resources/VS/2016/January/VS0116-FT4-101-p1FT.jpg?1450814801" type="image/jpeg" length="414807"/>
+      <media:content url="http://www.qualitymag.com/ext/resources/VS/2016/January/VS0116-FT4-101-p1FT.jpg?1450814801" type="image/jpeg" fileSize="414807">
+        <media:title type="plain">Automated Vision Systems</media:title>
+        <media:description type="plain">
+	Vision systems are designed to meet traceability requirements and work to collect data from barcodes and 2D matrix codes as products move through the supply chain.
+
+	Source: Omron 
+</media:description>
+      </media:content>
+      <media:content url="http://www.qualitymag.com/ext/resources/VS/2016/January/VS0116-FT4-101-p2.jpg?1450814842" type="image/jpeg" fileSize="432607">
+        <media:title type="plain">Automated Vision Systems</media:title>
+        <media:description type="plain">
+	A color vision system can distinguish between acceptable variations on labels such as slight discolorations or coding and markings in different colors.
+
+	Source: Omron 
+</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>Machine Vision Trends</title>
+      <description>
+        <![CDATA[<p>
+	Packaging is all around us, whether you wander through the aisles of a grocery store, pick up your daily vitamins or prescription drugs, unwrap your new consumer electronics under the Christmas tree or find yourself in the emergency room after an accident.</p>
+]]>
+      </description>
+      <guid>http://www.qualitymag.com/articles/93038</guid>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 -0500</pubDate>
+      <link>http://www.qualitymag.com/articles/93038-machine-vision-trends</link>
+      <enclosure url="http://www.qualitymag.com/ext/resources/VS/2016/January/VS0116-FT3-trends-p1FT.jpg?1450814345" type="image/jpeg" length="216288"/>
+      <media:content url="http://www.qualitymag.com/ext/resources/VS/2016/January/VS0116-FT3-trends-p1FT.jpg?1450814345" type="image/jpeg" fileSize="216288">
+        <media:title type="plain">Machine Vision Trends</media:title>
+      </media:content>
+      <media:content url="http://www.qualitymag.com/ext/resources/VS/2016/January/VS0116-FT3-trends-p2.jpg?1450814392" type="image/jpeg" fileSize="227787">
+        <media:title type="plain">Machine Vision Trends</media:title>
+      </media:content>
+      <media:content url="http://www.qualitymag.com/ext/resources/VS/2016/January/VS0116-FT3-trends-p3.jpg?1450814415" type="image/jpeg" fileSize="250759">
+        <media:title type="plain"> Missing Foil</media:title>
+        <media:description type="plain">
+Missing Foil
+</media:description>
+      </media:content>
+      <media:content url="http://www.qualitymag.com/ext/resources/VS/2016/January/VS0116-FT3-trends-p4.jpg?1450814430" type="image/jpeg" fileSize="250194">
+        <media:title type="plain">Good Seal</media:title>
+        <media:description type="plain">Good Seal</media:description>
+      </media:content>
+      <media:content url="http://www.qualitymag.com/ext/resources/VS/2016/January/VS0116-FT3-trends-p5.jpg?1450814443" type="image/jpeg" fileSize="304330">
+        <media:title type="plain"> Part in seal</media:title>
+        <media:description type="plain">
+Part in seal
+</media:description>
+      </media:content>
+      <media:content url="http://www.qualitymag.com/ext/resources/VS/2016/January/VS0116-FT3-trends-p6.jpg?1450814456" type="image/jpeg" fileSize="241984">
+        <media:title type="plain">Partial Foil</media:title>
+        <media:description type="plain">Partial Foil</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>Start With the Video Interface</title>
+      <description>
+        <![CDATA[<p>
+	&ldquo;Easier-to-use, scalable, and retain as much existing equipment as possible.&rdquo;</p>]]>
+      </description>
+      <guid>http://www.qualitymag.com/articles/93036</guid>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 -0500</pubDate>
+      <link>http://www.qualitymag.com/articles/93036-start-with-the-video-interface</link>
+      <enclosure url="http://www.qualitymag.com/ext/resources/VS/2016/January/VS0116-FT2-integration-p1FT.jpg?1450813866" type="image/jpeg" length="135178"/>
+      <media:content url="http://www.qualitymag.com/ext/resources/VS/2016/January/VS0116-FT2-integration-p1FT.jpg?1450813866" type="image/jpeg" fileSize="135178">
+        <media:title type="plain">Video Interface</media:title>
+        <media:description type="plain">
+	Diagram 1: To increase the value of their solution, integrators can deliver machine vision video to end-users with less strict viewing requirements.
+
+	Source: Pleora Technologies
+</media:description>
+      </media:content>
+      <media:content url="http://www.qualitymag.com/ext/resources/VS/2016/January/VS0116-FT2-integration-p2.jpg?1450813914" type="image/jpeg" fileSize="199983">
+        <media:title type="plain">Video Interface </media:title>
+        <media:description type="plain">
+	Diagram 2: Converting existing cameras into GigE Vision cameras helps reduce maintenance and installation costs, while enhancing performance.
+
+	Source: Pleora Technologies
+</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>The Dawn of USB 3.0</title>
+      <description>
+        <![CDATA[<p>
+	When designing an imaging system, one of the most important factors to consider is the camera interface. Besides important parameters like resolution, frame rate, sensitivity and read-out technology, the video and control interface is one of the most critical components</p>]]>
+      </description>
+      <guid>http://www.qualitymag.com/articles/93034</guid>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 -0500</pubDate>
+      <link>http://www.qualitymag.com/articles/93034-the-dawn-of-usb-30</link>
+      <enclosure url="http://www.qualitymag.com/ext/resources/VS/2016/January/VS0116-FT1-usb-p1FT.jpg?1450813510" type="image/jpeg" length="305341"/>
+      <media:content url="http://www.qualitymag.com/ext/resources/VS/2016/January/VS0116-FT1-usb-p1FT.jpg?1450813510" type="image/jpeg" fileSize="305341">
+        <media:title type="plain">Dawn of USB 3.0</media:title>
+      </media:content>
+      <media:content url="http://www.qualitymag.com/ext/resources/VS/2016/January/VS0116-FT1-usb-p2.jpg?1450813555" type="image/jpeg" fileSize="425010">
+        <media:title type="plain">Dawn of USB 3.0</media:title>
+      </media:content>
+      <media:content url="http://www.qualitymag.com/ext/resources/VS/2016/January/VS0116-FT1-usb-p3.jpg?1450813570" type="image/jpeg" fileSize="181163">
+        <media:title type="plain">Dawn of USB 3.0</media:title>
+      </media:content>
+      <media:content url="http://www.qualitymag.com/ext/resources/VS/2016/January/VS0116-FT1-usb-p4.jpg?1450813579" type="image/jpeg" fileSize="283174">
+        <media:title type="plain">Dawn of USB 3.0</media:title>
+      </media:content>
+      <media:content url="http://www.qualitymag.com/ext/resources/VS/2016/January/VS0116-FT1-usb-p5.jpg?1450813605" type="image/jpeg" fileSize="179705">
+        <media:title type="plain">Dawn of USB 3.0</media:title>
+        <media:description type="plain">
+	This diagram shows the transmission capabilities of different interfaces overlaid with the area which will be addressed by latest image sensors and those expected to come up in the next few years.
+
+	Source: Lumenera
+</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>Barcode Reader Upgrade Saves $250,000 Annually</title>
+      <description>
+        <![CDATA[<p>
+	A snack food manufacturer with multiple brands ran into problems when it tried using a laser-based barcode scanner to direct boxes to different shipping areas.</p>]]>
+      </description>
+      <guid>http://www.qualitymag.com/articles/93010</guid>
+      <pubDate>Mon, 07 Dec 2015 00:00:00 -0500</pubDate>
+      <link>http://www.qualitymag.com/articles/93010-barcode-reader-upgrade-saves-250000-annually</link>
+      <enclosure url="http://www.qualitymag.com/ext/resources/Ed/thumb/QM-DEPTs-900x550-webex-1.jpg?1454437803" type="image/jpeg" length="80675"/>
+    </item>
+    <item>
+      <title>Allied Vision Helps Laetus with Camera Cure-All</title>
+      <description>
+        <![CDATA[<p>
+	Leading provider of quality control solutions for pharmaceutical industry standardizes camera module with special development from Allied Vision Technologies.</p>]]>
+      </description>
+      <guid>http://www.qualitymag.com/articles/92968</guid>
+      <pubDate>Thu, 05 Nov 2015 00:00:00 -0500</pubDate>
+      <link>http://www.qualitymag.com/articles/92968-allied-vision-helps-laetus-with-camera-cure-all</link>
+      <enclosure url="http://www.qualitymag.com/ext/resources/Default_Images/csm_Laetus-TrackTrace_iCAM_Linie_aca9e3ee5d.jpg?1446766029" type="image/jpeg" length="128589"/>
+    </item>
+    <item>
+      <title>Bearings with Brains Make Intelligent Machines</title>
+      <description>
+        <![CDATA[<p>
+	Revolutionary intelligent bearings technology will underpin the creation of intelligent machines, says Filippo Zingariello, Director of Global Strategic Development at SKF.</p>]]>
+      </description>
+      <guid>http://www.qualitymag.com/articles/92789</guid>
+      <pubDate>Thu, 06 Aug 2015 00:00:00 -0400</pubDate>
+      <link>http://www.qualitymag.com/articles/92789-bearings-with-brains-make-intelligent-machines</link>
+      <enclosure url="http://www.qualitymag.com/ext/resources/Default_Images/NewDefault0415/QM-DEPTs-900x550-webex.jpg?1454600332" type="image/jpeg" length="80675"/>
+    </item>
+    <item>
+      <title>Eyes on the Road: TORC Robotics Helps Blind Driver 'See'</title>
+      <description>
+        <![CDATA[<p>
+	Allied Vision&rsquo;s Prosilica GC1290C camera used in combination with other systems gives a blind driver enough information to drive a vehicle independently.</p>]]>
+      </description>
+      <guid>http://www.qualitymag.com/articles/92679</guid>
+      <pubDate>Thu, 11 Jun 2015 00:00:00 -0400</pubDate>
+      <link>http://www.qualitymag.com/articles/92679-eyes-on-the-road-torc-robotics-helps-blind-driver-see</link>
+      <enclosure url="http://www.qualitymag.com/ext/resources/Default_Images/Untitled.jpg?1434056352" type="image/jpeg" length="117116"/>
+    </item>
+    <item>
+      <title>Developing a High-Speed, High-Accuracy Measuring System for Automotive Inspection</title>
+      <description>
+        <![CDATA[<p>
+	Cosmec was challenged to develop a real-time application to monitor a system with more than 600 parts-per-minute.</p>]]>
+      </description>
+      <guid>http://www.qualitymag.com/articles/92554</guid>
+      <pubDate>Thu, 09 Apr 2015 00:00:00 -0400</pubDate>
+      <link>http://www.qualitymag.com/articles/92554-developing-a-high-speed-high-accuracy-measuring-system-for-automotive-inspection</link>
+      <enclosure url="http://www.qualitymag.com/ext/resources/Default_Images/NewDefault0415/QM-DEPTs-900x550-webex.jpg?1454600332" type="image/jpeg" length="80675"/>
+    </item>
+    <item>
+      <title>Sculpture Honors 'American Sniper' Chris Kyle</title>
+      <description>
+        <![CDATA[<p>
+	Technicians used NVision&rsquo;s own HandHeld 3D laser scanner to obtain dimensions of almost any size and shape while capturing 60,000 measurements per second.</p>]]>
+      </description>
+      <guid>http://www.qualitymag.com/articles/92418</guid>
+      <pubDate>Tue, 10 Feb 2015 00:00:00 -0500</pubDate>
+      <link>http://www.qualitymag.com/articles/92418-sculpture-honors-american-sniper-chris-kyle</link>
+      <enclosure url="http://www.qualitymag.com/ext/resources/Default_Images/NewDefault0415/QM-DEPTs-900x550-webex.jpg?1454600332" type="image/jpeg" length="80675"/>
+    </item>
+    <item>
+      <title>Allied Vision Technologies Helps Give Blind People their Eyesight Back</title>
+      <description>
+        <![CDATA[As part of its 25th anniversary, Allied Vision Technologies starts a fundraising campaign to help blind people in developing countries.]]>
+      </description>
+      <guid>http://www.qualitymag.com/articles/92197</guid>
+      <pubDate>Thu, 09 Oct 2014 00:00:00 -0400</pubDate>
+      <link>http://www.qualitymag.com/articles/92197-allied-vision-technologies-helps-give-blind-people-their-eyesight-back</link>
+      <enclosure url="http://www.qualitymag.com/ext/resources/Default_Images/NewDefault0415/QM-DEPTs-900x550-webex.jpg?1454600332" type="image/jpeg" length="80675"/>
+    </item>
+    <item>
+      <title>Q&amp;A: How Barcode Technology Is Acheiving 'Quantum Leaps' in Manufacturing</title>
+      <description>
+        <![CDATA[<p>
+	John Keating, Senior Marketing Manager, Factory Automation at Cognex, explains the significance of barcodes.</p>]]>
+      </description>
+      <guid>http://www.qualitymag.com/articles/92079</guid>
+      <pubDate>Tue, 19 Aug 2014 14:07:00 -0400</pubDate>
+      <link>http://www.qualitymag.com/articles/92079-qa-how-barcode-technology-is-acheiving-quantum-leaps-in-manufacturing</link>
+      <enclosure url="http://www.qualitymag.com/ext/resources/Default_Images/NewDefault0415/QM-DEPTs-900x550-webex.jpg?1454600332" type="image/jpeg" length="80675"/>
+    </item>
+    <item>
+      <title>Case Study: Machine Vision in Electronic Packaging</title>
+      <description>
+        <![CDATA[<p>
+	Superpak uses automated, inline machine vision to ensure faster and more precise measurements.</p>]]>
+      </description>
+      <guid>http://www.qualitymag.com/articles/92053</guid>
+      <pubDate>Mon, 11 Aug 2014 12:30:00 -0400</pubDate>
+      <link>http://www.qualitymag.com/articles/92053-case-study-machine-vision-in-electronic-packaging</link>
+      <enclosure url="http://www.qualitymag.com/ext/resources/Default_Images/NewDefault0415/QM-DEPTs-900x550-webex.jpg?1454600332" type="image/jpeg" length="80675"/>
+    </item>
+    <item>
+      <title>Having It All: Functional Assembly Using Servo Sensing Systems</title>
+      <author></author>
+      <description>
+        <![CDATA[<p>
+	Never in the history of manufacturing has the need for accuracy and verifiability been higher.</p>]]>
+      </description>
+      <guid>http://www.qualitymag.com/articles/91988</guid>
+      <pubDate>Mon, 07 Jul 2014 12:05:00 -0400</pubDate>
+      <link>http://www.qualitymag.com/articles/91988-having-it-all-functional-assembly-using-servo-sensing-systems</link>
+      <enclosure url="http://www.qualitymag.com/ext/resources/Default_Images/NewDefault0415/QM-DEPTs-900x550-webex.jpg?1454600332" type="image/jpeg" length="80675"/>
+    </item>
+    <item>
+      <title>Showing Detroit's Spirit in 3D</title>
+      <description>
+        <![CDATA[<p>
+	SME partners with CAM Logic to create a 3D image of the <em>Spirit of Detroit </em>statue for THE BIG M Event.</p>]]>
+      </description>
+      <guid>http://www.qualitymag.com/articles/91874</guid>
+      <pubDate>Thu, 15 May 2014 11:24:00 -0400</pubDate>
+      <link>http://www.qualitymag.com/articles/91874-showing-detroits-spirit-in-3d</link>
+      <enclosure url="http://www.qualitymag.com/ext/resources/Default_Images/Leahs-Photos/Spirit-of-Detroit-42.jpg?1400171524" type="image/jpeg" length="40679"/>
+      <media:content url="http://www.qualitymag.com/ext/resources/Default_Images/Leahs-Photos/Spirit-of-Detroit.jpg?1400170697" type="image/jpeg" fileSize="73373">
+      </media:content>
+      <media:content url="http://www.qualitymag.com/ext/resources/Default_Images/Leahs-Photos/Spirit-of-Detroit-2.jpg?1400170824" type="image/jpeg" fileSize="87785">
+      </media:content>
+      <media:content url="http://www.qualitymag.com/ext/resources/Default_Images/Leahs-Photos/Spirit-of-Detroit-3.jpg?1400170871" type="image/jpeg" fileSize="84313">
+      </media:content>
+      <media:content url="http://www.qualitymag.com/ext/resources/Default_Images/Leahs-Photos/Spirit-of-Detroit-41.jpg?1400170986" type="image/jpeg" fileSize="66933">
+        <media:title type="plain">Spirit-of-Detroit-4.jpg</media:title>
+      </media:content>
+    </item>
+    <item>
+      <title>Basler Cameras Act as Eyes for Sistema</title>
+      <description>
+        <![CDATA[<p>
+	Sistema is one of the fastest growing food storage brands in the world. The distinctive plastic clips on Sistema&rsquo;s plastic products are well-known in households across New Zealand, and increasingly around the world.</p>]]>
+      </description>
+      <guid>http://www.qualitymag.com/articles/91760</guid>
+      <pubDate>Wed, 26 Mar 2014 00:00:00 -0400</pubDate>
+      <link>http://www.qualitymag.com/articles/91760-basler-cameras-act-as-eyes-for-sistema</link>
+      <enclosure url="http://www.qualitymag.com/ext/resources/Default_Images/BAS1401_clipper-robots-2A.jpg?1395879974" type="image/jpeg" length="129097"/>
+      <media:content url="http://www.qualitymag.com/ext/resources/Default_Images/BAS1401_clipper-robots-2B.jpg?1395880086" type="image/jpeg" fileSize="172587">
+        <media:title type="plain">robots</media:title>
+      </media:content>
+      <media:content url="http://www.qualitymag.com/ext/resources/Default_Images/BAS1401_clipper-cameras-2B.jpg?1395880137" type="image/jpeg" fileSize="179533">
+        <media:title type="plain">ClipperCamera</media:title>
+      </media:content>
+      <media:content url="http://www.qualitymag.com/ext/resources/Default_Images/BAS1401_scout_GigE_r_Logo_4cB.jpg?1395880180" type="image/jpeg" fileSize="26112">
+        <media:title type="plain">ScoutLogo</media:title>
+      </media:content>
+    </item>
+    <item>
+      <title>Infrared, Thermal Imaging Systems Market Worth More Than $5B by 2019</title>
+      <description>
+        <![CDATA[<p>
+	According to a new market research report of&nbsp;&quot;Infrared and Thermal Imaging Systems Market&nbsp;by Technology, Forecasts &amp; Analysis (2014-2019)&quot;, the market is estimated to be valued at $3,350 Million in 2014 and is expected to reach $5,219.2 Million by 2019 at a CAGR of 9.27%.</p>
+]]>
+      </description>
+      <guid>http://www.qualitymag.com/articles/91758</guid>
+      <pubDate>Wed, 26 Mar 2014 00:00:00 -0400</pubDate>
+      <link>http://www.qualitymag.com/articles/91758-infrared-thermal-imaging-systems-market-worth-more-than-5b-by-2019</link>
+      <enclosure url="http://www.qualitymag.com/ext/resources/Default_Images/NewDefault0415/QM-DEPTs-900x550-Headlines.jpg?1459259053" type="image/jpeg" length="64975"/>
+    </item>
+    <item>
+      <title>China Sensors Market Forecast</title>
+      <description>
+        <![CDATA[<p>
+	Research and Markets has announced the addition of the &quot;China Sensors Market Forecast and Opportunities, 2018&quot; report to their offering.</p>
+]]>
+      </description>
+      <guid>http://www.qualitymag.com/articles/91749</guid>
+      <pubDate>Mon, 24 Mar 2014 00:00:00 -0400</pubDate>
+      <link>http://www.qualitymag.com/articles/91749-china-sensors-market-forecast</link>
+    </item>
+  </channel>
+</rss>

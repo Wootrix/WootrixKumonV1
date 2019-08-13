@@ -1,0 +1,870 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" media="screen" href="/~d/styles/rss2full.xsl"?><?xml-stylesheet type="text/css" media="screen" href="http://feeds.feedburner.com/~d/styles/itemcontent.css"?><rss xmlns:a10="http://www.w3.org/2005/Atom" xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" version="2.0">
+    <channel xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
+        <title>Resources for hand tools</title>
+        <link>http://reliableplant.com/Meta/Tags/hand%20tools</link>
+        <description>All articles for hand tools</description>
+        <language>en-us</language>
+        <copyright>Copyright 0000-2016 Noria Corporation - All Rights Reserved</copyright>
+        <lastBuildDate>Wed, 18 Apr 2012 08:53:44 -0500</lastBuildDate>
+        <generator>Noria Core</generator>
+        <a10:id>http://reliableplant.com/Meta/Tags/hand%20tools</a10:id>
+        
+        <a10:link rel="search" type="application/opensearchdescription+xml" title="Content Search" href="http://reliableplant.com/osd.xml" />
+        <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://feeds.feedburner.com/noria/reliableplant/tags/hand_tools" /><feedburner:info uri="noria/reliableplant/tags/hand_tools" /><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/" /><item>
+            <guid isPermaLink="false">tag:noria.com,2010-06-10:publishing:magazines:rp:ed4c4377-3e35-4065-958b-a03700929b22</guid>
+            <link>http://feedproxy.google.com/~r/noria/reliableplant/tags/hand_tools/~3/JuCWHMrGXzM/torquing-standard-work</link>
+            <a10:author>
+                <a10:name>Bob Schindler</a10:name>
+            </a10:author>
+            <category>Web Exclusives</category>
+            <category>Articles</category>
+            <title>Is Proper Torquing Part of Your Standard Work? </title>
+            <description>&lt;p&gt;
+	&lt;img alt="" src="http://media.noria.com/sites/Uploads/2012/4/18/b15ddf98-5ac0-450f-b0ff-488449e442be_torque wrench.jpeg" style="margin: 7px; width: 300px; height: 200px; float: left;" /&gt;Read enough original equipment manufacturer (OEM) recommended procedures and you will notice that a common thread is proper torque values for fasteners. Many standard work (and standard operating) procedures in industrial facilities list recommended or required torque values for jobs like gasket replacements, motor alignments, bearing installations and gearbox rebuilds, yet we often see technicians performing these functions without torque wrenches on the jobsite. Availability and management reinforcement both play a major role here. Both need to be addressed.&lt;/p&gt;
+&lt;p&gt;
+	Availability is the first to attack since you can&amp;rsquo;t very well require a technician to use a torque wrench if none are available. If you list torque values on your procedures but don&amp;rsquo;t have torque wrenches available, you lose credibility with your technicians. The impression is that the procedures are just paper and don&amp;rsquo;t have to be taken seriously. This can be very bad long term because you use your procedures to capture and promote good practices. If they are not read or followed, you lose the advantages of standard work and retained experience.&lt;/p&gt;
+&lt;p&gt;
+	Easily accessible torque wrenches must be provided to get maximum value from your procedures. If you have good luck with shop tools returning home, a couple of each range should be stored where everyone can get to them. If they tend to grow feet, issuing a couple of wrenches to selected technicians may be the answer. A combination is probably the best of both worlds.&lt;/p&gt;
+&lt;p&gt;
+	The day-to-day activities like flange tightening can be handled by cheaper standard-range wrenches issued to technicians, while specialty jobs would list and require the use of more expensive calibrated wrenches. These should be tested periodically by the manufacturer to ensure proper torque on equipment with specific torque values required by OEM procedures.&lt;/p&gt;
+&lt;p&gt;
+	Management reinforcement is the second part of the equation. Without management encouraging and requiring the use of torque wrenches, human nature says that it probably won&amp;rsquo;t happen. Most technicians take pride in their work and want to do the best job possible, so a little encouragement is probably all they need. That encouragement is making the proper tool available, listing the recommended torque values on the procedures and talking up the value of properly torquing fasteners. The enforcement part comes into play for the small percentage of technicians who don&amp;rsquo;t have that inherent pride of workmanship.&lt;/p&gt;&lt;img src="http://feeds.feedburner.com/~r/noria/reliableplant/tags/hand_tools/~4/JuCWHMrGXzM" height="1" width="1" alt=""/&gt;</description>
+            <a10:updated>2012-04-18T08:53:44-05:00</a10:updated>
+            <a10:content type="text/html" src="http://reliableplant.com/Read/28866/torquing-standard-work" />
+        <feedburner:origLink>http://reliableplant.com/Read/28866/torquing-standard-work</feedburner:origLink></item>
+        <item>
+            <guid isPermaLink="false">tag:noria.com,2010-06-10:publishing:magazines:rp:0a24cd85-aed6-4df0-a9ed-9f88008b7bb2</guid>
+            <link>http://feedproxy.google.com/~r/noria/reliableplant/tags/hand_tools/~3/Kx0FoTsnQPw/costs-tool-tracking</link>
+            <a10:author>
+                <a10:name>Wynn Ponder</a10:name>
+            </a10:author>
+            <category>Web Exclusives</category>
+            <category>Articles</category>
+            <title>The Hidden Costs of Manual Tool Tracking</title>
+            <description>&lt;p&gt;
+	I recently had a fascinating discussion with a friend who performs materials inspections for one of the world&amp;rsquo;s largest suppliers of aircraft parts and assemblies. His company had just switched from manual materials tracking to radio-frequency identification (RFID)-based tracking, and he calculated that the changeover had already saved them hundreds of thousands of dollars &amp;mdash; maybe more.&lt;/p&gt;
+&lt;p&gt;
+	Before they adopted RFID, materials frequently left his inspection facility and failed to make it to their intended destinations. Sometimes they were tracked down, and other times orders valued at as much as $300,000 vanished forever. RFID has entirely solved this problem.&lt;/p&gt;
+&lt;p&gt;
+	This is an excellent example of the savings RFID can bring to a large operation. Although his story relates to materials inventory, tool tracking offers similar opportunities to reduce losses.&lt;/p&gt;
+&lt;p&gt;
+	Material losses are easier to measure. When one-third of a million dollars&amp;rsquo; worth of composite fabric vanishes into thin air, there&amp;rsquo;s nothing complicated or ambiguous about the cost. When a tool is missing or poorly calibrated, less visible losses appear on other parts of the balance sheet (beyond the direct cost of the tool, which can be significant).&lt;/p&gt;
+&lt;p&gt;
+	When you add up these costs, the adoption of RFID tool tracking can make as much financial sense as RFID materials tracking. Let&amp;rsquo;s look at a few examples of indirect losses and some unprecedented opportunities related to the automation of tool tracking.&lt;/p&gt;
+&lt;h2&gt;
+	&lt;strong&gt;Lost Tools Increase Operating Costs&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;
+	Most manufacturers invest in sophisticated software systems for everything from resource planning to project management, yet their tool-tracking systems are entirely manual. When tools go missing, the benefits of the other software programs lose effectiveness in terms of on-time performance and labor efficiency.&lt;/p&gt;
+&lt;h2&gt;
+	&lt;strong&gt;Reduced Product Quality&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;
+	A poorly calibrated tool cannot produce consistent product quality, which can increase quality-control costs, or worse yet, damage a company&amp;rsquo;s reputation. These are difficult costs to track, but they are every bit as damaging to the bottom line as tool-replacement costs.&lt;/p&gt;
+&lt;h2&gt;
+	&lt;strong&gt;Tool Tracking to Augment Project Management Systems&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;
+	RFID tool tracking can add new value to manufacturing processes when used in conjunction with project management and enterprise resource planning (ERP) systems.&amp;nbsp;The use of a specific tool often represents a process step, and work orders often specify that tool. This means that work in process and tool inventory can be tracked simultaneously, providing a real-time view of order tracking and capital allocations. This introduces new profit in the form of production efficiency, especially in this age of just-in-time delivery.&lt;/p&gt;
+&lt;p&gt;
+	It also allows tool inventory, preventative maintenance and calibration to be managed across multiple facilities, which reduces spare inventory and improves asset utilization across the board.&lt;/p&gt;
+&lt;p&gt;
+	Interestingly, my friend&amp;rsquo;s company has not yet adopted RFID tool tracking or RFID inventory control beyond the incoming materials stage. But they are getting there, and so is the rest of the manufacturing world.&lt;/p&gt;
+&lt;p&gt;
+	&lt;strong&gt;&lt;u&gt;About the Author&lt;/u&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;
+	&lt;em&gt;Wynn Ponder is a freelance writer and managing editor of the &lt;a href="http://www.choctawtooltracker.com/blogs/news"&gt;Choctaw Tool Tracking Blog&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;&lt;img src="http://feeds.feedburner.com/~r/noria/reliableplant/tags/hand_tools/~4/Kx0FoTsnQPw" height="1" width="1" alt=""/&gt;</description>
+            <a10:updated>2011-10-26T08:27:48-05:00</a10:updated>
+            <a10:content type="text/html" src="http://reliableplant.com/Read/28589/costs-tool-tracking" />
+        <feedburner:origLink>http://reliableplant.com/Read/28589/costs-tool-tracking</feedburner:origLink></item>
+        <item>
+            <guid isPermaLink="false">tag:noria.com,2010-06-10:publishing:magazines:rp:d08576b3-b3a4-41ef-b1d9-9e6e0091c447</guid>
+            <link>http://feedproxy.google.com/~r/noria/reliableplant/tags/hand_tools/~3/Gfv9ATbAqHA/DeWalt-Empire-Level-partnership</link>
+            <a10:author>
+                <a10:name>RP news wires</a10:name>
+            </a10:author>
+            <category>Industry News</category>
+            <category>Articles</category>
+            <title>DeWalt, Empire Level agree to end private-label partnership</title>
+            <description>&lt;p&gt;
+	DeWalt, the leading manufacturer of industrial power tools and accessories, and Empire Level Manufacturing Corporation, the industry leader in developing accurate levels and measuring tools, announced today that they will end their partnership on the private label line of professional box levels that Empire Level licensed, designed and manufactured in 2010 under the DeWalt brand.&lt;/p&gt;
+&lt;p&gt;
+	In February 2010, the companies launched the DeWalt levels in retailers nationwide after many months of development, and the products enjoyed strong sales success. However, the acquisition of DeWalt by Stanley Works in 2010, created an undesirable competitive situation, and both parties felt the best action moving forward was to end the partnership.&lt;/p&gt;
+&lt;p&gt;
+	&amp;ldquo;We&amp;rsquo;re disappointed that this agreement didn&amp;rsquo;t work out as planned, but we certainly understand that a partner who becomes a direct competitor through acquisition is an untenable situation, and we&amp;rsquo;re pleased that an amicable resolution has been reached,&amp;rdquo; said Jenni Becker, president of Empire Level Manufacturing Corporation.&lt;/p&gt;
+&lt;p&gt;
+	&amp;ldquo;Though we enjoyed working with Empire Level, we&amp;rsquo;re pleased that we were able to come to an agreement to exit our partnership, which pre-existed the acquisition and was no longer appropriate for either brand,&amp;rdquo; said Jennifer Ervin, director of new business development, DeWalt. &amp;ldquo;Empire Level has been a great partner and we wish them well.&amp;rdquo;&lt;/p&gt;&lt;img src="http://feeds.feedburner.com/~r/noria/reliableplant/tags/hand_tools/~4/Gfv9ATbAqHA" height="1" width="1" alt=""/&gt;</description>
+            <a10:updated>2011-01-17T08:50:41-06:00</a10:updated>
+            <a10:content type="text/html" src="http://reliableplant.com/Read/28277/DeWalt-Empire-Level-partnership" />
+        <feedburner:origLink>http://reliableplant.com/Read/28277/DeWalt-Empire-Level-partnership</feedburner:origLink></item>
+        <item>
+            <guid isPermaLink="false">tag:noria.com,2010-06-10:publishing:magazines:rp:7f1fa713-7026-48be-90b7-9e4c00a30880</guid>
+            <link>http://feedproxy.google.com/~r/noria/reliableplant/tags/hand_tools/~3/4LV87L7tivo/Klein-Tools-technology-center</link>
+            <a10:author>
+                <a10:name>RP news wires</a10:name>
+            </a10:author>
+            <category>Industry News</category>
+            <category>Articles</category>
+            <title>Klein Tools to locate new technology center in Mansfield, Texas</title>
+            <description>&lt;p&gt;
+	The Mansfield, Texas, city council on December 13 approved an economic development agreement with leading American tool manufacturer Klein Tools for the location of its new Advanced Manufacturing Technology Center (AMTEC) in the city.&lt;/p&gt;
+&lt;p&gt;
+	The performance-based agreement could result in the creation of 585 jobs and a $76 million investment by the Chicago-based company. The net economic impact to Mansfield has been estimated at more than $7.6 million over the first 10 years, with a $4.5 billion economic impact over 10 years to the State of Texas.&lt;/p&gt;
+&lt;p&gt;
+	&amp;quot;We are excited about this partnership and the opportunities with the City of Mansfield,&amp;quot; said company president Tom Klein. &amp;quot;This agreement will be significant as we strive to maintain and improve our positions in today&amp;#39;s globally competitive environment, as America&amp;#39;s premier maker of the highest quality hand tools.&amp;quot;&lt;/p&gt;
+&lt;p&gt;
+	&amp;quot;This is a huge announcement and win for the city given Klein&amp;#39;s national prominence as a leading manufacturer in the world,&amp;quot; said Clayton Chandler, Mansfield city manager.&lt;/p&gt;
+&lt;p&gt;
+	&amp;quot;We believe strongly that Mansfield is the best place for living, working and doing business,&amp;quot; said Mayor David Cook. &amp;quot;Klein&amp;#39;s decision to locate its new technology center is further proof of that.&amp;quot;&lt;/p&gt;
+&lt;p&gt;
+	Klein is also the recipient $2.8 million from the Texas Enterprise Fund. The agreement is also based on job creation.&lt;/p&gt;
+&lt;p&gt;
+	The new venture by the 153-year-old Illinois-based company will focus on development of cutting-edge manufacturing processes. Klein produces professional hand tools and has been a leader in the improvement of manufacturing processes in areas such as forging, automation and machining and grinding.&lt;/p&gt;
+&lt;p&gt;
+	&amp;quot;This facility will be dedicated to continuing our company&amp;#39;s leadership and success in improving manufacturing technology, processes and equipment,&amp;quot; Klein said. &amp;quot;We believe Mansfield and the Dallas-Fort Worth area&amp;#39;s &amp;#39;Best for Business&amp;#39; philosophy makes this the ideal location for a facility dedicated to developing cutting edge technology.&amp;quot;&lt;/p&gt;
+&lt;p&gt;
+	Mansfield&amp;#39;s explosive growth is attributed to its high quality of life, excellent schools and strong business environment. Recognized as one of the fastest growing cities in Texas and the nation, Mansfield was named to Money Magazine&amp;#39;s Best Places to Live in America list in 2007 and 2009.&lt;/p&gt;
+&lt;p&gt;
+	Klein Tools was founded in 1857 by industrious German immigrant Mathias Klein. The company is still owned and managed by the Klein family.&lt;/p&gt;&lt;img src="http://feeds.feedburner.com/~r/noria/reliableplant/tags/hand_tools/~4/4LV87L7tivo" height="1" width="1" alt=""/&gt;</description>
+            <a10:updated>2010-12-14T09:53:33-06:00</a10:updated>
+            <a10:content type="text/html" src="http://reliableplant.com/Read/27877/Klein-Tools-technology-center" />
+        <feedburner:origLink>http://reliableplant.com/Read/27877/Klein-Tools-technology-center</feedburner:origLink></item>
+        <item>
+            <guid isPermaLink="false">tag:noria.com,2010-06-10:publishing:magazines:rp:0730d9fa-9462-43f6-bd17-9e000092828a</guid>
+            <link>http://feedproxy.google.com/~r/noria/reliableplant/tags/hand_tools/~3/CLFh8hCfUHA/measure-electricity-clamp-meter</link>
+            <a10:author>
+                <a10:name>Fluke Corporation</a10:name>
+            </a10:author>
+            <category>Web Exclusives</category>
+            <category>Articles</category>
+            <title>Back to basics: How to measure electricity with a clamp meter</title>
+            <description>&lt;p&gt;
+	A clamp meter is an electrical tester that combines a basic digital multimeter with a current sensor. Clamps measure current. Probes measure voltage. Having a hinged &amp;ldquo;clamp&amp;rdquo; jaw integrated into an electrical meter allows users to simply clamp around wire, cables and other conductors at any point in the electrical system and measure its current, without disconnecting it.&lt;/p&gt;
+&lt;p&gt;
+	&lt;strong&gt;What do clamp meters measure?&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+	&lt;li&gt;
+		Any of these: AC current, AC and DC voltage, resistance, continuity, and, with some models, DC current, capacitance, temperature, frequency and more&lt;/li&gt;
+	&lt;li&gt;
+		Typically measure to the nearest tenth of a unit (rather than the milli-units you find in a full-function multimeter), making them perfect for electrical work&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;
+	&lt;strong&gt;Who uses them?&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+	&lt;li&gt;
+		Industrial maintenance technicians&lt;/li&gt;
+	&lt;li&gt;
+		Control technicians&lt;/li&gt;
+	&lt;li&gt;
+		Electricians &amp;ndash; in-house and contractors&lt;/li&gt;
+	&lt;li&gt;
+		Facilities, building maintenance and HVAC technicians&lt;/li&gt;
+	&lt;li&gt;
+		Service organizations&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;
+	&lt;strong&gt;What are they used on?&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+	&lt;li&gt;
+		Industrial equipment&lt;/li&gt;
+	&lt;li&gt;
+		Industrial controls&lt;/li&gt;
+	&lt;li&gt;
+		Electrical systems&lt;/li&gt;
+	&lt;li&gt;
+		Commercial/industrial HVAC&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;
+	&lt;strong&gt;What do they use them for?&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+	&lt;li&gt;
+		&lt;strong&gt;Service:&lt;/strong&gt; Repairing existing systems on an as-needed basis.&lt;/li&gt;
+	&lt;li&gt;
+		&lt;strong&gt;Installation: &lt;/strong&gt;Troubleshooting installation problems, performing final circuit tests and supervising apprentice electricians while installing electrical equipment.&lt;/li&gt;
+	&lt;li&gt;
+		&lt;strong&gt;Maintenance:&lt;/strong&gt; Performing scheduled and preventive maintenance on electro-mechanical systems.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;
+	&lt;strong&gt;Why use a clamp meter?&lt;/strong&gt;&lt;br /&gt;
+	Industrial situations often call for simultaneous measurement as part of troubleshooting, so many of those users carry two meters: one to measure electrical current and one to measure voltage. For electricians, a clamp meter is a quick and versatile diagnostic tool for figuring out why an electrical system or piece of equipment is not operating correctly.&lt;/p&gt;
+&lt;p&gt;
+	&lt;strong&gt;What&amp;rsquo;s inrush?&lt;/strong&gt;&lt;br /&gt;
+	Large machinery often requires a big surge of electricity to get started &amp;ndash; electricians have to make sure the rest of the system can support that occasional big surge in demand. That surge is called inrush and it causes other problems than just overall supply. Fluke clamps use proprietary technology to filter out electrical &amp;ldquo;noise&amp;rdquo; and capture the starting current exactly as the circuit protection sees it.&lt;/p&gt;
+&lt;p&gt;
+	&lt;strong&gt;What&amp;rsquo;s different about the new clamps?&lt;/strong&gt;&lt;br /&gt;
+	The flexible coil and the extended measurement ranges help solve these common issues:&lt;/p&gt;
+&lt;ul&gt;
+	&lt;li&gt;
+		Tight cabinets and bundled wires that make it difficult to use a regular clamp meter.&lt;/li&gt;
+	&lt;li&gt;
+		Large or awkward conductors a regular clamp meter can&amp;rsquo;t get around to measure.&lt;/li&gt;
+	&lt;li&gt;
+		Needing a co-worker&amp;rsquo;s help to get a measurement.&lt;/li&gt;
+	&lt;li&gt;
+		Wanting to measure more than 1,000 amps AC.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;
+	&lt;strong&gt;Where to learn more &lt;/strong&gt;&lt;br /&gt;
+	The following Fluke Web site, &lt;a href="http://www.Fluke.com/Motors_Drives"&gt;www.Fluke.com/Motors_Drives&lt;/a&gt;, lists clamp meter ABCs, application notes, case studies, a discussion board, videos and other resources that help explain how to use clamp meters for troubleshooting motors.&lt;/p&gt;&lt;img src="http://feeds.feedburner.com/~r/noria/reliableplant/tags/hand_tools/~4/CLFh8hCfUHA" height="1" width="1" alt=""/&gt;</description>
+            <a10:updated>2010-09-29T08:53:23-05:00</a10:updated>
+            <a10:content type="text/html" src="http://reliableplant.com/Read/26802/measure-electricity-clamp-meter" />
+        <feedburner:origLink>http://reliableplant.com/Read/26802/measure-electricity-clamp-meter</feedburner:origLink></item>
+        <item>
+            <guid isPermaLink="false">tag:noria.com,2010-06-10:publishing:magazines:rp:303a4101-7f19-464e-ae1e-9df900db7142</guid>
+            <link>http://feedproxy.google.com/~r/noria/reliableplant/tags/hand_tools/~3/99Uub9cUZcE/Fluke-process-control-technology</link>
+            <a10:author>
+                <a10:name>Fluke Corporation</a10:name>
+            </a10:author>
+            <category>Industry News</category>
+            <category>Articles</category>
+            <title>Fluke offers grants to educators, students in industrial process control technology</title>
+            <description>&lt;p&gt;
+	Fluke Corporation, a global leader in portable electronic test and measurement technology, will donate $65,000 worth of test instruments to schools and training programs for use in teaching students to diagnose and repair sophisticated industrial process control systems.&lt;/p&gt;
+&lt;p&gt;
+	Through the new Fluke Industrial Control Grant Program, announced September 22, instructors in accredited U.S. training programs can apply for grants of Fluke industrial test instruments for classroom use.&lt;/p&gt;
+&lt;p&gt;
+	Five different schools will be selected to receive kits of nine Fluke test tools. Each kit is valued at $13,000 and includes three Fluke 719 Pressure Calibrators, three Fluke 773 Milliamp Process Clamp Meters and three award-winning Fluke 289 True-rms Industrial Logging Multimeters with TrendCapture. Fluke will announce the winners in November, 2010.&lt;/p&gt;
+&lt;p&gt;
+	&amp;ldquo;Fluke values the contribution the instructors and trainers make and appreciate the opportunity to participate in the classroom,&amp;rdquo; said Jim Shields, product manager for process&amp;nbsp;tools, Fluke. &amp;ldquo;The winning applicants will receive state-of-the-art test instruments they and their students can really use.&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;
+	Whether they receive a grant or not, educators can take advantage of important teaching support provided by Fluke:&amp;nbsp;videos on all three products; a curriculum kit on industrial process controls; Fluke Webinars on process tools; and a live webinar featuring Fluke process expert Jim Shields.&lt;/p&gt;
+&lt;p&gt;
+	&lt;strong&gt;&lt;em&gt;Grant applications available online&lt;/em&gt;&lt;/strong&gt;&lt;br /&gt;
+	To participate in the program, educators must be members of the Fluke Education Partnership Program. Complete guidelines and an application form are available at the Fluke Educators Portal at &lt;a href="http://www.support.fluke.com/"&gt;support.fluke.com&lt;/a&gt;. Deadline for applications is October 18, 2010.&lt;/p&gt;
+&lt;p&gt;
+	Grant winners must be willing to provide photos and/or videos of their students using the tools, and provide comments regarding their experience with the products.&lt;/p&gt;
+&lt;p&gt;
+	&lt;strong&gt;&lt;u&gt;About Fluke&lt;/u&gt;&lt;/strong&gt;&lt;br /&gt;
+	Fluke Corporation is a leader in compact, professional electronic test tools. Fluke customers are technicians, engineers, electricians, metrologists and building diagnostic professionals who install, troubleshoot, and manage industrial electrical and electronic equipment and calibration processes for quality control as well as conducting building restoration and remediation services.&lt;/p&gt;&lt;img src="http://feeds.feedburner.com/~r/noria/reliableplant/tags/hand_tools/~4/99Uub9cUZcE" height="1" width="1" alt=""/&gt;</description>
+            <a10:updated>2010-09-22T13:18:56-05:00</a10:updated>
+            <a10:content type="text/html" src="http://reliableplant.com/Read/26688/Fluke-process-control-technology" />
+        <feedburner:origLink>http://reliableplant.com/Read/26688/Fluke-process-control-technology</feedburner:origLink></item>
+        <item>
+            <guid isPermaLink="false">tag:noria.com,2010-06-10:publishing:magazines:rp:d5bf0998-8873-4454-a8ea-9deb008a31f5</guid>
+            <link>http://feedproxy.google.com/~r/noria/reliableplant/tags/hand_tools/~3/TR4qKzjCtGY/Atlas-Copco-Kramer-Air-Tool</link>
+            <a10:author>
+                <a10:name>RP news wires</a10:name>
+            </a10:author>
+            <category>Industry News</category>
+            <category>Articles</category>
+            <title>Atlas Copco acquires Kramer Air Tool</title>
+            <description>&lt;p&gt;
+	Atlas Copco Tools &amp;amp; Assembly Systems LLC has agreed to acquire the sales and marketing operation of its current tool distributor Kramer Air Tool Inc., based in Michigan. The agreement further strengthens Atlas Copco&amp;rsquo;s presence, market coverage and support to customers.&lt;/p&gt;
+&lt;p&gt;
+	&amp;ldquo;We are very pleased to integrate the Kramer distributor network into Atlas Copco sales organization and thereby offer our customers an even wider range of sophisticated products, services and accessories. This will bring us closer to our customers&amp;rdquo; says Mats Rahmstr&amp;ouml;m, business area president, Atlas Copco Industrial Technique.&lt;/p&gt;
+&lt;p&gt;
+	Kramer was founded in 1984 and has been a sole Atlas Copco distributor for Michigan since 1999 for tools and related services to the motor vehicle and general industries. Its headquarters is located in Farmington Hills. Kramer employs around 50 people and in 2009 the turnover was approximately MUSD 17 (MSEK 125).&lt;/p&gt;
+&lt;p&gt;
+	The agreement gives Atlas Copco the rights to sales and service of Atlas Copco&amp;rsquo;s industrial tools in the state of Michigan. Customers will be transferred to Atlas Copco&amp;rsquo;s customer center in Michigan. The parties have agreed not to disclose the price.&lt;/p&gt;
+&lt;p&gt;
+	Atlas Copco may be required to disclose the information provided herein pursuant to the Securities Markets Act.&lt;/p&gt;
+&lt;p&gt;
+	Atlas Copco is an industrial group with world-leading positions in compressors, construction and mining equipment, power tools and assembly systems. The group delivers sustainable solutions for increased customer productivity through innovative products and services. Founded in 1873, the company is based in Stockholm, Sweden, and has a global reach spanning more than 170 countries. In 2009, Atlas Copco had approximately 30 000 employees and revenues of BSEK 64 (BEUR 6.0).&lt;/p&gt;
+&lt;p&gt;
+	Atlas Copco&amp;rsquo;s Industrial Technique business area develops, manufactures and markets industrial power tools, assembly systems, aftermarket products, software and service. It innovates for sustainable productivity for applications in the automotive and aerospace industry, general industrial manufacturing and maintenance, and vehicle service worldwide. Principal product development and main manufacturing units are in Sweden, China, France, Hungary and Japan.&lt;/p&gt;&lt;img src="http://feeds.feedburner.com/~r/noria/reliableplant/tags/hand_tools/~4/TR4qKzjCtGY" height="1" width="1" alt=""/&gt;</description>
+            <a10:updated>2010-09-08T08:23:07-05:00</a10:updated>
+            <a10:content type="text/html" src="http://reliableplant.com/Read/26424/Atlas-Copco-Kramer-Air-Tool" />
+        <feedburner:origLink>http://reliableplant.com/Read/26424/Atlas-Copco-Kramer-Air-Tool</feedburner:origLink></item>
+        <item>
+            <guid isPermaLink="false">tag:noria.com,2010-06-10:publishing:magazines:rp:2377aa56-b716-43c4-96f4-9dc600b85676</guid>
+            <link>http://feedproxy.google.com/~r/noria/reliableplant/tags/hand_tools/~3/c2z9YU4L23w/Channellock-launches-Web-site</link>
+            <a10:author>
+                <a10:name>RP news wires</a10:name>
+            </a10:author>
+            <category>Industry News</category>
+            <category>Articles</category>
+            <title>Channellock launches new Web site</title>
+            <description>&lt;p&gt;
+	Channellock, a leader in the design and manufacturing of high-quality pliers and hand tools, recently unveiled its latest American-made tool &amp;ndash; a fully redesigned, improved Web site.&lt;br /&gt;
+	&lt;br /&gt;
+	The new Channellock.com was created in the same Americana voice as its current marketing campaign: Fiercely Made in Meadville, Pa. The fresh design provides a more complete user experience that now enables visitors to purchase tools, learn about the company and interact with Channellock representatives like never before.&lt;br /&gt;
+	&lt;br /&gt;
+	&amp;quot;We wanted to provide a more valuable interactive experience for both new and loyal Channellock customers,&amp;quot; said Ryan DeArment, vice president of sales and marketing at Channellock. &amp;quot;The new site celebrates our tool heritage, people and commitment to quality.&amp;quot;&lt;br /&gt;
+	&lt;br /&gt;
+	&lt;strong&gt;&lt;em&gt;Buy Now or Buy Later&lt;/em&gt;&lt;/strong&gt;&lt;br /&gt;
+	Building your toolbox is now easier with the site&amp;rsquo;s new streamlined, user-friendly navigation, including an enhanced distributor locator for extra convenience. Visitors can explore any Channellock tool, get a full product description, including images, features and exact specifications, then confidently and securely purchase their tool(s) through the site.&lt;br /&gt;
+	&lt;br /&gt;
+	&lt;strong&gt;&lt;em&gt;Experience Channellock&lt;/em&gt;&lt;/strong&gt;&lt;br /&gt;
+	Fans also have the ability to go behind the scenes and &amp;ldquo;Experience Channellock&amp;rdquo; for access to a complete company history and factory video tours. Visitors get an exclusive look at the company&amp;rsquo;s unique manufacturing process and the story behind its trademarked Channellock BLUE handles.&lt;br /&gt;
+	&lt;br /&gt;
+	Visit &lt;a href="http://www.channellock.com/"&gt;www.Channellock.com&lt;/a&gt; for an original hand tool experience.&lt;/p&gt;&lt;img src="http://feeds.feedburner.com/~r/noria/reliableplant/tags/hand_tools/~4/c2z9YU4L23w" height="1" width="1" alt=""/&gt;</description>
+            <a10:updated>2010-08-02T11:11:07-05:00</a10:updated>
+            <a10:content type="text/html" src="http://reliableplant.com/Read/25846/Channellock-launches-Web-site" />
+        <feedburner:origLink>http://reliableplant.com/Read/25846/Channellock-launches-Web-site</feedburner:origLink></item>
+        <item>
+            <guid isPermaLink="false">tag:noria.com,2010-06-10:publishing:magazines:rp:be7ff095-68f7-4f5a-9788-9dab008638ac</guid>
+            <link>http://feedproxy.google.com/~r/noria/reliableplant/tags/hand_tools/~3/_b0-9VIhIQQ/Cooper-Danaher-joint-venture</link>
+            <a10:author>
+                <a10:name>RP news wires</a10:name>
+            </a10:author>
+            <category>Industry News</category>
+            <category>Articles</category>
+            <title>Cooper Industries and Danaher announce closing of tools joint venture</title>
+            <description>&lt;p&gt;
+	Cooper Industries plc and Danaher Corporation on July 6 announced the completion of the joint venture combining Cooper&amp;rsquo;s Tools business with certain tools businesses from Danaher Corporation&amp;rsquo;s Tools and Components segment.&lt;/p&gt;
+&lt;p&gt;
+	The joint venture, which was previously announced in March 2010, will be named Apex Tool Group LLC. Under the joint venture agreement, Cooper and Danaher each will own a 50 percent share of the new company and have equal representation on the joint venture&amp;rsquo;s board of directors. Steve Breitzka, former president of Danaher Tool Group, will lead the joint venture as chief executive officer.&lt;/p&gt;
+&lt;p&gt;
+	&amp;ldquo;We are extremely excited about the creation of this global tools business with Danaher, which we expect to deliver long-term value creation to our shareholders, customers and employees. We are confident that the joint venture&amp;rsquo;s management team will successfully capitalize on the synergies that are inherent in combining these two businesses. Cooper will continue to focus on growing our core electrical products business by executing on our organic growth initiatives of customer loyalty, innovation and globalization and utilizing our exceptionally strong balance sheet for strategic acquisitions,&amp;rdquo; said Cooper Industries chairman and CEO Kirk S. Hachigian.&lt;/p&gt;
+&lt;p&gt;
+	It is anticipated that Cooper will recognize a net after-tax loss in the second quarter of 2010 related to the transaction currently estimated at approximately $90 million or $0.53 per share. This non-cash loss will be principally related to the recognition of the cumulative currency translation. Excluding the effect of the non-cash loss, it is anticipated that the joint venture will have an immaterial impact on Cooper&amp;rsquo;s 2010 forecasted free cash flow and earnings per share. Beginning in the third quarter of 2010, the Tools Segment will be deconsolidated in Cooper&amp;rsquo;s consolidated financial statements and reflected as an equity investment on Cooper&amp;rsquo;s balance sheet and as equity earnings from a joint venture in the consolidated income statement.&lt;/p&gt;
+&lt;p&gt;
+	&lt;strong&gt;&lt;u&gt;About Cooper Industries &lt;/u&gt;&lt;/strong&gt;&lt;br /&gt;
+	Cooper Industries plc is a global manufacturer with 2009 revenues of $5.1 billion, approximately 89 percent of which are from electrical products. Founded in 1833, Cooper&amp;#39;s sustained level of success is attributable to a constant focus on innovation, evolving business practices while maintaining the highest ethical standards, and meeting customer needs. The company has eight operating divisions with leading market share positions and world-class products and brands including: Bussmann electrical and electronic fuses; Crouse-Hinds and CEAG explosion-proof electrical equipment; Halo and Metalux lighting fixtures; and Kyle and McGraw-Edison power systems products. With this broad range of products, Cooper is uniquely positioned for several long-term growth trends including the global infrastructure build-out, the need to improve the reliability and productivity of the electric grid, the demand for higher energy-efficient products and the need for improved electrical safety. In 2009, 61 percent of total sales were to customers in the industrial and utility end-markets and 39 percent of total sales were to customers outside the United States. Cooper had manufacturing facilities in 23 countries as of 2009.&lt;/p&gt;
+&lt;p&gt;
+	&lt;strong&gt;&lt;u&gt;About Danaher Corporation &lt;/u&gt;&lt;/strong&gt;&lt;br /&gt;
+	Danaher, based in Washington. D.C., is a diversified technology leader that designs, manufactures, and markets innovative products and services to professional, medical, industrial, and commercial customers. Its portfolio of premier brands is among the most highly recognized in each of the markets it serves. Driven by the Danaher Business System, the company&amp;rsquo;s 47,000 associates serve customers in more than 125 countries and generated $11.2 billion of revenue in 2009.&amp;nbsp;&lt;/p&gt;&lt;img src="http://feeds.feedburner.com/~r/noria/reliableplant/tags/hand_tools/~4/_b0-9VIhIQQ" height="1" width="1" alt=""/&gt;</description>
+            <a10:updated>2010-07-06T08:08:39-05:00</a10:updated>
+            <a10:content type="text/html" src="http://reliableplant.com/Read/25422/Cooper-Danaher-joint-venture" />
+        <feedburner:origLink>http://reliableplant.com/Read/25422/Cooper-Danaher-joint-venture</feedburner:origLink></item>
+        <item>
+            <guid isPermaLink="false">tag:noria.com,2010-06-10:publishing:magazines:rp:bb50a7c5-33c9-489d-b4d0-9da701139559</guid>
+            <link>http://feedproxy.google.com/~r/noria/reliableplant/tags/hand_tools/~3/rFkiGXLEH_s/Safe-use-clamps-proper-selection</link>
+            <a10:author>
+                <a10:name>The Hand Tools Institute</a10:name>
+            </a10:author>
+            <category>Industry News</category>
+            <category>Articles</category>
+            <title>HTI recommends safe use of clamps through proper selection</title>
+            <description>&lt;p&gt;
+	True or false: Railroad spikes are best driven with a tack hammer?&lt;/p&gt;
+&lt;p&gt;
+	The question may seem a bit absurd and the answer to it a resounding &amp;quot;FALSE!&amp;quot;, but it does point out two common attitudes that are responsible for many injuries related to using hand tools improperly.&lt;/p&gt;
+&lt;p&gt;
+	The notions &amp;quot;one tool does all&amp;quot; or &amp;quot;any tool will do&amp;quot; result in wasted effort; poor quality work; damage to the misused tool, and exposing the user to possible injury, according to the Hand Tools Institute, an association of American manufacturers of quality hand tools.&lt;/p&gt;
+&lt;p&gt;
+	As with hammers, pliers, wrenches and all other hand tools, design is a key element to the type of work a tool is intended to do properly and safely, says HTI.&lt;/p&gt;
+&lt;p&gt;
+	Clamps are no exception and should be selected to conform to the work they are to perform.&lt;/p&gt;
+&lt;p&gt;
+	Clamps are first cousins to vises and the most common relative is the C-clamp. Although C-clamps are extremely versatile, they will not, however, suffice for every job.&lt;/p&gt;
+&lt;p&gt;
+	Keep in mind, HTI suggests, C-clamps serve only as temporary devices for holding work securely in place. Clamps should be removed from the work as soon as the job has been finished.&lt;/p&gt;
+&lt;p&gt;
+	Always select the proper clamps by determining the required opening, depth, strength and weight. The hindrance of a screw extending beyond the frame can be eliminated by selecting a clamp with a smaller screw.&lt;/p&gt;
+&lt;p&gt;
+	Before each project, evaluate the type of clamp needed, whether it shall be a bar clamp, C-clamp, spring clamp, hand screw clamp, web clamp, miter clamp or any of the other varieties available.&lt;/p&gt;
+&lt;p&gt;
+	The finest clamp, like any tool, can be damaged by rough handling, improper selection and overloading. Clamps should be kept in a rack to protect them from damage.&lt;/p&gt;
+&lt;p&gt;
+	Some other suggestions for using clamps properly include:&lt;/p&gt;
+&lt;ul&gt;
+	&lt;li&gt;
+		Use pads with C-clamps to avoid marring the work.&lt;/li&gt;
+	&lt;li&gt;
+		Discard any clamp that has a bent spindle or frame.&lt;/li&gt;
+	&lt;li&gt;
+		Before using, make sure the swivel end of the screw turns freely.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;
+	HTI also recommends wearing safety goggles at all times when using hand tools to guard against possible eye injuries.&lt;/p&gt;
+&lt;p&gt;
+	&lt;strong&gt;&lt;em&gt;Be Choosy&lt;/em&gt;&lt;/strong&gt;&lt;br /&gt;
+	The Hand Tools Institute suggests selecting the right type of clamp for the kind of work it is intended. Although there is a large selection of C-clamps available, opening size, depth, weight and strength are important criteria. C-clamps come in a variety of sizes and styles; there is even greater variety in the clamp family, from web clamps to bar and pipe clamps.&lt;/p&gt;
+&lt;p&gt;
+	Manufacturing plays a central role in the economic growth of our nation, primarily through a unique, interdependent system of innovation that affects all sectors of the economy. By nurturing innovations from concepts through to full-fledged improvements in products and processes, American manufacturing is responsible for providing the basis for more jobs, improved productivity, prosperity and a higher quality of life.&lt;/p&gt;&lt;img src="http://feeds.feedburner.com/~r/noria/reliableplant/tags/hand_tools/~4/rFkiGXLEH_s" height="1" width="1" alt=""/&gt;</description>
+            <a10:updated>2010-07-02T16:43:20-05:00</a10:updated>
+            <a10:content type="text/html" src="http://reliableplant.com/Read/25417/Safe-use-clamps-proper-selection" />
+        <feedburner:origLink>http://reliableplant.com/Read/25417/Safe-use-clamps-proper-selection</feedburner:origLink></item>
+        <item>
+            <guid isPermaLink="false">tag:noria.com,2010-06-10:publishing:magazines:rp:86355996-bbc6-4c37-80bc-9d9d00b0cdc2</guid>
+            <link>http://feedproxy.google.com/~r/noria/reliableplant/tags/hand_tools/~3/KHYbs4XX0NE/cheat-wrenches-tools-safety</link>
+            <a10:author>
+                <a10:name>The Hand Tools Institute</a10:name>
+            </a10:author>
+            <category>Web Exclusives</category>
+            <category>Articles</category>
+            <title>Don't cheat with wrenches</title>
+            <description>&lt;p&gt;
+	Among the many definitions of &amp;ldquo;cheat&amp;rdquo; listed in Webster&amp;rsquo;s Dictionary is the following: &amp;ldquo;To deceive by trickery.&amp;rdquo; This definition seems to aptly describe wrench cheating, an unorthodox technique used by the unwary to get &amp;ldquo;extra power&amp;rdquo; by adding a length of pipe or other extension to a wrench handle to gain extra leverage.&lt;/p&gt;
+&lt;p&gt;
+	The trick is that the tool user is, in a sense, falsely telling the wrench it can do more than it was designed to do. When this is the case, something has to give and it could result in damage to the tool, damage to the fastener, injury to the tool user or all three.&lt;/p&gt;
+&lt;p&gt;
+	The Hand Tools Institute, a trade association of American hand tool manufacturers, says that persons using this dangerous technique, knowingly or unknowingly, are playing a game of Russian roulette, and the odds are stacked against the tool user.&lt;/p&gt;
+&lt;p&gt;
+	Simply stated, the main function of a wrench is for holding and turning nuts, bolts, cap screws, plugs and various other threaded parts. Since the threads of the product being turned act as a remorseless wedge, it is possible to strip the threads by applying excessive torque. Threads can be an integral part of costly equipment.&lt;/p&gt;
+&lt;p&gt;
+	Here are some additional safety tips from HTI when using wrenches:&lt;/p&gt;
+&lt;ul&gt;
+	&lt;li&gt;
+		Select a wrench whose opening exactly fits the nut. Too large an opening can spread the jaws of a wrench. Too large of a box or socket wrench can mar or turn the corners of the nut. Exercise care in selecting inch wrenches for inch fasteners and metric wrenches for metric fasteners.&lt;/li&gt;
+	&lt;li&gt;
+		Never use a wrench as a hammer.&lt;/li&gt;
+	&lt;li&gt;
+		Always pull &amp;ndash; never push &amp;ndash; on a wrench, and adjust your stance to prevent a fall in case something lets go.&lt;/li&gt;
+	&lt;li&gt;
+		To free a &amp;ldquo;frozen&amp;rdquo; nut or bolt, use a striking face box wrench.&lt;/li&gt;
+	&lt;li&gt;
+		Always wear safety goggles when using hand tools to avoid eye injury.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;
+	Manufacturing plays a central role in the economic growth of our nation, primarily through a unique, interdependent system of innovation that affects all sectors of the economy. By nurturing innovations from concepts through to full-fledged improvements in products and processes, American manufacturing is responsible for providing the basis for more jobs, improved productivity, prosperity and a higher quality of life.&lt;/p&gt;
+&lt;p&gt;
+	&lt;strong&gt;&lt;u&gt;About the Hand Tools Institute&lt;/u&gt;&lt;/strong&gt;&lt;br /&gt;
+	The Hand Tools Institute (HTI) is the trade association of North American manufacturers of non-powered hand tools and tool boxes. The objectives of the Institute are to promote and further the interests of its members relative to manufacturing, safety, standardization, international trade and government relations.&lt;/p&gt;
+&lt;p&gt;
+	The institute prepares and disseminates educational materials, conducts statistical and market surveys, identifies legal, legislative, regulatory and economic trends affecting the industry. HTI actively promotes cooperation with other associations, the American National Standards Institute, the National Safety Council and government agencies. An important objective of the institute is to educate the hand tool user on the safe and proper use of hand tools. For more information, visit &lt;a href="http://www.hti.org"&gt;www.hti.org&lt;/a&gt;.&lt;/p&gt;&lt;img src="http://feeds.feedburner.com/~r/noria/reliableplant/tags/hand_tools/~4/KHYbs4XX0NE" height="1" width="1" alt=""/&gt;</description>
+            <a10:updated>2010-06-22T10:43:41-05:00</a10:updated>
+            <a10:content type="text/html" src="http://reliableplant.com/Read/25202/cheat-wrenches-tools-safety" />
+        <feedburner:origLink>http://reliableplant.com/Read/25202/cheat-wrenches-tools-safety</feedburner:origLink></item>
+        <item>
+            <guid isPermaLink="false">tag:noria.com,2010-06-10:publishing:magazines:rp:05205511-68b3-4231-a9ee-9d9800901a7d</guid>
+            <link>http://feedproxy.google.com/~r/noria/reliableplant/tags/hand_tools/~3/gF6y1uQdi-U/GearWrench-launches-video-contest</link>
+            <a10:author>
+                <a10:name>RP news wires</a10:name>
+            </a10:author>
+            <category>Industry News</category>
+            <category>Articles</category>
+            <title>GearWrench launches @Work video contest</title>
+            <description>&lt;p&gt;
+	GearWrench on June 17 announced the launch of its &amp;ldquo;GearWrench @Work&amp;rdquo; contest, which allows tool users to upload a video for a chance to win an all expenses paid trip to Las Vegas in November to attend the Specialty Equipment Manufacturers Association&amp;rsquo;s (SEMA) annual conference. The GearWrench @Work contest kicks off today and will run through Friday, August 13.&lt;/p&gt;
+&lt;p&gt;
+	&amp;ldquo;Whether you are a mechanic in an industrial plant, automotive technician, aviation mechanic or expert weekend warrior, this contest provides you with the chance to show us how you put GearWrench tools to the test,&amp;rdquo; said Kenneth Escoe, vice president of marketing for GearWrench.&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;
+	GearWrench @Work Contest Rules and Guidelines:&lt;/p&gt;
+&lt;ol&gt;
+	&lt;li&gt;
+		Upload an up to five-minute video to &lt;a href="http://www.gearwrench.com/"&gt;www.gearwrench.com&lt;/a&gt;before August 13, 2010 showing your most extreme work environment, a tough challenge in the shop or how you tackle a difficult task using your favorite GearWrench tool&lt;/li&gt;
+	&lt;li&gt;
+		A panel of judges will select 10 finalists whose videos will be posted online on August 25, 2010&lt;/li&gt;
+	&lt;li&gt;
+		Voting will take place at &lt;a href="http://www.gearwrench.com/"&gt;www.gearwrench.com&lt;/a&gt;between August 25 and September 29, 2010 by GearWrench enthusiasts&lt;/li&gt;
+	&lt;li&gt;
+		The Grand Prize winner will join the GearWrench team in Las Vegas for the Specialty Equipment Manufacturers Association&amp;rsquo;s (SEMA) annual conference November 2-5, 2010. SEMA is the premier industry event where thousands gather every year to see what&amp;rsquo;s next in the automotive aftermarket and heavy duty tool and equipment world. The winner also will have an opportunity to meet drivers from the Bimmerworld/GearWrench race team and talk to the pros about GearWrench tools&lt;/li&gt;
+	&lt;li&gt;
+		The remaining nine finalists each will receive a GearWrench prize package&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;
+	Videos may be no larger than 1 gigabyte and no more than five minutes in length. GearWrench recommends the MPEG-2 or MPEG-4 format at 640x360 or 480x360 resolution.&lt;/p&gt;
+&lt;p&gt;
+	The contest is open to legal residents of the 50 United States and District of Columbia who are 18 years of age or older at time of entry.&amp;nbsp; For complete details about the &amp;ldquo;GearWrench @Work&amp;rdquo; contest, visit &lt;a href="http://www.gearwrench.com/contest"&gt;www.gearwrench.com/contest&lt;/a&gt;.&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;
+	&lt;strong&gt;&lt;u&gt;About GearWrench&lt;/u&gt;&lt;/strong&gt;&lt;br /&gt;
+	GearWrench is a premier hand tool brand from Danaher Tool Group, one of the largest hand tool manufacturers in the world. Since the launch of the original patented 5-degree ratcheting wrench, the GearWrench brand has continuously led the industry with breakthroughs in pass-thru ratchets, sockets, screw/nut drivers, pliers and specialty tools. More than 100 million GearWrench products have been &amp;quot;Professionally Tested&amp;quot; throughout the world. Additional information about GearWrench is available online at &lt;a href="http://www.gearwrench.com/"&gt;www.gearwrench.com&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;
+	&lt;strong&gt;&lt;u&gt;About Danaher Tool Group&lt;/u&gt;&lt;/strong&gt;&lt;br /&gt;
+	Danaher Tool Group is one of the largest worldwide producers of general purpose mechanics&amp;rsquo; hand tools, primarily ratchets, sockets, wrenches, and specialized automotive service tools for the professional and &amp;ldquo;do-it-yourself&amp;rdquo; markets. Danaher Tool Group has also been the principal manufacturer for several key retailers for many years. Typical users of our products include professional automotive and industrial mechanics as well as &amp;ldquo;do-it-yourself&amp;rdquo; consumers. The company markets tool products under its own brand names and also private-labels products for certain customers.&lt;/p&gt;&lt;img src="http://feeds.feedburner.com/~r/noria/reliableplant/tags/hand_tools/~4/gF6y1uQdi-U" height="1" width="1" alt=""/&gt;</description>
+            <a10:updated>2010-06-17T08:44:37-05:00</a10:updated>
+            <a10:content type="text/html" src="http://reliableplant.com/Read/25123/GearWrench-launches-video-contest" />
+        <feedburner:origLink>http://reliableplant.com/Read/25123/GearWrench-launches-video-contest</feedburner:origLink></item>
+        <item>
+            <guid isPermaLink="false">tag:noria.com,2010-06-10:publishing:magazines:rp:260b9002-8e1b-417d-a56e-9d89008b1854</guid>
+            <link>http://feedproxy.google.com/~r/noria/reliableplant/tags/hand_tools/~3/6gWlpJZiTIU/Atlas-Copco-tools-distribution</link>
+            <a10:author>
+                <a10:name>RP news wires</a10:name>
+            </a10:author>
+            <category>Industry News</category>
+            <category>Articles</category>
+            <title>Atlas Copco takes over distribution of its tools in southern U.S.</title>
+            <description>&lt;p&gt;
+	Atlas Copco Tools &amp;amp; Assembly Systems LLC has agreed to take over the sales and marketing of products and services in southern United States from its current distributor Tooling Technologies Inc. The agreement further strengthens Atlas Copco&amp;rsquo;s presence, market coverage and support to customers in the region.&lt;/p&gt;
+&lt;p&gt;
+	&amp;ldquo;We are very pleased with this opportunity to integrate a larger part of the U.S. into the Atlas Copco sales organization and offer our customers an even wider range of sophisticated products, services and accessories,&amp;rdquo; says Mats Rahmstr&amp;ouml;m, business area president, Atlas Copco Industrial Technique. &amp;ldquo;The agreement broadens our customer base, increases the aftermarket share of revenues and reduces the cost level.&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;
+	Tooling Technologies had revenues in 2009 of approximately MUSD 12 (MSEK 90). Sales are in Texas and surrounding states, including northern Mexico. Customers are in the motor vehicle industries and general industries, as well as segments such as petrochemical/oilfield, power generation, government, electronics and aerospace.&lt;/p&gt;
+&lt;p&gt;
+	Atlas Copco and Tooling Technologies have made a mutual agreement to fully transfer the distribution of the Atlas Copco products and services to Atlas Copco Tools &amp;amp; Assembly Systems LLC in the territory. Customers in Mexico will be transferred to the Atlas Copco Customer Centre in Mexico.&lt;/p&gt;
+&lt;p&gt;
+	Atlas Copco is an industrial group with world-leading positions in compressors, construction and mining equipment, power tools and assembly systems. The Group delivers sustainable solutions for increased customer productivity through innovative products and services. Founded in 1873, the company is based in Stockholm, Sweden, and has a global reach spanning more than 170 countries. In 2009, Atlas Copco had about 30 000 employees and revenues of BSEK 64 (BEUR 6.0).&lt;/p&gt;
+&lt;p&gt;
+	Atlas Copco&amp;rsquo;s Industrial Technique business area develops, manufactures and markets industrial power tools, assembly systems, aftermarket products, software and service. It innovates for sustainable productivity for applications in the automotive and aerospace industry, general industrial manufacturing and maintenance, and vehicle service worldwide. Principal product development and main manufacturing units are in Sweden, China, France, Hungary and Japan.&amp;nbsp;&lt;/p&gt;&lt;img src="http://feeds.feedburner.com/~r/noria/reliableplant/tags/hand_tools/~4/6gWlpJZiTIU" height="1" width="1" alt=""/&gt;</description>
+            <a10:updated>2010-06-02T08:26:24-05:00</a10:updated>
+            <a10:content type="text/html" src="http://reliableplant.com/Read/24851/Atlas-Copco-tools-distribution" />
+        <feedburner:origLink>http://reliableplant.com/Read/24851/Atlas-Copco-tools-distribution</feedburner:origLink></item>
+        <item>
+            <guid isPermaLink="false">tag:noria.com,2010-06-10:publishing:magazines:rp:d45542a9-f3cc-4e8e-aace-9d48007fc8c6</guid>
+            <link>http://feedproxy.google.com/~r/noria/reliableplant/tags/hand_tools/~3/x-w1eZ3wqDQ/Danaher-Cooper-combine-tool-businesses</link>
+            <a10:author>
+                <a10:name>RP news wires</a10:name>
+            </a10:author>
+            <category>Industry News</category>
+            <category>Articles</category>
+            <title>Danaher, Cooper Industries to combine tool businesses, form new company</title>
+            <description>&lt;p&gt;
+	Danaher Corporation and Cooper Industries plc on March 26 announced they have reached an agreement to combine their respective tool businesses, Danaher Tool Group and Cooper Tools, in a joint venture. Cooper and Danaher will each hold a 50 percent ownership stake in the new joint venture and Danaher Tool Group executive Steve Breitzka will lead the new company as its president and chief executive officer. The company will be headquartered in Sparks, Md., and its board of directors will consist of six members with three members appointed by each of the parent companies. The leadership team will include both Cooper Tools and Danaher Tool Group executives. The transaction is subject to customary closing conditions and is expected to close after securing the necessary regulatory approvals.&lt;/p&gt;
+&lt;p&gt;
+	To be named in the coming weeks, the combined company will market some of the leading brands in the tool industry, such as Allen, Apex, Armstrong Tools, Campbell, Cleco, Crescent, Erem, GearWrench, H.K. Porter, Jacobs Chuck, Jobox, K-D Tools, Lufkin, Nicholson, Plumb, Sata, Weller and Wiss, among others.&lt;/p&gt;
+&lt;p&gt;
+	The combined company will bring together two major manufacturers with complementary product offerings, distribution channels and geographic reach. Together, the combined company will provide a broader array of hand and power tools to a more diverse range of end users in the do-it-yourself, manufacturing and assembly, automotive, construction, and electrical trades.&lt;/p&gt;
+&lt;p&gt;
+	For example, professional operators, mechanics and technicians in manufacturing production, assembly and maintenance organizations will have more product choice through national and independent distribution partners. The company will also sell its products to consumers through established partnerships with major global retailers. This includes private-label products and the companies&amp;#39; owns brands.&lt;/p&gt;
+&lt;p&gt;
+	&amp;quot;Combining the strengths of each company is expected to translate into significant benefits for our collective customers across the globe,&amp;quot; said Breitzka. &amp;quot;In addition to offering a wider and deeper line-up of leading tool brands, we expect to be better positioned to drive new product innovation - a hallmark of both businesses - with shared engineering resources.&amp;quot;&lt;/p&gt;
+&lt;p&gt;
+	&amp;quot;World-class quality, service and innovation are becoming increasingly important to our distributors and end users,&amp;quot; said Laura Ulz, who currently serves as the president of Cooper Tools. &amp;quot;Size and scale are important in this industry and this combination will create a focused, global tools business with an improved ability to continue to meet the evolving needs of our professional and retail customers.&amp;quot;&lt;/p&gt;
+&lt;p&gt;
+	The companies expect that customers will be able to continue to purchase products and receive customer service through the existing channels.&lt;/p&gt;
+&lt;p&gt;
+	For more information about the new company, visit &lt;a href="http://www.cooperdanahertools.com/"&gt;www.cooperdanahertools.com&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;
+	&lt;strong&gt;&lt;u&gt;About Danaher Corporation&lt;/u&gt;&lt;/strong&gt;&lt;br /&gt;
+	Danaher, based in Washington, D.C., is a diversified technology leader that designs, manufactures, and markets innovative products and services to professional, medical, industrial, and commercial customers. Its portfolio of premier brands is among the most highly recognized in each of the markets it serves. Driven by the Danaher Business System, the company&amp;rsquo;s 47,000 associates serve customers in more than 125 countries and generated $11.2 billion of revenue in 2009.&lt;/p&gt;
+&lt;p&gt;
+	&lt;strong&gt;&lt;u&gt;About Danaher Tool Group&lt;/u&gt;&lt;/strong&gt;&lt;br /&gt;
+	Danaher Tool Group is one of the largest worldwide producers of general purpose mechanics&amp;#39; hand tools, primarily ratchets, sockets, wrenches, and specialized automotive service tools for the professional and &amp;quot;do-it-yourself&amp;quot; markets. Danaher Tool Group has also been the principal manufacturer for several key retailers for many years. Typical users of the company&amp;rsquo;s products include professional automotive and industrial mechanics as well as &amp;quot;do-it-yourself&amp;quot; consumers. It markets tool products under its own brand names and also private-label products for certain customers.&lt;/p&gt;
+&lt;p&gt;
+	&lt;strong&gt;&lt;u&gt;About Cooper Industries&lt;br /&gt;
+	&lt;/u&gt;&lt;/strong&gt;Cooper Industries plc is a global manufacturer with 2009 revenues of $5.1 billion, approximately 89 percent of which are from electrical products. Founded in 1833, Cooper&amp;#39;s sustained level of success is attributable to a constant focus on innovation, evolving business practices while maintaining the highest ethical standards, and meeting customer needs. The company has eight operating divisions with leading market share positions and world-class products and brands including: Bussmann electrical and electronic fuses; Crouse-Hinds and CEAG explosion-proof electrical equipment; Halo and Metalux lighting fixtures; and Kyle and McGraw-Edison power systems products. With this broad range of products, Cooper is uniquely positioned for several long-term growth trends including the global infrastructure build-out, the need to improve the reliability and productivity of the electric grid, the demand for higher energy-efficient products and the need for improved electrical safety. In 2009, 61 percent of total sales were to customers in the industrial and utility end-markets and thirty-nine percent of total sales were to customers outside the United States. Cooper has manufacturing facilities in 23 countries as of 2009.&lt;/p&gt;
+&lt;p&gt;
+	&lt;strong&gt;&lt;u&gt;About Cooper Tools&lt;br /&gt;
+	&lt;/u&gt;&lt;/strong&gt;Cooper Tools, a subsidiary of Cooper Industries plc, serves a multitude of global markets, including automotive, aerospace, electronics, energy, hardware, industrial and volume retail. It offers a broad selection of application-oriented products, together with the teamed experiences of talented engineers and designers and quality-conscious production, customer service, and product development personnel. Cooper Tools provides meaningful productivity gains to its customers through the proper application of its many well-known brands of specialized industrial power tools, hand tools, chain and electronic soldering products.&amp;nbsp;&lt;/p&gt;&lt;img src="http://feeds.feedburner.com/~r/noria/reliableplant/tags/hand_tools/~4/x-w1eZ3wqDQ" height="1" width="1" alt=""/&gt;</description>
+            <a10:updated>2010-03-29T07:45:12-05:00</a10:updated>
+            <a10:content type="text/html" src="http://reliableplant.com/Read/23652/Danaher-Cooper-combine-tool-businesses" />
+        <feedburner:origLink>http://reliableplant.com/Read/23652/Danaher-Cooper-combine-tool-businesses</feedburner:origLink></item>
+        <item>
+            <guid isPermaLink="false">tag:noria.com,2010-06-10:publishing:magazines:rp:30f2e01a-8c70-4fd5-81ef-9cf80125266b</guid>
+            <link>http://feedproxy.google.com/~r/noria/reliableplant/tags/hand_tools/~3/tDaOmY8S5yI/power-hand-tool-demand</link>
+            <a10:author>
+                <a10:name>RP news wires</a10:name>
+            </a10:author>
+            <category>Industry News</category>
+            <category>Articles</category>
+            <title>U.S. power &amp; hand tool demand to reach $14.5B in 2012</title>
+            <description>&lt;P style="MARGIN: 0in 0in 0pt; mso-layout-grid-align: none" class=MsoNormal&gt;&lt;SPAN style="FONT-FAMILY: 'Arial','sans-serif'; COLOR: black; FONT-SIZE: 9pt; mso-bidi-font-weight: bold"&gt;Power and hand tool demand in the United States is forecast to increase 3.3 percent annually through 2012, reaching $14.5 billion&lt;/SPAN&gt;&lt;SPAN style="FONT-FAMILY: 'Arial','sans-serif'; COLOR: black; FONT-SIZE: 9pt"&gt;. Although difficult in the shorter term, the U.S. construction outlook is expected to recover by 2012, creating demand in the professional sector. In the meantime, consumer demand will benefit from continued interest in DIY and home remodeling activities. Ongoing introduction of new products â especially improved cordless tools â will create gains in both markets. These and other trends are presented in &lt;I&gt;&lt;SPAN style="mso-bidi-font-weight: bold"&gt;Power &amp;amp; Hand Tools&lt;B&gt;, &lt;/B&gt;&lt;/SPAN&gt;&lt;/I&gt;a new study from &lt;SPAN style="mso-bidi-font-weight: bold"&gt;The Freedonia Group Inc.&lt;/SPAN&gt;, a Cleveland-based industry research firm.&lt;?xml:namespace prefix = o ns = "urn:schemas-microsoft-com:office:office" /&gt;&lt;o:p&gt;&lt;/o:p&gt;&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P style="MARGIN: 0in 0in 0pt; mso-layout-grid-align: none" class=MsoNormal&gt;&lt;SPAN style="FONT-FAMILY: 'Arial','sans-serif'; COLOR: black; FONT-SIZE: 9pt"&gt;&lt;o:p&gt;&amp;nbsp;&lt;/o:p&gt;&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P style="MARGIN: 0in 0in 0pt; mso-layout-grid-align: none" class=MsoNormal&gt;&lt;SPAN style="FONT-FAMILY: 'Arial','sans-serif'; COLOR: black; FONT-SIZE: 9pt; mso-bidi-font-weight: bold"&gt;Growth in consumer tool demand will outpace that of the professional segment&lt;/SPAN&gt;&lt;SPAN style="FONT-FAMILY: 'Arial','sans-serif'; COLOR: black; FONT-SIZE: 9pt"&gt;, benefitting from the ongoing popularity of do-it-yourself activities and the trade-up by consumers to feature-laden power tools. The U.S. mortgage crisis will compel many homeowners to remain in their current homes, thereby boosting home remodeling and repair activity. A growing number of women have become interested in DIY activities, as evidenced by Web sites and classes geared toward this group.&lt;o:p&gt;&lt;/o:p&gt;&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P style="MARGIN: 0in 0in 0pt; mso-layout-grid-align: none" class=MsoNormal&gt;&lt;SPAN style="FONT-FAMILY: 'Arial','sans-serif'; COLOR: black; FONT-SIZE: 9pt"&gt;&lt;o:p&gt;&amp;nbsp;&lt;/o:p&gt;&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P style="MARGIN: 0in 0in 0pt; mso-layout-grid-align: none" class=MsoNormal&gt;&lt;SPAN style="FONT-FAMILY: 'Arial','sans-serif'; COLOR: black; FONT-SIZE: 9pt; mso-bidi-font-weight: bold"&gt;Although the professional market will grow more slowly than the consumer market&lt;/SPAN&gt;&lt;SPAN style="FONT-FAMILY: 'Arial','sans-serif'; COLOR: black; FONT-SIZE: 9pt"&gt;, professional users will continue to account for the majority of overall tool demand through 2012. The construction sector will post the best gains through 2012, reflecting an expected recovery in housing starts. In addition, the aging U.S. housing stock will boost demand for contractors in remodeling and repair jobs. The automotive aftermarket sector will benefit from the growing number and average age of vehicles in use. As some consumers forgo buying a new car, this will increase demand for automotive repairs. The industrial sector, however, will be dampened by declining employment as a greater portion of the population becomes employed in the services sector.&lt;o:p&gt;&lt;/o:p&gt;&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P style="MARGIN: 0in 0in 0pt; mso-layout-grid-align: none" class=MsoNormal&gt;&lt;SPAN style="FONT-FAMILY: 'Arial','sans-serif'; COLOR: black; FONT-SIZE: 9pt"&gt;&lt;o:p&gt;&amp;nbsp;&lt;/o:p&gt;&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P style="MARGIN: 0in 0in 0pt; mso-layout-grid-align: none" class=MsoNormal&gt;&lt;SPAN style="FONT-FAMILY: 'Arial','sans-serif'; COLOR: black; FONT-SIZE: 9pt; mso-bidi-font-weight: bold"&gt;Maintaining established trends, power tool demand is forecast to outpace hand tool demand&lt;B&gt; &lt;/B&gt;&lt;/SPAN&gt;&lt;SPAN style="FONT-FAMILY: 'Arial','sans-serif'; COLOR: black; FONT-SIZE: 9pt"&gt;due to the continuing popularity of cordless electric products such as saws, sanders and screwdrivers. Hand tool demand is limited by the inherent durability of these products. Common household tools such as hammers frequently outlive their owners, dampening replacement demand.&lt;o:p&gt;&lt;/o:p&gt;&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P style="MARGIN: 0in 0in 0pt; mso-layout-grid-align: none" class=MsoNormal&gt;&lt;SPAN style="FONT-FAMILY: 'Arial','sans-serif'; COLOR: black; FONT-SIZE: 9pt"&gt;&lt;o:p&gt;&amp;nbsp;&lt;/o:p&gt;&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P style="MARGIN: 0in 0in 0pt; mso-layout-grid-align: none" class=MsoNormal&gt;&lt;SPAN style="FONT-FAMILY: 'Arial','sans-serif'; COLOR: black; FONT-SIZE: 9pt; mso-bidi-font-weight: bold"&gt;Cordless products will continue to post the best gains&lt;/SPAN&gt;&lt;SPAN style="FONT-FAMILY: 'Arial','sans-serif'; COLOR: black; FONT-SIZE: 9pt"&gt;, benefitting not only from macroeconomic factors but from their performance advantages vis-a-vis plug-in models. The development of improved battery technology, such as lithium-ion chemistry, has encouraged both consumers and professionals to use cordless technology.&lt;o:p&gt;&lt;/o:p&gt;&lt;/SPAN&gt;&lt;/P&gt;&lt;img src="http://feeds.feedburner.com/~r/noria/reliableplant/tags/hand_tools/~4/tDaOmY8S5yI" height="1" width="1" alt=""/&gt;</description>
+            <a10:updated>2009-07-30T00:00:00-05:00</a10:updated>
+            <a10:content type="text/html" src="http://reliableplant.com/Read/19132/power-hand-tool-demand" />
+        <feedburner:origLink>http://reliableplant.com/Read/19132/power-hand-tool-demand</feedburner:origLink></item>
+        <item>
+            <guid isPermaLink="false">tag:noria.com,2010-06-10:publishing:magazines:rp:76b40619-2e4b-4f70-bda9-9cf8010f9814</guid>
+            <link>http://feedproxy.google.com/~r/noria/reliableplant/tags/hand_tools/~3/N1EoPyGhZQo/hand-tool-safety-month</link>
+            <a10:author>
+                <a10:name>RP news wires</a10:name>
+            </a10:author>
+            <category>Industry News</category>
+            <category>Articles</category>
+            <title>May designated as National Hand Tool Safety Month</title>
+            <description>&lt;P class=MsoNormal style="MARGIN: 0in 0in 0pt"&gt;&lt;SPAN style="FONT-SIZE: 9pt; FONT-FAMILY: 'Arial','sans-serif'; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin"&gt;The Hand Tools Institute has designated the month of May as âNational Hand Tool Safety Month.â Misuse of hand tools contributes to thousands of hand tool related injuries each year requiring emergency hospital treatment.&lt;?xml:namespace prefix = o ns = "urn:schemas-microsoft-com:office:office" /&gt;&lt;o:p&gt;&lt;/o:p&gt;&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class=MsoNormal style="MARGIN: 0in 0in 0pt"&gt;&lt;SPAN style="FONT-SIZE: 9pt; FONT-FAMILY: 'Arial','sans-serif'; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin"&gt;&lt;o:p&gt;&amp;nbsp;&lt;/o:p&gt;&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class=MsoNormal style="MARGIN: 0in 0in 0pt"&gt;&lt;SPAN style="FONT-SIZE: 9pt; FONT-FAMILY: 'Arial','sans-serif'; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin"&gt;Among the safety rules to be emphasized during the national campaign are:&lt;o:p&gt;&lt;/o:p&gt;&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class=MsoListParagraph style="MARGIN: 0in 0in 0pt 0.5in; TEXT-INDENT: -0.25in; mso-list: l0 level1 lfo1"&gt;&lt;SPAN style="FONT-SIZE: 9pt; FONT-FAMILY: Symbol; mso-fareast-font-family: Symbol; mso-bidi-font-family: Symbol"&gt;&lt;SPAN style="mso-list: Ignore"&gt;Â·&lt;SPAN style="FONT: 7pt 'Times New Roman'"&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/SPAN&gt;&lt;/SPAN&gt;&lt;/SPAN&gt;&lt;SPAN style="FONT-SIZE: 9pt; FONT-FAMILY: 'Arial','sans-serif'; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin"&gt;Always wear safety goggles when using hand tools.&lt;o:p&gt;&lt;/o:p&gt;&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class=MsoListParagraph style="MARGIN: 0in 0in 0pt 0.5in; TEXT-INDENT: -0.25in; mso-list: l0 level1 lfo1"&gt;&lt;SPAN style="FONT-SIZE: 9pt; FONT-FAMILY: Symbol; mso-fareast-font-family: Symbol; mso-bidi-font-family: Symbol"&gt;&lt;SPAN style="mso-list: Ignore"&gt;Â·&lt;SPAN style="FONT: 7pt 'Times New Roman'"&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/SPAN&gt;&lt;/SPAN&gt;&lt;/SPAN&gt;&lt;SPAN style="FONT-SIZE: 9pt; FONT-FAMILY: 'Arial','sans-serif'; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin"&gt;Plastic covered pliers handles are&lt;SPAN style="mso-spacerun: yes"&gt;&amp;nbsp; &lt;/SPAN&gt;for comfort only, not for protection from electrical current.&lt;o:p&gt;&lt;/o:p&gt;&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class=MsoListParagraph style="MARGIN: 0in 0in 0pt 0.5in; TEXT-INDENT: -0.25in; mso-list: l0 level1 lfo1"&gt;&lt;SPAN style="FONT-SIZE: 9pt; FONT-FAMILY: Symbol; mso-fareast-font-family: Symbol; mso-bidi-font-family: Symbol"&gt;&lt;SPAN style="mso-list: Ignore"&gt;Â·&lt;SPAN style="FONT: 7pt 'Times New Roman'"&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/SPAN&gt;&lt;/SPAN&gt;&lt;/SPAN&gt;&lt;SPAN style="FONT-SIZE: 9pt; FONT-FAMILY: 'Arial','sans-serif'; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin"&gt;Never use screwdrivers for any other purpose than tightening or loosening fasteners.&lt;o:p&gt;&lt;/o:p&gt;&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class=MsoListParagraph style="MARGIN: 0in 0in 0pt 0.5in; TEXT-INDENT: -0.25in; mso-list: l0 level1 lfo1"&gt;&lt;SPAN style="FONT-SIZE: 9pt; FONT-FAMILY: Symbol; mso-fareast-font-family: Symbol; mso-bidi-font-family: Symbol"&gt;&lt;SPAN style="mso-list: Ignore"&gt;Â·&lt;SPAN style="FONT: 7pt 'Times New Roman'"&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/SPAN&gt;&lt;/SPAN&gt;&lt;/SPAN&gt;&lt;SPAN style="FONT-SIZE: 9pt; FONT-FAMILY: 'Arial','sans-serif'; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin"&gt;Never use cheater bars on tools.&lt;o:p&gt;&lt;/o:p&gt;&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class=MsoListParagraph style="MARGIN: 0in 0in 0pt 0.5in; TEXT-INDENT: -0.25in; mso-list: l0 level1 lfo1"&gt;&lt;SPAN style="FONT-SIZE: 9pt; FONT-FAMILY: Symbol; mso-fareast-font-family: Symbol; mso-bidi-font-family: Symbol"&gt;&lt;SPAN style="mso-list: Ignore"&gt;Â·&lt;SPAN style="FONT: 7pt 'Times New Roman'"&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/SPAN&gt;&lt;/SPAN&gt;&lt;/SPAN&gt;&lt;SPAN style="FONT-SIZE: 9pt; FONT-FAMILY: 'Arial','sans-serif'; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin"&gt;Claw hammers are for driving and removing finishing and common nails, not masonry nails or striking other tools.&lt;o:p&gt;&lt;/o:p&gt;&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class=MsoNormal style="MARGIN: 0in 0in 0pt"&gt;&lt;SPAN style="FONT-SIZE: 9pt; FONT-FAMILY: 'Arial','sans-serif'; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin"&gt;&lt;o:p&gt;&amp;nbsp;&lt;/o:p&gt;&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class=MsoNormal style="MARGIN: 0in 0in 0pt"&gt;&lt;SPAN style="FONT-SIZE: 9pt; FONT-FAMILY: 'Arial','sans-serif'; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin"&gt;Posters, booklets, videos and charts are available from the instituteâs headquarters in &lt;?xml:namespace prefix = st1 ns = "urn:schemas-microsoft-com:office:smarttags" /&gt;&lt;st1:City w:st="on"&gt;Tarrytown&lt;/st1:City&gt;, N.Y. The HTI safety program, in its 38th year, has earned national awards and recognition for its excellence.&lt;o:p&gt;&lt;/o:p&gt;&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class=MsoNormal style="MARGIN: 0in 0in 0pt"&gt;&lt;SPAN style="FONT-SIZE: 9pt; FONT-FAMILY: 'Arial','sans-serif'; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin"&gt;&lt;o:p&gt;&amp;nbsp;&lt;/o:p&gt;&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class=MsoNormal style="MARGIN: 0in 0in 0pt"&gt;&lt;SPAN style="FONT-SIZE: 9pt; FONT-FAMILY: 'Arial','sans-serif'; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin"&gt;For more information, visit &lt;A href="http://www.hti.org/"&gt;&lt;U&gt;&lt;FONT color=#800080&gt;www.hti.org&lt;/FONT&gt;&lt;/U&gt;&lt;/A&gt;.&lt;/SPAN&gt;&lt;/P&gt;&lt;img src="http://feeds.feedburner.com/~r/noria/reliableplant/tags/hand_tools/~4/N1EoPyGhZQo" height="1" width="1" alt=""/&gt;</description>
+            <a10:updated>2009-03-19T00:00:00-05:00</a10:updated>
+            <a10:content type="text/html" src="http://reliableplant.com/Read/16551/hand-tool-safety-month" />
+        <feedburner:origLink>http://reliableplant.com/Read/16551/hand-tool-safety-month</feedburner:origLink></item>
+        <item>
+            <guid isPermaLink="false">tag:noria.com,2010-06-10:publishing:magazines:rp:6322caa7-77e4-4157-9bac-9cf800da1571</guid>
+            <link>http://feedproxy.google.com/~r/noria/reliableplant/tags/hand_tools/~3/LGgEFM7LhEE/hand-tool-power-tool</link>
+            <a10:author>
+                <a10:name>The Occupational Safety and Health Administration</a10:name>
+            </a10:author>
+            <category>Web Exclusives</category>
+            <category>Articles</category>
+            <title>A comprehensive guide to hand tool and power tool safety</title>
+            <description>&lt;P&gt;Tools are such a common part of our lives that it is difficult to remember that they may pose hazards. All tools are manufactured with safety in mind but, tragically, a serious accident often occurs before steps are taken to search out and avoid or eliminate tool-related hazards.&lt;/P&gt;
+&lt;P&gt;In the process of removing or avoiding the hazards, workers must learn to recognize the hazards associated with the different types of tools and the safety precautions necessary to prevent those hazards.&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;&lt;EM&gt;Hand tools hazards&lt;/EM&gt;&lt;/STRONG&gt;&lt;BR&gt;Hand tools are non-powered. They include anything from axes to wrenches. The greatest hazards posed by hand tools result from misuse and improper maintenance.&lt;/P&gt;
+&lt;P&gt;Some examples: &lt;/P&gt;
+&lt;UL type=disc&gt;
+&lt;LI&gt;Using a screwdriver as a chisel may cause the tip of the screwdriver to break and fly, hitting the user or other employees. 
+&lt;LI&gt;If a wooden handle on a tool such as a hammer or an axe is loose, splintered or cracked, the head of the tool may fly off and strike the user or another worker. 
+&lt;LI&gt;A wrench must not be used if its jaws are sprung because it might slip. 
+&lt;LI&gt;Impact tools such as chisels, wedges or drift pins are unsafe if they have mushroomed heads. The heads might shatter on impact, sending sharp fragments flying. 
+&lt;LI&gt;The employer is responsible for the safe condition of tools and equipment used by employees, but the employees have the responsibility for properly using and maintaining tools. 
+&lt;LI&gt;Employers should caution employees that saw blades, knives or other tools be directed away from aisle areas and other employees working in close proximity. Knives and scissors must be sharp. Dull tools can be more hazardous than sharp ones. 
+&lt;LI&gt;Appropriate personal protective equipment (e.g., safety goggles, gloves, etc.) should be worn due to hazards that may be encountered while using portable power tools and hand tools. 
+&lt;LI&gt;Safety requires that floors be kept as clean and dry as possible to prevent accidental slips with or around dangerous hand tools. 
+&lt;LI&gt;Around flammable substances, sparks produced by iron and steel hand tools can be a dangerous ignition source. Where this hazard exists, spark-resistant tools made from brass, plastic, aluminum or wood will provide for safety. &lt;/LI&gt;&lt;/UL&gt;
+&lt;P&gt;&lt;STRONG&gt;&lt;EM&gt;Power tool precautions&lt;/EM&gt;&lt;/STRONG&gt;&lt;BR&gt;Power tools can be hazardous when improperly used. There are several types of power tools, based on the power source they use: electric, pneumatic, liquid fuel, hydraulic and powder-actuated.&lt;/P&gt;
+&lt;P&gt;Employees should be trained in the use of all tools â not just power tools. They should understand the potential hazards as well as the safety precautions to prevent those hazards from occurring.&lt;/P&gt;
+&lt;P&gt;The following general precautions should be observed by power tool users: &lt;/P&gt;
+&lt;UL type=disc&gt;
+&lt;LI&gt;Never carry a tool by the cord or hose. 
+&lt;LI&gt;Never yank the cord or the hose to disconnect it from the receptacle. 
+&lt;LI&gt;Keep cords and hoses away from heat, oil and sharp edges. 
+&lt;LI&gt;Disconnect tools when not in use, before servicing and when changing accessories such as blades, bits and cutters. 
+&lt;LI&gt;All observers should be kept at a safe distance away from the work area. 
+&lt;LI&gt;Secure work with clamps or a vise, freeing both hands to operate the tool. 
+&lt;LI&gt;Avoid accidental starting. The worker should not hold a finger on the switch button while carrying a plugged-in tool. 
+&lt;LI&gt;Tools should be maintained with care. They should be kept sharp and clean for the best performance. Follow instructions in the userâs manual for lubricating and changing accessories. 
+&lt;LI&gt;Be sure to keep good footing and maintain good balance. 
+&lt;LI&gt;The proper apparel should be worn. Loose clothing, ties or jewelry can become caught in moving parts. 
+&lt;LI&gt;All portable electric tools that are damaged shall be removed from use and tagged âDo Not Use.â &lt;/LI&gt;&lt;/UL&gt;
+&lt;P&gt;&lt;STRONG&gt;&lt;EM&gt;Guards&lt;/EM&gt;&lt;/STRONG&gt; &lt;BR&gt;Hazardous moving parts of a power tool need to be safeguarded. For example, belts, gears, shafts, pulleys, sprockets, spindles, drums, fly wheels, chains or other reciprocating, rotating or moving parts of equipment must be guarded if such parts are exposed to contact by employees.&lt;BR&gt;Guards, as necessary, should be provided to protect the operator and others from the following:&lt;/P&gt;
+&lt;UL type=disc&gt;
+&lt;LI&gt;point of operation, 
+&lt;LI&gt;in-running nip points, 
+&lt;LI&gt;rotating parts, and 
+&lt;LI&gt;flying chips and sparks. &lt;/LI&gt;&lt;/UL&gt;
+&lt;P&gt;&amp;nbsp;&lt;BR&gt;Safety guards must never be removed when a tool is being used. For example, portable circular saws must be equipped with guards. An upper guard must cover the entire blade of the saw. A retractable lower guard must cover the teeth of the saw, except when it makes contact with the work material. The lower guard must automatically return to the covering position when the tool is withdrawn from the work.&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;&lt;EM&gt;Safety switches&lt;/EM&gt;&lt;/STRONG&gt; &lt;BR&gt;The following hand-held powered tools must be equipped with a momentary contact âon-offâ control switch: drills, tappers, fastener drivers, horizontal, vertical and angle grinders with wheels larger than 2 inches in diameter, disc and belt sanders, reciprocating saws, saber saws, and other similar tools. These tools also may be equipped with a lock-on control provided that turnoff can be accomplished by a single motion of the same finger or fingers that turn it on.&lt;/P&gt;
+&lt;P&gt;The following hand-held powered tools may be equipped with only a positive âon-offâ control switch: platen sanders, disc sanders with discs 2 inches or less in diameter; grinders with wheels 2 inches or less in diameter; routers, planers, laminate trimmers, nibblers, shears, scroll saws and jigsaws with blade shanks.&lt;/P&gt;
+&lt;P&gt;Other hand-held powered tools such as circular saws having a blade diameter greater than 2 inches, chain saws and percussion tools without positive accessory holding means must be equipped with a constant pressure switch that will shut off the power when the pressure is released.&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;&lt;EM&gt;Electric tools&lt;/EM&gt;&lt;/STRONG&gt; &lt;BR&gt;Employees using electric tools must be aware of several dangers; the most serious is the possibility of electrocution.&lt;/P&gt;
+&lt;P&gt;Among the chief hazards of electric-powered tools are burns and slight shocks which can lead to injuries or even heart failure. Under certain conditions, even a small amount of current can result in fibrillation of the heart and eventual death. A shock also can cause the user to fall off a ladder or other elevated work surface.&lt;/P&gt;
+&lt;P&gt;To protect the user from shock, tools must either have a three-wire cord with ground and be grounded, be double-insulated, or be powered by a low-voltage isolation transformer. Three-wire cords contain two current-carrying conductors and a grounding conductor. One end of the grounding conductor connects to the toolâs metal housing. The other end is grounded through a prong on the plug. Any time that an adapter is used to accommodate a two-hole receptacle, the adapter wire must be attached to a known ground. The third prong should never be removed from the plug.&lt;/P&gt;
+&lt;P&gt;Double insulation is more convenient. The user and the tools are protected in two ways: by normal insulation on the wires inside and by a housing that cannot conduct electricity to the operator in the event of a malfunction.&lt;/P&gt;
+&lt;P&gt;These general practices should be followed when using electric tools: &lt;/P&gt;
+&lt;UL type=disc&gt;
+&lt;LI&gt;Electric tools should be operated within their design limitations. 
+&lt;LI&gt;Gloves and safety footwear are recommended during use of electric tools. 
+&lt;LI&gt;When not in use, tools should be stored in a dry place. 
+&lt;LI&gt;Electric tools should not be used in damp or wet locations. 
+&lt;LI&gt;Work areas should be well lit. &lt;/LI&gt;&lt;/UL&gt;
+&lt;P&gt;&lt;STRONG&gt;&lt;EM&gt;Powered abrasive wheel tools&lt;/EM&gt;&lt;/STRONG&gt; &lt;BR&gt;Powered abrasive grinding, cutting, polishing and wire buffing wheels create special safety problems because they may throw off flying fragments.&lt;/P&gt;
+&lt;P&gt;Before an abrasive wheel is mounted, it should be inspected closely and sound- or ring-tested to be sure that it is free from cracks or defects. To test, wheels should be tapped gently with a light non-metallic instrument. If they sound cracked or dead, they could fly apart in operation and so must not be used. A sound and undamaged wheel will give a clear metallic tone or âring.â&lt;/P&gt;
+&lt;P&gt;To prevent the wheel from cracking, the user should be sure it fits freely on the spindle. The spindle nut must be tightened enough to hold the wheel in place, without distorting the flange. Follow the manufacturerâs recommendations. Care must be taken to assure that the spindle wheel will not exceed the abrasive wheel specifications.&lt;/P&gt;
+&lt;P&gt;Due to the possibility of a wheel disintegrating (exploding) during start-up, the employee should never stand directly in front of the wheel as it accelerates to full operating speed.&lt;/P&gt;
+&lt;P&gt;Portable grinding tools need to be equipped with safety guards to protect workers not only from the moving wheel surface, but also from flying fragments in case of breakage.&lt;/P&gt;
+&lt;P&gt;In addition, when using a powered grinder: &lt;/P&gt;
+&lt;UL type=disc&gt;
+&lt;LI&gt;Always use eye protection. 
+&lt;LI&gt;Turn off the power when not in use. 
+&lt;LI&gt;Never clamp a hand-held grinder in a vise. &lt;/LI&gt;&lt;/UL&gt;
+&lt;P&gt;&lt;STRONG&gt;&lt;EM&gt;Pneumatic tools&lt;/EM&gt;&lt;/STRONG&gt;&lt;BR&gt;Pneumatic tools are powered by compressed air and include chippers, drills, hammers and sanders.&lt;/P&gt;
+&lt;P&gt;There are several dangers encountered in the use of pneumatic tools. The main one is the danger of getting hit by one of the toolâs attachments or by some kind of fastener the worker is using with the tool.&lt;/P&gt;
+&lt;P&gt;Eye protection is required and face protection is recommended for employees working with pneumatic tools.&lt;/P&gt;
+&lt;P&gt;Noise is another hazard. Working with noisy tools such as jackhammers requires proper, effective use of hearing protection.&lt;/P&gt;
+&lt;P&gt;When using pneumatic tools, employees must check to see that they are fastened securely to the hose to prevent them from becoming disconnected. A short wire or positive locking device attaching the air hose to the tool will serve as an added safeguard.&lt;/P&gt;
+&lt;P&gt;A safety clip or retainer must be installed to prevent attachments, such as chisels on a chipping hammer, from being unintentionally shot from the barrel.&lt;/P&gt;
+&lt;P&gt;Screens must be set up to protect nearby workers from being struck by flying fragments around chippers, riveting guns, staplers, or air drills.&lt;/P&gt;
+&lt;P&gt;Compressed air guns should never be pointed toward anyone. Users should never âdead-endâ it against themselves or anyone else.&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;&lt;EM&gt;Powder-actuated tools&lt;/EM&gt;&lt;/STRONG&gt; &lt;BR&gt;Powder-actuated tools operate like a loaded gun and should be treated with the same respect and precautions. In fact, they are so dangerous that they must be operated only by specially trained employees.&lt;/P&gt;
+&lt;P&gt;Safety precautions to remember include the following: &lt;/P&gt;
+&lt;UL type=disc&gt;
+&lt;LI&gt;These tools should not be used in an explosive or flammable atmosphere. 
+&lt;LI&gt;Before using the tool, the worker should inspect it to determine that it is clean, that all moving parts operate freely, and that the barrel is free from obstructions. 
+&lt;LI&gt;The tool should never be pointed at anybody. 
+&lt;LI&gt;The tool should not be loaded unless it is to be used immediately. A loaded tool should not be left unattended, especially where it would be available to unauthorized persons. 
+&lt;LI&gt;Hands should be kept clear of the barrel end. To prevent the tool from firing accidentally, two separate motions are required for firing: one to bring the tool into position, and another to pull the trigger. The tools must not be able to operate until they are pressed against the work surface with a force of at least 5 pounds greater than the total weight of the tool. 
+&lt;LI&gt;If a powder-actuated tool misfires, the employee should wait at least 30 seconds, then try firing it again. If it still will not fire, the user should wait another 30 seconds so that the faulty cartridge is less likely to explode, than carefully remove the load. The bad cartridge should be put in water. &lt;/LI&gt;&lt;/UL&gt;
+&lt;P&gt;Suitable eye and face protection are essential when using a powder-actuated tool.&lt;/P&gt;
+&lt;P&gt;The muzzle end of the tool must have a protective shield or guard centered perpendicularly on the barrel to confine any flying fragments or particles that might otherwise create a hazard when the tool is fired. The tool must be designed so that it will not fire unless it has this kind of safety device.&lt;/P&gt;
+&lt;P&gt;All powder-actuated tools must be designed for varying powder charges so that the user can select a powder level necessary to do the work without excessive force.&lt;/P&gt;
+&lt;P&gt;If the tool develops a defect during use it should be tagged and taken out of service immediately until it is properly repaired.&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;&lt;EM&gt;Fasteners&lt;/EM&gt;&lt;/STRONG&gt;&lt;BR&gt;When using powder-actuated tools to apply fasteners, there are some precautions to consider. Fasteners must not be fired into material that would let them pass through to the other side. The fastener must not be driven into materials like brick or concrete any closer than 3 inches to an edge or corner. In steel, the fastener must not come any closer than one-half inch from a corner or edge. Fasteners must not be driven into very hard or brittle materials which might chip or splatter, or make the fastener ricochet.&lt;/P&gt;
+&lt;P&gt;An alignment guide must be used when shooting a fastener into an existing hole. A fastener must not be driven into a spalled area caused by an unsatisfactory fastening.&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;&lt;EM&gt;Hydraulic power tools&lt;/EM&gt;&lt;/STRONG&gt;&lt;BR&gt;The fluid used in hydraulic power tools must be an approved fire-resistant fluid and must retain its operating characteristics at the most extreme temperatures to which it will be exposed.&lt;/P&gt;
+&lt;P&gt;The manufacturerâs recommended safe operating pressure for hoses, valves, pipes, filters and other fittings must not be exceeded.&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;&lt;EM&gt;Jacks&lt;/EM&gt;&lt;/STRONG&gt; &lt;BR&gt;All jacks â lever and ratchet jacks, screw jacks and hydraulic jacks â must have a device that stops them from jacking up too high. Also, the manufacturerâs load limit must be permanently marked in a prominent place on the jack and should not be exceeded.&lt;/P&gt;
+&lt;P&gt;A jack should never be used to support a lifted load. Once the load has been lifted, it must immediately be blocked up.&lt;/P&gt;
+&lt;P&gt;Use wooden blocking under the base if necessary to make the jack level and secure. If the lift surface is metal, place a 1-inch-thick hardwood block or equivalent between it and the metal jack head to reduce the danger of slippage.&lt;/P&gt;
+&lt;P&gt;To set up a jack, make certain of the following: &lt;/P&gt;
+&lt;UL type=disc&gt;
+&lt;LI&gt;the base rests on a firm level surface, 
+&lt;LI&gt;the jack is correctly centered, 
+&lt;LI&gt;the jack head bears against a level surface, and 
+&lt;LI&gt;the lift force is applied evenly. &lt;/LI&gt;&lt;/UL&gt;
+&lt;P&gt;Proper maintenance of jacks is essential for safety. All jacks must be inspected before each use and lubricated regularly. If a jack is subjected to an abnormal load or shock, it should be thoroughly examined to make sure it has not been damaged.&lt;/P&gt;
+&lt;P&gt;Hydraulic jacks exposed to freezing temperatures must be filled with an adequate antifreeze liquid.&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;&lt;EM&gt;General safety precautions&lt;/EM&gt;&lt;/STRONG&gt; &lt;BR&gt;Employees who use hand and power tools and who are exposed to the hazards of falling, flying, abrasive and splashing objects, or exposed to harmful dusts, fumes, mists, vapors or gases must be provided with the particular personal equipment necessary to protect them from the hazard.&lt;/P&gt;
+&lt;P&gt;All hazards involved in the use of power tools can be prevented by following five basic safety rules: &lt;/P&gt;
+&lt;UL type=disc&gt;
+&lt;LI&gt;Keep all tools in good condition with regular maintenance. 
+&lt;LI&gt;Use the right tool for the job. 
+&lt;LI&gt;Examine each tool for damage before use. 
+&lt;LI&gt;Operate according to the manufacturerâs instructions. 
+&lt;LI&gt;Provide and use the proper protective equipment. &lt;/LI&gt;&lt;/UL&gt;
+&lt;UL type=disc&gt;
+&lt;LI&gt;&lt;/LI&gt;&lt;/UL&gt;
+&lt;P&gt;Employees and employers have a responsibility to work together to establish safe working procedures. If a hazardous situation is encountered, it should be brought to the attention of the proper individual immediately. &lt;/P&gt;
+&lt;P&gt;To learn more about workplace safety, visit the Occupational Safety and Health Administration Web site at &lt;A href="http://www.osha.gov/"&gt;www.osha.gov&lt;/A&gt;. &lt;/P&gt;&lt;img src="http://feeds.feedburner.com/~r/noria/reliableplant/tags/hand_tools/~4/LGgEFM7LhEE" height="1" width="1" alt=""/&gt;</description>
+            <a10:updated>2008-03-10T00:00:00-05:00</a10:updated>
+            <a10:content type="text/html" src="http://reliableplant.com/Read/10906/hand-tool-power-tool" />
+        <feedburner:origLink>http://reliableplant.com/Read/10906/hand-tool-power-tool</feedburner:origLink></item>
+        <item>
+            <guid isPermaLink="false">tag:noria.com,2010-06-10:publishing:magazines:rp:57dfdbdf-ebb6-4754-a980-9cf800da0eb4</guid>
+            <link>http://feedproxy.google.com/~r/noria/reliableplant/tags/hand_tools/~3/WeWWQoHrZd4/hand-tools-safety</link>
+            <a10:author>
+                <a10:name>Noria Corporation</a10:name>
+            </a10:author>
+            <category>Web Exclusives</category>
+            <category>Articles</category>
+            <title>Hand tools deserve respect for safety sake</title>
+            <description>&lt;P&gt;Hand tools are extensions of our hands. When we misuse our hands, we experience pain. When we misuse hand tools, the possibility of injury to ourselves or people working around us increases considerably. Furthermore, using a tool incorrectly can damage the tool or even cause the tool to fail. Here are some guidelines for hand tool safety.&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;&lt;EM&gt;Use the Right Tool for the Job &lt;/EM&gt;&lt;/STRONG&gt;&lt;/P&gt;
+&lt;P&gt;Using the correct tool for the job is the first step in safe hand tool use. Tools are designed for specific needs. Thatâs why youâll find screwdrivers with various lengths and tip styles and pliers with different head shapes. Using any tool inappropriately is a step in the wrong direction. To avoid personal injury and tool damage, select the proper tool to do the job well and safely.&lt;/P&gt;
+&lt;P&gt;Quality professional hand tools will last many years if they are taken care of and treated with respect. Manufacturers design tools for specific applications. If you use your screwdriver as a chisel or a pry bar, you canât expect it to be in good shape when you actually need to drive a screw. Use tools only for their intended purpose.&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;&lt;EM&gt;Use Insulated Tools When Needed&lt;/EM&gt;&lt;/STRONG&gt;&lt;BR&gt;Many jobs require the use of insulated tools. Hand tools are often used in combination with lockout tag systems to ensure that the circuits are not live. Most maintenance technicians claim they never work a job âhot.â But, what happens when a computer is on the circuit and it canât be shut down, or when medical equipment is connected to the circuit? You never know when a situation will arise where insulated tools are required. All professionals need to have some insulated tools in their collection.&lt;/P&gt;
+&lt;P&gt;Insulated hand tools must be clearly marked with the official, international 1,000-volt rating symbol. They also must meet IEC 60900 and ASTM F1505 standards. Every insulated tool is tested at 10,000 volts to receive a 1,000-volt rating. These tools are designed to reduce the chance of injury if the tool should make contact with an energized source. Make note, tools with plastic-dipped or slip-on plastic handles are not insulated. Those features are for comfort only. Likewise, wrapping a tool with electric tape does not provide insulation.&lt;/P&gt;
+&lt;P&gt;Inspect insulated tools frequently. Watch for any wear or cracking of the insulation. Keep them clean, dry, and free of surface contaminants, which can compromise their insulating properties. If the dielectric insulation has been breached by cutting, wear, or a burn, the tool should be taken out of service to ensure safety.&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;&lt;EM&gt;Follow General Safety and Maintenance Practices&lt;/EM&gt;&lt;/STRONG&gt;&lt;BR&gt;Safe tool use contributes to a safer, more efficient work environment. Misusing tools is not only dangerous, it shows a lack of understanding of tool safety and a lack of respect for those around you. Also, if improper tool use causes an accident, downtime will impact the entire job.&lt;/P&gt;
+&lt;P&gt;Always wear approved eye protection when using hand tools. Metal will fly when it is cut. Safety glasses protect your eyes and prevent serious injury. Other workers in the vicinity should wear eye protection, as well.&lt;/P&gt;
+&lt;P&gt;Keep cutting tools sharp, lubricated, and in good repair. This applies to knives, bolt cutters, cable cutters, many types of pliers, and all other cutting tools.&lt;/P&gt;
+&lt;P&gt;When cutting wire, bolts, and similar materials, cuts should be made at a 90-degree angle to the work to avoid chipping the edges of the knives. Pliers should not be wiggled or rocked as you attempt to cut material, as this puts tremendous side pressure on the cutting surfaces and can result in the failure of the cutting knives.&lt;/P&gt;
+&lt;P&gt;Most accidents happen because one or more safe operating procedures were not followed. History usually tells us what we did right or wrong and how that affected our job performance. The old saying âDo it right the first timeâ applies to using hand tools safely. This includes staying up-to-date on safety techniques and following safe practices in the work place. Professionals shouldnât need second chances, because professionals do the job right the first time.&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;&lt;EM&gt;Use Well-Designed, High-Quality Tools&lt;/EM&gt;&lt;/STRONG&gt;&lt;BR&gt;Finally, investing in high-quality tools makes the professionalâs job safer and easier.&lt;/P&gt;
+&lt;UL&gt;
+&lt;LI&gt;
+&lt;P&gt;If extra leverage is needed, use high-leverage pliers, which give more cutting and gripping power than standard pliers. This helps, in particular, when making repetitive cuts or twisting numerous wire pairs. &lt;/P&gt;
+&lt;LI&gt;
+&lt;P&gt;Knurled jaws provide sure-gripping action when pulling or twisting wires. &lt;/P&gt;
+&lt;LI&gt;
+&lt;P&gt;Some side-cutting and diagonal-cutting pliers are designed for heavy-duty cutting. When cutting ACSR, screws, nails and hardened wire, only use pliers that are recommended for that use. &lt;/P&gt;
+&lt;LI&gt;
+&lt;P&gt;Pliers with hot riveting at the joint ensure smooth movement across the full action range of the pliers, which reduces handle wobble, resulting in a positive cut. The knives align perfectly every time. &lt;/P&gt;
+&lt;LI&gt;
+&lt;P&gt;Induction hardening on the cutting knives adds to long life, so the pliers cut cleanly day after day. &lt;/P&gt;
+&lt;LI&gt;
+&lt;P&gt;Sharp cutting knives and tempered handles also contribute to cutting ease. &lt;/P&gt;
+&lt;LI&gt;
+&lt;P&gt;Some pliers are designed to perform special functions. For example, some high-leverage pliers have features that allow crimping connectors and pulling fish tapes. &lt;/P&gt;
+&lt;LI&gt;
+&lt;P&gt;Tool handles with dual-molded material allow for a softer, more comfortable grip on the outer surface and a harder, more durable grip on the inner surface and handle ends. &lt;/P&gt;
+&lt;LI&gt;
+&lt;P&gt;Well-designed tools often include a contoured thumb area for a firmer grip or color-coded handles for easy tool identification. &lt;/P&gt;
+&lt;LI&gt;
+&lt;P&gt;Insulated tools reduce the chance of injury where the tool may make contact with an energized source. &lt;/P&gt;&lt;/LI&gt;&lt;/UL&gt;
+&lt;P&gt;Well-designed tools are a pleasure to use. They save time, give professional results and help you do your job more safely. &lt;/P&gt;
+&lt;P&gt;This article has covered the importance of using hand tools safely and treating them with respect. Always remember, safety is essential to good job performance. Pay attention to whatâs going on around you, be flexible, and adapt to changing conditions. Think before you react, and keep your head in the game. &lt;/P&gt;
+&lt;P&gt;Think about tool safety each and every time you begin a job, and youâll perform your job safely and effectively. Those are your hands that are being extended by the pliers or the screwdriver. Treat your tools as carefully as you treat your hands. &lt;/P&gt;
+&lt;P&gt;&lt;EM&gt;This article was provided by Klein Tools. For more information, visit &lt;A href="http://www.kleintools.com/"&gt;www.kleintools.com&lt;/A&gt;. &lt;/EM&gt;&lt;/P&gt;&lt;img src="http://feeds.feedburner.com/~r/noria/reliableplant/tags/hand_tools/~4/WeWWQoHrZd4" height="1" width="1" alt=""/&gt;</description>
+            <a10:updated>2007-03-28T00:00:00-05:00</a10:updated>
+            <a10:content type="text/html" src="http://reliableplant.com/Read/5510/hand-tools-safety" />
+        <feedburner:origLink>http://reliableplant.com/Read/5510/hand-tools-safety</feedburner:origLink></item>
+        <item>
+            <guid isPermaLink="false">tag:noria.com,2010-06-10:publishing:magazines:rp:da79b3e4-4cda-4d92-a551-9cf800da09be</guid>
+            <link>http://feedproxy.google.com/~r/noria/reliableplant/tags/hand_tools/~3/nwAnmdBUNXA/hand-tools-helping</link>
+            <a10:author>
+                <a10:name>TrainingOnline.com</a10:name>
+            </a10:author>
+            <category>Web Exclusives</category>
+            <category>Articles</category>
+            <title>Give your hand tools a helping hand </title>
+            <description>&lt;P class=MsoNormal style="MARGIN: 0in 0in 0pt"&gt;
+&lt;P class=MsoNormal style="MARGIN: 0in 0in 0pt"&gt;&lt;SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial"&gt;&lt;?xml:namespace prefix = o ns = "urn:schemas-microsoft-com:office:office" /&gt;&lt;o:p&gt;&lt;/o:p&gt;&lt;/SPAN&gt;&lt;/P&gt;&lt;SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial"&gt;&lt;FONT class=bodytextspaced&gt;During a routine inspection at a local factory, an Occupational Safety and Health Administration compliance officer noticed a worker using a 4-pound sledgehammer with a crack that extended halfway down the handle. Immediately, he cited the company for failing to make sure that the tools and equipment used by employees were safe (Sec. 1910.242(a)). Much to his surprise, the company appealed the citation, claiming that the sledgehammer was not dangerous. The Review Commission was also surprised. &lt;o:p&gt;&lt;/o:p&gt;&lt;/FONT&gt;&lt;/SPAN&gt;
+&lt;P&gt;&lt;/P&gt;
+&lt;P class=MsoNormal style="MARGIN: 0in 0in 0pt"&gt;&lt;SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial"&gt;&lt;o:p&gt;&lt;FONT class=bodytextspaced&gt;&amp;nbsp;&lt;/FONT&gt;&lt;/o:p&gt;&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class=MsoNormal style="MARGIN: 0in 0in 0pt"&gt;&lt;SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial"&gt;&lt;FONT class=bodytextspaced&gt;After looking at a photograph of the cracked handle, the commission wryly observed, âIn our opinion, it would not have taken much force for the handle to break and cause the head of the hammer to fly off, creating a hazardous condition.â &lt;o:p&gt;&lt;/o:p&gt;&lt;/FONT&gt;&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class=MsoNormal style="MARGIN: 0in 0in 0pt"&gt;&lt;SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial"&gt;&lt;o:p&gt;&amp;nbsp;&lt;/o:p&gt;&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class=MsoNormal style="MARGIN: 0in 0in 0pt"&gt;&lt;SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial"&gt;&lt;FONT class=bodytextspaced&gt;What makes people ignore the dangers of hand tools? Is it because the tools are not powered, and are, therefore, considered safe in any condition? Is it that we just take the safety of hand tools for granted? We shouldnât. The Consumer Products Safety Commission says that more than 100,000 injuries requiring hospital treatment due to misuse of common hand tools occur each year. &lt;o:p&gt;&lt;/o:p&gt;&lt;/FONT&gt;&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class=MsoNormal style="MARGIN: 0in 0in 0pt"&gt;&lt;SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial"&gt;&lt;o:p&gt;&lt;FONT class=bodytextspaced&gt;&amp;nbsp;&lt;/FONT&gt;&lt;/o:p&gt;&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class=MsoNormal style="MARGIN: 0in 0in 0pt"&gt;&lt;SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial"&gt;&lt;FONT class=bodytextspaced&gt;Stop and think: When was the last time you checked the condition of the hand tools at your workplace? Do your employees regularly turn in defective hand tools for replacement? Do they know what defects to look for? &lt;o:p&gt;&lt;/o:p&gt;&lt;/FONT&gt;&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class=MsoNormal style="MARGIN: 0in 0in 0pt"&gt;&lt;SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial"&gt;&lt;o:p&gt;&amp;nbsp;&lt;/o:p&gt;&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class=MsoNormal style="MARGIN: 0in 0in 0pt"&gt;&lt;SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial"&gt;&lt;FONT class=subtitle2&gt;Rule of thumb&lt;o:p&gt;&lt;/o:p&gt;&lt;/FONT&gt;&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class=MsoNormal style="MARGIN: 0in 0in 0pt"&gt;&lt;SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial"&gt;&lt;FONT class=bodytextspaced&gt;The Hand Tools Institute, an association of hand tool manufacturers and suppliers, says that most hand tool accidents are preventable, if workers just follow basic safety rules. The five main points to remember are: &lt;o:p&gt;&lt;/o:p&gt;&lt;/FONT&gt;&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class=MsoNormal style="MARGIN: 0in 0in 0pt"&gt;&lt;SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial"&gt;&lt;o:p&gt;&amp;nbsp;&lt;/o:p&gt;&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class=MsoNormal style="MARGIN: 0in 0in 0pt"&gt;&lt;SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial"&gt;&lt;FONT class=bodytextspaced&gt;1) Always use appropriate eye protection to keep flying pieces and parts from injuring your eyes. The Hand Tools Institute suggests keeping your safety goggles in your toolbox for easy access. In addition, consider wearing work gloves to gain a better grip of the tools you work with. &lt;o:p&gt;&lt;/o:p&gt;&lt;/FONT&gt;&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class=MsoNormal style="MARGIN: 0in 0in 0pt"&gt;&lt;SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial"&gt;&lt;o:p&gt;&amp;nbsp;&lt;/o:p&gt;&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class=MsoNormal style="MARGIN: 0in 0in 0pt"&gt;&lt;SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial"&gt;&lt;FONT class=bodytextspaced&gt;2) Use the right tools for the job. The Institute warns that each tool is designed to perform a specific function. It is dangerous to substitute or use an inappropriate tool. &lt;o:p&gt;&lt;/o:p&gt;&lt;/FONT&gt;&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class=MsoNormal style="MARGIN: 0in 0in 0pt"&gt;&lt;SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial"&gt;&lt;o:p&gt;&amp;nbsp;&lt;/o:p&gt;&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class=MsoNormal style="MARGIN: 0in 0in 0pt"&gt;&lt;SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial"&gt;&lt;FONT class=bodytextspaced&gt;3) Use tools properly, including proper positioning to avoid musculoskeletal disorders (MSD). &lt;o:p&gt;&lt;/o:p&gt;&lt;/FONT&gt;&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class=MsoNormal style="MARGIN: 0in 0in 0pt"&gt;&lt;SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial"&gt;&lt;o:p&gt;&amp;nbsp;&lt;/o:p&gt;&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class=MsoNormal style="MARGIN: 0in 0in 0pt"&gt;&lt;SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial"&gt;&lt;FONT class=bodytextspaced&gt;4) Service tools regularly. Follow the manufacturer's recommendations for performing proper maintenance on your tools.&lt;/FONT&gt; &lt;o:p&gt;&lt;/o:p&gt;&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class=MsoNormal style="MARGIN: 0in 0in 0pt"&gt;&lt;SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial"&gt;&lt;o:p&gt;&amp;nbsp;&lt;/o:p&gt;&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class=MsoNormal style="MARGIN: 0in 0in 0pt"&gt;&lt;SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial"&gt;&lt;FONT class=bodytextspaced&gt;5) Don't use damaged tools. Discard them immediately, fix them or replace them. &lt;o:p&gt;&lt;/o:p&gt;&lt;/FONT&gt;&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class=MsoNormal style="MARGIN: 0in 0in 0pt"&gt;&lt;SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial"&gt;&lt;o:p&gt;&amp;nbsp;&lt;/o:p&gt;&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class=MsoNormal style="MARGIN: 0in 0in 0pt"&gt;&lt;SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial"&gt;&lt;FONT class=subtitle2&gt;Handy tips&lt;/FONT&gt;&lt;B style="mso-bidi-font-weight: normal"&gt; &lt;o:p&gt;&lt;/o:p&gt;&lt;/SPAN&gt;&lt;/B&gt;&lt;/P&gt;
+&lt;P class=MsoNormal style="MARGIN: 0in 0in 0pt"&gt;&lt;SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial"&gt;&lt;FONT class=bodytextspaced&gt;Just how do these rules apply to your tools? Here are some examples: &lt;o:p&gt;&lt;/o:p&gt;&lt;/FONT&gt;&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class=MsoNormal style="MARGIN: 0in 0in 0pt"&gt;&lt;SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial"&gt;&lt;o:p&gt;&amp;nbsp;&lt;/o:p&gt;&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class=MsoNormal style="MARGIN: 0in 0in 0pt"&gt;&lt;SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial"&gt;&lt;FONT class=subtitle2&gt;Pliers:&lt;/FONT&gt;&lt;/SPAN&gt;&lt;SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial"&gt; &lt;FONT class=bodytextspaced&gt;Too many people use pliers as wrenches for turning nuts or bolts, which is not their proper function. Actually, they should only be used for cutting wire. Discard your pliers when they have chipped or dulled cutting edges. &lt;o:p&gt;&lt;/o:p&gt;&lt;/FONT&gt;&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class=MsoNormal style="MARGIN: 0in 0in 0pt"&gt;&lt;SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial"&gt;&lt;o:p&gt;&amp;nbsp;&lt;/o:p&gt;&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class=MsoNormal style="MARGIN: 0in 0in 0pt"&gt;&lt;SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial"&gt;&lt;FONT class=subtitle2&gt;Hammers:&lt;/FONT&gt;&lt;/SPAN&gt;&lt;SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial"&gt; &lt;FONT class=bodytextspaced&gt;A hammer blow should be struck squarely and parallel to the surface. Glancing blows can cause injury. Never use a hammer with a loose or damaged head or handle. Look for dents, chips, cracks or other signs of wear and tear. Use riveting hammers for sheet steel, carpenter or claw hammers for driving and pulling nails, and ball-peen hammers for metal work. &lt;o:p&gt;&lt;/o:p&gt;&lt;/FONT&gt;&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class=MsoNormal style="MARGIN: 0in 0in 0pt"&gt;&lt;SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial"&gt;&lt;o:p&gt;&amp;nbsp;&lt;/o:p&gt;&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class=MsoNormal style="MARGIN: 0in 0in 0pt"&gt;&lt;SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial"&gt;&lt;FONT class=subtitle2&gt;Screwdrivers:&lt;/FONT&gt;&lt;/SPAN&gt;&lt;SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial"&gt; &lt;FONT class=bodytextspaced&gt;Never use a screwdriver as a punch, wedge, pinch bar, pry or chisel. Choose the proper size tip for the screw. The wrong size driver can cause a chewed-up screw head, damaged screwdriver and a bloody knuckle. &lt;o:p&gt;&lt;/o:p&gt;&lt;/FONT&gt;&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class=MsoNormal style="MARGIN: 0in 0in 0pt"&gt;&lt;SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial"&gt;&lt;o:p&gt;&amp;nbsp;&lt;/o:p&gt;&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class=MsoNormal style="MARGIN: 0in 0in 0pt"&gt;&lt;SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial"&gt;&lt;FONT class=subtitle2&gt;Wrenches:&lt;/FONT&gt;&lt;/SPAN&gt;&lt;SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial"&gt; &lt;FONT class=bodytextspaced&gt;Don't try to extend the handle of a wrench with a cheater bar to add leverage. Instead, use a wrench with the proper sized handle. Make sure the wrench fits the nut, or it could slip or break. If possible, pull the wrench instead of pushing it. The safest wrench is a box or socket type. &lt;o:p&gt;&lt;/o:p&gt;&lt;/FONT&gt;&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class=MsoNormal style="MARGIN: 0in 0in 0pt"&gt;&lt;SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial"&gt;&lt;o:p&gt;&amp;nbsp;&lt;/o:p&gt;&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class=MsoNormal style="MARGIN: 0in 0in 0pt"&gt;&lt;SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial"&gt;&lt;FONT class=subtitle2&gt;Cutting-edge tools:&lt;/FONT&gt;&lt;/SPAN&gt;&lt;SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial"&gt; &lt;FONT class=bodytextspaced&gt;Dull cutting-edge tools are dangerous, as they require excessive pressure to make them cut. Keep tools sharp. Always cut away from the body. &lt;o:p&gt;&lt;/o:p&gt;&lt;/FONT&gt;&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class=MsoNormal style="MARGIN: 0in 0in 0pt"&gt;&lt;SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial"&gt;&lt;o:p&gt;&amp;nbsp;&lt;/o:p&gt;&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class=MsoNormal style="MARGIN: 0in 0in 0pt"&gt;&lt;SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial"&gt;&lt;FONT class=subtitle2&gt;Safe handling&lt;B style="mso-bidi-font-weight: normal"&gt;&lt;o:p&gt;&lt;/o:p&gt;&lt;/SPAN&gt;&lt;/B&gt;&lt;/FONT&gt;&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class=MsoNormal style="MARGIN: 0in 0in 0pt"&gt;&lt;SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial"&gt;&lt;FONT class=bodytextspaced&gt;Make sure your employees are cautious when handling all tools. Workers shouldnât leave tools lying around where they can be a tripping hazard or where they can fall and injure workers below. Warn all employees not to carry chisels, screwdrivers and other pointy tools in their pockets. They should use a carrying belt with the toolsâ pointed end down. Tools should be handed from one worker to another, never thrown. Pass pointed tools with handles first. &lt;o:p&gt;&lt;/o:p&gt;&lt;/FONT&gt;&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class=MsoNormal style="MARGIN: 0in 0in 0pt"&gt;&lt;SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial"&gt;&lt;o:p&gt;&amp;nbsp;&lt;/o:p&gt;&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class=MsoNormal style="MARGIN: 0in 0in 0pt"&gt;&lt;SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial"&gt;&lt;FONT class=subtitle2&gt;Avoid musculoskeletal disorders &lt;o:p&gt;&lt;/o:p&gt;&lt;/FONT&gt;&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class=MsoNormal style="MARGIN: 0in 0in 0pt"&gt;&lt;SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial"&gt;&lt;FONT class=bodytextspaced&gt;Using hand tools, such as screwdrivers, over and over again can cause MSDs, such as Carpal Tunnel Syndrome. Your employees can minimize such injuries by keeping their wrists straight and elbows close to the body. Comfort grips or properly fitted gloves can help reduce the stress on hands and wrists. Employees should also take frequent breaks to rest their muscles. Another excellent way of preventing MSDs is to consider tool design when making purchases. OSHA recommends the following: &lt;o:p&gt;&lt;/o:p&gt;&lt;/FONT&gt;&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class=MsoNormal style="MARGIN: 0in 0in 0pt"&gt;&lt;SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial"&gt;&lt;o:p&gt;&amp;nbsp;&lt;/o:p&gt;&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class=MsoNormal style="MARGIN: 0in 0in 0pt 0.5in; TEXT-INDENT: -0.25in; mso-list: l0 level1 lfo1; tab-stops: list .5in"&gt;&lt;SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial; mso-fareast-font-family: Arial"&gt;&lt;SPAN style="mso-list: Ignore"&gt;-&lt;SPAN style="FONT: 7pt 'Times New Roman'"&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/SPAN&gt;&lt;/SPAN&gt;&lt;/SPAN&gt;&lt;SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial"&gt;&lt;FONT class=bodytextspaced&gt;Look for lightweight tools with handles that allow a relaxed grip and that keep wrists straight.&lt;o:p&gt;&lt;/o:p&gt;&lt;/FONT&gt;&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class=MsoNormal style="MARGIN: 0in 0in 0pt 0.5in; TEXT-INDENT: -0.25in; mso-list: l0 level1 lfo1; tab-stops: list .5in"&gt;&lt;SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial; mso-fareast-font-family: Arial"&gt;&lt;SPAN style="mso-list: Ignore"&gt;-&lt;SPAN style="FONT: 7pt 'Times New Roman'"&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/SPAN&gt;&lt;/SPAN&gt;&lt;/SPAN&gt;&lt;SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial"&gt;&lt;FONT class=bodytextspaced&gt;Tools should be designed for use with either hand and come in various sizes for different-sized hands.&lt;/FONT&gt; &lt;o:p&gt;&lt;/o:p&gt;&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class=MsoNormal style="MARGIN: 0in 0in 0pt 0.5in; TEXT-INDENT: -0.25in; mso-list: l0 level1 lfo1; tab-stops: list .5in"&gt;&lt;SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial; mso-fareast-font-family: Arial"&gt;&lt;SPAN style="mso-list: Ignore"&gt;-&lt;SPAN style="FONT: 7pt 'Times New Roman'"&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/SPAN&gt;&lt;/SPAN&gt;&lt;/SPAN&gt;&lt;SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial"&gt;&lt;FONT class=bodytextspaced&gt;Tool handles should be shaped so that they contact the largest possible surface of the hand and fingers. Avoid handles with sharp edges and corners. &lt;o:p&gt;&lt;/o:p&gt;&lt;/FONT&gt;&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class=MsoNormal style="MARGIN: 0in 0in 0pt 0.5in; TEXT-INDENT: -0.25in; mso-list: l0 level1 lfo1; tab-stops: list .5in"&gt;&lt;SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial; mso-fareast-font-family: Arial"&gt;&lt;SPAN style="mso-list: Ignore"&gt;-&lt;SPAN style="FONT: 7pt 'Times New Roman'"&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/SPAN&gt;&lt;/SPAN&gt;&lt;/SPAN&gt;&lt;SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial"&gt;&lt;FONT class=bodytextspaced&gt;Use power tools whenever possible to reduce repetitive movements. &lt;o:p&gt;&lt;/o:p&gt;&lt;/FONT&gt;&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class=MsoNormal style="MARGIN: 0in 0in 0pt 0.5in; TEXT-INDENT: -0.25in; mso-list: l0 level1 lfo1; tab-stops: list .5in"&gt;&lt;SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial; mso-fareast-font-family: Arial"&gt;&lt;SPAN style="mso-list: Ignore"&gt;-&lt;SPAN style="FONT: 7pt 'Times New Roman'"&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;FONT class=bodytextspaced&gt;&lt;/FONT&gt;&lt;/SPAN&gt;&lt;/SPAN&gt;&lt;/SPAN&gt;&lt;SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial"&gt;&lt;FONT class=bodytextspaced&gt;The weight of the tool should be counterbalanced to make it easier to use and reduce vibration. &lt;o:p&gt;&lt;/o:p&gt;&lt;/FONT&gt;&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class=MsoNormal style="MARGIN: 0in 0in 0pt"&gt;&lt;SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial"&gt;&lt;o:p&gt;&amp;nbsp;&lt;/o:p&gt;&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class=MsoNormal style="MARGIN: 0in 0in 0pt"&gt;&lt;SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial"&gt;&lt;FONT class=subtitle2&gt;Point in the right direction&lt;/FONT&gt;&lt;B style="mso-bidi-font-weight: normal"&gt; &lt;o:p&gt;&lt;/o:p&gt;&lt;/SPAN&gt;&lt;/B&gt;&lt;/P&gt;
+&lt;P class=MsoNormal style="MARGIN: 0in 0in 0pt"&gt;&lt;SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial"&gt;&lt;FONT class=bodytextspaced&gt;Of course, the best way to prevent hand tool injuries among employees is to provide training. After reviewing the safety practices discussed previously, try some of these training ideas: &lt;o:p&gt;&lt;/o:p&gt;&lt;/FONT&gt;&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class=MsoNormal style="MARGIN: 0in 0in 0pt"&gt;&lt;SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial"&gt;&lt;o:p&gt;&amp;nbsp;&lt;/o:p&gt;&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class=MsoNormal style="MARGIN: 0in 0in 0pt"&gt;&lt;SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial"&gt;&lt;FONT class=bodytextspaced&gt;Give the workers a written quiz that requires them to identify the appropriate tools for various job tasks at your worksite. &lt;o:p&gt;&lt;/o:p&gt;&lt;/FONT&gt;&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class=MsoNormal style="MARGIN: 0in 0in 0pt"&gt;&lt;SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial"&gt;&lt;o:p&gt;&amp;nbsp;&lt;/o:p&gt;&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class=MsoNormal style="MARGIN: 0in 0in 0pt"&gt;&lt;SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial"&gt;&lt;FONT class=bodytextspaced&gt;Bring in damaged tools and have your employees find the defects.&lt;/FONT&gt; &lt;o:p&gt;&lt;/o:p&gt;&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class=MsoNormal style="MARGIN: 0in 0in 0pt"&gt;&lt;SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial"&gt;&lt;o:p&gt;&amp;nbsp;&lt;/o:p&gt;&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class=MsoNormal style="MARGIN: 0in 0in 0pt"&gt;&lt;SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial"&gt;&lt;FONT class=bodytextspaced&gt;Ask your employees about any problems with the design of their hand tools. &lt;o:p&gt;&lt;/o:p&gt;&lt;/FONT&gt;&lt;FONT class=subtitle face=""&gt;&lt;/SPAN&gt;&lt;/P&gt;&lt;/FONT&gt;
+&lt;P class=MsoNormal style="MARGIN: 0in 0in 0pt"&gt;&lt;SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial"&gt;&lt;o:p&gt;&amp;nbsp;&lt;/o:p&gt;&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class=MsoNormal style="MARGIN: 0in 0in 0pt"&gt;&lt;SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial"&gt;&lt;FONT class=bodytextspaced&gt;Conduct a contest for best-kept tools and give the winner a prize. &lt;o:p&gt;&lt;/o:p&gt;&lt;/FONT&gt;&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class=MsoNormal style="MARGIN: 0in 0in 0pt"&gt;&lt;SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial"&gt;&lt;o:p&gt;&amp;nbsp;&lt;/o:p&gt;&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class=MsoNormal style="MARGIN: 0in 0in 0pt"&gt;&lt;SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial"&gt;&lt;FONT class=bodytextspaced&gt;Encourage your employees to report problems with hand tools and to work safely. &lt;o:p&gt;&lt;/o:p&gt;&lt;/FONT&gt;&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class=MsoNormal style="MARGIN: 0in 0in 0pt"&gt;&lt;SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial"&gt;&lt;o:p&gt;&amp;nbsp;&lt;/o:p&gt;&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class=MsoNormal style="MARGIN: 0in 0in 0pt"&gt;&lt;SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial"&gt;&lt;FONT class=bodytextspaced&gt;Stop them before they use the wrong tool for a job.&lt;/FONT&gt; &lt;o:p&gt;&lt;/o:p&gt;&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class=MsoNormal style="MARGIN: 0in 0in 0pt"&gt;&lt;SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial"&gt;&lt;o:p&gt;&amp;nbsp;&lt;/o:p&gt;&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class=MsoNormal style="MARGIN: 0in 0in 0pt"&gt;&lt;SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial"&gt;&lt;FONT class=bodytextspaced&gt;Show them how to use the tools safely. &lt;o:p&gt;&lt;/o:p&gt;&lt;/FONT&gt;&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class=MsoNormal style="MARGIN: 0in 0in 0pt"&gt;&lt;SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial"&gt;&lt;o:p&gt;&amp;nbsp;&lt;/o:p&gt;&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class=MsoNormal style="MARGIN: 0in 0in 0pt"&gt;&lt;SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial"&gt;&lt;FONT class=bodytextspaced&gt;Finally, when they do everything right, give them âtwo thumbs up!â&lt;o:p&gt;&lt;/o:p&gt;&lt;/FONT&gt;&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class=MsoNormal style="MARGIN: 0in 0in 0pt"&gt;&lt;SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial"&gt;&lt;o:p&gt;&amp;nbsp;&lt;/o:p&gt;&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class=MsoNormal style="MARGIN: 0in 0in 0pt"&gt;&lt;SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial"&gt;&lt;FONT class=subtitle2&gt;About the author:&lt;o:p&gt;&lt;/o:p&gt;&lt;/FONT&gt;&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class=MsoNormal style="MARGIN: 0in 0in 0pt"&gt;&lt;SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial"&gt;&lt;FONT class=bodytextspaced&gt;This article provided by TrainingOnline.com, an e-learning division of Business and Legal Reports Inc. and a publisher of quality compliance, training and productivity tools for the workplace. For more information on the companyâs range of products and services, visit &lt;/FONT&gt;&lt;A title=http://www.trainingonline.com/ href="http://www.trainingonline.com/"&gt;&lt;FONT class=bodytextspaced&gt;www.TrainingOnline.com&lt;/FONT&gt;&lt;/A&gt;&lt;FONT class=bodytextspaced&gt;.&lt;o:p&gt;&lt;/o:p&gt;&lt;/FONT&gt;&lt;/SPAN&gt;&lt;/P&gt;&lt;img src="http://feeds.feedburner.com/~r/noria/reliableplant/tags/hand_tools/~4/nwAnmdBUNXA" height="1" width="1" alt=""/&gt;</description>
+            <a10:updated>2005-09-08T00:00:00-05:00</a10:updated>
+            <a10:content type="text/html" src="http://reliableplant.com/Read/234/hand-tools-helping" />
+        <feedburner:origLink>http://reliableplant.com/Read/234/hand-tools-helping</feedburner:origLink></item>
+        <item>
+            <guid isPermaLink="false">tag:noria.com,2010-06-10:publishing:magazines:rp:f828c960-1f9a-4c75-970f-9cf800da09b5</guid>
+            <link>http://feedproxy.google.com/~r/noria/reliableplant/tags/hand_tools/~3/MFFvPWvhUG8/hand-tool-safety</link>
+            <a10:author>
+                <a10:name>Noria Corporation</a10:name>
+            </a10:author>
+            <category>Web Exclusives</category>
+            <category>Articles</category>
+            <title>Hand tool safety quiz</title>
+            <description>&lt;P class=MsoNormal style="MARGIN: 0in 0in 0pt"&gt;
+&lt;P class=MsoNormal style="MARGIN: 0in 0in 0pt"&gt;&lt;SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial"&gt;&lt;?xml:namespace prefix = o ns = "urn:schemas-microsoft-com:office:office" /&gt;&lt;o:p&gt;&lt;/o:p&gt;&lt;/SPAN&gt;&lt;/P&gt;&lt;SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial"&gt;&lt;FONT class=bodytextspaced&gt;Confused as to how and what hand tool to use when tackling a work project? You are not alone says the Hand Tool Institute, an association of North American hand tool manufacturers. The following 10 true or false questions deal with hand tools commonly found in most workplaces. Test your knowledge â 10 correct is excellent; 9 is good; 8 is fair; 7 or less, poor.&lt;o:p&gt;&lt;/o:p&gt;&lt;/FONT&gt;&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class=MsoNormal style="MARGIN: 0in 0in 0pt"&gt;&lt;SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial"&gt;&lt;o:p&gt;&amp;nbsp;&lt;/o:p&gt;&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class=MsoNormal style="MARGIN: 0in 0in 0pt"&gt;&lt;SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial"&gt;&lt;FONT class=subtitle2&gt;THE QUESTIONS&lt;U&gt;&lt;B style="mso-bidi-font-weight: normal"&gt;&lt;o:p&gt;&lt;/o:p&gt;&lt;/SPAN&gt;&lt;/U&gt;&lt;/FONT&gt;&lt;/B&gt;&lt;B style="mso-bidi-font-weight: normal"&gt;&lt;/SPAN&gt;&lt;/B&gt;&lt;/P&gt;
+&lt;P class=MsoNormal style="MARGIN: 0in 0in 0pt"&gt;&lt;SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial"&gt;&lt;FONT class=subtitle2&gt;Question 1:&lt;/FONT&gt;&lt;/SPAN&gt;&lt;SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial"&gt; &lt;FONT class=bodytextspaced&gt;Plastic covered handles on wire-cutting pliers may be used to cut low-voltage live electrical wire. (True) (False) &lt;o:p&gt;&lt;/o:p&gt;&lt;/FONT&gt;&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class=MsoNormal style="MARGIN: 0in 0in 0pt"&gt;&lt;SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial"&gt;&lt;o:p&gt;&amp;nbsp;&lt;/o:p&gt;&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class=MsoNormal style="MARGIN: 0in 0in 0pt"&gt;&lt;SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial"&gt;&lt;FONT class=subtitle2&gt;Question 2:&lt;/FONT&gt;&lt;/SPAN&gt;&lt;SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial"&gt; &lt;FONT class=bodytextspaced&gt;When tightening a nut with an adjustable wrench, always pull the wrench toward you; never push the wrench away from you. (True) (False) &lt;o:p&gt;&lt;/o:p&gt;&lt;/FONT&gt;&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class=MsoNormal style="MARGIN: 0in 0in 0pt"&gt;&lt;SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial"&gt;&lt;o:p&gt;&amp;nbsp;&lt;/o:p&gt;&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class=MsoNormal style="MARGIN: 0in 0in 0pt"&gt;&lt;SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial"&gt;&lt;FONT class=subtitle2&gt;Question 3:&lt;/FONT&gt;&lt;B style="mso-bidi-font-weight: normal"&gt; &lt;/SPAN&gt;&lt;/B&gt;&lt;SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial"&gt;&lt;FONT class=bodytextspaced&gt;Claw hammers may be used to strike wood chisels. (True) (False) &lt;o:p&gt;&lt;/o:p&gt;&lt;/FONT&gt;&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class=MsoNormal style="MARGIN: 0in 0in 0pt"&gt;&lt;SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial"&gt;&lt;o:p&gt;&amp;nbsp;&lt;/o:p&gt;&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class=MsoNormal style="MARGIN: 0in 0in 0pt"&gt;&lt;SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial"&gt;&lt;FONT class=subtitle2&gt;Question 4:&lt;/FONT&gt;&lt;B style="mso-bidi-font-weight: normal"&gt; &lt;/SPAN&gt;&lt;/B&gt;&lt;SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial"&gt;&lt;FONT class=bodytextspaced&gt;When wood splitting, the flat striking face of an axe may be used to strike a wood splitting wedge. (True) (False)&lt;/FONT&gt; &lt;o:p&gt;&lt;/o:p&gt;&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class=MsoNormal style="MARGIN: 0in 0in 0pt"&gt;&lt;SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial"&gt;&lt;o:p&gt;&amp;nbsp;&lt;/o:p&gt;&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class=MsoNormal style="MARGIN: 0in 0in 0pt"&gt;&lt;SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial"&gt;&lt;FONT class=subtitle2&gt;Question 5:&lt;/FONT&gt;&lt;B style="mso-bidi-font-weight: normal"&gt; &lt;/SPAN&gt;&lt;/B&gt;&lt;SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial"&gt;&lt;FONT class=bodytextspaced&gt;Screwdrivers may be used for purposes other than driving or removing screws, such as prying open can lids. (True) (False) &lt;o:p&gt;&lt;/o:p&gt;&lt;/FONT&gt;&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class=MsoNormal style="MARGIN: 0in 0in 0pt"&gt;&lt;SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial"&gt;&lt;o:p&gt;&amp;nbsp;&lt;/o:p&gt;&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class=MsoNormal style="MARGIN: 0in 0in 0pt"&gt;&lt;SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial"&gt;&lt;FONT class=subtitle2&gt;Question 6:&lt;/FONT&gt;&lt;B style="mso-bidi-font-weight: normal"&gt; &lt;/SPAN&gt;&lt;/B&gt;&lt;SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial"&gt;&lt;FONT class=bodytextspaced&gt;Vises should always be secured to the workbench with screws. (True) (False) &lt;o:p&gt;&lt;/o:p&gt;&lt;/FONT&gt;&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class=MsoNormal style="MARGIN: 0in 0in 0pt"&gt;&lt;SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial"&gt;&lt;o:p&gt;&amp;nbsp;&lt;/o:p&gt;&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class=MsoNormal style="MARGIN: 0in 0in 0pt"&gt;&lt;SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial"&gt;&lt;FONT class=subtitle2&gt;Question 7:&lt;/FONT&gt;&lt;B style="mso-bidi-font-weight: normal"&gt; &lt;/SPAN&gt;&lt;/B&gt;&lt;SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial"&gt;&lt;FONT class=bodytextspaced&gt;Snips are permissible for cutting wire. (True) (False)&lt;/FONT&gt; &lt;o:p&gt;&lt;/o:p&gt;&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class=MsoNormal style="MARGIN: 0in 0in 0pt"&gt;&lt;SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial"&gt;&lt;o:p&gt;&amp;nbsp;&lt;/o:p&gt;&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class=MsoNormal style="MARGIN: 0in 0in 0pt"&gt;&lt;SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial"&gt;&lt;FONT class=subtitle2&gt;Question 8:&lt;/FONT&gt;&lt;B style="mso-bidi-font-weight: normal"&gt; &lt;/SPAN&gt;&lt;/B&gt;&lt;SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial"&gt;&lt;FONT class=bodytextspaced&gt;Open-end wrenches may be used to free a frozen nut. (True) (False) &lt;o:p&gt;&lt;/o:p&gt;&lt;/FONT&gt;&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class=MsoNormal style="MARGIN: 0in 0in 0pt"&gt;&lt;SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial"&gt;&lt;o:p&gt;&amp;nbsp;&lt;/o:p&gt;&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class=MsoNormal style="MARGIN: 0in 0in 0pt"&gt;&lt;SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial"&gt;&lt;FONT class=subtitle2&gt;Question 9:&lt;/FONT&gt;&lt;B style="mso-bidi-font-weight: normal"&gt; &lt;/SPAN&gt;&lt;/B&gt;&lt;SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial"&gt;&lt;FONT class=bodytextspaced&gt;A proper use of the ball pein hammer is striking chisels and punches. (True) (False) &lt;o:p&gt;&lt;/o:p&gt;&lt;/FONT&gt;&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class=MsoNormal style="MARGIN: 0in 0in 0pt"&gt;&lt;SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial"&gt;&lt;o:p&gt;&amp;nbsp;&lt;/o:p&gt;&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class=MsoNormal style="MARGIN: 0in 0in 0pt"&gt;&lt;SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial"&gt;&lt;FONT class=subtitle2&gt;Question 10:&lt;/FONT&gt;&lt;B style="mso-bidi-font-weight: normal"&gt; &lt;/SPAN&gt;&lt;/B&gt;&lt;SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial"&gt;&lt;FONT class=bodytextspaced&gt;Safety goggles should always be worn whenever you are using hand tools. (True) (False) &lt;o:p&gt;&lt;/o:p&gt;&lt;/FONT&gt;&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class=MsoNormal style="MARGIN: 0in 0in 0pt"&gt;&lt;SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial"&gt;&lt;o:p&gt;&amp;nbsp;&lt;/o:p&gt;&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class=MsoNormal style="MARGIN: 0in 0in 0pt"&gt;&lt;SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial"&gt;&lt;o:p&gt;&amp;nbsp;&lt;/o:p&gt;&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class=MsoNormal style="MARGIN: 0in 0in 0pt"&gt;&lt;SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial"&gt;&lt;FONT class=subtitle2&gt;THE ANSWERS:&lt;U&gt;&lt;B style="mso-bidi-font-weight: normal"&gt;&lt;o:p&gt;&lt;/o:p&gt;&lt;/SPAN&gt;&lt;/U&gt;&lt;/FONT&gt;&lt;/B&gt;&lt;B style="mso-bidi-font-weight: normal"&gt;&lt;/SPAN&gt;&lt;/B&gt;&lt;/P&gt;
+&lt;P class=MsoNormal style="MARGIN: 0in 0in 0pt"&gt;&lt;A name=answers&gt;&lt;/A&gt;&lt;SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial"&gt;&lt;FONT class=subtitle2&gt;Question 1:&lt;/FONT&gt;&lt;/SPAN&gt;&lt;SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial"&gt; &lt;FONT class=bodytextspaced&gt;False. Plastic cover handles are for comfort only. Always cut off electrical power before cutting.&lt;o:p&gt;&lt;/o:p&gt;&lt;/FONT&gt;&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class=MsoNormal style="MARGIN: 0in 0in 0pt"&gt;&lt;SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial"&gt;&lt;o:p&gt;&amp;nbsp;&lt;/o:p&gt;&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class=MsoNormal style="MARGIN: 0in 0in 0pt"&gt;&lt;SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial"&gt;&lt;FONT class=subtitle2&gt;Question 2:&lt;/FONT&gt;&lt;B style="mso-bidi-font-weight: normal"&gt; &lt;/SPAN&gt;&lt;/B&gt;&lt;SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial"&gt;&lt;FONT class=bodytextspaced&gt;True. Pulling gives better leverage and balance. Most importantly, the force of the pulling should be on the fixed jaw.&lt;/FONT&gt; &lt;o:p&gt;&lt;/o:p&gt;&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class=MsoNormal style="MARGIN: 0in 0in 0pt"&gt;&lt;SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial"&gt;&lt;o:p&gt;&amp;nbsp;&lt;/o:p&gt;&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class=MsoNormal style="MARGIN: 0in 0in 0pt"&gt;&lt;SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial"&gt;&lt;FONT class=subtitle2&gt;Question 3:&lt;/FONT&gt;&lt;B style="mso-bidi-font-weight: normal"&gt; &lt;/SPAN&gt;&lt;/B&gt;&lt;SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial"&gt;&lt;FONT class=bodytextspaced&gt;False. Claw hammers are for driving and removing nails only. &lt;o:p&gt;&lt;/o:p&gt;&lt;/FONT&gt;&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class=MsoNormal style="MARGIN: 0in 0in 0pt"&gt;&lt;SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial"&gt;&lt;o:p&gt;&amp;nbsp;&lt;/o:p&gt;&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class=MsoNormal style="MARGIN: 0in 0in 0pt"&gt;&lt;SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial"&gt;&lt;FONT class=subtitle2&gt;Question 4:&lt;/FONT&gt;&lt;/SPAN&gt;&lt;SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial"&gt; &lt;FONT class=bodytextspaced&gt;False. Only sledge hammers or wood-splitting mauls should be used to strike wood-splitting wedges. &lt;o:p&gt;&lt;/o:p&gt;&lt;/FONT&gt;&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class=MsoNormal style="MARGIN: 0in 0in 0pt"&gt;&lt;SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial"&gt;&lt;o:p&gt;&amp;nbsp;&lt;/o:p&gt;&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class=MsoNormal style="MARGIN: 0in 0in 0pt"&gt;&lt;SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial"&gt;&lt;FONT class=subtitle2&gt;Question 5:&lt;/FONT&gt; &lt;/SPAN&gt;&lt;SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial"&gt;&lt;FONT class=bodytextspaced&gt;False. Screwdrivers must be used only to tighten or remove screws and for no other purpose. &lt;o:p&gt;&lt;/o:p&gt;&lt;/FONT&gt;&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class=MsoNormal style="MARGIN: 0in 0in 0pt"&gt;&lt;SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial"&gt;&lt;o:p&gt;&amp;nbsp;&lt;/o:p&gt;&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class=MsoNormal style="MARGIN: 0in 0in 0pt"&gt;&lt;SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial"&gt;&lt;FONT class=subtitle2&gt;Question 6:&lt;/FONT&gt;&lt;B style="mso-bidi-font-weight: normal"&gt; &lt;/SPAN&gt;&lt;/B&gt;&lt;SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial"&gt;&lt;FONT class=bodytextspaced&gt;False. Never screwed. Bolted is correct.&lt;/FONT&gt; &lt;o:p&gt;&lt;/o:p&gt;&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class=MsoNormal style="MARGIN: 0in 0in 0pt"&gt;&lt;SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial"&gt;&lt;o:p&gt;&amp;nbsp;&lt;/o:p&gt;&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class=MsoNormal style="MARGIN: 0in 0in 0pt"&gt;&lt;SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial"&gt;&lt;FONT class=subtitle2&gt;Question 7:&lt;/FONT&gt;&lt;B style="mso-bidi-font-weight: normal"&gt; &lt;/SPAN&gt;&lt;/B&gt;&lt;SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial"&gt;&lt;FONT class=bodytextspaced&gt;False. Wire cutters are correct. Snips are for cutting sheet metal. &lt;o:p&gt;&lt;/o:p&gt;&lt;/FONT&gt;&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class=MsoNormal style="MARGIN: 0in 0in 0pt"&gt;&lt;SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial"&gt;&lt;o:p&gt;&amp;nbsp;&lt;/o:p&gt;&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class=MsoNormal style="MARGIN: 0in 0in 0pt"&gt;&lt;SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial"&gt;&lt;FONT class=subtitle2&gt;Question 8:&lt;/FONT&gt;&lt;B style="mso-bidi-font-weight: normal"&gt; &lt;/SPAN&gt;&lt;/B&gt;&lt;SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial"&gt;&lt;FONT class=bodytextspaced&gt;False. Box open is the correct wrench.&lt;/FONT&gt; &lt;o:p&gt;&lt;/o:p&gt;&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class=MsoNormal style="MARGIN: 0in 0in 0pt"&gt;&lt;SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial"&gt;&lt;o:p&gt;&amp;nbsp;&lt;/o:p&gt;&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class=MsoNormal style="MARGIN: 0in 0in 0pt"&gt;&lt;SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial"&gt;&lt;FONT class=subtitle2&gt;Question 9:&lt;/FONT&gt;&lt;B style="mso-bidi-font-weight: normal"&gt; &lt;/SPAN&gt;&lt;/B&gt;&lt;SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial"&gt;&lt;FONT class=bodytextspaced&gt;True. Ball pein hammers are specifically hardened to strike chisels and punches. &lt;o:p&gt;&lt;/o:p&gt;&lt;/FONT&gt;&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class=MsoNormal style="MARGIN: 0in 0in 0pt"&gt;&lt;SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial"&gt;&lt;o:p&gt;&amp;nbsp;&lt;/o:p&gt;&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class=MsoNormal style="MARGIN: 0in 0in 0pt"&gt;&lt;SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial"&gt;&lt;FONT class=subtitle2&gt;Question 10:&lt;/FONT&gt;&lt;B style="mso-bidi-font-weight: normal"&gt; &lt;/SPAN&gt;&lt;/B&gt;&lt;SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial"&gt;&lt;FONT class=bodytextspaced&gt;True. Safety goggles should always be worn when working with hand tools to prevent eye injury.&lt;o:p&gt;&lt;/o:p&gt;&lt;/FONT&gt;&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class=MsoNormal style="MARGIN: 0in 0in 0pt"&gt;&lt;SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial"&gt;&lt;o:p&gt;&amp;nbsp;&lt;/o:p&gt;&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class=MsoNormal style="MARGIN: 0in 0in 0pt"&gt;&lt;SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial"&gt;&lt;FONT class=subtitle2&gt;About the author:&lt;U&gt;&lt;B style="mso-bidi-font-weight: normal"&gt;&lt;o:p&gt;&lt;/o:p&gt;&lt;/SPAN&gt;&lt;/U&gt;&lt;/FONT&gt;&lt;/B&gt;&lt;B style="mso-bidi-font-weight: normal"&gt;&lt;/SPAN&gt;&lt;/B&gt;&lt;/P&gt;
+&lt;P class=MsoNormal style="MARGIN: 0in 0in 0pt"&gt;&lt;SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial"&gt;&lt;FONT class=bodytextspaced&gt;The Hand Tools Institute (HTI) is the trade association of North American manufacturers of non-powered hand tools and tool boxes. The objectives of the institute are to promote and further the interests of its members relative to manufacturing, safety, standardization, international trade and government relations. For more information, visit &lt;/FONT&gt;&lt;A href="http://www.hti.org/"&gt;&lt;FONT class=bodytextspaced&gt;www.hti.org&lt;/FONT&gt;&lt;/A&gt;&lt;FONT class=bodytextspaced&gt;.&lt;o:p&gt;&lt;/o:p&gt;&lt;/FONT&gt;&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class=MsoNormal style="MARGIN: 0in 0in 0pt"&gt;&lt;SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial"&gt;&lt;o:p&gt;&amp;nbsp;&lt;/o:p&gt;&lt;/SPAN&gt;&lt;/P&gt;&lt;img src="http://feeds.feedburner.com/~r/noria/reliableplant/tags/hand_tools/~4/MFFvPWvhUG8" height="1" width="1" alt=""/&gt;</description>
+            <a10:updated>2005-09-08T00:00:00-05:00</a10:updated>
+            <a10:content type="text/html" src="http://reliableplant.com/Read/233/hand-tool-safety" />
+        <feedburner:origLink>http://reliableplant.com/Read/233/hand-tool-safety</feedburner:origLink></item>
+    </channel>
+</rss>

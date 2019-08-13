@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Automation Profiles</title>
+    <description>
+      <![CDATA[Detailed profiles of real-world multistation automated assembly systems.]]>
+    </description>
+    <link>http://www.assemblymag.com/rss</link>
+    <language>en-us</language>
+    <item>
+      <title>Automated system assembles stepper motors for Tier 1 supplier</title>
+      <author>sprovierij@bnpmedia.com (John Sprovieri)</author>
+      <description>
+        <![CDATA[<p>
+	Today&rsquo;s automobiles contain dozens of electric motors. They adjust the mirrors, position the seats, aim the headlights, provide heating and cooling, and raise and lower the windows. In fact, a luxury car might have as many as 120 electric motors of various sizes.</p>
+]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93463</guid>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 -0400</pubDate>
+      <link>http://www.assemblymag.com/articles/93463-automated-system-assembles-stepper-motors-for-tier-1-supplier</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Issues/2016/July/profile/asb0716prof1.jpg?1467038952" type="image/jpeg" length="163025"/>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/July/profile/asb0716prof1.jpg?1467038952" type="image/jpeg" fileSize="163025">
+        <media:title type="plain">1</media:title>
+        <media:description type="plain">
+	Lionel Rochat, project manager at Mikron, demonstrates the operation of the G05 assembly cell at the Sonceboz assembly plant. Photo courtesy Mikron Automation
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/July/profile/asb0716prof2.jpg?1467039024" type="image/jpeg" fileSize="101063">
+        <media:title type="plain">2</media:title>
+        <media:description type="plain">
+	Sonceboz produces more than 70,000 stepper motors a day on this high-speed, multistation automated assembly line. Illustration courtesy Mikron Automation
+</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>High-speed automation system assembles lip balm tubes</title>
+      <author>sprovierij@bnpmedia.com (John Sprovieri)</author>
+      <description>
+        <![CDATA[<p>
+	Mechanical probe and vision systems ensure quality assemblies.</p>
+]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93170</guid>
+      <pubDate>Mon, 04 Jan 2016 00:00:00 -0500</pubDate>
+      <link>http://www.assemblymag.com/articles/93170-high-speed-automation-system-assembles-lip-balm-tubes</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Issues/2016/January/asb0116profile1.jpg?1451925198" type="image/jpeg" length="154346"/>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/January/asb0116profile1.jpg?1451925198" type="image/jpeg" fileSize="154346">
+        <media:title type="plain">lip balm feature</media:title>
+        <media:description type="plain">
+	This continuous-motion assembly system produces lip balm tubes at a rate of 300 per minute.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/January/asb0116profile2.jpg?1451925278" type="image/jpeg" fileSize="70523">
+        <media:title type="plain">lip balm 2</media:title>
+        <media:description type="plain">
+	Vision systems are used to inspect the barrel opening for imperfections and to ensure the screw is not bent or damaged.
+</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>High-precision assembly line features 24 robots</title>
+      <author>sprovierij@bnpmedia.com (John Sprovieri)</author>
+      <description>
+        <![CDATA[<p>
+	SCARAs perform pick-and-place and other operations.</p>
+]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93136</guid>
+      <pubDate>Mon, 07 Dec 2015 00:00:00 -0500</pubDate>
+      <link>http://www.assemblymag.com/articles/93136-high-precision-assembly-line-features-24-robots</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Issues/2015/December/profiles/asb1215prof1.jpg?1449503277" type="image/jpeg" length="128061"/>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/December/profiles/asb1215prof1.jpg?1449503277" type="image/jpeg" fileSize="128061">
+        <media:title type="plain">prof 1</media:title>
+        <media:description type="plain">
+	Owens Design engineers had to develop an automated assembly system for a new, cutting-edge mobile device&amp;mdash;while the OEM was still designing the product. Photo courtesy DENSO Robotics
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/December/profiles/asb1215prof2.jpg?1449503384" type="image/jpeg" fileSize="138943">
+        <media:title type="plain">prof 2</media:title>
+        <media:description type="plain">
+	SCARA robots pick parts from JEDEC trays and pocket tape. Photo courtesy DENSO Robotics
+</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>Automotive Supplier Doubles Production With High-Tech Assembly System</title>
+      <author>sprovierij@bnpmedia.com (John Sprovieri)</author>
+      <description>
+        <![CDATA[<p>
+	Servo-driven presses play key role.</p>]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93093</guid>
+      <pubDate>Tue, 03 Nov 2015 00:00:00 -0500</pubDate>
+      <link>http://www.assemblymag.com/articles/93093-automotive-supplier-doubles-production-with-high-tech-assembly-system</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Issues/2015/November/prof2.jpg?1447957498" type="image/jpeg" length="248454"/>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/November/prof2.jpg?1447957498" type="image/jpeg" fileSize="248454">
+        <media:title type="plain">prof 2</media:title>
+        <media:description type="plain">
+	This six-station assembly system installs parts in a cast aluminum cover for an automotive transmission. Photo courtesy Promess Inc.
+</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>Rotary dial system assembles plumbing valve</title>
+      <author>sprovierij@bnpmedia.com (John Sprovieri)</author>
+      <description>
+        <![CDATA[<p>
+	Vision-guided SCARA robot picks and places delicate ceramic parts.</p>]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/92969</guid>
+      <pubDate>Sat, 01 Aug 2015 00:00:00 -0400</pubDate>
+      <link>http://www.assemblymag.com/articles/92969-rotary-dial-system-assembles-plumbing-valve</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Issues/2015/August/rotarydial/asb0815prof1.jpg?1438007389" type="image/jpeg" length="145874"/>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/August/rotarydial/asb0815prof1.jpg?1438007389" type="image/jpeg" fileSize="145874">
+        <media:title type="plain">rotary dial feature</media:title>
+        <media:description type="plain">
+	This rotary indexing system assembles plastic valves at a rate of one every 6 seconds. Photo courtesy Advanced Molding Technologies LLC
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/August/rotarydial/asb0815prof2.jpg?1438007502" type="image/jpeg" fileSize="35406">
+        <media:title type="plain">rotary dial 2</media:title>
+        <media:description type="plain">
+	This valve is made from polysulfone and ceramic instead of brass. Photo courtesy Advanced Molding Technologies LLC
+</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>Automated Assembly System Installs Quad Rings</title>
+      <author>sprovierij@bnpmedia.com (John Sprovieri)</author>
+      <description>
+        <![CDATA[<p>
+	<span _fck_bookmark="1" style="display: none;">&nbsp;</span>Sensors verify that the rings have been installed correctly.&nbsp;</p>
+]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/91934</guid>
+      <pubDate>Sat, 01 Mar 2014 00:00:00 -0500</pubDate>
+      <link>http://www.assemblymag.com/articles/91934-automated-assembly-system-installs-quad-rings</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Issues/2014/march/quad-rings/asb0314prof1.jpg?1393512689" type="image/jpeg" length="38161"/>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2014/march/quad-rings/asb0314prof11.jpg?1393512876" type="image/jpeg" fileSize="52757">
+        <media:title type="plain">Quad rings slide 1</media:title>
+        <media:description type="plain">
+	This rotary indexing system automatically installs rubber seals into plastic cups
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2014/march/quad-rings/asb0314prof2.jpg?1393512963" type="image/jpeg" fileSize="90942">
+        <media:title type="plain">Quad rings slide 2</media:title>
+        <media:description type="plain">
+	Sations 3 and 4 are each equipped with an internal seal installation machine and a stainless steel feeder bowl and gravity track.
+</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>High-speed automation for bottle cap assembly</title>
+      <author>sprovierij@bnpmedia.com (John Sprovieri)</author>
+      <description>
+        <![CDATA[<p>
+	Plastic squeeze bottles for water or Gatorade are ubiquitous at sporting events around the world. Hundreds of millions of them are produced annually.</p>]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/91653</guid>
+      <pubDate>Fri, 01 Nov 2013 09:00:00 -0400</pubDate>
+      <link>http://www.assemblymag.com/articles/91653-high-speed-automation-for-bottle-cap-assembly</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Issues/November2013/asb1113AP1.jpg?1383069549" type="image/jpeg" length="45822"/>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/November2013/asb1113AP11.jpg?1425972164" type="image/jpeg" fileSize="70089">
+        <media:title type="plain">High-speed automation</media:title>
+        <media:description type="plain">The spout enters the first turret via a pocketed transfer wheel.</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/November2013/asb1113AP2.jpg?1425972164" type="image/jpeg" fileSize="59253">
+        <media:title type="plain">High-Speed Automation</media:title>
+        <media:description type="plain">The base cap assembly passes from the first turret to the second.</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/November2013/asb1113AP3.jpg?1425972164" type="image/jpeg" fileSize="44778">
+        <media:title type="plain">High-Speed Automation</media:title>
+        <media:description type="plain">This continuous motion assembly system produces more than 500 caps per minute.</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>Rotary Indexer Assembles Hinges for Car Doors</title>
+      <description>
+        <![CDATA[<p>
+	Manufacturing engineers have two options for obtaining an automated assembly system. They can get each component&mdash;an automatic screwdriver, a rotary indexing dial, a gripper&mdash;from individual suppliers and integrate the parts themselves. Or, they can ask one supplier to deliver a turnkey machine.</p>]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/91270</guid>
+      <pubDate>Mon, 03 Jun 2013 12:00:00 -0400</pubDate>
+      <link>http://www.assemblymag.com/articles/91270-rotary-indexer-assembles-hinges-for-car-doors</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Issues/June2013/asb0613prof1.jpg?1370274834" type="image/jpeg" length="35408"/>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/June2013/asb0613prof11.jpg?1370275304" type="image/jpeg" fileSize="50978">
+        <media:title type="plain">Automation Profile</media:title>
+        <media:description type="plain">
+	An operator retrieves preassembled components from a conveyor and loads them into fixtures on a rotary indexing dial. The assembly machine does the rest. Photo courtesy DEPRAG
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/June2013/asb0613prof2.jpg?1370275321" type="image/jpeg" fileSize="30087">
+        <media:title type="plain">Automation Profile</media:title>
+        <media:description type="plain">
+	DEPRAG engineer Markus Solfrank adjusts a screwdriving system. The company can supply individual screwdrivers&amp;mdash;or integrate them into a multistation automated assembly system. Photo courtesy DEPRAG
+</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>Walking Beam System Assembles Medical Device</title>
+      <description>
+        <![CDATA[<p>
+	Farason Corp. has been designing and building automated assembly systems for more than 25 years. Based in Coatesville, PA, the company has designed automation systems for food, cosmetics, medical devices, pharmaceutical products, personal care products, toys and solar cells. The company&rsquo;s client list includes Blistex Inc., Crayola Crayons, L&rsquo;Oreal USA, Smith Medical and even the U.S. Mint.</p>]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/91187</guid>
+      <pubDate>Wed, 01 May 2013 08:55:00 -0400</pubDate>
+      <link>http://www.assemblymag.com/articles/91187-walking-beam-system-assembles-medical-device</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Issues/May2013/asb0513prof1.jpg?1367428582" type="image/jpeg" length="31926"/>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/May2013/asb0513prof11.jpg?1367428670" type="image/jpeg" fileSize="48281">
+        <media:title type="plain">Walking beam system</media:title>
+        <media:description type="plain">
+	This walking beam assembly system snaps together two plastic parts for a medical device.
+</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>Indexing Dial Fills, Assembles Beverage Caps</title>
+      <description>
+        <![CDATA[<p>
+	Premixed, ready-to-drink, functional beverages are certainly convenient, but that convenience comes with some trade-offs.</p>
+]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/91086</guid>
+      <pubDate>Mon, 01 Apr 2013 09:00:00 -0400</pubDate>
+      <link>http://www.assemblymag.com/articles/91086-indexing-dial-fills-assembles-beverage-caps</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Issues/April2013/asb0413pro1.jpg?1364496188" type="image/jpeg" length="47045"/>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/April2013/asb0413pro11.jpg?1425969856" type="image/jpeg" fileSize="76890">
+        <media:title type="plain">Indexing dial</media:title>
+        <media:description type="plain">This rotary indexing system assembles bottle caps at a rate
+of 120 per minute.</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/April2013/asb0413pro2.jpg?1425969857" type="image/jpeg" fileSize="36546">
+        <media:title type="plain">Indexing dial</media:title>
+        <media:description type="plain">The system can assemble caps ranging from 28 to 33 millimeters wide. Other sizes can be assembled on the same platform by swapping out tooling.</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/April2013/asb0413pro3.jpg?1425969858" type="image/jpeg" fileSize="22801">
+        <media:title type="plain">Indexing dial</media:title>
+      </media:content>
+    </item>
+    <item>
+      <title>Automation Profiles: Robots Help Philips  Shave Assembly Costs</title>
+      <author>sprovierij@bnpmedia.com (John Sprovieri)</author>
+      <description>
+        <![CDATA[Flexible feeders are the key to a future-proof assembly system.</p>]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/90173</guid>
+      <pubDate>Fri, 01 Jun 2012 00:00:00 -0400</pubDate>
+      <link>http://www.assemblymag.com/articles/90173-automation-profiles--robots-help-philips-shave-assembly-costs-</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Issues/June2012/asb0612prof112.jpg?1338386119" type="image/jpeg" length="57080"/>
+    </item>
+    <item>
+      <title>Automation Profiles: Tumbler Maker Stays Hot With Cool Automation</title>
+      <description>
+        <![CDATA[A unique inflatable gripper handles parts.]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/89632</guid>
+      <pubDate>Thu, 05 Jan 2012 16:23:00 -0500</pubDate>
+      <link>http://www.assemblymag.com/articles/89632-automation-profiles-tumbler-maker-stays-hot-with-cool-automation</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/automationProf/asb0112prof1.jpg?1325798838" type="image/jpeg" length="31817"/>
+      <media:content url="http://www.assemblymag.com/ext/resources/automationProf/asb0112prof11.jpg?1325798763" type="image/jpeg" fileSize="71172">
+        <media:title type="plain">AutoProf-slide1</media:title>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/automationProf/asb0112prof2.jpg?1325798808" type="image/jpeg" fileSize="79406">
+        <media:title type="plain">AutoProf-slide2</media:title>
+      </media:content>
+    </item>
+    <item>
+      <title>Automation Profiles: Integrator Sheds Light on Assembly Challenge</title>
+      <author>sprovierij@bnpmedia.com (John Sprovieri)</author>
+      <description>
+        <![CDATA[Robots assemble parabolic solar concentrators.       ]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/88886</guid>
+      <pubDate>Wed, 24 Aug 2011 12:10:00 -0400</pubDate>
+      <link>http://www.assemblymag.com/articles/88886-automation-profiles-integrator-sheds-light-on-assembly-challenge</link>
+    </item>
+    <item>
+      <title>Automation Profiles: Automation Ensures Driver Safety</title>
+      <description>
+        <![CDATA[Grammer AG of Amberg, Germany, assembles active headrests on a 14-station automated assembly system designed by DEPRAG. 
+]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/88699</guid>
+      <pubDate>Tue, 21 Dec 2010 17:49:00 -0500</pubDate>
+      <link>http://www.assemblymag.com/articles/88699-automation-profiles-automation-ensures-driver-safety</link>
+    </item>
+  </channel>
+</rss>

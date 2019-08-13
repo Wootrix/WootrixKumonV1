@@ -1,0 +1,55 @@
+<?xml version='1.0' standalone='yes'?>
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <soap:Body>
+        <getEntityTokenExternalResponse xmlns="http://201.91.184.250/weborder/">
+            <getEntityTokenExternalResult>
+                <xs:schema xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="NewDataSet">
+                    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+                        <xs:complexType>
+                            <xs:choice minOccurs="0" maxOccurs="unbounded">
+                                <xs:element name="Table">
+                                    <xs:complexType>
+                                        <xs:sequence>
+                                            <xs:element name="UserID" type="xs:int" minOccurs="0"/>
+                                            <xs:element name="Branch" type="xs:string" minOccurs="0"/>
+                                            <xs:element name="BranchCode" type="xs:string" minOccurs="0"/>
+                                            <xs:element name="Country" type="xs:string" minOccurs="0"/>
+                                            <xs:element name="CustomerType" type="xs:string" minOccurs="0"/>
+                                            <xs:element name="City" type="xs:string" minOccurs="0"/>
+                                            <xs:element name="State" type="xs:string" minOccurs="0"/>
+                                            <xs:element name="OpenDate" type="xs:string" minOccurs="0"/>
+                                            <xs:element name="Mat" type="xs:int" minOccurs="0"/>
+                                            <xs:element name="Por" type="xs:int" minOccurs="0"/>
+                                            <xs:element name="Nih" type="xs:int" minOccurs="0"/>
+                                            <xs:element name="Kok" type="xs:int" minOccurs="0"/>
+                                            <xs:element name="Ing" type="xs:int" minOccurs="0"/>
+                                        </xs:sequence>
+                                    </xs:complexType>
+                                </xs:element>
+                            </xs:choice>
+                        </xs:complexType>
+                    </xs:element>
+                </xs:schema>
+                <diffgr:diffgram xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:diffgr="urn:schemas-microsoft-com:xml-diffgram-v1">
+                    <NewDataSet xmlns="">
+                        <Table diffgr:id="Table1" msdata:rowOrder="0">
+                            <UserID>1288</UserID>
+                            <Branch>RIO DE JANEIRO</Branch>
+                            <BranchCode>RJ</BranchCode>
+                            <Country>BR</Country>
+                            <CustomerType>O</CustomerType>
+                            <City>VOLTA REDONDA</City>
+                            <State>RJ</State>
+                            <OpenDate>01/09/1994</OpenDate>
+                            <Mat>1</Mat>
+                            <Por>1</Por>
+                            <Nih>0</Nih>
+                            <Kok>0</Kok>
+                            <Ing>0</Ing>
+                        </Table>
+                    </NewDataSet>
+                </diffgr:diffgram>
+            </getEntityTokenExternalResult>
+        </getEntityTokenExternalResponse>
+    </soap:Body>
+</soap:Envelope>

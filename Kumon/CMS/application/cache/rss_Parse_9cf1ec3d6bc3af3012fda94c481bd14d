@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>XYZ</title>
+    <description>
+      <![CDATA[Articles about technologies and trends in motion control systems for assembly automation.]]>
+    </description>
+    <link>http://www.assemblymag.com/rss</link>
+    <language>en-us</language>
+    <item>
+      <title>Simplifying integration of peripheral devices</title>
+      <author>sprovierij@bnpmedia.com (John Sprovieri)</author>
+      <description>
+        <![CDATA[<p>
+	When designing a complex machine, engineers have two options. They can get all parts of the system&mdash;controller, drives, motors, I/O and human-machine interface (HMI)&mdash;from a single vendor. Or, they can pick and choose devices from mul-tiple suppliers.</p>
+]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/92431</guid>
+      <pubDate>Thu, 02 Oct 2014 00:00:00 -0400</pubDate>
+      <link>http://www.assemblymag.com/articles/92431-simplifying-integration-of-peripheral-devices</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Issues/2014/October/xyz/asb1014xyz1.jpg?1412275356" type="image/jpeg" length="25907"/>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2014/October/xyz/asb1014xyz11.jpg?1412276051" type="image/jpeg" fileSize="34584">
+        <media:title type="plain">xyz slide</media:title>
+        <media:description type="plain">
+	The latest version of the MotionWorks IEC programming environment will allow Yaskawa controllers to import and export files from HMIs and other peripherals from third-party suppliers. Photo courtesy Yaskawa America Inc.
+</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>Applying VFDs to servo applications</title>
+      <author>sprovierij@bnpmedia.com (John Sprovieri)</author>
+      <description>
+        <![CDATA[<p>
+	The distinction between AC induction motors and permanent-magnet DC servomotors was once fairly clear. AC motors were for high-horsepower applications, such as compressors, pumps, blowers and bulk-handling conveyors. DC servomotors were for applications requiring low horsepower, high torque, high cycling and precise positioning, such as machine tools and pick-and-place machines.</p>
+]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/92253</guid>
+      <pubDate>Tue, 01 Jul 2014 00:00:00 -0400</pubDate>
+      <link>http://www.assemblymag.com/articles/92253-applying-vfds-to-servo-applications</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Issues/2014/July/the-xyz/asb0714xyz1.jpg?1404147407" type="image/jpeg" length="25401"/>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2014/July/the-xyz/asb0714xyz11.jpg?1404147580" type="image/jpeg" fileSize="33202">
+        <media:title type="plain">xyz slide</media:title>
+        <media:description type="plain">
+	VFDs adjust the speed and torque of AC induction motors by varying the frequency and voltage applied to the stator. Photo courtesy Yaskawa America Inc.
+</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>Innovative servo drive suppresses vibrations</title>
+      <author>sprovierij@bnpmedia.com (John Sprovieri)</author>
+      <description>
+        <![CDATA[<p>
+	<span _fck_bookmark="1" style="display: none;">&nbsp;</span>Speed is essential for high-volume assembly. However, speed also creates problems.&nbsp;</p>
+]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/92035</guid>
+      <pubDate>Tue, 01 Apr 2014 08:00:00 -0400</pubDate>
+      <link>http://www.assemblymag.com/articles/92035-innovative-servo-drive-suppresses-vibrations</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Issues/2014/april/innovative-servo-drive/asb0414xyz1.jpg?1396031441" type="image/jpeg" length="35614"/>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2014/april/innovative-servo-drive/asb0414xyz11.jpg?1396031594" type="image/jpeg" fileSize="46563">
+        <media:title type="plain">high speed pick and place system</media:title>
+        <media:description type="plain">
+	In a high-speed pick-and-place operation, settling time is the enemy of productivity. Photo courtesy PBC Linear.
+</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>Details drive choice of servomotors</title>
+      <author>sprovierij@bnpmedia.com (John Sprovieri)</author>
+      <description>
+        <![CDATA[<p>
+	In a competitive marketplace, details help differentiate one product from another. A thoughtful feature or a more rugged design can make all the difference. Consumers who buy based solely on price often end up disappointed.</p>
+]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/91654</guid>
+      <pubDate>Fri, 01 Nov 2013 09:00:00 -0400</pubDate>
+      <link>http://www.assemblymag.com/articles/91654-details-drive-choice-of-servomotors</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Issues/November2013/asb1113xyz1-feature.gif?1383070725" type="image/gif" length="52542"/>
+    </item>
+    <item>
+      <title>Small Servomotors for High-Precision Motion</title>
+      <description>
+        <![CDATA[<p>
+	Semiconductor processing equipment is a notoriously demanding application for motion control engineers. Extreme precision, reliability and smoothness are absolute requirements. At the same time, space is at a premium.</p>]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/91517</guid>
+      <pubDate>Mon, 09 Sep 2013 13:24:00 -0400</pubDate>
+      <link>http://www.assemblymag.com/articles/91517-small-servomotors-for-high-precision-motion</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Issues/September2013/asb0913xyz11.jpg?1378747971" type="image/jpeg" length="44384"/>
+    </item>
+    <item>
+      <title>Motion Control: Rigid vs. Flexible</title>
+      <author>sprovierij@bnpmedia.com (John Sprovieri)</author>
+      <description>
+        <![CDATA[<p>
+	When specifying a motion control system for, say, a pick-and-place application on an automated assembly line, engineers have two choices.</p>]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/91333</guid>
+      <pubDate>Mon, 01 Jul 2013 08:59:00 -0400</pubDate>
+      <link>http://www.assemblymag.com/articles/91333-motion-control-rigid-vs-flexible</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Issues/July2013/asb0713xyz1.jpg?1372357473" type="image/jpeg" length="62742"/>
+    </item>
+    <item>
+      <title>Function Blocks Simplify Programming</title>
+      <description>
+        <![CDATA[<p>
+	Software is playing an increasing role in industrial automation. That&rsquo;s been good in terms of boosting the functionality and flexibility of machines. But, writing code can also add cost and time to the development process.</p>]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/91188</guid>
+      <pubDate>Wed, 01 May 2013 08:55:00 -0400</pubDate>
+      <link>http://www.assemblymag.com/articles/91188-function-blocks-simplify-programming</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Issues/May2013/asb0513xyz1.jpg?1367433540" type="image/jpeg" length="40679"/>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/May2013/asb0513xyz11.jpg?1367433589" type="image/jpeg" fileSize="66597">
+        <media:title type="plain">Function Blocks Simplify Programming</media:title>
+        <media:description type="plain">
+	Function blocks are available for both simple and complex motion control tasks, such as coordinating the movement of two assembly conveyors. Photo courtesy Isthmus Engineering &amp;amp; Manufacturing
+</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>Synchronization Is Critical to High-Speed Assembly</title>
+      <author>webera@bnpmedia.com (Austin Weber)</author>
+      <description>
+        <![CDATA[
+	Synchronization is an essential element of both symphony orchestras and football teams. It&rsquo;s also important to the success of high-speed assembly lines.</p>
+]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/90465</guid>
+      <pubDate>Tue, 04 Sep 2012 00:00:00 -0400</pubDate>
+      <link>http://www.assemblymag.com/articles/90465-synchronization-is-critical-to-high-speed-assembly</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Issues/September2012/asb0912xyz.jpg?1346265187" type="image/jpeg" length="34148"/>
+    </item>
+    <item>
+      <title>The Benefits of a Modular Machine</title>
+      <author>sprovierij@bnpmedia.com (John Sprovieri)</author>
+      <description>
+        <![CDATA[Traditionally, a complex manufacturing machine has one large, powerful controller that governs sequencing, motion and I/O. Multiple drives and motors are connected to the controller via a motion network.</p>]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/90258</guid>
+      <pubDate>Mon, 02 Jul 2012 00:00:00 -0400</pubDate>
+      <link>http://www.assemblymag.com/articles/90258-the-benefits-of-a-modular-machine</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Issues/July2012/asb0712xyz1.jpg?1340736203" type="image/jpeg" length="49638"/>
+    </item>
+    <item>
+      <title>Precise Linear Motion is Key to Achieving Optimum Machine Control</title>
+      <description>
+        <![CDATA[<p>
+	CHARLOTTE, NC&mdash;Precise motion controllers are certainly important in advanced manufacturing equipment. But just as the performance of a super athlete depends on a combination of brains and physical ability, so do high-precision linear motion systems. Without mechanical systems capable of taking full advantage of the instructions supplied by the motion controller, many processes would be impossible.</p>
+]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/90196</guid>
+      <pubDate>Fri, 08 Jun 2012 00:00:00 -0400</pubDate>
+      <link>http://www.assemblymag.com/articles/90196-precise-linear-motion-is-key-to-achieving-optimum-machine-control</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/LatestHeadlines/ATW422.jpg?1360857365" type="image/jpeg" length="139588"/>
+    </item>
+    <item>
+      <title>XYZ - Software Simplifies Programming of Kinematics</title>
+      <author>sprovierij@bnpmedia.com (John Sprovieri)</author>
+      <description>
+        <![CDATA[With a kinematic mechanism, the position of the end-effector is not determined by straight-line motion.</p>]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/90055</guid>
+      <pubDate>Tue, 01 May 2012 00:00:00 -0400</pubDate>
+      <link>http://www.assemblymag.com/articles/90055-xyz---software-simplifies-programming-of-kinematics</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Issues/May2012/asb0512xyz11.jpg?1335452453" type="image/jpeg" length="24695"/>
+    </item>
+    <item>
+      <title>XYZ: Electronic Camming Improves Pick-and-Place</title>
+      <description>
+        <![CDATA[Cam-driven pick-and-place devices have long been a staple of high-speed, multistation automated assembly systems.</p>]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/89833</guid>
+      <pubDate>Thu, 01 Mar 2012 00:00:00 -0500</pubDate>
+      <link>http://www.assemblymag.com/articles/89833-xyz--electronic-camming-improves-pick-and-place</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Issues/March2012/asb0312xyz1.jpg?1329929039" type="image/jpeg" length="15050"/>
+    </item>
+    <item>
+      <title>Assembly In Action: Indexer Automates Wire Forming for Seat Component</title>
+      <description>
+        <![CDATA[&ldquo;Wire forming is our business,&rdquo; automotive supplier JR Manufacturing writes on its Web site. As proof, the company points to the fact that it currently makes more than 100 wire seat components for major automakers, including Acura, Chrysler, Honda, Lexus, Mitsubishi and Toyota.]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/89642</guid>
+      <pubDate>Sat, 07 Jan 2012 10:55:00 -0500</pubDate>
+      <link>http://www.assemblymag.com/articles/89642-assembly-in-action-indexer-automates-wire-forming-for-seat-component</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/AIA/asb0112AIA4.jpg?1325865329" type="image/jpeg" length="21288"/>
+    </item>
+    <item>
+      <title>High-Performance Servos Boost Throughput</title>
+      <description>
+        <![CDATA[Fifty milliseconds may not seem like a lot of time. Indeed, the human eye takes between 300 and 400 milliseconds to complete a single blink. And yet in the context of a high-speed automated assembly system, in which a single linear actuator might make more than a dozen moves per minute, 50 milliseconds here and there can really add up.]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/89634</guid>
+      <pubDate>Fri, 06 Jan 2012 08:58:00 -0500</pubDate>
+      <link>http://www.assemblymag.com/articles/89634-high-performance-servos-boost-throughput</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/High-Performance/asb0112xyz11.jpg?1325858287" type="image/jpeg" length="26725"/>
+    </item>
+    <item>
+      <title>Illinois Assembly Plant to Hire 40</title>
+      <description>
+        <![CDATA[GLENDALE HEIGHTS, IL-Lenze Americas, a manufacturer of motion control technologies, is expanding its assembly plant here and will hire up to 40 skilled workers. <a href="http://www.marketwatch.com/story/lenze-americas-hiring-for-mechanical-product-assembly-logistics-center-2011-12-05" target=_new>MORE</a>  ]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/89593</guid>
+      <pubDate>Tue, 06 Dec 2011 09:29:00 -0500</pubDate>
+      <link>http://www.assemblymag.com/articles/89593-illinois-assembly-plant-to-hire-40</link>
+    </item>
+    <item>
+      <title>Bosch Rexroth Offers Catalogs on iPad</title>
+      <description>
+        <![CDATA[CHARLOTTE, NC-Bosch Rexroth has developed interactive electronic catalogs optimized for the iPad. The catalogs include embedded videos, white papers and specification information for the company&#8217;s line of conveyors, workstations, structural aluminum components and motion control products. <a href="http://www.boschrexroth-us.com/gotoebook" target=_new>MORE</a>  ]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/89628</guid>
+      <pubDate>Wed, 09 Nov 2011 09:44:00 -0500</pubDate>
+      <link>http://www.assemblymag.com/articles/89628-bosch-rexroth-offers-catalogs-on-ipad</link>
+    </item>
+  </channel>
+</rss>

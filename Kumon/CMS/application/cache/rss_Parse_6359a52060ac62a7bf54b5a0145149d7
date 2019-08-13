@@ -1,0 +1,817 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Automated Assembly</title>
+    <description>
+      <![CDATA[Articles about high-speed, multistation automated assembly systems.]]>
+    </description>
+    <link>http://www.assemblymag.com/rss</link>
+    <language>en-us</language>
+    <item>
+      <title>Vision Enables Flexible Assembly</title>
+      <description>
+        <![CDATA[<p>A Fortune 500 manufacturer of electromechanical products previously operated six separate indexing assembly machines, each producing one of a family of products at about 40 parts per minute.</p>]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93679</guid>
+      <pubDate>Thu, 05 Jan 2017 00:00:00 -0500</pubDate>
+      <link>http://www.assemblymag.com/articles/93679-vision-enables-flexible-assembly</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Issues/2017/January/vision/asb0117vis1.jpg?1483646089" type="image/jpeg" length="75783"/>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2017/January/vision/asb0117vis1.jpg?1483646089" type="image/jpeg" fileSize="75783">
+        <media:title type="plain">1</media:title>
+        <media:description type="plain">The CNCAssembly system consists of seven assembly stations, or engines, linked together by a linear-motor transfer system. Photo courtesy Cognex Corp.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2017/January/vision/asb0117vis4.jpg?1483646201" type="image/jpeg" fileSize="87947">
+        <media:title type="plain">4</media:title>
+        <media:description type="plain">At station 4, a robot orients and assembles plastic spacer-plates onto the bases. A vision system inspects the subassemblies to verify that each part has a spacer-plate and it is correctly positioned on the spacer. Photo courtesy Cognex Corp.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2017/January/vision/asb0117vis5.jpg?1483646249" type="image/jpeg" fileSize="61779">
+        <media:title type="plain">5</media:title>
+        <media:description type="plain">This system assembles six families of an electromechanical product, for a total of more than 75 product variants. Photo courtesy Cognex Corp.
+</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>Shoe Manufacturer Automates Production in Unique Way</title>
+      <author>camilloj@bnpmedia.com (Jim Camillo)</author>
+      <description>
+        <![CDATA[<p>Most manufacturers are keen on automating production, so long as it can be done cost-effectively. This goal applies as well to KEEN Inc., a Portland, OR-based company that makes outdoor and lifestyle footwear.</p>
+]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93672</guid>
+      <pubDate>Thu, 05 Jan 2017 00:00:00 -0500</pubDate>
+      <link>http://www.assemblymag.com/articles/93672-shoe-manufacturer-automates-production-in-unique-way</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Issues/2017/January/AIA/asb0117AIA3.jpg?1483630435" type="image/jpeg" length="82263"/>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2017/January/AIA/asb0117AIA3.jpg?1483630435" type="image/jpeg" fileSize="82263">
+        <media:title type="plain">3</media:title>
+        <media:description type="plain">The UNEEK robotic cell features two IRB 120 six-axis robots that weave together interlocking cords located in the upper portion of each KEEN shoe. Photo courtesy ABB Robotics
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2017/January/AIA/asb0117AIA4.jpg?1483630513" type="image/jpeg" fileSize="79436">
+        <media:title type="plain">4</media:title>
+      </media:content>
+    </item>
+    <item>
+      <title>Systems Integrator Building Assembly System for Automotive Fuse Boxes</title>
+      <description>
+        <![CDATA[EVANSVILLE, INâSystems integrator Preh IMA Automation (PIA) Evansville Inc. is building a semiautomatic assembly line for a manufacturer of automotive electronics. The assembly line, which will be delivered in early 2017, assembles, populates and tests automotive fuse boxes.]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93658</guid>
+      <pubDate>Mon, 12 Dec 2016 00:00:00 -0500</pubDate>
+      <link>http://www.assemblymag.com/articles/93658-systems-integrator-building-assembly-system-for-automotive-fuse-boxes</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Default_Images/responsive/ASB_default_latestnews.jpg?1479231322" type="image/jpeg" length="166380"/>
+    </item>
+    <item>
+      <title>ASSEMBLY Capital Spending Report: Capital Spending to Increase</title>
+      <author>sprovierij@bnpmedia.com (John Sprovieri)</author>
+      <description>
+        <![CDATA[<p>Overall, 2016 has been a pretty good year for U.S. manufacturing. In every industry covered by ASSEMBLY magazine, manufacturers were investing in people, plants and equipment.</p>]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93648</guid>
+      <pubDate>Thu, 01 Dec 2016 01:00:00 -0500</pubDate>
+      <link>http://www.assemblymag.com/articles/93648-assembly-capital-spending-report-capital-spending-to-increase</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Issues/2016/December/capital-spending/asb1216spend1.jpg?1480529230" type="image/jpeg" length="172994"/>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/December/capital-spending/asb1216spend1.jpg?1480529230" type="image/jpeg" fileSize="172994">
+        <media:title type="plain">1</media:title>
+        <media:description type="plain">The automotive industry continues to drive growth in capital equipment spending. Transportation equipment manufacturers will account for 30 percent of total spending next year. Photo courtesy Faurecia
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/December/capital-spending/asb1216spend_Fig01-2.jpg?1480529470" type="image/jpeg" fileSize="91737">
+        <media:title type="plain">2</media:title>
+        <media:description type="plain">The Northeast will account for 28 percent of total spending this year. That&amp;rsquo;s the highest share for the region since 2012.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/December/capital-spending/asb1216spend_Fig02-2.jpg?1480529502" type="image/jpeg" fileSize="56222">
+        <media:title type="plain">3</media:title>
+        <media:description type="plain">As usual, the country&amp;rsquo;s largest assembly plants have the deepest pockets and the rosiest outlook. Companies with more than 100 workers will account for 88 percent of total spending next year.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/December/capital-spending/asb1216spend_Fig03-2.jpg?1480529601" type="image/jpeg" fileSize="91166">
+        <media:title type="plain">4</media:title>
+        <media:description type="plain">For the seventh time in the past decade, transportation equipment manufacturers will spend more on assembly technology than any other industry.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/December/capital-spending/asb1216spend_Fig04-2.jpg?1480529572" type="image/jpeg" fileSize="59689">
+        <media:title type="plain">5</media:title>
+        <media:description type="plain">Manufacturers of small products (anything that can fit inside a 12-inch cube) will account for just 7 percent of total spending next year&amp;mdash; the smallest share for that segment in the survey history.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/December/capital-spending/asb1216spend_Fig05risingcost-2.jpg?1480529690" type="image/jpeg" fileSize="39153">
+        <media:title type="plain">6</media:title>
+        <media:description type="plain">Thirty-one percent of plants will buy equipment next year to mitigate material costs. That&amp;rsquo;s the highest percentage in the history of our survey.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/December/capital-spending/asb1216spend_Fig09cost-of-scrap-2.jpg?1480529741" type="image/jpeg" fileSize="40915">
+        <media:title type="plain">7</media:title>
+        <media:description type="plain">Assemblers are increasingly concerned about the cost of scrap. Next year, 40 percent of plants will buy equipment to lower scrap costs, the most since 2013.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/December/capital-spending/asb1216spend_Fig10single-station-2.jpg?1480529779" type="image/jpeg" fileSize="42031">
+        <media:title type="plain">8</media:title>
+        <media:description type="plain">Assemblers are increasingly investing in single-station assembly machines: presses, automatic riveters, and automatic screwdriving equipment. Fifty percent of plants will purchase such equipment next year, the most since 2011.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/December/capital-spending/asb1216spend_Fig11energy-costs.jpg?1480529819" type="image/jpeg" fileSize="57310">
+        <media:title type="plain">9</media:title>
+        <media:description type="plain">For the first time this year, we asked about energy costs. One industry stood out: 44 percent of manufacturers of appliances and electrical equipment said that they were buying equipment to reduce their energy costs. That&amp;rsquo;s more than twice the percentage for all U.S. factories.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/December/capital-spending/asb1216spend_Fig12labor-cost-2.jpg?1480529858" type="image/jpeg" fileSize="45386">
+        <media:title type="plain">10</media:title>
+        <media:description type="plain">Over the past three years, machinery manufacturers have been more concerned about labor costs than other manufacturers. Next year, 79 percent of machinery makers will buy equipment to reduce labor costs, compared with 72 percent for all U.S. plants. In contrast, medical device manufacturers have been less concerned about labor costs.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/December/capital-spending/asb1216spend_Fig13setup-cost-2.jpg?1480529901" type="image/jpeg" fileSize="58144">
+        <media:title type="plain">11</media:title>
+        <media:description type="plain">Compared with other industries, manufacturers of fabricated metal products and transportation equipment are more concerned about indirect labor costs, such as setup and maintenance. Next year, 64 percent of fabricated metal products factories and 53 percent of transportation equipment factories will invest in equipment to reduce indirect labor costs. Both percentages are higher than the national ratio.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/December/capital-spending/asb1216spend_Fig14fabricated-metal-2.jpg?1480529941" type="image/jpeg" fileSize="60730">
+        <media:title type="plain">13</media:title>
+        <media:description type="plain">Compared with other industries, manufacturers of fabricated metal products seem to have plenty of capacity. Only 29 percent of plants in this industry will buy equipment next year to increase capacity. That&amp;rsquo;s well below the national percentage. In fact, the industry has been below the national percentage for the past six years.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/December/capital-spending/asb1216spend_more-or-less.jpg?1480529992" type="image/jpeg" fileSize="66248">
+        <media:title type="plain">14</media:title>
+        <media:description type="plain">Only 16 percent of respondents will spend less in 2017 than they did 2016&amp;mdash;an all-time low for our survey.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/December/capital-spending/asb1216spend_new-products-2.jpg?1480530011" type="image/jpeg" fileSize="43702">
+        <media:title type="plain">15</media:title>
+      </media:content>
+    </item>
+    <item>
+      <title>Mastering Changeover</title>
+      <author>webera@bnpmedia.com (Austin Weber)</author>
+      <description>
+        <![CDATA[<p>Quick change is a popular type of magic in which performers appear in entirely different costumes within just a few seconds. It&rsquo;s an act that takes tremendous skill and lots of practice to perfect.</p>]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93649</guid>
+      <pubDate>Thu, 01 Dec 2016 00:00:00 -0500</pubDate>
+      <link>http://www.assemblymag.com/articles/93649-mastering-changeover</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Issues/2016/December/Changeover/asb1216change1.jpg?1480531500" type="image/jpeg" length="179582"/>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/December/Changeover/asb1216change1.jpg?1480531500" type="image/jpeg" fileSize="179582">
+        <media:title type="plain">1</media:title>
+        <media:description type="plain">Changeover is an important component of any lean manufacturing initiative. Photo courtesy ZF Friedrichshafen AG
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/December/Changeover/asb1216change2.jpg?1480531589" type="image/jpeg" fileSize="191706">
+        <media:title type="plain">2</media:title>
+        <media:description type="plain">Changeover is critical in high-mix production environments, such as this battery pack assembly line. Photo courtesy Videoton Holding
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/December/Changeover/asb1216change3.jpg?1480531624" type="image/jpeg" fileSize="198949">
+        <media:title type="plain">3</media:title>
+        <media:description type="plain">Operators have to make psychological adjustments each time they start to assemble a different product. Photo courtesy Visual Knowledge Share Ltd.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/December/Changeover/asb1216change5.jpg?1480531719" type="image/jpeg" fileSize="157736">
+        <media:title type="plain">5</media:title>
+        <media:description type="plain">Although the terms changeover and setup are often used interchangeably, they mean different things. Photo courtesy ZF Friedrichshafen AG
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/December/Changeover/asb1216change6.jpg?1480531756" type="image/jpeg" fileSize="218724">
+        <media:title type="plain">6</media:title>
+        <media:description type="plain">Part counts and assembly complexity can make the changeover process easier or more difficult. Photo courtesy Toyota Motor Corp.
+</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>Five Steps to Analyze Your Assembly Process for Automation Opportunities</title>
+      <description>
+        <![CDATA[<p>Due to rapidly advancing technology, industrial automation has experienced explosive growth in recent decades. From early relay logic, to the introduction of programmable logic controllers (PLCs), and now robotics, adaptive logic, networking and wireless technology, automation has provided significant opportunities to improve most manufacturing processes.</p>
+]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93623</guid>
+      <pubDate>Mon, 07 Nov 2016 00:00:00 -0500</pubDate>
+      <link>http://www.assemblymag.com/articles/93623-five-steps-to-analyze-your-assembly-process-for-automation-opportunities</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Issues/2016/November/process/asb1116rte1.jpg?1478536123" type="image/jpeg" length="166997"/>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/November/process/asb1116rte1.jpg?1478536123" type="image/jpeg" fileSize="166997">
+        <media:title type="plain">1</media:title>
+        <media:description type="plain">If done correctly, custom automation can increase productivity and efficiency, while decreasing labor costs and human error. Photo courtesy RT Engineering Corp.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/November/process/asb1116rte2.jpg?1478536197" type="image/jpeg" fileSize="161515">
+        <media:title type="plain">2</media:title>
+        <media:description type="plain">Even if you think you&amp;rsquo;re well-versed in your manufacturing operation, it&amp;rsquo;s a good idea to map out your assembly process prior to automating. Photo courtesy RT Engineering Corp.
+</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>Modular Automation Components</title>
+      <author>camilloj@bnpmedia.com (Jim Camillo)</author>
+      <description>
+        <![CDATA[<p>At some point during a philosophy 101 class, college students learn about Aristotle&rsquo;s belief that the best way to understand something is to break it down to the smallest components. For an increasing number of manufacturers and integrators, however, the best way to assemble a product is to use a machine built with modular automation components that quickly and easily fit together.</p>
+]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93622</guid>
+      <pubDate>Mon, 07 Nov 2016 00:00:00 -0500</pubDate>
+      <link>http://www.assemblymag.com/articles/93622-modular-automation-components</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Issues/2016/November/modular/asb1116Modular1.jpg?1478534877" type="image/jpeg" length="171483"/>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/November/modular/asb1116Modular1.jpg?1478534877" type="image/jpeg" fileSize="171483">
+        <media:title type="plain">1</media:title>
+        <media:description type="plain">With modular components, a manufacturer can reconfigure its assembly lines more easily to keep up with changing market needs. Photo courtesy Bosch Rexroth Corp.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/November/modular/asb1116Modular2.jpg?1478534962" type="image/jpeg" fileSize="143900">
+        <media:title type="plain">2</media:title>
+        <media:description type="plain">Popular modular components include linear slides, end-effectors, rotary units, valve manifolds, feeder bowls and conveyors. Photo courtesy Edgewater Automation
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/November/modular/asb1116Modular3.jpg?1478535000" type="image/jpeg" fileSize="35405">
+        <media:title type="plain">3</media:title>
+        <media:description type="plain">A gantry robot built from the modular YXMx handling components can perform screwdriving, dispensing, testing, soldering and gripping. Photo courtesy Festo Corp.
+</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>Whatâs New With Machine Vision Systems</title>
+      <author>sprovierij@bnpmedia.com (John Sprovieri)</author>
+      <description>
+        <![CDATA[<p>Vision systems play a vital role in automated assembly systems. They can check for the presence or absence of parts or materials. They can measure key dimensions of assemblies. They can tell robots the precise location of parts. They can even read 1D and 2D codes.</p>
+]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93620</guid>
+      <pubDate>Mon, 07 Nov 2016 00:00:00 -0500</pubDate>
+      <link>http://www.assemblymag.com/articles/93620-whats-new-with-machine-vision-systems</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Issues/2016/November/Vision/asb1116vision1.jpg?1478532702" type="image/jpeg" length="76056"/>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/November/Vision/asb1116vision1.jpg?1478532702" type="image/jpeg" fileSize="76056">
+        <media:title type="plain">1</media:title>
+        <media:description type="plain">The BVS-E universal vision sensor can detect objects regardless of their location or position. Photo courtesy Balluff Inc.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/November/Vision/asb1116vision2.jpg?1478532799" type="image/jpeg" fileSize="108629">
+        <media:title type="plain">2</media:title>
+        <media:description type="plain">AutoVISION 4.0 allows engineers to easily implement machine vision jobs for item tracking, traceability, defect detection, guidance and monitoring. Photo courtesy Microscan Systems Inc.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/November/Vision/asb1116vision3.jpg?1478532830" type="image/jpeg" fileSize="58589">
+        <media:title type="plain">3</media:title>
+        <media:description type="plain">The Iris GTR smart camera measures just 75 by 75 by 54 millimeters, allowing it to fit into tight spaces. Photo courtesy Matrox Imaging
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/November/Vision/asb1116vision4.jpg?1478532858" type="image/jpeg" fileSize="56320">
+        <media:title type="plain">4</media:title>
+        <media:description type="plain">The iVu Plus Gen2 vision sensors have touch screen interfaces for easy setup and monitoring. Photo courtesy Banner Engineering
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/November/Vision/asb1116vision5.jpg?1478532997" type="image/jpeg" fileSize="69633">
+        <media:title type="plain">5</media:title>
+        <media:description type="plain">Compact 12-Megapixel Camera from Baumer Ltd.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/November/Vision/asb1116vision6tiff.jpg?1478533040" type="image/jpeg" fileSize="68669">
+        <media:title type="plain">6</media:title>
+        <media:description type="plain">Five-Megapixel CMOS Camera from JAI Inc.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/November/Vision/asb1116vision7.jpg?1478533098" type="image/jpeg" fileSize="30930">
+        <media:title type="plain">7</media:title>
+        <media:description type="plain">SICK Inc. has introduced the TriSpector1000 vision sensor for costefficient and reliable 3D inspection.
+</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>Industry 4.0: Myths vs. Reality</title>
+      <author>webera@bnpmedia.com (Austin Weber)</author>
+      <description>
+        <![CDATA[<p>In the nautical disaster movie, &ldquo;The Perfect Storm,&rdquo; three weather fronts converge off the coast of New England to create one of the fiercest storms in U.S. history. A similar convergence is occurring in the manufacturing world today. It&rsquo;s called Industry 4.0 and it promises to transform the way that engineers design and build products over the next two decades.</p>]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93619</guid>
+      <pubDate>Thu, 03 Nov 2016 00:00:00 -0400</pubDate>
+      <link>http://www.assemblymag.com/articles/93619-industry-40-myths-vs-reality</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Issues/2016/November/40/asb1116indsutry1.jpg?1478200729" type="image/jpeg" length="139458"/>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/November/40/asb1116indsutry1.jpg?1478200729" type="image/jpeg" fileSize="139458">
+        <media:title type="plain">1</media:title>
+        <media:description type="plain">Industry 4.0 represents a paradigm shift from centralized to decentralized manufacturing. Photo courtesy Fraunhofer-Gesellschaft
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/November/40/asb1116indsutry2.jpg?1478200820" type="image/jpeg" fileSize="252194">
+        <media:title type="plain">2</media:title>
+        <media:description type="plain">New technologies marry the physical world with the digital world, resulting in more seamless interaction between the two. Illustration courtesy Siemens AG
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/November/40/asb1116industry3.jpg?1478200855" type="image/jpeg" fileSize="161079">
+        <media:title type="plain">3</media:title>
+        <media:description type="plain">This augmented reality system uses projected lights to error-proof and streamline assembly processes. Photo courtesy Light Guide Systems Inc.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/November/40/asb1116industry4.jpg?1478200890" type="image/jpeg" fileSize="187863">
+        <media:title type="plain">4</media:title>
+        <media:description type="plain">Products, systems and services will be increasingly customized to customer needs, with feedback from products throughout their life cycles. Photo courtesy Daimler AG
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/November/40/asb1116industry7.jpg?1478200981" type="image/jpeg" fileSize="234412">
+        <media:title type="plain">7</media:title>
+        <media:description type="plain">Industry 4.0 relies on state-of-the-art production equipment that incorporates robotics, smart devices and embedded intelligence. Photo courtesy BMW AG
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/November/40/asb1116industry101.jpg?1478201062" type="image/jpeg" fileSize="263755">
+        <media:title type="plain">11</media:title>
+        <media:description type="plain">With Industry 4.0, production processes can become more visible and controllable. Photo courtesy Xplore Technologies Corp.
+</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>Chinese Automaker Uses Vision-Guided Robots to Securely Handle Parts </title>
+      <author>camilloj@bnpmedia.com (Jim Camillo)</author>
+      <description>
+        <![CDATA[<p>Just a few decades ago, the typical American or European driver would never have believed that China, a communist country, would one day be the world&rsquo;s largest car producer (by volume).</p>
+]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93617</guid>
+      <pubDate>Thu, 03 Nov 2016 00:00:00 -0400</pubDate>
+      <link>http://www.assemblymag.com/articles/93617-chinese-automaker-uses-vision-guided-robots-to-securely-handle-parts</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Issues/2016/November/AIA/asb1116AIA5.jpg?1478195113" type="image/jpeg" length="224834"/>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/November/AIA/asb1116AIA5.jpg?1478195113" type="image/jpeg" fileSize="224834">
+        <media:title type="plain">5</media:title>
+        <media:description type="plain">At a high-volume automotive plant in China, robots grab large metal parts one at a time off a rack and place them on a moving conveyor. A vision-inspection system ensures that the robot&amp;rsquo;s gripper properly attaches to each part. Photo courtesy Teledyne DALSA
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/November/AIA/asb1116AIA6.jpg?1478195242" type="image/jpeg" fileSize="95833">
+        <media:title type="plain">6</media:title>
+        <media:description type="plain">Sherlock image-processing software is used to verify that the position coordinates of the gripper and part are correct. Photo courtesy Teledyne DALSA
+</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>Cartesian Robot Doubles Output of Solar Lego Modules</title>
+      <author>camilloj@bnpmedia.com (Jim Camillo)</author>
+      <description>
+        <![CDATA[<p>Traditional solar panel installations require expensive and time-consuming assembly of custom mounting systems on a roof, which can ultimately slow adoption.</p>]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93615</guid>
+      <pubDate>Thu, 03 Nov 2016 00:00:00 -0400</pubDate>
+      <link>http://www.assemblymag.com/articles/93615-cartesian-robot-doubles-output-of-solar-lego-modules</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Issues/2016/November/AIA/asb1116AIA2.jpg?1478194140" type="image/jpeg" length="144803"/>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/November/AIA/asb1116AIA1.jpg?1478194067" type="image/jpeg" fileSize="65923">
+        <media:title type="plain">1</media:title>
+        <media:description type="plain">The two-axis BA-III Cartesian robot features a BE50F Compo Arm for the X axis and a BE30E Compo Arm for the Y axis. Photo courtesy Toshiba Machine Co. America
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/November/AIA/asb1116AIA2.jpg?1478194140" type="image/jpeg" fileSize="144803">
+        <media:title type="plain">2</media:title>
+        <media:description type="plain">With the SMASHmount system, an installer can quickly mount solar panels to a roof with no field modifications or complications. Photo courtesy SMASH Solar Inc.
+</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>Automated Processing of Small RF and Coax Cables</title>
+      <description>
+        <![CDATA[<p>Cell phones, tablets, GPS devices and other mobile electronics are smaller, thinner, lighter and more powerful than ever. Wireless Internet connections, RFID and Bluetooth have become essential features of these devices, necessitating highly complex transmission mechanisms.</p>]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93588</guid>
+      <pubDate>Tue, 04 Oct 2016 00:00:00 -0400</pubDate>
+      <link>http://www.assemblymag.com/articles/93588-automated-processing-of-small-rf-and-coax-cables</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Issues/2016/October/Coax/asb1016coax2.jpg?1475599126" type="image/jpeg" length="83873"/>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/October/Coax/asb1016coax1.jpg?1475599052" type="image/jpeg" fileSize="29782">
+        <media:title type="plain">1</media:title>
+        <media:description type="plain">Fully automatic cutting, stripping and crimping machines like this one are required for processing ultra-miniature RF cables in high-volume operations. Photo courtesy Schleuniger Inc.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/October/Coax/asb1016coax2.jpg?1475599126" type="image/jpeg" fileSize="83873">
+        <media:title type="plain">2</media:title>
+        <media:description type="plain">Ultra-miniature RF cable assemblies are now common in mobile electronics. These cables connect tiny antennas to the circuit board. Photo courtesy Schleuniger Inc.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/October/Coax/asb1016coax3.jpg?1475599154" type="image/jpeg" fileSize="92118">
+        <media:title type="plain">3</media:title>
+        <media:description type="plain">The rotary stripper on the CoaxCenter 6000 can handle cables ranging from 40 AWG to 5.5 millimeters in diameter. Photo courtesy Schleuniger Inc.
+</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>The ASSEMBLY Show Preview</title>
+      <author>sprovierij@bnpmedia.com (John Sprovieri)</author>
+      <description>
+        <![CDATA[<p>Laser welding is one of the newest technologies for joining thermoplastic parts. This noncontact process has many advantages. It&rsquo;s fast and precise, and it doesn&rsquo;t generate flash or particulates.</p>]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93586</guid>
+      <pubDate>Mon, 03 Oct 2016 15:22:00 -0400</pubDate>
+      <link>http://www.assemblymag.com/articles/93586-the-assembly-show-preview</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Issues/2016/October/tas/asb1016tas3.jpg?1475522661" type="image/jpeg" length="175794"/>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/October/tas/asb1016tas3.jpg?1475522661" type="image/jpeg" fileSize="175794">
+        <media:title type="plain">3</media:title>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/October/tas/asb1016tas1.jpg?1475522757" type="image/jpeg" fileSize="49666">
+        <media:title type="plain">1</media:title>
+        <media:description type="plain">Dukane has introduced a new laser welding system that allows clear-to-clear plastic welding without the need for laser-absorbing additives. Photo courtesy Dukane Corp.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/October/tas/asb1016tas2.jpg?1475522790" type="image/jpeg" fileSize="26367">
+        <media:title type="plain">2</media:title>
+        <media:description type="plain">First-time exhibitor Comau will be displaying a number of new products at The ASSEMBLY Show, including its new Racer series of small six-axis robots. Photo courtesy Comau LLC
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/October/tas/asb1016tas4.jpg?1475522810" type="image/jpeg" fileSize="153420">
+        <media:title type="plain">4</media:title>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/October/tas/asb1016tas10.jpg?1475522851" type="image/jpeg" fileSize="89024">
+        <media:title type="plain">5</media:title>
+        <media:description type="plain">You can order wiener schnitzel and other German standards at The Hofbrauhaus, one of 15 local restaurants providing food for the annual &amp;ldquo;Taste of Rosemont&amp;rdquo; reception, sponsored by ASG, Div. of Jergens. Photo courtesy Hofbrauhaus
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/October/tas/asb1016tas11.jpg?1475522886" type="image/jpeg" fileSize="139257">
+        <media:title type="plain">6</media:title>
+        <media:description type="plain">A panel discussion on Thursday, Oct. 27, will consider what manufacturers can do to recruit, retain and promote women in their organizations. Photo courtesy Women Can Build
+</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>Victor Scheinman, Inventor of Assembly Line Robot, Dies at 73</title>
+      <description>
+        <![CDATA[<p>PETROLIA, CA&mdash;Victor Scheinman, the Stanford engineering professor whose electrically powered, computer-controlled robot would become the Programmable Universal Machine for Assembly (PUMA) robot, has died at age 73.</p>
+]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93568</guid>
+      <pubDate>Fri, 23 Sep 2016 00:00:00 -0400</pubDate>
+      <link>http://www.assemblymag.com/articles/93568-victor-scheinman-inventor-of-assembly-line-robot-dies-at-73</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Default_Images/responsive/ASB_default_latestnews.jpg?1479231322" type="image/jpeg" length="166380"/>
+    </item>
+    <item>
+      <title>BD to Invest $100 Million in Nebraska Assembly Plant</title>
+      <description>
+        <![CDATA[<p>HOLDREGE, NE&mdash;Becton Dickinson &amp; Co. is investing $100 million to expand its assembly plant here to make room for insulin syringe manufacturing.</p>
+]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93567</guid>
+      <pubDate>Fri, 23 Sep 2016 00:00:00 -0400</pubDate>
+      <link>http://www.assemblymag.com/articles/93567-bd-to-invest-100-million-in-nebraska-assembly-plant</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Default_Images/responsive/ASB_default_latestnews.jpg?1479231322" type="image/jpeg" length="166380"/>
+    </item>
+    <item>
+      <title>Innovative Conveyors Maximize Use of Space</title>
+      <description>
+        <![CDATA[<p>
+	Walk into any modern assembly and packaging facility, and the conveyor systems may very well resemble roller coasters at an amusement park&mdash;going up steep inclines, moving down drops, and twisting and turning around equipment and machinery as they transfer product from one area of the plant to another.</p>]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93561</guid>
+      <pubDate>Thu, 08 Sep 2016 00:00:00 -0400</pubDate>
+      <link>http://www.assemblymag.com/articles/93561-innovative-conveyors-maximize-use-of-space</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Issues/2016/september/conveyors/asb0916conveyor1.jpg?1473361385" type="image/jpeg" length="34674"/>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/september/conveyors/asb0916conveyor1.jpg?1473361385" type="image/jpeg" fileSize="34674">
+        <media:title type="plain">1</media:title>
+        <media:description type="plain">
+	Z-frame conveyors are designed with one or two pivot points to move product up or down to the next process. Photo courtesy Dorner Manufacturing Corp.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/september/conveyors/asb0916conveyor2.jpg?1473361466" type="image/jpeg" fileSize="76587">
+        <media:title type="plain">2</media:title>
+        <media:description type="plain">
+	A belt-over-belt conveyor holds products in place between two flexible belts that move together at the same speed. Photo courtesy Dorner Manufacturing Corp.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/september/conveyors/asb0916conveyor3.jpg?1473361482" type="image/jpeg" fileSize="47293">
+        <media:title type="plain">3</media:title>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/september/conveyors/asb0916conveyor4.jpg?1473361517" type="image/jpeg" fileSize="80488">
+        <media:title type="plain">4</media:title>
+        <media:description type="plain">
+	Flexible chain conveyors are ideal when floor space is cramped. They are engineered for tight turns and quick elevations at high speeds. Photo courtesy Dorner Manufacturing Corp.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/september/conveyors/asb0916conveyor5.jpg?1473361544" type="image/jpeg" fileSize="47862">
+        <media:title type="plain">5</media:title>
+        <media:description type="plain">
+	Pacing conveyors are for applications that call for proper spacing of product along a single track. Photo courtesy Dorner Manufacturing Corp.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/september/conveyors/asb0916conveyor6.jpg?1473361563" type="image/jpeg" fileSize="47738">
+        <media:title type="plain">6</media:title>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/september/conveyors/asb0916conveyor7.jpg?1473361603" type="image/jpeg" fileSize="92209">
+        <media:title type="plain">7</media:title>
+        <media:description type="plain">
+	Conveyors can also save space by doing double duty. This low-profile belt conveyor is back-lit to facilitate machine-vision inspection. Photo courtesy Dorner Manufacturing Corp.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/september/conveyors/asb0916conveyor8.jpg?1473361631" type="image/jpeg" fileSize="99123">
+        <media:title type="plain">8</media:title>
+        <media:description type="plain">
+	The 2200 Series Precision Move system is a modular, dual-belt, pallettransfer conveyor for automated assembly. Photo courtesy Dorner Manufacturing Corp.
+</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>Bullet-Proof Automated Assembly</title>
+      <author>webera@bnpmedia.com (Austin Weber)</author>
+      <description>
+        <![CDATA[<p>
+	Multistation automated assembly systems are a wonder to behold. A well-designed system can mass-produce hundreds of assemblies per minute with minimal human intervention.</p>]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93557</guid>
+      <pubDate>Thu, 08 Sep 2016 00:00:00 -0400</pubDate>
+      <link>http://www.assemblymag.com/articles/93557-bullet-proof-automated-assembly</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Issues/2016/september/automated/asb0916automation_dial_2.jpg?1473357909" type="image/jpeg" length="96953"/>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/september/automated/asb0916automation_dial_2.jpg?1473357909" type="image/jpeg" fileSize="96953">
+        <media:title type="plain">1</media:title>
+        <media:description type="plain">
+	Several factors can influence the overall design of a multistation automated assembly system, such as production volume and model mix. Photo courtesy Orbitform Group LLC
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/september/automated/asb0916automation_xy_1.jpg?1473358081" type="image/jpeg" fileSize="112457">
+        <media:title type="plain">2</media:title>
+        <media:description type="plain">
+	The goal of automation is to have a machine run with minimum downtime and little or no operator interaction. Photo courtesy Orbitform Group LLC
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/september/automated/asb0916automation2.jpg?1473358110" type="image/jpeg" fileSize="173600">
+        <media:title type="plain">3</media:title>
+        <media:description type="plain">
+	Without actual parts, it&amp;rsquo;s difficult to design high-speed assembly systems. Photo courtesy Performance Feeders Inc.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/september/automated/asb0916automation4.jpg?1473358140" type="image/jpeg" fileSize="165461">
+        <media:title type="plain">4</media:title>
+        <media:description type="plain">
+	Parts feeding plays a critical role in the long-term success of multistation automated assembly systems. Photo courtesy RNA Automation Ltd.
+</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>Vision Systems Cure Research Companyâs Inflexibility Problem</title>
+      <author>camilloj@bnpmedia.com (Jim Camillo)</author>
+      <description>
+        <![CDATA[<p>
+	In every manufacturing industry, tradition is becoming less important. Companies no longer assume that what worked in the past will be enough to keep and gain customers. Instead, they look to the latest technology to improve manufacturing processes, optimize product quality and expand their customer base.</p>
+]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93554</guid>
+      <pubDate>Thu, 08 Sep 2016 00:00:00 -0400</pubDate>
+      <link>http://www.assemblymag.com/articles/93554-vision-systems-cure-research-companys-inflexibility-problem</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Issues/2016/september/AIA/asb0916AIA9.jpg?1473348682" type="image/jpeg" length="156304"/>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/september/AIA/asb0916AIA9.jpg?1473348682" type="image/jpeg" fileSize="156304">
+        <media:title type="plain">9</media:title>
+        <media:description type="plain">
+	The AseptiCell features Staubli TX-60 HE robots (with mounted In-Sight Micro 1100 vision systems) that aseptically finish and fill ready-to-use vials, syringes and IV bags. Photo courtesy Cognex Corp.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/september/AIA/asb0916AIA10.jpg?1473348773" type="image/jpeg" fileSize="103680">
+        <media:title type="plain">10</media:title>
+        <media:description type="plain">
+	Compact and lightweight, the In-Sight Micro 1100 vision system comes equipped with preconfigured drivers and sample code to communicate with most robots. Photo courtesy Cognex Corp.
+</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>Systems Integrator ATC Automation to Expand, Add Jobs</title>
+      <description>
+        <![CDATA[<p>
+	COOKEVILLE, TN&mdash;Systems integrator ATC Automation is investing $10.4 million to expand its operation here and create 110 new jobs during the next five years.</p>
+]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93526</guid>
+      <pubDate>Thu, 25 Aug 2016 00:00:00 -0400</pubDate>
+      <link>http://www.assemblymag.com/articles/93526-systems-integrator-atc-automation-to-expand-add-jobs</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Default_Images/responsive/ASB_default_latestnews.jpg?1479231322" type="image/jpeg" length="166380"/>
+    </item>
+    <item>
+      <title>Adidas to Open US Highly Automated Shoe Factory in US</title>
+      <description>
+        <![CDATA[<p>
+	ATLANTA&mdash;Adidas will be opening a factory in Atlanta in 2017 where shoes will be produced entirely by robots. In a press release, the company outlined how the factory, dubbed the Speedfactory, will allow the company to manufacture shoes faster while bringing production closer to U.S. consumers.</p>]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93520</guid>
+      <pubDate>Mon, 15 Aug 2016 00:00:00 -0400</pubDate>
+      <link>http://www.assemblymag.com/articles/93520-adidas-to-open-us-highly-automated-shoe-factory-in-us</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Default_Images/responsive/ASB_default_latestnews.jpg?1479231322" type="image/jpeg" length="166380"/>
+    </item>
+    <item>
+      <title>Collaborative Robots Aid Workers at Ford Assembly Plant</title>
+      <description>
+        <![CDATA[<p>
+	COLOGNE, Germany&mdash;Workers at Ford&rsquo;s assembly plant here are working hand-in-hand with collaborative robots to fit shock absorbers to cars.</p>
+]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93491</guid>
+      <pubDate>Fri, 15 Jul 2016 00:00:00 -0400</pubDate>
+      <link>http://www.assemblymag.com/articles/93491-collaborative-robots-aid-workers-at-ford-assembly-plant</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/LatestHeadlines/headlines900/cobots-900.jpg?1468624464" type="image/jpeg" length="361013"/>
+    </item>
+    <item>
+      <title>Robot History Mystery</title>
+      <author>webera@bnpmedia.com (Austin Weber)</author>
+      <description>
+        <![CDATA[<p>
+	Should another company other than GM be credited with the first successful robotic application? Why did Pullman invest in Unimation? When was the first Unimate robot first installed at GM?</p>
+]]>
+      </description>
+      <guid>http://www.assemblymag.com/blogs/14/post/93487</guid>
+      <pubDate>Thu, 07 Jul 2016 01:46:00 -0400</pubDate>
+      <link>http://www.assemblymag.com/blogs/14-assembly-blog/post/93487-robot-history-mystery</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Default_Images/asb-blog-graphic.jpg?1463775399" type="image/jpeg" length="28582"/>
+    </item>
+    <item>
+      <title>Automated system assembles stepper motors for Tier 1 supplier</title>
+      <author>sprovierij@bnpmedia.com (John Sprovieri)</author>
+      <description>
+        <![CDATA[<p>
+	Today&rsquo;s automobiles contain dozens of electric motors. They adjust the mirrors, position the seats, aim the headlights, provide heating and cooling, and raise and lower the windows. In fact, a luxury car might have as many as 120 electric motors of various sizes.</p>
+]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93463</guid>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 -0400</pubDate>
+      <link>http://www.assemblymag.com/articles/93463-automated-system-assembles-stepper-motors-for-tier-1-supplier</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Issues/2016/July/profile/asb0716prof1.jpg?1467038952" type="image/jpeg" length="163025"/>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/July/profile/asb0716prof1.jpg?1467038952" type="image/jpeg" fileSize="163025">
+        <media:title type="plain">1</media:title>
+        <media:description type="plain">
+	Lionel Rochat, project manager at Mikron, demonstrates the operation of the G05 assembly cell at the Sonceboz assembly plant. Photo courtesy Mikron Automation
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/July/profile/asb0716prof2.jpg?1467039024" type="image/jpeg" fileSize="101063">
+        <media:title type="plain">2</media:title>
+        <media:description type="plain">
+	Sonceboz produces more than 70,000 stepper motors a day on this high-speed, multistation automated assembly line. Illustration courtesy Mikron Automation
+</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>Foxconn VP Wins Robotics Award</title>
+      <description>
+        <![CDATA[<p>
+	ANN ARBOR, MI&mdash;Foxconn vice president Chia Day has won 2016 Engelberger Robotics Award for automating electronics assembly at the contract manufacturer&rsquo;s electronics factories in China.</p>
+]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93458</guid>
+      <pubDate>Thu, 23 Jun 2016 00:00:00 -0400</pubDate>
+      <link>http://www.assemblymag.com/articles/93458-foxconn-vp-wins-robotics-award</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Default_Images/responsive/ASB_default_latestnews.jpg?1479231322" type="image/jpeg" length="166380"/>
+    </item>
+    <item>
+      <title>Boeing Adds Automation to 737 Assembly Line</title>
+      <description>
+        <![CDATA[<p>
+	RENTON, WA&mdash;Boeing has added a new robotic system to its 737 factory here to automate the process of drilling holes and installing bolts in wing spars.</p>
+]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93456</guid>
+      <pubDate>Wed, 22 Jun 2016 00:00:00 -0400</pubDate>
+      <link>http://www.assemblymag.com/articles/93456-boeing-adds-automation-to-737-assembly-line</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/LatestHeadlines/headlines900/boeing-900.jpg?1429199038" type="image/jpeg" length="626100"/>
+    </item>
+    <item>
+      <title>Global Robot Sales Set Record in 2015</title>
+      <description>
+        <![CDATA[<p>
+	MUNICH&mdash;Some 248,000 industrial robots were purchased worldwide in 2015, a record high and a 12 percent increase from 2014. Global sales of robots have increased four-fold since 2009.</p>
+]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93454</guid>
+      <pubDate>Wed, 22 Jun 2016 00:00:00 -0400</pubDate>
+      <link>http://www.assemblymag.com/articles/93454-global-robot-sales-set-record-in-2015</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/LatestHeadlines/headlines900/ABB-welding-robot-900.jpg?1436202959" type="image/jpeg" length="459817"/>
+    </item>
+    <item>
+      <title>Whatâs New With Sensors</title>
+      <author>sprovierij@bnpmedia.com (John Sprovieri)</author>
+      <description>
+        <![CDATA[<p>
+	Whether fully automatic, semiautomatic or manual, almost every assembly system has some type of sensor for inspection, error-proofing or production monitoring. Thanks to new technologies, sensors are becoming smaller, more robust, more accurate and easier to integrate.</p>
+]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93429</guid>
+      <pubDate>Fri, 03 Jun 2016 00:00:00 -0400</pubDate>
+      <link>http://www.assemblymag.com/articles/93429-whats-new-with-sensors</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Issues/2016/June/sensors/asb0616sensor1.jpg?1464966501" type="image/jpeg" length="27616"/>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/June/sensors/asb0616sensor1.jpg?1464966501" type="image/jpeg" fileSize="27616">
+        <media:title type="plain">1</media:title>
+        <media:description type="plain">
+	The Sure Cross DXM100 industrial wireless controller facilitates communications for Ethernet connectivity or Industrial Internet of Things (IIoT) applications. Photo courtesy Banner Engineering Corp.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/June/sensors/asb0616sensor2.jpg?1464966565" type="image/jpeg" fileSize="45686">
+        <media:title type="plain">2</media:title>
+        <media:description type="plain">
+	The SBSI series of low-cost vision sensors can be used for code reading and quality inspection. Photo courtesy Festo Corp.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/June/sensors/asb0616sensor4.jpg?1464966598" type="image/jpeg" fileSize="49385">
+        <media:title type="plain">3</media:title>
+        <media:description type="plain">
+	AlphaProx inductive sensors have a long sensing range of 3 or 6 millimeters, which keeps them out of harm&amp;rsquo;s way. Photo courtesy Baumer Ltd.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/June/sensors/asb0616sensor5.jpg?1464966630" type="image/jpeg" fileSize="29264">
+        <media:title type="plain">4</media:title>
+        <media:description type="plain">
+	DK50-UV luminescence sensors can detect fluorescent chalk marks, clear glue, tamperproof seals and other things that regular contrast sensors cannot, even on irregular backgrounds. Photo courtesy Pepperl+Fuchs
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/June/sensors/asb0616sensor7.jpg?1464966663" type="image/jpeg" fileSize="69468">
+        <media:title type="plain">6</media:title>
+        <media:description type="plain">
+	This laser displacement sensor measures the thickness of silicon wafers to ensure that a handling robot doesn&amp;rsquo;t accidentally pick up two at a time. Photo courtesy Keyence Corp. of America
+</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>Happy Birthday, GM Lordstown!</title>
+      <author>webera@bnpmedia.com (Austin Weber)</author>
+      <description>
+        <![CDATA[<p>
+	Today, GM&#39;s Lordstown assembly plant is celebrating its 50th anniversary. Although the facility appears to have a bright future, it also has a checkered past.</p>]]>
+      </description>
+      <guid>http://www.assemblymag.com/blogs/14/post/93405</guid>
+      <pubDate>Fri, 20 May 2016 03:15:00 -0400</pubDate>
+      <link>http://www.assemblymag.com/blogs/14-assembly-blog/post/93405-happy-birthday-gm-lordstown</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Default_Images/asb-blog-graphic.jpg?1463775399" type="image/jpeg" length="28582"/>
+    </item>
+    <item>
+      <title>Assembling Wearable Electronics</title>
+      <description>
+        <![CDATA[<p>
+	Wearable electronics initially trickled into the market with Dick Tracy-inspired watches and healthcare bracelets. They quickly gained momentum, however, and it wasn&rsquo;t long before the wearables market exploded.</p>
+]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93391</guid>
+      <pubDate>Thu, 05 May 2016 00:00:00 -0400</pubDate>
+      <link>http://www.assemblymag.com/articles/93391-assembling-wearable-electronics</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Issues/2016/May/wearables/asb0516wear1.jpg?1462473981" type="image/jpeg" length="62975"/>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/May/wearables/asb0516wear1.jpg?1462473981" type="image/jpeg" fileSize="62975">
+        <media:title type="plain">1</media:title>
+        <media:description type="plain">
+	Wearable PCBs come in a variety of odd shapes to suit an application. Photo courtesy NexLogic Technologies Inc.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/May/wearables/asb0516wear2.jpg?1462474109" type="image/jpeg" fileSize="55667">
+        <media:title type="plain">2</media:title>
+        <media:description type="plain">
+	Wearables can contain a combination of rigid and flex circuitry or flex circuitry alone. Photo courtesy NexLogic Technologies Inc.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/May/wearables/asb0516wear3.jpg?1462474138" type="image/jpeg" fileSize="102294">
+        <media:title type="plain">3</media:title>
+        <media:description type="plain">
+	Micro BGAs are attached to a flex circuit for a medical electronics application. These tiny components can house complex circuitry, such as system-on-a chip technology. Photo courtesy NexLogic Technologies Inc.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/May/wearables/asb0516wear4.jpg?1462474167" type="image/jpeg" fileSize="120385">
+        <media:title type="plain">4</media:title>
+        <media:description type="plain">
+	Wearable PCBs can be assembled with standard pick-and-place equipment, but special fixturing is required. Photo courtesy NexLogic Technologies Inc.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/May/wearables/asb0516wear5.jpg?1462474198" type="image/jpeg" fileSize="86448">
+        <media:title type="plain">5</media:title>
+        <media:description type="plain">
+	This photo shows the difference between fixtures for conventional PCBs and flexible ones. Photo courtesy NexLogic Technologies Inc.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/May/wearables/asb0516wear7a.jpg?1462474247" type="image/jpeg" fileSize="45141">
+        <media:title type="plain">6</media:title>
+        <media:description type="plain">
+	Smart watches and fitness bracelets have helped usher in a new era of wearable electronic devices. Photos courtesy Sony Corp.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/May/wearables/asb0516wear7b.jpg?1462474285" type="image/jpeg" fileSize="47224">
+        <media:title type="plain">7</media:title>
+        <media:description type="plain">
+	Smart watches and fitness bracelets have helped usher in a new era of wearable electronic devices. Photos courtesy Fitbit Inc.
+</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>A Tier 1 Supplier Implements Flexible Automated Assembly System</title>
+      <description>
+        <![CDATA[<p>
+	Robots and a flexible control system enable a manufacturer of shock absorbers cope with high-mix production.</p>]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93342</guid>
+      <pubDate>Thu, 07 Apr 2016 00:00:00 -0400</pubDate>
+      <link>http://www.assemblymag.com/articles/93342-a-tier-1-supplier-implements-flexible-automated-assembly-system</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Issues/2016/April/siemens/asb0416siemens1.jpg?1460052921" type="image/jpeg" length="168601"/>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/April/siemens/asb0416siemens1.jpg?1460052921" type="image/jpeg" fileSize="168601">
+        <media:title type="plain">siemens 1</media:title>
+        <media:description type="plain">
+	Delta robots and SCARA robots perform various pick-and-place operations on ThyssenKrupp&amp;rsquo;s shock absorber assembly line. Photo courtesy Hahn Automation Inc.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/April/siemens/asb0416siemens2.jpg?1460053007" type="image/jpeg" fileSize="177316">
+        <media:title type="plain">siemens 2</media:title>
+        <media:description type="plain">
+	For each model of shock absorber, an assortment of washers with various profiles and dimensions are stacked on a piston and riveted in place. Photo courtesy Hahn Automation Inc.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/April/siemens/asb0416siemens3.jpg?1460053039" type="image/jpeg" fileSize="180664">
+        <media:title type="plain">siemens 3</media:title>
+        <media:description type="plain">
+	Thanks to the remote-control pendant, the operator is free to move around the cell as needed to monitor and manage the assembly process. Photo courtesy Hahn Automation Inc.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/April/siemens/asb0416siemens4.jpg?1460053059" type="image/jpeg" fileSize="165883">
+        <media:title type="plain">siemens 4</media:title>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/April/siemens/asb0416siemens5.jpg?1460053100" type="image/jpeg" fileSize="151706">
+        <media:title type="plain">siemens 5</media:title>
+        <media:description type="plain">
+	When changeover is required, the master HMI exports the specific model&amp;rsquo;s assembly requirements to each station. Photo courtesy Hahn Automation Inc.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/April/siemens/asb0416siemens6.jpg?1460053118" type="image/jpeg" fileSize="22076">
+        <media:title type="plain">siemens 6</media:title>
+      </media:content>
+    </item>
+  </channel>
+</rss>

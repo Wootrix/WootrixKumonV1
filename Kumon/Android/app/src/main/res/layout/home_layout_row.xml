@@ -1,0 +1,326 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="fill_parent"
+    android:layout_margin="@dimen/margin_5"
+    android:background="@color/white"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:baselineAligned="false">
+
+        <FrameLayout
+            android:id="@+id/home_layout_1st_frmLyt"
+            android:layout_width="0dp"
+            android:layout_height="fill_parent"
+            android:layout_weight="1">
+
+            <ImageView
+                android:id="@+id/home_1st_block_bg_imgVW"
+                style="@style/phone_bg_image_view_style"
+                android:contentDescription="@string/action_settings" />
+
+            <ImageView
+                android:id="@+id/home_1st_block_bg_placeholder_imgVW"
+                style="@style/phone_bg_image_view_style"
+                android:contentDescription="@string/action_settings"
+                android:src="@drawable/black_transparent_01" />
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:gravity="bottom"
+                android:orientation="vertical"
+                android:padding="@dimen/margin_10">
+
+                <TextView
+                    android:id="@+id/home_1st_block_title_txtVw"
+                    style="@style/phone_txtview_header_style" />
+
+                <LinearLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="@dimen/margin_5"
+                    android:layout_marginTop="@dimen/margin_8">
+
+                    <TextView
+                        android:id="@+id/home_1st_block_url_txtVw"
+                        style="@style/phone_txtview_url_style" />
+                </LinearLayout>
+
+                <TextView
+                    android:id="@+id/home_1st_block_desc_txtVw"
+                    style="@style/phone_txtview_desc_style"
+                    android:layout_marginBottom="@dimen/margin_8"
+                    android:maxLines="2" />
+            </LinearLayout>
+
+            <ImageView
+                android:id="@+id/home_1st_block_video_placeholder_imgVW"
+                style="@style/phone_play_image_view_style"
+                android:contentDescription="@string/action_settings" />
+        </FrameLayout>
+
+        <FrameLayout
+            android:id="@+id/home_layout_2nd_frmLyt"
+            android:layout_width="0dp"
+            android:layout_height="fill_parent"
+            android:layout_marginLeft="@dimen/margin_5"
+            android:layout_weight="1">
+
+            <ImageView
+                android:id="@+id/home_2nd_block_bg_imgVW"
+                style="@style/phone_bg_image_view_style"
+                android:contentDescription="@string/action_settings" />
+
+            <ImageView
+                android:id="@+id/home_2nd_block_bg_placeholder_imgVW"
+                style="@style/phone_bg_image_view_style"
+                android:contentDescription="@string/action_settings"
+                android:src="@drawable/black_transparent_02" />
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:orientation="vertical"
+                android:padding="@dimen/margin_10">
+
+                <TextView
+                    android:id="@+id/home_2nd_block_title_txtVw"
+                    style="@style/phone_txtview_header_style" />
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="@dimen/margin_5"
+                    android:layout_marginTop="@dimen/margin_8">
+
+                    <TextView
+                        android:id="@+id/home_2nd_block_url_txtVw"
+                        style="@style/phone_txtview_url_style" />
+                </LinearLayout>
+
+                <TextView
+                    android:id="@+id/home_2nd_block_desc_txtVw"
+                    style="@style/phone_txtview_desc_style"
+                    android:layout_marginBottom="@dimen/margin_8"
+                    android:maxLines="4" />
+            </LinearLayout>
+
+            <ImageView
+                android:id="@+id/home_2nd_block_video_placeholder_imgVW"
+                style="@style/phone_play_image_view_style"
+                android:contentDescription="@string/action_settings" />
+        </FrameLayout>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="0dp"
+        android:layout_marginTop="@dimen/margin_5"
+        android:layout_weight="1"
+        android:baselineAligned="false">
+
+        <FrameLayout
+            android:id="@+id/home_layout_3rd_frmLyt"
+            android:layout_width="0dp"
+            android:layout_height="fill_parent"
+            android:layout_marginRight="@dimen/margin_5"
+            android:layout_weight="1">
+
+            <ImageView
+                android:id="@+id/home_3rd_block_bg_imgVW"
+                style="@style/phone_bg_image_view_style"
+                android:contentDescription="@string/action_settings" />
+
+            <ImageView
+                android:id="@+id/home_3rd_block_bg_placeholder_imgVW"
+                style="@style/phone_bg_image_view_style"
+                android:contentDescription="@string/action_settings"
+                android:src="@drawable/black_transparent_02" />
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:orientation="vertical"
+                android:padding="@dimen/margin_10">
+
+                <TextView
+                    android:id="@+id/home_3rd_block_title_txtVw"
+                    style="@style/phone_txtview_header_style" />
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="@dimen/margin_5"
+                    android:layout_marginTop="@dimen/margin_8">
+
+                    <TextView
+                        android:id="@+id/home_3rd_block_url_txtVw"
+                        style="@style/phone_txtview_url_style" />
+                </LinearLayout>
+
+                <TextView
+                    android:id="@+id/home_3rd_block_desc_txtVw"
+                    style="@style/phone_txtview_desc_style"
+                    android:layout_marginBottom="@dimen/margin_8"
+                    android:maxLines="4" />
+            </LinearLayout>
+
+            <ImageView
+                android:id="@+id/home_3rd_block_video_placeholder_imgVW"
+                style="@style/phone_play_image_view_style"
+                android:contentDescription="@string/action_settings" />
+        </FrameLayout>
+
+        <FrameLayout
+            android:id="@+id/home_layout_advt_frmLyt"
+            android:layout_width="0dp"
+            android:layout_height="fill_parent"
+            android:layout_weight="1">
+
+            <ViewFlipper
+                android:id="@+id/home_layout_row_viewFlipper"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent">
+
+                <ImageView
+                    style="@style/phone_bg_image_view_style"
+                    android:contentDescription="@string/action_settings"
+                    android:src="@drawable/article_layout_placeholder" />
+            </ViewFlipper>
+
+            <TextView
+                android:id="@+id/home_4th_block_adverisement_lbl_txt"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:background="@color/trans_75_bg"
+                android:gravity="right"
+                android:padding="@dimen/margin_8"
+                android:singleLine="true"
+                android:text="@string/lbl_advrtsmnt"
+                android:textColor="@color/white"
+                android:textSize="@dimen/text_size_22" />
+
+            <ImageView
+                android:id="@+id/home_4th_block_video_placeholder_imgVW"
+                style="@style/phone_play_image_view_style"
+                android:contentDescription="@string/action_settings" />
+        </FrameLayout>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="0dp"
+        android:layout_marginTop="@dimen/margin_5"
+        android:layout_weight="1"
+        android:baselineAligned="false">
+
+        <FrameLayout
+            android:id="@+id/home_layout_5th_frmLyt"
+            android:layout_width="0dp"
+            android:layout_height="fill_parent"
+            android:layout_marginRight="@dimen/margin_5"
+            android:layout_weight="1">
+
+            <ImageView
+                android:id="@+id/home_5th_block_bg_imgVW"
+                style="@style/phone_bg_image_view_style"
+                android:contentDescription="@string/action_settings" />
+
+            <ImageView
+                android:id="@+id/home_5th_block_bg_placeholder_imgVW"
+                style="@style/phone_bg_image_view_style"
+                android:contentDescription="@string/action_settings"
+                android:src="@drawable/black_transparent_02" />
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:gravity="bottom"
+                android:orientation="vertical"
+                android:padding="@dimen/margin_10">
+
+                <TextView
+                    android:id="@+id/home_5th_block_title_txtVw"
+                    style="@style/phone_txtview_header_style" />
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="@dimen/margin_8">
+
+                    <TextView
+                        android:id="@+id/home_5th_block_url_txtVw"
+                        style="@style/phone_txtview_url_style" />
+                </LinearLayout>
+
+                <TextView
+                    android:id="@+id/home_5th_block_desc_txtVw"
+                    style="@style/phone_txtview_desc_style"
+                    android:layout_marginBottom="@dimen/margin_8"
+                    android:maxLines="2" />
+            </LinearLayout>
+
+            <ImageView
+                android:id="@+id/home_5th_block_video_placeholder_imgVW"
+                style="@style/phone_play_image_view_style"
+                android:contentDescription="@string/action_settings" />
+        </FrameLayout>
+
+        <FrameLayout
+            android:id="@+id/home_layout_6th_frmLyt"
+            android:layout_width="0dp"
+            android:layout_height="fill_parent"
+            android:layout_weight="1">
+
+            <ImageView
+                android:id="@+id/home_6th_block_bg_imgVW"
+                style="@style/phone_bg_image_view_style"
+                android:contentDescription="@string/action_settings" />
+
+            <ImageView
+                android:id="@+id/home_6th_block_bg_placeholder_imgVW"
+                style="@style/phone_bg_image_view_style"
+                android:contentDescription="@string/action_settings"
+                android:src="@drawable/black_transparent_02" />
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:gravity="bottom"
+                android:orientation="vertical"
+                android:padding="@dimen/margin_10">
+
+                <TextView
+                    android:id="@+id/home_6th_block_title_txtVw"
+                    style="@style/phone_txtview_header_style" />
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="@dimen/margin_8">
+
+                    <TextView
+                        android:id="@+id/home_6th_block_url_txtVw"
+                        style="@style/phone_txtview_url_style" />
+                </LinearLayout>
+
+                <TextView
+                    android:id="@+id/home_6th_block_desc_txtVw"
+                    style="@style/phone_txtview_desc_style"
+                    android:layout_marginBottom="@dimen/margin_8"
+                    android:maxLines="2" />
+            </LinearLayout>
+
+            <ImageView
+                android:id="@+id/home_6th_block_video_placeholder_imgVW"
+                style="@style/phone_play_image_view_style"
+                android:contentDescription="@string/action_settings" />
+        </FrameLayout>
+    </LinearLayout>
+
+</LinearLayout>

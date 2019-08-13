@@ -1,0 +1,930 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" media="screen" href="/~d/styles/rss2full.xsl"?><?xml-stylesheet type="text/css" media="screen" href="http://feeds.feedburner.com/~d/styles/itemcontent.css"?><rss xmlns:a10="http://www.w3.org/2005/Atom" xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" version="2.0">
+    <channel xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
+        <title>Resources for value stream mapping</title>
+        <link>http://reliableplant.com/Meta/Tags/value%20stream%20mapping</link>
+        <description>All articles for value stream mapping</description>
+        <language>en-us</language>
+        <copyright>Copyright 0000-2016 Noria Corporation - All Rights Reserved</copyright>
+        <lastBuildDate>Wed, 01 Feb 2012 08:38:35 -0600</lastBuildDate>
+        <generator>Noria Core</generator>
+        <a10:id>http://reliableplant.com/Meta/Tags/value%20stream%20mapping</a10:id>
+        
+        <a10:link rel="search" type="application/opensearchdescription+xml" title="Content Search" href="http://reliableplant.com/osd.xml" />
+        <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://feeds.feedburner.com/noria/reliableplant/tags/value_stream_mapping" /><feedburner:info uri="noria/reliableplant/tags/value_stream_mapping" /><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/" /><item>
+            <guid isPermaLink="false">tag:noria.com,2010-06-10:publishing:magazines:rp:997ed5ed-26fb-4a65-9876-9fea008e7305</guid>
+            <link>http://feedproxy.google.com/~r/noria/reliableplant/tags/value_stream_mapping/~3/7mc6hMx1Fy0/performance-based-metrics</link>
+            <a10:author>
+                <a10:name>Josh Rothenberg</a10:name>
+            </a10:author>
+            <category>Web Exclusives</category>
+            <category>Articles</category>
+            <title>How to Use Key Performance-based Metrics </title>
+            <description>&lt;p&gt;
+	In today&amp;rsquo;s competitive global environment, we are constantly being asked to do more with less. Now more than ever, companies are asking their employees to become more productive, more efficient and more &amp;ldquo;lean.&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;
+	Strategic planning, value stream mapping, reliability engineering, loss elimination &amp;ndash; these phrases have become popular from the boardroom to the shop floor. But where does their value really lie? How do we make decisions that uncover value, eliminate loss and allow for proper strategic planning for the future?&lt;/p&gt;
+&lt;p&gt;
+	The answer lies not in the decisions we make but in the data we use to make those decisions. Good, strong data is key to making good, strong decisions. We are all familiar with the axiom of &amp;ldquo;garbage in, garbage out.&amp;rdquo; So what kind of data should we use? What metrics give us the best snapshot of our current levels of performance?&lt;/p&gt;
+&lt;p&gt;
+	Asset utilization (AU) and overall equipment effectiveness (OEE) are key performance-based metrics that, when calculated and communicated properly, allow for effective facility management and provide sound backing for potentially difficult business decisions to be made. However, much confusion lies in their definition and understanding when and where to use them.&lt;/p&gt;
+&lt;p&gt;
+	AU is defined as: availability x rate x quality&lt;br /&gt;
+	OEE is defined as: uptime x rate x quality&lt;br /&gt;
+	As you can see, AU and OEE are similar &amp;ndash; both calculations for rate and quality are the same, and are defined as follows:&lt;br /&gt;
+	&lt;br /&gt;
+	&amp;nbsp;&lt;img alt="" src="http://media.noria.com/sites/Uploads/2012/1/23/9427c4a5-6466-4d8e-a2bf-7bef27e61365_AU and OEE image 1.jpeg" style="width: 550px; height: 96px;" /&gt;&lt;/p&gt;
+&lt;p&gt;
+	&lt;em&gt;where average rate is the speed or efficiency of the system under analysis over a given time period.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;
+	The best demonstrated or design rate is determined by the nameplate capacity of the system or the best demonstrated rate recorded. I prefer to use the best demonstrated rate, as empirical data is a better model of the system in question. A 100-percent rate calculation would signal that the system is operating consistently at its maximum demonstrated speed.&lt;/p&gt;
+&lt;p&gt;
+	&lt;img alt="" src="http://media.noria.com/sites/Uploads/2012/1/23/fc289d33-e998-459c-bcc8-01dc1ae596a1_AU and OEE image 2.jpeg" style="width: 550px; height: 96px;" /&gt;&lt;/p&gt;
+&lt;p&gt;
+	&lt;em&gt;where first pass units is defined as the good units produced over a certain time period that meet customer specifications.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;
+	These &amp;ldquo;quality&amp;rdquo; units are compared to the total units produced, including those that do not meet customer specifications. A 100-percent quality calculation would signify no scrap or rework in the process.&lt;/p&gt;
+&lt;p&gt;
+	Based on the above formulas, you can easily see that the difference between OEE and AU lies in how you compare availability and uptime. So what is the difference? Availability and uptime are defined as follows:&lt;img alt="" src="http://media.noria.com/sites/Uploads/2012/1/23/dc027bfb-15b2-4a86-be25-4ee59bf4f14d_AU and OEE image 3.jpeg" style="width: 550px; height: 151px;" /&gt;&lt;/p&gt;
+&lt;p&gt;
+	&lt;em&gt;where operating time is defined as the amount of time that the system is actually operating.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;
+	Calendar time is based on the 24/7/365 schedule as we know it. Scheduled time is defined as the amount of time the system under analysis was planned or scheduled to operate. Therefore, if I operate my system for six hours on one eight-hour shift during a given day, my uptime is 6/8 or 75 percent, while my availability is 6/24 or 25 percent. That is quite a difference.&lt;/p&gt;
+&lt;p&gt;
+	Typically, OEE is used to understand how well systems or assets perform based on current business demands and production schedules. AU allows for a better understanding of how well that system or asset is currently utilized and allows insight for future business planning by calculating what type of production could be achieved.&lt;/p&gt;
+&lt;p&gt;
+	In some industries (petroleum, specialty chemical, etc.), scheduled time is equal to calendar time. In this case, availability equals uptime, so OEE and AU are equal. This scenario is similar to how a square is a rectangle, but a rectangle isn&amp;rsquo;t a square.&lt;/p&gt;
+&lt;p&gt;
+	It is important to understand the terminology. My background in Six Sigma differentiated between availability and uptime for AU and OEE, respectively. Lean terminology defines OEE as the product of availability x rate x quality, with availability defined in the same way uptime is defined (above). So which is correct? The truth is it doesn&amp;rsquo;t matter. What is important is to clearly define what you and your organization are trying to capture, agree on common terminology to allow for clear and concise discussion, and determine the best way to capture the needed data.&lt;/p&gt;
+&lt;p&gt;
+	As always, the devil is in the details. When setting up data-capture systems to determine rate and quality and uptime/availability calculations, take care to ensure consistent measurement and data validity.&lt;/p&gt;
+&lt;p&gt;
+	In summary, AU and OEE can be defined as:&lt;/p&gt;
+&lt;p&gt;
+	&lt;img alt="" src="http://media.noria.com/sites/Uploads/2012/1/23/fc89fb18-130d-406f-a0c2-695af5b34c6e_AU and OEE image 4.jpeg" style="width: 646px; height: 237px;" /&gt;&lt;/p&gt;
+&lt;p&gt;
+	&lt;strong&gt;&lt;u&gt;About the Author&lt;/u&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;
+	&lt;em&gt;A Life Cycle Engineering reliability subject matter expert (SME) and a skilled Six Sigma Black Belt, Josh Rothenberg utilizes the tools learned in the tire manufacturing, specialty chemical and semi-conductor industries to help facilitate change. With experience in CMMS, fixed/rotating equipment, logistics, planning/scheduling and a talent for fostering interpersonal relationships, Josh brings a unique perspective to reliability-centered maintenance that fosters the growth and development of cross-functional teams. You can reach Josh at &lt;/em&gt;&lt;a href="mailto:jrothenberg@lce.com"&gt;&lt;strong&gt;&lt;em&gt;jrothenberg@LCE.com&lt;/em&gt;&lt;/strong&gt;&lt;/a&gt;&lt;em&gt;. &lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;
+	&lt;br /&gt;
+	&lt;br /&gt;
+	&lt;br /&gt;
+	&lt;br /&gt;
+	&amp;nbsp;&lt;/p&gt;&lt;img src="http://feeds.feedburner.com/~r/noria/reliableplant/tags/value_stream_mapping/~4/7mc6hMx1Fy0" height="1" width="1" alt=""/&gt;</description>
+            <a10:updated>2012-02-01T08:38:35-06:00</a10:updated>
+            <a10:content type="text/html" src="http://reliableplant.com/Read/28729/performance-based-metrics" />
+        <feedburner:origLink>http://reliableplant.com/Read/28729/performance-based-metrics</feedburner:origLink></item>
+        <item>
+            <guid isPermaLink="false">tag:noria.com,2010-06-10:publishing:magazines:rp:01625e99-ef5c-4d20-b8be-9f6c009fd460</guid>
+            <link>http://feedproxy.google.com/~r/noria/reliableplant/tags/value_stream_mapping/~3/HJ-7p8785l4/risk-based-asset-management</link>
+            <a10:author>
+                <a10:name>Mike Poland</a10:name>
+            </a10:author>
+            <category>Web Exclusives</category>
+            <category>Articles</category>
+            <title>The Value of Risk-based Asset Management</title>
+            <description>&lt;p&gt;
+	With the forming of ISO Technical Committee 251, it&amp;rsquo;s clear that asset management will soon have a standard. Now is the time to educate ourselves about the value that optimized asset management creates. Based on the release of ISO 9001, Quality Management Systems &amp;ndash; Requirements, there is a valid expectation of hype, confusion and a large outpouring of funds as companies work to achieve compliance. Luckily, like quality management, asset management is about identifying, mitigating and eliminating risk.&lt;/p&gt;
+&lt;p&gt;
+	Formalizing, documenting and validating our asset management plan seem like a significant undertaking. Since the planning committee is using BSI PAS 55 as a starting place, it is likely that the core of the specification will remain valid. Part 2 of this specification provides the guidelines for application and also includes seven items that can be reviewed by an organization to see how they compare to the key 28 elements of part 1. Using LCE&amp;rsquo;s Reliability Excellence methodology, along with best practices in risk-based asset management, we have developed a self-assessment tool that you can use to evaluate the maturity of your asset management in preparation for the ISO standard.&lt;/p&gt;
+&lt;p&gt;
+	The plan, do, check, act cycle shown in Figure 1 is the foundation of continuous improvement and is also the foundation of an optimized asset management system. Developing a management plan that accounts for risk, and therefore cost, brings a significant advantage to the bottom line. Asset management is a basic corporate responsibility, and yet no real standards will exist until sometime between 2012 and 2013.&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;
+	&lt;img alt="" src="http://media.noria.com/sites/Uploads/2011/9/28/e05d7c8b-a7d7-485d-9ef8-9d86c7b11c8f_figure 1.jpeg" style="margin: 7px 0px; width: 642px; height: 427px; float: left;" /&gt;Figure 1. The Plan, Do, Check, Act Cycle&lt;/p&gt;
+&lt;p&gt;
+	It is certain that the new standard will illustrate the importance of transaction-level business processes, such as production and maintenance planning and scheduling. It will also require clearly communicated performance monitoring to maximize corporate resources and profitability. Typically, corporate objectives, business processes and information systems are not well integrated. This tends to hide some of our limiting factors and risks, and prevents us from optimizing our asset performance.&lt;/p&gt;
+&lt;p&gt;
+	Consider the risk associated with drilling in the Gulf of Mexico and the complexity of the asset deemed to prevent blowouts below. The report referenced in Figure 2 stated that the investigation team found indication of potential weaknesses in the testing regime and maintenance management system for the blowout preventer.&lt;/p&gt;
+&lt;p&gt;
+	&lt;img alt="" src="http://media.noria.com/sites/Uploads/2011/9/28/e40dce51-bda8-44ec-9ba8-64ef7b926017_Figure 2.jpeg" style="margin: 7px 0px; width: 642px; height: 493px; float: left;" /&gt;&lt;/p&gt;
+&lt;p align="center"&gt;
+	Figure 2. Illustration from the Deepwater Horizon Investigation Report&lt;/p&gt;
+&lt;p&gt;
+	These findings emphasize the value in an optimized asset management system and the importance of risk management as a significant component of that system. To identify gaps that could compromise an asset management strategy, the PAS 55 specification includes seven review areas:&lt;/p&gt;
+&lt;ul&gt;
+	&lt;li&gt;
+		Organizational strategic plan&lt;/li&gt;
+	&lt;li&gt;
+		Legal, regulatory and mandatory requirements&lt;/li&gt;
+	&lt;li&gt;
+		Identification and evaluation of asset management risks&lt;/li&gt;
+	&lt;li&gt;
+		Existing asset management practices, processes, and procedures&lt;/li&gt;
+	&lt;li&gt;
+		Asset and asset system performance&lt;/li&gt;
+	&lt;li&gt;
+		Investigation of incidents, accidents and emergencies&lt;/li&gt;
+	&lt;li&gt;
+		Management systems, competencies, internal and external resources&amp;nbsp;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;
+	&lt;strong&gt;Risk-based Asset Management Model&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;
+	Considering the huge impact to the environment along with the health, safety and reputation of the companies involved, a risk-based asset management strategy that provides transparency to risk is essential for an organization&amp;rsquo;s survival. This is impossible without a formalized asset management system in place. The four phases in LCE&amp;rsquo;s risk-based asset management model, Figure 3, is necessary for risk management and creating operational stability.&lt;/p&gt;
+&lt;p&gt;
+	&lt;img alt="" src="http://media.noria.com/sites/Uploads/2011/9/28/e179c020-420f-4346-b1fe-8b4f87d42d59_Figure 3.jpeg" style="margin: 7px; width: 647px; height: 227px; float: left;" /&gt;&lt;/p&gt;
+&lt;p align="center"&gt;
+	Figure 3. LCE&amp;rsquo;s Risk-based Asset Management Model&lt;/p&gt;
+&lt;h2&gt;
+	&lt;strong&gt;Classify&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;
+	&amp;nbsp;Once we understand the strategic plan and corporate objectives and how our asset management system supports them, we must classify our assets. This requires us to have an understanding of the logical flow and how value is created through the systems, processes, lines, etc.&lt;/p&gt;
+&lt;p&gt;
+	Value stream mapping, Figure 4, documents the material and information flow from inception to disposition of product. The map captures each step of the process with defined parameters used to trend performance. Value stream mapping helps us understand where the value lies in a sequential process flow. It is the first step in waste elimination and provides two features required for developing our risk-based asset management strategy: the performance measures at each process and the logical approach to hierarchy. Whether we use value stream mapping, process flow charting or some other lean or industrial engineering tool, the idea here is that we clearly define each process in a logical manner that has a set of design specifications that we can use to identify trends. Once we accomplish this we can develop a logical sequence to catalog our assets.&lt;/p&gt;
+&lt;p&gt;
+	&lt;img alt="" src="http://media.noria.com/sites/Uploads/2011/9/28/aeb0ed65-1fa8-4c3b-8173-14671f983090_Figure 4.jpeg" style="margin: 7px; width: 647px; height: 280px; float: left;" /&gt;&lt;/p&gt;
+&lt;p align="center"&gt;
+	Figure 4. Example of a Value Stream Map&lt;/p&gt;
+&lt;p&gt;
+	&amp;nbsp;Once we have a documented diagram to refer to, we can then catalog assets by assigning them to asset types. Asset types allow logical groupings of like assets, similar functional failures and control strategies. At this point we must choose a model to map the relationship between the assets. The most common model is hierarchy, which is a parent-child relationship like in a refinery. Next is a matrix model, which has significant interfaces between the assets such that a parent-child relationship cannot be considered, like in distillation. The third model is the network model used for linear assets such as pipelines and railways.&lt;/p&gt;
+&lt;p&gt;
+	&lt;img alt="" src="http://media.noria.com/sites/Uploads/2011/9/28/94f2fa47-c049-4d50-967e-b4ce808158dc_Figure 5.jpeg" style="margin: 7px; width: 508px; height: 199px;" /&gt;&lt;/p&gt;
+&lt;p align="center"&gt;
+	Figure 5. Asset Relationship Models&lt;/p&gt;
+&lt;h2&gt;
+	&lt;strong&gt;Analyze&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;
+	Once we have cataloged our assets, we then focus on developing the methodology for applying a criticality analysis to our assets. This should involve a cross-functional team of stakeholders in the value stream. The benefit of the value stream mapping and defined taxonomy will quickly be realized during this process.&lt;/p&gt;
+&lt;p&gt;
+	When developing our method for applying criticality, Figure 6, it may be wise to first look at the system level (routinely considered level 5). This will then allow us to prioritize the systems to apply a more thorough analysis to the component or asset level (level 7). This analysis should consider impact to corporate objectives, replacement asset value, impact to value stream, impact on reputation, single point failure and impact on EHS regulations and requirements.&lt;/p&gt;
+&lt;p&gt;
+	The overarching principle regarding equipment criticality analysis is that it aligns with corporate objectives and is accepted as the method to assign priority. A strategy must be selected to establish a criticality scale. The best practice in establishing this scale is to have both a qualitative and quantitative dimension to leverage both the experience of seasoned professionals and that of published standards and specifications for our industry. This allows qualitative assessments to be validated by quantitative industry data.From here, characteristics of the criticality scales can be determined. Each characteristic should then be weighted using a scale from 0 to 10 to identify significance to the business. The greater the scale, the easier it will be to accurately identify &amp;ldquo;critical&amp;rdquo; assets. However, the total score possible should not exceed 100. By setting a limit of 100, you are reinforcing the &amp;ldquo;weight&amp;rdquo; of each characteristic.&lt;/p&gt;
+&lt;p&gt;
+	&lt;img alt="" src="http://media.noria.com/sites/Uploads/2011/9/28/d245cfd5-1011-4943-877c-50753a2691cd_Figure 6.jpeg" style="margin: 7px 0px; width: 647px; height: 286px; float: left;" /&gt;&lt;/p&gt;
+&lt;p align="center" style="margin-left: -22.5pt;"&gt;
+	Figure 6. Criticality Analysis Data Table&lt;/p&gt;
+&lt;p&gt;
+	Establishing an equipment criticality will allow us to determine the priority to which risk ranking can be applied. A risk table or some other risk analysis method can be used to then perform risk analysis. The quantitative risk assessment and the risk assessment matrix are two widely accepted methods.&lt;/p&gt;
+&lt;p&gt;
+	The quantitative risk assessmentuses failure rate data to develop meantime between failure probabilities for specific asset types or classes. There are software companies that will sell you accelerators or tables for generic asset types, much like those tables used by companies that sell life insurance. But just as in dealing with health, the data does not directly correlate to a specific facility or industry, nor does it take into account the specific operational envelope of the equipment. Further analysis is required, much like that of the physical exam required prior to receiving coverage.&lt;/p&gt;
+&lt;p&gt;
+	Another option is to develop this data in-house. Although extremely tedious, it is possible to collect this data. Best practice work order processes and their execution, along with reliability analytics, are required to collect relevant historical data. With proper historical data available, this method may be used for risk assessment. If proper historical data is not available, you need an experienced professional to help you perform a quantitative risk assessment.&lt;/p&gt;
+&lt;p&gt;
+	Another common practice is to apply a risk assessment matrix to the asset catalog to determine the severity and occurrence of failure. By highlighting the assets that pose the highest risk, the matrix also helps guide decision-making on how corporate resources will be applied to improve safety or lessen the uncontrolled release of environmental or health hazards. This also adds significant value early on in the application design review of a capital project involving a new plant, new processes or changes to existing processes. Figure 7 provides a simple, visual method to determine at what point additional controls should be evaluated.&lt;/p&gt;
+&lt;p&gt;
+	The risk assessment uses risk severity and likelihood of occurrence to provide a grading matrix. From the combination of severity and occurrence, a risk level can then be defined as high, medium or low. This risk level is then used in combination with the criticality analysis to create a risk ranking.&lt;img alt="" src="http://media.noria.com/sites/Uploads/2011/9/28/9062915b-0b0c-4700-8f98-54d274b58abd_Figure 7.jpeg" style="margin: 7px; width: 551px; height: 267px;" /&gt;&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;
+	Figure 7. Risk Assessment Matrix&lt;/p&gt;
+&lt;p&gt;
+	This risk ranking is then used to define what level of failure analysis will be performed. Reliability-centered maintenance is a proven and very meticulous method to answer the following questions:&lt;/p&gt;
+&lt;ul&gt;
+	&lt;li&gt;
+		What are the functions and associated desired standards of performance of the asset in its present operating context? (Functions)&lt;/li&gt;
+	&lt;li&gt;
+		In what ways can it fail to fulfill its functions? (Functional Failures)&lt;/li&gt;
+	&lt;li&gt;
+		What causes each functional failure? (Failure Modes)&lt;/li&gt;
+	&lt;li&gt;
+		What happens when each failure occurs? (Failure Effects)&lt;/li&gt;
+	&lt;li&gt;
+		In what way does each failure matter? (Failure Consequences)&lt;/li&gt;
+	&lt;li&gt;
+		What should be done to predict or prevent each failure? (Proactive Tasks and Task Intervals)&lt;/li&gt;
+	&lt;li&gt;
+		What should be done if a suitable proactive task cannot be found? (Default Action)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;
+	Due to resource constraints, it is not possible to perform this level of analysis for each asset within the master data file. Therefore, risk ranking can be used to determine the analysis to be put in place to provide the most cost-effective deterrent or detection method for managing our assets. An example of an appropriate distribution and application of risk ranking appears below.&lt;/p&gt;
+&lt;p&gt;
+	&lt;img alt="" src="http://media.noria.com/sites/Uploads/2011/9/28/386ecdac-4e67-4770-b96a-7e30e985ef30_Figure 8.jpeg " style="margin: 7px; width: 647px; height: 309px; float: left;" /&gt;&lt;/p&gt;
+&lt;p style="margin-left: 1in;"&gt;
+	Figure 8. Distribution and Application of Risk Ranking&lt;/p&gt;
+&lt;h2&gt;
+	&lt;strong&gt;Control&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;
+	Control strategies include preventive tasks, predictive tasks, remote monitoring, condition monitoring, operating procedures, rebuild, replace, redesign criteria, operator care and critical spares, to name a few. All should be documented in standard work procedures and define the risk and failure that they are mitigating. Once the predominant failure modes are identified, we can then define the control strategy to eliminate or mitigate that failure to reduce the risk. Examples include time-based inspections to take core samples for chlorides of insulated carbon-steel piping or process intelligence used in a process line to trend asset health. For all control strategies it is important that the processes are mapped and the interfaces are identified. More and more data is available every day, and a system can quickly be overwhelmed without clearly defining requirements and supporting management of information.&lt;/p&gt;
+&lt;p&gt;
+	&lt;img alt="" src="http://media.noria.com/sites/Uploads/2011/9/28/b9e9d3d4-0bbd-41b4-a71c-d0ecabb18aea_Figure 9.jpeg " style="margin: 7px; width: 647px; height: 210px; float: left;" /&gt;&lt;/p&gt;
+&lt;p align="center"&gt;
+	Figure 9. Control Strategy Development Process&lt;/p&gt;
+&lt;p&gt;
+	When mapping our control solution, we must take into account all the required operational integration of our management information systems. This helps ensure that we are leveraging the intelligence accurately. It also helps us understand the possible vulnerability of this data to lack of a management of change process to ensure integrity of the configuration and the data. Now more than ever, our reliability and operations professionals must join with our information technology professionals to ensure the linkages of our data entry, storage and reporting are consistent and well-defined, from pumps and compressors to programmable logic controllers, to the distributed control system, to our process intelligence, then to our enterprise asset management system and finally all the way up to the general ledgers and balance sheets managed within our enterprise resource planning application.&lt;/p&gt;
+&lt;p&gt;
+	Consider that each time we purchase a vibration monitor, install a sophisticated piece of equipment, invest in a best-in-breed enterprise asset management system or purchase software to manage our mechanical integrity program, we add another layer that must be modeled or integrated into our asset management system. A significant value in the EAM software is the ability to create catalogs based on asset type. As in Figure 10, asset catalogs identify common attributes, failure types, cause codes and task lists that will allow a work order to be created for breakdowns that will adequately capture the valuable equipment history that we need in our relentless pursuit of continuous improvement.&lt;/p&gt;
+&lt;p&gt;
+	&lt;img alt="" src="http://media.noria.com/sites/Uploads/2011/9/28/62d446bc-ac44-44d6-81b5-6a7bdf248211_Figure 10.jpeg" style="margin: 7px; width: 647px; height: 370px; float: left;" /&gt;&lt;/p&gt;
+&lt;p align="center"&gt;
+	Figure 10. Example of an Asset Catalog&amp;nbsp;&lt;/p&gt;
+&lt;h2&gt;
+	&lt;strong&gt;Measure&lt;/strong&gt;&lt;/h2&gt;
+&lt;p align="left"&gt;
+	Once the management information system is configured to capture the information necessary to develop the appropriate queries and reporting needed, we have the means to effectively identify our opportunities. The metrics we use as part of our performance monitoring should closely tie to our strategic plan and corporate objectives. Work order history is a key source of our measurement activities.&amp;nbsp;&lt;/p&gt;
+&lt;p align="left"&gt;
+	First, let&amp;rsquo;s look at work orders that are generated due to breakdowns. If the hierarchy allows drill down to sufficient detail to link the maintainable asset to a set of failure codes that an operator can easily distinguish and are specific to the asset type, we can measure conditions that are related to the failure. Next, we need a way to measure the financial impact of the failure on our marketing plan. Given a rate of value the asset contributes and the lost availability, we can measure the lost market opportunity. Another consideration is the cost to complete the repair. The labor, material and contract support expended make up the additional cost of downtime.&lt;/p&gt;
+&lt;p align="left"&gt;
+	By using the time stamps in our management information system, we can also accurately capture the meantime between failure and the meantime to repair, which are two of the most meaningful reliability indicators. Another key consideration is in closing the work order and capturing the information obtained by the maintenance and reliability professional doing the work. Some level of root cause will be performed to identify why the failure occurred, and this should be coded specifically to the asset type. This cause code will allow us to understand what contributed to the failure.&lt;/p&gt;
+&lt;p align="left"&gt;
+	&lt;img alt="" src="http://media.noria.com/sites/Uploads/2011/9/28/4d8e4c60-18a6-4dd6-b10a-e43ca7c0fe4e_Figure 11.jpeg" style="margin: 7px; width: 491px; height: 492px;" /&gt;&lt;/p&gt;
+&lt;p align="center"&gt;
+	Figure 11. System Performance Curve&lt;/p&gt;
+&lt;p&gt;
+	Work orders used to perform preventive tasks require several components to facilitate review. The tasks that are being performed on the asset must be specific to the asset type and clearly define what failure mode the task is identifying, mitigating or eliminating. The costs associated with these tasks should appropriately reflect the preventive activities and create a method to link to corrective work generated from these tasks. The first item allows us to compare and trend the cost of preventive activities to that of corrective activities. The second item allows us to capture the corrective work generated from preventive activities. Both these items provide a method to measure the effectiveness of the control strategy.&lt;/p&gt;
+&lt;p&gt;
+	The final and most important element of the preventive tasks is to have specified parameters, defined thresholds and the requirement to collect data that can be trended to determine the health of the asset. This provides the two-way communication in the control strategy and moves the task from static to dynamic.&lt;/p&gt;
+&lt;h2&gt;
+	&lt;strong&gt;Why Implement a Risk-based Asset Management Strategy?&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;
+	Fundamentally, in a risk-based asset management system, you collect relevant information based on importance to the value stream and use this information to make fiscally responsible decisions that will in turn create greater value to the organization. The four phases in the risk-based asset management model are critical for the success of this strategy. When you couple this strategy with business processes that support best practice, seamlessly integrated to leverage critical information to make decisions and supported by a corporate culture driven to the relentless pursuit of continuous improvement, you can achieve results like these:&lt;/p&gt;
+&lt;ul&gt;
+	&lt;li&gt;
+		Personnel have recognized the value of continuous improvement and have demonstrated their belief with their actions.&lt;/li&gt;
+	&lt;li&gt;
+		Limiting factors have been identified and reduced by orders of magnitudes.&lt;/li&gt;
+	&lt;li&gt;
+		Substantial capital investments have been avoided by improving capacity and availability.&lt;/li&gt;
+	&lt;li&gt;
+		Significant reduction in cost of products sold.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;
+	These benefits result in significantly improved operational stability along with substantial financial improvement.&lt;/p&gt;
+&lt;p&gt;
+	&lt;u&gt;&lt;strong&gt;About the Author&lt;/strong&gt;&lt;/u&gt;&lt;/p&gt;
+&lt;p&gt;
+	&lt;em&gt;Mike Poland is the director of Life Cycle Engineering&amp;rsquo;s Asset Management Services group. With more than 25 years of engineering and maintenance experience, Mike specializes in reliability processes and systems engineering with an emphasis on defect detection and elimination through root-cause analysis and risk-based inspections. His approach to risk-based asset management and the elimination of limiting factors for clients provides greatly enhanced asset utilization at a much lower total cost of ownership. Mike can be reached at &lt;a href="mailto:mpoland@LCE.com"&gt;mpoland@LCE.com&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;&lt;img src="http://feeds.feedburner.com/~r/noria/reliableplant/tags/value_stream_mapping/~4/HJ-7p8785l4" height="1" width="1" alt=""/&gt;</description>
+            <a10:updated>2011-09-28T09:41:52-05:00</a10:updated>
+            <a10:content type="text/html" src="http://reliableplant.com/Read/28556/risk-based-asset-management" />
+        <feedburner:origLink>http://reliableplant.com/Read/28556/risk-based-asset-management</feedburner:origLink></item>
+        <item>
+            <guid isPermaLink="false">tag:noria.com,2010-06-10:publishing:magazines:rp:3f32e027-025e-4266-84bb-9e2501076dae</guid>
+            <link>http://feedproxy.google.com/~r/noria/reliableplant/tags/value_stream_mapping/~3/vN2DZ-84wag/Lean-Safelite-Glass-plant</link>
+            <a10:author>
+                <a10:name>North Carolina State University</a10:name>
+            </a10:author>
+            <category>Web Exclusives</category>
+            <category>Articles</category>
+            <title>Lean results transparent for Safelite Glass plant</title>
+            <description>&lt;p&gt;
+	&lt;img alt="" src="http://media.noria.com/sites/Uploads/2010/11/5/quick/8d67446a-d527-40eb-8aed-b1c469c2d363_safelite1.jpeg" /&gt;&lt;/p&gt;
+&lt;p&gt;
+	Safelite Glass Corporation, a leading producer of windshields for the automotive aftermarket, knew that to remain competitive with its Chinese counterparts, the company had to reduce costs. To do this, Safelite brought in experts from North Carolina State University&amp;rsquo;s Industrial Extension Service (IES) to meet its goals of reducing costs through improved efficiency and productivity within the company&amp;rsquo;s Enfield, N.C., plant. By implementing the principles of lean manufacturing, Safelite was able to retain sales to the tune of $2.6 million and save $670,000 in costs.&lt;/p&gt;
+&lt;p&gt;
+	For this reason the company was recognized on August 25 for its contribution to the &lt;a href="http://www.ies.ncsu.edu/1b4nc"&gt;1B4NC&lt;/a&gt; promise: to create $1 billion in economic benefit to the state of North Carolina from 2006 to 2010.&lt;/p&gt;
+&lt;p&gt;
+	&lt;strong&gt;&lt;em&gt;Bottlenecks&lt;/em&gt;&lt;/strong&gt;&lt;br /&gt;
+	Downtime is not an option for the Halifax County facility, which produces approximately 700 different parts (20 simultaneously) and distributes them to 84 warehouses across the country. When any one of three furnaces shut down, bottlenecks occur, which can lead to a shutdown of the entire plant.&lt;/p&gt;
+&lt;p&gt;
+	The goal of reducing bottlenecks prompted IES to facilitate a value stream map of the furnace department. A lean tool, value stream mapping (VSM) is a powerful technique for visualizing the flow of raw materials, information and finished products through all production steps for a particular product. For a VSM to be successful, it requires a group effort. In this case, it included members of the furnace department, Safelite leadership and IES facilitators.&lt;/p&gt;
+&lt;p&gt;
+	&lt;img alt="" src="http://media.noria.com/sites/Uploads/2010/11/5/quick/73f35180-62d9-4a12-844d-326bb9c89634_safelite2.jpeg" /&gt;&lt;/p&gt;
+&lt;p&gt;
+	The map indicated a need to reduce &amp;ldquo;no-loads&amp;rdquo;, as the company refers to them. No-loads, in the simplest of terms, are lost opportunities. Once a windshield is set, it is heated and then bent to specifications based on a vehicle make and model. This process follows an assembly line that passes through a high-temperature furnace. For every available slot that does not have a product, the company is wasting time, energy resources and, inevitably, money.&lt;/p&gt;
+&lt;p&gt;
+	The group developed a future state map, aimed to improve flow, layout and reduce inventory.&lt;/p&gt;
+&lt;p&gt;
+	Johnny McDonald, process engineer and 11-year veteran at Safelite, stated, &amp;ldquo;Lean changed the way we think around here. It used to be run, run, run. Now we run only what we need.&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;
+	Savings in work-in-process save investments in raw materials, space and labor, which all add to the bottom line.&lt;/p&gt;
+&lt;p&gt;
+	&lt;strong&gt;&lt;em&gt;Results, clear as glass&lt;/em&gt;&lt;/strong&gt;&lt;br /&gt;
+	Another large component of Safelite&amp;rsquo;s lean work included the adoption of 5-S (sort, standardize, straighten, shine and sustain).&lt;/p&gt;
+&lt;p&gt;
+	Quality manager Len Davis was amazed at the time that was saved by simply not having to dig for what you need. &amp;ldquo;Not having what you need when you need it is huge,&amp;rdquo; said Davis.&lt;/p&gt;
+&lt;p&gt;
+	The lean work that was done in the furnace area decreased no-loads and increased production potential to an extra 57,000 units annually. Lean also decreased overtime in the area.&lt;/p&gt;
+&lt;p&gt;
+	&lt;img alt="" src="http://media.noria.com/sites/Uploads/2010/11/5/quick/acbbfbb9-e972-4a2a-bba3-c5f4ff1e03dd_safelite3.jpeg" /&gt;&lt;/p&gt;
+&lt;p&gt;
+	Once witnessing the power of lean in the furnace area, Safelite brought it in to the glass processing center with the goal of reducing changeover time, or the time it takes to switch a machine from making one product to another. On one particular line, there are seven changeovers per shift at an average of 15 minutes each. Lean helped reduce changeover time by one-third, allowing more parts to be produced in less time.&lt;/p&gt;
+&lt;p&gt;
+	But lean isn&amp;rsquo;t just about producing more. The principles also lead to improved quality. By standardizing work instructions, the glass processing center saw the level of poor edge quality improve, which decreases breakage, again saving the company raw material dollars and labor.&lt;/p&gt;
+&lt;p&gt;
+	&lt;strong&gt;&lt;em&gt;Speak the language&lt;/em&gt;&lt;/strong&gt;&lt;br /&gt;
+	IES is the extension department of the College of Engineering at North Carolina State University. IES provides technical expertise, training and education to help improve and sustain North Carolina industry. IES extension experts typically have more than 15 years of direct industry experience in their field.&lt;/p&gt;
+&lt;p&gt;
+	Rich Glover, assistant vice president of manufacturing and distribution, said that working with IES lean specialist David Yates was more of a partnership than a typical client/vendor relationship.&lt;/p&gt;
+&lt;p&gt;
+	&amp;ldquo;With all due respect, David&amp;rsquo;s not an academic; he understands production and the constraints of an organization,&amp;rdquo; said Glover.&lt;/p&gt;
+&lt;p&gt;
+	Glover likes the concept that lean requires input from the people on the floor.&lt;/p&gt;
+&lt;p&gt;
+	&amp;ldquo;Lean offered a baseline (for improvement), and it challenged our people to provide outcomes and solutions to their problems,&amp;rdquo; said Glover. &amp;ldquo;It also provided a common ground for engineers and plant employees to speak the same language while working toward a shared goal.&amp;rdquo;&lt;/p&gt;&lt;img src="http://feeds.feedburner.com/~r/noria/reliableplant/tags/value_stream_mapping/~4/vN2DZ-84wag" height="1" width="1" alt=""/&gt;</description>
+            <a10:updated>2010-11-05T15:59:04-05:00</a10:updated>
+            <a10:content type="text/html" src="http://reliableplant.com/Read/27355/Lean-Safelite-Glass-plant" />
+        <feedburner:origLink>http://reliableplant.com/Read/27355/Lean-Safelite-Glass-plant</feedburner:origLink></item>
+        <item>
+            <guid isPermaLink="false">tag:noria.com,2010-06-10:publishing:magazines:rp:d1571451-dcf5-4159-aeaf-9e0e008a416d</guid>
+            <link>http://feedproxy.google.com/~r/noria/reliableplant/tags/value_stream_mapping/~3/stShnRD5l88/Lean-value-stream-mapping</link>
+            <a10:author>
+                <a10:name>RP news wires</a10:name>
+            </a10:author>
+            <category>Videos</category>
+            <category>Media Entries</category>
+            <title>Value stream mapping: Example of doctor's office</title>
+            <description>&lt;p&gt;
+	This video utilizes a verbal description of the process steps during a visit to the doctor&amp;#39;s office to demonstrate value stream mapping and lean manufacturing techniques. This video is a great introduction to lean manufacturing and basic process improvement.&lt;/p&gt;
+&lt;br /&gt;&lt;img src="http://feeds.feedburner.com/~r/noria/reliableplant/tags/value_stream_mapping/~4/stShnRD5l88" height="1" width="1" alt=""/&gt;</description>
+            <a10:updated>2010-10-13T08:23:20-05:00</a10:updated>
+            <a10:content type="text/html" src="http://reliableplant.com/View/26977/Lean-value-stream-mapping" />
+        <feedburner:origLink>http://reliableplant.com/View/26977/Lean-value-stream-mapping</feedburner:origLink></item>
+        <item>
+            <guid isPermaLink="false">tag:noria.com,2010-06-10:publishing:magazines:rp:b2a20143-8578-4caa-9094-9df400f1dd0a</guid>
+            <link>http://feedproxy.google.com/~r/noria/reliableplant/tags/value_stream_mapping/~3/ZHMulNj8CuM/Value-stream-mapping-office</link>
+            <a10:author>
+                <a10:name>RP news wires</a10:name>
+            </a10:author>
+            <category>Videos</category>
+            <category>Media Entries</category>
+            <title>Value stream mapping in the office</title>
+            <description>&lt;p&gt;
+	Lean expert Cynthia Marsh-Croll of Croll Productive Synergy teaches&amp;nbsp;how to use value stream mapping in an office environment to uncover waste and cut costs.&lt;/p&gt;
+&lt;br /&gt;&lt;img src="http://feeds.feedburner.com/~r/noria/reliableplant/tags/value_stream_mapping/~4/ZHMulNj8CuM" height="1" width="1" alt=""/&gt;</description>
+            <a10:updated>2010-09-17T14:40:33-05:00</a10:updated>
+            <a10:content type="text/html" src="http://reliableplant.com/View/26616/Value-stream-mapping-office" />
+        <feedburner:origLink>http://reliableplant.com/View/26616/Value-stream-mapping-office</feedburner:origLink></item>
+        <item>
+            <guid isPermaLink="false">tag:noria.com,2010-06-10:publishing:magazines:rp:872a9063-71ce-49b1-8d27-9df400f136e3</guid>
+            <link>http://feedproxy.google.com/~r/noria/reliableplant/tags/value_stream_mapping/~3/0XzUu9CBjJQ/Activity-mapping-process-maps</link>
+            <a10:author>
+                <a10:name>RP news wires</a10:name>
+            </a10:author>
+            <category>Videos</category>
+            <category>Media Entries</category>
+            <title>Experts discuss activity mapping and product/process maps</title>
+            <description>&lt;p&gt;
+	Andy Carlino and Jamie Flinchbaugh of the Lean Learning Center discuss activity mapping and product/process maps and their use in business process improvement.&lt;/p&gt;
+&lt;br /&gt;&lt;img src="http://feeds.feedburner.com/~r/noria/reliableplant/tags/value_stream_mapping/~4/0XzUu9CBjJQ" height="1" width="1" alt=""/&gt;</description>
+            <a10:updated>2010-09-17T14:38:12-05:00</a10:updated>
+            <a10:content type="text/html" src="http://reliableplant.com/View/26615/Activity-mapping-process-maps" />
+        <feedburner:origLink>http://reliableplant.com/View/26615/Activity-mapping-process-maps</feedburner:origLink></item>
+        <item>
+            <guid isPermaLink="false">tag:noria.com,2010-06-10:publishing:magazines:rp:ea3aeb7a-fe88-4e4e-ae95-9dac00a675ef</guid>
+            <link>http://feedproxy.google.com/~r/noria/reliableplant/tags/value_stream_mapping/~3/bfLYgMW33j8/Primer-value-stream-mapping</link>
+            <a10:author>
+                <a10:name>RP news wires</a10:name>
+            </a10:author>
+            <category>Videos</category>
+            <category>Media Entries</category>
+            <title>A primer on value stream mapping</title>
+            <description>&lt;p&gt;
+	Jay Arthur provides some instruction on value stream mapping, a tool common associated with lean manufacturing.&lt;/p&gt;
+&lt;br /&gt;&lt;img src="http://feeds.feedburner.com/~r/noria/reliableplant/tags/value_stream_mapping/~4/bfLYgMW33j8" height="1" width="1" alt=""/&gt;</description>
+            <a10:updated>2010-07-07T10:06:01-05:00</a10:updated>
+            <a10:content type="text/html" src="http://reliableplant.com/View/25463/Primer-value-stream-mapping" />
+        <feedburner:origLink>http://reliableplant.com/View/25463/Primer-value-stream-mapping</feedburner:origLink></item>
+        <item>
+            <guid isPermaLink="false">tag:noria.com,2010-06-10:publishing:magazines:rp:6b7366b6-c366-4577-8a42-9d5e00e1728e</guid>
+            <link>http://feedproxy.google.com/~r/noria/reliableplant/tags/value_stream_mapping/~3/vYPUGDD_Nr4/3M-Gold-sustainability-index</link>
+            <a10:author>
+                <a10:name>RP news wires</a10:name>
+            </a10:author>
+            <category>Industry News</category>
+            <category>Articles</category>
+            <title>3M earns Gold-Class distinction on Dow Jones Sustainability Index</title>
+            <description>&lt;p&gt;
+	3M has been recognized by the 2010 Dow Jones Sustainability Index with Gold-Class distinction, placing the company among world leaders in practices and policies that are beneficial to the environment.&lt;/p&gt;
+&lt;p&gt;
+	Zurich-based, Sustainability Asset Management, a financial services firm devoted exclusively to investments in environmentally friendly companies, evaluates the 2,500 firms comprising the Dow Jones Global Total Stock Market Index annually for their sustainability efforts. The firm is owned by Rotterdam-based Robeco Group.&lt;/p&gt;
+&lt;p&gt;
+	The distinction follows by less than a month 3M&amp;rsquo;s receipt of an Energy Star Sustained Excellence award for the sixth consecutive year. Energy Star awards are conferred jointly by the U.S. Environmental Protection Agency and the Department of Energy.&lt;/p&gt;
+&lt;p&gt;
+	Keith J. Miller, manager of environmental initiatives and sustainability in 3M Environmental, Health and Safety, says the dual awards are the result of &amp;ldquo;3M&amp;rsquo;s decades-old commitment to conserving energy, minimizing our impact on the environment, and maintaining healthy working conditions for our employees around the world.&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;
+	He observes, for example, that 3M&amp;rsquo;s well-known &amp;ldquo;3P&amp;rdquo; initiative (Pollution Prevention Pays) dates back to 1975, &amp;ldquo;and reflects the company&amp;rsquo;s understanding that rooting out the causes of pollution at the source is as much a matter of sound business practice as it is environmental and social responsibility. Each year we reevaluate our internal programs to encourage sustainable efforts in environmental, social responsibility and governance practices, and to initiate new program enhancements.&lt;/p&gt;
+&lt;p&gt;
+	&amp;ldquo;We very much appreciate the recognition 3M is receiving for its efforts and for the contribution the company has made to this vital worldwide cause,&amp;rdquo; Miller adds.&lt;/p&gt;
+&lt;p&gt;
+	Sustainable Asset Management publishes an annual yearbook containing the top-scoring 15 percent of companies in each of 58 business sectors. 3M&amp;rsquo;s score has placed the company in the 2010 yearbook and as one of the sustainability leaders in the diversified industrials sector for the 10th consecutive year.&lt;/p&gt;
+&lt;p&gt;
+	The 2010 SAM yearbook includes a new section describing how SAM integrates the information from its Corporate Sustainability Assessment into financial valuation. Looking back over the last 10 years, it also outlines how SAM&amp;rsquo;s annual assessment has enabled companies to benchmark their sustainability performance against their peers and evaluate their strengths and weaknesses with regard to their sustainability strategies.&lt;/p&gt;
+&lt;p&gt;
+	3M information is available at &lt;a href="http://cts.businesswire.com/ct/CT?id=smartlink&amp;amp;url=http%3A%2F%2Fwww.3M.com%2Fsustainability&amp;amp;esheet=6255510&amp;amp;lan=en_US&amp;amp;anchor=www.3M.com%2Fsustainability&amp;amp;index=1&amp;amp;md5=c5f045d297c656948de90b48048e8e7e" target="_blank"&gt;www.3M.com/sustainability&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;
+	&lt;strong&gt;&lt;u&gt;About 3M&lt;/u&gt;&lt;/strong&gt;&lt;br /&gt;
+	A recognized leader in research and development, 3M produces thousands of innovative products for dozens of diverse markets. 3M&amp;rsquo;s core strength is applying its more than 40 distinct technology platforms &amp;ndash; often in combination &amp;ndash; to a wide array of customer needs. With $23 billion in sales, 3M employs 75,000 people worldwide and has operations in more than 65 countries.&amp;nbsp;&lt;/p&gt;&lt;img src="http://feeds.feedburner.com/~r/noria/reliableplant/tags/value_stream_mapping/~4/vYPUGDD_Nr4" height="1" width="1" alt=""/&gt;</description>
+            <a10:updated>2010-04-20T13:40:48-05:00</a10:updated>
+            <a10:content type="text/html" src="http://reliableplant.com/Read/24127/3M-Gold-sustainability-index" />
+        <feedburner:origLink>http://reliableplant.com/Read/24127/3M-Gold-sustainability-index</feedburner:origLink></item>
+        <item>
+            <guid isPermaLink="false">tag:noria.com,2010-06-10:publishing:magazines:rp:4ef64c61-c42f-48af-b512-9d4800e754bd</guid>
+            <link>http://feedproxy.google.com/~r/noria/reliableplant/tags/value_stream_mapping/~3/y1T00b9WrMc/Smart-grid-technology-energy</link>
+            <a10:author>
+                <a10:name>RP news wires</a10:name>
+            </a10:author>
+            <category>Industry News</category>
+            <category>Articles</category>
+            <title>Smart grid technology lets customers track energy, water consumption</title>
+            <description>&lt;p&gt;
+	The 33,000 citizens of Erding, Germany, will benefit from the environmental advantages of GE smart grid technologies in a major step toward managing energy and water consumption. Stadtwerke Erding, the city&amp;rsquo;s public works department, is implementing a groundbreaking pilot installation that will consolidate and report data to homeowners on energy and utility usage, including electricity, gas, water and heating.&lt;/p&gt;
+&lt;p&gt;
+	Public works departments like those in Erding are part of a trend in Germany to re-communalize key town infrastructure. Towns are taking a financial stake in multi-fuel utilities, water, district heating, transport and communications. These municipalities provide ideal environments to showcase technologies available today that can increase efficiency and have a positive environmental impact.&lt;/p&gt;
+&lt;p&gt;
+	&amp;ldquo;We are developing a complete picture of our energy and resource usage to help us become more efficient providers and consumers of energy,&amp;rdquo; said Walter Huber, general manager of Stadtwerke Erding. &amp;ldquo;What we are learning will help us formulate practical, effective and timely programs to reduce our carbon footprint without sacrificing lifestyle.&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;
+	The smart meters are connected to a central office for analysis and planning via a data concentrator, providing data to optimize usage efficiency and minimizing waste. Benchmarking data from last year will contribute to emissions and efficiency programs in 2010 and beyond.&lt;/p&gt;
+&lt;p&gt;
+	&amp;ldquo;The municipality of Erding is making history by applying the benefits of smart grid technologies across all of the utilities in a home, maximizing the ways we can understand and lessen their effect on our planet,&amp;rdquo; said Keith Redfearn, general manager of transmission and distribution in Europe for GE Energy Services.&lt;/p&gt;
+&lt;p&gt;
+	By consolidating infrastructure, the program also delivers operational advantages, reducing up-front costs and allowing other communications-dependent functions like security, health, safety and assisted living monitoring to be added as the city develops those solutions.&lt;/p&gt;
+&lt;p&gt;
+	&amp;ldquo;Instead of being smarter simply with electricity, Erding officials are leveraging GE solutions to help them make decisions based on the complete picture of utility consumption and carbon consequences,&amp;rdquo;&amp;nbsp;said Redfearn.&lt;/p&gt;&lt;img src="http://feeds.feedburner.com/~r/noria/reliableplant/tags/value_stream_mapping/~4/y1T00b9WrMc" height="1" width="1" alt=""/&gt;</description>
+            <a10:updated>2010-03-29T14:02:13-05:00</a10:updated>
+            <a10:content type="text/html" src="http://reliableplant.com/Read/23679/Smart-grid-technology-energy" />
+        <feedburner:origLink>http://reliableplant.com/Read/23679/Smart-grid-technology-energy</feedburner:origLink></item>
+        <item>
+            <guid isPermaLink="false">tag:noria.com,2010-06-10:publishing:magazines:rp:75f0e8ac-8ca8-44e3-bf28-9d3b00a1f51d</guid>
+            <link>http://feedproxy.google.com/~r/noria/reliableplant/tags/value_stream_mapping/~3/qJxLHRP1vJk/organizational-rebirth-us-manufacturers</link>
+            <a10:author>
+                <a10:name>Darrin Wikoff</a10:name>
+            </a10:author>
+            <category>Web Exclusives</category>
+            <category>Articles</category>
+            <title>Organizational rebirth: Why it's pertinent to U.S. manufacturers</title>
+            <description>&lt;p&gt;
+	American manufacturing pride stems from a long heritage of craftsmen, steel workers and automotive workers, and dates back to companies like Ford and General Motors Corporation which thrived during the pre-globalization dogfights of the 1930s. Prior to the introduction of Toyota to the American automotive consumer, Henry Ford and General Motors president Alfred Sloan were the true innovators of industry. Ford, with his concept of the assembly line in 1913, and Sloan, who created numerous accounting breakthroughs which still remain visible today, propelled the automotive industry to the top of America&amp;rsquo;s list of most influential business leaders. But what impact did these two industrialists have on today&amp;rsquo;s manufacturing economy? Is it possible that Sloan and Ford created manufacturing models and paradigms that would withstand more than 70 years of modernization?&lt;/p&gt;
+&lt;p&gt;
+	&lt;em&gt;&lt;strong&gt;The evolution of organizational misalignment&lt;/strong&gt;&lt;/em&gt;&lt;br /&gt;
+	A total of 137 years before Henry Ford&amp;rsquo;s notion of divisible assembly processes, manufacturing existed as a pure, mysterious and noble craft of making something which was valued by another from nothing but raw material, ingenuity and skill. In 1776, a Scottish gentleman, philosopher and economist by the name of Adam Smith first outlined the organizational and economic principle of &amp;ldquo;division of labor&amp;rdquo; which revolutionized manufacturing by segmenting the natural processes or steps required to produce a commodity &amp;ndash; anything which is in demand and has no qualitative differentiation across markets. Smith&amp;rsquo;s theory was based on breaking down steps from raw material to finished goods in order to increase efficiency of the entire process by allowing craftsmen to specialize in one or more steps. This concept was widely embraced and inspired the industrial revolution. Now let&amp;rsquo;s hold on for just one minute. In 1776, a Scottish guy took a process which was performed by one craftsman, broken it down into parts and used multiple craftsmen to make the same product faster. OK, the concept of division of labor was based on increasing flow through capital investment in machines &amp;ndash; craftsman in this instance.&lt;/p&gt;
+&lt;p align="center"&gt;
+	&lt;img src=" http://media.noria.com/sites/web_exclusives/wikoff001.gif " /&gt;&lt;/p&gt;
+&lt;p align="center"&gt;
+	&amp;nbsp;&lt;/p&gt;
+&lt;p align="center"&gt;
+	&lt;img src=" http://media.noria.com/sites/web_exclusives/wikoff002.gif " /&gt;&lt;/p&gt;
+&lt;p&gt;
+	In 1913, Henry Ford was looking to revolutionize manufacturing in order to meet an ever-growing consumer demand, which he did by once again dividing the manufacturing process into simple subassemblies. This concept was not far from Adam Smith&amp;rsquo;s. Ford looked for natural steps in what appeared to be a very complex process, found an opportunity to standardize and specialize each step, and introduced the concept of batching &amp;ndash; although not referred to as batching the way we now understand it &amp;ndash; in order to keep the manufacturing process moving. In the same fashion as Smith, Ford increased production by using more machines (people still in 1913) working in subassembly processes. As Ford&amp;rsquo;s business continued to realized uncontested success, at growth rates rarely seen since 1920, Ford transformed this process into what is still a 21st-century manufacturing model known as the &amp;ldquo;assembly line&amp;rdquo;, fondly referred to as the mass production, &amp;ldquo;make all you can&amp;rdquo; model. Ford&amp;rsquo;s assembly line has withstood more than 50 years of scrutiny and challenges from overseas competitors like Toyota and, yet, is still widely practiced in more than 60 percent of American manufacturing.&lt;/p&gt;
+&lt;p align="center"&gt;
+	&lt;img src=" http://media.noria.com/sites/web_exclusives/wikoff003.gif " /&gt;&lt;/p&gt;
+&lt;p&gt;
+	Ten years after Ford&amp;rsquo;s revelation came a competitor in the American automotive industry, a gentleman who had served as the president of one of Ford&amp;rsquo;s more predominant parts suppliers and a man who understood the challenges and limitations of the assembly line model. In 1923, Alfred Sloan arrived on the scene as president of the newly formed General Motors Corporation. Sloan, an electrical engineering graduate of the Massachusetts Institute of Technology and innovator of industrial economics, was most famous for his ability to manage complex operations using only financial statistics. Sloan&amp;rsquo;s mark on American manufacturing was introduced as a re-engineering of Smith&amp;rsquo;s former division of labor, except this time Sloan was applying the concept to management rather than the manufacturing process. Following Ford&amp;rsquo;s assembly line process, Sloan broke each step or process division into functional silos &amp;ndash; a term phrased many years later &amp;ndash; whereby a single manager would have full fiscal responsibility over a single silo. For example, in a four-step process, Sloan would have four managers, one for each process.&lt;/p&gt;
+&lt;p align="center"&gt;
+	&lt;img src=" http://media.noria.com/sites/web_exclusives/wikoff004.gif " /&gt;&lt;/p&gt;
+&lt;p&gt;
+	Starting to sound a bit familiar? As a man who thrived on economics and financial statistics, Sloan mentored his managers to use only financials to run their business, driving the importance of concepts such as return on investment (ROI), and establishing the paradigm that everything, including inventory and people, had a cash value. Relative to today&amp;rsquo;s lean environment, this meant that stockpiling inventory or work in process was a good thing as it increased the cash value of the manufacturing organization. Through GM&amp;rsquo;s success in the early 1930s, eventually surpassing Ford, Sloan went on to grow the business upward, providing managers upon managers to further build coordination and collaboration between silos. Again, Sloan&amp;rsquo;s model for improvement was based on adding people to the process in order to increase productivity.&lt;/p&gt;
+&lt;p align="center"&gt;
+	&lt;img src=" http://media.noria.com/sites/web_exclusives/wikoff005.gif " /&gt;&lt;/p&gt;
+&lt;p&gt;
+	As you can see, today&amp;rsquo;s organizational structures still resemble Sloan&amp;rsquo;s collaborative style of functional management. However, as American companies have become more and more globalized, we can see yet another division based on where decisions are being made which impact the manufacturing process.&lt;br /&gt;
+	&lt;br /&gt;
+	Due to Securities and Exchange Commission (SEC) regulations which govern publicly traded companies and current business acumen, business decisions are being made further away from the manufacturing floor. Companies are stretching across geographic boundaries and now require greater numbers of corporate resources to sustain the collaborative management philosophy. As a result, Corporate America has formed executive functions to manage aspects of manufacturing outside of the day-to-day operations &amp;ndash; functions like health &amp;amp; safety, finance, legal, human resources and engineering.&lt;br /&gt;
+	&lt;br /&gt;
+	Still in pursuit of Sloan&amp;rsquo;s managerial behavior, these executive functions are guiding business processes by the numbers with respect to their individual objectives. In many cases, each executive function is responsible for and has, therefore, subdivided the assembly processes based on organizational disciplines. Human resources, for example, governs compensations and benefits for manufacturing operators, while engineering makes decisions regarding capital investment and asset replacement within each assembly process. As a result, operations managers are left managing the process of manufacturing with little influence over assets or people.&lt;/p&gt;
+&lt;p align="center"&gt;
+	&lt;img src=" http://media.noria.com/sites/web_exclusives/wikoff006.gif " /&gt;&lt;/p&gt;
+&lt;p&gt;
+	Looking at this division of executive management illustration, it&amp;rsquo;s painfully obvious to see how a complex manufacturing process that was once simplified by fundamental concepts has now become convoluted and messy. Instead of decisions, which impact productivity, being made at the craftsman level as they were in the early days, they are now being made at the highest, most removed level based on limited financial data. On top of that, the data is segregated, allowing decisions to be made in parts within a modest view of the global enterprise, resulting in a complete reversal of performance within the manufacturing process. For more than 200 years, keen business minds have implemented organizational structures designed to improve the consistency of flow and lead times; but today&amp;rsquo;s organizations are delivering the opposite, creating vulnerability in U.S. manufacturing and opening the door for foreign competitors.&lt;/p&gt;
+&lt;p&gt;
+	&lt;em&gt;&lt;strong&gt;Organizational alignment for lean manufacturing&lt;/strong&gt;&lt;/em&gt;&lt;br /&gt;
+	As Toyota&amp;rsquo;s production system, now referred to as lean manufacturing, has inspired American businesses into action, we must once again look at aligning our organizational structures with the manufacturing process.&lt;/p&gt;
+&lt;p&gt;
+	Lean thinking changes our manufacturing process in an effort to eliminate waste, creating more flexibility when responding to consumer demand while reducing the overall cost of operating. Lean manufacturing, however, was designed and proven in a business culture that empowered its workforce with the knowledge and skills necessary to make decisions that impacted productivity, flow, variation and waste. Lean is not a set of tools and techniques that any organization can adopt; it&amp;rsquo;s a business model that changes how your organization functions, collectively. If you&amp;rsquo;ve examined Toyota&amp;rsquo;s organizational structure at all, you&amp;rsquo;ve realized that management is scarce, resembling the 1923 collaborative style put in place by Sloan. Similarly, Toyota&amp;rsquo;s model resembles Ford&amp;rsquo;s concept of increasing throughput by increasing the number of people on the floor, continuing to break down the manufacturing process into manageable parts, yet manageable by the operator vs. manager. Undoubtedly, lean manufacturing is a highly beneficial improvement strategy for American business, but lean cannot be successful within the existing culture and structure. It&amp;rsquo;s time for an organizational rebirth!&lt;/p&gt;
+&lt;p align="center"&gt;
+	&lt;img src=" http://media.noria.com/sites/web_exclusives/wikoff007.gif " /&gt;&lt;/p&gt;
+&lt;p&gt;
+	As a business leader, our first role should be to lead the people, and to manage the process second. If we are consistent and effective in the first, the people will support the second. This is the new paradigm of organizations that have embraced transformational change and have succeeded at aligning their organizations without a formal &amp;ldquo;re-org&amp;rdquo; or major shift in structure. As a process improvement consultant, I&amp;rsquo;m not a fan of restructuring for the sake of restructuring. In fact, and as history might allude to, restructuring oftentimes does more harm than good. At the least, it creates tension and frustration among business leaders that is counterproductive. Organizational alignment, in this discussion, is focused on the natural order of decision making that impacts the tactical day-to-day process of manufacturing. Decisions that guide optimization of existing processes should be made as close to the action as possible. Decisions which impact long-term strategic objectives, in contrast, should be made at the collaborative management levels.&lt;br /&gt;
+	&lt;br /&gt;
+	This presents us with the root of our problem. As Sloan and Ford worked to chase consumer demand in the 1930s, they were forced to make changes to their structures to separate the tactical issues &amp;ndash; those that impacted the quality of their product and the rate at which their product could be produced &amp;ndash; from the strategic issues that differentiated their product from that of their competitors. And as we&amp;rsquo;ve seen with the modernization of business across borders, these once-effective structures lost their focus and are not in alignment with the methodologies we need to compete. Lean means to work without waste, and the opportunities lost due to ineffective decision-making practices, which are constrained by our structures, is the biggest waste of them all.&lt;br /&gt;
+	&lt;br /&gt;
+	The rebirth of American organizations can be summarized by saying that philosophy must align with the people, and processes must be aligned with methodologies (tools). Teach people the values of your business and the philosophies that must be maintained in order to preserve said values. Empower people with the tools they need (e.g. lean) so that they may manage the process in order to sustain the business values. This is a cultural shift that will literally transform your organization without ever changing the functional structure. For example, one of the more predominant philosophies of lean is &amp;ldquo;systems thinking&amp;rdquo;. Systems thinking requires your organization to first examine the business as a whole in order to evaluate the effectiveness of existing processes in relation to business objectives. Once examined in whole, systems thinking requires a detailed evaluation of the subsystems within each process to illustrate the points of collaboration and areas of constraint that are currently limiting further optimization of existing processes. In our current organizational structures, blinded by functional boundaries, people are limited in their knowledge of the whole system, focused narrowly on the subsystems within their own discipline with limited awareness of the impact they have on the overall enterprise. With regards to training, most employees are trained in a single discipline, such as operating manufacturing equipment, accounting practices or procurement policies, and are unfamiliar with the business philosophies of other disciplines. Companies observed through my tenure as a consultant who attempted to implement lean within these types of structures spent a considerable amount of time and money training and coaching people to implement systems thinking practices with little to no benefits realized over many years. In comparison, those companies who began their implementations with an organizational rebirth, focusing first on the alignment of philosophies and followed by the implementation of tools, recognized significant returns within the first 12 months. The core constraint of the unsuccessful lean implementations was conflicting philosophies, promulgated by misaligned, siloed organizational structures.&lt;/p&gt;
+&lt;p&gt;
+	&lt;br /&gt;
+	&lt;em&gt;&lt;strong&gt;Leading organizational transformation&lt;/strong&gt;&lt;/em&gt;&lt;br /&gt;
+	As you might imagine, organizational transformation starts at the top. Business leaders must model the behavior that they expect on the plant floor and therefore lead by crossing functional boundaries. I recently read an article in the Harvard Business Review that illustrated one company&amp;rsquo;s efforts to do just that. The CEO, pressured by shareholders to execute improvement initiatives in order to increase profitability and market share, aligned his executive leadership as a cross-functional team, challenging them to examine each of their initiatives, looking for synergies and points of collaboration. Continuing with his focus on organizational alignment, the CEO revamped the company&amp;rsquo;s performance management model in order to reinforce the collaborative and cross-functional environment during the execution of initiatives, effectively holding the entire executive team accountable for the results of each campaign.&lt;br /&gt;
+	&lt;br /&gt;
+	Leading organizational transformation is a process in itself, one that begins by creating a higher level of understanding with regards to the entire system. Once your leadership team is aware of the synergetic philosophies of your business, they are able to cascade the transformation effort down through the organization, building desire within their subordinates to stretch across functional boundaries as well. However, as we&amp;rsquo;ve mentioned, organizational change doesn&amp;rsquo;t stop with understanding and desire; the next step is to raise the level of knowledge within the organization with regards to methodologies that impact the manufacturing process. Using lean as the example, your leadership team must commit to educating the masses on lean techniques and tools and give up control when it comes to day-to-day decision making. In doing so, leaders will create a formidable ability among the people to identify subsystem constraints, waste and opportunities for optimization, and empower people into taking action. Finally, to ensure that decisions made on the floor translate into favorable benefits to the overall enterprise, managers, following Sloan&amp;rsquo;s model, must evaluate the numbers.&lt;br /&gt;
+	&lt;br /&gt;
+	Performance management is a key element of organizational and individual change, and supports the age old saying of &amp;ldquo;what gets measured gets managed&amp;rdquo;. As part of your organizational transformation, executive metrics must cascade down through functional divisions in order to reinforce the actions of people. Performance measures on the manufacturing floor which are designed to quickly and easily identify opportunities for improvement should have a direct link to those measures which are evaluated by managers, which subsequently link to executive measures. This reinforces the &amp;ldquo;bottom-up&amp;rdquo; structure illustrated earlier, whereby decisions are evaluated at each level of your organizational structure, in an efficient and timely manner, in order to gage the overall impact on the system.&lt;br /&gt;
+	&lt;br /&gt;
+	&lt;em&gt;&lt;strong&gt;Conclusion&lt;/strong&gt;&lt;/em&gt;&lt;br /&gt;
+	The business models put in place by Henry Ford and Alfred Sloan are still predominant, and can be highly effective; however, their legacy is not the models themselves, but rather the philosophy behind the creation of the models that should be embraced by American manufacturers. Ford and Sloan improved business as we know it today because they saw an immediate push to align their organizational structures with the needs of the times. Jobs were in high demand, consumers were in high supply and competition was limited. Organizational transformation is once again the need of this time period. People are in high demand, consumers are wiser and more particular, and competition is growing in every industry by the year. The era of organizational rebirth is upon us. Acting now will allow manufacturers to embrace leading-edge methodologies in order to sustain the traditions of American manufacturing.&lt;/p&gt;
+&lt;p&gt;
+	For more information, contact &lt;a href="http://www.LCE.com"&gt;www.LCE.com&lt;/a&gt;.&lt;/p&gt;&lt;img src="http://feeds.feedburner.com/~r/noria/reliableplant/tags/value_stream_mapping/~4/qJxLHRP1vJk" height="1" width="1" alt=""/&gt;</description>
+            <a10:updated>2010-03-16T09:49:38-05:00</a10:updated>
+            <a10:content type="text/html" src="http://reliableplant.com/Read/23447/organizational-rebirth-us-manufacturers" />
+        <feedburner:origLink>http://reliableplant.com/Read/23447/organizational-rebirth-us-manufacturers</feedburner:origLink></item>
+        <item>
+            <guid isPermaLink="false">tag:noria.com,2010-06-10:publishing:magazines:rp:5cae59b6-fd75-42bb-8c38-9d2d00ffae39</guid>
+            <link>http://feedproxy.google.com/~r/noria/reliableplant/tags/value_stream_mapping/~3/JDas1fJcYWE/Value-stream-lean-Callaway</link>
+            <a10:author>
+                <a10:name>RP news wires</a10:name>
+            </a10:author>
+            <category>Videos</category>
+            <category>Media Entries</category>
+            <title>Value stream mapping and lean at Callaway</title>
+            <description>&lt;p&gt;
+	This video explores the use of value stream mapping and lean manufacturing at golf industry giant Callaway.&lt;/p&gt;
+&lt;p&gt;
+	Access this 2-minute, 37-second video by clicking on the link below.&lt;/p&gt;
+&lt;br /&gt;&lt;img src="http://feeds.feedburner.com/~r/noria/reliableplant/tags/value_stream_mapping/~4/JDas1fJcYWE" height="1" width="1" alt=""/&gt;</description>
+            <a10:updated>2010-03-02T15:30:52-06:00</a10:updated>
+            <a10:content type="text/html" src="http://reliableplant.com/View/23180/Value-stream-lean-Callaway" />
+        <feedburner:origLink>http://reliableplant.com/View/23180/Value-stream-lean-Callaway</feedburner:origLink></item>
+        <item>
+            <guid isPermaLink="false">tag:noria.com,2010-06-10:publishing:magazines:rp:8fc38bdf-cecb-433f-8efe-9d2d00903f3b</guid>
+            <link>http://feedproxy.google.com/~r/noria/reliableplant/tags/value_stream_mapping/~3/YxtetY6FQu0/Jim-Womack-value-stream-maps</link>
+            <a10:author>
+                <a10:name>RP news wires</a10:name>
+            </a10:author>
+            <category>Videos</category>
+            <category>Media Entries</category>
+            <title>Jim Womack on reasons for value stream maps</title>
+            <description>&lt;div class="watch-video-desc description"&gt;
+	&lt;span&gt;In this clip from the DVD &amp;quot;Womack on Lean Management&amp;quot;, Jim Womack discusses value stream maps and the reasoning for their creation. &lt;/span&gt;&lt;/div&gt;
+&lt;div class="watch-video-desc description"&gt;
+	&amp;nbsp;&lt;/div&gt;
+&lt;div class="watch-video-desc description"&gt;
+	&lt;span&gt;Access this 4-minute, 29-second video by clicking on the link below.&lt;/span&gt;&lt;/div&gt;
+&lt;br /&gt;&lt;img src="http://feeds.feedburner.com/~r/noria/reliableplant/tags/value_stream_mapping/~4/YxtetY6FQu0" height="1" width="1" alt=""/&gt;</description>
+            <a10:updated>2010-03-02T08:45:09-06:00</a10:updated>
+            <a10:content type="text/html" src="http://reliableplant.com/View/23157/Jim-Womack-value-stream-maps" />
+        <feedburner:origLink>http://reliableplant.com/View/23157/Jim-Womack-value-stream-maps</feedburner:origLink></item>
+        <item>
+            <guid isPermaLink="false">tag:noria.com,2010-06-10:publishing:magazines:rp:672cf724-7059-404d-8ec6-9d0501007407</guid>
+            <link>http://feedproxy.google.com/~r/noria/reliableplant/tags/value_stream_mapping/~3/RPZEeFtIocU/storage-practices-solutions</link>
+            <a10:author>
+                <a10:name>Lista International Corporation</a10:name>
+            </a10:author>
+            <category>Web Exclusives</category>
+            <category>Articles</category>
+            <title>Storage products company practices what it preaches</title>
+            <description>&lt;p&gt;
+	It seems fitting that a company that provides storage and workplace solutions for business and industry &amp;ndash; and whose motto is &amp;ldquo;making workspace work&amp;rdquo; &amp;ndash; should embark on an innovative lean manufacturing program to drive waste out of its own manufacturing processes, resulting in top-quality, competitively priced products, delivered in the shortest time possible. And it is even more fitting that the company would turn to its own products to make the move to lean an especially successful one.&lt;br /&gt;
+	&lt;br /&gt;
+	&amp;ldquo;Our goal as an organization is to delight the customer with all aspects of our products and service,&amp;rdquo; says Peter Lariviere, president of Lista International Corporation. &amp;ldquo;We achieve this through the elimination of costly waste and the implementation of standard work throughout every aspect of the organization, from quoting an order to receipt of payment. Our goal is to provide our customers with moments of excellence throughout our value stream. We strive to be best in industry, in terms of quality, breadth and flexibility of product line, and lead time. Integrating the use of Lista products into our processes has resulted in significant progress in achieving our objectives.&amp;rdquo;&lt;br /&gt;
+	&lt;br /&gt;
+	Lista International, an ISO 9001 certified company, is one of North America&amp;rsquo;s leading manufacturers of storage and workspace systems. Established in 1968 in Holliston, Mass., the corporate headquarters houses a 225,000-square-foot manufacturing facility, as well as design and engineering offices. Lista North America is part of Swiss-based Lista Group, a leader in the manufacture of modular drawer storage systems, workbenches and storage solutions for a wide range of markets and applications. Lista Group employs more than 600 people worldwide.&lt;br /&gt;
+	&lt;br /&gt;
+	&lt;strong&gt;&lt;em&gt;A Lean Philosophy&lt;/em&gt;&lt;/strong&gt;&lt;br /&gt;
+	Lista&amp;rsquo;s goal is to use lean manufacturing concepts to provide customers a broader, improved offering of high-quality, custom-configured products with the shortest turnaround time in the industry. Lista&amp;rsquo;s emphasis is on driving out complexity to create a highly flexible manufacturing environment. The results are impressive.&lt;br /&gt;
+	&lt;br /&gt;
+	The foundation for the lean program began with material flow and process flow improvements made about four years ago. In the last year, Lista has really turned the corner and has steadily reduced its turnaround time from more than two weeks to as little as two to four business days for many popular products. Along the way, they&amp;rsquo;ve moved work centers close together, eliminated travel in the process line, and significantly eliminated waste throughout their delivery system. The company has been able to reduce its inventory by more than 35 percent, while at the same time reducing lead times and improving customer service. Overall, Lista has realized greatly increased productivity and efficiency, and reduced its requirements for floor space.&lt;br /&gt;
+	&lt;br /&gt;
+	&amp;ldquo;We made fundamental changes in the order and delivery system and the manner in which we drive customer orders through our production process with demand replenishment concepts and principles. Kanban is a major component of our manufacturing process, and Lista products are ideal for the application of the kanban systems,&amp;rdquo; said Lariviere. &amp;ldquo;We&amp;rsquo;ve always had fully customizable solutions in our standard two-week delivery program, and now we have customizable products in our Lista Xpress two- to four-day turnaround express delivery program. Lean manufacturing allows us to extend our capabilities &amp;ndash; to expand what we can provide to customers in the shortest lead time possible.&amp;rdquo;&lt;br /&gt;
+	&lt;br /&gt;
+	&lt;strong&gt;&lt;em&gt;Lean Manufacturing Toolkit&lt;/em&gt;&lt;/strong&gt;&lt;br /&gt;
+	Lean manufacturing uses a set of tools that assist in the identification and steady elimination of waste. Among the ones Lista uses are value stream mapping, the 5-S workplace organization and housekeeping system (sort, set in place, shine, standardize, sustain), and a kanban order and inventory withdrawal system.&lt;br /&gt;
+	&lt;br /&gt;
+	&amp;ldquo;We are always looking internally to reduce non-value added process and movement time,&amp;rdquo; said Aaron Tessitore, director of operations, who says that lean methods enabled the Xpress delivery offering to consist of configured, built-to-order products rather than off-the-shelf stocked products. &amp;ldquo;Lista shares the same types of concerns as its customers, such as reducing inventory, consolidating facilities, minimizing floor space, and increasing cash flow. A welcome by-product has been waste elimination and cost reduction.&amp;rdquo;&lt;br /&gt;
+	&lt;br /&gt;
+	&lt;strong&gt;&lt;em&gt;Storage Company, Store Thyself&lt;/em&gt;&lt;/strong&gt;&lt;br /&gt;
+	One of the interesting features about this particular lean manufacturing process is that Lista uses its own product line to help implement the results of the value stream mapping, the 5-S and the kanban setup. Lista products are now totally integrated into its manufacturing process.&lt;br /&gt;
+	&lt;br /&gt;
+	&amp;ldquo;When you think about it,&amp;rdquo; says John Grover, director of lean manufacturing, &amp;ldquo;it&amp;rsquo;s like the reverse of the old saying that the cobbler&amp;rsquo;s children have no shoes. In our case, as an industrial storage company, we had access to a product line that helped us implement waste elimination through space reduction, organization improvement and inventory management. Lista storage cabinets and workbench products are designed to allow dense storage and a smaller footprint. From a material flow standpoint, the Lista flexible workbench line and modular tables made it very easy to add flexibility to the production lines that facilitated faster turnaround time.&amp;rdquo;&lt;br /&gt;
+	&lt;br /&gt;
+	In fact, Lista has long been a solutions provider for lean manufacturers, whether the company needs high-density storage or a highly flexible line of workbench products. The 5-S principles are a capsule description of the leading features of the company&amp;rsquo;s products: highly organized (sort), ideal for tracking inventory (set in place), aesthetically pleasing and easily kept clean (shine), modular in design (standardize) and scalable (sustain).&lt;br /&gt;
+	&lt;br /&gt;
+	The system is set up so everything has a place that is available when needed, from the finished goods area where products are being packaged, through the equipment maintenance area. Everything is labeled and identified using Lista&amp;rsquo;s built-in labeling and identification features, making a 5-S system that is very flexible for whatever the organizational needs may be. Local storage minimizes travel time, and adjustable storage and workbenches make it easier to adapt to the differing needs of individual employees.&lt;br /&gt;
+	&lt;br /&gt;
+	&lt;strong&gt;&lt;em&gt;Lean Manufacturing Benefits Customers&lt;/em&gt;&lt;/strong&gt;&lt;br /&gt;
+	Although lean is sometimes thought of as the ultimate cost-cutting program, Lista&amp;rsquo;s program focused more on customer benefits. &amp;ldquo;All the work we did in our program took aim at compressing the cycle time, which gives our customers added flexibility and minimizes the lead time for our product line, which gives us a competitive advantage in the market,&amp;rdquo; said Tessitore.&lt;br /&gt;
+	&lt;br /&gt;
+	The company is also able to roll out an improved Xpress delivery program offering, with a much more flexible and configurable product, all with a two- to four-day shipping time. Before, because Xpress program products were pre-built and stocked in a warehouse, it was not possible to change anything about an Xpress product to respond to a specific need. The new lean process gives Lista more flexibility in delivering virtually the same turnaround with a much more customizable product that is exactly what the customer wants, not just &amp;ldquo;pretty much&amp;rdquo; what the customer wants.&lt;br /&gt;
+	&lt;br /&gt;
+	Higher quality is also a result of this effort. Fewer components are being made on a job-by-job basis and there are fewer components to deal with during final assembly. This significantly reduces the potential for short shipments and/or mistakes.&lt;br /&gt;
+	&lt;br /&gt;
+	&lt;strong&gt;&lt;em&gt;Value Stream Mapping &amp;ndash; Driving Waste out of Delivery&lt;/em&gt;&lt;/strong&gt;&lt;br /&gt;
+	Lista used value stream mapping to analyze the material, process and information flow used to drive customer requirements and satisfaction goals across the organization. The information was used to develop a current state map, which sets out how things were done. The firm then used a cross-functional team to analyze the current state map to identify opportunities for waste elimination. Finally, the team envisioned a future state based on the exercise. Lista employees at all levels were deeply involved in the value stream mapping and remain involved in the implementation, which gives the organization access to the best thinking and input.&lt;br /&gt;
+	&lt;br /&gt;
+	Lista then began work on implementing the future state. The process is iterative; the future state becomes the current state, and Lista uses a continuous improvement process to go back and identify new ways to reduce waste. Waste is defined very broadly, and includes things like waste in the movement of material, carrying too much inventory, defects or rework, or producing scrap.&lt;br /&gt;
+	&lt;br /&gt;
+	One concrete outcome was the elimination of the need for the company&amp;rsquo;s 17,000-square-foot finished goods inventory warehouse. Since moving toward a build-to-order Xpress system, Lista no longer needs to stock finished goods and has been able to eliminate the warehouse requirement.&lt;br /&gt;
+	&lt;br /&gt;
+	&lt;strong&gt;&lt;em&gt;Kanban &amp;ndash; Stocking/Replenishing System Cuts Overstock&lt;/em&gt;&lt;/strong&gt;&lt;br /&gt;
+	Another key step that drove turnaround times down to the two- to four-day shipping window for Xpress products was the institution of a kanban system, an inventory replenishment system for just-in-time production.&lt;br /&gt;
+	&lt;br /&gt;
+	The system calls for a careful analysis of the manufacturing process, which determined that fabrication of the steel parts prior to being powder coated took the greatest amount of time. Rather than basing manufacturing on customer orders, the new kanban system is directed by usage models, which ensures that just enough stock is ready to paint and assemble to fulfill customer orders. This means Lista no longer has to keep finished goods inventory in stock, but always has material ready to paint and assemble to order.&lt;br /&gt;
+	&lt;br /&gt;
+	Lista&amp;rsquo;s kanban system uses a visual board set up with all the parts listed for a particular work center. Signals are loaded based on consumption, and the operator can see the rate at which parts are being consumed. The entire manufacturing activities are the result of a visual-based demand replenishment system. Operators can see how fast the parts they manufacture are being consumed and can react quickly and decisively to ensure customer requirements are met. The system empowers employees, and allows them to fulfill needs in real time, rather than making products in a sequence which is based on paper-intensive material requirements planning (MRP) documents.&lt;br /&gt;
+	&lt;br /&gt;
+	The kanban system is used to streamline production for Lista&amp;rsquo;s high-volume, repetitive-demand products, primarily the company&amp;rsquo;s most popular workbenches and cabinets. This is about 80 to 85 percent of the company&amp;rsquo;s output.&lt;br /&gt;
+	&lt;br /&gt;
+	&amp;ldquo;It&amp;rsquo;s a shift in a way of looking at the process,&amp;rdquo; says Grover. &amp;ldquo;This is what is meant by lean &amp;ndash; not just eliminating waste in the process, but doing things that are required to add value to the customers, at the lowest cost point in the process and earliest phases. Lean manufacturing pulls all these pieces together, giving you the toolkit, mind-set and the methodology to keep working at a continuous improvement process in an extremely effective manner.&amp;rdquo;&lt;/p&gt;&lt;img src="http://feeds.feedburner.com/~r/noria/reliableplant/tags/value_stream_mapping/~4/RPZEeFtIocU" height="1" width="1" alt=""/&gt;</description>
+            <a10:updated>2010-01-27T13:58:20-06:00</a10:updated>
+            <a10:content type="text/html" src="http://reliableplant.com/Read/22355/storage-practices-solutions" />
+        <feedburner:origLink>http://reliableplant.com/Read/22355/storage-practices-solutions</feedburner:origLink></item>
+        <item>
+            <guid isPermaLink="false">tag:noria.com,2010-06-10:publishing:magazines:rp:9eb67f88-4aa9-4244-a3ce-9cf800da2475</guid>
+            <link>http://feedproxy.google.com/~r/noria/reliableplant/tags/value_stream_mapping/~3/MWw0C2oW8pc/supplier-relationships-lean</link>
+            <a10:author>
+                <a10:name>Darren Dolcemascolo</a10:name>
+            </a10:author>
+            <category>Web Exclusives</category>
+            <category>Articles</category>
+            <title>Supplier relationships in a lean enterprise</title>
+            <description>&lt;P&gt;The traditional purchasing model has buyers and suppliers as adversaries â¦ or at least competitors. The supplier is trying to bid just low enough to get a contract while the buyer is looking for the lowest price. The buyer continually is applying pressure to the supplier, and the supplier has no way to meet the buyerâs demands without sacrificing something. Ultimately, at least one of the organizations loses. However, the lean buyer-supplier model is one of cooperation. The buyer and supplier are partners. If the buyer succeeds, the supplier succeeds. What does such a relationship look like?&lt;/P&gt;
+&lt;P&gt;Entering an outsourcing relationship must create value for both the supplier and buyer. To accomplish this, it is important that the supplier be given the tools and incentives to succeed. &amp;nbsp;First of all, âopen bookâ or transparent costing must be in place. That is, the buyer should be able to know how much it costs the supplier to produce components. The buyerâs goal is no longer to maximize its own profits and minimize the profits of the supplier. Instead, both organizations must work toward increasing total value.&lt;/P&gt;
+&lt;P&gt;An outsourcing contract need not specify the pricing on each item that the supplier will provide; it should specify the method by which prices will be determined. The buyer and supplier need to gain agreement on pricing. Initial pricing can be based on supplier cost plus a reasonable percentage for profit. Generally speaking, pricing on existing products should be expected to decrease. The buyer must challenge the supplier to decrease pricing through productivity improvements, and some form of gain-sharing should be specified. &lt;/P&gt;
+&lt;P&gt;The buyer must ensure that the supplier has the tools to accomplish such improvements. A lean organization must help its suppliers get lean by assisting them in activities such as:&lt;/P&gt;
+&lt;UL&gt;
+&lt;LI&gt;Value stream mapping training and implementation 
+&lt;LI&gt;5-S training and implementation 
+&lt;LI&gt;Kaizen events focused on cellular manufacturing/one-piece flow, TPM, quick changeover and other basic lean tools 
+&lt;LI&gt;Setting up kanban systems &lt;/LI&gt;&lt;/UL&gt;
+&lt;P&gt;If an organization makes such investments in its suppliers, it will build an environment of trust and will create the necessary conditions for its suppliers to succeed. If an organizationâs suppliers are successful, its supply chains will be successful: overall lead time, inventory and costs will decrease. &lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;&lt;U&gt;About the author&amp;nbsp;&lt;/U&gt;&lt;/STRONG&gt;&lt;/P&gt;Darren Dolcemascolo is an internationally recognized lecturer, author and consultant. As senior partner and co-founder of EMS Consulting Group, he specializes in productivity and quality improvement through lean manufacturing. Dolcemascolo has written the book &lt;A href="http://www.lean-supply-chain.com/"&gt;Improving the Extended Value Stream: Lean for the Entire Supply Chain&lt;/A&gt;, published by Productivity Press in 2006. He has also been published in several manufacturing publications and has spoken at such venues as the Lean Management Solutions Conference, Outsourcing World Summit, Biophex, APICS and ASQ. He has a bachelor of science degree in industrial engineering from Columbia University and an MBA with graduate honors from San Diego State University. To learn more, visit &lt;A href="http://www.emsstrategies.com/"&gt;www.emsstrategies.com&lt;/A&gt; or call 866-559-5598.&lt;img src="http://feeds.feedburner.com/~r/noria/reliableplant/tags/value_stream_mapping/~4/MWw0C2oW8pc" height="1" width="1" alt=""/&gt;</description>
+            <a10:updated>2009-09-22T00:00:00-05:00</a10:updated>
+            <a10:content type="text/html" src="http://reliableplant.com/Read/20138/supplier-relationships-lean" />
+        <feedburner:origLink>http://reliableplant.com/Read/20138/supplier-relationships-lean</feedburner:origLink></item>
+        <item>
+            <guid isPermaLink="false">tag:noria.com,2010-06-10:publishing:magazines:rp:19db6550-387f-42f1-a633-9cf800da5761</guid>
+            <link>http://feedproxy.google.com/~r/noria/reliableplant/tags/value_stream_mapping/~3/vDxTQdZRLpU/value-stream-mapping-video</link>
+            <a10:author>
+                <a10:name>RP news wires</a10:name>
+            </a10:author>
+            <category>Videos</category>
+            <category>Media Entries</category>
+            <title>How to perform value stream mapping</title>
+            <description>&lt;IMG height=1 src="http://media.noria.com/sites/archive_images/images_spacer.gif" width=1&gt; 
+&lt;P&gt;This video provides instruction on how to perform a value stream mapping exercise, a helpful lean/Six Sigma tool.&lt;/P&gt;
+&lt;P&gt;Access this 4-minute, 56-second video by clicking on the link below.&lt;/P&gt;&lt;img src="http://feeds.feedburner.com/~r/noria/reliableplant/tags/value_stream_mapping/~4/vDxTQdZRLpU" height="1" width="1" alt=""/&gt;</description>
+            <a10:updated>2009-02-06T00:00:00-06:00</a10:updated>
+            <a10:content type="text/html" src="http://reliableplant.com/View/15755/value-stream-mapping-video" />
+        <feedburner:origLink>http://reliableplant.com/View/15755/value-stream-mapping-video</feedburner:origLink></item>
+        <item>
+            <guid isPermaLink="false">tag:noria.com,2010-06-10:publishing:magazines:rp:d6f57a1c-70ee-4426-97b7-9cf800da56f5</guid>
+            <link>http://feedproxy.google.com/~r/noria/reliableplant/tags/value_stream_mapping/~3/zteCLm365Ig/value-stream-mapping-symbols</link>
+            <a10:author>
+                <a10:name>RP news wires</a10:name>
+            </a10:author>
+            <category>Media Entries</category>
+            <title>Slide show: Value stream mapping symbols</title>
+            <description>&lt;IMG height=1 src="http://media.noria.com/sites/archive_images/images_spacer.gif" width=1&gt; 
+&lt;P&gt;Value stream mapping is a very good tool for lean implementation. Here are some of the symbols you might need to know. &lt;/P&gt;
+&lt;P&gt;Access this 1-minute, 27-second slide show by clicking on the link below.&lt;/P&gt;&lt;img src="http://feeds.feedburner.com/~r/noria/reliableplant/tags/value_stream_mapping/~4/zteCLm365Ig" height="1" width="1" alt=""/&gt;</description>
+            <a10:updated>2009-02-02T00:00:00-06:00</a10:updated>
+            <a10:content type="text/html" src="http://reliableplant.com/View/15644/value-stream-mapping-symbols" />
+        <feedburner:origLink>http://reliableplant.com/View/15644/value-stream-mapping-symbols</feedburner:origLink></item>
+        <item>
+            <guid isPermaLink="false">tag:noria.com,2010-06-10:publishing:magazines:rp:31c4bd19-999d-4e69-bc5e-9cf800da17ef</guid>
+            <link>http://feedproxy.google.com/~r/noria/reliableplant/tags/value_stream_mapping/~3/BmrX3CmmCEU/value-stream-mapping</link>
+            <a10:author>
+                <a10:name>Mike Wroblewski</a10:name>
+            </a10:author>
+            <a10:author>
+                <a10:name>lean sensei</a10:name>
+            </a10:author>
+            <category>Web Exclusives</category>
+            <category>Articles</category>
+            <title>There is value in value stream mapping</title>
+            <description>&lt;P&gt;When we at Batesville Casket Company first embarked on the continuous improvement path, we called it JIT (just-in-time). As the term âleanâ became popular with the book âLean Thinkingâ, we expanded our focus to eliminating waste in our process. We jumped right to massive kaizen mode with literally hundreds of kaizen events across the corporation completed each year. &lt;BR&gt;&lt;BR&gt;The little mistake we made was skipping the identification and mapping of our value streams. Even as it was pointed out by our lean sensei that we should do a value stream map, we did not see the value in value stream maps.&lt;BR&gt;&lt;BR&gt;Our typical mind-set was: Whatâs the big deal in doing a value stream map anyway? Why canât we just make improvements? We know what the problems are and donât need to waste our time doing maps. We see waste now. Just let us attack it. Arenât we making improvements without needing these maps? Maps? We donât need any stinking maps.&lt;BR&gt;&lt;BR&gt;Sure, you can make some improvements without value stream maps; however, we learned that not all of our improvement activity led to bottom-line results. What was worse, our improvements did not always add value to our customer. After a little humble reflection, we realized our lean efforts were nothing more than cost reduction and we were starting to stray off the path. What happened to reducing lead time and increasing customer value?&lt;BR&gt;&lt;BR&gt;We were faced with another change in our thinking and took a step back to learn about value stream maps. After several training sessions and just doing it, we began adding value stream mapping to our âway of doing thingsâ. We still are not experts at value stream mapping, but we have experienced a nice boost to our continuous improvement efforts.&lt;BR&gt;&lt;BR&gt;Where we found the most value in value stream mapping was being able to see and understand the whole process (value stream) where previously no one person ever did. We only knew our little sections of the process. This helped us look at optimizing the whole value stream instead of improving our sections, usually at the expense of the whole. We also started focusing on lead times as opposed to cost reduction. The maps also helped us prioritize our kaizen efforts aimed at making a bigger impact for our customer instead of just a shotgun approach. We now see our kaizen events as âstrategic kaizenâ. Finally, value stream maps helped us all agree on our current state and what our future state vision looks like. With this shared vision, we began to move forward as a team.&lt;BR&gt;&lt;BR&gt;If you have yet to use value stream maps on your lean journey, donât just dismiss them as an optional step. There is value in value stream mapping. &lt;/P&gt;&lt;img src="http://feeds.feedburner.com/~r/noria/reliableplant/tags/value_stream_mapping/~4/BmrX3CmmCEU" height="1" width="1" alt=""/&gt;</description>
+            <a10:updated>2008-07-30T00:00:00-05:00</a10:updated>
+            <a10:content type="text/html" src="http://reliableplant.com/Read/12819/value-stream-mapping" />
+        <feedburner:origLink>http://reliableplant.com/Read/12819/value-stream-mapping</feedburner:origLink></item>
+        <item>
+            <guid isPermaLink="false">tag:noria.com,2010-06-10:publishing:magazines:rp:e3bd3f0e-7138-4a0d-9dbf-9cf800da1681</guid>
+            <link>http://feedproxy.google.com/~r/noria/reliableplant/tags/value_stream_mapping/~3/yqHvpwuY3Tk/value-stream-communications</link>
+            <a10:author>
+                <a10:name>Mike Wroblewski</a10:name>
+            </a10:author>
+            <category>Web Exclusives</category>
+            <category>Articles</category>
+            <title>Optimizing value stream communication</title>
+            <description>&lt;P&gt;In close to 100 percent of all business improvement books, the topic of communication is always considered a key factor to success. I am sure that many of us would agree on the importance of communication, and may even consider it a universal truth. Most companies spend countless hours and substantial money to make sure communication channels are open and flowing. As a result, we have seen some pretty impressive technology over the years, all at our fingertips like cell phones, PDAs, e-mail, laptops, voicemail, etc.&lt;BR&gt;&lt;BR&gt;We focus not only on the quality and quantity of information but the speed of communication from the shop floor to management and back. We look of opportunities to improve communication, including making sure we have solid two-way communication to battle the common complaint of only having one-way communication channels.&lt;BR&gt;&lt;BR&gt;In our lean world, we understand the importance of information flow and communication. In fact, our value stream maps are constructed to focus on both material and information flow, making opportunities visible in both areas.&lt;BR&gt;&lt;BR&gt;But if we examine our value stream map process, we may find that is not always true. How many of us focus more on the material flow while constructing our value stream maps and give little attention to the information flow? Why? Is information flow harder to see? Is it that material flow has easy dollar savings tied to improvements in this area over information flow?&lt;BR&gt;&lt;BR&gt;One of the most important, yet overlooked, areas of improvement in communication in our value stream is the direction of the flow of information. Just look at your value stream map. Are there more information flow arrows moving up and down (vertical) than information flow across the value stream (horizontal)? It is critical to look at improving communication across the value stream, or this horizontal direction. This can reduce errors, remove non-value-added gates and speed up the flow where it is needed most.&lt;BR&gt;&lt;BR&gt;If you take a look at all of our technology advances and communication improvements over the past few years, in which direction are we focusing? Is it more the vertical direction (bottom-top-back down) or is it horizontal (side-to-side)?&lt;BR&gt;&lt;BR&gt;This is not to say that top-down communication is not important â just that we tend to ignore the very important horizontal communication path. Improving our horizontal communication is probably the most critical missing link we have today on our lean journey.&lt;BR&gt;&lt;BR&gt;As an example of the power of horizontal communication, I can recall one event that occurred several years ago at another company. As with most typical manufacturing operations, our process was set up in a traditional manner â assembly followed by 100 percent inspection. The inspector looked over and tested the products, passed on good products and pulled non-conforming products off the line. The inspector, following procedures, marked the products and recorded that data. This information was passed on to the quality manager and then on to the plant manager. The data was reviewed in the next dayâs staff meeting with the supervisors with the action item to deal with it. And certainly, throughout the day, this information could be seen directly only if the quality manger, plant manager or supervisor walked over to the inspection station.&lt;BR&gt;&lt;BR&gt;What do you think about this information flow? How would you improve it?&lt;BR&gt;&lt;BR&gt;Seeing that we lose valuable time between error detection and error countermeasures, we keep the information flow the same except for one major change. We directed the inspector to stop the line and notify the supervisor immediately with each problem. We also added that the inspector could stop the line and walk over to the most probable source of the problem and directly inform the employee of that process about the problem. At first, the plant manager was not happy about all the line shutdowns. But over time, we saw an amazing reduction of errors, which ultimately improved productivity. Isnât that what we are really after?&lt;BR&gt;&lt;BR&gt;Take a quick walk to your gemba and look at the communication flow. Look for any ways to improve horizontal flow. How far apart are the associates in the value stream from each other? Can we change the flow to move them closer together? Can all associates see the proper information boards? Ask each associate what information they need and how fast is it getting to them. Ask each associate how we can improve the flow of information to them and get their ideas. With focus and creativity, improvements in the horizontal flow of information will greatly improve your value stream.&lt;BR&gt;&lt;BR&gt;&lt;STRONG&gt;&lt;U&gt;About the author:&lt;/U&gt;&lt;/STRONG&gt;&lt;BR&gt;Mike Wroblewski started his lean journey with instruction in quick die change from Shigeo Shingo. Mike is currently the lean sensei at Batesville Casket Company in Batesville, Ind. He also writes a blog called â&lt;A href="http://gotboondoggle.blogspot.com/"&gt;Got Boondoggle?&lt;/A&gt;â featuring lean and Six Sigma topics. Check it out at &lt;A href="http://gotboondoggle.blogspot.com/"&gt;http://gotboondoggle.blogspot.com/&lt;/A&gt;. Mike will be a featured lean track speaker at Noria Corporationâs âLean, Reliable and Lubedâ conference, May 20-22, 2008, in Nashville, Tenn. Learn more about this event by visiting &lt;A href="http://www.driveyourplant.com/"&gt;www.driveyourplant.com&lt;/A&gt;.&lt;/P&gt;&lt;img src="http://feeds.feedburner.com/~r/noria/reliableplant/tags/value_stream_mapping/~4/yqHvpwuY3Tk" height="1" width="1" alt=""/&gt;</description>
+            <a10:updated>2008-04-30T00:00:00-05:00</a10:updated>
+            <a10:content type="text/html" src="http://reliableplant.com/Read/11690/value-stream-communications" />
+        <feedburner:origLink>http://reliableplant.com/Read/11690/value-stream-communications</feedburner:origLink></item>
+        <item>
+            <guid isPermaLink="false">tag:noria.com,2010-06-10:publishing:magazines:rp:fd359a17-24a9-4529-b5b2-9cf800da15d4</guid>
+            <link>http://feedproxy.google.com/~r/noria/reliableplant/tags/value_stream_mapping/~3/tBTWX4nXXuc/value-stream-analysis</link>
+            <a10:author>
+                <a10:name>Darren Dolcemascolo</a10:name>
+            </a10:author>
+            <category>Web Exclusives</category>
+            <category>Articles</category>
+            <title>Value stream analysis: Mapping the current state</title>
+            <description>&lt;P&gt;A current state value stream map will enable you to see the complete door-to-door flow in your facility and to identify and prioritize areas for improvement. Before you create a current state map, you should have already &lt;A href="http://www.emsstrategies.com/dd090203article.html" target=_blank&gt;identified the value stream you want to analyze.&lt;/A&gt; You will need a pencil and paper (or laptop) and a stopwatch for obtaining time samples. &lt;BR&gt;&lt;/P&gt;
+&lt;P&gt;Below is a list of the information you will be collecting at each process step: &lt;BR&gt;&lt;/P&gt;
+&lt;P&gt;1.&amp;nbsp; C/T cycle time â how often a part is completed by a process; use a stopwatch if necessary. (In some cases, machines will give you this information). &lt;BR&gt;&lt;/P&gt;
+&lt;P&gt;2.&amp;nbsp; C/O changeover time â the time required to switch from producing one product type to another type. &lt;BR&gt;&lt;/P&gt;
+&lt;P&gt;3.&amp;nbsp; Uptime â the percentage of time in which a machine or process is available on demand. &lt;BR&gt;&lt;/P&gt;
+&lt;P&gt;4.&amp;nbsp; EPEI (production batch sizes) â the batch size expressed in time (days, etc.). EPE stands for âevery part every _____.â &lt;BR&gt;&lt;/P&gt;
+&lt;P&gt;5.&amp;nbsp; Number of operators &lt;BR&gt;&lt;/P&gt;
+&lt;P&gt;6.&amp;nbsp; Number of product variations &lt;BR&gt;&lt;/P&gt;
+&lt;P&gt;7.&amp;nbsp; Pack size â the number of items in a shipment &lt;BR&gt;&lt;/P&gt;
+&lt;P&gt;8.&amp;nbsp; Working time (minus breaks) &lt;BR&gt;&lt;/P&gt;
+&lt;P&gt;9.&amp;nbsp; Scrap rate &lt;BR&gt;&lt;/P&gt;
+&lt;P&gt;Begin with the customerâs requirements. Draw the outside source symbol to indicate the customerâs location to which your product ultimately goes. Draw a data box and record the customer requirements (units required/month, pack size, etc.). There may be multiple customers. Next, continue working backward with the step just before product arrives at the customer, the shipping method. Again, using the appropriate icon, note how frequently product is shipped to your customer(s). &lt;BR&gt;&lt;/P&gt;
+&lt;P&gt;Next, go to your shipping process and draw a process box for shipping. Collect any of the relevant process data and enter it in a data box. Before the shipping operation, draw an inventory icon and indicate how much inventory is waiting for shipment. &lt;BR&gt;&lt;/P&gt;
+&lt;P&gt;You are now ready to analyze the production processes. In door-to-door value stream mapping, you do not necessarily need to map each process step. The process box should indicate one area of material flow. The process box stops wherever processes are disconnected and material flow stops. Note that there may be some (not very significant) work-in-process inventory between processing steps within an area of material flow, but you should still use one processing box.&amp;nbsp; (Note: In door-to-door value stream mapping, if there are distinctly different process steps with WIP in between and transfer between steps in batches, then each step gets its own process box.) &lt;BR&gt;&lt;/P&gt;
+&lt;P&gt;Working backward, create process boxes for each area of material flow. Collect and note all appropriate process data, and show inventory in between process boxes. The last step in the product flow portion of a current state value stream map is to show the transportation of incoming materials and the supplier(s), again using the outside source symbol. &lt;BR&gt;&lt;/P&gt;
+&lt;P&gt;After the physical product flow portion is complete, you need to create the information flow portion of the current state value stream map. This portion is drawn above the physical flow, and it generally begins with the customerâs requirements again. Using process boxes and information boxes, map the information flow from the customerâs requirements back to your supplier(s). For example, your customer gives you a monthly forecast (information box) which is fed into your production control system (process box). The production control system creates a forecast for raw materials that you give to your suppliers.&lt;BR&gt;&lt;/P&gt;
+&lt;P&gt;Lastly, you must tie in your information to your physical product flow. For each physical process step, ask each operator how he/she knows what to work on next. This is a key question that will reveal how effective the information flow is. Draw an arrow from the information flow item that answers this question to the physical flow process box. For example, if there is an assembly operation that is based on a weekly schedule, draw a line with an arrow from the weekly schedule to the assembly process box. Then ask the question, âWhere does the weekly schedule come from?â The answer is typically production control. Another example is your shipping process. Your shipping process might be based on sales orders entered into your system; draw a line from your sales order system to your shipping process box. After youâve done this for all of your physical processes, your current state value stream map is complete. &lt;BR&gt;&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;&lt;U&gt;About the author:&lt;/U&gt;&lt;/STRONG&gt;&lt;STRONG&gt;&lt;BR&gt;&lt;/STRONG&gt;Darren Dolcemascolo is an internationally recognized lecturer, author and consultant. As senior partner and co-founder of EMS Consulting Group, he specializes in productivity and quality improvement through lean manufacturing. Dolcemascolo has written the book &lt;A href="http://www.lean-supply-chain.com/"&gt;Improving the Extended Value Stream: Lean for the Entire Supply Chain&lt;/A&gt;, published by Productivity Press in 2006. He has also been published in several manufacturing publications and has spoken at such venues as the Lean Management Solutions Conference, Outsourcing World Summit, Biophex, APICS and ASQ. He has a bachelor of science degree in industrial engineering from Columbia University and an MBA with graduate honors from San Diego State University. To learn more, visit &lt;A href="http://www.emsstrategies.com/"&gt;www.emsstrategies.com&lt;/A&gt; or call 866-559-5598. &lt;/P&gt;&lt;img src="http://feeds.feedburner.com/~r/noria/reliableplant/tags/value_stream_mapping/~4/tBTWX4nXXuc" height="1" width="1" alt=""/&gt;</description>
+            <a10:updated>2008-04-01T00:00:00-05:00</a10:updated>
+            <a10:content type="text/html" src="http://reliableplant.com/Read/11238/value-stream-analysis" />
+        <feedburner:origLink>http://reliableplant.com/Read/11238/value-stream-analysis</feedburner:origLink></item>
+        <item>
+            <guid isPermaLink="false">tag:noria.com,2010-06-10:publishing:magazines:rp:380d56ac-8c48-4083-8b60-9cf800da13ff</guid>
+            <link>http://feedproxy.google.com/~r/noria/reliableplant/tags/value_stream_mapping/~3/SEgr3ZQeTMk/value-stream</link>
+            <a10:author>
+                <a10:name>Darren Dolcemascolo</a10:name>
+            </a10:author>
+            <category>Web Exclusives</category>
+            <category>Articles</category>
+            <title>Value stream work separates value from waste</title>
+            <description>&lt;P&gt;Identifying the entire value stream for each product or product family in your business is the first step toward eliminating waste. There are three things you will need to understand before you can identify your value stream: &lt;/P&gt;
+&lt;P&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; 1.&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; What is value? &lt;/P&gt;
+&lt;P&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; 2.&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; What is a value stream? &lt;/P&gt;
+&lt;P&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; 3.&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; What is their significance? &amp;nbsp; &lt;/P&gt;
+&lt;P&gt;Simply put, value is what your customers &lt;EM&gt;are willing to &lt;/EM&gt;pay for. And, a value stream is the set of all the actions required to bring a product to the customer. In the value stream, there are actions that create value and actions that create no value. Among the actions that do not create value, there are some that are unavoidable due to current technology, and there are others that can be eliminated immediately. Eliminating actions that create no value is very significant because it will have a dramatic effect on your companyâs bottom line.&lt;STRONG&gt;&amp;nbsp; &lt;/STRONG&gt;&lt;/P&gt;
+&lt;P&gt;Now that you know the definitions, how do you begin to identify the value streams in your business? There are three major steps to identifying your value streams:&amp;nbsp; &lt;/P&gt;
+&lt;P&gt;1.&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Group your products into product families whenever possible. &lt;/P&gt;
+&lt;P&gt;2.&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Select one of your products/product families to be analyzed. &lt;/P&gt;
+&lt;P&gt;3.&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Take a walk through from &lt;EM&gt;the customer back to materials in receiving&lt;/EM&gt;. &lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;&lt;EM&gt;Grouping Your Products&lt;/EM&gt;&lt;/STRONG&gt; &amp;nbsp;&lt;BR&gt;Grouping your products is usually a very simple process. Make a table like Table 1 below. Along the left column, list all of your products. Along the top row, list all of your processes/equipment. Place an âXâ in each cell where a product uses process. While adjustments will likely need to be made later, this will take you a long way in identifying your product families. &amp;nbsp; &lt;/P&gt;
+&lt;P align=center&gt;&lt;STRONG&gt;Table 1 &lt;/STRONG&gt;&lt;/P&gt;
+&lt;TABLE cellSpacing=0 cellPadding=0&gt;
+&lt;TBODY&gt;
+&lt;TR&gt;
+&lt;TD vAlign=bottom width=91&gt;
+&lt;P&gt;&amp;nbsp; &lt;/P&gt;&lt;/TD&gt;
+&lt;TD vAlign=bottom width=234 colSpan=6&gt;
+&lt;P align=center&gt;&lt;STRONG&gt;Process Step&lt;/STRONG&gt;&lt;STRONG&gt;&lt;/STRONG&gt;&lt;/P&gt;&lt;/TD&gt;&lt;/TR&gt;
+&lt;TR&gt;
+&lt;TD vAlign=bottom width=91&gt;
+&lt;P&gt;&lt;STRONG&gt;Product&lt;/STRONG&gt;&lt;STRONG&gt;&lt;/STRONG&gt;&lt;/P&gt;&lt;/TD&gt;
+&lt;TD vAlign=bottom width=33&gt;
+&lt;P align=center&gt;&lt;STRONG&gt;1&lt;/STRONG&gt;&lt;STRONG&gt;&lt;/STRONG&gt;&lt;/P&gt;&lt;/TD&gt;
+&lt;TD vAlign=bottom width=33&gt;
+&lt;P align=center&gt;&lt;STRONG&gt;2&lt;/STRONG&gt;&lt;STRONG&gt;&lt;/STRONG&gt;&lt;/P&gt;&lt;/TD&gt;
+&lt;TD vAlign=bottom width=33&gt;
+&lt;P align=center&gt;&lt;STRONG&gt;3&lt;/STRONG&gt;&lt;STRONG&gt;&lt;/STRONG&gt;&lt;/P&gt;&lt;/TD&gt;
+&lt;TD vAlign=bottom width=28&gt;
+&lt;P align=center&gt;&lt;STRONG&gt;4&lt;/STRONG&gt;&lt;STRONG&gt;&lt;/STRONG&gt;&lt;/P&gt;&lt;/TD&gt;
+&lt;TD vAlign=bottom width=33&gt;
+&lt;P align=center&gt;&lt;STRONG&gt;5&lt;/STRONG&gt;&lt;STRONG&gt;&lt;/STRONG&gt;&lt;/P&gt;&lt;/TD&gt;
+&lt;TD vAlign=bottom width=75&gt;
+&lt;P align=center&gt;&lt;STRONG&gt;6,7,8â¦&lt;/STRONG&gt;&lt;STRONG&gt;&lt;/STRONG&gt;&lt;/P&gt;&lt;/TD&gt;&lt;/TR&gt;
+&lt;TR&gt;
+&lt;TD vAlign=bottom width=91&gt;
+&lt;P&gt;&lt;STRONG&gt;A&lt;/STRONG&gt;&lt;/P&gt;&lt;/TD&gt;
+&lt;TD vAlign=bottom width=33&gt;
+&lt;P align=center&gt;X &lt;/P&gt;&lt;/TD&gt;
+&lt;TD vAlign=bottom width=33&gt;
+&lt;P align=center&gt;&amp;nbsp; &lt;/P&gt;&lt;/TD&gt;
+&lt;TD vAlign=bottom width=33&gt;
+&lt;P align=center&gt;X &lt;/P&gt;&lt;/TD&gt;
+&lt;TD vAlign=bottom width=28&gt;
+&lt;P align=center&gt;X &lt;/P&gt;&lt;/TD&gt;
+&lt;TD vAlign=bottom width=33&gt;
+&lt;P align=center&gt;X &lt;/P&gt;&lt;/TD&gt;
+&lt;TD vAlign=bottom width=75&gt;
+&lt;P align=center&gt;&amp;nbsp; &lt;/P&gt;&lt;/TD&gt;&lt;/TR&gt;
+&lt;TR&gt;
+&lt;TD vAlign=bottom width=91&gt;
+&lt;P&gt;&lt;STRONG&gt;B&lt;/STRONG&gt;&lt;STRONG&gt;&lt;/STRONG&gt;&lt;/P&gt;&lt;/TD&gt;
+&lt;TD vAlign=bottom width=33&gt;
+&lt;P align=center&gt;&amp;nbsp; &lt;/P&gt;&lt;/TD&gt;
+&lt;TD vAlign=bottom width=33&gt;
+&lt;P align=center&gt;X &lt;/P&gt;&lt;/TD&gt;
+&lt;TD vAlign=bottom width=33&gt;
+&lt;P align=center&gt;X &lt;/P&gt;&lt;/TD&gt;
+&lt;TD vAlign=bottom width=28&gt;
+&lt;P align=center&gt;&amp;nbsp; &lt;/P&gt;&lt;/TD&gt;
+&lt;TD vAlign=bottom width=33&gt;
+&lt;P align=center&gt;X &lt;/P&gt;&lt;/TD&gt;
+&lt;TD vAlign=bottom width=75&gt;
+&lt;P align=center&gt;&amp;nbsp; &lt;/P&gt;&lt;/TD&gt;&lt;/TR&gt;
+&lt;TR&gt;
+&lt;TD vAlign=bottom width=91&gt;
+&lt;P&gt;&lt;STRONG&gt;C&lt;/STRONG&gt;&lt;STRONG&gt;&lt;/STRONG&gt;&lt;/P&gt;&lt;/TD&gt;
+&lt;TD vAlign=bottom width=33&gt;
+&lt;P align=center&gt;X &lt;/P&gt;&lt;/TD&gt;
+&lt;TD vAlign=bottom width=33&gt;
+&lt;P align=center&gt;&amp;nbsp; &lt;/P&gt;&lt;/TD&gt;
+&lt;TD vAlign=bottom width=33&gt;
+&lt;P align=center&gt;X &lt;/P&gt;&lt;/TD&gt;
+&lt;TD vAlign=bottom width=28&gt;
+&lt;P align=center&gt;X &lt;/P&gt;&lt;/TD&gt;
+&lt;TD vAlign=bottom width=33&gt;
+&lt;P align=center&gt;X &lt;/P&gt;&lt;/TD&gt;
+&lt;TD vAlign=bottom width=75&gt;
+&lt;P align=center&gt;&amp;nbsp; &lt;/P&gt;&lt;/TD&gt;&lt;/TR&gt;
+&lt;TR&gt;
+&lt;TD vAlign=bottom width=91&gt;
+&lt;P&gt;&lt;STRONG&gt;D&lt;/STRONG&gt;&lt;STRONG&gt;&lt;/STRONG&gt;&lt;/P&gt;&lt;/TD&gt;
+&lt;TD vAlign=bottom width=33&gt;
+&lt;P align=center&gt;&amp;nbsp; &lt;/P&gt;&lt;/TD&gt;
+&lt;TD vAlign=bottom width=33&gt;
+&lt;P align=center&gt;X &lt;/P&gt;&lt;/TD&gt;
+&lt;TD vAlign=bottom width=33&gt;
+&lt;P align=center&gt;X &lt;/P&gt;&lt;/TD&gt;
+&lt;TD vAlign=bottom width=28&gt;
+&lt;P align=center&gt;&amp;nbsp; &lt;/P&gt;&lt;/TD&gt;
+&lt;TD vAlign=bottom width=33&gt;
+&lt;P align=center&gt;X &lt;/P&gt;&lt;/TD&gt;
+&lt;TD vAlign=bottom width=75&gt;
+&lt;P align=center&gt;&amp;nbsp; &lt;/P&gt;&lt;/TD&gt;&lt;/TR&gt;
+&lt;TR&gt;
+&lt;TD vAlign=bottom width=91&gt;
+&lt;P&gt;&lt;STRONG&gt;E,F,Gâ¦&lt;/STRONG&gt;&lt;STRONG&gt;&lt;/STRONG&gt;&lt;/P&gt;&lt;/TD&gt;
+&lt;TD vAlign=bottom width=33&gt;
+&lt;P align=center&gt;&amp;nbsp; &lt;/P&gt;&lt;/TD&gt;
+&lt;TD vAlign=bottom width=33&gt;
+&lt;P align=center&gt;&amp;nbsp; &lt;/P&gt;&lt;/TD&gt;
+&lt;TD vAlign=bottom width=33&gt;
+&lt;P align=center&gt;&amp;nbsp; &lt;/P&gt;&lt;/TD&gt;
+&lt;TD vAlign=bottom width=28&gt;
+&lt;P align=center&gt;&amp;nbsp; &lt;/P&gt;&lt;/TD&gt;
+&lt;TD vAlign=bottom width=33&gt;
+&lt;P align=center&gt;&amp;nbsp; &lt;/P&gt;&lt;/TD&gt;
+&lt;TD vAlign=bottom width=75&gt;
+&lt;P align=center&gt;&amp;nbsp; &lt;/P&gt;&lt;/TD&gt;&lt;/TR&gt;&lt;/TBODY&gt;&lt;/TABLE&gt;
+&lt;P&gt;&amp;nbsp; &lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;&lt;EM&gt;Selecting a Product Family&lt;/EM&gt;&lt;/STRONG&gt;&lt;STRONG&gt;&lt;BR&gt;&lt;/STRONG&gt;There are different criteria you can use for selecting the first product family to be analyzed. This depends on your business situation. Some criteria you might consider are: &amp;nbsp; &lt;/P&gt;
+&lt;P&gt;1. Highest product volume, in dollars &lt;/P&gt;
+&lt;P&gt;2. Highest product volume, in units &lt;/P&gt;
+&lt;P&gt;3. Products with the highest defect rates &lt;/P&gt;
+&lt;P&gt;4. Products with the highest customer return rate &lt;/P&gt;
+&lt;P&gt;5. Products that visit the most processes (You will find that most changes you will make in value stream analysis of a product will apply to many products/product families). &lt;STRONG&gt;&amp;nbsp; &lt;/STRONG&gt;&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;&lt;EM&gt;Making the Initial Walk-Through&lt;/EM&gt;&lt;/STRONG&gt;&lt;STRONG&gt;&lt;BR&gt;&lt;/STRONG&gt;When you make the initial walk-through, begin with the customer and work backward. As you walk through, consider how customer orders are processed, how work on the shop floor is triggered, how orders are transmitted upstream, how materials are supplied, and how products get from the last step in the process to the customer. &lt;/P&gt;
+&lt;P&gt;After walking through, you will be well on your way to identifying and gaining a rudimentary understanding of your value stream. The next step is to create a current state value stream map, which will give you a more detailed picture of your value stream. &lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;About the author:&lt;/STRONG&gt;&lt;STRONG&gt;&lt;BR&gt;&lt;/STRONG&gt;Darren Dolcemascolo is an internationally recognized lecturer, author, and consultant. As senior partner and co-founder of EMS Consulting Group, he specializes in productivity and quality improvement through lean manufacturing. Dolcemascolo has written the book &lt;A href="http://www.lean-supply-chain.com/"&gt;Improving the Extended Value Stream: Lean for the Entire Supply Chain&lt;/A&gt;, published by Productivity Press in 2006. He has also been published in several manufacturing publications and has spoken at such venues as the Lean Management Solutions Conference, Outsourcing World Summit, Biophex, APICS and ASQ. He has a bachelor of science degree in industrial engineering from Columbia University and an MBA with graduate honors from San Diego State University. To learn more, visit &lt;A href="http://www.emsstrategies.com/"&gt;www.emsstrategies.com&lt;/A&gt; or call 866-559-5598. &lt;/P&gt;&lt;img src="http://feeds.feedburner.com/~r/noria/reliableplant/tags/value_stream_mapping/~4/SEgr3ZQeTMk" height="1" width="1" alt=""/&gt;</description>
+            <a10:updated>2008-01-09T00:00:00-06:00</a10:updated>
+            <a10:content type="text/html" src="http://reliableplant.com/Read/9921/value-stream" />
+        <feedburner:origLink>http://reliableplant.com/Read/9921/value-stream</feedburner:origLink></item>
+        <item>
+            <guid isPermaLink="false">tag:noria.com,2010-06-10:publishing:magazines:rp:f640d91b-60c0-421a-8e0e-9cf800da13a1</guid>
+            <link>http://feedproxy.google.com/~r/noria/reliableplant/tags/value_stream_mapping/~3/BurkaU7mbCk/value-stream-mapping</link>
+            <a10:author>
+                <a10:name>Darren Dolcemascolo</a10:name>
+            </a10:author>
+            <category>Web Exclusives</category>
+            <category>Articles</category>
+            <title>Value stream mapping is superb identification, planning tool</title>
+            <description>&lt;P&gt;Value stream improvement, sometimes called âflow-level kaizen,â is the best tool for identifying and planning opportunities for process kaizen. People often mistake value stream mapping for process mapping. Process mapping simply involves mapping any process. Value stream mapping involves mapping information and product flow for a given value stream. The mapping is done in such a way that allows one to visualize the current state and to plan and implement a future state with measurable goals. &lt;/P&gt;
+&lt;P&gt;Before value stream mapping was popular in the United States, organizations utilized process kaizen tools while largely ignoring their effect on the entire value stream. This led to successes in individual areas without the ability to demonstrate significant improvement to the value stream as a whole. Value stream mapping allows organizations to target the right areas for process kaizen and to track, measure, and demonstrate the effects that process kaizen improvements will have. &lt;/P&gt;
+&lt;P&gt;How does it do this? First, current state value stream mapping allows an organization to identify waste and sources of waste. It forces people to ask why things are done a certain way, which uncovers many opportunities for improvement. The current state provides a baseline from which people can work to create a lean future state. &lt;/P&gt;
+&lt;P&gt;Future state mapping is a process by which organizations identify a lean future condition. This future condition includes things like continuous flow manufacturing wherever possible, supermarkets or FIFO lanes (depending on the degree to which the products are custom) where continuous flow is not possible, and level production. Finally, they identify the types of process improvements that need to be made to achieve the future state. We recommend conducting a brainstorming session to identify such improvements. &lt;/P&gt;
+&lt;P&gt;After the future state has been created, a critical part of value stream mapping is creating an implementation plan. Based on the future state map, an implementation plan identifies each activity required to achieve the future state, the responsible team/individual, and the due date. Activities on an implementation plan will typically include kaizen events and "Six Sigma" type projects. Targeting such activities improves their bottom-line effectiveness since each activity will be leading to value stream improvement. &lt;/P&gt;
+&lt;P&gt;Value stream mapping is primarily a planning tool. It allows an organization to identify waste and sources of waste for a given value stream, systematically create a lean future state with less waste, and plan the implementation of the future state. &lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;About the author: &lt;/STRONG&gt;&lt;/P&gt;
+&lt;P&gt;Darren Dolcemascolo is an internationally recognized lecturer, author, and consultant. As Sr. Partner and co-founder of EMS Consulting Group, he specializes in productivity and quality improvement through lean manufacturing. Mr. Dolcemascolo has written the book &lt;A href="http://www.lean-supply-chain.com/"&gt;Improving the Extended Value Stream: Lean for the Entire Supply Chain&lt;/A&gt;, published by Productivity Press in 2006. He has also been published in several manufacturing publications and has spoken at such venues as the Lean Management Solutions Conference, Outsourcing World Summit, Biophex, APICS and ASQ. He has a bachelor of science degree in Industrial Engineering from Columbia University and an MBA with graduate honors from San Diego State University. &lt;/P&gt;&lt;img src="http://feeds.feedburner.com/~r/noria/reliableplant/tags/value_stream_mapping/~4/BurkaU7mbCk" height="1" width="1" alt=""/&gt;</description>
+            <a10:updated>2007-12-12T00:00:00-06:00</a10:updated>
+            <a10:content type="text/html" src="http://reliableplant.com/Read/9559/value-stream-mapping" />
+        <feedburner:origLink>http://reliableplant.com/Read/9559/value-stream-mapping</feedburner:origLink></item>
+        <item>
+            <guid isPermaLink="false">tag:noria.com,2010-06-10:publishing:magazines:rp:7540bb5f-c44e-4c0c-91f0-9cf800da3c9c</guid>
+            <link>http://feedproxy.google.com/~r/noria/reliableplant/tags/value_stream_mapping/~3/JzZPLI8I6_A/value-stream-maturity-model</link>
+            <a10:author>
+                <a10:name>RP news wires</a10:name>
+            </a10:author>
+            <category>Videos</category>
+            <category>Media Entries</category>
+            <title>Discussion on the Value Stream Maturity Model</title>
+            <description>&lt;P&gt;This clip discusses the concept of the Value Stream Maturity Model. The maturity of a value stream should be assessed in order to determine the work that needs to be done and the sustainability of the changes that will be implemented. &lt;/P&gt;
+&lt;P&gt;Access this 10-minute video by clicking on the link below.&lt;/P&gt;&lt;img src="http://feeds.feedburner.com/~r/noria/reliableplant/tags/value_stream_mapping/~4/JzZPLI8I6_A" height="1" width="1" alt=""/&gt;</description>
+            <a10:updated>2007-11-12T00:00:00-06:00</a10:updated>
+            <a10:content type="text/html" src="http://reliableplant.com/View/9041/value-stream-maturity-model" />
+        <feedburner:origLink>http://reliableplant.com/View/9041/value-stream-maturity-model</feedburner:origLink></item>
+        <item>
+            <guid isPermaLink="false">tag:noria.com,2010-06-10:publishing:magazines:rp:0ee9e565-2e14-422a-9239-9cf800da3bc0</guid>
+            <link>http://feedproxy.google.com/~r/noria/reliableplant/tags/value_stream_mapping/~3/Q7NnjLUCAow/value-stream-plant</link>
+            <a10:author>
+                <a10:name>RP news wires</a10:name>
+            </a10:author>
+            <category>Videos</category>
+            <category>Media Entries</category>
+            <title>Mapping your plant's value stream</title>
+            <description>&lt;P&gt;This 2-minute video provides a brief look at the lean manufacturing tool called value stream mapping.&lt;/P&gt;
+&lt;P&gt;Access this video by clicking on the link below.&lt;/P&gt;&lt;img src="http://feeds.feedburner.com/~r/noria/reliableplant/tags/value_stream_mapping/~4/Q7NnjLUCAow" height="1" width="1" alt=""/&gt;</description>
+            <a10:updated>2007-10-22T00:00:00-05:00</a10:updated>
+            <a10:content type="text/html" src="http://reliableplant.com/View/8735/value-stream-plant" />
+        <feedburner:origLink>http://reliableplant.com/View/8735/value-stream-plant</feedburner:origLink></item>
+        <item>
+            <guid isPermaLink="false">tag:noria.com,2010-06-10:publishing:magazines:rp:5d35d6b5-56de-4bef-80cc-9cf800da359d</guid>
+            <link>http://feedproxy.google.com/~r/noria/reliableplant/tags/value_stream_mapping/~3/hKYvk33YXBw/value-stream-mapping-simple</link>
+            <a10:author>
+                <a10:name>RP news wires</a10:name>
+            </a10:author>
+            <category>Videos</category>
+            <category>Media Entries</category>
+            <title>Value stream mapping made simple</title>
+            <description>&lt;P&gt;Are you looking for ways to improve your processes? Change the layout of your plant floor? Enhance your lean manufacturing initiative?&lt;/P&gt;
+&lt;P&gt;Value stream mapping can be an exceptionally useful tool to help you achieve any or all of those things.&lt;/P&gt;
+&lt;P&gt;In this 7 minute 30 second PowerPoint presentation audio/video, Bill Webb and Jim Bickerstaff provide background information and specifics on value stream mapping.&lt;/P&gt;
+&lt;P&gt;Access it by clicking on the link.&lt;/P&gt;&lt;img src="http://feeds.feedburner.com/~r/noria/reliableplant/tags/value_stream_mapping/~4/hKYvk33YXBw" height="1" width="1" alt=""/&gt;</description>
+            <a10:updated>2007-03-29T00:00:00-05:00</a10:updated>
+            <a10:content type="text/html" src="http://reliableplant.com/View/6660/value-stream-mapping-simple" />
+        <feedburner:origLink>http://reliableplant.com/View/6660/value-stream-mapping-simple</feedburner:origLink></item>
+        <item>
+            <guid isPermaLink="false">tag:noria.com,2010-06-10:publishing:magazines:rp:eabf09b3-ded5-41be-9c27-9cf800df013f</guid>
+            <link>http://feedproxy.google.com/~r/noria/reliableplant/tags/value_stream_mapping/~3/WUB7B8kPae0/value-stream-mapping-value</link>
+            <a10:author>
+                <a10:name>RP news wires</a10:name>
+            </a10:author>
+            <category>Industry News</category>
+            <category>Articles</category>
+            <title>Workshop examines the value of value stream mapping</title>
+            <description>&lt;P class=MsoNormal style="MARGIN: 0in 0in 0pt"&gt;&lt;SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial"&gt;Pelion Systems, a leader in lean manufacturing solutions, announced the launch of a new series of workshops titled âValue Stream Mapping: Beyond Whiteboards.â A part of Pelionâs TurboLean education initiative, the workshops are designed to help manufacturers take steps toward actively managing their value streams to accelerate progress toward running lean operations.&lt;?xml:namespace prefix = o ns = "urn:schemas-microsoft-com:office:office" /&gt;&lt;o:p&gt;&lt;/o:p&gt;&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class=MsoNormal style="MARGIN: 0in 0in 0pt"&gt;&lt;SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial"&gt;&lt;o:p&gt;&amp;nbsp;&lt;/o:p&gt;&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class=MsoNormal style="MARGIN: 0in 0in 0pt"&gt;&lt;SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial"&gt;Using easy-to-learn tools and concepts, students will be empowered to go beyond the typical static methods of value stream mapping and begin building dynamic value stream maps with the purpose of:&lt;o:p&gt;&lt;/o:p&gt;&lt;/SPAN&gt;&lt;/P&gt;
+&lt;UL style="MARGIN-TOP: 0in" type=disc&gt;
+&lt;LI class=MsoNormal style="MARGIN: 0in 0in 0pt; mso-list: l0 level1 lfo1; tab-stops: list .5in"&gt;&lt;SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial"&gt;Identifying breakthrough opportunities for improvement&lt;o:p&gt;&lt;/o:p&gt;&lt;/SPAN&gt;&lt;/LI&gt;
+&lt;LI class=MsoNormal style="MARGIN: 0in 0in 0pt; mso-list: l0 level1 lfo1; tab-stops: list .5in"&gt;&lt;SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial"&gt;Gaining consensus in the organization to make those breakthroughs a reality&lt;o:p&gt;&lt;/o:p&gt;&lt;/SPAN&gt;&lt;/LI&gt;
+&lt;LI class=MsoNormal style="MARGIN: 0in 0in 0pt; mso-list: l0 level1 lfo1; tab-stops: list .5in"&gt;&lt;SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial"&gt;Creating a program management framework for achieving those breakthroughs&lt;o:p&gt;&lt;/o:p&gt;&lt;/SPAN&gt;&lt;/LI&gt;&lt;/UL&gt;
+&lt;P class=MsoNormal style="MARGIN: 0in 0in 0pt"&gt;&lt;SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial"&gt;&lt;o:p&gt;&lt;/o:p&gt;&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class=MsoNormal style="MARGIN: 0in 0in 0pt"&gt;&lt;SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial"&gt;Initial one-day workshops will be led by Pelion chief technology officer Dave Gleditsch, a 30-year manufacturing industry veteran who has driven some of the worldâs most successful lean transformation programs. The course is conducted in a âteach and doâ format where students will learn in class how to create value stream maps of both current and future states considering product flow strategies and customer value as the compelling drivers.&lt;o:p&gt;&lt;/o:p&gt;&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class=MsoNormal style="MARGIN: 0in 0in 0pt"&gt;&lt;SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial"&gt;&lt;o:p&gt;&amp;nbsp;&lt;/o:p&gt;&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class=MsoNormal style="MARGIN: 0in 0in 0pt"&gt;&lt;SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial"&gt;Appropriate lean manufacturing principles will be used along the way as students work to define the current state, identify wastes and opportunities and discuss how lean tools can be applied to create a future state map with an improvement plan. &lt;o:p&gt;&lt;/o:p&gt;&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class=MsoNormal style="MARGIN: 0in 0in 0pt"&gt;&lt;SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial"&gt;.&lt;o:p&gt;&lt;/o:p&gt;&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class=MsoNormal style="MARGIN: 0in 0in 0pt"&gt;&lt;SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial"&gt;âOur goal is to provide students with real hands-on practice by using a representative factory as a case study for process observation,â Gleditsch said. âThe future state map review will demonstrate how to apply lean principles and tools to eliminate waste and create an improvement plan. We also provide students with a very effective tool for moving from discussions, chart paper and spreadsheets to real lean intelligence that can be leveraged as an annuity in executing that plan.â&lt;o:p&gt;&lt;/o:p&gt;&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class=MsoNormal style="MARGIN: 0in 0in 0pt"&gt;&lt;SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial"&gt;&lt;o:p&gt;&amp;nbsp;&lt;/o:p&gt;&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class=MsoNormal style="MARGIN: 0in 0in 0pt"&gt;&lt;SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial"&gt;The workshop is designed as a 100-level course and is appropriate for value stream mapping beginners or practitioners looking for new knowledge and tools to improve factory operations and advance their lean efforts. &lt;o:p&gt;&lt;/o:p&gt;&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class=MsoNormal style="MARGIN: 0in 0in 0pt"&gt;&lt;SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial"&gt;&lt;o:p&gt;&amp;nbsp;&lt;/o:p&gt;&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P class=MsoNormal style="MARGIN: 0in 0in 0pt"&gt;&lt;SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial"&gt;Visit &lt;A title=http://www.pelionsystems.com href="http://www.pelionsystems.com/"&gt;&lt;U&gt;&lt;FONT color=#0000ff&gt;www.pelionsystems.com&lt;/FONT&gt;&lt;/U&gt;&lt;/A&gt; for more information and to register for an upcoming workshop or contact Pelion at 888-LEAN-FWD to discuss scheduling a customized workshop for your company.&lt;o:p&gt;&lt;/o:p&gt;&lt;/SPAN&gt;&lt;/P&gt;&lt;img src="http://feeds.feedburner.com/~r/noria/reliableplant/tags/value_stream_mapping/~4/WUB7B8kPae0" height="1" width="1" alt=""/&gt;</description>
+            <a10:updated>2007-02-19T00:00:00-06:00</a10:updated>
+            <a10:content type="text/html" src="http://reliableplant.com/Read/4829/value-stream-mapping-value" />
+        <feedburner:origLink>http://reliableplant.com/Read/4829/value-stream-mapping-value</feedburner:origLink></item>
+    </channel>
+</rss>

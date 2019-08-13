@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Medical Device Assembly</title>
+    <description>
+      <![CDATA[Short reports on issues affecting medical device manufacturers.]]>
+    </description>
+    <link>http://www.assemblymag.com/rss</link>
+    <language>en-us</language>
+    <item>
+      <title>MES software helps manufacturer of revolutionary hearing aid</title>
+      <author>sprovierij@bnpmedia.com (John Sprovieri)</author>
+      <description>
+        <![CDATA[<p>Approximately 2 percent of adults aged 45 to 54 have disabling hearing loss. That rate increases to 8.5 percent for adults aged 55 to 64, 25 percent for those aged 65 to 74, and 50 percent for those who are 75 and older.</p>
+]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93573</guid>
+      <pubDate>Sat, 01 Oct 2016 00:00:00 -0400</pubDate>
+      <link>http://www.assemblymag.com/articles/93573-mes-software-helps-manufacturer-of-revolutionary-hearing-aid</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Issues/2016/October/asb1016med1.jpg?1475254702" type="image/jpeg" length="40706"/>
+    </item>
+    <item>
+      <title>Lab automation depends on accurate motion control</title>
+      <author>sprovierij@bnpmedia.com (John Sprovieri)</author>
+      <description>
+        <![CDATA[<p>
+	The advent of laboratory automation systems has made a significant impact on clinical diagnostics, drug discovery, food and agricultural research, and forensics.</p>
+]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93501</guid>
+      <pubDate>Thu, 04 Aug 2016 00:00:00 -0400</pubDate>
+      <link>http://www.assemblymag.com/articles/93501-lab-automation-depends-on-accurate-motion-control</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Issues/2016/August/asb0816medic1.jpg?1470319458" type="image/jpeg" length="77170"/>
+    </item>
+    <item>
+      <title>Lasers ensure particulate-free joining of plastic parts.</title>
+      <author>sprovierij@bnpmedia.com (John Sprovieri)</author>
+      <description>
+        <![CDATA[<p>
+	As plastic medical devices get smaller and more intricate, engineers have fewer options for assembling them.</p>
+]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93332</guid>
+      <pubDate>Wed, 06 Apr 2016 00:00:00 -0400</pubDate>
+      <link>http://www.assemblymag.com/articles/93332-lasers-ensure-particulate-free-joining-of-plastic-parts</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Issues/2016/April/asb0416mda2.jpg?1459965175" type="image/jpeg" length="165510"/>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/April/asb0416mda2.jpg?1459965175" type="image/jpeg" fileSize="165510">
+        <media:title type="plain">mda 2</media:title>
+        <media:description type="plain">
+	This plastic microfluidic device was welded with a laser. Photo courtesy Branson Ultrasonics Corp.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/April/asb0416mda1.jpg?1459965270" type="image/jpeg" fileSize="52318">
+        <media:title type="plain">mda 1</media:title>
+        <media:description type="plain">
+	In Branson&amp;rsquo;s laser welding process, fiber optic bundles transmit laser light through a waveguide that uniformly distributes the energy to the entire joint line simultaneously. The light passes through the top part and is absorbed by the bottom part. The absorptive part converts the energy to heat, which conducts across the interface to melt both parts and produce a weld. Photo courtesy Branson Ultrasonics Corp.
+</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>Systems Integrator takes diverse approach to medical device assembly systems</title>
+      <author>sprovierij@bnpmedia.com (John Sprovieri)</author>
+      <description>
+        <![CDATA[<p>
+	There are many ways to run a custom machine building business. Some systems integrators are dedicated to a particular industry, such as auto parts manufacturing. Others specialize in a particular kind of assembly machine, such as high-speed continuous motion systems.</p>
+]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93213</guid>
+      <pubDate>Mon, 01 Feb 2016 00:00:00 -0500</pubDate>
+      <link>http://www.assemblymag.com/articles/93213-systems-integrator-takes-diverse-approach-to-medical-device-assembly-systems</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Issues/2016/February/asb0216med1.jpg?1454081348" type="image/jpeg" length="176329"/>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/February/asb0216med1.jpg?1454081348" type="image/jpeg" fileSize="176329">
+        <media:title type="plain">medical device assembly</media:title>
+        <media:description type="plain">
+	Robots assemble sensors used for diagnosing heart attacks. Photo courtesy Evana Automation Specialists
+</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>Femtosecond lasers improve processing of metal, plastic parts</title>
+      <description>
+        <![CDATA[<p>
+	Microsecond fiber lasers have been used successfully to cut hypotubes and stents for many years. While these lasers are precise and fast, they have a downside. Parts cut with them require several post-processing operations, which add cost and can damage delicate parts.</p>]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93059</guid>
+      <pubDate>Thu, 01 Oct 2015 00:00:00 -0400</pubDate>
+      <link>http://www.assemblymag.com/articles/93059-femtosecond-lasers-improve-processing-of-metal-plastic-parts</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Issues/2015/October/asb1015med1.jpg?1443718095" type="image/jpeg" length="74311"/>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/October/asb1015med1.jpg?1443718095" type="image/jpeg" fileSize="74311">
+        <media:title type="plain">femtosecond lasers</media:title>
+        <media:description type="plain">
+	Femtosecond lasers cut by cold ablation rather than melt ejection. As a result, they can cut very fine details, and parts require minimal post-processing. Illustration courtesy Amada Miyachi America Inc.
+</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>New adhesives solve medical device assembly challenges.</title>
+      <description>
+        <![CDATA[<p>
+	Engineers have many options for joining identical or similar materials. To join, say, a steel part to another steel part, engineers can use screws, rivets, welds, adhesives, clinches or press-fits.</p>
+]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/92785</guid>
+      <pubDate>Thu, 02 Apr 2015 00:00:00 -0400</pubDate>
+      <link>http://www.assemblymag.com/articles/92785-new-adhesives-solve-medical-device-assembly-challenges</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Issues/2015/April/asb0415med1.jpg?1427987235" type="image/jpeg" length="90058"/>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/April/asb0415med1.jpg?1427987235" type="image/jpeg" fileSize="90058">
+        <media:title type="plain">medical feature</media:title>
+        <media:description type="plain">
+	Dymax has introduced a new LED-curable adhesive for assembling catheters made with Nylon 12 and PEBA. Photo courtesy Dymax Corp.
+</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>Sterilization processes can influence medical device design</title>
+      <author>sprovierij@bnpmedia.com (John Sprovieri)</author>
+      <description>
+        <![CDATA[<p>
+	Medical device engineers have many considerations when designing an assembly. Safety and effectiveness are top priorities, of course, followed closely by cost.</p>
+]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/92430</guid>
+      <pubDate>Thu, 02 Oct 2014 00:00:00 -0400</pubDate>
+      <link>http://www.assemblymag.com/articles/92430-sterilization-processes-can-influence-medical-device-design</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Issues/2014/October/mda/asb1014mda1.jpg?1412274797" type="image/jpeg" length="37183"/>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2014/October/mda/asb1014mda11.jpg?1412274897" type="image/jpeg" fileSize="48264">
+        <media:title type="plain">medical slide</media:title>
+        <media:description type="plain">
+	The FDA&amp;rsquo;s design controls standard is intended to help medical device companies cover all the bases when designing and manufacturing new products. Photo courtesy Sanofi-Aventis U.S. LLC
+</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>Design controls help prevent medical device failures</title>
+      <author>sprovierij@bnpmedia.com (John Sprovieri)</author>
+      <description>
+        <![CDATA[<p>
+	<span _fck_bookmark="1" style="display: none;">&nbsp;</span>Medical device engineers are great at designing innovative, life-saving gizmos.&nbsp;&nbsp;</p>
+]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/92034</guid>
+      <pubDate>Tue, 01 Apr 2014 08:00:00 -0400</pubDate>
+      <link>http://www.assemblymag.com/articles/92034-design-controls-help-prevent-medical-device-failures</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Issues/2014/april/medical-device-failures/medicalFeature.png?1396030452" type="image/png" length="149657"/>
+    </item>
+    <item>
+      <title>Failure Modes Analysis Aids Design of Medical Devices</title>
+      <author>sprovierij@bnpmedia.com (John Sprovieri)</author>
+      <description>
+        <![CDATA[<p>
+	In 2011, the U.S. Food and Drug Administration received more than 400,000 reports of adverse events related to medical devices. More than 12 percent of those events resulted in hospitalization.</p>]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/91567</guid>
+      <pubDate>Tue, 01 Oct 2013 09:00:00 -0400</pubDate>
+      <link>http://www.assemblymag.com/articles/91567-failure-modes-analysis-aids-design-of-medical-devices</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Issues/October2013/asb1013med1.jpg?1380551868" type="image/jpeg" length="18483"/>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/October2013/asb1013med11.jpg?1380551956" type="image/jpeg" fileSize="25349">
+        <media:title type="plain">Failures in medical devices</media:title>
+        <media:description type="plain">Researchers at the University of Maryland have developed a new methodology for identifying the modes, mechanisms and causes of failures in medical devices.</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>New Conformal Coating Has Antimicrobial Properties</title>
+      <description>
+        <![CDATA[<p>
+	The conformal coating Parylene has long been known for its excellent dielectric strength, high thermal stability (up to 450 C), dry-film lubricity and outstanding chemical resistance. Those properties have made the material a staple for coating printed circuit boards and electronic devices exposed to environmental extremes.</p>]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/91332</guid>
+      <pubDate>Mon, 01 Jul 2013 08:59:00 -0400</pubDate>
+      <link>http://www.assemblymag.com/articles/91332-new-conformal-coating-has-antimicrobial-properties</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Issues/July2013/asb0713med1.jpg?1372352390" type="image/jpeg" length="20548"/>
+    </item>
+    <item>
+      <title>Usability Tests Lend Insight Into Medical Device Design</title>
+      <author>sprovierij@bnpmedia.com (John Sprovieri)</author>
+      <description>
+        <![CDATA[<p>
+	Each year, the U.S. Food and Drug Administration logs some 100,000 reports of adverse events related to medical devices. More than a third of those are due to human error.</p>]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/91082</guid>
+      <pubDate>Mon, 01 Apr 2013 09:00:00 -0400</pubDate>
+      <link>http://www.assemblymag.com/articles/91082-usability-tests-lend-insight-into-medical-device-design</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Issues/April2013/asb0413med422.jpg?1364485624" type="image/jpeg" length="42677"/>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/April2013/asb0413med1slideshow.jpg?1364485887" type="image/jpeg" fileSize="64641">
+        <media:title type="plain">medical device design</media:title>
+        <media:description type="plain">
+	When designing medical devices, engineers should not overestimate the physical, perceptual or cognitive abilities of the user. Photo courtesy Eclipse Product Development
+</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>Opposition Mounts to Tax on Medical Devices</title>
+      <author>sprovierij@bnpmedia.com (John Sprovieri)</author>
+      <description>
+        <![CDATA[<p>
+	&ldquo;Implementation of the medical device tax will cost our economy thousands of high-paying jobs.&rdquo; &mdash;Gail Rodriguez, MITA</p>]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/90797</guid>
+      <pubDate>Thu, 03 Jan 2013 09:00:00 -0500</pubDate>
+      <link>http://www.assemblymag.com/articles/90797-opposition-mounts-to-tax-on-medical-devices</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Issues/Jan2013/asb0113medicalReview.jpg?1356115630" type="image/jpeg" length="33288"/>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/Jan2013/asb0113medical11.jpg?1356115597" type="image/jpeg" fileSize="55682">
+        <media:title type="plain">Tax on medical devices</media:title>
+        <media:description type="plain">
+	Manufacturers, trade associations and even several Democratic senators are calling for a delay or a repeal of a new, 2.3 percent excise tax on medical devices. Photo courtesy Europlaz Technologies Ltd.
+</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>Clean Room Robots Assemble Medical Devices</title>
+      <author>sprovierij@bnpmedia.com (John Sprovieri)</author>
+      <description>
+        <![CDATA[<p>
+	EPSON&rsquo;s new robot can withstand exposure to vapor-ized hydrogen peroxide gas.</p>]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/90725</guid>
+      <pubDate>Mon, 03 Dec 2012 09:00:00 -0500</pubDate>
+      <link>http://www.assemblymag.com/articles/90725-clean-room-robots-assemble-medical-devices</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Issues/December2012/DENSO_VS_ISO_3_Cleanroom_Robot.jpg?1354209081" type="image/jpeg" length="8854"/>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/December2012/DENSO_VS_ISO_3_Cleanroom_Robot1.jpg?1425972572" type="image/jpeg" fileSize="8564">
+        <media:title type="plain">Denso robot</media:title>
+        <media:description type="plain">
+	These compact, six-axis robots are designed for use in aseptic environments. Photos courtesy EPSON Robots and DENSO Robotics.</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/December2012/asb1212nn4.jpg?1425972572" type="image/jpeg" fileSize="8833">
+        <media:title type="plain">Denso robot</media:title>
+        <media:description type="plain">
+	&amp;nbsp;These compact, six-axis robots are designed for use in aseptic environments.&amp;nbsp;Photos courtesy EPSON Robots and DENSO Robotics.</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>Prototyping Improves Design Of Medical Devices</title>
+      <author>sprovierij@bnpmedia.com (John Sprovieri)</author>
+      <description>
+        <![CDATA[
+	Doctors rarely make house calls, but if you give them a chance to see their technology ideas become reality, they won&rsquo;t hesitate to pay you a visit.</p>
+]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/90467</guid>
+      <pubDate>Tue, 04 Sep 2012 00:00:00 -0400</pubDate>
+      <link>http://www.assemblymag.com/articles/90467-prototyping-improves-design-of-medical-devices</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Issues/September2012/asb0912med1.jpg?1346265187" type="image/jpeg" length="14097"/>
+    </item>
+    <item>
+      <title>Medical Device Assemblers Pin Down Savings</title>
+      <author></author>
+      <description>
+        <![CDATA[Simple changes saved the manufacturer more than $2.3 million annually.</p>]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/90170</guid>
+      <pubDate>Fri, 01 Jun 2012 00:00:00 -0400</pubDate>
+      <link>http://www.assemblymag.com/articles/90170-medical-device-assemblers-pin-down-savings-</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Issues/June2012/asb0612med112.jpg?1338386309" type="image/jpeg" length="30244"/>
+    </item>
+    <item>
+      <title>Medical Device Assembly:Top 10 Reasons Medical Devices Fail</title>
+      <author>sprovierij@bnpmedia.com (John Sprovieri)</author>
+      <description>
+        <![CDATA[<p>More than 90 percent of electronic medical devices initially fail to comply with standards.</p>]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/89834</guid>
+      <pubDate>Thu, 01 Mar 2012 00:00:00 -0500</pubDate>
+      <link>http://www.assemblymag.com/articles/89834-medical-device-assembly-top-10-reasons-medical-devices-fail</link>
+    </item>
+    <item>
+      <title>Medical Device Assembly: Laser Welds Plastic Parts for Infusion Pump</title>
+      <author>sprovierij@bnpmedia.com (John Sprovieri)</author>
+      <description>
+        <![CDATA[A European medical device manufacturer uses a laser welding system from Leister Process Technologies to assemble a new infusion pump.]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/89400</guid>
+      <pubDate>Fri, 18 Nov 2011 12:38:00 -0500</pubDate>
+      <link>http://www.assemblymag.com/articles/89400-medical-device-assembly-laser-welds-plastic-parts-for-infusion-pump</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Default_Images/JohnSpro.jpg?1383068824" type="image/jpeg" length="14743"/>
+    </item>
+    <item>
+      <title>Medical Device Assembly: IOM Report Urges FDA to Scrap 510(k) Process</title>
+      <author>sprovierij@bnpmedia.com (John Sprovieri)</author>
+      <description>
+        <![CDATA[The FDA should develop a new regulatory
+framework to replace the 510(k) clearance process for moderate-risk medical
+devices, advises a report issued July 29 by the Institute of Medicine.]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/88897</guid>
+      <pubDate>Wed, 24 Aug 2011 12:39:00 -0400</pubDate>
+      <link>http://www.assemblymag.com/articles/88897-medical-device-assembly-iom-report-urges-fda-to-scrap-510-k-process</link>
+    </item>
+    <item>
+      <title>Medical Device Assembly: Medical Device Assemblers Make Their Mark</title>
+      <author>sprovierij@bnpmedia.com (John Sprovieri)</author>
+      <description>
+        <![CDATA[<div>The FDA's Unique Device Identification system is expected to be finalized this month.</div>
+]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/89021</guid>
+      <pubDate>Fri, 20 May 2011 16:05:00 -0400</pubDate>
+      <link>http://www.assemblymag.com/articles/89021-medical-device-assembly-medical-device-assemblers-make-their-mark</link>
+    </item>
+    <item>
+      <title>Medical Device Assembly: FDA Launches Medical Device Innovation Initiative</title>
+      <author>sprovierij@bnpmedia.com (John Sprovieri)</author>
+      <description>
+        <![CDATA[The FDA's new Medical Device Innovation Initiative aims to facilitate the development and evaluation of new medical devices; strengthen the nation&#8217;s research infrastructure; and respond quickly to scientific breakthroughs. 
+]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/88405</guid>
+      <pubDate>Tue, 22 Feb 2011 16:50:00 -0500</pubDate>
+      <link>http://www.assemblymag.com/articles/88405-medical-device-assembly-fda-launches-medical-device-innovation-initiative</link>
+    </item>
+  </channel>
+</rss>

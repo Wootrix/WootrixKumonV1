@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Downloads</title>
+    <description>
+      <![CDATA[Information and free trials of the latest Quality products and services.]]>
+    </description>
+    <link>http://www.qualitymag.com/rss</link>
+    <language>en-us</language>
+    <item>
+      <title>Datalyzer Spectrum Software</title>
+      <description>
+        <![CDATA[]]>
+      </description>
+      <guid>http://www.qualitymag.com/articles/93234</guid>
+      <pubDate>Fri, 01 Apr 2016 00:00:00 -0400</pubDate>
+      <link>http://www.qualitymag.com/articles/93234-datalyzer-spectrum-software</link>
+      <enclosure url="http://www.qualitymag.com/ext/resources/NewRDWebsite/software-downloads-stuff/DataLyzer-Spectrum-graphic-Quality-ad-2016.jpg?1459531951" type="image/jpeg" length="9348"/>
+    </item>
+    <item>
+      <title>GAGEtrak Calibration Management Software</title>
+      <description>
+        <![CDATA[<p>
+	With a solid track record spanning over 25 years and over 12,000 customers worldwide, GAGEtrak is the #1 calibration management software solution in the world.</p>]]>
+      </description>
+      <guid>http://www.qualitymag.com/articles/91543</guid>
+      <pubDate>Fri, 20 Dec 2013 00:00:00 -0500</pubDate>
+      <link>http://www.qualitymag.com/articles/91543-gagetrak-calibration-management-software-downloads</link>
+      <enclosure url="http://www.qualitymag.com/ext/resources/NewRDWebsite/cybermetrics/GAGEtrak_image_2017.jpg?1481564833" type="image/jpeg" length="93401"/>
+    </item>
+    <item>
+      <title>FaciliWorks CMMS Maintenance Management Software</title>
+      <description>
+        <![CDATA[<p>
+	FaciliWorks keeps your facility running smoothly and reliably by comprehensively tracking and scheduling maintenance for all of your equipment, tooling and other manufacturing assets.</p>]]>
+      </description>
+      <guid>http://www.qualitymag.com/articles/91542</guid>
+      <pubDate>Fri, 20 Dec 2013 00:00:00 -0500</pubDate>
+      <link>http://www.qualitymag.com/articles/91542-faciliworks-cmms-maintenance-management-software</link>
+      <enclosure url="http://www.qualitymag.com/ext/resources/NewRDWebsite/cybermetrics/FaciliWorks_image_2017.jpg?1481564833" type="image/jpeg" length="93264"/>
+    </item>
+    <item>
+      <title>FFD, Inc. / Sequence Software</title>
+      <description>
+        <![CDATA[<p>
+	Don&rsquo;t inspect quality into your products; build it in with accurate and easy to follow work instructions.</p>]]>
+      </description>
+      <guid>http://www.qualitymag.com/articles/91231</guid>
+      <pubDate>Tue, 09 Jul 2013 13:00:00 -0400</pubDate>
+      <link>http://www.qualitymag.com/articles/91231-ffd-inc-sequence-software-downloads</link>
+      <enclosure url="http://www.qualitymag.com/ext/resources/images/Software/Downloads_BannerFT.jpg?1373388420" type="image/jpeg" length="32479"/>
+    </item>
+    <item>
+      <title>FaciliWorks CMMS Maintenance Management Software</title>
+      <description>
+        <![CDATA[<p>
+	FaciliWorks is a flexible Maintenance Management Software solution that is available in Web-based, Hosted and Desktop versions.</p>]]>
+      </description>
+      <guid>http://www.qualitymag.com/articles/88666</guid>
+      <pubDate>Thu, 08 Dec 2011 00:00:00 -0500</pubDate>
+      <link>http://www.qualitymag.com/articles/88666-faciliworks-cmms-maintenance-management-software</link>
+      <enclosure url="http://www.qualitymag.com/ext/resources/NewRDWebsite/cybermetrics/FaciliWorks_image_2017.jpg?1481564833" type="image/jpeg" length="93264"/>
+    </item>
+    <item>
+      <title>Minitab</title>
+      <description>
+        <![CDATA[Quality Companion by Minitab provides everything you need to manage your improvement projects in one application. 
+]]>
+      </description>
+      <guid>http://www.qualitymag.com/articles/87643</guid>
+      <pubDate>Wed, 01 Sep 2010 10:44:00 -0400</pubDate>
+      <link>http://www.qualitymag.com/articles/87643-minitab-software-downloads</link>
+    </item>
+    <item>
+      <title>DataNet Quality Systems</title>
+      <description>
+        <![CDATA[<p>
+	WinSPC: Real-time SPC software to improve product &amp; process quality</p>
+]]>
+      </description>
+      <guid>http://www.qualitymag.com/articles/88603</guid>
+      <pubDate>Thu, 12 Apr 2007 14:34:00 -0400</pubDate>
+      <link>http://www.qualitymag.com/articles/88603-datanet-quality-systems-software-downloads</link>
+    </item>
+  </channel>
+</rss>

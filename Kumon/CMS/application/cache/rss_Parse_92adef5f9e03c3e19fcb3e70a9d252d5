@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>ASHRAE</title>
+    <description>
+      <![CDATA[Regular column by Tim Wentz of ASHRAE.]]>
+    </description>
+    <link>http://www.appliancedesign.com/rss</link>
+    <language>en-us</language>
+    <item>
+      <title>$5.1 Million Research Effort to Provide Guidance on Safe Application of Low GWP Refrigerants</title>
+      <description>
+        <![CDATA[<p>
+	A major research initiative launched by two leading built environment organizations and the U.S. government will provide a more robust fact base about the properties and the safe use of flammable refrigerants.</p>]]>
+      </description>
+      <guid>http://www.appliancedesign.com/articles/95142</guid>
+      <pubDate>Mon, 01 Aug 2016 00:00:00 -0400</pubDate>
+      <link>http://www.appliancedesign.com/articles/95142-51-million-research-effort-to-provide-guidance-on-safe-application-of-low-gwp-refrigerants</link>
+      <enclosure url="http://www.appliancedesign.com/ext/resources/NewRDWebsite/DefaultImages/ASHRAE_Logosvg.png?1470067920" type="image/png" length="20565"/>
+    </item>
+  </channel>
+</rss>

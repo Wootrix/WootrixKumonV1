@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:background="@color/trans_75_bg"
+    android:gravity="right"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:id="@+id/profile_popup_main_lnrlyt"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="right"
+        android:layout_marginBottom="@dimen/margin_10"
+        android:gravity="right"
+        android:orientation="vertical"
+        android:paddingRight="@dimen/margin_5">
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingRight="@dimen/margin_8"
+            android:src="@drawable/popover_arrow" />
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/btn_white_file"
+            android:minHeight="400dp"
+            android:orientation="vertical">
+
+            <RelativeLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/popover_header"
+                android:gravity="center_vertical"
+                android:orientation="horizontal">
+
+                <ImageView
+                    android:id="@+id/profile_popup_back_imgVw"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:src="@drawable/icon_back" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerInParent="true"
+                    android:gravity="center"
+                    android:paddingRight="@dimen/margin_10"
+                    android:text="@string/header_my_account"
+                    android:textColor="@color/black_heading"
+                    android:textSize="@dimen/text_size_20" />
+            </RelativeLayout>
+
+            <ScrollView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical">
+
+                    <FrameLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content">
+
+                        <ImageView
+                            android:id="@+id/profile_screen_main_profile_img_imgVw"
+                            android:layout_width="fill_parent"
+                            android:layout_height="@dimen/icon_main_image_size"
+                            android:scaleType="fitXY"
+                            android:src="@drawable/blur_bg" />
+
+                        <LinearLayout
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_gravity="center"
+                            android:gravity="center"
+                            android:orientation="vertical">
+
+                            <FrameLayout
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content">
+
+                                <com.ta.wootrix.utils.CircularImageView
+                                    android:id="@+id/profile_screen_rounded_profile_img_imgVw"
+                                    android:layout_width="@dimen/account_image_height_cum_width"
+                                    android:layout_height="@dimen/account_image_height_cum_width"
+                                    android:scaleType="centerCrop"
+                                    android:src="@drawable/profile_image_placeholder"
+                                    app:border="true"
+                                    app:border_color="@color/trans_50_bg"
+                                    app:border_width="@dimen/margin_5"
+                                    app:shadow="false" />
+
+                                <ImageView
+                                    android:id="@+id/profile_screen_update_image_imgVw"
+                                    android:layout_width="@dimen/icon_edt_size"
+                                    android:layout_height="@dimen/icon_edt_size"
+                                    android:layout_gravity="top|right"
+                                    android:src="@drawable/icon_edit_profile_image" />
+                            </FrameLayout>
+
+                            <TextView
+                                android:id="@+id/profile_screen_profilename_txtVw"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:text="TextView"
+                                android:textColor="@color/white"
+                                android:textSize="@dimen/text_size_22"
+                                android:textStyle="bold" />
+
+                            <TextView
+                                android:id="@+id/profile_screen_email_txtVw"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:text="TextView"
+                                android:textColor="@color/white"
+                                android:textSize="@dimen/text_size_16" />
+                        </LinearLayout>
+                    </FrameLayout>
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="vertical"
+                        android:paddingBottom="@dimen/margin_10">
+
+                        <CheckBox
+                            android:id="@+id/profile_screen_showpage_toggle_btn"
+                            android:layout_width="fill_parent"
+                            android:layout_height="wrap_content"
+                            android:button="@null"
+                            android:drawableRight="@drawable/showpage_toggle_selector"
+                            android:padding="@dimen/margin_10"
+                            android:text="@string/lbl_showpage"
+                            android:textColor="#3c3c3c"
+                            android:textSize="@dimen/text_size_20" />
+
+                        <ImageView
+                            android:layout_width="fill_parent"
+                            android:layout_height="wrap_content"
+                            android:src="@drawable/seprator" />
+
+                        <TextView
+                            android:id="@+id/profile_screen_change_language_txtVw"
+                            android:layout_width="fill_parent"
+                            android:layout_height="wrap_content"
+                            android:drawableRight="@drawable/icon_arrow"
+                            android:gravity="center_vertical"
+                            android:padding="@dimen/margin_10"
+                            android:text="@string/lbl_chng_language"
+                            android:textColor="#3c3c3c"
+                            android:textSize="@dimen/text_size_20" />
+
+                        <ImageView
+                            android:layout_width="fill_parent"
+                            android:layout_height="wrap_content"
+                            android:src="@drawable/seprator" />
+
+                    </LinearLayout>
+                </LinearLayout>
+            </ScrollView>
+        </LinearLayout>
+    </LinearLayout>
+
+</FrameLayout>

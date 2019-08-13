@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    android:orientation="vertical">
+
+    <include layout="@layout/top_header" />
+
+    <ImageView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="@dimen/margin_5"
+        android:src="@drawable/seprator" />
+
+    <!-- <TextView
+        android:id="@+id/setting_screen_add_account"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_vertical"
+        android:padding="@dimen/margin_10"
+        android:text="@string/lbl_add_account"
+        android:textColor="#3c3c3c"
+        android:textSize="@dimen/text_size_28"
+        android:textStyle="bold" />
+
+    <ImageView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="@dimen/margin_5"
+        android:src="@drawable/seprator" /> -->
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:paddingRight="@dimen/margin_10">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_vertical">
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:padding="@dimen/margin_10"
+                android:text="@string/lbl_topics"
+                android:textColor="#3c3c3c"
+                android:textSize="@dimen/text_size_28"
+                android:textStyle="bold" />
+
+            <ImageView
+                android:id="@+id/setting_screen_myaccount_imgVw"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:padding="@dimen/margin_5"
+                android:src="@drawable/icon_settings" />
+        </LinearLayout>
+
+        <ImageView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="@dimen/margin_5"
+            android:src="@drawable/seprator" />
+
+        <ScrollView
+            android:id="@+id/scrollView1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical">
+
+                <!--<TextView-->
+                    <!--android:layout_width="fill_parent"-->
+                    <!--android:layout_height="wrap_content"-->
+                    <!--android:gravity="center_vertical"-->
+                    <!--android:padding="@dimen/margin_10"-->
+                    <!--android:text="@string/lbl_languages"-->
+                    <!--android:textColor="#3c3c3c"-->
+                    <!--android:textSize="@dimen/text_size_28"-->
+                    <!--android:textStyle="bold" />-->
+
+                <!--<ImageView-->
+                    <!--android:layout_width="fill_parent"-->
+                    <!--android:layout_height="wrap_content"-->
+                    <!--android:src="@drawable/seprator" />-->
+
+                <!--<CheckBox-->
+                    <!--android:id="@+id/setting_screen_english_chkbox"-->
+                    <!--android:layout_width="fill_parent"-->
+                    <!--android:layout_height="wrap_content"-->
+                    <!--android:button="@null"-->
+                    <!--android:drawableRight="@drawable/language_toggle_btn"-->
+                    <!--android:padding="@dimen/margin_8"-->
+                    <!--android:text="@string/lbl_english"-->
+                    <!--android:textColor="#15151c"-->
+                    <!--android:textSize="@dimen/text_size_24" />-->
+
+                <!--<ImageView-->
+                    <!--android:layout_width="fill_parent"-->
+                    <!--android:layout_height="wrap_content"-->
+                    <!--android:src="@drawable/seprator" />-->
+
+                <!--<CheckBox-->
+                    <!--android:id="@+id/setting_screen_spanish_chkbox"-->
+                    <!--android:layout_width="fill_parent"-->
+                    <!--android:layout_height="wrap_content"-->
+                    <!--android:button="@null"-->
+                    <!--android:drawableRight="@drawable/language_toggle_btn"-->
+                    <!--android:padding="@dimen/margin_8"-->
+                    <!--android:text="@string/lbl_spanish"-->
+                    <!--android:textColor="#15151c"-->
+                    <!--android:textSize="@dimen/text_size_24" />-->
+
+                <!--<ImageView-->
+                    <!--android:layout_width="fill_parent"-->
+                    <!--android:layout_height="wrap_content"-->
+                    <!--android:src="@drawable/seprator" />-->
+
+                <!--<CheckBox-->
+                    <!--android:id="@+id/setting_screen_portuguese_chkbox"-->
+                    <!--android:layout_width="fill_parent"-->
+                    <!--android:layout_height="wrap_content"-->
+                    <!--android:button="@null"-->
+                    <!--android:drawableRight="@drawable/language_toggle_btn"-->
+                    <!--android:padding="@dimen/margin_8"-->
+                    <!--android:text="@string/lbl_portuguese"-->
+                    <!--android:textColor="#15151c"-->
+                    <!--android:textSize="@dimen/text_size_24" />-->
+
+                <!--<ImageView-->
+                    <!--android:layout_width="fill_parent"-->
+                    <!--android:layout_height="wrap_content"-->
+                    <!--android:src="@drawable/seprator" />-->
+
+
+                <Button
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/btn_home"
+                    android:layout_gravity="center"
+                    android:visibility="gone"
+                    android:background="@drawable/home"
+                    android:layout_margin="@dimen/margin_8"
+                   />
+
+                <Button
+                    android:id="@+id/setting_screen_logout_btn"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:layout_margin="@dimen/margin_8"
+                    android:background="@drawable/btn_logout"
+                    android:text="@string/lbl_logout"
+                    android:textColor="@color/white"
+                    android:textSize="@dimen/text_size_36" />
+
+            </LinearLayout>
+        </ScrollView>
+    </LinearLayout>
+
+</LinearLayout>

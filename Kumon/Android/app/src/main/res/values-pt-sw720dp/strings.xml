@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Kumon</string>
+    <string name="device_type">tab</string>
+    <string name="action_settings">Definições</string>
+    <string name="lbl_twitter_post_sucess">Compartilhado com sucesso no Twitter</string>
+    <string name="lbl_twitter_logni_falied">Twitter Login Failed</string>
+    <string name="lbl_twitter_post_fail">Falha ao compartilhar no Twitter</string>
+    <string name="lbl_fb_post_sucess">Compartilhado com sucesso no Facebook</string>
+    <string name="lbl_fb_post_fail">Falha ao compartilhar no Facebook</string>
+    <string name="out_of_memeory">Out Of Memory Error</string>
+    <string name="hello_world">Olá Mundo!</string>
+    <string name="network_not_avail">Rede Não Disponível</string>
+    <!--
+    <string name="app_id">906837972662201</string>
+    Mom2MomcentsID
+    <string name="app_id">372037492932433</string>
+    -->
+
+    <!--Toast Message-->
+    <string name="toast_article">Artigo</string>
+    <string name="toast_message">Mensagem</string>
+    <string name="toast_advertisement">Propaganda</string>
+    <string name="toast_close">Revista fechado</string>
+
+    <string name="lbl_add_account">Adicione	Contas</string>
+    <!-- strings for login/signup screen -->
+    <string name="lbl_name">Nome</string>
+    <string name="lbl_email">Email</string>
+    <string name="lbl_error">Erro</string>
+    <string name="lbl_pass">Senha</string>
+    <string name="lbl_confirm_pass">Confirme Senha</string>
+    <string name="lbl_login">Conecte-se</string>
+    <string name="lbl_signup">Inscrever-se</string>
+    <string name="lbl_loginwith">Entrar com</string>
+    <string name="lbl_try_signup">Não tem uma conta ainda? Cadastre-se aqui</string>
+    <string name="lbl_try_login">Já tem uma conta ? Acesse aqui</string>
+    <string name="invalid_email">E-mail inválido</string>
+    <string name="please_wait_lbl">Por favor, aguarde ...</string>
+    <string name="loading">Carregando ...</string>
+    <string name="lbl_send">Enviar</string>
+    <string name="lbl_wrt_comment">Escreva um comentário ...</string>
+    <string name="lbl_camera">Camera</string>
+    <string name="lbl_gallery">Galeria</string>
+    <string name="sd_card_not_available">Cartão-SD não disponível</string>
+    <string name="lbl_ok">Ok</string>
+    <string name="lbl_cancel">Cancelar</string>
+    <string name="msg_select_image">Escolha Imagem</string>
+
+    <!-- strings for the profilepage -->
+
+    <string name="lbl_showpage">Mostrar Página</string>
+    <string name="lbl_change_email">Alterar e-mail</string>
+    <string name="lbl_change_pass">Alterar a Senha</string>
+    <string name="lbl_rate_app">Avalie App</string>
+    <string name="lbl_chng_language">Alterar idioma</string>
+    <string name="lbl_abt_us">Sobre Nós</string>
+    <string name="lbl_topics">Tópicos</string>
+    <string name="lbl_magazines">Revistas</string>
+    <string name="lbl_languages">Idioma Artigos</string>
+    <string name="lbl_logout">Sair</string>
+    <string name="lbl_cancel_cap">Cancelar</string>
+    <string name="lbl_done_cap">Feito</string>
+    <string name="lbl_new_email">Novo e-mail ID</string>
+    <string name="lbl_confrm_email">Confirmar e-mail ID</string>
+    <string name="lbl_old_pass">Senha Antiga</string>
+    <string name="lbl_new_pass">Nova Senha</string>
+    <string name="lbl_confirm_new_pass">Confirmar nova senha</string>
+
+    <!-- HEADER NAMES -->
+    <string name="header_comment">Comentários</string>
+    <string name="header_my_account">Minha Conta</string>
+    <string name="header_aboutus">Sobre Nós</string>
+    <string name="header_chng_pass">Alterar a Senha</string>
+    <string name="header_chng_email">Alterar e-mail</string>
+    <string name="header_chng_lng">Alterar Idioma</string>
+    <string name="header_content">Conteúdo</string>
+    <string name="header_article">Artigo</string>
+    <string name="add_magazines">Adicionar Novas Revistas</string>
+    <!-- languages -->
+
+    <string name="lbl_english">Inglês</string>
+    <string name="lbl_spanish">Espanhol</string>
+    <string name="lbl_portuguese">Português</string>
+    <string name="lbl_forgot_pass">Esqueceu Sua Senha?</string>
+    <string name="enter_email">Digite seu e-mail</string>
+    <string name="lbl_search_magazines">Buscar</string>
+    <string name="lbl_advrtsmnt">Publicidade</string>
+    <string name="enter_name">Digite seu nome</string>
+    <string name="enter_pass">Digite sua Senha</string>
+    <string name="enter_cur_pass">Digite sua senha atual</string>
+    <string name="cur_pass_min_length">Senha atual deve ter no mínimo 6 caracteres</string>
+    <string name="enter_confirm_pass">Por favor insira sua senha confirm</string>
+    <string name="pass_mismatch">Senha e Confirmação da Senha não conferem</string>
+    <string name="lbl_open_article">Artigos Abertos</string>
+    <string name="lbl_open_articles">Artigos Abertos</string>
+    <string name="lbl_no_comments_found">Não foram encontrados comentários . Seja o primeiro a comentar este artigo</string>
+    <string name="enter_comment">Por favor insira o seu comentário</string>
+    <string name="subscription_pass">Digite Senha de Assinante</string>
+    <string name="add_email">Adicionar E-mail</string>
+    <string name="add_pass">Adicione Senha</string>
+    <string name="select_language">Por favor, escolha pelo menos um Idioma</string>
+    <string name="enter_new_email">Por favor, insira o novo e-mail</string>
+    <string name="enter_new_confrm_email">Digite Email de Confirmação</string>
+    <string name="new_and_confrm_email_mismatch">E-mail e Email de Confirmação não Conferem</string>
+    <string name="lbl_no_social_found">Nenhuma Rede Social encontrada para compartilhar</string>
+    <string name="wanna_logout">Você quer sair?</string>
+    <string name="lbl_yes">Sim</string>
+    <string name="lbl_no">Não</string>
+    <string name="subscription_pass_enter_pass">Senha de Assinante</string>
+    <string name="please_choose_article_lang">Por favor, selecione pelo menos um Idioma para os Artigos</string>
+
+    <!-- server side error messges strings -->
+    <string name="service_failed">Webservice não conseguiu dar o resultado.</string>
+    <string name="server_ntwrk_error">Erro de rede. Por favor, tente novamente.</string>
+    <string name="server_timout_error">Timeout Occured. Please try again.</string>
+    <string name="server_response_error">A resposta não está vindo do servidor. Por favor, tente novamente.</string>
+
+    <!-- tags for advertisement module -->
+    <string name="ad_advtID">1</string>
+    <string name="ad_videourl">2</string>
+    <string name="ad_link_url">3</string>
+    <string name="ad_tim_in_sec">4</string>
+    <string name="ad_embedded_url">5</string>
+
+    <!-- NEW STRINGS -->
+    <string name="change_language_warning_message">Você quer manter o idioma selecionado como padrão do seu aplicativo ?</string>
+    <string name="lbl_press_back_again">Press back button again to exit.</string>
+    <string name="pre_sharing_text">Hey! Estou usando o aplicativo Kumon . Acabei de ler este artigo: </string>
+    <string name="post_sharing_text"> Você ter acesso em um único local aos principais artigos de seu interesse em Android, iOS e na Web . Basta dar uma olhada http://www.Kumon.com </string>
+    <string name="short_password">A senha deve ter no mínimo 6 caracteres.</string>
+    <string name="short_username">Nome de usuário deve ter no mínimo 4 caracteres.</string>
+    <string name="sec_ago">segundos atrás</string>
+    <string name="secs_ago">segundos atrás</string>
+    <string name="min_ago">minutos atrás</string>
+    <string name="mins_ago">minutos atrás</string>
+    <string name="hr_ago">horas atrás</string>
+    <string name="hrs_ago">horas atrás</string>
+    <string name="day_ago">dias atrás</string>
+    <string name="days_ago">dias atrás</string>
+    <string name="pre_ago"></string>
+
+    <!-- about us url -->
+    <string name="url_about_us">http://Kumon.wootrix.com/sobre</string>
+    <string name="app_code">jsjj2</string>
+    <!--<string name="app_id">1627701464153107</string>-->
+
+    <!-- new app id for KumonApp -->
+    <string name="app_id">370549973380582</string>
+</resources>

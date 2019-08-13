@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Fastening Threads</title>
+    <description>
+      <![CDATA[Our nationally known expert discusses issues and trends in assembly with threaded fasteners.]]>
+    </description>
+    <link>http://www.assemblymag.com/rss</link>
+    <language>en-us</language>
+    <item>
+      <title>Fastening Doâs and Donâts</title>
+      <author>darcher@archetypejoint.com (David Archer)</author>
+      <description>
+        <![CDATA[<p>
+	I have included the issue in which each column appeared so you can delve into the topic in more detail if desired. As always, please feel free to contact me with your questions, comments or observations.</p>]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/91085</guid>
+      <pubDate>Mon, 01 Apr 2013 09:00:00 -0400</pubDate>
+      <link>http://www.assemblymag.com/articles/91085-fastening-dos-and-donts</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Default_Images/Dave-Archerfeature.jpg?1364494802" type="image/jpeg" length="67586"/>
+    </item>
+    <item>
+      <title>The Effect of Sample Size  on Test Results </title>
+      <author>darcher@archetypejoint.com (David Archer)</author>
+      <description>
+        <![CDATA[
+	One of the more interesting aspects of conducting joint tests for manufacturers is the question of sample size.</p>
+]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/90466</guid>
+      <pubDate>Tue, 04 Sep 2012 00:00:00 -0400</pubDate>
+      <link>http://www.assemblymag.com/articles/90466-the-effect-of-sample-size-on-test-results-</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Default_Images/Dave-Archerfeature.jpg?1364494802" type="image/jpeg" length="67586"/>
+    </item>
+    <item>
+      <title>Fastening Threads: Problems Solved</title>
+      <author>darcher@archetypejoint.com (David Archer)</author>
+      <description>
+        <![CDATA[Bolted joints are the vast majority of our consulting business. Our work is divided evenly between validating joints under development and troubleshooting problems with existing joints.</p>]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/90056</guid>
+      <pubDate>Tue, 01 May 2012 00:00:00 -0400</pubDate>
+      <link>http://www.assemblymag.com/articles/90056-fastening-threads--problems-solved</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Default_Images/Dave-Archerfeature.jpg?1364494802" type="image/jpeg" length="67586"/>
+    </item>
+    <item>
+      <title>Fastening Threads: Getting with the Program</title>
+      <author>darcher@archetypejoint.com (David Archer)</author>
+      <description>
+        <![CDATA[Programmable torque tools have become popular in recent years, due to quality initiatives.</p>]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/89765</guid>
+      <pubDate>Wed, 01 Feb 2012 00:00:00 -0500</pubDate>
+      <link>http://www.assemblymag.com/articles/89765-fastening-threads-getting-with-the-program</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Default_Images/Dave-Archerfeature.jpg?1364494802" type="image/jpeg" length="67586"/>
+    </item>
+    <item>
+      <title>Fastening Threads: All Screw Head-Drive Features Are Not the Same</title>
+      <author>darcher@archetypejoint.com (David Archer)</author>
+      <description>
+        <![CDATA[Impact head and drive style selection can have a profound effect on assembly productivity. To examine this, we recently conducted a study focusing&nbsp;on machine screws.]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/88927</guid>
+      <pubDate>Mon, 29 Aug 2011 12:06:00 -0400</pubDate>
+      <link>http://www.assemblymag.com/articles/88927-fastening-threads-all-screw-head-drive-features-are-not-the-same</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Default_Images/Dave-Archerfeature.jpg?1364494802" type="image/jpeg" length="67586"/>
+    </item>
+    <item>
+      <title>Fastening Threads: Every Picture Tells a Story</title>
+      <author>darcher@archetypejoint.com (David Archer)</author>
+      <description>
+        <![CDATA[Most bolted joints enter production with installation torque based on textbook estimates.        ]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/89014</guid>
+      <pubDate>Thu, 26 May 2011 16:03:00 -0400</pubDate>
+      <link>http://www.assemblymag.com/articles/89014-fastening-threads-every-picture-tells-a-story</link>
+    </item>
+    <item>
+      <title>Fastening Threads: Even If It Ain't Broke, Make It Cheaper</title>
+      <author>darcher@archetypejoint.com (David Archer)</author>
+      <description>
+        <![CDATA[<div>Reducing cost requires action with potential risk, whose objective is often viewed as compromise. However, the need for constantly improving product value is not going to go away.&nbsp;Here are three ways to address cost reduction.</div>]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/88694</guid>
+      <pubDate>Wed, 22 Dec 2010 12:52:00 -0500</pubDate>
+      <link>http://www.assemblymag.com/articles/88694-fastening-threads-even-if-it-ain-t-broke-make-it-cheaper</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Default_Images/asb0112xyz.jpg?1326141407" type="image/jpeg" length="8538"/>
+    </item>
+  </channel>
+</rss>

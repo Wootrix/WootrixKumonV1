@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "767801752343",
+    "firebase_url": "https://kumonapp-207220.firebaseio.com",
+    "project_id": "kumonapp-207220",
+    "storage_bucket": "kumonapp-207220.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:767801752343:android:66e8c97075dfd74d",
+        "android_client_info": {
+          "package_name": "com.wx.kumon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "767801752343-7dfl1eb6utuhej8t4f1rnkusar1sruh7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcGiBkn6HZAnVVMMgtwKYcJzBMdkNI4Lg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

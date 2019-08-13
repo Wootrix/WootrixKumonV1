@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/navbar_bg"
+    android:orientation="horizontal"
+    android:paddingRight="@dimen/margin_10">
+
+    <ImageView
+        android:id="@+id/header_back_btn_imgVw"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_centerVertical="true"
+        android:padding="@dimen/margin_5"
+        android:src="@drawable/icon_back" />
+
+    <TextView
+        android:id="@+id/header_cancel_btn_txtVw"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_centerVertical="true"
+        android:padding="@dimen/margin_10"
+        android:text="@string/lbl_cancel_cap"
+        android:textColor="@color/black"
+        android:textSize="@dimen/text_size_24"
+        android:visibility="gone" />
+
+    <TextView
+        android:id="@+id/header_text_txtVw"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:text="Comments"
+        android:textColor="@color/black"
+        android:textSize="@dimen/text_size_32"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/header_done_btn_txtVw"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_centerVertical="true"
+        android:padding="@dimen/margin_10"
+        android:text="@string/lbl_done_cap"
+        android:textColor="@color/black"
+        android:textSize="@dimen/text_size_24"
+        android:visibility="gone" />
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_centerVertical="true"
+        android:orientation="horizontal">
+
+        <!--         <ImageView -->
+        <!--             android:id="@+id/header_comment_imgVw" -->
+        <!--             android:layout_width="wrap_content" -->
+        <!--             android:layout_height="wrap_content" -->
+        <!--             android:layout_marginRight="@dimen/margin_8" -->
+        <!--             android:padding="@dimen/margin_5" -->
+        <!--             android:src="@drawable/icon_comments" -->
+        <!--             android:visibility="visible" /> -->
+
+        <TextView
+            android:id="@+id/header_comment_txtVw"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="@dimen/margin_8"
+            android:background="@drawable/icon_comments"
+            android:gravity="center"
+            android:padding="@dimen/margin_8"
+            android:visibility="gone" />
+
+        <ImageView
+            android:id="@+id/header_share_imgVw"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="@dimen/margin_5"
+            android:src="@drawable/icon_share"
+            android:visibility="gone" />
+    </LinearLayout>
+
+</RelativeLayout>

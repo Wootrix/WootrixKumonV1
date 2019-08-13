@@ -1,0 +1,48 @@
+//
+//  PrefixHeader.pch
+//  Wootrix
+//
+//  Created by Saurabh Verma on 11/12/14.
+//  Copyright (c) 2014 Techahead. All rights reserved.
+//
+
+#ifndef Wootrix_PrefixHeader_pch
+#define Wootrix_PrefixHeader_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+#import "AppDelegate.h"
+#import "DDTTYLogger.h"
+#import "JSONModelLib.h"
+#import "NetworkManager.h"
+#import "Config.h"
+#import "Categories.h"
+#import "UIImageView+AFNetworking.h"
+#import "UIKitBlock.h"
+#import "UIImageView+AFNetworking.h"
+#import "PropertyBag.h"
+#import "UIView+Util.h"
+
+#import "MSAL_Internal.h"
+#import "MSIDLogger+Internal.h"
+#import "NSString+MSIDExtensions.h"
+#import "NSDictionary+MSIDExtensions.h"
+#import "NSOrderedSet+MSALExtensions.h"
+#import "MSIDOAuth2Constants.h"
+
+
+#import "NSDictionary+MSIDExtensions.h"
+#import "NSString+MSIDExtensions.h"
+#import "NSURL+MSIDExtensions.h"
+#import "MSIDLogger+Internal.h"
+#import "MSIDError.h"
+#import "MSIDOAuth2Constants.h"
+#import "IdentityCore_Internal.h"
+
+
+#define kApplicationOpenGoogleAuthNotification @"applicationOpenGoogleAuthNotification"
+
+
+
+#endif

@@ -1,0 +1,455 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" media="screen" href="/~d/styles/rss2full.xsl"?><?xml-stylesheet type="text/css" media="screen" href="http://feeds.sciencedaily.com/~d/styles/itemcontent.css"?><rss xmlns:media="http://search.yahoo.com/mrss/" xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" version="2.0">
+	<channel>
+		<title>Tuberculosis News -- ScienceDaily</title>
+		<link>https://www.sciencedaily.com/news/health_medicine/tuberculosis/</link>
+		<description>Tuberculosis. Read the latest research news on tuberculosis, including a quick new TB test, new TB treatment options, and the latest news on tuberculosis infections.</description>
+		<language>en-us</language>
+		<pubDate>Sun, 06 Mar 2016 23:07:49 EST</pubDate>
+		<lastBuildDate>Sun, 06 Mar 2016 23:07:49 EST</lastBuildDate>
+		<ttl>60</ttl>
+		<image>
+			<title>Tuberculosis News -- ScienceDaily</title>
+			<url>https://www.sciencedaily.com/images/scidaily-logo-rss.png</url>
+			<link>https://www.sciencedaily.com/news/health_medicine/tuberculosis/</link>
+			<description>For more science news, visit ScienceDaily.</description>
+		</image>
+		
+		<atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://feeds.sciencedaily.com/sciencedaily/health_medicine/tuberculosis" /><feedburner:info uri="sciencedaily/health_medicine/tuberculosis" /><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/" /><feedburner:emailServiceId>sciencedaily/health_medicine/tuberculosis</feedburner:emailServiceId><feedburner:feedburnerHostname>https://feedburner.google.com</feedburner:feedburnerHostname><item>
+			<title>New theorem helps reveal tuberculosis' secret</title>
+			<link>http://feeds.sciencedaily.com/~r/sciencedaily/health_medicine/tuberculosis/~3/rRsJb4RgCLM/160222155725.htm</link>
+			<description>Researchers seek to streamline the analysis of complex biochemical networks and to reveal inconsistencies in biological data. Their theorem helps to uncover hidden drivers of non-monotonic responses to monotonic stimuli in tuberculosis bacteria.&lt;img src="http://feeds.feedburner.com/~r/sciencedaily/health_medicine/tuberculosis/~4/rRsJb4RgCLM" height="1" width="1" alt=""/&gt;</description>
+			<media:thumbnail url="https://images.sciencedaily.com/2016/02/160222155725.jpg" height="317" width="300" />
+			<pubDate>Mon, 22 Feb 2016 15:57:25 EST</pubDate>
+			<guid isPermaLink="false">https://www.sciencedaily.com/releases/2016/02/160222155725.htm</guid>
+		<feedburner:origLink>https://www.sciencedaily.com/releases/2016/02/160222155725.htm</feedburner:origLink></item>
+		<item>
+			<title>Blood test could transform tuberculosis diagnosis, treatment in developing countries</title>
+			<link>http://feeds.sciencedaily.com/~r/sciencedaily/health_medicine/tuberculosis/~3/2UAAKv-bGEg/160219185210.htm</link>
+			<description>A simple blood test that can accurately diagnose active tuberculosis could make it easier and cheaper to control a disease that kills 1.5 million people every year.&lt;img src="http://feeds.feedburner.com/~r/sciencedaily/health_medicine/tuberculosis/~4/2UAAKv-bGEg" height="1" width="1" alt=""/&gt;</description>
+			<pubDate>Fri, 19 Feb 2016 18:52:10 EST</pubDate>
+			<guid isPermaLink="false">https://www.sciencedaily.com/releases/2016/02/160219185210.htm</guid>
+		<feedburner:origLink>https://www.sciencedaily.com/releases/2016/02/160219185210.htm</feedburner:origLink></item>
+		<item>
+			<title>Slight change to antibacterial drug may improve TB treatments</title>
+			<link>http://feeds.sciencedaily.com/~r/sciencedaily/health_medicine/tuberculosis/~3/JM8HFAxqbOI/160216143457.htm</link>
+			<description>One small chemical change to an existing antibacterial drug results in a compound that is more effective against its target enzyme in tuberculosis, researchers report.&lt;img src="http://feeds.feedburner.com/~r/sciencedaily/health_medicine/tuberculosis/~4/JM8HFAxqbOI" height="1" width="1" alt=""/&gt;</description>
+			<pubDate>Tue, 16 Feb 2016 14:34:57 EST</pubDate>
+			<guid isPermaLink="false">https://www.sciencedaily.com/releases/2016/02/160216143457.htm</guid>
+		<feedburner:origLink>https://www.sciencedaily.com/releases/2016/02/160216143457.htm</feedburner:origLink></item>
+		<item>
+			<title>US tuberculosis cases drop almost 20 percent among foreign-born entrants from 2007-2011</title>
+			<link>http://feeds.sciencedaily.com/~r/sciencedaily/health_medicine/tuberculosis/~3/nLGYXMIh0jE/160210165709.htm</link>
+			<description>The reasons behind a 19 percent drop in US tuberculosis (TB) cases among foreign-born people between 2007-2011 vary depending on the person's country of origin and when they entered the US, according to a study.&lt;img src="http://feeds.feedburner.com/~r/sciencedaily/health_medicine/tuberculosis/~4/nLGYXMIh0jE" height="1" width="1" alt=""/&gt;</description>
+			<pubDate>Wed, 10 Feb 2016 16:57:09 EST</pubDate>
+			<guid isPermaLink="false">https://www.sciencedaily.com/releases/2016/02/160210165709.htm</guid>
+		<feedburner:origLink>https://www.sciencedaily.com/releases/2016/02/160210165709.htm</feedburner:origLink></item>
+		<item>
+			<title>Leading bugs to the death chamber: A kinder face of cholesterol</title>
+			<link>http://feeds.sciencedaily.com/~r/sciencedaily/health_medicine/tuberculosis/~3/kl8H-NVAyS0/160204150608.htm</link>
+			<description>Cells of our immune system kill pathogens by enclosing them in a compartment called the phagosome. The pathogen-containing phagosome is physically transported to execution chambers (lysosomes) by nanoscale 'Motor' proteins. Researchers show that cholesterol is needed to cluster many Motors on the phagosome's surface. This assembles an army of Motors that carries the phagosome to the execution chamber. Cholesterol, that much dreaded name, therefore also keeps us healthy by helping to kill bugs.&lt;img src="http://feeds.feedburner.com/~r/sciencedaily/health_medicine/tuberculosis/~4/kl8H-NVAyS0" height="1" width="1" alt=""/&gt;</description>
+			<pubDate>Thu, 04 Feb 2016 15:06:08 EST</pubDate>
+			<guid isPermaLink="false">https://www.sciencedaily.com/releases/2016/02/160204150608.htm</guid>
+		<feedburner:origLink>https://www.sciencedaily.com/releases/2016/02/160204150608.htm</feedburner:origLink></item>
+		<item>
+			<title>Chemists uncover how key agent allows diseases to reproduce</title>
+			<link>http://feeds.sciencedaily.com/~r/sciencedaily/health_medicine/tuberculosis/~3/Q4-UT03Ut00/160128151942.htm</link>
+			<description>Chemists have revealed the chemistry behind how certain diseases, from anthrax to tuberculosis, replicate. The key lies in the function of a gene absent in humans, called thyX, and its ability to catalyze the DNA building block thymine. The finding could help drug companies target the chemical reaction, rather than testing millions of compounds, to stop these diseases.&lt;img src="http://feeds.feedburner.com/~r/sciencedaily/health_medicine/tuberculosis/~4/Q4-UT03Ut00" height="1" width="1" alt=""/&gt;</description>
+			<media:thumbnail url="https://images.sciencedaily.com/2016/01/160128151942.jpg" height="205" width="300" />
+			<pubDate>Thu, 28 Jan 2016 15:19:42 EST</pubDate>
+			<guid isPermaLink="false">https://www.sciencedaily.com/releases/2016/01/160128151942.htm</guid>
+		<feedburner:origLink>https://www.sciencedaily.com/releases/2016/01/160128151942.htm</feedburner:origLink></item>
+		<item>
+			<title>Tuberculosis: Discovery of a critical stage in the evolution of the bacillus towards pathogenicity</title>
+			<link>http://feeds.sciencedaily.com/~r/sciencedaily/health_medicine/tuberculosis/~3/-XBzRjjQHpM/160127083848.htm</link>
+			<description>It is the disappearance of a glycolipid from the bacterial cell envelope during evolution that may have considerably increased the virulence of tuberculosis bacilli in humans. Scientists have shown that this disappearance modified the surface properties of Mycobacterium tuberculosis, favoring its aggregation in "cords" and increasing its pathogenicity.&lt;img src="http://feeds.feedburner.com/~r/sciencedaily/health_medicine/tuberculosis/~4/-XBzRjjQHpM" height="1" width="1" alt=""/&gt;</description>
+			<media:thumbnail url="https://images.sciencedaily.com/2016/01/160127083848.jpg" height="147" width="300" />
+			<pubDate>Wed, 27 Jan 2016 08:38:48 EST</pubDate>
+			<guid isPermaLink="false">https://www.sciencedaily.com/releases/2016/01/160127083848.htm</guid>
+		<feedburner:origLink>https://www.sciencedaily.com/releases/2016/01/160127083848.htm</feedburner:origLink></item>
+		<item>
+			<title>Making weak TB drugs strong again</title>
+			<link>http://feeds.sciencedaily.com/~r/sciencedaily/health_medicine/tuberculosis/~3/0EKeZzJwub4/160118184401.htm</link>
+			<description>Biophysicists have discovered why the bacteria that cause tuberculosis (TB) are naturally somewhat resistant to antibiotics known as fluoroquinolones. Their findings, based on mapping the detailed three-dimensional structure of the drugs interacting with an essential enzyme in the TB germ, also reveal why some TB drugs are more potent than others and suggest how drug developers can make fluoroquinolones more efficacious against mutations that make the lung disease drug resistant.&lt;img src="http://feeds.feedburner.com/~r/sciencedaily/health_medicine/tuberculosis/~4/0EKeZzJwub4" height="1" width="1" alt=""/&gt;</description>
+			<media:thumbnail url="https://images.sciencedaily.com/2016/01/160118184401.jpg" height="300" width="300" />
+			<pubDate>Mon, 18 Jan 2016 18:44:01 EST</pubDate>
+			<guid isPermaLink="false">https://www.sciencedaily.com/releases/2016/01/160118184401.htm</guid>
+		<feedburner:origLink>https://www.sciencedaily.com/releases/2016/01/160118184401.htm</feedburner:origLink></item>
+		<item>
+			<title>Innate immune defenses triggered by unsuspected mechanism</title>
+			<link>http://feeds.sciencedaily.com/~r/sciencedaily/health_medicine/tuberculosis/~3/8sWXYJ7cfBU/160112091639.htm</link>
+			<description>A previously unsuspected mechanism is activated in the presence of pathogens after only a few hours: the activation of thousands of genes in the cells of the innate immune system and the triggering of its immune defenses.&lt;img src="http://feeds.feedburner.com/~r/sciencedaily/health_medicine/tuberculosis/~4/8sWXYJ7cfBU" height="1" width="1" alt=""/&gt;</description>
+			<pubDate>Tue, 12 Jan 2016 09:16:39 EST</pubDate>
+			<guid isPermaLink="false">https://www.sciencedaily.com/releases/2016/01/160112091639.htm</guid>
+		<feedburner:origLink>https://www.sciencedaily.com/releases/2016/01/160112091639.htm</feedburner:origLink></item>
+		<item>
+			<title>Old drugs, new tricks: Medications approved for other uses also have antibiotic action</title>
+			<link>http://feeds.sciencedaily.com/~r/sciencedaily/health_medicine/tuberculosis/~3/BUDH_BMS41Q/151222113459.htm</link>
+			<description>A number of drugs already approved to treat parasitic infections, cancers, infertility and other conditions also show promise as antibiotic agents against staph and tuberculosis infections, according to a new study. Because these agents act against multiple targets within the bacteria, it may be harder for bacteria to develop resistance, say the researchers.&lt;img src="http://feeds.feedburner.com/~r/sciencedaily/health_medicine/tuberculosis/~4/BUDH_BMS41Q" height="1" width="1" alt=""/&gt;</description>
+			<pubDate>Tue, 22 Dec 2015 11:34:59 EST</pubDate>
+			<guid isPermaLink="false">https://www.sciencedaily.com/releases/2015/12/151222113459.htm</guid>
+		<feedburner:origLink>https://www.sciencedaily.com/releases/2015/12/151222113459.htm</feedburner:origLink></item>
+		<item>
+			<title>Devising an inexpensive, quick tuberculosis test for developing areas</title>
+			<link>http://feeds.sciencedaily.com/~r/sciencedaily/health_medicine/tuberculosis/~3/LEKndAuPZMg/151216135828.htm</link>
+			<description>Tuberculosis (TB) is a highly infectious disease and a major global health problem, especially in countries with developing health care systems. Because there is no fast, easy way to detect TB, the deadly infection can spread quickly through communities. Now, scientists report on the development of a rapid, sensitive and low-cost method for detecting the disease in resource-limited areas.&lt;img src="http://feeds.feedburner.com/~r/sciencedaily/health_medicine/tuberculosis/~4/LEKndAuPZMg" height="1" width="1" alt=""/&gt;</description>
+			<media:thumbnail url="https://images.sciencedaily.com/2015/12/151216135828.jpg" height="257" width="300" />
+			<pubDate>Wed, 16 Dec 2015 13:58:28 EST</pubDate>
+			<guid isPermaLink="false">https://www.sciencedaily.com/releases/2015/12/151216135828.htm</guid>
+		<feedburner:origLink>https://www.sciencedaily.com/releases/2015/12/151216135828.htm</feedburner:origLink></item>
+		<item>
+			<title>Surprising diversity of TB strains found in Ethiopia</title>
+			<link>http://feeds.sciencedaily.com/~r/sciencedaily/health_medicine/tuberculosis/~3/5nCLfZC2W70/151210124533.htm</link>
+			<description>Ethiopia is a hotspot for tuberculosis (TB) infection, ranking third among African countries and eighth in the world for TB burden according to the World Health Organization. But, say researchers who have analyzed the genomes of 66 TB strains, that's most likely not because TB was absent in the country before Europeans made contact. Rather, Europeans may have introduced a new wave of disease spread by more virulent TB strains.&lt;img src="http://feeds.feedburner.com/~r/sciencedaily/health_medicine/tuberculosis/~4/5nCLfZC2W70" height="1" width="1" alt=""/&gt;</description>
+			<media:thumbnail url="https://images.sciencedaily.com/2015/12/151210124533.jpg" height="199" width="300" />
+			<pubDate>Thu, 10 Dec 2015 12:45:33 EST</pubDate>
+			<guid isPermaLink="false">https://www.sciencedaily.com/releases/2015/12/151210124533.htm</guid>
+		<feedburner:origLink>https://www.sciencedaily.com/releases/2015/12/151210124533.htm</feedburner:origLink></item>
+		<item>
+			<title>Is chemical exposure in mothers, babies, linked to poor vaccine response?</title>
+			<link>http://feeds.sciencedaily.com/~r/sciencedaily/health_medicine/tuberculosis/~3/4-QEDzif6D0/151209090508.htm</link>
+			<description>Early life exposures to toxic chemicals such as PCBs and DDT dampen an infant's response to the tuberculosis vaccine, according to a new study. PCBs were used in manufacturing and in consumer products in the United States until their ban in 1979. Despite this, nearly all people have detectable concentrations in their blood, even those who live in unindustrialized areas around the globe. DDT, although banned in the U.S., is still used in some countries to control malaria spread by mosquitos.&lt;img src="http://feeds.feedburner.com/~r/sciencedaily/health_medicine/tuberculosis/~4/4-QEDzif6D0" height="1" width="1" alt=""/&gt;</description>
+			<pubDate>Wed, 09 Dec 2015 09:05:08 EST</pubDate>
+			<guid isPermaLink="false">https://www.sciencedaily.com/releases/2015/12/151209090508.htm</guid>
+		<feedburner:origLink>https://www.sciencedaily.com/releases/2015/12/151209090508.htm</feedburner:origLink></item>
+		<item>
+			<title>Tuberculosis: Daily antibiotics recommended to prevent resistant strains</title>
+			<link>http://feeds.sciencedaily.com/~r/sciencedaily/health_medicine/tuberculosis/~3/QcBgn5Olr8s/151123202214.htm</link>
+			<description>A computer model of tuberculosis has shown that approved treatments prescribing antibiotic doses once or twice a week are more likely to lead to drug resistant strains than are daily antibiotic regimens.&lt;img src="http://feeds.feedburner.com/~r/sciencedaily/health_medicine/tuberculosis/~4/QcBgn5Olr8s" height="1" width="1" alt=""/&gt;</description>
+			<pubDate>Mon, 23 Nov 2015 20:22:14 EST</pubDate>
+			<guid isPermaLink="false">https://www.sciencedaily.com/releases/2015/11/151123202214.htm</guid>
+		<feedburner:origLink>https://www.sciencedaily.com/releases/2015/11/151123202214.htm</feedburner:origLink></item>
+		<item>
+			<title>Compounds discovered with potential to treat persistent tuberculosis</title>
+			<link>http://feeds.sciencedaily.com/~r/sciencedaily/health_medicine/tuberculosis/~3/YkC7ANZjojs/151117130344.htm</link>
+			<description>In a substantial number of cases -- some two billion, in fact -- the tuberculosis bacteria (Mycobacterium tuberculosis) isn't active at all. Instead, it hides inside cell aggregates, latent and persistent, waiting to break out. Now, scientists have discovered several first-in-class compounds that target these hidden infections by attacking a critical process the bacteria use to survive in the hostile environment of the lungs.&lt;img src="http://feeds.feedburner.com/~r/sciencedaily/health_medicine/tuberculosis/~4/YkC7ANZjojs" height="1" width="1" alt=""/&gt;</description>
+			<pubDate>Tue, 17 Nov 2015 13:03:44 EST</pubDate>
+			<guid isPermaLink="false">https://www.sciencedaily.com/releases/2015/11/151117130344.htm</guid>
+		<feedburner:origLink>https://www.sciencedaily.com/releases/2015/11/151117130344.htm</feedburner:origLink></item>
+		<item>
+			<title>Study sheds light on why parasite makes TB infections worse</title>
+			<link>http://feeds.sciencedaily.com/~r/sciencedaily/health_medicine/tuberculosis/~3/07esppQr9IY/151116181752.htm</link>
+			<description>Scientists have shown how a parasitic worm infection common in the developing world increases susceptibility to tuberculosis. The study raises the possibility of using inexpensive and widely available anti-parasitic drugs as a preventive measure in places where the parasite and TB are common -- stopping infection with the parasite and reducing susceptibility to TB and the risk of a latent TB infection progressing to disease.&lt;img src="http://feeds.feedburner.com/~r/sciencedaily/health_medicine/tuberculosis/~4/07esppQr9IY" height="1" width="1" alt=""/&gt;</description>
+			<pubDate>Mon, 16 Nov 2015 18:17:52 EST</pubDate>
+			<guid isPermaLink="false">https://www.sciencedaily.com/releases/2015/11/151116181752.htm</guid>
+		<feedburner:origLink>https://www.sciencedaily.com/releases/2015/11/151116181752.htm</feedburner:origLink></item>
+		<item>
+			<title>Study offers new recommendations for TB vaccine testing in humans</title>
+			<link>http://feeds.sciencedaily.com/~r/sciencedaily/health_medicine/tuberculosis/~3/qO-WF04Iygo/151112055935.htm</link>
+			<description>A study provides new clues to what went wrong with a landmark TB vaccine trial in South Africa. The vaccine -- tested in nearly 2,800 infants -- did not offer extra protection against developing tuberculosis, which last year killed 1.5 million people. South Africa has the second highest rate of TB cases and the highest rate of drug-resistant TB in Africa, according to the Centers for Disease Control and Prevention.&lt;img src="http://feeds.feedburner.com/~r/sciencedaily/health_medicine/tuberculosis/~4/qO-WF04Iygo" height="1" width="1" alt=""/&gt;</description>
+			<media:thumbnail url="https://images.sciencedaily.com/2015/11/151112055935.jpg" height="200" width="300" />
+			<pubDate>Thu, 12 Nov 2015 05:59:35 EST</pubDate>
+			<guid isPermaLink="false">https://www.sciencedaily.com/releases/2015/11/151112055935.htm</guid>
+		<feedburner:origLink>https://www.sciencedaily.com/releases/2015/11/151112055935.htm</feedburner:origLink></item>
+		<item>
+			<title>Structure of tuberculosis enzyme revealed, could offer drug target</title>
+			<link>http://feeds.sciencedaily.com/~r/sciencedaily/health_medicine/tuberculosis/~3/iqJkYd0c2hs/151102152746.htm</link>
+			<description>A team of scientists has determined the structures of several important tuberculosis enzymes, which could lead to new drugs for the disease.&lt;img src="http://feeds.feedburner.com/~r/sciencedaily/health_medicine/tuberculosis/~4/iqJkYd0c2hs" height="1" width="1" alt=""/&gt;</description>
+			<media:thumbnail url="https://images.sciencedaily.com/2015/11/151102152746.jpg" height="300" width="300" />
+			<pubDate>Mon, 02 Nov 2015 15:27:46 EST</pubDate>
+			<guid isPermaLink="false">https://www.sciencedaily.com/releases/2015/11/151102152746.htm</guid>
+		<feedburner:origLink>https://www.sciencedaily.com/releases/2015/11/151102152746.htm</feedburner:origLink></item>
+		<item>
+			<title>Stopping tuberculosis requires new strategy, say experts</title>
+			<link>http://feeds.sciencedaily.com/~r/sciencedaily/health_medicine/tuberculosis/~3/Tym0uO3H2ZY/151026092801.htm</link>
+			<description>Unless there is a major shift in the way the world fights tuberculosis -- from a reliance on biomedical solutions to an approach that combines biomedical interventions with social actions -- the epidemic and drug resistance will worsen, say researchers.&lt;img src="http://feeds.feedburner.com/~r/sciencedaily/health_medicine/tuberculosis/~4/Tym0uO3H2ZY" height="1" width="1" alt=""/&gt;</description>
+			<pubDate>Mon, 26 Oct 2015 09:28:01 EDT</pubDate>
+			<guid isPermaLink="false">https://www.sciencedaily.com/releases/2015/10/151026092801.htm</guid>
+		<feedburner:origLink>https://www.sciencedaily.com/releases/2015/10/151026092801.htm</feedburner:origLink></item>
+		<item>
+			<title>Researchers working on new tuberculosis vaccine</title>
+			<link>http://feeds.sciencedaily.com/~r/sciencedaily/health_medicine/tuberculosis/~3/tGV_HKy5aKI/151013133426.htm</link>
+			<description>Researchers are currently developing a new vaccine for tuberculosis, one of the world's deadliest diseases. Using a modified strain of TB, they show that monkeys could generate better protective immunity than when vaccinated with BCG, a common TB vaccine.&lt;img src="http://feeds.feedburner.com/~r/sciencedaily/health_medicine/tuberculosis/~4/tGV_HKy5aKI" height="1" width="1" alt=""/&gt;</description>
+			<pubDate>Tue, 13 Oct 2015 13:34:26 EDT</pubDate>
+			<guid isPermaLink="false">https://www.sciencedaily.com/releases/2015/10/151013133426.htm</guid>
+		<feedburner:origLink>https://www.sciencedaily.com/releases/2015/10/151013133426.htm</feedburner:origLink></item>
+		<item>
+			<title>Speeding up TB detection in Cambodia</title>
+			<link>http://feeds.sciencedaily.com/~r/sciencedaily/health_medicine/tuberculosis/~3/yVJS7Dw4mvw/151005080645.htm</link>
+			<description>Tuberculosis (TB) is still a major health problem in Cambodia. New research in the slums of Phnom Penh, where tuberculosis (TB) wreaks havoc, has helped to develop a more effective approach to actively detect TB cases by using new diagnostic tools and strong involvement by the local community. The new approach allowed health workers to detect TB cases more quickly, which reduces the risk of further transmission of the disease.&lt;img src="http://feeds.feedburner.com/~r/sciencedaily/health_medicine/tuberculosis/~4/yVJS7Dw4mvw" height="1" width="1" alt=""/&gt;</description>
+			<pubDate>Mon, 05 Oct 2015 08:06:45 EDT</pubDate>
+			<guid isPermaLink="false">https://www.sciencedaily.com/releases/2015/10/151005080645.htm</guid>
+		<feedburner:origLink>https://www.sciencedaily.com/releases/2015/10/151005080645.htm</feedburner:origLink></item>
+		<item>
+			<title>HIV patients should be included in early clinical trials of anti-TB drugs</title>
+			<link>http://feeds.sciencedaily.com/~r/sciencedaily/health_medicine/tuberculosis/~3/aqBXRdbqk4A/150929065958.htm</link>
+			<description>Tuberculosis is the number one cause of death in HIV-infected patients in Africa and a leading cause of death in this population worldwide, yet the majority of these patients are excluded from the early stages in the development of new, anti-tuberculosis drugs, according to research.&lt;img src="http://feeds.feedburner.com/~r/sciencedaily/health_medicine/tuberculosis/~4/aqBXRdbqk4A" height="1" width="1" alt=""/&gt;</description>
+			<pubDate>Tue, 29 Sep 2015 06:59:58 EDT</pubDate>
+			<guid isPermaLink="false">https://www.sciencedaily.com/releases/2015/09/150929065958.htm</guid>
+		<feedburner:origLink>https://www.sciencedaily.com/releases/2015/09/150929065958.htm</feedburner:origLink></item>
+		<item>
+			<title>Old vaccine trains immune system</title>
+			<link>http://feeds.sciencedaily.com/~r/sciencedaily/health_medicine/tuberculosis/~3/AlM82x_ADb8/150922120518.htm</link>
+			<description>Not only the acquired immune system but also the innate immune system has a memory. And the BCG vaccine against tuberculosis can stimulate this memory, researchers report. After a BCG vaccination, the innate immune system responds better to a wide range of other infections, they say.&lt;img src="http://feeds.feedburner.com/~r/sciencedaily/health_medicine/tuberculosis/~4/AlM82x_ADb8" height="1" width="1" alt=""/&gt;</description>
+			<pubDate>Tue, 22 Sep 2015 12:05:18 EDT</pubDate>
+			<guid isPermaLink="false">https://www.sciencedaily.com/releases/2015/09/150922120518.htm</guid>
+		<feedburner:origLink>https://www.sciencedaily.com/releases/2015/09/150922120518.htm</feedburner:origLink></item>
+		<item>
+			<title>Electronic reminders keep TB patients on track with medication in China</title>
+			<link>http://feeds.sciencedaily.com/~r/sciencedaily/health_medicine/tuberculosis/~3/dCrpbDkOpYk/150915162501.htm</link>
+			<description>Giving electronic reminders to tuberculosis patients in China can reduce the amount of medication doses they miss by half, according to new research.&lt;img src="http://feeds.feedburner.com/~r/sciencedaily/health_medicine/tuberculosis/~4/dCrpbDkOpYk" height="1" width="1" alt=""/&gt;</description>
+			<pubDate>Tue, 15 Sep 2015 16:25:01 EDT</pubDate>
+			<guid isPermaLink="false">https://www.sciencedaily.com/releases/2015/09/150915162501.htm</guid>
+		<feedburner:origLink>https://www.sciencedaily.com/releases/2015/09/150915162501.htm</feedburner:origLink></item>
+		<item>
+			<title>Effects of MVA85A vaccine on tuberculosis challenge in animals</title>
+			<link>http://feeds.sciencedaily.com/~r/sciencedaily/health_medicine/tuberculosis/~3/J67HJbv4Y7M/150909090735.htm</link>
+			<description>A new systematic review of animal studies testing a vaccine for tuberculosis raises questions about whether the studies provided sufficient evidence to move into trials of children.&lt;img src="http://feeds.feedburner.com/~r/sciencedaily/health_medicine/tuberculosis/~4/J67HJbv4Y7M" height="1" width="1" alt=""/&gt;</description>
+			<pubDate>Wed, 09 Sep 2015 09:07:35 EDT</pubDate>
+			<guid isPermaLink="false">https://www.sciencedaily.com/releases/2015/09/150909090735.htm</guid>
+		<feedburner:origLink>https://www.sciencedaily.com/releases/2015/09/150909090735.htm</feedburner:origLink></item>
+		<item>
+			<title>Rapid testing for TB aims to reduce drug resistance, lower mortality rate</title>
+			<link>http://feeds.sciencedaily.com/~r/sciencedaily/health_medicine/tuberculosis/~3/x2MwsXC_yBA/150903224340.htm</link>
+			<description>Researchers have documented the accuracies of three new tests for more rapidly diagnosing drug-resistant forms of tuberculosis (TB), which are much harder and more expensive to treat and which, experts say, represent a major threat to global public health.&lt;img src="http://feeds.feedburner.com/~r/sciencedaily/health_medicine/tuberculosis/~4/x2MwsXC_yBA" height="1" width="1" alt=""/&gt;</description>
+			<pubDate>Thu, 03 Sep 2015 22:43:40 EDT</pubDate>
+			<guid isPermaLink="false">https://www.sciencedaily.com/releases/2015/09/150903224340.htm</guid>
+		<feedburner:origLink>https://www.sciencedaily.com/releases/2015/09/150903224340.htm</feedburner:origLink></item>
+		<item>
+			<title>Project in West Africa sees dramatic drop in TB death rates</title>
+			<link>http://feeds.sciencedaily.com/~r/sciencedaily/health_medicine/tuberculosis/~3/CNTOaL897p4/150825205853.htm</link>
+			<description>Doctors in Togo, West Africa have seen a 10 percent drop in tuberculosis death rates after redesigning diagnosis and treatment services in one of the country's health districts.&lt;img src="http://feeds.feedburner.com/~r/sciencedaily/health_medicine/tuberculosis/~4/CNTOaL897p4" height="1" width="1" alt=""/&gt;</description>
+			<pubDate>Tue, 25 Aug 2015 20:58:53 EDT</pubDate>
+			<guid isPermaLink="false">https://www.sciencedaily.com/releases/2015/08/150825205853.htm</guid>
+		<feedburner:origLink>https://www.sciencedaily.com/releases/2015/08/150825205853.htm</feedburner:origLink></item>
+		<item>
+			<title>Powering off TB: New electron transport gene is a potential drug target</title>
+			<link>http://feeds.sciencedaily.com/~r/sciencedaily/health_medicine/tuberculosis/~3/dRZy943IfXE/150812103650.htm</link>
+			<description>The US Food and Drug Administration recently approved the first new drug to fight tuberculosis in more than 40 years, but treatment still takes six months, 200 pills and leaves 40 percent of patients uncured. Thus, new targets are needed. Today researchers report they have identified one such target -- a gene that allows the disease to camp out in human immune cells, and is thus essential for the organism's proliferation.&lt;img src="http://feeds.feedburner.com/~r/sciencedaily/health_medicine/tuberculosis/~4/dRZy943IfXE" height="1" width="1" alt=""/&gt;</description>
+			<pubDate>Wed, 12 Aug 2015 10:36:50 EDT</pubDate>
+			<guid isPermaLink="false">https://www.sciencedaily.com/releases/2015/08/150812103650.htm</guid>
+		<feedburner:origLink>https://www.sciencedaily.com/releases/2015/08/150812103650.htm</feedburner:origLink></item>
+		<item>
+			<title>Novel toxin, and the first ever found, for deadly pathogen M. tuberculosis</title>
+			<link>http://feeds.sciencedaily.com/~r/sciencedaily/health_medicine/tuberculosis/~3/VDMjJZdjMuE/150803111213.htm</link>
+			<description>The first known toxin of the pathogenic bacterium Mycobacterium tuberculosis has been described by scientists. This necrotizing toxin is the founding member of a novel class of previously unrecognized toxins present in 246 bacterial and fungal species.&lt;img src="http://feeds.feedburner.com/~r/sciencedaily/health_medicine/tuberculosis/~4/VDMjJZdjMuE" height="1" width="1" alt=""/&gt;</description>
+			<pubDate>Mon, 03 Aug 2015 11:12:13 EDT</pubDate>
+			<guid isPermaLink="false">https://www.sciencedaily.com/releases/2015/08/150803111213.htm</guid>
+		<feedburner:origLink>https://www.sciencedaily.com/releases/2015/08/150803111213.htm</feedburner:origLink></item>
+		<item>
+			<title>Uncovering the secrets of immune system invaders</title>
+			<link>http://feeds.sciencedaily.com/~r/sciencedaily/health_medicine/tuberculosis/~3/p8Q2kov_yig/150720154212.htm</link>
+			<description>Some bacteria and viruses take advantage of the way our immune system works to infect us. Researchers now describe some of the trickery used by mycobacteria.&lt;img src="http://feeds.feedburner.com/~r/sciencedaily/health_medicine/tuberculosis/~4/p8Q2kov_yig" height="1" width="1" alt=""/&gt;</description>
+			<media:thumbnail url="https://images.sciencedaily.com/2015/07/150720154212.jpg" height="200" width="300" />
+			<pubDate>Mon, 20 Jul 2015 15:42:12 EDT</pubDate>
+			<guid isPermaLink="false">https://www.sciencedaily.com/releases/2015/07/150720154212.htm</guid>
+		<feedburner:origLink>https://www.sciencedaily.com/releases/2015/07/150720154212.htm</feedburner:origLink></item>
+		<item>
+			<title>Pneumonia investment doesn't match mortality burden</title>
+			<link>http://feeds.sciencedaily.com/~r/sciencedaily/health_medicine/tuberculosis/~3/oqzRDb6woGI/150715090836.htm</link>
+			<description>UK investment in pneumonia research is lacking when compared to spending on influenza and tuberculosis, according to a new study. By calculating the amount spent on researching respiratory infections and their mortality rates, the study authors were able to assess UK public and charitable sector investment against the global burden of the diseases.&lt;br /&gt;&lt;br /&gt;&lt;img src="http://feeds.feedburner.com/~r/sciencedaily/health_medicine/tuberculosis/~4/oqzRDb6woGI" height="1" width="1" alt=""/&gt;</description>
+			<pubDate>Wed, 15 Jul 2015 09:08:36 EDT</pubDate>
+			<guid isPermaLink="false">https://www.sciencedaily.com/releases/2015/07/150715090836.htm</guid>
+		<feedburner:origLink>https://www.sciencedaily.com/releases/2015/07/150715090836.htm</feedburner:origLink></item>
+		<item>
+			<title>Early HIV treatment improves survival in some patients with newly diagnosed TB</title>
+			<link>http://feeds.sciencedaily.com/~r/sciencedaily/health_medicine/tuberculosis/~3/6R7YG8jzKsk/150709141241.htm</link>
+			<description>Starting anti-HIV treatment within two weeks of the diagnosis of tuberculosis, or TB, improved survival among patients with both infections who had very low immune-cell counts, according to an analysis. Those with strong immune systems, however, might benefit from waiting until after the end of the six-month TB treatment before initiating anti-HIV therapy, they found.&lt;img src="http://feeds.feedburner.com/~r/sciencedaily/health_medicine/tuberculosis/~4/6R7YG8jzKsk" height="1" width="1" alt=""/&gt;</description>
+			<pubDate>Thu, 09 Jul 2015 14:12:41 EDT</pubDate>
+			<guid isPermaLink="false">https://www.sciencedaily.com/releases/2015/07/150709141241.htm</guid>
+		<feedburner:origLink>https://www.sciencedaily.com/releases/2015/07/150709141241.htm</feedburner:origLink></item>
+		<item>
+			<title>The next anti-tuberculosis drug may already be in your local pharmacy</title>
+			<link>http://feeds.sciencedaily.com/~r/sciencedaily/health_medicine/tuberculosis/~3/_P7jsgsAA50/150707082342.htm</link>
+			<description>Testing thousands of approved drugs, scientists have identified an unlikely anti-tuberculosis drug: the over-the-counter antacid lansoprazole (Prevacid). Tuberculosis continues to be a global pandemic, second only to AIDS as the greatest single-agent killer in the world. In 2013 alone, the TB bug Mycobacterium tuberculosis caused 1.5 million deaths and almost nine million new infections.&lt;img src="http://feeds.feedburner.com/~r/sciencedaily/health_medicine/tuberculosis/~4/_P7jsgsAA50" height="1" width="1" alt=""/&gt;</description>
+			<pubDate>Tue, 07 Jul 2015 08:23:42 EDT</pubDate>
+			<guid isPermaLink="false">https://www.sciencedaily.com/releases/2015/07/150707082342.htm</guid>
+		<feedburner:origLink>https://www.sciencedaily.com/releases/2015/07/150707082342.htm</feedburner:origLink></item>
+		<item>
+			<title>Research reveals new insights into a key antibiotic target in the fight against TB</title>
+			<link>http://feeds.sciencedaily.com/~r/sciencedaily/health_medicine/tuberculosis/~3/iw8RHjJ-fAc/150630121711.htm</link>
+			<description>A key process in the bacterium that causes tuberculosis has been unraveled by researchers, potentially paving the way for new antibiotics to fight the disease. TB is one of the world's top infectious killers, causing 1.5 million deaths every year. The TB bacterium Mycobacterium tuberculosis (Mtb) is estimated to be present in up to a third of the world's population, although active TB only develops in around one in 10 cases.&lt;img src="http://feeds.feedburner.com/~r/sciencedaily/health_medicine/tuberculosis/~4/iw8RHjJ-fAc" height="1" width="1" alt=""/&gt;</description>
+			<pubDate>Tue, 30 Jun 2015 12:17:11 EDT</pubDate>
+			<guid isPermaLink="false">https://www.sciencedaily.com/releases/2015/06/150630121711.htm</guid>
+		<feedburner:origLink>https://www.sciencedaily.com/releases/2015/06/150630121711.htm</feedburner:origLink></item>
+		<item>
+			<title>Multidrug-resistant TB appears less transmissible in households than drug-susceptible TB</title>
+			<link>http://feeds.sciencedaily.com/~r/sciencedaily/health_medicine/tuberculosis/~3/eNMMvHYganM/150623161050.htm</link>
+			<description>Some strains of multidrug-resistant tuberculosis (MDRTB) may have a lower fitness (be less capable of spreading) than drug-susceptible tuberculosis bacteria, according to a new study. The study compared new tuberculosis cases among household contacts of tuberculosis patients in South Lima and Callao, Peru, to determine the relative fitness of MDRTB vs. drug-susceptible tuberculosis.&lt;img src="http://feeds.feedburner.com/~r/sciencedaily/health_medicine/tuberculosis/~4/eNMMvHYganM" height="1" width="1" alt=""/&gt;</description>
+			<pubDate>Tue, 23 Jun 2015 16:10:50 EDT</pubDate>
+			<guid isPermaLink="false">https://www.sciencedaily.com/releases/2015/06/150623161050.htm</guid>
+		<feedburner:origLink>https://www.sciencedaily.com/releases/2015/06/150623161050.htm</feedburner:origLink></item>
+		<item>
+			<title>Tuberculosis bacteria hide in low oxygen niches of bone marrow stem cells</title>
+			<link>http://feeds.sciencedaily.com/~r/sciencedaily/health_medicine/tuberculosis/~3/yRHGoqFR_-Y/150619141615.htm</link>
+			<description>A new study is helping to shed light on latent tuberculosis and the bacteria's ability to hide in stem cells. Some bone marrow stem cells reside in low oxygen (hypoxia) zones.&lt;img src="http://feeds.feedburner.com/~r/sciencedaily/health_medicine/tuberculosis/~4/yRHGoqFR_-Y" height="1" width="1" alt=""/&gt;</description>
+			<pubDate>Fri, 19 Jun 2015 14:16:15 EDT</pubDate>
+			<guid isPermaLink="false">https://www.sciencedaily.com/releases/2015/06/150619141615.htm</guid>
+		<feedburner:origLink>https://www.sciencedaily.com/releases/2015/06/150619141615.htm</feedburner:origLink></item>
+		<item>
+			<title>New hope in the fight against tuberculosis</title>
+			<link>http://feeds.sciencedaily.com/~r/sciencedaily/health_medicine/tuberculosis/~3/62Wl4fQcutg/150604162559.htm</link>
+			<description>Scientists have discovered a new target for the fight against multi-resistant mycobacteria, from a rejuvenated antibiotic series. Mycobacterium tuberculosis is the main cause of tuberculosis. The treatment for drug-susceptible tuberculosis consists of the daily administration of multiple drugs for a minimum of six months. Lack of adherence to this regimen can result in treatment failure and the emergence of drug resistance.&lt;img src="http://feeds.feedburner.com/~r/sciencedaily/health_medicine/tuberculosis/~4/62Wl4fQcutg" height="1" width="1" alt=""/&gt;</description>
+			<media:thumbnail url="https://images.sciencedaily.com/2015/06/150604162559.jpg" height="200" width="300" />
+			<pubDate>Thu, 04 Jun 2015 16:25:59 EDT</pubDate>
+			<guid isPermaLink="false">https://www.sciencedaily.com/releases/2015/06/150604162559.htm</guid>
+		<feedburner:origLink>https://www.sciencedaily.com/releases/2015/06/150604162559.htm</feedburner:origLink></item>
+		<item>
+			<title>Immunity enzyme defends against tuberculosis infection, study shows</title>
+			<link>http://feeds.sciencedaily.com/~r/sciencedaily/health_medicine/tuberculosis/~3/fGaDvjRlIwg/150602132307.htm</link>
+			<description>A study has identified how an enzyme involved in protecting the body from pathogens senses Mycobacterium tuberculosis, a bacterial pathogen that infects millions of people worldwide and causes about 1.5 million deaths annually.&lt;img src="http://feeds.feedburner.com/~r/sciencedaily/health_medicine/tuberculosis/~4/fGaDvjRlIwg" height="1" width="1" alt=""/&gt;</description>
+			<pubDate>Tue, 02 Jun 2015 13:23:07 EDT</pubDate>
+			<guid isPermaLink="false">https://www.sciencedaily.com/releases/2015/06/150602132307.htm</guid>
+		<feedburner:origLink>https://www.sciencedaily.com/releases/2015/06/150602132307.htm</feedburner:origLink></item>
+		<item>
+			<title>How the tuberculosis bacterium tricks the immune system</title>
+			<link>http://feeds.sciencedaily.com/~r/sciencedaily/health_medicine/tuberculosis/~3/chK_jZidlcg/150602130414.htm</link>
+			<description>Tuberculosis is caused by the bacterium Mycobacterium tuberculosis and it affects over 12 million people globally. Scientists have discovered how the tuberculosis bacterium can trick the patient's immune cells to lower their defenses.&lt;img src="http://feeds.feedburner.com/~r/sciencedaily/health_medicine/tuberculosis/~4/chK_jZidlcg" height="1" width="1" alt=""/&gt;</description>
+			<pubDate>Tue, 02 Jun 2015 13:04:14 EDT</pubDate>
+			<guid isPermaLink="false">https://www.sciencedaily.com/releases/2015/06/150602130414.htm</guid>
+		<feedburner:origLink>https://www.sciencedaily.com/releases/2015/06/150602130414.htm</feedburner:origLink></item>
+		<item>
+			<title>Testing for tuberculosis reliably and quickly</title>
+			<link>http://feeds.sciencedaily.com/~r/sciencedaily/health_medicine/tuberculosis/~3/VrN1hLl21yM/150528082022.htm</link>
+			<description>Researchers have developed a simple diagnostic test to quickly and reliably detect tuberculosis in humans.&lt;img src="http://feeds.feedburner.com/~r/sciencedaily/health_medicine/tuberculosis/~4/VrN1hLl21yM" height="1" width="1" alt=""/&gt;</description>
+			<pubDate>Thu, 28 May 2015 08:20:22 EDT</pubDate>
+			<guid isPermaLink="false">https://www.sciencedaily.com/releases/2015/05/150528082022.htm</guid>
+		<feedburner:origLink>https://www.sciencedaily.com/releases/2015/05/150528082022.htm</feedburner:origLink></item>
+		<item>
+			<title>New online tool to predict genetic resistance to tuberculosis drugs</title>
+			<link>http://feeds.sciencedaily.com/~r/sciencedaily/health_medicine/tuberculosis/~3/988qfi0xnaE/150527113000.htm</link>
+			<description>A new TB-Profiler tool analyses and interprets genome sequence data to predict resistance to 11 drugs used for the treatment of TB. This rapid tool means that sequence data can now be used without delay, so that finding which drugs to use for a patient with TB can be sped up by days or even weeks, increasing the likelihood of a cure.&lt;img src="http://feeds.feedburner.com/~r/sciencedaily/health_medicine/tuberculosis/~4/988qfi0xnaE" height="1" width="1" alt=""/&gt;</description>
+			<pubDate>Wed, 27 May 2015 11:30:00 EDT</pubDate>
+			<guid isPermaLink="false">https://www.sciencedaily.com/releases/2015/05/150527113000.htm</guid>
+		<feedburner:origLink>https://www.sciencedaily.com/releases/2015/05/150527113000.htm</feedburner:origLink></item>
+		<item>
+			<title>'Imperfect drug penetration' speeds pathogens' resistance, study finds</title>
+			<link>http://feeds.sciencedaily.com/~r/sciencedaily/health_medicine/tuberculosis/~3/csANRLv3tXI/150518173503.htm</link>
+			<description>Prescribing patients two or more drugs that do not reach the same parts of the body could accelerate a pathogen's resistance to all of the drugs being used in treatment, according to new research. The research finds that in instances of 'imperfect drug penetration,' a pathogen can develop resistance one drug at a time. The results have implications for doctors and other health professionals considering which drug combinations to prescribe.&lt;img src="http://feeds.feedburner.com/~r/sciencedaily/health_medicine/tuberculosis/~4/csANRLv3tXI" height="1" width="1" alt=""/&gt;</description>
+			<pubDate>Mon, 18 May 2015 17:35:03 EDT</pubDate>
+			<guid isPermaLink="false">https://www.sciencedaily.com/releases/2015/05/150518173503.htm</guid>
+		<feedburner:origLink>https://www.sciencedaily.com/releases/2015/05/150518173503.htm</feedburner:origLink></item>
+		<item>
+			<title>New test could identify resistant tuberculosis faster</title>
+			<link>http://feeds.sciencedaily.com/~r/sciencedaily/health_medicine/tuberculosis/~3/pet5lq351ME/150513083723.htm</link>
+			<description>The time needed to genetically sequence the bacteria causing tuberculosis (Mtb) from patient samples has been reduced from weeks to days using a new technique. This could help health service providers to better treat disease, control transmission of this infection, and monitor outbreaks, researchers say.&lt;img src="http://feeds.feedburner.com/~r/sciencedaily/health_medicine/tuberculosis/~4/pet5lq351ME" height="1" width="1" alt=""/&gt;</description>
+			<pubDate>Wed, 13 May 2015 08:37:23 EDT</pubDate>
+			<guid isPermaLink="false">https://www.sciencedaily.com/releases/2015/05/150513083723.htm</guid>
+		<feedburner:origLink>https://www.sciencedaily.com/releases/2015/05/150513083723.htm</feedburner:origLink></item>
+		<item>
+			<title>Unexpected role for calcium in controlling inflammation during chronic lung infection</title>
+			<link>http://feeds.sciencedaily.com/~r/sciencedaily/health_medicine/tuberculosis/~3/A3mBg1jEM2A/150504163454.htm</link>
+			<description>Many of us take a healthy immune system for granted. But for certain infants with rare, inherited mutations of certain genes, severe infection and death are stark consequences of their impaired immune responses. Researchers have identified an important role for calcium signaling in immune responses to chronic infection resulting from Mycobacterium tuberculosis, the bacterium causing tuberculosis.&lt;img src="http://feeds.feedburner.com/~r/sciencedaily/health_medicine/tuberculosis/~4/A3mBg1jEM2A" height="1" width="1" alt=""/&gt;</description>
+			<pubDate>Mon, 04 May 2015 16:34:54 EDT</pubDate>
+			<guid isPermaLink="false">https://www.sciencedaily.com/releases/2015/05/150504163454.htm</guid>
+		<feedburner:origLink>https://www.sciencedaily.com/releases/2015/05/150504163454.htm</feedburner:origLink></item>
+		<item>
+			<title>Locally sourced drugs can be effective for treating multidrug-resistant TB</title>
+			<link>http://feeds.sciencedaily.com/~r/sciencedaily/health_medicine/tuberculosis/~3/4ElVG0TAuzg/150429145450.htm</link>
+			<description>Locally sourced antibiotics can be as effective as 'internationally quality-assured' antibiotics for treating multidrug-resistant tuberculosis in Pakistan, and may help avoid delays in starting treatment while programs wait for drugs to arrive from overseas, according to new research.&lt;img src="http://feeds.feedburner.com/~r/sciencedaily/health_medicine/tuberculosis/~4/4ElVG0TAuzg" height="1" width="1" alt=""/&gt;</description>
+			<pubDate>Wed, 29 Apr 2015 14:54:50 EDT</pubDate>
+			<guid isPermaLink="false">https://www.sciencedaily.com/releases/2015/04/150429145450.htm</guid>
+		<feedburner:origLink>https://www.sciencedaily.com/releases/2015/04/150429145450.htm</feedburner:origLink></item>
+		<item>
+			<title>Turning to freshwater sources to fight drug-resistant tuberculosis, other infections</title>
+			<link>http://feeds.sciencedaily.com/~r/sciencedaily/health_medicine/tuberculosis/~3/l_BFEUqBynM/150408113623.htm</link>
+			<description>The discovery of antibiotics produced by soil fungi and bacteria gave the world life-saving medicine. But new antimicrobials from this resource have become scarce as the threat of drug resistance grows. Now, scientists have started mining lakes and rivers for potential pathogen-fighters, and they've found one from Lake Michigan that is effective against drug-resistant tuberculosis.&lt;img src="http://feeds.feedburner.com/~r/sciencedaily/health_medicine/tuberculosis/~4/l_BFEUqBynM" height="1" width="1" alt=""/&gt;</description>
+			<pubDate>Wed, 08 Apr 2015 11:36:23 EDT</pubDate>
+			<guid isPermaLink="false">https://www.sciencedaily.com/releases/2015/04/150408113623.htm</guid>
+		<feedburner:origLink>https://www.sciencedaily.com/releases/2015/04/150408113623.htm</feedburner:origLink></item>
+		<item>
+			<title>Mummified bodies reveal how tuberculosis ravaged the heart of 18th century Europe</title>
+			<link>http://feeds.sciencedaily.com/~r/sciencedaily/health_medicine/tuberculosis/~3/7ldV9FH6rtg/150407123755.htm</link>
+			<description>Bodies found in a 200 year-old Hungarian crypt have revealed the secrets of how tuberculosis (TB) took hold in 18th century Europe, according to a research team. "Microbiological analyses of samples from contemporary TB patients usually report a single strain of tuberculosis per patient. By contrast, five of the eight bodies in our study yielded more than one type of tuberculosis -- remarkably from one individual we obtained evidence of three distinct strains," one researcher said.&lt;img src="http://feeds.feedburner.com/~r/sciencedaily/health_medicine/tuberculosis/~4/7ldV9FH6rtg" height="1" width="1" alt=""/&gt;</description>
+			<media:thumbnail url="https://images.sciencedaily.com/2015/04/150407123755.jpg" height="252" width="300" />
+			<pubDate>Tue, 07 Apr 2015 12:37:55 EDT</pubDate>
+			<guid isPermaLink="false">https://www.sciencedaily.com/releases/2015/04/150407123755.htm</guid>
+		<feedburner:origLink>https://www.sciencedaily.com/releases/2015/04/150407123755.htm</feedburner:origLink></item>
+		<item>
+			<title>Blood-based biomarkers could enable simple, accurate TB tests for diagnosis and monitoring</title>
+			<link>http://feeds.sciencedaily.com/~r/sciencedaily/health_medicine/tuberculosis/~3/qiQs2tCMy7E/150330173911.htm</link>
+			<description>Researchers have identified blood-based biomarkers in patients with active tuberculosis that could lead to new blood-based diagnostics and tools for monitoring treatment response and cure. Tuberculosis (TB) is a major global public health problem. In 2013 alone, there were an estimated nine million cases of ATB disease, and 1.5 million people died from TB. In addition, the World Health Organization estimates that two billion individuals are asymptomatically infected with Mycobacterium tuberculosis (Mtb), the bacterium that causes TB, and are considered to have latent Mtb infection (LTBI).&lt;img src="http://feeds.feedburner.com/~r/sciencedaily/health_medicine/tuberculosis/~4/qiQs2tCMy7E" height="1" width="1" alt=""/&gt;</description>
+			<media:thumbnail url="https://images.sciencedaily.com/2015/03/150330173911.jpg" height="300" width="300" />
+			<pubDate>Mon, 30 Mar 2015 17:39:11 EDT</pubDate>
+			<guid isPermaLink="false">https://www.sciencedaily.com/releases/2015/03/150330173911.htm</guid>
+		<feedburner:origLink>https://www.sciencedaily.com/releases/2015/03/150330173911.htm</feedburner:origLink></item>
+		<item>
+			<title>How the Human Immune System Keeps TB at Bay</title>
+			<link>http://feeds.sciencedaily.com/~r/sciencedaily/health_medicine/tuberculosis/~3/_6Cbhoaxskk/150326112340.htm</link>
+			<description>A new tissue culture model using human white blood cells shows how people with a latent -- or symptom-free -- tuberculosis infection are protected from active disease by a critical early step in their immune response, researchers say.&lt;img src="http://feeds.feedburner.com/~r/sciencedaily/health_medicine/tuberculosis/~4/_6Cbhoaxskk" height="1" width="1" alt=""/&gt;</description>
+			<pubDate>Thu, 26 Mar 2015 11:23:40 EDT</pubDate>
+			<guid isPermaLink="false">https://www.sciencedaily.com/releases/2015/03/150326112340.htm</guid>
+		<feedburner:origLink>https://www.sciencedaily.com/releases/2015/03/150326112340.htm</feedburner:origLink></item>
+		<item>
+			<title>Xpert MTB/RIF assay for diagnosis of pulmonary tuberculosis in children: A systematic review and meta-analysis</title>
+			<link>http://feeds.sciencedaily.com/~r/sciencedaily/health_medicine/tuberculosis/~3/PA6bZkezMxI/150324085124.htm</link>
+			<description>Microbiological confirmation of childhood tuberculosis is rare because of the difficulty of collection of specimens, low sensitivity of smear microscopy, and poor access to culture. A new study aimed to establish summary estimates for sensitivity and specificity of the Xpert MTB/RIF assay compared with microscopy in the diagnosis of pulmonary tuberculosis in children.&lt;img src="http://feeds.feedburner.com/~r/sciencedaily/health_medicine/tuberculosis/~4/PA6bZkezMxI" height="1" width="1" alt=""/&gt;</description>
+			<pubDate>Tue, 24 Mar 2015 08:51:24 EDT</pubDate>
+			<guid isPermaLink="false">https://www.sciencedaily.com/releases/2015/03/150324085124.htm</guid>
+		<feedburner:origLink>https://www.sciencedaily.com/releases/2015/03/150324085124.htm</feedburner:origLink></item>
+		<item>
+			<title>Scientists use DNA sequencing to trace the spread of drug-resistant TB</title>
+			<link>http://feeds.sciencedaily.com/~r/sciencedaily/health_medicine/tuberculosis/~3/jYRvcNTvJfo/150323131041.htm</link>
+			<description>Scientists have for the first time used DNA sequencing to trace the fatal spread of multidrug-resistant tuberculosis between patients in the UK. TB is spread by inhaling tiny airborne droplets from an infected person. The bacteria can survive in the lungs for long periods without causing symptoms -- known as latent infection.&lt;img src="http://feeds.feedburner.com/~r/sciencedaily/health_medicine/tuberculosis/~4/jYRvcNTvJfo" height="1" width="1" alt=""/&gt;</description>
+			<media:thumbnail url="https://images.sciencedaily.com/2015/03/150323131041.jpg" height="207" width="300" />
+			<pubDate>Mon, 23 Mar 2015 13:10:41 EDT</pubDate>
+			<guid isPermaLink="false">https://www.sciencedaily.com/releases/2015/03/150323131041.htm</guid>
+		<feedburner:origLink>https://www.sciencedaily.com/releases/2015/03/150323131041.htm</feedburner:origLink></item>
+		<item>
+			<title>Phase 2b trial results of novel TB regimen show potential to shorten treatment</title>
+			<link>http://feeds.sciencedaily.com/~r/sciencedaily/health_medicine/tuberculosis/~3/3txgqn2Ji-w/150318074525.htm</link>
+			<description>A new tuberculosis (TB) drug regimen designed to improve options for TB therapy eliminated more bacteria from sputum than standard therapy and did so at a faster rate, according to data from a phase 2b clinical trial. These results are published just as the global phase 3 clinical trial, designed to bring this regimen through the last stage of testing, has begun.&lt;img src="http://feeds.feedburner.com/~r/sciencedaily/health_medicine/tuberculosis/~4/3txgqn2Ji-w" height="1" width="1" alt=""/&gt;</description>
+			<pubDate>Wed, 18 Mar 2015 07:45:25 EDT</pubDate>
+			<guid isPermaLink="false">https://www.sciencedaily.com/releases/2015/03/150318074525.htm</guid>
+		<feedburner:origLink>https://www.sciencedaily.com/releases/2015/03/150318074525.htm</feedburner:origLink></item>
+		<item>
+			<title>Genetic discovery provides clues to how TB may evade the immune system</title>
+			<link>http://feeds.sciencedaily.com/~r/sciencedaily/health_medicine/tuberculosis/~3/t8j3g28cZZw/150316135144.htm</link>
+			<description>The largest genetic study of tuberculosis susceptibility to date has led to a potentially important new insight into how the pathogen manages to evade the immune system. The study advances understanding of the biological mechanisms involved in TB, which may open up new avenues to design efficient vaccines for its prevention.&lt;img src="http://feeds.feedburner.com/~r/sciencedaily/health_medicine/tuberculosis/~4/t8j3g28cZZw" height="1" width="1" alt=""/&gt;</description>
+			<media:thumbnail url="https://images.sciencedaily.com/2015/03/150316135144.jpg" height="146" width="300" />
+			<pubDate>Mon, 16 Mar 2015 13:51:44 EDT</pubDate>
+			<guid isPermaLink="false">https://www.sciencedaily.com/releases/2015/03/150316135144.htm</guid>
+		<feedburner:origLink>https://www.sciencedaily.com/releases/2015/03/150316135144.htm</feedburner:origLink></item>
+		<item>
+			<title>Key to tuberculosis resistance found</title>
+			<link>http://feeds.sciencedaily.com/~r/sciencedaily/health_medicine/tuberculosis/~3/_CKN5j5c0Mc/150302121613.htm</link>
+			<description>The cascade of events leading to bacterial infection and the immune response is mostly understood. However, the molecular mechanisms underlying the immune response to the bacteria that causes tuberculosis have remained a mystery -- until now. Researchers have uncovered how a bacterial molecule controls the body's response to TB infection and suggest that adjusting the level of this of this molecule may be a new way to treat the disease.&lt;img src="http://feeds.feedburner.com/~r/sciencedaily/health_medicine/tuberculosis/~4/_CKN5j5c0Mc" height="1" width="1" alt=""/&gt;</description>
+			<pubDate>Mon, 02 Mar 2015 12:16:13 EST</pubDate>
+			<guid isPermaLink="false">https://www.sciencedaily.com/releases/2015/03/150302121613.htm</guid>
+		<feedburner:origLink>https://www.sciencedaily.com/releases/2015/03/150302121613.htm</feedburner:origLink></item>
+		<item>
+			<title>Potential treatment for drug-resistant tuberculosis discovered</title>
+			<link>http://feeds.sciencedaily.com/~r/sciencedaily/health_medicine/tuberculosis/~3/dQG5Qbjq0a4/150224172131.htm</link>
+			<description>A new small molecule drug has been discovered that may serve as a treatment against multi-drug resistant tuberculosis, a form of the disease that cannot be cured with conventional therapies. While standard anti-tuberculosis drugs can cure most people of Mycobacterium tuberculosis infection, improper use of antibiotics has led to new strains of the bacterium resistant to the two most powerful medications, isoniazid and rifampicin.&lt;img src="http://feeds.feedburner.com/~r/sciencedaily/health_medicine/tuberculosis/~4/dQG5Qbjq0a4" height="1" width="1" alt=""/&gt;</description>
+			<media:thumbnail url="https://images.sciencedaily.com/2015/02/150224172131.jpg" height="200" width="300" />
+			<pubDate>Tue, 24 Feb 2015 17:21:31 EST</pubDate>
+			<guid isPermaLink="false">https://www.sciencedaily.com/releases/2015/02/150224172131.htm</guid>
+		<feedburner:origLink>https://www.sciencedaily.com/releases/2015/02/150224172131.htm</feedburner:origLink></item>
+		<item>
+			<title>Elucidating the origin of MDR tuberculosis strains</title>
+			<link>http://feeds.sciencedaily.com/~r/sciencedaily/health_medicine/tuberculosis/~3/TqLxLW8KAoU/150128125329.htm</link>
+			<description>A study has focused on the evolutionary history of the mycobacterium that causes tuberculosis, and more specifically on the Beijing lineage associated with the spread of multidrug resistant forms of the disease in Eurasia. While confirming the East-Asian origin of this lineage, the results also indicate that this bacterial population has experienced notable variations coinciding with key events in human history, scientists report.&lt;img src="http://feeds.feedburner.com/~r/sciencedaily/health_medicine/tuberculosis/~4/TqLxLW8KAoU" height="1" width="1" alt=""/&gt;</description>
+			<pubDate>Wed, 28 Jan 2015 12:53:29 EST</pubDate>
+			<guid isPermaLink="false">https://www.sciencedaily.com/releases/2015/01/150128125329.htm</guid>
+		<feedburner:origLink>https://www.sciencedaily.com/releases/2015/01/150128125329.htm</feedburner:origLink></item>
+		<item>
+			<title>Shorter combination treatment as effective as monotherapy for TB prevention in kids</title>
+			<link>http://feeds.sciencedaily.com/~r/sciencedaily/health_medicine/tuberculosis/~3/2j4gUU6em1o/150112135426.htm</link>
+			<description>To prevent tuberculosis in children with latent tuberculosis infection (which is not active but can become active), combination treatment with the medications rifapentine and isoniazid was as effective as longer treatment with only isoniazid, according to a study.&lt;img src="http://feeds.feedburner.com/~r/sciencedaily/health_medicine/tuberculosis/~4/2j4gUU6em1o" height="1" width="1" alt=""/&gt;</description>
+			<pubDate>Mon, 12 Jan 2015 13:54:26 EST</pubDate>
+			<guid isPermaLink="false">https://www.sciencedaily.com/releases/2015/01/150112135426.htm</guid>
+		<feedburner:origLink>https://www.sciencedaily.com/releases/2015/01/150112135426.htm</feedburner:origLink></item>
+		<item>
+			<title>Deworming programs in animal, human populations may have unwanted impacts</title>
+			<link>http://feeds.sciencedaily.com/~r/sciencedaily/health_medicine/tuberculosis/~3/kphx8dpw-24/150108144738.htm</link>
+			<description>A study of the effects of worming medications on infectious disease in wildlife herds showed an unexpected and alarming result -- it helped reduce individual deaths from a bovine tuberculosis infection, but hugely increased the potential for spread of the disease to other animals. The findings suggest that some treatments may increase problems with diseases they were meant to reduce.&lt;img src="http://feeds.feedburner.com/~r/sciencedaily/health_medicine/tuberculosis/~4/kphx8dpw-24" height="1" width="1" alt=""/&gt;</description>
+			<media:thumbnail url="https://images.sciencedaily.com/2015/01/150108144738.jpg" height="208" width="300" />
+			<pubDate>Thu, 08 Jan 2015 14:47:38 EST</pubDate>
+			<guid isPermaLink="false">https://www.sciencedaily.com/releases/2015/01/150108144738.htm</guid>
+		<feedburner:origLink>https://www.sciencedaily.com/releases/2015/01/150108144738.htm</feedburner:origLink></item>
+		<item>
+			<title>New whole blood assay may help overcome roadblocks to TB eradication</title>
+			<link>http://feeds.sciencedaily.com/~r/sciencedaily/health_medicine/tuberculosis/~3/Gj7xOfNXD8w/150106130514.htm</link>
+			<description>One of the roadblocks to the eradication of tuberculosis (TB) is the difficulty in identifying patients with latent TB infections (LTBI). Neither the tuberculin skin test (TST) nor interferon-gamma release assays (IGRAs) are capable of distinguishing active from latent infection or predicting the chance of reactivation. A new multiple-target, real-time reverse transcription-PCR (real-time RT-PCR) TaqMan assay targeting eight human immune markers can differentiate active pulmonary TB from LTBI, according to a study.&lt;img src="http://feeds.feedburner.com/~r/sciencedaily/health_medicine/tuberculosis/~4/Gj7xOfNXD8w" height="1" width="1" alt=""/&gt;</description>
+			<pubDate>Tue, 06 Jan 2015 13:05:14 EST</pubDate>
+			<guid isPermaLink="false">https://www.sciencedaily.com/releases/2015/01/150106130514.htm</guid>
+		<feedburner:origLink>https://www.sciencedaily.com/releases/2015/01/150106130514.htm</feedburner:origLink></item>
+		<item>
+			<title>New treatment strategy allows lower doses of toxic tuberculosis drug without compromising potency</title>
+			<link>http://feeds.sciencedaily.com/~r/sciencedaily/health_medicine/tuberculosis/~3/h3FgI7nd-5k/141230102039.htm</link>
+			<description>While an effective treatment is available for combating multidrug-resistant tuberculosis, it carries serious side effects for patients. New research shows that lower doses of the toxic drug bedaquiline â given together with verapamil, a medication thatâs used to treat various heart conditions â can lead to the same antibacterial effects as higher toxic doses of bedaquiline.&lt;img src="http://feeds.feedburner.com/~r/sciencedaily/health_medicine/tuberculosis/~4/h3FgI7nd-5k" height="1" width="1" alt=""/&gt;</description>
+			<pubDate>Tue, 30 Dec 2014 10:20:39 EST</pubDate>
+			<guid isPermaLink="false">https://www.sciencedaily.com/releases/2014/12/141230102039.htm</guid>
+		<feedburner:origLink>https://www.sciencedaily.com/releases/2014/12/141230102039.htm</feedburner:origLink></item>
+	</channel>
+</rss><!-- Page successfully written to cache. --><!-- cached Sun, 06 Mar 2016 23:07:01 EST -->

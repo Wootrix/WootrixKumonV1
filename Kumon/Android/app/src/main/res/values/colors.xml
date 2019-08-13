@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="drawer_scrim">#7D000000</color>
+    <color name="drawer_shadow">#96000000</color>
+    <color name="white">#ffffff</color>
+    <color name="red">#FF0000</color>
+    <color name="green">#00FF00</color>
+    <color name="black">#000000</color>
+    <color name="banner_color">#f2f2f2</color>
+    <color name="black_heading">#15151c</color>
+    <color name="transparent">#0000</color>
+    <color name="grey">#707070</color>
+    <color name="select_song_header_color">#1e1e1e</color>
+    <color name="divider_color">#252525</color>
+    <color name="purple">#9951b7</color>
+    <color name="row_grey_color">#1a1a1a</color>
+    <color name="setting_row_color">#2a2a2a</color>
+    <color name="trans_75_bg">#C0000000</color>
+    <color name="trans_50_bg">#80000000</color>
+    <color name="trans_40_bg">#67000000</color>
+    <color name="twitter_bg_color">#51b1c9</color>
+    <color name="trans_white_75_bg">#C0FFFFFF</color>
+    <color name="trans_white_50_bg">#80FFFFFF</color>
+    <color name="trans_white_40_bg">#67FFFFFF</color>
+    <color name="light_blue_color">#358eb3</color>
+    <color name="color_414141">#414141</color>
+    <color name="color_7ec058">#7ec058</color>
+    <color name="color_2c2c2c">#2c2c2c</color>
+    <color name="color_282828">#282828</color>
+    <color name="color_bbbbbb">#bbbbbb</color>
+    <color name="color_fafafa">#fafafa</color>
+    <color name="color_sky_blue">#5095B2</color>
+    <color name="color_baby_blue">#A1CAF1</color>
+    <color name="color_blue">#00a1e5</color>
+    <color name="socialConnectedTextColor">#A1CAF1</color>
+    <color name="socialUNConnectedTextColor">#3c3c3c</color>
+
+</resources>

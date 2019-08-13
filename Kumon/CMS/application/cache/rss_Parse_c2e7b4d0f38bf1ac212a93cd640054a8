@@ -1,0 +1,791 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Motion Control</title>
+    <description>
+      <![CDATA[For a product to be assembled successfully, itâs essential to move the right parts, to the right place, in the right orientation, at the right time. Motion control technology makes that happen.]]>
+    </description>
+    <link>http://www.assemblymag.com/rss</link>
+    <language>en-us</language>
+    <item>
+      <title>Vision Enables Flexible Assembly</title>
+      <description>
+        <![CDATA[<p>A Fortune 500 manufacturer of electromechanical products previously operated six separate indexing assembly machines, each producing one of a family of products at about 40 parts per minute.</p>]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93679</guid>
+      <pubDate>Thu, 05 Jan 2017 00:00:00 -0500</pubDate>
+      <link>http://www.assemblymag.com/articles/93679-vision-enables-flexible-assembly</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Issues/2017/January/vision/asb0117vis1.jpg?1483646089" type="image/jpeg" length="75783"/>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2017/January/vision/asb0117vis1.jpg?1483646089" type="image/jpeg" fileSize="75783">
+        <media:title type="plain">1</media:title>
+        <media:description type="plain">The CNCAssembly system consists of seven assembly stations, or engines, linked together by a linear-motor transfer system. Photo courtesy Cognex Corp.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2017/January/vision/asb0117vis4.jpg?1483646201" type="image/jpeg" fileSize="87947">
+        <media:title type="plain">4</media:title>
+        <media:description type="plain">At station 4, a robot orients and assembles plastic spacer-plates onto the bases. A vision system inspects the subassemblies to verify that each part has a spacer-plate and it is correctly positioned on the spacer. Photo courtesy Cognex Corp.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2017/January/vision/asb0117vis5.jpg?1483646249" type="image/jpeg" fileSize="61779">
+        <media:title type="plain">5</media:title>
+        <media:description type="plain">This system assembles six families of an electromechanical product, for a total of more than 75 product variants. Photo courtesy Cognex Corp.
+</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>Actuator Ensures Precise Metering, Mixing and Dispensing</title>
+      <author>camilloj@bnpmedia.com (Jim Camillo)</author>
+      <description>
+        <![CDATA[<p>Manufacturers that use adhesives and sealants to assemble their products know how critical it is for these materials to be dispensed with accuracy and repeatability.</p>
+]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93674</guid>
+      <pubDate>Thu, 05 Jan 2017 00:00:00 -0500</pubDate>
+      <link>http://www.assemblymag.com/articles/93674-actuator-ensures-precise-metering-mixing-and-dispensing</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Issues/2017/January/AIA/asb0117AIA7.jpg?1483631421" type="image/jpeg" length="41255"/>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2017/January/AIA/asb0117AIA7.jpg?1483631421" type="image/jpeg" fileSize="41255">
+        <media:title type="plain">7</media:title>
+        <media:description type="plain">Dopag&amp;rsquo;s Vectodis dispensing system, here mounted on a robotic arm, applies singlecomponent material either in dots or a continuous bead. Photo courtesy Curtiss- Wright Corp.
+</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>Encoder measures speed and position of ship's propeller shaft</title>
+      <author>camilloj@bnpmedia.com (Jim Camillo)</author>
+      <description>
+        <![CDATA[<p>Large companies and small towns are sometimes a perfect fit. The most well-known example of this is Wal-Mart Stores Inc., which is the world&rsquo;s largest retailer but is headquartered in tiny Bentonville, AR.</p>
+]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93673</guid>
+      <pubDate>Thu, 05 Jan 2017 00:00:00 -0500</pubDate>
+      <link>http://www.assemblymag.com/articles/93673-encoder-measures-speed-and-position-of-ships-propeller-shaft</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Issues/2017/January/AIA/asb0117AIA5.jpg?1483630800" type="image/jpeg" length="51595"/>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2017/January/AIA/asb0117AIA5.jpg?1483630800" type="image/jpeg" fileSize="51595">
+        <media:title type="plain">5</media:title>
+        <media:description type="plain">The 2000 series encoder ring mounts to the motor shaft with a flange expansion using axial screws, or directly to the shaft with a clamp fit system. Photo courtesy Leine &amp;amp; Linde AB
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2017/January/AIA/asb0117AIA6.jpg?1483630846" type="image/jpeg" fileSize="64645">
+        <media:title type="plain">6</media:title>
+      </media:content>
+    </item>
+    <item>
+      <title>Robot Gets to Work Quicker on Transport Unit</title>
+      <author>camilloj@bnpmedia.com (Jim Camillo)</author>
+      <description>
+        <![CDATA[What does a manufacturer do if it needs to increase production, but its robotâs range limit has been reached and space limitations prevent the addition of a second robot? ]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93671</guid>
+      <pubDate>Thu, 05 Jan 2017 00:00:00 -0500</pubDate>
+      <link>http://www.assemblymag.com/articles/93671-robot-gets-to-work-quicker-on-transport-unit</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Issues/2017/January/AIA/asb0117AIA1.jpg?1483628498" type="image/jpeg" length="43071"/>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2017/January/AIA/asb0117AIA1.jpg?1483628498" type="image/jpeg" fileSize="43071">
+        <media:title type="plain">1</media:title>
+        <media:description type="plain">This transport unit quickly moves a Fanuc M-2000iA robot to a loading station where it places varioussized steel sleeves onto reels. Photo courtesy IPR GmbH
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2017/January/AIA/asb0117AIA2.jpg?1483628571" type="image/jpeg" fileSize="82475">
+        <media:title type="plain">2</media:title>
+        <media:description type="plain">BsAutomatisierung GmbH builds robotic workcells and complete automated systems. It also offers related engineering services, electrical design and image processing. Photo courtesy bsAutomatisierung GmbH
+</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>Modular Automation Components</title>
+      <author>camilloj@bnpmedia.com (Jim Camillo)</author>
+      <description>
+        <![CDATA[<p>At some point during a philosophy 101 class, college students learn about Aristotle&rsquo;s belief that the best way to understand something is to break it down to the smallest components. For an increasing number of manufacturers and integrators, however, the best way to assemble a product is to use a machine built with modular automation components that quickly and easily fit together.</p>
+]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93622</guid>
+      <pubDate>Mon, 07 Nov 2016 00:00:00 -0500</pubDate>
+      <link>http://www.assemblymag.com/articles/93622-modular-automation-components</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Issues/2016/November/modular/asb1116Modular1.jpg?1478534877" type="image/jpeg" length="171483"/>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/November/modular/asb1116Modular1.jpg?1478534877" type="image/jpeg" fileSize="171483">
+        <media:title type="plain">1</media:title>
+        <media:description type="plain">With modular components, a manufacturer can reconfigure its assembly lines more easily to keep up with changing market needs. Photo courtesy Bosch Rexroth Corp.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/November/modular/asb1116Modular2.jpg?1478534962" type="image/jpeg" fileSize="143900">
+        <media:title type="plain">2</media:title>
+        <media:description type="plain">Popular modular components include linear slides, end-effectors, rotary units, valve manifolds, feeder bowls and conveyors. Photo courtesy Edgewater Automation
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/November/modular/asb1116Modular3.jpg?1478535000" type="image/jpeg" fileSize="35405">
+        <media:title type="plain">3</media:title>
+        <media:description type="plain">A gantry robot built from the modular YXMx handling components can perform screwdriving, dispensing, testing, soldering and gripping. Photo courtesy Festo Corp.
+</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>Industry 4.0: Myths vs. Reality</title>
+      <author>webera@bnpmedia.com (Austin Weber)</author>
+      <description>
+        <![CDATA[<p>In the nautical disaster movie, &ldquo;The Perfect Storm,&rdquo; three weather fronts converge off the coast of New England to create one of the fiercest storms in U.S. history. A similar convergence is occurring in the manufacturing world today. It&rsquo;s called Industry 4.0 and it promises to transform the way that engineers design and build products over the next two decades.</p>]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93619</guid>
+      <pubDate>Thu, 03 Nov 2016 00:00:00 -0400</pubDate>
+      <link>http://www.assemblymag.com/articles/93619-industry-40-myths-vs-reality</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Issues/2016/November/40/asb1116indsutry1.jpg?1478200729" type="image/jpeg" length="139458"/>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/November/40/asb1116indsutry1.jpg?1478200729" type="image/jpeg" fileSize="139458">
+        <media:title type="plain">1</media:title>
+        <media:description type="plain">Industry 4.0 represents a paradigm shift from centralized to decentralized manufacturing. Photo courtesy Fraunhofer-Gesellschaft
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/November/40/asb1116indsutry2.jpg?1478200820" type="image/jpeg" fileSize="252194">
+        <media:title type="plain">2</media:title>
+        <media:description type="plain">New technologies marry the physical world with the digital world, resulting in more seamless interaction between the two. Illustration courtesy Siemens AG
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/November/40/asb1116industry3.jpg?1478200855" type="image/jpeg" fileSize="161079">
+        <media:title type="plain">3</media:title>
+        <media:description type="plain">This augmented reality system uses projected lights to error-proof and streamline assembly processes. Photo courtesy Light Guide Systems Inc.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/November/40/asb1116industry4.jpg?1478200890" type="image/jpeg" fileSize="187863">
+        <media:title type="plain">4</media:title>
+        <media:description type="plain">Products, systems and services will be increasingly customized to customer needs, with feedback from products throughout their life cycles. Photo courtesy Daimler AG
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/November/40/asb1116industry7.jpg?1478200981" type="image/jpeg" fileSize="234412">
+        <media:title type="plain">7</media:title>
+        <media:description type="plain">Industry 4.0 relies on state-of-the-art production equipment that incorporates robotics, smart devices and embedded intelligence. Photo courtesy BMW AG
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/November/40/asb1116industry101.jpg?1478201062" type="image/jpeg" fileSize="263755">
+        <media:title type="plain">11</media:title>
+        <media:description type="plain">With Industry 4.0, production processes can become more visible and controllable. Photo courtesy Xplore Technologies Corp.
+</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>Chinese Automaker Uses Vision-Guided Robots to Securely Handle Parts </title>
+      <author>camilloj@bnpmedia.com (Jim Camillo)</author>
+      <description>
+        <![CDATA[<p>Just a few decades ago, the typical American or European driver would never have believed that China, a communist country, would one day be the world&rsquo;s largest car producer (by volume).</p>
+]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93617</guid>
+      <pubDate>Thu, 03 Nov 2016 00:00:00 -0400</pubDate>
+      <link>http://www.assemblymag.com/articles/93617-chinese-automaker-uses-vision-guided-robots-to-securely-handle-parts</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Issues/2016/November/AIA/asb1116AIA5.jpg?1478195113" type="image/jpeg" length="224834"/>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/November/AIA/asb1116AIA5.jpg?1478195113" type="image/jpeg" fileSize="224834">
+        <media:title type="plain">5</media:title>
+        <media:description type="plain">At a high-volume automotive plant in China, robots grab large metal parts one at a time off a rack and place them on a moving conveyor. A vision-inspection system ensures that the robot&amp;rsquo;s gripper properly attaches to each part. Photo courtesy Teledyne DALSA
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/November/AIA/asb1116AIA6.jpg?1478195242" type="image/jpeg" fileSize="95833">
+        <media:title type="plain">6</media:title>
+        <media:description type="plain">Sherlock image-processing software is used to verify that the position coordinates of the gripper and part are correct. Photo courtesy Teledyne DALSA
+</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>Automated Processing of Small RF and Coax Cables</title>
+      <description>
+        <![CDATA[<p>Cell phones, tablets, GPS devices and other mobile electronics are smaller, thinner, lighter and more powerful than ever. Wireless Internet connections, RFID and Bluetooth have become essential features of these devices, necessitating highly complex transmission mechanisms.</p>]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93588</guid>
+      <pubDate>Tue, 04 Oct 2016 00:00:00 -0400</pubDate>
+      <link>http://www.assemblymag.com/articles/93588-automated-processing-of-small-rf-and-coax-cables</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Issues/2016/October/Coax/asb1016coax2.jpg?1475599126" type="image/jpeg" length="83873"/>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/October/Coax/asb1016coax1.jpg?1475599052" type="image/jpeg" fileSize="29782">
+        <media:title type="plain">1</media:title>
+        <media:description type="plain">Fully automatic cutting, stripping and crimping machines like this one are required for processing ultra-miniature RF cables in high-volume operations. Photo courtesy Schleuniger Inc.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/October/Coax/asb1016coax2.jpg?1475599126" type="image/jpeg" fileSize="83873">
+        <media:title type="plain">2</media:title>
+        <media:description type="plain">Ultra-miniature RF cable assemblies are now common in mobile electronics. These cables connect tiny antennas to the circuit board. Photo courtesy Schleuniger Inc.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/October/Coax/asb1016coax3.jpg?1475599154" type="image/jpeg" fileSize="92118">
+        <media:title type="plain">3</media:title>
+        <media:description type="plain">The rotary stripper on the CoaxCenter 6000 can handle cables ranging from 40 AWG to 5.5 millimeters in diameter. Photo courtesy Schleuniger Inc.
+</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>Maintaining Control in Vertical Ballscrew Applications</title>
+      <description>
+        <![CDATA[<p>High-efficiency ballscrews are ideal for precise, high-speed linear positioning. However, back-driving can be an issue, especially if the ballscrew is in a vertical position. If the ballscrew is not held properly, the load could drop quickly and cause damage to the payload, machine and workers.</p>]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93585</guid>
+      <pubDate>Mon, 03 Oct 2016 00:00:00 -0400</pubDate>
+      <link>http://www.assemblymag.com/articles/93585-maintaining-control-in-vertical-ballscrew-applications</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Issues/2016/October/ballscrew/asb1016ballscrew1.jpg?1475521176" type="image/jpeg" length="37950"/>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/October/ballscrew/asb1016ballscrew1.jpg?1475521176" type="image/jpeg" fileSize="37950">
+        <media:title type="plain">1</media:title>
+        <media:description type="plain">This ballscrew brake is spring-engaged. In the event of a power loss, it will automatically engage the load. Power must be resupplied to release the brake from the load. Photo courtesy Nexen Group Inc.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/October/ballscrew/asb1016ballscrew2.jpg?1475521252" type="image/jpeg" fileSize="41531">
+        <media:title type="plain">2</media:title>
+        <media:description type="plain">A ballscrew brake is attached to the end of a ballscrew with a coupling that can compensate for a small amount of axial misalignment. Photo courtesy Nexen Group Inc.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/October/ballscrew/asb1016ballscrew3.jpg?1475521287" type="image/jpeg" fileSize="43069">
+        <media:title type="plain">3</media:title>
+        <media:description type="plain">In some vertical lift applications, a servomotor drives the ballscrew. A flangemounted servomotor brake, installed between the motor and the lift flange, will hold the ballscrew and prevent back-driving. Photo courtesy Nexen Group Inc.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/October/ballscrew/asb1016ballscrew4.jpg?1475521320" type="image/jpeg" fileSize="54509">
+        <media:title type="plain">4</media:title>
+        <media:description type="plain">High-efficiency ballscrews will back-drive in vertical lifting applications, necessitating a brake to hold the load. Photo courtesy THK
+</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>Vanderbilt Is at the Forefront of Robotic Surgery</title>
+      <author>webera@bnpmedia.com (Austin Weber)</author>
+      <description>
+        <![CDATA[<p>
+	Robots are used in many large hospitals to deliver supplies and assist doctors with delicate surgical procedures. In the future, robotic surgery will become the routine rather than the exception.</p>]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93562</guid>
+      <pubDate>Thu, 08 Sep 2016 00:00:00 -0400</pubDate>
+      <link>http://www.assemblymag.com/articles/93562-vanderbilt-is-at-the-forefront-of-robotic-surgery</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Default_Images/responsive/campus.jpg?1433258966" type="image/jpeg" length="54636"/>
+    </item>
+    <item>
+      <title>Innovative Conveyors Maximize Use of Space</title>
+      <description>
+        <![CDATA[<p>
+	Walk into any modern assembly and packaging facility, and the conveyor systems may very well resemble roller coasters at an amusement park&mdash;going up steep inclines, moving down drops, and twisting and turning around equipment and machinery as they transfer product from one area of the plant to another.</p>]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93561</guid>
+      <pubDate>Thu, 08 Sep 2016 00:00:00 -0400</pubDate>
+      <link>http://www.assemblymag.com/articles/93561-innovative-conveyors-maximize-use-of-space</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Issues/2016/september/conveyors/asb0916conveyor1.jpg?1473361385" type="image/jpeg" length="34674"/>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/september/conveyors/asb0916conveyor1.jpg?1473361385" type="image/jpeg" fileSize="34674">
+        <media:title type="plain">1</media:title>
+        <media:description type="plain">
+	Z-frame conveyors are designed with one or two pivot points to move product up or down to the next process. Photo courtesy Dorner Manufacturing Corp.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/september/conveyors/asb0916conveyor2.jpg?1473361466" type="image/jpeg" fileSize="76587">
+        <media:title type="plain">2</media:title>
+        <media:description type="plain">
+	A belt-over-belt conveyor holds products in place between two flexible belts that move together at the same speed. Photo courtesy Dorner Manufacturing Corp.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/september/conveyors/asb0916conveyor3.jpg?1473361482" type="image/jpeg" fileSize="47293">
+        <media:title type="plain">3</media:title>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/september/conveyors/asb0916conveyor4.jpg?1473361517" type="image/jpeg" fileSize="80488">
+        <media:title type="plain">4</media:title>
+        <media:description type="plain">
+	Flexible chain conveyors are ideal when floor space is cramped. They are engineered for tight turns and quick elevations at high speeds. Photo courtesy Dorner Manufacturing Corp.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/september/conveyors/asb0916conveyor5.jpg?1473361544" type="image/jpeg" fileSize="47862">
+        <media:title type="plain">5</media:title>
+        <media:description type="plain">
+	Pacing conveyors are for applications that call for proper spacing of product along a single track. Photo courtesy Dorner Manufacturing Corp.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/september/conveyors/asb0916conveyor6.jpg?1473361563" type="image/jpeg" fileSize="47738">
+        <media:title type="plain">6</media:title>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/september/conveyors/asb0916conveyor7.jpg?1473361603" type="image/jpeg" fileSize="92209">
+        <media:title type="plain">7</media:title>
+        <media:description type="plain">
+	Conveyors can also save space by doing double duty. This low-profile belt conveyor is back-lit to facilitate machine-vision inspection. Photo courtesy Dorner Manufacturing Corp.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/september/conveyors/asb0916conveyor8.jpg?1473361631" type="image/jpeg" fileSize="99123">
+        <media:title type="plain">8</media:title>
+        <media:description type="plain">
+	The 2200 Series Precision Move system is a modular, dual-belt, pallettransfer conveyor for automated assembly. Photo courtesy Dorner Manufacturing Corp.
+</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>Gantry handling system quickens sensor soldering</title>
+      <author>camilloj@bnpmedia.com (Jim Camillo)</author>
+      <description>
+        <![CDATA[<p>
+	Today&rsquo;s typical automobile features nearly 100 exterior and interior sensors, with the number likely to increase in the near future. Those located on the outside (axle load, steering angle, blind spots, air temperature, etc.) require special protection from the elements and unique production methods.</p>
+]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93550</guid>
+      <pubDate>Thu, 08 Sep 2016 00:00:00 -0400</pubDate>
+      <link>http://www.assemblymag.com/articles/93550-gantry-handling-system-quickens-sensor-soldering</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Issues/2016/september/AIA/asb0916AIA1.jpg?1473346800" type="image/jpeg" length="123526"/>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/september/AIA/asb0916AIA1.jpg?1473346800" type="image/jpeg" fileSize="123526">
+        <media:title type="plain">1</media:title>
+        <media:description type="plain">
+	A few years ago, IPTE Factory Automation n.v. developed a selective soldering machine that moves by way of a gantry handling system to quickly and directly connect sensor batteries and PCBs in plastic housings. Photo courtesy Festo Corp.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/september/AIA/asb0916AIA2.jpg?1473346879" type="image/jpeg" fileSize="54669">
+        <media:title type="plain">2</media:title>
+        <media:description type="plain">
+	EGC linear-axis belt drives (top) and an EGSL mini-stroke slide ensure high-speed positioning of the selective soldering machine along the X, Y and Z axes. Photos courtesy Festo Corp.
+</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>Streamlined Wiring Quickens Tire-Assembly-Machine Production</title>
+      <author>camilloj@bnpmedia.com (Jim Camillo)</author>
+      <description>
+        <![CDATA[<p>
+	Successful manufacturers never get tired of facing new market challenges. This statement applies to companies across all industries&mdash;including those involved in the annual manufacturing of more than 1 billion tires worldwide.</p>
+]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93502</guid>
+      <pubDate>Thu, 04 Aug 2016 00:00:00 -0400</pubDate>
+      <link>http://www.assemblymag.com/articles/93502-streamlined-wiring-quickens-tire-assembly-machine-production</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Issues/2016/August/AIA/asb0816AIA1.jpg?1470320337" type="image/jpeg" length="179051"/>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/August/AIA/asb0816AIA1.jpg?1470320337" type="image/jpeg" fileSize="179051">
+        <media:title type="plain">1</media:title>
+        <media:description type="plain">
+	To streamline the wiring in its First- Stage Tire Building Machine, the RRR Development Co. uses an Allen-Bradley 1667 PanelConnect module and Allen-Bradley 898 distribution blocks. Photo courtesy Rockwell Automation Inc.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/August/AIA/asb0816AIA2.jpg?1470320402" type="image/jpeg" fileSize="90945">
+        <media:title type="plain">2</media:title>
+        <media:description type="plain">
+	RRR Development Co.&amp;rsquo;s First-Stage Tire Building Machine wraps all tire materials into a barrel shape, before applying the steel belts and treads to form the classic tire shape. Photo courtesy Rockwell Automation Inc.
+</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>Lab automation depends on accurate motion control</title>
+      <author>sprovierij@bnpmedia.com (John Sprovieri)</author>
+      <description>
+        <![CDATA[<p>
+	The advent of laboratory automation systems has made a significant impact on clinical diagnostics, drug discovery, food and agricultural research, and forensics.</p>
+]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93501</guid>
+      <pubDate>Thu, 04 Aug 2016 00:00:00 -0400</pubDate>
+      <link>http://www.assemblymag.com/articles/93501-lab-automation-depends-on-accurate-motion-control</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Issues/2016/August/asb0816medic1.jpg?1470319458" type="image/jpeg" length="77170"/>
+    </item>
+    <item>
+      <title>Linear Bearings Smooth Over Camera Design Problem</title>
+      <author>camilloj@bnpmedia.com (Jim Camillo)</author>
+      <description>
+        <![CDATA[<p>
+	A few years ago, Brian Gattman, senior mechanical engineer at Fluke Corp., faced a big problem when designing the company&rsquo;s new handheld TI400 thermal imaging camera. The off-the-shelf bearings he wanted to use in it were too big and had a too-high coefficient of friction. By working closely with the supplier, however, he was able to have the bearings custom made to meet both design specifications.</p>
+]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93425</guid>
+      <pubDate>Fri, 03 Jun 2016 00:00:00 -0400</pubDate>
+      <link>http://www.assemblymag.com/articles/93425-linear-bearings-smooth-over-camera-design-problem</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Issues/2016/June/AIA/asb0616AIA5.jpg?1464964777" type="image/jpeg" length="42867"/>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/June/AIA/asb0616AIA5.jpg?1464964777" type="image/jpeg" fileSize="42867">
+        <media:title type="plain">AIA 5</media:title>
+        <media:description type="plain">
+	Designed for indoor or outdoor use by professional thermographers and maintenance managers, the TI400 thermal imaging camera consistently produces in-focus images. Photo courtesy Fluke Corp.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/June/AIA/asb0616AIA6.jpg?1464964835" type="image/jpeg" fileSize="63942">
+        <media:title type="plain">AIA 6</media:title>
+        <media:description type="plain">
+	Custom linear ball bushing bearings enable fast and accurate focusing of the TI400 camera&amp;rsquo;s moveable internal lens. Photo courtesy Thomson Industries Inc.
+</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>Air-Bearing Technology Gives Aerospace Industry a big Lift </title>
+      <author>camilloj@bnpmedia.com (Jim Camillo)</author>
+      <description>
+        <![CDATA[<p>
+	Aircraft manufacturing has changed significantly in recent years. Instead of being assembled in one spot, most aircraft today are built on moving assembly lines similar to those used by automakers. Despite this evolution, however, many aerospace manufacturers still rely on hydraulic jacks, tuggers or overhead cranes to move aircraft through the various manufacturing stages.</p>
+]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93423</guid>
+      <pubDate>Fri, 03 Jun 2016 00:00:00 -0400</pubDate>
+      <link>http://www.assemblymag.com/articles/93423-air-bearing-technology-gives-aerospace-industry-a-big-lift</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Issues/2016/June/AIA/asb0616AIA1.jpg?1464964289" type="image/jpeg" length="86844"/>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/June/AIA/asb0616AIA1.jpg?1464964289" type="image/jpeg" fileSize="86844">
+        <media:title type="plain">AIA 1</media:title>
+        <media:description type="plain">
+	Bombardier Aerospace uses air caster transporters to move 6-ton aircraft fuselages at its Toronto assembly plant. Photo courtesy Airfloat
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/June/AIA/asb0616AIA2.jpg?1464964351" type="image/jpeg" fileSize="37696">
+        <media:title type="plain">AIA 2</media:title>
+        <media:description type="plain">
+	A custom air-bearing platform allows GE Aviation workers to safely move tooling fixtures for GEnx jet engines. The fixtures weigh 5,000 to 12,000 pounds each. Graphic courtesy Airfloat
+</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>How to Choose Between Electric and Pneumatic Actuators and Grippers</title>
+      <description>
+        <![CDATA[<p>
+	There are many factors that play a role in choosing the proper drive mechanism for your automation equipment.</p>
+]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93300</guid>
+      <pubDate>Tue, 08 Mar 2016 00:00:00 -0500</pubDate>
+      <link>http://www.assemblymag.com/articles/93300-how-to-choose-between-electric-and-pneumatic-actuators-and-grippers</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Issues/2016/HowTo/asbht0316_schunk3.jpg?1457639215" type="image/jpeg" length="25506"/>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/HowTo/asbht0316_schunk3.jpg?1457639215" type="image/jpeg" fileSize="25506">
+        <media:title type="plain">schunk 1</media:title>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/HowTo/asbht0316_schunkEGA.jpg?1457639281" type="image/jpeg" fileSize="41360">
+        <media:title type="plain">schunk 2</media:title>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/HowTo/asbht0316_schunkEGP.jpg?1457639301" type="image/jpeg" fileSize="26120">
+        <media:title type="plain">schunk 3</media:title>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/HowTo/asbht0316_schunkELB.jpg?1457639324" type="image/jpeg" fileSize="64202">
+        <media:title type="plain">schunk 4</media:title>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/HowTo/asbht0316_schunkELS.jpg?1457639342" type="image/jpeg" fileSize="53252">
+        <media:title type="plain">schunk 5</media:title>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/HowTo/asbht0316_schunkERM.jpg?1457639362" type="image/jpeg" fileSize="56603">
+        <media:title type="plain">schunk 6</media:title>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/HowTo/asbht0316_schunkPGN-plus-E.jpg?1457639382" type="image/jpeg" fileSize="32521">
+        <media:title type="plain">schunk 7</media:title>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/HowTo/asbht0316_schunkPRH.jpg?1457639408" type="image/jpeg" fileSize="39110">
+        <media:title type="plain">schunk 8</media:title>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/HowTo/asbht0316_schunkWSG.jpg?1457639429" type="image/jpeg" fileSize="35650">
+        <media:title type="plain">schunk 9</media:title>
+      </media:content>
+    </item>
+    <item>
+      <title>How To Cut Operating Costs by Integrating Servo-Controlled ElectricPresses and Accessories Into Automated Pressing Systems</title>
+      <description>
+        <![CDATA[<p>
+	To increase productivity, manufacturers are continually looking for new ways to automate their assembly processes.</p>
+]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93297</guid>
+      <pubDate>Tue, 08 Mar 2016 00:00:00 -0500</pubDate>
+      <link>http://www.assemblymag.com/articles/93297-how-to-cut-operating-costs-by-integrating-servo-controlled-electricpresses-and-accessories-into-automated-pressing-systems</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Issues/2016/HowTo/asbht0316_schmidtSTC-EP43A.jpg?1457633402" type="image/jpeg" length="146095"/>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/HowTo/asbht0316_schmidtSTC-EP43A.jpg?1457633402" type="image/jpeg" fileSize="146095">
+        <media:title type="plain">schmidt 1</media:title>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/HowTo/asbht0316_schmidtSTC-EP343.jpg?1457633468" type="image/jpeg" fileSize="146207">
+        <media:title type="plain">schmidt 2</media:title>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/HowTo/asbht0316_schmidtSTC-Logo.jpg?1457633485" type="image/jpeg" fileSize="37827">
+        <media:title type="plain">schmidt 3</media:title>
+      </media:content>
+    </item>
+    <item>
+      <title>How to Assemble to a Function Ball Joint Assembly</title>
+      <description>
+        <![CDATA[<p>
+	Quality has been the holy grail of manufacturing for more than 40 years.</p>
+]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93296</guid>
+      <pubDate>Tue, 08 Mar 2016 00:00:00 -0500</pubDate>
+      <link>http://www.assemblymag.com/articles/93296-how-to-assemble-to-a-function-ball-joint-assembly</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Issues/2016/HowTo/asbht0316_promessball.jpg?1457631828" type="image/jpeg" length="33670"/>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/HowTo/asbht0316_promessball.jpg?1457631828" type="image/jpeg" fileSize="33670">
+        <media:title type="plain">promess 1</media:title>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/HowTo/asbht0316_promessTorque.jpg?1457631889" type="image/jpeg" fileSize="44342">
+        <media:title type="plain">promess 2</media:title>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/HowTo/asbht0316_PromessLogo.jpg?1457631905" type="image/jpeg" fileSize="52823">
+        <media:title type="plain">promess 3</media:title>
+      </media:content>
+    </item>
+    <item>
+      <title>How To Select the Right Electromechanical Servo Press for Your Assembly Operation</title>
+      <description>
+        <![CDATA[<p>
+	Electromechanical servo press technology uses less energy than pneumatic or hydraulic assembly systems since they only draw current on demand</p>
+]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93295</guid>
+      <pubDate>Tue, 08 Mar 2016 00:00:00 -0500</pubDate>
+      <link>http://www.assemblymag.com/articles/93295-how-to-select-the-right-electromechanical-servo-press-for-your-assembly-operation</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Issues/2016/HowTo/asbht0316_kistler935-256.jpg?1457628521" type="image/jpeg" length="58940"/>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/HowTo/asbht0316_kistler935-256.jpg?1457628521" type="image/jpeg" fileSize="58940">
+        <media:title type="plain">kistler 1</media:title>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/HowTo/asbht0316_kistlermNC1.jpg?1457628585" type="image/jpeg" fileSize="114795">
+        <media:title type="plain">kistler 2</media:title>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/HowTo/asbht0316_kistlerlogo.jpg?1457628605" type="image/jpeg" fileSize="46085">
+        <media:title type="plain">kistler 3</media:title>
+      </media:content>
+    </item>
+    <item>
+      <title>How To Simplify the Process of Specifying Air Cylinders for Operation in Tight Spaces</title>
+      <description>
+        <![CDATA[<p>
+	You are up against extreme space limitations with little room for fitting an air cylinder into your current design project. Here&rsquo;s a few questions and pictures to help point the way to your solution.</p>
+]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93294</guid>
+      <pubDate>Tue, 08 Mar 2016 00:00:00 -0500</pubDate>
+      <link>http://www.assemblymag.com/articles/93294-how-to-simplify-the-process-of-specifying-air-cylinders-for-operation-in-tight-spaces</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Issues/2016/HowTo/asbht0316_fabco3posnCyl.jpg?1457626820" type="image/jpeg" length="36299"/>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/HowTo/asbht0316_fabco3posnCyl.jpg?1457626820" type="image/jpeg" fileSize="36299">
+        <media:title type="plain">fabco 1</media:title>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/HowTo/asbht0316_FabcoAirlogo2.jpg?1457626876" type="image/jpeg" fileSize="33685">
+        <media:title type="plain">fabco 2</media:title>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/HowTo/asbht0316_fabcoFigure-1.jpg?1457626920" type="image/jpeg" fileSize="97655">
+        <media:title type="plain">fabco 3</media:title>
+        <media:description type="plain">
+	figure 1
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/HowTo/asbht0316_fabcoFigure-2.jpg?1457626944" type="image/jpeg" fileSize="68860">
+        <media:title type="plain">fabco 4</media:title>
+        <media:description type="plain">
+	figure 2
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/HowTo/asbht0316_fabcoFigure-3-colorback.jpg?1457626971" type="image/jpeg" fileSize="67208">
+        <media:title type="plain">fabco 5</media:title>
+        <media:description type="plain">
+	figure 3
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/HowTo/asbht0316_fabcoFigure-4.jpg?1457626997" type="image/jpeg" fileSize="63146">
+        <media:title type="plain">fabco 6</media:title>
+        <media:description type="plain">
+	figure 4
+</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>How To Control Delicate Parts in Feeder Bowls</title>
+      <description>
+        <![CDATA[<p>
+	One of the most commonly seen and vital categories of assembly automation equipment is the feeder bowl.</p>
+]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93285</guid>
+      <pubDate>Tue, 08 Mar 2016 00:00:00 -0500</pubDate>
+      <link>http://www.assemblymag.com/articles/93285-how-to-control-delicate-parts-in-feeder-bowls</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Issues/2016/HowTo/asbht0316_1_Balluff_FeederBowl.jpg?1457451865" type="image/jpeg" length="111215"/>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/HowTo/asbht0316_1_Balluff_FeederBowl.jpg?1457451865" type="image/jpeg" fileSize="111215">
+        <media:title type="plain">balluf</media:title>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/HowTo/asbht0316_2_Balluff_FeederBowl.jpg?1457451909" type="image/jpeg" fileSize="120475">
+        <media:title type="plain">balluf 2</media:title>
+      </media:content>
+    </item>
+    <item>
+      <title>How To Select a Rotary Indexing Table</title>
+      <description>
+        <![CDATA[<p>
+	Rotary indexing table use is widespread in automated assembly machinery and selecting the proper mechanism is essential for both maximizing performance and minimizing the cost of this critical component.</p>]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/92743</guid>
+      <pubDate>Mon, 07 Mar 2016 00:00:00 -0500</pubDate>
+      <link>http://www.assemblymag.com/articles/92743-how-to-select-a-rotary-indexing-table</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Issues/2015/March/HowTo/asb0315HTG_sankyo1.jpg?1425919374" type="image/jpeg" length="32730"/>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/March/HowTo/asb0315HTG_sankyo11.jpg?1425919426" type="image/jpeg" fileSize="43908">
+        <media:title type="plain">sankyo slide 1</media:title>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/March/HowTo/asb0315HTG_sankyo2.jpg?1425919453" type="image/jpeg" fileSize="29126">
+        <media:title type="plain">sankyo slide 2</media:title>
+      </media:content>
+    </item>
+    <item>
+      <title>Rockwell to Purchase MagneMotion</title>
+      <description>
+        <![CDATA[<p>
+	MILWAUKEE&mdash;Rockwell Automation has agreed to purchase MagneMotion, a manufacturer of intelligent conveying systems.</p>
+]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93244</guid>
+      <pubDate>Thu, 11 Feb 2016 00:00:00 -0500</pubDate>
+      <link>http://www.assemblymag.com/articles/93244-rockwell-to-purchase-magnemotion</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Default_Images/responsive/ASB_default_latestnews.jpg?1479231322" type="image/jpeg" length="166380"/>
+    </item>
+    <item>
+      <title>Cams Play Key Role in Indexing Machines and Automated Assembly Systems</title>
+      <author>sprovierij@bnpmedia.com (John Sprovieri)</author>
+      <description>
+        <![CDATA[<p>
+	At the heart of some of the most complex automated assembly systems is one of the simplest motion control mechanisms: the cam.</p>
+]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93225</guid>
+      <pubDate>Mon, 01 Feb 2016 00:00:00 -0500</pubDate>
+      <link>http://www.assemblymag.com/articles/93225-cams-play-key-role-in-indexing-machines-and-automated-assembly-systems</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Issues/2016/February/cams/asb0216cams1.jpg?1454344445" type="image/jpeg" length="47311"/>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/February/cams/asb0216cams1.jpg?1454344445" type="image/jpeg" fileSize="47311">
+        <media:title type="plain">cams 1</media:title>
+        <media:description type="plain">
+	The LS 280 system consists of modular linear-indexing units called locking stations. Indexing at each station is governed by a cylindrical cam, and each station can run at a different pitch. Photo courtesy Weiss North America Inc.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/February/cams/asb0216cams2.jpg?1454344528" type="image/jpeg" fileSize="151705">
+        <media:title type="plain">cams 2</media:title>
+        <media:description type="plain">
+	This carousel-style indexing chassis is fully synchronous. That is, a single motor controls the motion of the precision-link conveyor, as well as the pick-and-place units mounted to the tabletop. Photo courtesy Stelron Components Inc.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/February/cams/asb0216cams3.jpg?1454344555" type="image/jpeg" fileSize="45473">
+        <media:title type="plain">cams 3</media:title>
+        <media:description type="plain">
+	A cam controls the motion of this pick-and-place mechanism. The advantage of a synchronized, cam-driven unit is that it automatically speeds up as indexing speed increases. Illustration courtesy Stelron Components Inc.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/February/cams/asb0216cams4.jpg?1454344610" type="image/jpeg" fileSize="135873">
+        <media:title type="plain">cams 4</media:title>
+        <media:description type="plain">
+	Constant contact between the cam and its followers means that cam-driven indexers provide fast settling times and stiff positioning during dwell periods. Photo courtesy Sankyo America Inc.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/February/cams/asb0216cams5.jpg?1454344638" type="image/jpeg" fileSize="26363">
+        <media:title type="plain">cams 5</media:title>
+        <media:description type="plain">
+	A cylindrical, or barrel cam, is a cam in which the follower rides in a groove cut into the surface of a cylinder. Illustration courtesy De-Sta-Co
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/February/cams/asb0216cams6.jpg?1454344663" type="image/jpeg" fileSize="25516">
+        <media:title type="plain">cams 6</media:title>
+        <media:description type="plain">
+	Parallel-shaft indexers can operate at higher speeds than right-angle or roller-gear cam systems. Illustration courtesy De-Sta-Co
+</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>Hold It: Whatâs New With Clamping and Workholding Technology</title>
+      <author>camilloj@bnpmedia.com (Jim Camillo)</author>
+      <description>
+        <![CDATA[<p>
+	Suppliers&rsquo; continually evolving and expanding offerings now include compact units with high clamping force and models capable of position sensing.</p>
+]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93105</guid>
+      <pubDate>Wed, 04 Nov 2015 00:00:00 -0500</pubDate>
+      <link>http://www.assemblymag.com/articles/93105-hold-it-whats-new-with-clamping-and-workholding-technology</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Issues/2015/November/clamp/asb1115Clamp1.jpg?1446661313" type="image/jpeg" length="160801"/>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/November/clamp/asb1115Clamp1.jpg?1446661313" type="image/jpeg" fileSize="160801">
+        <media:title type="plain">clamp 1</media:title>
+        <media:description type="plain">
+	Most toggle clamps used for assembly feature a handle that locks in the vertical or horizontal position. Some, like the pullback toggle clamp, have a handle that locks in the down position. Photo courtesy DE-STA-CO
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/November/clamp/asb1115Clamp2.jpg?1446661435" type="image/jpeg" fileSize="57048">
+        <media:title type="plain">clamp 2</media:title>
+        <media:description type="plain">
+	This B1827 hydraulic steel clamp is compact enough for use in narrow recesses. The clamping lever pivots a full 90 degrees into position for clear loading. Photo courtesy Carr Lane Roemheld Manufacturing Co.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/November/clamp/asb1115Clamp3.jpg?1446661466" type="image/jpeg" fileSize="28912">
+        <media:title type="plain">clamp 3</media:title>
+        <media:description type="plain">
+	WHE pneumatic swing clamps come with several options. Operators can use a dual end rod or an air catch sensor to confirm clamp action. A balance lever lets them clamp workpieces on both sides. Photo courtesy Kosmek USA Ltd.
+</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>I/O Module Keeps PCB Assembly Equipment Relevant</title>
+      <author>camilloj@bnpmedia.com (Jim Camillo)</author>
+      <description>
+        <![CDATA[<p>
+	Like desktop computer users, manufacturers know all too well the problem of planned obsolescence. This happens when a new operating system is intentionally designed to be incompatible with various older software programs.</p>]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93062</guid>
+      <pubDate>Thu, 01 Oct 2015 00:00:00 -0400</pubDate>
+      <link>http://www.assemblymag.com/articles/93062-io-module-keeps-pcb-assembly-equipment-relevant</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Issues/2015/October/aia/asb1015AIA5.jpg?1443720595" type="image/jpeg" length="186861"/>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/October/aia/asb1015AIA5.jpg?1443720595" type="image/jpeg" fileSize="186861">
+        <media:title type="plain">i/o module</media:title>
+        <media:description type="plain">
+	Each Model 2600 module transfers thousands of data bits per second between sensors, controllers and operating systems. Photo courtesy Sensoray
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/October/aia/asb1015AIA6.jpg?1443720662" type="image/jpeg" fileSize="118054">
+        <media:title type="plain">i/o module</media:title>
+      </media:content>
+    </item>
+    <item>
+      <title>Linear Tracks for Robots Offer Dynamic Solution for Integrator</title>
+      <author>camilloj@bnpmedia.com (Jim Camillo)</author>
+      <description>
+        <![CDATA[<p>
+	As its name implies, Dynamic Robotic Solutions (DRS) believes in flexible, fast and reliable customer service. This approach has helped the company (formerly KMT Robotic Solutions) find success as a specialty integrator of robotic material-removal systems.</p>
+]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93061</guid>
+      <pubDate>Thu, 01 Oct 2015 00:00:00 -0400</pubDate>
+      <link>http://www.assemblymag.com/articles/93061-linear-tracks-for-robots-offer-dynamic-solution-for-integrator</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Issues/2015/October/aia/asb1015AIA4.jpg?1443719889" type="image/jpeg" length="85153"/>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/October/aia/asb1015AIA3.jpg?1443719860" type="image/jpeg" fileSize="163638">
+        <media:title type="plain">robot tracks</media:title>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/October/aia/asb1015AIA4.jpg?1443719889" type="image/jpeg" fileSize="85153">
+        <media:title type="plain">robot tracks</media:title>
+        <media:description type="plain">
+	In the DRS system, the robot mounts directly to the (red) baseplate of the track&amp;rsquo;s carriage unit. Versatile (white) adaptor plates handle more than 600 different models of robots. Photo courtesy G&amp;uuml;del Inc.
+</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>Pneumatic Actuators, Controller Play Key Role in Flexible Test System for Automotive Electronics</title>
+      <description>
+        <![CDATA[<p>
+	A flexible pneumatic test system finds bad automotive electronics before consumers do.</p>]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93035</guid>
+      <pubDate>Thu, 03 Sep 2015 00:00:00 -0400</pubDate>
+      <link>http://www.assemblymag.com/articles/93035-pneumatic-actuators-controller-play-key-role-in-flexible-test-system-for-automotive-electronics</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Issues/2015/September/pneumatic/asb0915meth1.jpg?1441293457" type="image/jpeg" length="134979"/>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/September/pneumatic/asb0915meth1.jpg?1441293457" type="image/jpeg" fileSize="134979">
+        <media:title type="plain">pneumatic 1</media:title>
+        <media:description type="plain">
+	Methode worked with Parker Hannifin to develop a flexible pneumatic test system for ICS modules. Photo courtesy Parker Hannifin Corp.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/September/pneumatic/asb0915meth2.jpg?1441293574" type="image/jpeg" fileSize="119129">
+        <media:title type="plain">pneumatic 2</media:title>
+        <media:description type="plain">
+	To check an ICS module, the tester pushes six to 19 buttons and turns two to three knobs. Photo courtesy Parker Hannifin Corp.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/September/pneumatic/asb0915meth3.jpg?1441293621" type="image/jpeg" fileSize="119315">
+        <media:title type="plain">pneumatic 3</media:title>
+        <media:description type="plain">
+	Methode Electronics designed and built the integrated center stack for the 2011 Ford Flex. Photo courtesy Ford Motor Co.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/September/pneumatic/asb0915meth4.jpg?1441293637" type="image/jpeg" fileSize="95616">
+        <media:title type="plain">pneumatic 4</media:title>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/September/pneumatic/asb0915meth5.jpg?1441293672" type="image/jpeg" fileSize="58995">
+        <media:title type="plain">pneumatic 5</media:title>
+      </media:content>
+    </item>
+    <item>
+      <title>Controller, HMI Improve Welding in a Flash</title>
+      <author>camilloj@bnpmedia.com (Jim Camillo)</author>
+      <description>
+        <![CDATA[<p>
+	Like any technology, welding continues to evolve. This is especially true for a technique known as flash-butt welding, which has been around since the early 20th century.</p>
+]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/92926</guid>
+      <pubDate>Wed, 01 Jul 2015 00:00:00 -0400</pubDate>
+      <link>http://www.assemblymag.com/articles/92926-controller-hmi-improve-welding-in-a-flash</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Issues/2015/July/aia/asb0715AIA3.jpg?1435767755" type="image/jpeg" length="139540"/>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/July/aia/asb0715AIA3.jpg?1435767755" type="image/jpeg" fileSize="139540">
+        <media:title type="plain">welding 1</media:title>
+        <media:description type="plain">
+	Taylor-Winfield has developed a welding solution for joining advanced high-strength steel. Photo courtesy Bosch Rexroth Corp.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/July/aia/asb0715AIA4.jpg?1435767841" type="image/jpeg" fileSize="90066">
+        <media:title type="plain">welding 2</media:title>
+        <media:description type="plain">
+	The Open Core Engineering interface enables Taylor-Winfield to easily integrate the MLC L45 motion logic controller with hydraulic power units. Photo courtesy Bosch Rexroth Corp.
+</media:description>
+      </media:content>
+    </item>
+  </channel>
+</rss>

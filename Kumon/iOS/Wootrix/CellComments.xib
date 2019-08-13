@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="6250" systemVersion="13F34" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES">
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="6244"/>
+        <capability name="Constraints to layout margins" minToolsVersion="6.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <tableViewCell contentMode="scaleToFill" selectionStyle="default" indentationWidth="10" rowHeight="120" id="R1P-wd-mYx">
+            <rect key="frame" x="0.0" y="0.0" width="320" height="120"/>
+            <autoresizingMask key="autoresizingMask"/>
+            <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="R1P-wd-mYx" id="lQa-bn-Vu8">
+                <autoresizingMask key="autoresizingMask"/>
+                <subviews>
+                    <label opaque="NO" userInteractionEnabled="NO" tag="60" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" misplaced="YES" text="Martin" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="0Zf-fS-4NC">
+                        <rect key="frame" x="52" y="24" width="176" height="21"/>
+                        <constraints>
+                            <constraint firstAttribute="height" constant="21" id="eM4-3r-NMT"/>
+                        </constraints>
+                        <fontDescription key="fontDescription" name="HelveticaNeue" family="Helvetica Neue" pointSize="14"/>
+                        <color key="textColor" cocoaTouchSystemColor="darkTextColor"/>
+                        <nil key="highlightedColor"/>
+                    </label>
+                    <label opaque="NO" userInteractionEnabled="NO" tag="61" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" misplaced="YES" text="Today, 8:30" textAlignment="right" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="dTd-8A-JPI">
+                        <rect key="frame" x="227" y="24" width="85" height="21"/>
+                        <constraints>
+                            <constraint firstAttribute="height" constant="21" id="fAN-Dr-dus"/>
+                        </constraints>
+                        <fontDescription key="fontDescription" name="HelveticaNeue" family="Helvetica Neue" pointSize="11"/>
+                        <color key="textColor" cocoaTouchSystemColor="darkTextColor"/>
+                        <nil key="highlightedColor"/>
+                    </label>
+                    <textView clipsSubviews="YES" userInteractionEnabled="NO" tag="62" contentMode="scaleToFill" misplaced="YES" editable="NO" textAlignment="justified" selectable="NO" translatesAutoresizingMaskIntoConstraints="NO" id="2Su-FP-Lq7">
+                        <rect key="frame" x="47" y="41" width="265" height="71"/>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                        <string key="text">Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.</string>
+                        <fontDescription key="fontDescription" name="HelveticaNeue" family="Helvetica Neue" pointSize="13"/>
+                        <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
+                    </textView>
+                    <imageView userInteractionEnabled="NO" tag="63" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="NavBarProfileImagePlaceholder" translatesAutoresizingMaskIntoConstraints="NO" id="m7f-4v-40e">
+                        <rect key="frame" x="15" y="24" width="29" height="29"/>
+                        <constraints>
+                            <constraint firstAttribute="width" constant="29" id="cuB-ao-nOZ"/>
+                            <constraint firstAttribute="height" constant="29" id="ycq-WR-S1Z"/>
+                        </constraints>
+                    </imageView>
+                    <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="WYS-bE-pcI">
+                        <rect key="frame" x="0.0" y="118" width="320" height="1"/>
+                        <color key="backgroundColor" white="0.66666666666666663" alpha="1" colorSpace="calibratedWhite"/>
+                        <constraints>
+                            <constraint firstAttribute="height" constant="1" id="3gJ-N2-Tsg"/>
+                        </constraints>
+                    </view>
+                </subviews>
+                <constraints>
+                    <constraint firstItem="2Su-FP-Lq7" firstAttribute="leading" secondItem="lQa-bn-Vu8" secondAttribute="leadingMargin" constant="39" id="1Lg-bx-f5m"/>
+                    <constraint firstItem="2Su-FP-Lq7" firstAttribute="bottom" secondItem="lQa-bn-Vu8" secondAttribute="bottomMargin" id="3qY-c8-dFF"/>
+                    <constraint firstItem="0Zf-fS-4NC" firstAttribute="top" secondItem="lQa-bn-Vu8" secondAttribute="topMargin" constant="15" id="7g1-tE-r3g"/>
+                    <constraint firstAttribute="trailingMargin" secondItem="WYS-bE-pcI" secondAttribute="trailing" constant="-8" id="CMw-Hq-8fC"/>
+                    <constraint firstItem="m7f-4v-40e" firstAttribute="leading" secondItem="lQa-bn-Vu8" secondAttribute="leadingMargin" constant="7" id="CpI-Dk-deZ"/>
+                    <constraint firstItem="m7f-4v-40e" firstAttribute="top" secondItem="lQa-bn-Vu8" secondAttribute="topMargin" constant="16" id="IAh-GZ-FKo"/>
+                    <constraint firstItem="0Zf-fS-4NC" firstAttribute="leading" secondItem="lQa-bn-Vu8" secondAttribute="leadingMargin" constant="44" id="Ifs-Xb-JOM"/>
+                    <constraint firstItem="2Su-FP-Lq7" firstAttribute="trailing" secondItem="lQa-bn-Vu8" secondAttribute="trailingMargin" id="PKD-Sl-sDy"/>
+                    <constraint firstItem="dTd-8A-JPI" firstAttribute="top" secondItem="lQa-bn-Vu8" secondAttribute="topMargin" constant="15" id="PMT-MX-z4K"/>
+                    <constraint firstItem="WYS-bE-pcI" firstAttribute="leading" secondItem="lQa-bn-Vu8" secondAttribute="leadingMargin" constant="-8" id="X6I-fG-d62"/>
+                    <constraint firstAttribute="bottomMargin" secondItem="WYS-bE-pcI" secondAttribute="bottom" constant="-8" id="dkP-BX-sDQ"/>
+                    <constraint firstItem="0Zf-fS-4NC" firstAttribute="top" secondItem="dTd-8A-JPI" secondAttribute="bottom" constant="-21" id="fuX-72-HVh"/>
+                    <constraint firstItem="dTd-8A-JPI" firstAttribute="trailing" secondItem="lQa-bn-Vu8" secondAttribute="trailingMargin" id="m8X-i6-guH"/>
+                    <constraint firstItem="2Su-FP-Lq7" firstAttribute="top" secondItem="lQa-bn-Vu8" secondAttribute="topMargin" constant="33" id="wea-yA-3Q4"/>
+                </constraints>
+            </tableViewCellContentView>
+            <point key="canvasLocation" x="402" y="296"/>
+        </tableViewCell>
+    </objects>
+    <resources>
+        <image name="NavBarProfileImagePlaceholder" width="29" height="29"/>
+    </resources>
+</document>

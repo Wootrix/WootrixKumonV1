@@ -1,0 +1,82 @@
+<resources>
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="line_width">1dp</dimen>
+    <dimen name="padding_1">1dp</dimen>
+    <dimen name="padding_5">5dp</dimen>
+    <dimen name="padding_10">10dp</dimen>
+    <dimen name="padding_15">15dp</dimen>
+    <dimen name="padding_20">20dp</dimen>
+    <dimen name="padding_25">25dp</dimen>
+    <dimen name="padding_30">30dp</dimen>
+    <dimen name="padding_35">35dp</dimen>
+    <dimen name="padding_40">40dp</dimen>
+    <dimen name="padding_45">45dp</dimen>
+    <dimen name="padding_50">50dp</dimen>
+    <dimen name="padding_55">55dp</dimen>
+    <dimen name="padding_60">60dp</dimen>
+    <dimen name="margin_0.5">0.5dp</dimen>
+    <dimen name="margin_1">1dp</dimen>
+    <dimen name="margin_5">5dp</dimen>
+    <dimen name="margin_3">3dp</dimen>
+    <dimen name="margin_10">10dp</dimen>
+    <dimen name="margin_12">12dp</dimen>
+    <dimen name="margin_8">8dp</dimen>
+    <dimen name="margin_15">15dp</dimen>
+    <dimen name="margin_20">20dp</dimen>
+    <dimen name="margin_25">25dp</dimen>
+    <dimen name="margin_30">30dp</dimen>
+    <dimen name="margin_35">35dp</dimen>
+    <dimen name="margin_40">40dp</dimen>
+    <dimen name="margin_45">45dp</dimen>
+    <dimen name="marign_50">50dp</dimen>
+    <dimen name="margin_60">60dp</dimen>
+    <dimen name="margin_65">63dp</dimen>
+    <dimen name="margin_70">70dp</dimen>
+
+    <!-- text sizes -->
+    <dimen name="text_size_1">.5sp</dimen>
+    <dimen name="text_size_2">1sp</dimen>
+    <dimen name="text_size_3">1.5sp</dimen>
+    <dimen name="text_size_4">2sp</dimen>
+    <dimen name="text_size_5">2.5sp</dimen>
+    <dimen name="text_size_8">4sp</dimen>
+    <dimen name="text_size_10">5sp</dimen>
+    <dimen name="text_size_12">6sp</dimen>
+    <dimen name="text_size_13">6.5sp</dimen>
+    <dimen name="text_size_14">7sp</dimen>
+    <dimen name="text_size_15">7.5sp</dimen>
+    <dimen name="text_size_16">8sp</dimen>
+    <dimen name="text_size_18">9sp</dimen>
+    <dimen name="text_size_20">10sp</dimen>
+    <dimen name="text_size_22">11sp</dimen>
+    <dimen name="text_size_24">12sp</dimen>
+    <dimen name="text_size_25">12.5sp</dimen>
+    <dimen name="text_size_26">13sp</dimen>
+    <dimen name="text_size_28">14sp</dimen>
+    <dimen name="text_size_30">14sp</dimen>
+    <dimen name="text_size_32">16sp</dimen>
+    <dimen name="text_size_35">17.5sp</dimen>
+    <dimen name="text_size_36">18sp</dimen>
+    <dimen name="text_size_38">19sp</dimen>
+    <dimen name="text_size_40">20sp</dimen>
+    <dimen name="text_size_42">21sp</dimen>
+    <dimen name="text_size_45">22.5sp</dimen>
+    <dimen name="text_size_50">25sp</dimen>
+    <dimen name="text_size_60">30sp</dimen>
+
+    <!-- icon sizes -->
+
+    <dimen name="icon_edt_size">27dp</dimen>
+    <dimen name="icon_main_image_size">185dp</dimen>
+    <dimen name="landing_page_top_pr_img_size">32dp</dimen>
+    <dimen name="add_magazine_img_width">65dp</dimen>
+    <dimen name="add_magazine_img_height">80dp</dimen>
+    <dimen name="custom_margin_cum_width">65dp</dimen>
+    <dimen name="account_image_height_cum_width">112dp</dimen>
+    <dimen name="landing_main_image_height">172dp</dimen>
+    <dimen name="actionnar_banner_height">48dp</dimen>
+
+</resources>

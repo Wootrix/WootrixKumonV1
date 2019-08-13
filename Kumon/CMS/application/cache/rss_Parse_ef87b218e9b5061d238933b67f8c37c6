@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Sponsored Content</title>
+    <description>
+      <![CDATA[Sponsored Content Topic]]>
+    </description>
+    <link>http://www.appliancedesign.com/rss</link>
+    <language>en-us</language>
+  </channel>
+</rss>

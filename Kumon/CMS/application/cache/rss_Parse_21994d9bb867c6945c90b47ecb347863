@@ -1,0 +1,585 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Software</title>
+    <description>
+      <![CDATA[Articles and information covering quality software and applications for the shop floor and more.]]>
+    </description>
+    <link>http://www.qualitymag.com/rss</link>
+    <language>en-us</language>
+    <item>
+      <title>3 Benefits of Centralizing Your Operations with a Document Control System</title>
+      <description>
+        <![CDATA[<p>Implementing a document control system is a good way to improve your processes, no matter what industry you are in. Having everything in one place helps you organize and handle your processes, job descriptions and other important material.</p>]]>
+      </description>
+      <guid>http://www.qualitymag.com/articles/93752</guid>
+      <pubDate>Tue, 03 Jan 2017 00:00:00 -0500</pubDate>
+      <link>http://www.qualitymag.com/articles/93752-benefits-of-centralizing-your-operations-with-a-document-control-system</link>
+      <enclosure url="http://www.qualitymag.com/ext/resources/Issues/2017/January/sussman/QM0117-FT4-Software-p1FT-Document-Control.jpg?1483458138" type="image/jpeg" length="58856"/>
+    </item>
+    <item>
+      <title>Large Automotive Manufacturer Integrates eFlex Vision with Cognex Cameras to Improve Vision Inspection System</title>
+      <description>
+        <![CDATA[<p>Due to the detailed nature of automotive transmission manufacturing and the high cost of errors, vision inspection systems have become the key to ensuring high levels of quality and minimizing warranty costs.</p>]]>
+      </description>
+      <guid>http://www.qualitymag.com/articles/93724</guid>
+      <pubDate>Fri, 09 Dec 2016 12:41:00 -0500</pubDate>
+      <link>http://www.qualitymag.com/articles/93724-large-automotive-manufacturer-integrates-eflex-vision-with-cognex-cameras-to-optimize-vision-inspection-system-improve-part-quality-and-reduce-warranty-costs</link>
+      <enclosure url="http://www.qualitymag.com/ext/resources/Default_Images/EdMc-photos/eFlex-Vision-Cognex-Case-Study.jpg?1481306423" type="image/jpeg" length="97231"/>
+    </item>
+    <item>
+      <title>Best When Unnoticed</title>
+      <author></author>
+      <description>
+        <![CDATA[<p>Some things are best when they go unnoticed.</p>]]>
+      </description>
+      <guid>http://www.qualitymag.com/articles/93696</guid>
+      <pubDate>Thu, 01 Dec 2016 00:00:00 -0500</pubDate>
+      <link>http://www.qualitymag.com/articles/93696-best-when-unnoticed</link>
+      <enclosure url="http://www.qualitymag.com/ext/resources/Default_Images/NewDefault0415/QM-Columnists-900x550-editor.jpg?1477488830" type="image/jpeg" length="102031"/>
+    </item>
+    <item>
+      <title>Document Change Control Management</title>
+      <description>
+        <![CDATA[<p>A&nbsp;robust document control management process lies at the heart of a quality management system (QMS); almost every aspect of auditing and compliance verification is determined through the scrutiny of documented evidence. As the saying goes: &ldquo;If it&rsquo;s not documented, it didn&rsquo;t happen.&rdquo;</p>]]>
+      </description>
+      <guid>http://www.qualitymag.com/articles/93694</guid>
+      <pubDate>Thu, 01 Dec 2016 00:00:00 -0500</pubDate>
+      <link>http://www.qualitymag.com/articles/93694-document-change-control-management</link>
+      <enclosure url="http://www.qualitymag.com/ext/resources/Default_Images/NewDefault0415/QM-Columnists-900x550-ASQspeak.jpg?1483467185" type="image/jpeg" length="96118"/>
+    </item>
+    <item>
+      <title>Asking the Right Questions</title>
+      <author></author>
+      <description>
+        <![CDATA[<p>The moral to the story is that the best way to overcome obstacles and/or achieve success is to seek out those who have overcome the same barriers and succeeded. In other words, the key is asking the right questions of the right people.</p>]]>
+      </description>
+      <guid>http://www.qualitymag.com/articles/93659</guid>
+      <pubDate>Tue, 01 Nov 2016 00:00:00 -0400</pubDate>
+      <link>http://www.qualitymag.com/articles/93659-asking-the-right-questions</link>
+      <enclosure url="http://www.qualitymag.com/ext/resources/Default_Images/NewDefault0415/QM-Columnists-900x550-editor.jpg?1477488830" type="image/jpeg" length="102031"/>
+    </item>
+    <item>
+      <title>Gage Repeatability and Reliability: Ensuring Accurate Test Results for Measurement Systems</title>
+      <description>
+        <![CDATA[<p>One of the questions our applications team is most commonly asked is &ldquo;Why aren&rsquo;t my systems producing the exact same results?&rdquo;</p>]]>
+      </description>
+      <guid>http://www.qualitymag.com/articles/93649</guid>
+      <pubDate>Tue, 01 Nov 2016 00:00:00 -0400</pubDate>
+      <link>http://www.qualitymag.com/articles/93649-gage-repeatability-and-reliability-ensuring-accurate-test-results-for-measurement-systems</link>
+      <enclosure url="http://www.qualitymag.com/ext/resources/Issues/2016/November/gage-RR2/QM1116-FT4-SoftwareB-p1_Sources_of_Error.jpg?1477419786" type="image/jpeg" length="70989"/>
+      <media:content url="http://www.qualitymag.com/ext/resources/Issues/2016/November/gage-RR2/QM1116-FT4-SoftwareB-p1_Sources_of_Error.jpg?1477419786" type="image/jpeg" fileSize="70989">
+        <media:title type="plain">gage repeatability and reliability</media:title>
+        <media:description type="plain">Figure 1: Sources of Error
+</media:description>
+      </media:content>
+      <media:content url="http://www.qualitymag.com/ext/resources/Issues/2016/November/gage-RR2/QM1116-FT4-SoftwareB-p2_GRR_Study_Trial.jpg?1477419917" type="image/jpeg" fileSize="45878">
+        <media:title type="plain">gage repeatability and reliability</media:title>
+        <media:description type="plain">Figure 2: Example of One GR&amp;amp;R Study Trial
+</media:description>
+      </media:content>
+      <media:content url="http://www.qualitymag.com/ext/resources/Issues/2016/November/gage-RR2/QM1116-FT4-SoftwareB-p3_SetUp.jpg?1477419976" type="image/jpeg" fileSize="56679">
+        <media:title type="plain">gage repeatability and reliability</media:title>
+        <media:description type="plain">Utilizing pneumatic grips with specimen alignment devices and an automatic extensometer helps reduce machine setup error for passing a GR&amp;amp;R. Source: Instron
+</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>Gage R&amp;R: The Key to Reducing Measurement Variation</title>
+      <description>
+        <![CDATA[]]>
+      </description>
+      <guid>http://www.qualitymag.com/articles/93648</guid>
+      <pubDate>Tue, 01 Nov 2016 00:00:00 -0400</pubDate>
+      <link>http://www.qualitymag.com/articles/93648-gage-rr-the-key-to-reducing-measurement-variation</link>
+      <enclosure url="http://www.qualitymag.com/ext/resources/Issues/2016/November/gage-RR/QM1116-FT2-SoftwareA-p1a.jpg?1477417917" type="image/jpeg" length="28435"/>
+      <media:content url="http://www.qualitymag.com/ext/resources/Issues/2016/November/gage-RR/QM1116-FT2-SoftwareA-p1a.jpg?1477417917" type="image/jpeg" fileSize="28435">
+        <media:title type="plain">gage R&amp;R</media:title>
+        <media:description type="plain">Figure 1a
+</media:description>
+      </media:content>
+      <media:content url="http://www.qualitymag.com/ext/resources/Issues/2016/November/gage-RR/QM1116-FT2-SoftwareA-p1b.jpg?1477418013" type="image/jpeg" fileSize="31119">
+        <media:title type="plain">gage management software</media:title>
+        <media:description type="plain">Figure 1b
+</media:description>
+      </media:content>
+      <media:content url="http://www.qualitymag.com/ext/resources/Issues/2016/November/gage-RR/QM1116-FT2-SoftwareA-p2-Repeatability.jpg?1477418074" type="image/jpeg" fileSize="31507">
+        <media:title type="plain">gage management software</media:title>
+        <media:description type="plain">Figure 2: The repeatability is represented as the width of the histogram.
+</media:description>
+      </media:content>
+      <media:content url="http://www.qualitymag.com/ext/resources/Issues/2016/November/gage-RR/QM1116-FT2-SoftwareA-p3-X-bar_Range_Chart.jpg?1477418117" type="image/jpeg" fileSize="61814">
+        <media:title type="plain">gage management software</media:title>
+        <media:description type="plain">Figure 3: This shows an X-bar and Range chart for a study where three operators (John, Roy, and Mary) took two readings on five different parts with the same instrument.
+</media:description>
+      </media:content>
+      <media:content url="http://www.qualitymag.com/ext/resources/Issues/2016/November/gage-RR/QM1116-FT2-SoftwareA-p4FT-Reproducibility.jpg?1477418151" type="image/jpeg" fileSize="30527">
+        <media:title type="plain">gage management software</media:title>
+        <media:description type="plain">Figure 4: An easier way to visualize Roy&amp;rsquo;s noticeable variation between measurements is with these distribution curves.
+</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>Reverse Engineering Continues to Expand its Role in Industry</title>
+      <description>
+        <![CDATA[<p>Many new industries are employing 3D scanning not only to create 3D models of parts or products for reverse engineering but also to explore the composition and rapid production of ready-to-use parts via 3D printing.</p>]]>
+      </description>
+      <guid>http://www.qualitymag.com/articles/93580</guid>
+      <pubDate>Sat, 01 Oct 2016 00:00:00 -0400</pubDate>
+      <link>http://www.qualitymag.com/articles/93580-reverse-engineering-continues-to-expand-its-role-in-industry</link>
+      <enclosure url="http://www.qualitymag.com/ext/resources/Issues/2016/October/software-analysis/QM1016-FT3-Software-p1-ReverseEngineering.jpg?1474916396" type="image/jpeg" length="127465"/>
+      <media:content url="http://www.qualitymag.com/ext/resources/Issues/2016/October/software-analysis/QM1016-FT3-Software-p1-ReverseEngineering.jpg?1474916396" type="image/jpeg" fileSize="127465">
+        <media:title type="plain">Reverse Engineering</media:title>
+        <media:description type="plain">An NVision technician scanning a section of housing with a handheld laser scanner. A handheld scanner measures an object&amp;rsquo;s 3D coordinates quickly, with a high degree of resolution and accuracy. Source: NVision
+</media:description>
+      </media:content>
+      <media:content url="http://www.qualitymag.com/ext/resources/Issues/2016/October/software-analysis/QM1016-FT3-Software-p2FT-ReverseEngineering.jpg?1474916504" type="image/jpeg" fileSize="60864">
+        <media:title type="plain">Reverse Engineering</media:title>
+        <media:description type="plain">A CAD model of the same housing produced by 3D laser scanning. Source: NVision
+</media:description>
+      </media:content>
+      <media:content url="http://www.qualitymag.com/ext/resources/Issues/2016/October/software-analysis/QM1016-FT3-Software-p3-ReverseEngineering.jpg?1474916539" type="image/jpeg" fileSize="112399">
+        <media:title type="plain">Reverse Engineering</media:title>
+        <media:description type="plain">A crankshaft that required reverse engineering. Source: NVision
+</media:description>
+      </media:content>
+      <media:content url="http://www.qualitymag.com/ext/resources/Issues/2016/October/software-analysis/QM1016-FT3-Software-p4-ReverseEngineering.jpg?1474916579" type="image/jpeg" fileSize="46128">
+        <media:title type="plain">Reverse Engineering</media:title>
+        <media:description type="plain">A CAD model of the same crankshaft produced by 3D laser scanning. Source: NVision
+</media:description>
+      </media:content>
+      <media:content url="http://www.qualitymag.com/ext/resources/Issues/2016/October/software-analysis/QM1016-FT3-Software-p5-ReverseEngineering.jpg?1474916610" type="image/jpeg" fileSize="107087">
+        <media:title type="plain">Reverse Engineering</media:title>
+        <media:description type="plain">A Y-block for a fracking pump. Source: NVision
+</media:description>
+      </media:content>
+      <media:content url="http://www.qualitymag.com/ext/resources/Issues/2016/October/software-analysis/QM1016-FT3-Software-p6-ReverseEngineering.jpg?1474916641" type="image/jpeg" fileSize="101033">
+        <media:title type="plain">Reverse Engineering</media:title>
+        <media:description type="plain">A solid model of the scanned Y-block converted to a native SolidWorks model for seamless integration. Native models are easily modifiable for future applications. Source: NVision
+</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>InspectionXpert Corporation Announces QualityXpert Beta</title>
+      <description>
+        <![CDATA[<p>This first-in-class cloud-based quality management system is designed for precision manufacturers who are seeking a platform to transform the way that they define, measure, analyze, improve and control their manufacturing processes.</p>
+]]>
+      </description>
+      <guid>http://www.qualitymag.com/articles/93599</guid>
+      <pubDate>Tue, 27 Sep 2016 00:00:00 -0400</pubDate>
+      <link>http://www.qualitymag.com/articles/93599-inspectionxpert-corporation-announces-qualityxpert-beta</link>
+      <enclosure url="http://www.qualitymag.com/ext/resources/Ed/thumb/Headlines.jpg?1473779677" type="image/jpeg" length="64975"/>
+    </item>
+    <item>
+      <title>Stepping up to the Factory of the Future</title>
+      <description>
+        <![CDATA[<p>
+	According to a recent article, the factory of the future is &ldquo;the product of fast-changing, disruptive technologies hitting manufacturing like a cyclone.&rdquo;</p>]]>
+      </description>
+      <guid>http://www.qualitymag.com/articles/93484</guid>
+      <pubDate>Thu, 01 Sep 2016 00:00:00 -0400</pubDate>
+      <link>http://www.qualitymag.com/articles/93484-stepping-up-to-the-factory-of-the-future</link>
+      <enclosure url="http://www.qualitymag.com/ext/resources/Issues/2016/September/factory-future/QM0916-FT3-Software-p1FT-FactoryFuture.jpg?1472049540" type="image/jpeg" length="179978"/>
+    </item>
+    <item>
+      <title>Tolerancing Standards: A Comparison</title>
+      <description>
+        <![CDATA[<p>
+	Much has been written about the advantages of Geometric Dimensioning and Tolerancing (GD&amp;T), and much of it is true.&nbsp;</p>]]>
+      </description>
+      <guid>http://www.qualitymag.com/articles/93437</guid>
+      <pubDate>Mon, 01 Aug 2016 00:00:00 -0400</pubDate>
+      <link>http://www.qualitymag.com/articles/93437-tolerancing-standards-a-comparison</link>
+      <enclosure url="http://www.qualitymag.com/ext/resources/Issues/2016/August/tolerancing/QM0816-FT3-software-p1FT_tolerance_standards.jpg?1469200628" type="image/jpeg" length="136507"/>
+      <media:content url="http://www.qualitymag.com/ext/resources/Issues/2016/August/tolerancing/QM0816-FT3-software-p1FT_tolerance_standards.jpg?1469200628" type="image/jpeg" fileSize="136507">
+        <media:title type="plain">tolerance_standards</media:title>
+        <media:description type="plain">
+	Figure 1: Use of a position tolerance permitted by ISO, but not ASME standards
+</media:description>
+      </media:content>
+      <media:content url="http://www.qualitymag.com/ext/resources/Issues/2016/August/tolerancing/QM0816-FT3-software-p2-position_tolerance.jpg?1469200720" type="image/jpeg" fileSize="20712">
+        <media:title type="plain">position_tolerance</media:title>
+      </media:content>
+      <media:content url="http://www.qualitymag.com/ext/resources/Issues/2016/August/tolerancing/QM0816-FT3-software-p3_table.jpg?1469200742" type="image/jpeg" fileSize="62990">
+        <media:title type="plain">software-p3_table</media:title>
+      </media:content>
+    </item>
+    <item>
+      <title>Simple Steps for Measuring and Ensuring ERP Success</title>
+      <description>
+        <![CDATA[<p>
+	People often talk about the high failure rate for software implementation projects. Stories abound about failures in CRM, MES, SCM and QMS, but the stories are especially disturbing when they involve ERP.&nbsp;</p>]]>
+      </description>
+      <guid>http://www.qualitymag.com/articles/93390</guid>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 -0400</pubDate>
+      <link>http://www.qualitymag.com/articles/93390-simple-steps-for-measuring-and-ensuring-erp-success</link>
+      <enclosure url="http://www.qualitymag.com/ext/resources/Issues/2016/July/ERP/QM0716-FT3-software-p1FT-ERP.jpg?1467208492" type="image/jpeg" length="83843"/>
+      <media:content url="http://www.qualitymag.com/ext/resources/Issues/2016/July/ERP/QM0716-FT3-software-p1FT-ERP.jpg?1467208492" type="image/jpeg" fileSize="83843">
+        <media:title type="plain">Simple Steps for Measuring and Ensuring ERP Success</media:title>
+        <media:description type="plain">
+	ERP suppliers put a lot of time and effort into keeping the underlying technology up to date. Source: QAD
+</media:description>
+      </media:content>
+      <media:content url="http://www.qualitymag.com/ext/resources/Issues/2016/July/ERP/QM0716-FT3-software-p2-ERP.jpg?1467208711" type="image/jpeg" fileSize="77092">
+        <media:title type="plain">Simple Steps for Measuring and Ensuring ERP Success</media:title>
+        <media:description type="plain">
+	It&amp;rsquo;s vital that the ERP project be run with as much care and attention as the company&amp;rsquo;s other critical projects. Source: QAD
+</media:description>
+      </media:content>
+      <media:content url="http://www.qualitymag.com/ext/resources/Issues/2016/July/ERP/QM0716-FT3-software-p3-ERP.jpg?1467208750" type="image/jpeg" fileSize="36689">
+        <media:title type="plain">Simple Steps for Measuring and Ensuring ERP Success</media:title>
+        <media:description type="plain">
+	Remember that less is more when it comes to ERP systems. Source: QAD
+</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>10 Keys to Finding the Right Gage Management Software</title>
+      <description>
+        <![CDATA[<p>
+	Getting the right answer sometimes means asking the right questions, and determining appropriate calibration software is no exception to this pattern.</p>]]>
+      </description>
+      <guid>http://www.qualitymag.com/articles/93334</guid>
+      <pubDate>Wed, 01 Jun 2016 00:00:00 -0400</pubDate>
+      <link>http://www.qualitymag.com/articles/93334-keys-to-finding-the-right-gage-management-software</link>
+      <enclosure url="http://www.qualitymag.com/ext/resources/Issues/2016/June/gage-management/QM0616-FT-software-p1-gage_manage-FT.jpg?1464276405" type="image/jpeg" length="64750"/>
+      <media:content url="http://www.qualitymag.com/ext/resources/Issues/2016/June/gage-management/QM0616-FT-software-p1-gage_manage-FT.jpg?1464276405" type="image/jpeg" fileSize="64750">
+        <media:title type="plain">gage management software</media:title>
+        <media:description type="plain">
+	Since individual organizations may have specific requirements when it comes to management of gages and calibration equipment, it is critical to know which software programs will best address these requirements. Source: PQ Systems
+</media:description>
+      </media:content>
+      <media:content url="http://www.qualitymag.com/ext/resources/Issues/2016/June/gage-management/QM0616-FT-software-p2-gage_manage.jpg?1464276518" type="image/jpeg" fileSize="122731">
+        <media:title type="plain">gage management software</media:title>
+        <media:description type="plain">
+	Determine whether the software includes useful reports and output to analyze the system itself. Source: PQ Systems
+</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>Perception</title>
+      <author></author>
+      <description>
+        <![CDATA[<p>
+	In psychological terms, perception is defined as our recognition and interpretation of sensory information, as well as how we respond to the information.<br />
+	To understand perception, information technology and literacy instructor Yolanda Williams asks us to think of it &ldquo;as a process where we take in sensory information from our environment and use that information in order to interact with our environment. Perception allows us to take the sensory information in and make it into something meaningful.&rdquo;</p>]]>
+      </description>
+      <guid>http://www.qualitymag.com/articles/93284</guid>
+      <pubDate>Sun, 01 May 2016 00:00:00 -0400</pubDate>
+      <link>http://www.qualitymag.com/articles/93284-perception</link>
+      <enclosure url="http://www.qualitymag.com/ext/resources/Default_Images/NewDefault0415/QM-Columnists-900x550-editor.jpg?1477488830" type="image/jpeg" length="102031"/>
+    </item>
+    <item>
+      <title>Whatâs Going On?</title>
+      <author></author>
+      <description>
+        <![CDATA[<p>
+	Forget Hamlet. What&rsquo;s going on? That is the question.</p>
+<p>
+	Data collection is about addressing this most important question in strategy. Maybe &ldquo;What&rsquo;s going on?&rdquo; is the greatest question ever asked. Right up there with &ldquo;Where are we?&rdquo; and &ldquo;Who are you?&rdquo;</p>]]>
+      </description>
+      <guid>http://www.qualitymag.com/articles/93265</guid>
+      <pubDate>Sun, 01 May 2016 00:00:00 -0400</pubDate>
+      <link>http://www.qualitymag.com/articles/93265-whats-going-on</link>
+      <enclosure url="http://www.qualitymag.com/ext/resources/Issues/2016/May/software-analysis/QM0516-FT3-SoftwareAndAnalysis-p1FT.jpg?1461685543" type="image/jpeg" length="88590"/>
+    </item>
+    <item>
+      <title>New Data Analysis and Reporting Software Available for Bruker 3-D Optical Microscopes</title>
+      <description>
+        <![CDATA[<p>
+	Vision64 map provides industry-standard analyses in 11 languages.</p>]]>
+      </description>
+      <guid>http://www.qualitymag.com/articles/93245</guid>
+      <pubDate>Wed, 06 Apr 2016 00:00:00 -0400</pubDate>
+      <link>http://www.qualitymag.com/articles/93245-new-data-analysis-and-reporting-software-available-for-bruker-3-d-optical-microscopes</link>
+      <enclosure url="http://www.qualitymag.com/ext/resources/Ed/thumb/Headlines.jpg?1473779677" type="image/jpeg" length="64975"/>
+    </item>
+    <item>
+      <title>7 Ways Technology Can Streamline Your Document Control Process</title>
+      <description>
+        <![CDATA[]]>
+      </description>
+      <guid>http://www.qualitymag.com/articles/93194</guid>
+      <pubDate>Fri, 01 Apr 2016 00:00:00 -0400</pubDate>
+      <link>http://www.qualitymag.com/articles/93194-ways-technology-can-streamline-your-document-control-process</link>
+      <enclosure url="http://www.qualitymag.com/ext/resources/Issues/2016/April/QM0416-FT3-software-p1FT-document_control.jpg?1458832570" type="image/jpeg" length="61091"/>
+    </item>
+    <item>
+      <title>10 Keys for Maximizing the Benefits of your SPC Program</title>
+      <description>
+        <![CDATA[<p>
+	Statistical Process Control charts have been called the Voice of the Process. Progressive manufacturers utilize control charts to &ldquo;listen&rdquo; to their processes so that potentially harmful changes will be quickly detected and rectified.&nbsp;</p>]]>
+      </description>
+      <guid>http://www.qualitymag.com/articles/93141</guid>
+      <pubDate>Tue, 01 Mar 2016 00:00:00 -0500</pubDate>
+      <link>http://www.qualitymag.com/articles/93141-keys-for-maximizing-the-benefits-of-your-spc-program</link>
+      <enclosure url="http://www.qualitymag.com/ext/resources/Issues/2016/March/QM0316-FT2-software-SPC-p1FT.jpg?1456413389" type="image/jpeg" length="88774"/>
+      <media:content url="http://www.qualitymag.com/ext/resources/Issues/2016/March/QM0316-FT2-software-SPC-p1FT.jpg?1456413389" type="image/jpeg" fileSize="88774">
+        <media:title type="plain">SPC software</media:title>
+        <media:description type="plain">
+	Statistical Process Control is most effective when applied as close to the point of production as possible. Source: DataNet Quality Systems
+</media:description>
+      </media:content>
+      <media:content url="http://www.qualitymag.com/ext/resources/Issues/2016/March/QM0316-FT2-software-SPC-p2.jpg?1456413464" type="image/jpeg" fileSize="52173">
+        <media:title type="plain">SPC Software</media:title>
+        <media:description type="plain">
+	&amp;nbsp;The purpose of SPC is to assess process stability. Once stability is achieved, process capability may be assessed. Source: Integral Concepts
+</media:description>
+      </media:content>
+      <media:content url="http://www.qualitymag.com/ext/resources/Issues/2016/March/QM0316-FT2-software-SPC-p3.jpg?1456413574" type="image/jpeg" fileSize="77602">
+        <media:title type="plain">SPC Software</media:title>
+        <media:description type="plain">
+	&amp;nbsp;Traditional control charts (e.g. Xbar/R) often fail to accommodate modern manufacturing methods. Source: Integral Concepts
+</media:description>
+      </media:content>
+      <media:content url="http://www.qualitymag.com/ext/resources/Issues/2016/March/QM0316-FT2-software-SPC-p4.jpg?1456413645" type="image/jpeg" fileSize="41899">
+        <media:title type="plain">SPC Software</media:title>
+        <media:description type="plain">
+	&amp;nbsp;The subgroup size is an important factor in the ability of a control chart to detect process changes. Larger sample sizes allow smaller process changes to be detected. Source: Integral Concepts
+</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>Connecting the Enterprise</title>
+      <description>
+        <![CDATA[Consumers are picky. And an increasingly global marketplace comes with more choices. Which car the safest? What brand of potato chips tastes the best?]]>
+      </description>
+      <guid>http://www.qualitymag.com/articles/93092</guid>
+      <pubDate>Mon, 01 Feb 2016 00:00:00 -0500</pubDate>
+      <link>http://www.qualitymag.com/articles/93092-connecting-the-enterprise</link>
+      <enclosure url="http://www.qualitymag.com/ext/resources/Issues/2016/feb/QM0216-FT3-soft-p1FT.jpg?1454086205" type="image/jpeg" length="91696"/>
+      <media:content url="http://www.qualitymag.com/ext/resources/Issues/2016/feb/QM0216-FT3-soft-p1FT.jpg?1454086205" type="image/jpeg" fileSize="91696">
+        <media:title type="plain">Connecting the Enterprise </media:title>
+      </media:content>
+      <media:content url="http://www.qualitymag.com/ext/resources/Issues/2016/feb/QM0216-FT3-soft-p2.jpg?1454086304" type="image/jpeg" fileSize="54055">
+        <media:title type="plain">PROCESS EVENT PARETO</media:title>
+        <media:description type="plain">
+	PROCESS EVENT PARETO
+
+	Specification Limit and Control Limit Violations - Top 10 Plants
+
+	Pareto Chart of exceptions sorted by site and ordered by the 10 worst sites. Notice sites 17, 38 and 22 are clearly showing more issues than the remaining sites. Source: InfinityQS
+</media:description>
+      </media:content>
+      <media:content url="http://www.qualitymag.com/ext/resources/Issues/2016/feb/QM0216-FT3-soft-p3.jpg?1454086351" type="image/jpeg" fileSize="76088">
+        <media:title type="plain">NET CONTENTS </media:title>
+        <media:description type="plain">
+	NET CONTENTS- SITE 17, SITE 22, SITE 38 
+
+	Summarized by Site/Production Line
+
+	Box-and-whisker Plot of a key characteristic (Net Contents) for the three problem sites, identified in the Pareto Chart, sorted by site and production line. From this plot it is clear that Site 38 and Filling Line 01 have the most variation across the three problem sites. Source: InfinityQS
+</media:description>
+      </media:content>
+      <media:content url="http://www.qualitymag.com/ext/resources/Issues/2016/feb/QM0216-FT3-soft-p4.jpg?1454086391" type="image/jpeg" fileSize="65711">
+        <media:title type="plain">NET CONTENTS</media:title>
+        <media:description type="plain">
+	NET CONTENTS - SITE 17, SITE 22, SITE 38 Site 38 - 
+
+	All production lines, all products
+
+	Box-and-whisker Plot of a key characteristic (Net Contents) for Site 38, sorted by production line and product. From this plot it is clear that Product A on Filling Line 01 has the most variation across all products run at Site 38. Source: InfinityQS
+</media:description>
+      </media:content>
+      <media:content url="http://www.qualitymag.com/ext/resources/Issues/2016/feb/QM0216-FT3-soft-p5.jpg?1454086612" type="image/jpeg" fileSize="60972">
+        <media:title type="plain">dashboard</media:title>
+        <media:description type="plain">
+	Example of a dashboard showing the performance of a key characteristic across four sites. This dashboard highlights compliance (events), process performance (Ppk) and operational use (data counts) with various charts to show overall performance, as well as month-to-month changes. Source: InfinityQS
+</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>Key Elements of Gauge R and R Studies</title>
+      <description>
+        <![CDATA[<p>
+	R&amp;R studies give you a means to measure variables that affect measurement processes.</p>]]>
+      </description>
+      <guid>http://www.qualitymag.com/articles/93062</guid>
+      <pubDate>Wed, 06 Jan 2016 00:00:00 -0500</pubDate>
+      <link>http://www.qualitymag.com/articles/93062-key-elements-of-gauge-r-and-r-studies</link>
+      <enclosure url="http://www.qualitymag.com/ext/resources/Ed/thumb/QM-DEPTs-900x550-webex-1.jpg?1454437803" type="image/jpeg" length="80675"/>
+    </item>
+    <item>
+      <title>Q&amp;A: Keeping Track of Gage Management Software</title>
+      <author></author>
+      <description>
+        <![CDATA[<p>
+	With so many different calibration management software products on the market, choosing the best one for your business could prove challenging.</p>]]>
+      </description>
+      <guid>http://www.qualitymag.com/articles/93054</guid>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 -0500</pubDate>
+      <link>http://www.qualitymag.com/articles/93054-qa-keeping-track-of-gage-management-software</link>
+      <enclosure url="http://www.qualitymag.com/ext/resources/Issues/2016/January/QM0116-FT3-Soft-p1FT.jpg?1453486520" type="image/jpeg" length="62314"/>
+    </item>
+    <item>
+      <title>Uniting Top Floor and Shop Floor for Improved Performance: MES-ERP Integration</title>
+      <description>
+        <![CDATA[<p>
+	Manufacturers today understand the importance of an innovative, flexible and skilled workforce that is enabled by technology to make fast and efficient decisions and recognize and take advantage of new opportunities.</p>]]>
+      </description>
+      <guid>http://www.qualitymag.com/articles/92955</guid>
+      <pubDate>Fri, 06 Nov 2015 09:00:00 -0500</pubDate>
+      <link>http://www.qualitymag.com/articles/92955-uniting-top-floor-and-shop-floor-for-improved-performance-mes-erp-integration</link>
+      <enclosure url="http://www.qualitymag.com/ext/resources/Issues/November2015/Software/QM1115-FT-soft-p1FT.jpg?1446738528" type="image/jpeg" length="67742"/>
+      <media:content url="http://www.qualitymag.com/ext/resources/Issues/November2015/Software/QM1115-FT-soft-p1FT.jpg?1446738528" type="image/jpeg" fileSize="67742">
+        <media:title type="plain">Software_FT</media:title>
+        <media:description type="plain">
+	Manufacturers need to strive to improve the use of data throughout the organization. Source: Epicor
+</media:description>
+      </media:content>
+      <media:content url="http://www.qualitymag.com/ext/resources/Issues/November2015/Software/QM1115-FT-soft-p2.jpg?1446738592" type="image/jpeg" fileSize="84122">
+        <media:title type="plain">Software_sl2</media:title>
+        <media:description type="plain">
+	If there is a quality or maintenance issue on the floor, real-time alerts and notifications can raise a red flag, enabling immediate action to resolve the issue. Source: Epicor</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>Integration</title>
+      <author></author>
+      <description>
+        <![CDATA[<p>
+	The word integration, as well as its meaning, is very important.</p>
+]]>
+      </description>
+      <guid>http://www.qualitymag.com/articles/92966</guid>
+      <pubDate>Thu, 05 Nov 2015 00:00:00 -0500</pubDate>
+      <link>http://www.qualitymag.com/articles/92966-integration</link>
+      <enclosure url="http://www.qualitymag.com/ext/resources/Default_Images/NewDefault0415/QM-Columnists-900x550-editor.jpg?1477488830" type="image/jpeg" length="102031"/>
+    </item>
+    <item>
+      <title>NDT Cloud Storage: How to Make the Right Move</title>
+      <description>
+        <![CDATA[<p>
+	Before we explore the question that seems to be on the minds of those in the nondestructive testing (NDT) industry and every other industry these days&mdash;Should we move our data to the cloud?&mdash;let&rsquo;s discuss some background on how we got to this point in NDT.</p>]]>
+      </description>
+      <guid>http://www.qualitymag.com/articles/92934</guid>
+      <pubDate>Mon, 12 Oct 2015 00:00:00 -0400</pubDate>
+      <link>http://www.qualitymag.com/articles/92934-ndt-cloud-storage-how-to-make-the-right-move</link>
+      <enclosure url="http://www.qualitymag.com/ext/resources/NDT/October2015/ayc_blue.jpg?1444671856" type="image/jpeg" length="38271"/>
+    </item>
+    <item>
+      <title>How to Add Dynamic Measurement Uncertainties to Any Metrology Software</title>
+      <description>
+        <![CDATA[<p>
+	Over the years we have had numerous conversations related to the lack of standards and flexibility when it comes to calibration software.</p>]]>
+      </description>
+      <guid>http://www.qualitymag.com/articles/92875</guid>
+      <pubDate>Thu, 01 Oct 2015 00:00:00 -0400</pubDate>
+      <link>http://www.qualitymag.com/articles/92875-how-to-add-dynamic-measurement-uncertainties-to-any-metrology-software</link>
+      <enclosure url="http://www.qualitymag.com/ext/resources/Issues/October2015/Software/QM1015-FT2-soft-p6FT.jpg?1443627260" type="image/jpeg" length="23796"/>
+      <media:content url="http://www.qualitymag.com/ext/resources/Issues/October2015/Software/QM1015-FT2-soft-p6FT.jpg?1443627260" type="image/jpeg" fileSize="23796">
+        <media:title type="plain">Software_FT</media:title>
+        <media:description type="plain">Custom Parameter pop-up, allows the user to create any number of name value pairs used to distinguish one calculator from the others.</media:description>
+      </media:content>
+      <media:content url="http://www.qualitymag.com/ext/resources/Issues/October2015/Software/QM1015-FT2-soft-p1.jpg?1443627022" type="image/jpeg" fileSize="48305">
+        <media:title type="plain">Software_sl1</media:title>
+        <media:description type="plain">Simple measurement uncertainty budget created in Microsoft Excel.</media:description>
+      </media:content>
+      <media:content url="http://www.qualitymag.com/ext/resources/Issues/October2015/Software/QM1015-FT2-soft-p2.jpg?1443627106" type="image/jpeg" fileSize="36428">
+        <media:title type="plain">Software_sl2</media:title>
+        <media:description type="plain">This custom metrology.net interface tap can be added to any Excel file to pass values in and out of the spreadsheet.</media:description>
+      </media:content>
+      <media:content url="http://www.qualitymag.com/ext/resources/Issues/October2015/Software/QM1015-FT2-soft-p3.jpg?1443627142" type="image/jpeg" fileSize="82198">
+        <media:title type="plain">Software_sl3</media:title>
+        <media:description type="plain">Browser-based interface listing all the installed uncertainty calculators. Also used to create new calculators.</media:description>
+      </media:content>
+      <media:content url="http://www.qualitymag.com/ext/resources/Issues/October2015/Software/QM1015-FT2-soft-p4.jpg?1443627176" type="image/jpeg" fileSize="19325">
+        <media:title type="plain">Software_sl4</media:title>
+        <media:description type="plain">New calculator pop-up detailing the type and details of the calculator being created.</media:description>
+      </media:content>
+      <media:content url="http://www.qualitymag.com/ext/resources/Issues/October2015/Software/QM1015-FT2-soft-p5.jpg?1443627215" type="image/jpeg" fileSize="25959">
+        <media:title type="plain">Software_sl5</media:title>
+        <media:description type="plain">Calculator edit interface, allows the user to add additional details as well as update / replace the Excel File.</media:description>
+      </media:content>
+      <media:content url="http://www.qualitymag.com/ext/resources/Issues/October2015/Software/QM1015-FT2-soft-p7.jpg?1443627296" type="image/jpeg" fileSize="22492">
+        <media:title type="plain">Software_sl7</media:title>
+        <media:description type="plain">Filtered view of all the uncertainty calculators loaded in the system.</media:description>
+      </media:content>
+      <media:content url="http://www.qualitymag.com/ext/resources/Issues/October2015/Software/QM1015-FT2-soft-p8.jpg?1443627353" type="image/jpeg" fileSize="29892">
+        <media:title type="plain">Software_sl8</media:title>
+        <media:description type="plain">Using the calculator from the from the browser-based interface. Enter the values and press Re-Calculate Uncertainty.</media:description>
+      </media:content>
+      <media:content url="http://www.qualitymag.com/ext/resources/Issues/October2015/Software/QM1015-FT2-soft-p9.jpg?1443627387" type="image/jpeg" fileSize="39558">
+        <media:title type="plain">Software_sl9</media:title>
+      </media:content>
+      <media:content url="http://www.qualitymag.com/ext/resources/Issues/October2015/Software/QM1015-FT2-soft-p10.jpg?1443627433" type="image/jpeg" fileSize="23536">
+        <media:title type="plain">Software_sl10</media:title>
+        <media:description type="plain">Sample VB.NET code to automatically call the uncertainty calculator in code.</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>The Benefits of Automating Your Document Control Process</title>
+      <description>
+        <![CDATA[<p>
+	Regardless of the industry you serve, document control is one of the most prevalent applications in businesses today.</p>]]>
+      </description>
+      <guid>http://www.qualitymag.com/articles/92825</guid>
+      <pubDate>Wed, 02 Sep 2015 08:00:00 -0400</pubDate>
+      <link>http://www.qualitymag.com/articles/92825-the-benefits-of-automating-your-document-control-process</link>
+      <enclosure url="http://www.qualitymag.com/ext/resources/Issues/September2015/SoftwareB/QM0915-FT5-softB-p1FT.jpg?1440530024" type="image/jpeg" length="60151"/>
+    </item>
+    <item>
+      <title>The Journey to Relevance</title>
+      <description>
+        <![CDATA[<p>
+	The manufacturing world is drowning in data. A recent study published by The Economist evaluates the current state of manufacturing data.</p>
+]]>
+      </description>
+      <guid>http://www.qualitymag.com/articles/92824</guid>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 -0400</pubDate>
+      <link>http://www.qualitymag.com/articles/92824-the-journey-to-relevance</link>
+      <enclosure url="http://www.qualitymag.com/ext/resources/Issues/September2015/SotwareA/QM0915-FT4-soft-p1FT.jpg?1440529668" type="image/jpeg" length="68855"/>
+    </item>
+    <item>
+      <title>Get Smarter About Software</title>
+      <author></author>
+      <description>
+        <![CDATA[<p>
+	Almost nothing gets done without software. Companies use it to track inventory, processes, and of course, communicate.</p>]]>
+      </description>
+      <guid>http://www.qualitymag.com/articles/92782</guid>
+      <pubDate>Wed, 05 Aug 2015 00:00:00 -0400</pubDate>
+      <link>http://www.qualitymag.com/articles/92782-get-smarter-about-software</link>
+      <enclosure url="http://www.qualitymag.com/ext/resources/Issues/August2015/Software/QM0815-FT3-soft-p1FT.jpg?1438784747" type="image/jpeg" length="157007"/>
+      <media:content url="http://www.qualitymag.com/ext/resources/Issues/August2015/Software/QM0815-FT3-soft-p1FT.jpg?1438784747" type="image/jpeg" fileSize="157007">
+        <media:title type="plain">Software_FT</media:title>
+      </media:content>
+      <media:content url="http://www.qualitymag.com/ext/resources/Issues/August2015/Software/QM0815-FT3-soft-p2.jpg?1438785295" type="image/jpeg" fileSize="75279">
+        <media:title type="plain">Software_sl2</media:title>
+        <media:description type="plain">Trends in quality software also reflect larger trends in the industry. Source: KPI Fire</media:description>
+      </media:content>
+      <media:content url="http://www.qualitymag.com/ext/resources/Issues/August2015/Software/QM0815-FT3-soft-p3.jpg?1438785360" type="image/jpeg" fileSize="75981">
+        <media:title type="plain">Software_sl3</media:title>
+        <media:description type="plain">Newer companies aim to make their software more simple and app like. Source: KPI Fire</media:description>
+      </media:content>
+      <media:content url="http://www.qualitymag.com/ext/resources/Issues/August2015/Software/QM0815-FT3-soft-p4.jpg?1438785453" type="image/jpeg" fileSize="72096">
+        <media:title type="plain">Software_sl4</media:title>
+        <media:description type="plain">Software is just one piece of a management system. Source: KPI Fire</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>Spatial and 3DCompoware Partner to Extend Reach into New Japanese Markets</title>
+      <description>
+        <![CDATA[<p>
+	3DCompoware to resell Spatial&rsquo;s 3D software development toolkits.</p>
+]]>
+      </description>
+      <guid>http://www.qualitymag.com/articles/92755</guid>
+      <pubDate>Wed, 29 Jul 2015 00:00:00 -0400</pubDate>
+      <link>http://www.qualitymag.com/articles/92755-spatial-and-3dcompoware-partner-to-extend-reach-into-new-japanese-markets</link>
+      <enclosure url="http://www.qualitymag.com/ext/resources/Ed/thumb/Headlines.jpg?1473779677" type="image/jpeg" length="64975"/>
+    </item>
+    <item>
+      <title>How do you buy an oil rig?</title>
+      <author></author>
+      <description>
+        <![CDATA[<p>
+	So, let&rsquo;s say you&rsquo;re headhunted by a tier one oil company to lead their upstream business process in a new territory where, amongst many other demanding strategic and operational responsibilities, you will need to procure and commission a new production rig.</p>]]>
+      </description>
+      <guid>http://www.qualitymag.com/articles/92704</guid>
+      <pubDate>Thu, 02 Jul 2015 00:00:00 -0400</pubDate>
+      <link>http://www.qualitymag.com/articles/92704-how-do-you-buy-an-oil-rig</link>
+      <enclosure url="http://www.qualitymag.com/ext/resources/Issues/July2015/QM0715-FT3-soft-p1FT.jpg?1435857514" type="image/jpeg" length="137064"/>
+    </item>
+  </channel>
+</rss>

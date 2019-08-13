@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    android:orientation="vertical">
+
+    <include layout="@layout/top_header" />
+
+    <RadioGroup
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingRight="@dimen/margin_10">
+
+        <RadioButton
+            android:id="@+id/change_lang_english_radio"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:button="@null"
+            android:checked="true"
+            android:drawableRight="@drawable/language_toggle_btn"
+            android:padding="@dimen/margin_10"
+            android:text="@string/lbl_english"
+            android:textColor="#3c3c3c"
+            android:textSize="@dimen/text_size_26" />
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/seprator" />
+
+        <RadioButton
+            android:id="@+id/change_lang_spanish_radio"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:button="@null"
+            android:drawableRight="@drawable/language_toggle_btn"
+            android:padding="@dimen/margin_10"
+            android:text="@string/lbl_spanish"
+            android:textColor="#3c3c3c"
+            android:textSize="@dimen/text_size_26" />
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/seprator" />
+
+        <RadioButton
+            android:id="@+id/change_lang_portuguese_radio"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:button="@null"
+            android:drawableRight="@drawable/language_toggle_btn"
+            android:padding="@dimen/margin_10"
+            android:text="@string/lbl_portuguese"
+            android:textColor="#3c3c3c"
+            android:textSize="@dimen/text_size_26" />
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/seprator" />
+    </RadioGroup>
+
+</LinearLayout>

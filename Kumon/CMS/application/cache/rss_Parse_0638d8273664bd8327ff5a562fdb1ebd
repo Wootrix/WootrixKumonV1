@@ -1,0 +1,490 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" media="screen" href="/~d/styles/rss2full.xsl"?><?xml-stylesheet type="text/css" media="screen" href="http://feeds.sciencedaily.com/~d/styles/itemcontent.css"?><rss xmlns:media="http://search.yahoo.com/mrss/" xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" version="2.0">
+	<channel>
+		<title>Strange &amp; Offbeat News -- ScienceDaily</title>
+		<link>https://www.sciencedaily.com/news/strange_offbeat/</link>
+		<description>Quirky stories from all of ScienceDaily's health, technology, environment, and society sections.</description>
+		<language>en-us</language>
+		<pubDate>Sun, 06 Mar 2016 22:17:59 EST</pubDate>
+		<lastBuildDate>Sun, 06 Mar 2016 22:17:59 EST</lastBuildDate>
+		<ttl>60</ttl>
+		<image>
+			<title>Strange &amp; Offbeat News -- ScienceDaily</title>
+			<url>https://www.sciencedaily.com/images/scidaily-logo-rss.png</url>
+			<link>https://www.sciencedaily.com/news/strange_offbeat/</link>
+			<description>For more science news, visit ScienceDaily.</description>
+		</image>
+		
+		<atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://feeds.sciencedaily.com/sciencedaily/strange_offbeat" /><feedburner:info uri="sciencedaily/strange_offbeat" /><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/" /><feedburner:emailServiceId>sciencedaily/strange_offbeat</feedburner:emailServiceId><feedburner:feedburnerHostname>https://feedburner.google.com</feedburner:feedburnerHostname><item>
+			<title>Super elastic electroluminescent 'skin' will soon create mood robots</title>
+			<link>http://feeds.sciencedaily.com/~r/sciencedaily/strange_offbeat/~3/cmidRmT2ZDM/160303150224.htm</link>
+			<description>Engineers have developed an electroluminescent "skin" that stretches to more than six times its original size while still emitting light. The discovery could lead to significant advances in health care, transportation, electronic communication and other areas. <!-- more --></description>
+			<media:thumbnail url="https://images.sciencedaily.com/2016/03/160303150224.jpg" height="200" width="300" />
+			<pubDate>Thu, 03 Mar 2016 15:02:24 EST</pubDate>
+			<guid isPermaLink="false">https://www.sciencedaily.com/releases/2016/03/160303150224.htm</guid>
+		<feedburner:origLink>https://www.sciencedaily.com/releases/2016/03/160303150224.htm</feedburner:origLink></item>
+		<item>
+			<title>Quantum computer factors numbers, could be scaled up</title>
+			<link>http://feeds.sciencedaily.com/~r/sciencedaily/strange_offbeat/~3/Y36vxqfzrsw/160303145730.htm</link>
+			<description>Researchers report that they have designed and built a quantum computer from five atoms in an ion trap. The computer uses laser pulses to carry out Shor's algorithm on each atom, to correctly factor the number 15. The system is designed in such a way that more atoms and lasers can be added to build a bigger and faster quantum computer, able to factor much larger numbers. <!-- more --></description>
+			<media:thumbnail url="https://images.sciencedaily.com/2016/03/160303145730.jpg" height="200" width="300" />
+			<pubDate>Thu, 03 Mar 2016 14:57:30 EST</pubDate>
+			<guid isPermaLink="false">https://www.sciencedaily.com/releases/2016/03/160303145730.htm</guid>
+		<feedburner:origLink>https://www.sciencedaily.com/releases/2016/03/160303145730.htm</feedburner:origLink></item>
+		<item>
+			<title>Mating without males decreases lifespan</title>
+			<link>http://feeds.sciencedaily.com/~r/sciencedaily/strange_offbeat/~3/SyUQ7SowXnc/160303133611.htm</link>
+			<description>Roundworm species reproducing self-fertilization instead of mating with males have shorter lifespans. <!-- more --></description>
+			<media:thumbnail url="https://images.sciencedaily.com/2016/03/160303133611.jpg" height="300" width="300" />
+			<pubDate>Thu, 03 Mar 2016 13:36:11 EST</pubDate>
+			<guid isPermaLink="false">https://www.sciencedaily.com/releases/2016/03/160303133611.htm</guid>
+		<feedburner:origLink>https://www.sciencedaily.com/releases/2016/03/160303133611.htm</feedburner:origLink></item>
+		<item>
+			<title>Brain tune-up may aid self-motivation</title>
+			<link>http://feeds.sciencedaily.com/~r/sciencedaily/strange_offbeat/~3/n3v-LlTeUY0/160303132957.htm</link>
+			<description>Volition powers us through innumerable daily tasks. Could we lead healthier, more productive lives if we could learn to control the parts of our brain most essential to volition? A new spin on a technique called 'neurofeedback' has allowed scientists to take the first step in understanding how to manipulate neurotransmitter circuits involved in volition using thoughts and imagery. The methods may one day inform the treatment of depression or ADHD. <!-- more --></description>
+			<media:thumbnail url="https://images.sciencedaily.com/2016/03/160303132957.jpg" height="250" width="300" />
+			<pubDate>Thu, 03 Mar 2016 13:29:57 EST</pubDate>
+			<guid isPermaLink="false">https://www.sciencedaily.com/releases/2016/03/160303132957.htm</guid>
+		<feedburner:origLink>https://www.sciencedaily.com/releases/2016/03/160303132957.htm</feedburner:origLink></item>
+		<item>
+			<title>Why do chimpanzees throw stones at trees?</title>
+			<link>http://feeds.sciencedaily.com/~r/sciencedaily/strange_offbeat/~3/UtNQszpelT0/160303120631.htm</link>
+			<description>Newly discovered stone tool-use behavior and accumulation sites in wild chimpanzees are reminiscent to human cairns, report researchers. Chimpanzees are proficient tool-users, using sticks to fish for termites, to dip for ants, to extract honey, and even using stone or wooden hammers to crack open nuts. Outside the foraging context male chimpanzees sometimes throw branches and stones during displays, or leaf-clip to solicit sex from females. This research has therefore been fundamental for providing insights into natural chimpanzee behavior and most importantly into the differences between populations. <!-- more --></description>
+			<media:thumbnail url="https://images.sciencedaily.com/2016/03/160303120631.jpg" height="400" width="300" />
+			<pubDate>Thu, 03 Mar 2016 12:06:31 EST</pubDate>
+			<guid isPermaLink="false">https://www.sciencedaily.com/releases/2016/03/160303120631.htm</guid>
+		<feedburner:origLink>https://www.sciencedaily.com/releases/2016/03/160303120631.htm</feedburner:origLink></item>
+		<item>
+			<title>Monkeys drive wheelchairs using only their thoughts</title>
+			<link>http://feeds.sciencedaily.com/~r/sciencedaily/strange_offbeat/~3/IvFDK2LsG0c/160303094320.htm</link>
+			<description>Neuroscientists have developed a brain-machine interface (BMI) that allows primates to use only their thoughts to navigate a robotic wheelchair. <!-- more --></description>
+			<media:thumbnail url="https://images.sciencedaily.com/2016/03/160303094320.jpg" height="181" width="300" />
+			<pubDate>Thu, 03 Mar 2016 09:43:20 EST</pubDate>
+			<guid isPermaLink="false">https://www.sciencedaily.com/releases/2016/03/160303094320.htm</guid>
+		<feedburner:origLink>https://www.sciencedaily.com/releases/2016/03/160303094320.htm</feedburner:origLink></item>
+		<item>
+			<title>Can some birds be just as smart as apes?</title>
+			<link>http://feeds.sciencedaily.com/~r/sciencedaily/strange_offbeat/~3/CiTY3_s1F6o/160303084615.htm</link>
+			<description>At first glance, the brains of birds and mammals show many significant differences. In spite of that, the cognitive skills of some groups of birds match those of apes, according to a new article. <!-- more --></description>
+			<pubDate>Thu, 03 Mar 2016 08:46:15 EST</pubDate>
+			<guid isPermaLink="false">https://www.sciencedaily.com/releases/2016/03/160303084615.htm</guid>
+		<feedburner:origLink>https://www.sciencedaily.com/releases/2016/03/160303084615.htm</feedburner:origLink></item>
+		<item>
+			<title>Asymmetry of an emotion</title>
+			<link>http://feeds.sciencedaily.com/~r/sciencedaily/strange_offbeat/~3/9IKShfnbvCU/160303084613.htm</link>
+			<description>Though probably not at the top of the concerns of people affected by facial hemiparalysis, itâs nonetheless a problem that should not be overlooked. Facial hemiparalysis not only makes it impossible to produce expressions, it also impairs the perception of expressions on other peopleâs faces. A new study shows that this difficulty is probably related to an impairment of facial mimicry, a mechanism that helps us understand the emotions of others. <!-- more --></description>
+			<pubDate>Thu, 03 Mar 2016 08:46:13 EST</pubDate>
+			<guid isPermaLink="false">https://www.sciencedaily.com/releases/2016/03/160303084613.htm</guid>
+		<feedburner:origLink>https://www.sciencedaily.com/releases/2016/03/160303084613.htm</feedburner:origLink></item>
+		<item>
+			<title>Without ancestral gene life on Earth might not have evolved beyond slime</title>
+			<link>http://feeds.sciencedaily.com/~r/sciencedaily/strange_offbeat/~3/U7AMGOI2m_U/160303083819.htm</link>
+			<description>Researchers have identified a common ancestral gene that enabled the evolution of advanced life over a billion years ago. <!-- more --></description>
+			<media:thumbnail url="https://images.sciencedaily.com/2016/03/160303083819.jpg" height="214" width="300" />
+			<pubDate>Thu, 03 Mar 2016 08:38:19 EST</pubDate>
+			<guid isPermaLink="false">https://www.sciencedaily.com/releases/2016/03/160303083819.htm</guid>
+		<feedburner:origLink>https://www.sciencedaily.com/releases/2016/03/160303083819.htm</feedburner:origLink></item>
+		<item>
+			<title>Seven miles deep, ocean still a noisy place</title>
+			<link>http://feeds.sciencedaily.com/~r/sciencedaily/strange_offbeat/~3/oAEaOTPyKVQ/160302135601.htm</link>
+			<description>For what may be the first time, NOAA and partner scientists eavesdropped on the deepest part of the world's ocean and instead of finding a sea of silence, discovered a cacophony of sounds both natural and caused by humans. <!-- more --></description>
+			<media:thumbnail url="https://images.sciencedaily.com/2016/03/160302135601.jpg" height="175" width="300" />
+			<pubDate>Wed, 02 Mar 2016 13:56:01 EST</pubDate>
+			<guid isPermaLink="false">https://www.sciencedaily.com/releases/2016/03/160302135601.htm</guid>
+		<feedburner:origLink>https://www.sciencedaily.com/releases/2016/03/160302135601.htm</feedburner:origLink></item>
+		<item>
+			<title>Mysterious cosmic radio bursts found to repeat</title>
+			<link>http://feeds.sciencedaily.com/~r/sciencedaily/strange_offbeat/~3/ntxuaDWRSNk/160302135202.htm</link>
+			<description>Astronomers for the first time have detected repeating short bursts of radio waves from an enigmatic source that is likely located well beyond the edge of our Milky Way galaxy. The findings indicate that these 'fast radio bursts' come from an extremely powerful object which occasionally produces multiple bursts in under a minute. Prior to this discovery all previously detected fast radio bursts have appeared to be one-off events. <!-- more --></description>
+			<media:thumbnail url="https://images.sciencedaily.com/2016/03/160302135202.jpg" height="400" width="300" />
+			<pubDate>Wed, 02 Mar 2016 13:52:02 EST</pubDate>
+			<guid isPermaLink="false">https://www.sciencedaily.com/releases/2016/03/160302135202.htm</guid>
+		<feedburner:origLink>https://www.sciencedaily.com/releases/2016/03/160302135202.htm</feedburner:origLink></item>
+		<item>
+			<title>New method reveals high similarity between gorilla and human Y chromosome</title>
+			<link>http://feeds.sciencedaily.com/~r/sciencedaily/strange_offbeat/~3/fW6d9r0JH64/160302135156.htm</link>
+			<description>A faster, less expensive method has been developed and used to learn the DNA sequence of the male-specific Y chromosome in the gorilla. The research reveals that a male gorilla's Y chromosome is more similar to a male human's Y chromosome than to a chimpanzee's. The technique works for any species, so it can be used to study male infertility disorders and male-specific mutations. It also can aid in conservation efforts. <!-- more --></description>
+			<media:thumbnail url="https://images.sciencedaily.com/2016/03/160302135156.jpg" height="200" width="300" />
+			<pubDate>Wed, 02 Mar 2016 13:51:56 EST</pubDate>
+			<guid isPermaLink="false">https://www.sciencedaily.com/releases/2016/03/160302135156.htm</guid>
+		<feedburner:origLink>https://www.sciencedaily.com/releases/2016/03/160302135156.htm</feedburner:origLink></item>
+		<item>
+			<title>When the radio squeaks, an extraterrestrial particle enters the earthly atmosphere (and tells us where it comes from)</title>
+			<link>http://feeds.sciencedaily.com/~r/sciencedaily/strange_offbeat/~3/LaY-fXGpU74/160302132611.htm</link>
+			<description>LOFAR, the big international radio telescope, can now be used as a particle detector. Astronomers made a new model to determine the type and cosmic source of incoming cocmic particles. <!-- more --></description>
+			<media:thumbnail url="https://images.sciencedaily.com/2016/03/160302132611.jpg" height="226" width="300" />
+			<pubDate>Wed, 02 Mar 2016 13:26:11 EST</pubDate>
+			<guid isPermaLink="false">https://www.sciencedaily.com/releases/2016/03/160302132611.htm</guid>
+		<feedburner:origLink>https://www.sciencedaily.com/releases/2016/03/160302132611.htm</feedburner:origLink></item>
+		<item>
+			<title>Ruby red improves in the microwave oven</title>
+			<link>http://feeds.sciencedaily.com/~r/sciencedaily/strange_offbeat/~3/b4aGWipGWXs/160302120054.htm</link>
+			<description>A new way to improve the color, clarity and luster of rubies has been tested by scientists: put them in the microwave. Rubies are among the world's most popular precious gemstones, and are also used in high power switches and sensors. Most natural rubies are not uniform in colour, and sometimes blue patches can be seen in the red stone. This decreases the value of a stone. <!-- more --></description>
+			<media:thumbnail url="https://images.sciencedaily.com/2016/03/160302120054.jpg" height="137" width="300" />
+			<pubDate>Wed, 02 Mar 2016 12:00:54 EST</pubDate>
+			<guid isPermaLink="false">https://www.sciencedaily.com/releases/2016/03/160302120054.htm</guid>
+		<feedburner:origLink>https://www.sciencedaily.com/releases/2016/03/160302120054.htm</feedburner:origLink></item>
+		<item>
+			<title>Superman can start worrying: We've got the formula for (almost) kryptonite</title>
+			<link>http://feeds.sciencedaily.com/~r/sciencedaily/strange_offbeat/~3/LZA7tKskers/160302115426.htm</link>
+			<description>Theoretical chemists have found how to synthesize the first binary compound of krypton and oxygen: a krypton oxide. It turns out that this exotic substance can be produced under extremely high pressure, and its production is quite within the capabilities of today's laboratories. <!-- more --></description>
+			<media:thumbnail url="https://images.sciencedaily.com/2016/03/160302115426.jpg" height="233" width="300" />
+			<pubDate>Wed, 02 Mar 2016 11:54:26 EST</pubDate>
+			<guid isPermaLink="false">https://www.sciencedaily.com/releases/2016/03/160302115426.htm</guid>
+		<feedburner:origLink>https://www.sciencedaily.com/releases/2016/03/160302115426.htm</feedburner:origLink></item>
+		<item>
+			<title>Extinct otter-like 'marine bear' might have had a bite like a saber-toothed cat</title>
+			<link>http://feeds.sciencedaily.com/~r/sciencedaily/strange_offbeat/~3/JX9L4hEyGTM/160301211334.htm</link>
+			<description>New research suggests that the feeding strategy of Kolponomos, an enigmatic shell-crushing marine predator that lived about 20 million years ago, was strangely similar to a very different kind of carnivore: the saber-toothed cat Smilodon. Scientists have shown that even though the two extinct predators likely contrasted greatly in food preference and environment, they shared similar engineering in jaw structure. <!-- more --></description>
+			<media:thumbnail url="https://images.sciencedaily.com/2016/03/160301211334.jpg" height="132" width="300" />
+			<pubDate>Tue, 01 Mar 2016 21:13:34 EST</pubDate>
+			<guid isPermaLink="false">https://www.sciencedaily.com/releases/2016/03/160301211334.htm</guid>
+		<feedburner:origLink>https://www.sciencedaily.com/releases/2016/03/160301211334.htm</feedburner:origLink></item>
+		<item>
+			<title>'Water Battery': Charging water by means of a mini water bridge</title>
+			<link>http://feeds.sciencedaily.com/~r/sciencedaily/strange_offbeat/~3/Web2vJxqKZc/160301103220.htm</link>
+			<description>Researchers have managed to produce electrically charged water by means of a floating water bridge. <!-- more --></description>
+			<media:thumbnail url="https://images.sciencedaily.com/2016/03/160301103220.jpg" height="150" width="300" />
+			<pubDate>Tue, 01 Mar 2016 10:32:20 EST</pubDate>
+			<guid isPermaLink="false">https://www.sciencedaily.com/releases/2016/03/160301103220.htm</guid>
+		<feedburner:origLink>https://www.sciencedaily.com/releases/2016/03/160301103220.htm</feedburner:origLink></item>
+		<item>
+			<title>What if extraterrestrial observers called, but nobody heard?</title>
+			<link>http://feeds.sciencedaily.com/~r/sciencedaily/strange_offbeat/~3/XUCEiWS8_i8/160301074243.htm</link>
+			<description>Researchers say the best chance for finding a signal from beyond Earth is to presume extraterrestrial observers are using the same methods to search for us that we are using to search for life beyond Earth. <!-- more --></description>
+			<media:thumbnail url="https://images.sciencedaily.com/2016/03/160301074243.jpg" height="211" width="300" />
+			<pubDate>Tue, 01 Mar 2016 07:42:43 EST</pubDate>
+			<guid isPermaLink="false">https://www.sciencedaily.com/releases/2016/03/160301074243.htm</guid>
+		<feedburner:origLink>https://www.sciencedaily.com/releases/2016/03/160301074243.htm</feedburner:origLink></item>
+		<item>
+			<title>Engineered swarmbots rely on peers for survival</title>
+			<link>http://feeds.sciencedaily.com/~r/sciencedaily/strange_offbeat/~3/HR_lwzy2lTM/160229152922.htm</link>
+			<description>Researchers have engineered microbes that can't run away from home. Any refugees that do quickly die without protective proteins produced by their peers. Dubbed 'swarmbots' for their ability to survive in a crowd, the system could be used as a safeguard to stop genetically modified organisms from escaping into the surrounding environment. It could also reliably program colonies of bacteria to respond to changes in their surrounding environment. <!-- more --></description>
+			<media:thumbnail url="https://images.sciencedaily.com/2016/02/160229152922.jpg" height="167" width="300" />
+			<pubDate>Mon, 29 Feb 2016 15:29:22 EST</pubDate>
+			<guid isPermaLink="false">https://www.sciencedaily.com/releases/2016/02/160229152922.htm</guid>
+		<feedburner:origLink>https://www.sciencedaily.com/releases/2016/02/160229152922.htm</feedburner:origLink></item>
+		<item>
+			<title>Mutated gene associated with colon cancer discovered in 18th-century Hungarian mummy</title>
+			<link>http://feeds.sciencedaily.com/~r/sciencedaily/strange_offbeat/~3/LCgym8-uJ94/160229140123.htm</link>
+			<description>A new discovery suggests that a genetic predisposition to cancer preceded the advent of modernization -- and, in a bizarre twist, they discovered this evidence in an 18th-century Hungarian mummy. <!-- more --></description>
+			<media:thumbnail url="https://images.sciencedaily.com/2016/02/160229140123.jpg" height="400" width="300" />
+			<pubDate>Mon, 29 Feb 2016 14:01:23 EST</pubDate>
+			<guid isPermaLink="false">https://www.sciencedaily.com/releases/2016/02/160229140123.htm</guid>
+		<feedburner:origLink>https://www.sciencedaily.com/releases/2016/02/160229140123.htm</feedburner:origLink></item>
+		<item>
+			<title>Plankton feces could move plastic pollution to the ocean depths</title>
+			<link>http://feeds.sciencedaily.com/~r/sciencedaily/strange_offbeat/~3/6gVLHIVgLxo/160229135927.htm</link>
+			<description>Plastic waste could find its way deep into the ocean through the feces of plankton, new research shows. <!-- more --></description>
+			<pubDate>Mon, 29 Feb 2016 13:59:27 EST</pubDate>
+			<guid isPermaLink="false">https://www.sciencedaily.com/releases/2016/02/160229135927.htm</guid>
+		<feedburner:origLink>https://www.sciencedaily.com/releases/2016/02/160229135927.htm</feedburner:origLink></item>
+		<item>
+			<title>Undergraduate student takes to Twitter to expose illegal release of alien fish in Japan</title>
+			<link>http://feeds.sciencedaily.com/~r/sciencedaily/strange_offbeat/~3/fZfsmI8RHQw/160229111750.htm</link>
+			<description>Posing a significant threat to the native biodiversity in Japan, specifically that of threatened aquatic insects, some alien fishes, such as the bluegill, have become the reason for strict prohibitions. However, recently, 10 years after the law against their release into the wild has been adopted, its first infringement is reported by Japanese researchers. Curiously, the case was initially exposed on Twitter by an undergraduate student. <!-- more --></description>
+			<media:thumbnail url="https://images.sciencedaily.com/2016/02/160229111750.jpg" height="229" width="300" />
+			<pubDate>Mon, 29 Feb 2016 11:17:50 EST</pubDate>
+			<guid isPermaLink="false">https://www.sciencedaily.com/releases/2016/02/160229111750.htm</guid>
+		<feedburner:origLink>https://www.sciencedaily.com/releases/2016/02/160229111750.htm</feedburner:origLink></item>
+		<item>
+			<title>Fossil find reveals just how big carnivorous dinosaur may have grown</title>
+			<link>http://feeds.sciencedaily.com/~r/sciencedaily/strange_offbeat/~3/xeOU4QkhGPs/160229082244.htm</link>
+			<description>An unidentified fossilised bone in a museum has revealed the size of a fearsome abelisaur and may have solved a hundred-year old puzzle. <!-- more --></description>
+			<media:thumbnail url="https://images.sciencedaily.com/2016/02/160229082244.jpg" height="108" width="300" />
+			<pubDate>Mon, 29 Feb 2016 08:22:44 EST</pubDate>
+			<guid isPermaLink="false">https://www.sciencedaily.com/releases/2016/02/160229082244.htm</guid>
+		<feedburner:origLink>https://www.sciencedaily.com/releases/2016/02/160229082244.htm</feedburner:origLink></item>
+		<item>
+			<title>Building living, breathing supercomputers</title>
+			<link>http://feeds.sciencedaily.com/~r/sciencedaily/strange_offbeat/~3/m3m78dzUfSo/160226133606.htm</link>
+			<description>The substance that provides energy to all the cells in our bodies, Adenosine triphosphate (ATP), may also be able to power the next generation of supercomputers. The discovery opens doors to the creation of biological supercomputers that are about the size of a book. <!-- more --></description>
+			<media:thumbnail url="https://images.sciencedaily.com/2016/02/160226133606.jpg" height="169" width="300" />
+			<pubDate>Fri, 26 Feb 2016 13:36:06 EST</pubDate>
+			<guid isPermaLink="false">https://www.sciencedaily.com/releases/2016/02/160226133606.htm</guid>
+		<feedburner:origLink>https://www.sciencedaily.com/releases/2016/02/160226133606.htm</feedburner:origLink></item>
+		<item>
+			<title>Solar cells as light as a soap bubble</title>
+			<link>http://feeds.sciencedaily.com/~r/sciencedaily/strange_offbeat/~3/92KuYEFE7sg/160226133603.htm</link>
+			<description>Imagine solar cells so thin, flexible, and lightweight that they could be placed on almost any material or surface, including your hat, shirt, or smartphone, or even on a sheet of paper or a helium balloon. Researchers have now demonstrated just such a technology: the thinnest, lightest solar cells ever produced. <!-- more --></description>
+			<media:thumbnail url="https://images.sciencedaily.com/2016/02/160226133603.jpg" height="200" width="300" />
+			<pubDate>Fri, 26 Feb 2016 13:36:03 EST</pubDate>
+			<guid isPermaLink="false">https://www.sciencedaily.com/releases/2016/02/160226133603.htm</guid>
+		<feedburner:origLink>https://www.sciencedaily.com/releases/2016/02/160226133603.htm</feedburner:origLink></item>
+		<item>
+			<title>Smart glasses offer users a keyboard to type text</title>
+			<link>http://feeds.sciencedaily.com/~r/sciencedaily/strange_offbeat/~3/2LUYPKBBZtg/160226125315.htm</link>
+			<description>K-Glass, smart glasses reinforced with augmented reality that were first developed by the Korea Advanced Institute of Science and Technology (KAIST) in 2014, with the second version released in 2015, is back with an even stronger model. The latest version, called K-Glass 3, allows users to text a message or type in key words for Internet surfing by offering a virtual keyboard for text and even one for a piano. <!-- more --></description>
+			<media:thumbnail url="https://images.sciencedaily.com/2016/02/160226125315.jpg" height="277" width="300" />
+			<pubDate>Fri, 26 Feb 2016 12:53:15 EST</pubDate>
+			<guid isPermaLink="false">https://www.sciencedaily.com/releases/2016/02/160226125315.htm</guid>
+		<feedburner:origLink>https://www.sciencedaily.com/releases/2016/02/160226125315.htm</feedburner:origLink></item>
+		<item>
+			<title>Research team sheds light on 'rightie' or 'leftie' behavior in a scale-eating cichlid</title>
+			<link>http://feeds.sciencedaily.com/~r/sciencedaily/strange_offbeat/~3/hdUaHj8hIlc/160226081157.htm</link>
+			<description>Behavioral laterality, or left- or right-handedness, has been reported in many animals, including humans, chimpanzees, toads, rats, mice, and invertebrates such as crustaceans and insects. Now researchers have shed light on the development of behavioral laterality (left-/right-handedness) in a scale-eating cichlid from Africa's Lake Tanganyika. <!-- more --></description>
+			<media:thumbnail url="https://images.sciencedaily.com/2016/02/160226081157.jpg" height="175" width="300" />
+			<pubDate>Fri, 26 Feb 2016 08:11:57 EST</pubDate>
+			<guid isPermaLink="false">https://www.sciencedaily.com/releases/2016/02/160226081157.htm</guid>
+		<feedburner:origLink>https://www.sciencedaily.com/releases/2016/02/160226081157.htm</feedburner:origLink></item>
+		<item>
+			<title>Bacteria take 'RNA mug shots' of threatening viruses</title>
+			<link>http://feeds.sciencedaily.com/~r/sciencedaily/strange_offbeat/~3/pQnbQEchbQk/160225153423.htm</link>
+			<description>Scientists have discovered that bacteria have a system that can recognize and disrupt dangerous viruses using a newly identified mechanism involving RNA. It is similar to the CRISPR/Cas system that captures foreign DNA. The discovery might lead to better ways to thwart viruses that kill agricultural crops and interfere with the production of dairy products such as cheese and yogurt. <!-- more --></description>
+			<media:thumbnail url="https://images.sciencedaily.com/2016/02/160225153423.jpg" height="180" width="300" />
+			<pubDate>Thu, 25 Feb 2016 15:34:23 EST</pubDate>
+			<guid isPermaLink="false">https://www.sciencedaily.com/releases/2016/02/160225153423.htm</guid>
+		<feedburner:origLink>https://www.sciencedaily.com/releases/2016/02/160225153423.htm</feedburner:origLink></item>
+		<item>
+			<title>How brain oscillations might respond to teleportation</title>
+			<link>http://feeds.sciencedaily.com/~r/sciencedaily/strange_offbeat/~3/i--vpJuPA_Q/160225135704.htm</link>
+			<description>Technology may not have caught up to the teleportation devices of science fiction, but now we have some idea of how the brain handles 'beaming up' from one location to another, thanks to research by neuroscientists involving some specially wired volunteers. <!-- more --></description>
+			<media:thumbnail url="https://images.sciencedaily.com/2016/02/160225135704.jpg" height="227" width="300" />
+			<pubDate>Thu, 25 Feb 2016 13:57:04 EST</pubDate>
+			<guid isPermaLink="false">https://www.sciencedaily.com/releases/2016/02/160225135704.htm</guid>
+		<feedburner:origLink>https://www.sciencedaily.com/releases/2016/02/160225135704.htm</feedburner:origLink></item>
+		<item>
+			<title>Tetraquarks: New four-flavor particle discovered</title>
+			<link>http://feeds.sciencedaily.com/~r/sciencedaily/strange_offbeat/~3/kNXcvNPtOww/160225090117.htm</link>
+			<description>Scientists have discovered a new particle -- the latest member to be added to the exotic species of particle known as tetraquarks. Quarks are point-like particles that typically come in packages of two or three, the most familiar of which are the proton and neutron (each is made of three quarks). There are six types, or "flavors," of quark to choose from: up, down, strange, charm, bottom and top. Each of these also has an antimatter counterpart. <!-- more --></description>
+			<media:thumbnail url="https://images.sciencedaily.com/2016/02/160225090117.jpg" height="169" width="300" />
+			<pubDate>Thu, 25 Feb 2016 09:01:17 EST</pubDate>
+			<guid isPermaLink="false">https://www.sciencedaily.com/releases/2016/02/160225090117.htm</guid>
+		<feedburner:origLink>https://www.sciencedaily.com/releases/2016/02/160225090117.htm</feedburner:origLink></item>
+		<item>
+			<title>Black holes banish matter into cosmic voids</title>
+			<link>http://feeds.sciencedaily.com/~r/sciencedaily/strange_offbeat/~3/kVCWoX5Mp3M/160224223143.htm</link>
+			<description>We live in a universe dominated by unseen matter, and on the largest scales, galaxies and everything they contain are concentrated into filaments that stretch around the edge of enormous voids. Thought to be almost empty until now, a group of astronomers now believe these dark holes could contain as much as 20% of the 'normal' matter in the cosmos and that galaxies make up only 1/500th of the volume of the universe. <!-- more --></description>
+			<media:thumbnail url="https://images.sciencedaily.com/2016/02/160224223143.jpg" height="300" width="300" />
+			<pubDate>Wed, 24 Feb 2016 22:31:43 EST</pubDate>
+			<guid isPermaLink="false">https://www.sciencedaily.com/releases/2016/02/160224223143.htm</guid>
+		<feedburner:origLink>https://www.sciencedaily.com/releases/2016/02/160224223143.htm</feedburner:origLink></item>
+		<item>
+			<title>Adult male gorillas call more during feeding than females, juveniles</title>
+			<link>http://feeds.sciencedaily.com/~r/sciencedaily/strange_offbeat/~3/82IpKxDkcY8/160224145549.htm</link>
+			<description>Gorillas in the wild frequently 'sing' and 'hum' during feeding and adult males call more than their younger or female counterparts, according to a new study. <!-- more --></description>
+			<media:thumbnail url="https://images.sciencedaily.com/2016/02/160224145549.jpg" height="201" width="300" />
+			<pubDate>Wed, 24 Feb 2016 14:55:49 EST</pubDate>
+			<guid isPermaLink="false">https://www.sciencedaily.com/releases/2016/02/160224145549.htm</guid>
+		<feedburner:origLink>https://www.sciencedaily.com/releases/2016/02/160224145549.htm</feedburner:origLink></item>
+		<item>
+			<title>Conservatives prefer using nouns, new research finds</title>
+			<link>http://feeds.sciencedaily.com/~r/sciencedaily/strange_offbeat/~3/aWcWKBgxpO0/160224133417.htm</link>
+			<description>Conservatives prefer using nouns, new transatlantic research suggests. The research also established that conservatives generally, to a greater degree than liberals, tend to refer to things by their names, rather than describing them in terms of their features. An example would be saying someone 'is an optimist', rather than 'is optimistic'. <!-- more --></description>
+			<pubDate>Wed, 24 Feb 2016 13:34:17 EST</pubDate>
+			<guid isPermaLink="false">https://www.sciencedaily.com/releases/2016/02/160224133417.htm</guid>
+		<feedburner:origLink>https://www.sciencedaily.com/releases/2016/02/160224133417.htm</feedburner:origLink></item>
+		<item>
+			<title>Computers can tell if you're bored, shows new study</title>
+			<link>http://feeds.sciencedaily.com/~r/sciencedaily/strange_offbeat/~3/GygT4GjlMVU/160224133411.htm</link>
+			<description>Computers are able to read a person's body language to tell whether they are bored or interested in what they see on the screen. The research shows that by measuring a person's movements as they use a computer, it is possible to judge their level of interest by monitoring whether they display the tiny movements that people usually constantly exhibit, known as non-instrumental movements. <!-- more --></description>
+			<media:thumbnail url="https://images.sciencedaily.com/2016/02/160224133411.jpg" height="203" width="300" />
+			<pubDate>Wed, 24 Feb 2016 13:34:11 EST</pubDate>
+			<guid isPermaLink="false">https://www.sciencedaily.com/releases/2016/02/160224133411.htm</guid>
+		<feedburner:origLink>https://www.sciencedaily.com/releases/2016/02/160224133411.htm</feedburner:origLink></item>
+		<item>
+			<title>First images of the nanolayer beneath a dancing Leidenfrost droplet</title>
+			<link>http://feeds.sciencedaily.com/~r/sciencedaily/strange_offbeat/~3/gCDwM0uDQzE/160224070651.htm</link>
+			<description>Water droplets on a very hot plate don't evaporate but levitate and move around: this is known as the Leidenfrost effect and it always guarantees beautiful images. For the first time, researchers have made images of the tiny layer beneath the droplet, when it impacts on the surface. Thanks to this images, a more detailed explanation of the phenomenon is possible. <!-- more --></description>
+			<media:thumbnail url="https://images.sciencedaily.com/2016/02/160224070651.jpg" height="305" width="300" />
+			<pubDate>Wed, 24 Feb 2016 07:06:51 EST</pubDate>
+			<guid isPermaLink="false">https://www.sciencedaily.com/releases/2016/02/160224070651.htm</guid>
+		<feedburner:origLink>https://www.sciencedaily.com/releases/2016/02/160224070651.htm</feedburner:origLink></item>
+		<item>
+			<title>Quantum physicists turn to the dark state</title>
+			<link>http://feeds.sciencedaily.com/~r/sciencedaily/strange_offbeat/~3/-NVV2w48yhc/160224070647.htm</link>
+			<description>A team of quantum physicists managed to tame a so-called "dark state", created in a superconducting qubit. A superconducting qubit is an artificial atom fabricated on a silicon chip as an electrical circuit made of capacitors and tunnel junctions. <!-- more --></description>
+			<media:thumbnail url="https://images.sciencedaily.com/2016/02/160224070647.jpg" height="169" width="300" />
+			<pubDate>Wed, 24 Feb 2016 07:06:47 EST</pubDate>
+			<guid isPermaLink="false">https://www.sciencedaily.com/releases/2016/02/160224070647.htm</guid>
+		<feedburner:origLink>https://www.sciencedaily.com/releases/2016/02/160224070647.htm</feedburner:origLink></item>
+		<item>
+			<title>Good enough to photograph, then eat</title>
+			<link>http://feeds.sciencedaily.com/~r/sciencedaily/strange_offbeat/~3/etpajpNJXXg/160223175731.htm</link>
+			<description>Food-related hashtags on social media have millions of posts: but what happens after we snap a food selfie? Intrigued by this new social norm and its impact, researchers studied the impact of consumer-generated images of food on satisfaction. <!-- more --></description>
+			<pubDate>Tue, 23 Feb 2016 17:57:31 EST</pubDate>
+			<guid isPermaLink="false">https://www.sciencedaily.com/releases/2016/02/160223175731.htm</guid>
+		<feedburner:origLink>https://www.sciencedaily.com/releases/2016/02/160223175731.htm</feedburner:origLink></item>
+		<item>
+			<title>New research introduces 'pause button' for boiling</title>
+			<link>http://feeds.sciencedaily.com/~r/sciencedaily/strange_offbeat/~3/eWAa6PQHh-0/160223175559.htm</link>
+			<description>Using a focused laser beam to essentially hit the pause button on boiling, scientists have created a single vapor bubble in a pool of liquid that can remain stable on a heated surface for hours, instead of milliseconds. This method gives researchers time to study vapor bubbles and determine ways to optimize the boiling process. <!-- more --></description>
+			<media:thumbnail url="https://images.sciencedaily.com/2016/02/160223175559.jpg" height="207" width="300" />
+			<pubDate>Tue, 23 Feb 2016 17:55:59 EST</pubDate>
+			<guid isPermaLink="false">https://www.sciencedaily.com/releases/2016/02/160223175559.htm</guid>
+		<feedburner:origLink>https://www.sciencedaily.com/releases/2016/02/160223175559.htm</feedburner:origLink></item>
+		<item>
+			<title>Tracking worm sex drive, neuron by neuron</title>
+			<link>http://feeds.sciencedaily.com/~r/sciencedaily/strange_offbeat/~3/8CWBiwJPjTE/160223171438.htm</link>
+			<description>Where and when a male worm will pursue a mate is determined by four male-specific sensory neurons that communicate with synaptic feedback loops to form a decision-making network, report scientists. <!-- more --></description>
+			<media:thumbnail url="https://images.sciencedaily.com/2016/02/160223171438.jpg" height="200" width="300" />
+			<pubDate>Tue, 23 Feb 2016 17:14:38 EST</pubDate>
+			<guid isPermaLink="false">https://www.sciencedaily.com/releases/2016/02/160223171438.htm</guid>
+		<feedburner:origLink>https://www.sciencedaily.com/releases/2016/02/160223171438.htm</feedburner:origLink></item>
+		<item>
+			<title>Dodos might have been quite intelligent, new research finds</title>
+			<link>http://feeds.sciencedaily.com/~r/sciencedaily/strange_offbeat/~3/PxJXPG841w4/160223143148.htm</link>
+			<description>New research suggests that the dodo, an extinct bird whose name has entered popular culture as a symbol of stupidity, was actually fairly smart. The work finds that the overall size of the dodo's brain in relation to its body was on par with its closest living relatives: pigeons -- birds whose ability to be trained implies a moderate level of intelligence. The researchers also discovered that the dodo likely had an enhanced sense of smell. <!-- more --></description>
+			<media:thumbnail url="https://images.sciencedaily.com/2016/02/160223143148.jpg" height="377" width="300" />
+			<pubDate>Tue, 23 Feb 2016 14:31:48 EST</pubDate>
+			<guid isPermaLink="false">https://www.sciencedaily.com/releases/2016/02/160223143148.htm</guid>
+		<feedburner:origLink>https://www.sciencedaily.com/releases/2016/02/160223143148.htm</feedburner:origLink></item>
+		<item>
+			<title>Scientists unlock key to turning wastewater and sewage into power</title>
+			<link>http://feeds.sciencedaily.com/~r/sciencedaily/strange_offbeat/~3/J1MO_mVeAy4/160223074249.htm</link>
+			<description>A new article speaks to a growing sustainability movement to capture energy from existing waste to make treatment facilities more energy-efficient. <!-- more --></description>
+			<media:thumbnail url="https://images.sciencedaily.com/2016/02/160223074249.jpg" height="161" width="300" />
+			<pubDate>Tue, 23 Feb 2016 07:42:49 EST</pubDate>
+			<guid isPermaLink="false">https://www.sciencedaily.com/releases/2016/02/160223074249.htm</guid>
+		<feedburner:origLink>https://www.sciencedaily.com/releases/2016/02/160223074249.htm</feedburner:origLink></item>
+		<item>
+			<title>Bat 'super immunity' could help protect people</title>
+			<link>http://feeds.sciencedaily.com/~r/sciencedaily/strange_offbeat/~3/Gdvp3h6-mYA/160222155631.htm</link>
+			<description>For the first time, researchers have uncovered a unique ability in bats which allows them to carry but remain unaffected by lethal diseases. <!-- more --></description>
+			<media:thumbnail url="https://images.sciencedaily.com/2016/02/160222155631.jpg" height="450" width="300" />
+			<pubDate>Mon, 22 Feb 2016 15:56:31 EST</pubDate>
+			<guid isPermaLink="false">https://www.sciencedaily.com/releases/2016/02/160222155631.htm</guid>
+		<feedburner:origLink>https://www.sciencedaily.com/releases/2016/02/160222155631.htm</feedburner:origLink></item>
+		<item>
+			<title>Fish of dinosaur era with unique 'hook-shaped sail' on its back</title>
+			<link>http://feeds.sciencedaily.com/~r/sciencedaily/strange_offbeat/~3/Glw9uTf1_yY/160222151640.htm</link>
+			<description>A 90-million-year-old fossil fish, currently on display at the Perot Museum of Nature and Science in Dallas, turns out to be a new species. Research reveals the 5.5-foot-long fossil fish to possess a tuna-like body with a unique 'hook-shaped sail' on its back. The fish's new species name, Pentanogmius fritschi, is in honor of local amateur collector Joseph Fritsch. <!-- more --></description>
+			<media:thumbnail url="https://images.sciencedaily.com/2016/02/160222151640.jpg" height="113" width="300" />
+			<pubDate>Mon, 22 Feb 2016 15:16:40 EST</pubDate>
+			<guid isPermaLink="false">https://www.sciencedaily.com/releases/2016/02/160222151640.htm</guid>
+		<feedburner:origLink>https://www.sciencedaily.com/releases/2016/02/160222151640.htm</feedburner:origLink></item>
+		<item>
+			<title>Throwaway culture can include friendships, researcher says</title>
+			<link>http://feeds.sciencedaily.com/~r/sciencedaily/strange_offbeat/~3/-YNsMWQ-PwI/160222144332.htm</link>
+			<description>Are your BFFs as disposable as your razors? According to a new study, the mindset that objects are disposable extends to social ties. <!-- more --></description>
+			<pubDate>Mon, 22 Feb 2016 14:43:32 EST</pubDate>
+			<guid isPermaLink="false">https://www.sciencedaily.com/releases/2016/02/160222144332.htm</guid>
+		<feedburner:origLink>https://www.sciencedaily.com/releases/2016/02/160222144332.htm</feedburner:origLink></item>
+		<item>
+			<title>Taste sensors in fly legs control feeding</title>
+			<link>http://feeds.sciencedaily.com/~r/sciencedaily/strange_offbeat/~3/RLPR1DDnIkI/160222090841.htm</link>
+			<description>Feeding is essential for survival. Senses such as smell or sight can help guide us to good food sources, but the final decision to eat or reject a potential food is controlled by taste. Scientists have examined the anatomy of the taste-sensing neurons to reveal their role in the stages of feeding. <!-- more --></description>
+			<media:thumbnail url="https://images.sciencedaily.com/2016/02/160222090841.jpg" height="210" width="300" />
+			<pubDate>Mon, 22 Feb 2016 09:08:41 EST</pubDate>
+			<guid isPermaLink="false">https://www.sciencedaily.com/releases/2016/02/160222090841.htm</guid>
+		<feedburner:origLink>https://www.sciencedaily.com/releases/2016/02/160222090841.htm</feedburner:origLink></item>
+		<item>
+			<title>Researchers demonstrate 'quantum surrealism'</title>
+			<link>http://feeds.sciencedaily.com/~r/sciencedaily/strange_offbeat/~3/czgqmvP5woU/160219185206.htm</link>
+			<description>New research demonstrates that particles at the quantum level can in fact be seen as behaving something like billiard balls rolling along a table, and not merely as the probabilistic smears that the standard interpretation of quantum mechanics suggests. <!-- more --></description>
+			<media:thumbnail url="https://images.sciencedaily.com/2016/02/160219185206.jpg" height="115" width="300" />
+			<pubDate>Fri, 19 Feb 2016 18:52:06 EST</pubDate>
+			<guid isPermaLink="false">https://www.sciencedaily.com/releases/2016/02/160219185206.htm</guid>
+		<feedburner:origLink>https://www.sciencedaily.com/releases/2016/02/160219185206.htm</feedburner:origLink></item>
+		<item>
+			<title>Ancient lone star lizard lounged in lush, tropical Texas</title>
+			<link>http://feeds.sciencedaily.com/~r/sciencedaily/strange_offbeat/~3/D-o3HmrUT0A/160219141409.htm</link>
+			<description>Researchers have discovered a new species of extinct worm lizard in Texas and dubbed it the 'Lone Star' lizard. The species -- the first known example of a worm lizard in Texas -- offers evidence that Texas acted as a subtropical refuge during one of the great cooling periods of the past. <!-- more --></description>
+			<media:thumbnail url="https://images.sciencedaily.com/2016/02/160219141409.jpg" height="225" width="300" />
+			<pubDate>Fri, 19 Feb 2016 14:14:09 EST</pubDate>
+			<guid isPermaLink="false">https://www.sciencedaily.com/releases/2016/02/160219141409.htm</guid>
+		<feedburner:origLink>https://www.sciencedaily.com/releases/2016/02/160219141409.htm</feedburner:origLink></item>
+		<item>
+			<title>'Ice age blob' of warm ocean water discovered south of Greenland</title>
+			<link>http://feeds.sciencedaily.com/~r/sciencedaily/strange_offbeat/~3/44R-T3SkOGo/160219134816.htm</link>
+			<description>Greenland experienced several abrupt and brutal climate changes during the last ice age. But even during the coldest periods a blob of warm surface water existed nearby. <!-- more --></description>
+			<media:thumbnail url="https://images.sciencedaily.com/2016/02/160219134816.jpg" height="388" width="300" />
+			<pubDate>Fri, 19 Feb 2016 13:48:16 EST</pubDate>
+			<guid isPermaLink="false">https://www.sciencedaily.com/releases/2016/02/160219134816.htm</guid>
+		<feedburner:origLink>https://www.sciencedaily.com/releases/2016/02/160219134816.htm</feedburner:origLink></item>
+		<item>
+			<title>Plutoâs âHulk-likeâ moon Charon: A possible ancient ocean?</title>
+			<link>http://feeds.sciencedaily.com/~r/sciencedaily/strange_offbeat/~3/b1O0Hakx36E/160219095642.htm</link>
+			<description>Pluto's largest moon may have gotten too big for its own skin. Images from NASA's New Horizons mission suggest that Pluto's moon Charon once had a subsurface ocean that has long since frozen and expanded, pushing outward and causing the moon's surface to stretch and fracture on a massive scale. <!-- more --></description>
+			<media:thumbnail url="https://images.sciencedaily.com/2016/02/160219095642.jpg" height="163" width="300" />
+			<pubDate>Fri, 19 Feb 2016 09:56:42 EST</pubDate>
+			<guid isPermaLink="false">https://www.sciencedaily.com/releases/2016/02/160219095642.htm</guid>
+		<feedburner:origLink>https://www.sciencedaily.com/releases/2016/02/160219095642.htm</feedburner:origLink></item>
+		<item>
+			<title>Florida's monkey river</title>
+			<link>http://feeds.sciencedaily.com/~r/sciencedaily/strange_offbeat/~3/JCrXm2mcoGQ/160219092412.htm</link>
+			<description>A colony of feral rhesus macaques calls the banks of the Silver River in Silver Springs State Park in central Florida its home. The monkeys are part of a larger feral population living throughout the Cross Florida Greenway. Many locals enjoy having the monkeys in the park, but wildlife officials are concerned about overpopulation caused by human feeding, the nonnative animals' ecological impact and the potential for interspecies disease transmission. <!-- more --></description>
+			<pubDate>Fri, 19 Feb 2016 09:24:12 EST</pubDate>
+			<guid isPermaLink="false">https://www.sciencedaily.com/releases/2016/02/160219092412.htm</guid>
+		<feedburner:origLink>https://www.sciencedaily.com/releases/2016/02/160219092412.htm</feedburner:origLink></item>
+		<item>
+			<title>The 'ugliest fossil reptiles' who roamed China</title>
+			<link>http://feeds.sciencedaily.com/~r/sciencedaily/strange_offbeat/~3/UfD12emiCYs/160219092206.htm</link>
+			<description>Long before the dinosaurs, hefty herbivores called pareiasaurs ruled Earth. Now, for the first time, a detailed investigation of all Chinese specimens of these creatures -- often described as the 'ugliest fossil reptiles' -- has been published by a palaeontologist. <!-- more --></description>
+			<media:thumbnail url="https://images.sciencedaily.com/2016/02/160219092206.jpg" height="200" width="300" />
+			<pubDate>Fri, 19 Feb 2016 09:22:06 EST</pubDate>
+			<guid isPermaLink="false">https://www.sciencedaily.com/releases/2016/02/160219092206.htm</guid>
+		<feedburner:origLink>https://www.sciencedaily.com/releases/2016/02/160219092206.htm</feedburner:origLink></item>
+		<item>
+			<title>Smart skin made of recyclable materials may transform medicine and robotics</title>
+			<link>http://feeds.sciencedaily.com/~r/sciencedaily/strange_offbeat/~3/gOh8lIm3xxc/160219092156.htm</link>
+			<description>Smart skin that can respond to external stimuli could have important applications in medicine and robotics. <!-- more --></description>
+			<pubDate>Fri, 19 Feb 2016 09:21:56 EST</pubDate>
+			<guid isPermaLink="false">https://www.sciencedaily.com/releases/2016/02/160219092156.htm</guid>
+		<feedburner:origLink>https://www.sciencedaily.com/releases/2016/02/160219092156.htm</feedburner:origLink></item>
+		<item>
+			<title>Dangerous fishing may be endangered</title>
+			<link>http://feeds.sciencedaily.com/~r/sciencedaily/strange_offbeat/~3/Bz2xn88USpA/160218144948.htm</link>
+			<description>Catch shares, a form of 'rights-based' fisheries management adopted for several fisheries in the Pacific Northwest, may put an end to the kind of daring exploits chronicled in the Deadliest Catch. <!-- more --></description>
+			<media:thumbnail url="https://images.sciencedaily.com/2016/02/160218144948.jpg" height="280" width="300" />
+			<pubDate>Thu, 18 Feb 2016 14:49:48 EST</pubDate>
+			<guid isPermaLink="false">https://www.sciencedaily.com/releases/2016/02/160218144948.htm</guid>
+		<feedburner:origLink>https://www.sciencedaily.com/releases/2016/02/160218144948.htm</feedburner:origLink></item>
+		<item>
+			<title>Five-dimensional black hole could 'break' general relativity</title>
+			<link>http://feeds.sciencedaily.com/~r/sciencedaily/strange_offbeat/~3/geqMZ-Cevmc/160218144910.htm</link>
+			<description>Researchers have successfully simulated how a ring-shaped black hole could cause general relativity to break down: assuming the universe contains at least five dimensions, that is. <!-- more --></description>
+			<media:thumbnail url="https://images.sciencedaily.com/2016/02/160218144910.jpg" height="184" width="300" />
+			<pubDate>Thu, 18 Feb 2016 14:49:10 EST</pubDate>
+			<guid isPermaLink="false">https://www.sciencedaily.com/releases/2016/02/160218144910.htm</guid>
+		<feedburner:origLink>https://www.sciencedaily.com/releases/2016/02/160218144910.htm</feedburner:origLink></item>
+		<item>
+			<title>It's easy to get people to do bad things, and this might be why</title>
+			<link>http://feeds.sciencedaily.com/~r/sciencedaily/strange_offbeat/~3/XNj2BiHGZ5g/160218132234.htm</link>
+			<description>People will apparently inflict pain on another person simply because someone in a position of authority told them to, research shows. Now, investigators have taken those classic experiments one step further, providing new evidence that might help to explain why people are so easily coerced. <!-- more --></description>
+			<pubDate>Thu, 18 Feb 2016 13:22:34 EST</pubDate>
+			<guid isPermaLink="false">https://www.sciencedaily.com/releases/2016/02/160218132234.htm</guid>
+		<feedburner:origLink>https://www.sciencedaily.com/releases/2016/02/160218132234.htm</feedburner:origLink></item>
+		<item>
+			<title>Longest-lasting stellar eclipse: Three-and-a-half year eclipses in binary system</title>
+			<link>http://feeds.sciencedaily.com/~r/sciencedaily/strange_offbeat/~3/njgZShchzfE/160218102555.htm</link>
+			<description>Astronomers have discovered an unnamed pair of stars that sets a new record for both the longest duration stellar eclipse (3.5 years) and longest period between eclipses (69 years) in a binary system. <!-- more --></description>
+			<media:thumbnail url="https://images.sciencedaily.com/2016/02/160218102555.jpg" height="225" width="300" />
+			<pubDate>Thu, 18 Feb 2016 10:25:55 EST</pubDate>
+			<guid isPermaLink="false">https://www.sciencedaily.com/releases/2016/02/160218102555.htm</guid>
+		<feedburner:origLink>https://www.sciencedaily.com/releases/2016/02/160218102555.htm</feedburner:origLink></item>
+		<item>
+			<title>Bat-flight inspires unique design for micro air vehicles</title>
+			<link>http://feeds.sciencedaily.com/~r/sciencedaily/strange_offbeat/~3/sEPL9sSpMao/160218062248.htm</link>
+			<description>Researchers have designed innovative membrane wings inspired by bats, paving the way for a new breed of unmanned Micro Air Vehicles (MAVs) that have improved aerodynamic properties, can fly over long distances and are more economical to run. <!-- more --></description>
+			<media:thumbnail url="https://images.sciencedaily.com/2016/02/160218062248.jpg" height="300" width="300" />
+			<pubDate>Thu, 18 Feb 2016 06:22:48 EST</pubDate>
+			<guid isPermaLink="false">https://www.sciencedaily.com/releases/2016/02/160218062248.htm</guid>
+		<feedburner:origLink>https://www.sciencedaily.com/releases/2016/02/160218062248.htm</feedburner:origLink></item>
+		<item>
+			<title>A deeper take on our sexual nature</title>
+			<link>http://feeds.sciencedaily.com/~r/sciencedaily/strange_offbeat/~3/Qq1MGMMryJ4/160217140624.htm</link>
+			<description>The organs in our body may have a sexual identity of their own, new research suggests. <!-- more --></description>
+			<media:thumbnail url="https://images.sciencedaily.com/2016/02/160217140624.jpg" height="315" width="300" />
+			<pubDate>Wed, 17 Feb 2016 14:06:24 EST</pubDate>
+			<guid isPermaLink="false">https://www.sciencedaily.com/releases/2016/02/160217140624.htm</guid>
+		<feedburner:origLink>https://www.sciencedaily.com/releases/2016/02/160217140624.htm</feedburner:origLink></item>
+		<item>
+			<title>Puzzling asteroid observations explained by destruction of asteroids close to Sun</title>
+			<link>http://feeds.sciencedaily.com/~r/sciencedaily/strange_offbeat/~3/ShppScbv-6w/160217140311.htm</link>
+			<description>For two decades it was thought that most near-Earth objects (NEOs) -- asteroids and comets that may pose a hazard to life on Earth -- end their existence in a dramatic final plunge into the Sun. A new study finds instead that most of those objects are destroyed much farther from the Sun than previously thought. This surprising new discovery explains several puzzling observations that have been reported in recent years. <!-- more --></description>
+			<media:thumbnail url="https://images.sciencedaily.com/2016/02/160217140311.jpg" height="213" width="300" />
+			<pubDate>Wed, 17 Feb 2016 14:03:11 EST</pubDate>
+			<guid isPermaLink="false">https://www.sciencedaily.com/releases/2016/02/160217140311.htm</guid>
+		<feedburner:origLink>https://www.sciencedaily.com/releases/2016/02/160217140311.htm</feedburner:origLink></item>
+		<item>
+			<title>Socialization alters fruit fly sexuality</title>
+			<link>http://feeds.sciencedaily.com/~r/sciencedaily/strange_offbeat/~3/BukB5s6U0Ko/160217091406.htm</link>
+			<description>A genetic study on the courtship behavior of mutant fruit flies may illuminate human sexual orientation. <!-- more --></description>
+			<media:thumbnail url="https://images.sciencedaily.com/2016/02/160217091406.jpg" height="238" width="300" />
+			<pubDate>Wed, 17 Feb 2016 09:14:06 EST</pubDate>
+			<guid isPermaLink="false">https://www.sciencedaily.com/releases/2016/02/160217091406.htm</guid>
+		<feedburner:origLink>https://www.sciencedaily.com/releases/2016/02/160217091406.htm</feedburner:origLink></item>
+	</channel>
+</rss><!-- Page successfully written to cache. --><!-- Cached Mon, 07 Mar 2016 03:17:59 GMT --><!-- cached Sun, 06 Mar 2016 22:18:01 EST -->

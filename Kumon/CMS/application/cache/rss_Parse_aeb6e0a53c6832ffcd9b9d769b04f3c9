@@ -1,0 +1,610 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Aerospace Assembly</title>
+    <description>
+      <![CDATA[Articles about assembly technologies and trends in the aerospace industry.]]>
+    </description>
+    <link>http://www.assemblymag.com/rss</link>
+    <language>en-us</language>
+    <item>
+      <title>Clemson, Carnegie Mellon to Develop Next-Gen Manufacturing Robots</title>
+      <description>
+        <![CDATA[CLEMSON, SCâResearchers at Clemson University and Carnegie Mellon University are collaborating to develop next-generation robots for advanced manufacturing across the automotive, aerospace, electronics and textile industries. Clemson will also help train the workers who will operate the robots, as part of a $253 million plan to fill roughly 510,000 jobs in manufacturing by 2025.
+]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93695</guid>
+      <pubDate>Mon, 16 Jan 2017 00:00:00 -0500</pubDate>
+      <link>http://www.assemblymag.com/articles/93695-clemson-carnegie-mellon-to-develop-next-gen-manufacturing-robots</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/LatestHeadlines/headlines900/ABB-welding-robot-900.jpg?1436202959" type="image/jpeg" length="459817"/>
+    </item>
+    <item>
+      <title>New-Age Manufacturing Ideas Thrive at Ole Miss</title>
+      <author>webera@bnpmedia.com (Austin Weber)</author>
+      <description>
+        <![CDATA[<p>Mississippi has a robust manufacturing sector that includes world-class companies such as Airbus Helicopters, GE Aviation, Ingalls Shipbuilding, Nissan, Northrop Grumman, Toyota and Viking Range. It&rsquo;s also home to a world-class organization at the University of Mississippi.</p>
+]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93682</guid>
+      <pubDate>Fri, 06 Jan 2017 00:00:00 -0500</pubDate>
+      <link>http://www.assemblymag.com/articles/93682-new-age-manufacturing-ideas-thrive-at-ole-miss</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Default_Images/responsive/campus.jpg?1433258966" type="image/jpeg" length="54636"/>
+    </item>
+    <item>
+      <title>Electric Power Will Transform Aviation</title>
+      <author>webera@bnpmedia.com (Austin Weber)</author>
+      <description>
+        <![CDATA[<p>Whenever anyone mentions hybrid-electric vehicles today, most people automatically think of cars, buses and trucks. But, up in the sky, the technology is also getting a lot of attention from aerospace engineers. That&rsquo;s because electric systems are greener, lighter, quieter and more energy-efficient than traditional alternatives.</p>
+]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93676</guid>
+      <pubDate>Thu, 05 Jan 2017 01:00:00 -0500</pubDate>
+      <link>http://www.assemblymag.com/articles/93676-electric-power-will-transform-aviation</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Issues/2017/January/electric/asb0117aerospace1.jpg?1483631979" type="image/jpeg" length="75332"/>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2017/January/electric/asb0117aerospace1.jpg?1483631979" type="image/jpeg" fileSize="75332">
+        <media:title type="plain">1</media:title>
+        <media:description type="plain">Electric propulsion technology is one of the biggest trends in the aerospace industry today. Illustration courtesy NASA
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2017/January/electric/asb0117aerospace2.jpg?1483632061" type="image/jpeg" fileSize="57971">
+        <media:title type="plain">2</media:title>
+        <media:description type="plain">Vertical take-off and landing aircraft currently being developed, such as the Vahana, will operate with electric motors. Illustration courtesy Airbus A3
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2017/January/electric/asb0117aerospace3.jpg?1483632088" type="image/jpeg" fileSize="61065">
+        <media:title type="plain">3</media:title>
+        <media:description type="plain">The LightningStrike will use a distributed electric propulsion system to drive 24 ducted fans. Illustration courtesy Aurora Flight Sciences Corp.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2017/January/electric/asb0117aerospace4.jpg?1483632119" type="image/jpeg" fileSize="60396">
+        <media:title type="plain">4</media:title>
+        <media:description type="plain">The Starc-ABL will use an aft-fuselage mounted electric turbofan to improve fuel efficiency, noise and greenhouse gas emissions. Illustration courtesy NASA
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2017/January/electric/asb0117aerospace5.jpg?1483632159" type="image/jpeg" fileSize="86249">
+        <media:title type="plain">5</media:title>
+        <media:description type="plain">This new type of electric motor weighs just 50 kilograms, but delivers a continuous output of 260 kilowatts. Photo courtesy Siemens
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2017/January/electric/asb0117aerospace8.jpg?1483632234" type="image/jpeg" fileSize="26271">
+        <media:title type="plain">8</media:title>
+        <media:description type="plain">The E-Fan features twin electric ducted fans that ae mounted to the middle of the fuselage. Photo courtesy Airbus
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2017/January/electric/asb0117aerospace9.jpg?1483632264" type="image/jpeg" fileSize="87879">
+        <media:title type="plain">9</media:title>
+        <media:description type="plain">Engineers at NASA are developing an experimental plane that will use 14 electric motors to turn propellers that are integrated into the wing. Illustration courtesy NASA
+</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>Resistance Spot Riveting</title>
+      <author>sprovierij@bnpmedia.com (John Sprovieri)</author>
+      <description>
+        <![CDATA[<p>The need to reduce vehicle weight has spawned myriad new technologies for assembling aluminum, high-strength steel and other materials. These new technologies include self-piercing rivets, flow-drilling screws and friction-stir spot welding.</p>
+]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93677</guid>
+      <pubDate>Thu, 05 Jan 2017 00:00:00 -0500</pubDate>
+      <link>http://www.assemblymag.com/articles/93677-resistance-spot-riveting</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Issues/2017/January/rivets/asb0117riv2.jpg?1483641156" type="image/jpeg" length="39646"/>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2017/January/rivets/asb0117riv2.jpg?1483641156" type="image/jpeg" fileSize="39646">
+        <media:title type="plain">2</media:title>
+        <media:description type="plain">To create a joint, two or more sheets are placed between the electrodes of a standard spot welding system. The upper sheets have holes for the rivet. The bottom sheet does not. At the start of the cycle, a feeder delivers a rivet beneath the upper electrode. Next, the electrodes apply force and current to the rivet and bottom sheet, creating a weld. Photo courtesy Arconic Fastening Systems and Rings
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2017/January/rivets/asb0117riv1.jpg?1483641225" type="image/jpeg" fileSize="76591">
+        <media:title type="plain">1</media:title>
+        <media:description type="plain">The RSR rivet is a small, mushroom-shaped fastener made from low-carbon steel or aluminum. Photo courtesy Arconic Fastening Systems and Rings
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2017/January/rivets/asb0117riv3.jpg?1483641255" type="image/jpeg" fileSize="34063">
+        <media:title type="plain">3</media:title>
+        <media:description type="plain">The rivet head is designed to match the shape of existing electrodes and to center the fastener on the weld spot. Photo courtesy Arconic Fastening Systems and Rings
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2017/January/rivets/asb0117riv4.jpg?1483641304" type="image/jpeg" fileSize="37366">
+        <media:title type="plain">4</media:title>
+        <media:description type="plain">In RSR, the weld is between the fastener and the bottom sheet. The top sheets are not electrically involved. Rather, they are mechanically captured by the head of the fastener. Photo courtesy Arconic Fastening Systems and Rings
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2017/January/rivets/asb0117riv5.jpg?1483641338" type="image/jpeg" fileSize="51792">
+        <media:title type="plain">5</media:title>
+        <media:description type="plain">The RSR process exceeds the strength of competing technologies for current and future automotive materials, such as high-strength aluminum and ultra-high-strength steel. Photo courtesy Arconic Fastening Systems and Rings
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2017/January/rivets/asb0117riv6.jpg?1483641376" type="image/jpeg" fileSize="56228">
+        <media:title type="plain">6</media:title>
+        <media:description type="plain">The RSR process was developed as a way to join mixed-material assemblies in auto body applications, such as aluminum to steel. This graph shows the tensile strengths created when a steel rivet is used to attach various aluminum alloys to a steel sheet. Photo courtesy Arconic Fastening Systems and Rings
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2017/January/rivets/asb0117riv7.jpg?1483641410" type="image/jpeg" fileSize="52722">
+        <media:title type="plain">7</media:title>
+        <media:description type="plain">RSR works with existing spot welding equipment, enabling OEMs to weld or rivet joints without revamping their body lines. Photo courtesy Arconic Fastening Systems and Rings
+</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>Boeingâs Retiring Boomers Underscore US Manufacturing Plight</title>
+      <description>
+        <![CDATA[SEATTLEâAbout 35 percent of the 29,645 machinists in Boeingâs Seattle industrial hub are 55 or older.
+]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93665</guid>
+      <pubDate>Mon, 02 Jan 2017 00:00:00 -0500</pubDate>
+      <link>http://www.assemblymag.com/articles/93665-boeings-retiring-boomers-underscore-us-manufacturing-plight</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/LatestHeadlines/headlines900/boeing-900.jpg?1429199038" type="image/jpeg" length="626100"/>
+    </item>
+    <item>
+      <title>Spirit AeroSystems  to Expand Kansas Assembly Plant</title>
+      <description>
+        <![CDATA[WICHITA, KSâSpirit AeroSystems is spending $20 million to expand its manufacturing facility here, which makes composite subassemblies for the Boeing 787.]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93663</guid>
+      <pubDate>Tue, 27 Dec 2016 00:00:00 -0500</pubDate>
+      <link>http://www.assemblymag.com/articles/93663-spirit-aerosystems-to-expand-kansas-assembly-plant</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Default_Images/responsive/ASB_default_latestnews.jpg?1479231322" type="image/jpeg" length="166380"/>
+    </item>
+    <item>
+      <title>At Boeingâs 777X Wing Factory, Robots Get Big Jobs</title>
+      <description>
+        <![CDATA[EVERETT, WAâBoeingâs 777X Composite Wing Center here marks a significant step toward a future in which much of an aircraft assembly plantâs work is done by automated machines and robots.]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93657</guid>
+      <pubDate>Mon, 12 Dec 2016 00:00:00 -0500</pubDate>
+      <link>http://www.assemblymag.com/articles/93657-at-boeings-777x-wing-factory-robots-get-big-jobs</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/LatestHeadlines/headlines900/boeing-900.jpg?1429199038" type="image/jpeg" length="626100"/>
+    </item>
+    <item>
+      <title>Boeing Declares Victory in WTO Ruling Against Washington State Subsidies</title>
+      <description>
+        <![CDATA[SEATTLEâBoeing is looking on the bright side after the World Trade Organization ruled that the aircraft manufacturer illegally benefitted from subsidies from Washington state. Boeing said the decision was a victory in that the WTO rejected all but one of the claims from the European Union saying the incentives were anti-competitive and unfair to rival Airbus.]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93656</guid>
+      <pubDate>Tue, 06 Dec 2016 00:00:00 -0500</pubDate>
+      <link>http://www.assemblymag.com/articles/93656-boeing-declares-victory-in-wto-ruling-against-washington-state-subsidies</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/LatestHeadlines/headlines900/boeing-900.jpg?1429199038" type="image/jpeg" length="626100"/>
+    </item>
+    <item>
+      <title>Aerospace Supplier Expands in Carolina</title>
+      <description>
+        <![CDATA[LADSON, SCâAerospace supplier Safran is spending $7 million to expand its assembly plant here. The factory makes landing gear, brake systems and wire harnesses for the Boeing 787 Dreamliner.]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93655</guid>
+      <pubDate>Tue, 06 Dec 2016 00:00:00 -0500</pubDate>
+      <link>http://www.assemblymag.com/articles/93655-aerospace-supplier-expands-in-carolina</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Default_Images/responsive/ASB_default_latestnews.jpg?1479231322" type="image/jpeg" length="166380"/>
+    </item>
+    <item>
+      <title>ASSEMBLY Capital Spending Report: Capital Spending to Increase</title>
+      <author>sprovierij@bnpmedia.com (John Sprovieri)</author>
+      <description>
+        <![CDATA[<p>Overall, 2016 has been a pretty good year for U.S. manufacturing. In every industry covered by ASSEMBLY magazine, manufacturers were investing in people, plants and equipment.</p>]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93648</guid>
+      <pubDate>Thu, 01 Dec 2016 01:00:00 -0500</pubDate>
+      <link>http://www.assemblymag.com/articles/93648-assembly-capital-spending-report-capital-spending-to-increase</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Issues/2016/December/capital-spending/asb1216spend1.jpg?1480529230" type="image/jpeg" length="172994"/>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/December/capital-spending/asb1216spend1.jpg?1480529230" type="image/jpeg" fileSize="172994">
+        <media:title type="plain">1</media:title>
+        <media:description type="plain">The automotive industry continues to drive growth in capital equipment spending. Transportation equipment manufacturers will account for 30 percent of total spending next year. Photo courtesy Faurecia
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/December/capital-spending/asb1216spend_Fig01-2.jpg?1480529470" type="image/jpeg" fileSize="91737">
+        <media:title type="plain">2</media:title>
+        <media:description type="plain">The Northeast will account for 28 percent of total spending this year. That&amp;rsquo;s the highest share for the region since 2012.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/December/capital-spending/asb1216spend_Fig02-2.jpg?1480529502" type="image/jpeg" fileSize="56222">
+        <media:title type="plain">3</media:title>
+        <media:description type="plain">As usual, the country&amp;rsquo;s largest assembly plants have the deepest pockets and the rosiest outlook. Companies with more than 100 workers will account for 88 percent of total spending next year.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/December/capital-spending/asb1216spend_Fig03-2.jpg?1480529601" type="image/jpeg" fileSize="91166">
+        <media:title type="plain">4</media:title>
+        <media:description type="plain">For the seventh time in the past decade, transportation equipment manufacturers will spend more on assembly technology than any other industry.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/December/capital-spending/asb1216spend_Fig04-2.jpg?1480529572" type="image/jpeg" fileSize="59689">
+        <media:title type="plain">5</media:title>
+        <media:description type="plain">Manufacturers of small products (anything that can fit inside a 12-inch cube) will account for just 7 percent of total spending next year&amp;mdash; the smallest share for that segment in the survey history.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/December/capital-spending/asb1216spend_Fig05risingcost-2.jpg?1480529690" type="image/jpeg" fileSize="39153">
+        <media:title type="plain">6</media:title>
+        <media:description type="plain">Thirty-one percent of plants will buy equipment next year to mitigate material costs. That&amp;rsquo;s the highest percentage in the history of our survey.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/December/capital-spending/asb1216spend_Fig09cost-of-scrap-2.jpg?1480529741" type="image/jpeg" fileSize="40915">
+        <media:title type="plain">7</media:title>
+        <media:description type="plain">Assemblers are increasingly concerned about the cost of scrap. Next year, 40 percent of plants will buy equipment to lower scrap costs, the most since 2013.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/December/capital-spending/asb1216spend_Fig10single-station-2.jpg?1480529779" type="image/jpeg" fileSize="42031">
+        <media:title type="plain">8</media:title>
+        <media:description type="plain">Assemblers are increasingly investing in single-station assembly machines: presses, automatic riveters, and automatic screwdriving equipment. Fifty percent of plants will purchase such equipment next year, the most since 2011.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/December/capital-spending/asb1216spend_Fig11energy-costs.jpg?1480529819" type="image/jpeg" fileSize="57310">
+        <media:title type="plain">9</media:title>
+        <media:description type="plain">For the first time this year, we asked about energy costs. One industry stood out: 44 percent of manufacturers of appliances and electrical equipment said that they were buying equipment to reduce their energy costs. That&amp;rsquo;s more than twice the percentage for all U.S. factories.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/December/capital-spending/asb1216spend_Fig12labor-cost-2.jpg?1480529858" type="image/jpeg" fileSize="45386">
+        <media:title type="plain">10</media:title>
+        <media:description type="plain">Over the past three years, machinery manufacturers have been more concerned about labor costs than other manufacturers. Next year, 79 percent of machinery makers will buy equipment to reduce labor costs, compared with 72 percent for all U.S. plants. In contrast, medical device manufacturers have been less concerned about labor costs.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/December/capital-spending/asb1216spend_Fig13setup-cost-2.jpg?1480529901" type="image/jpeg" fileSize="58144">
+        <media:title type="plain">11</media:title>
+        <media:description type="plain">Compared with other industries, manufacturers of fabricated metal products and transportation equipment are more concerned about indirect labor costs, such as setup and maintenance. Next year, 64 percent of fabricated metal products factories and 53 percent of transportation equipment factories will invest in equipment to reduce indirect labor costs. Both percentages are higher than the national ratio.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/December/capital-spending/asb1216spend_Fig14fabricated-metal-2.jpg?1480529941" type="image/jpeg" fileSize="60730">
+        <media:title type="plain">13</media:title>
+        <media:description type="plain">Compared with other industries, manufacturers of fabricated metal products seem to have plenty of capacity. Only 29 percent of plants in this industry will buy equipment next year to increase capacity. That&amp;rsquo;s well below the national percentage. In fact, the industry has been below the national percentage for the past six years.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/December/capital-spending/asb1216spend_more-or-less.jpg?1480529992" type="image/jpeg" fileSize="66248">
+        <media:title type="plain">14</media:title>
+        <media:description type="plain">Only 16 percent of respondents will spend less in 2017 than they did 2016&amp;mdash;an all-time low for our survey.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/December/capital-spending/asb1216spend_new-products-2.jpg?1480530011" type="image/jpeg" fileSize="43702">
+        <media:title type="plain">15</media:title>
+      </media:content>
+    </item>
+    <item>
+      <title>ERP Software Keeps Manufacturers Focused on Production, Profit</title>
+      <author>camilloj@bnpmedia.com (Jim Camillo)</author>
+      <description>
+        <![CDATA[<p>Manufacturers face a plethora of challenges every day, regardless of where they are located and the industries they serve.</p>
+]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93647</guid>
+      <pubDate>Thu, 01 Dec 2016 00:00:00 -0500</pubDate>
+      <link>http://www.assemblymag.com/articles/93647-erp-software-keeps-manufacturers-focused-on-production-profit</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Issues/2016/December/AIA/asb1216AIA7.jpg?1480523933" type="image/jpeg" length="44559"/>
+    </item>
+    <item>
+      <title>3D-Printed Parts Become Mission Critical at Lockheed Martin</title>
+      <author>camilloj@bnpmedia.com (Jim Camillo)</author>
+      <description>
+        <![CDATA[<p>Whether a manufacturer is large or small, it&rsquo;s always interested in saving money&mdash;whether it&rsquo;s a large or small amount. Consider a huge company like Lockheed Martin Space Systems, and its constant need to cut costs in every aspect of a project, such as parts needed to build a satellite.</p>
+]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93645</guid>
+      <pubDate>Thu, 01 Dec 2016 00:00:00 -0500</pubDate>
+      <link>http://www.assemblymag.com/articles/93645-d-printed-parts-become-mission-critical-at-lockheed-martin</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Issues/2016/December/AIA/asb1216AIA3.jpg?1480522442" type="image/jpeg" length="121214"/>
+    </item>
+    <item>
+      <title>Group Seeks to Save Wright Brothersâ Assembly Plant</title>
+      <description>
+        <![CDATA[DAYTON, OHâThe nonprofit National Aviation Heritage Alliance (NAHA)âin cooperation with the state of Ohio, the city of Dayton and the National Park Service, among othersâis hoping to raise approximately $4 million by the end of this year to save the Wright brothersâ original assembly plant here.]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93641</guid>
+      <pubDate>Mon, 28 Nov 2016 00:00:00 -0500</pubDate>
+      <link>http://www.assemblymag.com/articles/93641-group-seeks-to-save-wright-brothers-assembly-plant</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/LatestHeadlines/headlines900/wright900.jpg?1480356626" type="image/jpeg" length="335441"/>
+    </item>
+    <item>
+      <title>Statistical Process Control of Torque Data on Assembly Lines</title>
+      <author>sprovierij@bnpmedia.com (John Sprovieri)</author>
+      <description>
+        <![CDATA[<p>Power tools collect a wealth of data about the fastening process. With some simple statistical analysis, engineers can obtain valuable insight into the fastening process.</p>]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93621</guid>
+      <pubDate>Mon, 07 Nov 2016 00:00:00 -0500</pubDate>
+      <link>http://www.assemblymag.com/articles/93621-statistical-process-control-of-torque-data-on-assembly-lines</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Issues/2016/November/torque/asb1116torque4.jpg?1478534577" type="image/jpeg" length="144761"/>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/November/torque/asb1116torque1.jpg?1478534422" type="image/jpeg" fileSize="47682">
+        <media:title type="plain">1</media:title>
+        <media:description type="plain">In a histogram of torque data, the area under the curve that lies within one standard deviation of the mean represents 68 percent of all torque readings in the data set. The area within two deviations represents 95 percent of all readings, and the area within three deviations represents 99.7 percent of all readings. Illustration courtesy Kanbanize Inc.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/November/torque/asb1116torque2.jpg?1478534508" type="image/jpeg" fileSize="67577">
+        <media:title type="plain">2</media:title>
+        <media:description type="plain">X-bar and R charts can identify fastening problems quickly by comparing samples of torque and angle data to your overall results. Illustration courtesy Minitab Inc.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/November/torque/asb1116torque3.jpg?1478534540" type="image/jpeg" fileSize="179268">
+        <media:title type="plain">3</media:title>
+        <media:description type="plain">Power tools collect a wealth of data about the fastening process. Photo courtesy Desoutter Industrial Tools
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/November/torque/asb1116torque4.jpg?1478534577" type="image/jpeg" fileSize="144761">
+        <media:title type="plain">4</media:title>
+        <media:description type="plain">No matter how accurate the tool, there will always be some variation in how much torque is applied to a fastener. Photo courtesy Atlas Copco Tools and Assembly Systems
+</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>Aerospace Supplier Opens New Assembly Plant</title>
+      <description>
+        <![CDATA[<p>EDGERTON, KS&mdash;Aerospace supplier Triumph Group has opened a new assembly plant here. The 156,000-square-foot factory will produce a variety of components, including landing gear, seat and cargo tracks, floor beams, thrust reverser beams, stringer end fittings, wing attach fittings, installation brackets, hinge arm assemblies and engine inlet assemblies.</p>]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93596</guid>
+      <pubDate>Mon, 17 Oct 2016 00:00:00 -0400</pubDate>
+      <link>http://www.assemblymag.com/articles/93596-aerospace-supplier-opens-new-assembly-plant</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Default_Images/responsive/ASB_default_latestnews.jpg?1479231322" type="image/jpeg" length="166380"/>
+    </item>
+    <item>
+      <title>Options for Protecting Wire Harnesses</title>
+      <author>webera@bnpmedia.com (Austin Weber)</author>
+      <description>
+        <![CDATA[<p>This time of the year, many homeowners in the Midwest and Northeast start covering their barbecue grills, patio furniture, rosebushes and swimming pools. The type of cover they choose can make a big difference in how those objects survive cold winter temperatures and heavy snow.</p>]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93589</guid>
+      <pubDate>Tue, 04 Oct 2016 00:00:00 -0400</pubDate>
+      <link>http://www.assemblymag.com/articles/93589-options-for-protecting-wire-harnesses</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Issues/2016/October/Covering/asb1016covering1.jpg?1475600761" type="image/jpeg" length="96070"/>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/October/Covering/asb1016covering1.jpg?1475600761" type="image/jpeg" fileSize="96070">
+        <media:title type="plain">1</media:title>
+        <media:description type="plain">Cable and wire coverings provide an extra layer of insulation and protection from abrasion, chemicals, heat, moisture and vibration. Photo courtesy Panduit Corp.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/October/Covering/asb1016covering2.jpg?1475600839" type="image/jpeg" fileSize="140183">
+        <media:title type="plain">2</media:title>
+        <media:description type="plain">Partially coated sleeves are a popular alternative to adhesive tape. Photo courtesy Tesa Tape Inc.
+</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>Fasteners for Foam and Honeycomb</title>
+      <author>sprovierij@bnpmedia.com (John Sprovieri)</author>
+      <description>
+        <![CDATA[<p>Celebrity auto critic Jeremy Clarkson once called the Audi TT &ldquo;the Mac Daddy of sport coupes.&rdquo;</p>
+]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93583</guid>
+      <pubDate>Mon, 03 Oct 2016 00:00:00 -0400</pubDate>
+      <link>http://www.assemblymag.com/articles/93583-fasteners-for-foam-and-honeycomb</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Issues/2016/October/fasteners/asb1016fasten4.jpg?1475514537" type="image/jpeg" length="90555"/>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/October/fasteners/asb1016fasten4.jpg?1475514537" type="image/jpeg" fileSize="90555">
+        <media:title type="plain">1</media:title>
+        <media:description type="plain">The key variables in the EPPsys fastener installation process are torque, driver speed, axial force, insertion depth and installation time. Photo courtesy Weber Screwdriving Systems Inc.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/October/fasteners/asb1016fasten1.jpg?1475514618" type="image/jpeg" fileSize="49262">
+        <media:title type="plain">2</media:title>
+        <media:description type="plain">In most cases, TSSD fasteners do not require a pilot hole. Once the driver moves to the target position, it spins the fastener and pushes it against the surface of the part. Friction generates heat to melt the surface materials and bore a hole into the parts. As the fastener spins, some of its surface material melts as well, mingling with the molten material and fibers of the base parts and creating a weld. When the fastener is flush with the base materials, the driver stops abruptly and holds the fastener in place. When the materials have cooled and solidified, the driver retracts. Illustration courtesy EJOT
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/October/fasteners/asb1016fasten2.jpg?1475514649" type="image/jpeg" fileSize="47405">
+        <media:title type="plain">3</media:title>
+        <media:description type="plain">The EPPsys TSSD can be an anchor point for a Delta PT screw, or it can act as a direct fastening element. Photo courtesy EJOT
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/October/fasteners/asb1016fasten3.jpg?1475514688" type="image/jpeg" fileSize="137811">
+        <media:title type="plain">4</media:title>
+        <media:description type="plain">Because precise control over axial force is a key variable, the fasteners must be installed with a Cartesian or six-axis robot. A blow-feed mechanism supplies fasteners to the driver. Photo courtesy Weber Screwdriving Systems Inc.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/October/fasteners/asb1016fasten5.jpg?1475514726" type="image/jpeg" fileSize="130638">
+        <media:title type="plain">5</media:title>
+        <media:description type="plain">Automakers are increasingly using lightweight EPP foam for a variety of applications, like this air bag cover. Photo courtesy Taracell
+</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>Airbus Wing Plant Is a Model of Robotic Technology</title>
+      <description>
+        <![CDATA[<p>BROUGHTON, UK&mdash;Like a cartoon space alien with a dome-like skull, an Airbus Beluga transport plane arriving from Madrid drops from the sky above this village 200 miles northwest of London and taxis to a stop with its front end tucked inside a large building off the runway. Its bulbous forehead pops open to disgorge massive wing panels&mdash;98 feet long and 20 feet wide&mdash;that will soon be assembled by sophisticated robots and about 800 people into the largest carbon-fiber composite wings now built for commercial aviation.</p>]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93579</guid>
+      <pubDate>Mon, 03 Oct 2016 00:00:00 -0400</pubDate>
+      <link>http://www.assemblymag.com/articles/93579-airbus-wing-plant-is-a-model-of-robotic-technology</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/LatestHeadlines/headlines900/airbus-mfg-900.jpg?1433272684" type="image/jpeg" length="748353"/>
+    </item>
+    <item>
+      <title>Bombardier Improves Assembly Flexibility Thanks to Manufacturing Operations Management Software</title>
+      <author>camilloj@bnpmedia.com (Jim Camillo)</author>
+      <description>
+        <![CDATA[<p>It is rare for CEOs of competing airlines to be passengers on the same flight. But, that&rsquo;s exactly what happened June 3, 2016, on SWISS Airlines&rsquo; flight BBA505, from Dublin to Zurich.</p>
+]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93575</guid>
+      <pubDate>Sat, 01 Oct 2016 00:00:00 -0400</pubDate>
+      <link>http://www.assemblymag.com/articles/93575-bombardier-improves-assembly-flexibility-thanks-to-manufacturing-operations-management-software</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Issues/2016/October/AIA/asb1016AIA3.jpg?1475255479" type="image/jpeg" length="69981"/>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/October/AIA/asb1016AIA3.jpg?1475255479" type="image/jpeg" fileSize="69981">
+        <media:title type="plain">3</media:title>
+        <media:description type="plain">On July 15, 2016, the CS100 jetliner made its first commercial flight. Photo courtesy Bombardier Aerospace
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/October/AIA/asb1016AIA4.jpg?1475255553" type="image/jpeg" fileSize="173085">
+        <media:title type="plain">4</media:title>
+        <media:description type="plain">The CS100 is assembled at manufacturing plants in Belfast (Northern Ireland) and Canada. Photo courtesy www. theflyingengineer.com
+</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>Aviation Manufacturer to Add 100 Jobs at Western Michigan Assembly Plant</title>
+      <description>
+        <![CDATA[<p>NORTON SHORES, MI&mdash;Johnson Technology will add 100 jobs and invest $14.5 million in a third Muskegon-area aviation engine manufacturing facility.</p>
+]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93566</guid>
+      <pubDate>Sun, 18 Sep 2016 00:00:00 -0400</pubDate>
+      <link>http://www.assemblymag.com/articles/93566-aviation-manufacturer-to-add-100-jobs-at-western-michigan-assembly-plant</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Default_Images/responsive/ASB_default_latestnews.jpg?1479231322" type="image/jpeg" length="166380"/>
+    </item>
+    <item>
+      <title>Demonstration Facility Helps Set Guinness World Record in 3D Printing</title>
+      <description>
+        <![CDATA[<p>OAK RIDGE, TN&mdash;Engineers at Oak Ridge National Laboratory have created the world&rsquo;s largest solid 3D-printed structure. Measuring 17.5 feet long, 5.5 feet wide and 1.5 feet tall, the structure is a trim-and-drill fixture for manufacturing a component of the Boeing 777X passenger jet.</p>
+]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93564</guid>
+      <pubDate>Sun, 18 Sep 2016 00:00:00 -0400</pubDate>
+      <link>http://www.assemblymag.com/articles/93564-demonstration-facility-helps-set-guinness-world-record-in-3d-printing</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Default_Images/responsive/ASB_default_latestnews.jpg?1479231322" type="image/jpeg" length="166380"/>
+    </item>
+    <item>
+      <title>New Technology for Robotic Welding</title>
+      <author>sprovierij@bnpmedia.com (John Sprovieri)</author>
+      <description>
+        <![CDATA[<p>
+	Welding of one sort or another has been the No. 1 application for industrial robots almost since the technology was invented.</p>
+]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93555</guid>
+      <pubDate>Thu, 08 Sep 2016 02:00:00 -0400</pubDate>
+      <link>http://www.assemblymag.com/articles/93555-new-technology-for-robotic-welding</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Issues/2016/september/welding/asb0916weld1.jpg?1473349151" type="image/jpeg" length="146892"/>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/september/welding/asb0916weld1.jpg?1473349151" type="image/jpeg" fileSize="146892">
+        <media:title type="plain">1</media:title>
+        <media:description type="plain">
+	Driven by demand from the automotive industry, laser welding is one of the fastest growing applications for six-axis robots. Photo courtesy ABB Robotics
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/september/welding/asb0916weld2.jpg?1473349357" type="image/jpeg" fileSize="130796">
+        <media:title type="plain">2</media:title>
+        <media:description type="plain">
+	The dress package for laser welding requires some care to set up. Bend radius restrictions must be adhered to, and the cables can&amp;rsquo;t take shock. Photo courtesy Comau LLC
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/september/welding/asb0916weld3.jpg?1473349388" type="image/jpeg" fileSize="56576">
+        <media:title type="plain">3</media:title>
+        <media:description type="plain">
+	Whether the robot will be used for GTAW or GMAW, experts recommend a machine specifically designed for the task. Photo courtesy FANUC America Corp.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/september/welding/asb0916weld4.jpg?1473349426" type="image/jpeg" fileSize="116076">
+        <media:title type="plain">4</media:title>
+        <media:description type="plain">
+	ABB has recently added the TIP TIG process to its platform of robotic welding technologies. Instead of supplying the filler wire into the weld pool at a continuous rate, the feeder agitates the wire back and forth. Electrical current, supplied by a secondary power source, is also applied to the filler wire. Photo courtesy ABB Robotics
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/september/welding/asb0916weld5.jpg?1473349455" type="image/jpeg" fileSize="220493">
+        <media:title type="plain">5</media:title>
+        <media:description type="plain">
+	With fixtureless welding, the base part is located in a simple fixture. Then, a vision-guided, material handling robot picks up the part to be welded, sets it in place on the base part, and holds it there while an arc welding robot does its task. Photo courtesy FANUC America Corp.
+</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>Resin Shields Orion Craft and Crew During Re-Entry</title>
+      <author>camilloj@bnpmedia.com (Jim Camillo)</author>
+      <description>
+        <![CDATA[<p>
+	NASA spokespeople frequently tell the public that space exploration is not for the faint of heart. But, this type of work is also not for the impatient.</p>
+]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93551</guid>
+      <pubDate>Thu, 08 Sep 2016 00:00:00 -0400</pubDate>
+      <link>http://www.assemblymag.com/articles/93551-resin-shields-orion-craft-and-crew-during-re-entry</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Issues/2016/september/AIA/asb0916AIA3.jpg?1473347055" type="image/jpeg" length="193846"/>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/september/AIA/asb0916AIA3.jpg?1473347055" type="image/jpeg" fileSize="193846">
+        <media:title type="plain">3</media:title>
+        <media:description type="plain">
+	Measuring 16.5 feet in diameter, the Orion heat shield is carefully lifted from its layup mold. Photo courtesy Lockheed Martin Space Systems Co.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/september/AIA/asb0916AIA4.jpg?1473347123" type="image/jpeg" fileSize="61852">
+        <media:title type="plain">4</media:title>
+        <media:description type="plain">
+	The Orion&amp;rsquo;s composite-resin heat shield and back shell protect the spacecraft and crew from extreme temperatures during re-entry. Photo courtesy TenCate Advanced Composites North America
+</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>Joe Sutter, Father of Boeing 747, Dies at 95</title>
+      <description>
+        <![CDATA[<p>
+	SEATTLE&mdash;Joe Sutter, the Boeing Co. engineer who ushered in the modern era of long-range travel by spearheading the 747 jumbo jet in the 1960s, died this week. He was 95.</p>
+]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93546</guid>
+      <pubDate>Tue, 06 Sep 2016 00:00:00 -0400</pubDate>
+      <link>http://www.assemblymag.com/articles/93546-joe-sutter-father-of-boeing-747-dies-at-95</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/LatestHeadlines/headlines900/boeing-900.jpg?1429199038" type="image/jpeg" length="626100"/>
+    </item>
+    <item>
+      <title>Chinaâs First Domestic Manufacturer of Jet Engines Begins Operation</title>
+      <description>
+        <![CDATA[<p>
+	BEIJING&mdash;China&rsquo;s first domestic manufacturer of jet engines, Aero Engine Corp. of China, has officially opened for business. The multibillion dollar conglomerate will employ some 100,000 people and incorporate subsidiaries of various state-owned firms, including the Aviation Industrial Corp. of China.</p>
+]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93541</guid>
+      <pubDate>Tue, 30 Aug 2016 00:00:00 -0400</pubDate>
+      <link>http://www.assemblymag.com/articles/93541-chinas-first-domestic-manufacturer-of-jet-engines-begins-operation</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Default_Images/responsive/ASB_default_latestnews.jpg?1479231322" type="image/jpeg" length="166380"/>
+    </item>
+    <item>
+      <title>Boeing to Boost 767 Production</title>
+      <description>
+        <![CDATA[<p>
+	EVERETT, WA&mdash;The Boeing Co. is streamlining 767 production as it prepares to make more of the durable widebody jet in 2017. Boeing plans to increase the production rate for 767s from two a month to 2.5 planes a month next year.</p>
+]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93490</guid>
+      <pubDate>Fri, 15 Jul 2016 00:00:00 -0400</pubDate>
+      <link>http://www.assemblymag.com/articles/93490-boeing-to-boost-767-production</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/LatestHeadlines/headlines900/boeing-900.jpg?1429199038" type="image/jpeg" length="626100"/>
+    </item>
+    <item>
+      <title>Force-Multiplying Glove Could Aid Workers on Assembly Line</title>
+      <description>
+        <![CDATA[<p>
+	DETROIT&mdash;Robotic glove technology developed out of a partnership between General Motors and NASA for use on the International Space Station is finding new life on Earth in health care, manufacturing and other industrial applications through a licensing agreement between GM and Bioservo Technologies AB, a Swedish medical technology company.</p>
+]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93485</guid>
+      <pubDate>Thu, 07 Jul 2016 00:00:00 -0400</pubDate>
+      <link>http://www.assemblymag.com/articles/93485-force-multiplying-glove-could-aid-workers-on-assembly-line</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/LatestHeadlines/headlines900/glove-550.jpg?1467906807" type="image/jpeg" length="250608"/>
+    </item>
+    <item>
+      <title>Boeing Working on New Midsize Plane Design</title>
+      <description>
+        <![CDATA[<p>
+	CHICAGO&mdash;Boeing is honing designs for midrange planes that could fill the gap between the largest single-aisle 737 and the smallest widebody 787 &mdash; a relatively untapped market where Airbus is starting to extend its reach.</p>
+]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93482</guid>
+      <pubDate>Tue, 05 Jul 2016 00:00:00 -0400</pubDate>
+      <link>http://www.assemblymag.com/articles/93482-boeing-working-on-new-midsize-plane-design</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/LatestHeadlines/headlines900/boeing-900.jpg?1429199038" type="image/jpeg" length="626100"/>
+    </item>
+    <item>
+      <title>3D Printers Expand Prototyping Companyâs Capabilities</title>
+      <author>camilloj@bnpmedia.com (Jim Camillo)</author>
+      <description>
+        <![CDATA[<p>
+	Most rapid prototyping service providers specialize in one area of additive manufacturing, such as fused deposition modeling (FDM) or metal sintering. ZARE SrL, however, offers expertise in several areas.</p>
+]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93465</guid>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 -0400</pubDate>
+      <link>http://www.assemblymag.com/articles/93465-d-printers-expand-prototyping-companys-capabilities</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Issues/2016/July/AIA/asb0716AIA3.jpg?1467039606" type="image/jpeg" length="88756"/>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/July/AIA/asb0716AIA3.jpg?1467039606" type="image/jpeg" fileSize="88756">
+        <media:title type="plain">3</media:title>
+        <media:description type="plain">
+	For one aerospace customer, ZARE SrL 3D prints air conditioning ducts made of FAA-approved ULTEM 9085, a high-performance thermoplastic material. Photo courtesy Stratasys Ltd.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/July/AIA/asb0716AIA4.jpg?1467039672" type="image/jpeg" fileSize="82312">
+        <media:title type="plain">4</media:title>
+        <media:description type="plain">
+	ZARE SrL 3D prints car bumpers in ASA (acrylonitrile styrene acrylate) to leverage its high UV stability. Photo courtesy Stratasys Ltd.
+</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>Boeing Adds Automation to 737 Assembly Line</title>
+      <description>
+        <![CDATA[<p>
+	RENTON, WA&mdash;Boeing has added a new robotic system to its 737 factory here to automate the process of drilling holes and installing bolts in wing spars.</p>
+]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93456</guid>
+      <pubDate>Wed, 22 Jun 2016 00:00:00 -0400</pubDate>
+      <link>http://www.assemblymag.com/articles/93456-boeing-adds-automation-to-737-assembly-line</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/LatestHeadlines/headlines900/boeing-900.jpg?1429199038" type="image/jpeg" length="626100"/>
+    </item>
+  </channel>
+</rss>

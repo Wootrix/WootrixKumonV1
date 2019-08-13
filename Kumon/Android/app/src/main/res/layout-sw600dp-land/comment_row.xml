@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="horizontal"
+    android:padding="@dimen/margin_12">
+
+    <FrameLayout
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent">
+
+        <com.ta.wootrix.utils.CircularImageView
+            android:id="@+id/comment_row_commenter_image_imgVw"
+            android:layout_width="@dimen/landing_page_top_pr_img_size"
+            android:layout_height="@dimen/landing_page_top_pr_img_size"
+            android:scaleType="centerCrop"
+            android:src="@drawable/profile_image_placeholder"
+            app:border="true"
+            app:border_color="@color/trans_50_bg"
+            app:border_width="@dimen/margin_3"
+            app:shadow="false" />
+    </FrameLayout>
+
+    <LinearLayout
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/margin_8"
+        android:layout_weight="1"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content">
+
+            <TextView
+                android:id="@+id/comment_row_commenter_name_txtVw"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="TextView"
+                android:textColor="@color/black_heading"
+                android:textSize="@dimen/text_size_14"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/comment_row_comment_date_txtVw"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="TextView"
+                android:textColor="#5b5b5b"
+                android:textSize="@dimen/text_size_10" />
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/comment_row_comment_txt_txtVw"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/margin_5"
+            android:text="TextV sfskd fksdl hf;w"
+            android:textColor="#5b5b5b"
+            android:textSize="@dimen/text_size_12" />
+    </LinearLayout>
+
+</LinearLayout>

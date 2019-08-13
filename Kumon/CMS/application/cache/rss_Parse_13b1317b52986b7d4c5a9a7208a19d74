@@ -1,0 +1,438 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" media="screen" href="/~d/styles/rss2full.xsl"?><?xml-stylesheet type="text/css" media="screen" href="http://feeds.sciencedaily.com/~d/styles/itemcontent.css"?><rss xmlns:media="http://search.yahoo.com/mrss/" xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" version="2.0">
+	<channel>
+		<title>Mesothelioma News -- ScienceDaily</title>
+		<link>https://www.sciencedaily.com/news/health_medicine/mesothelioma/</link>
+		<description>Read the medical research on mesothelioma including mesothelioma symptoms and treatments. Information on mesothelioma and asbestos.</description>
+		<language>en-us</language>
+		<pubDate>Sun, 06 Mar 2016 23:08:12 EST</pubDate>
+		<lastBuildDate>Sun, 06 Mar 2016 23:08:12 EST</lastBuildDate>
+		<ttl>60</ttl>
+		<image>
+			<title>Mesothelioma News -- ScienceDaily</title>
+			<url>https://www.sciencedaily.com/images/scidaily-logo-rss.png</url>
+			<link>https://www.sciencedaily.com/news/health_medicine/mesothelioma/</link>
+			<description>For more science news, visit ScienceDaily.</description>
+		</image>
+		
+		<atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://feeds.sciencedaily.com/sciencedaily/health_medicine/mesothelioma" /><feedburner:info uri="sciencedaily/health_medicine/mesothelioma" /><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/" /><feedburner:emailServiceId>sciencedaily/health_medicine/mesothelioma</feedburner:emailServiceId><feedburner:feedburnerHostname>https://feedburner.google.com</feedburner:feedburnerHostname><item>
+			<title>New genetic insights into mesothelioma</title>
+			<link>http://feeds.sciencedaily.com/~r/sciencedaily/health_medicine/mesothelioma/~3/ekTPU1f5_r0/160229135143.htm</link>
+			<description>In a comprehensive genomic analysis using more than 200 mesothelioma tumors, investigators have found previously unknown genetic alterations, including some that may be clinically actionable, as well as others that may improve diagnostics, screening and predictions about outcomes for patients.&lt;img src="http://feeds.feedburner.com/~r/sciencedaily/health_medicine/mesothelioma/~4/ekTPU1f5_r0" height="1" width="1" alt=""/&gt;</description>
+			<pubDate>Mon, 29 Feb 2016 13:51:43 EST</pubDate>
+			<guid isPermaLink="false">https://www.sciencedaily.com/releases/2016/02/160229135143.htm</guid>
+		<feedburner:origLink>https://www.sciencedaily.com/releases/2016/02/160229135143.htm</feedburner:origLink></item>
+		<item>
+			<title>Study suggests improvements in how mesothelioma is staged</title>
+			<link>http://feeds.sciencedaily.com/~r/sciencedaily/health_medicine/mesothelioma/~3/KKMPskCzN24/160202185445.htm</link>
+			<description>A new study suggests that significant improvements could be made in the scoring system physicians use to estimate the stage (severity) of mesothelioma, an aggressive and deadly cancer.&lt;img src="http://feeds.feedburner.com/~r/sciencedaily/health_medicine/mesothelioma/~4/KKMPskCzN24" height="1" width="1" alt=""/&gt;</description>
+			<pubDate>Tue, 02 Feb 2016 18:54:45 EST</pubDate>
+			<guid isPermaLink="false">https://www.sciencedaily.com/releases/2016/02/160202185445.htm</guid>
+		<feedburner:origLink>https://www.sciencedaily.com/releases/2016/02/160202185445.htm</feedburner:origLink></item>
+		<item>
+			<title>Statistical model may identify patients most likely to benefit from surgery for mesothelioma</title>
+			<link>http://feeds.sciencedaily.com/~r/sciencedaily/health_medicine/mesothelioma/~3/-otOnEX3lfs/150901095317.htm</link>
+			<description>A new statistical model may help predict which patients are most likely to receive life-extending benefits from surgical treatment for malignant pleural mesothelioma, scientists say.&lt;img src="http://feeds.feedburner.com/~r/sciencedaily/health_medicine/mesothelioma/~4/-otOnEX3lfs" height="1" width="1" alt=""/&gt;</description>
+			<pubDate>Tue, 01 Sep 2015 09:53:17 EDT</pubDate>
+			<guid isPermaLink="false">https://www.sciencedaily.com/releases/2015/09/150901095317.htm</guid>
+		<feedburner:origLink>https://www.sciencedaily.com/releases/2015/09/150901095317.htm</feedburner:origLink></item>
+		<item>
+			<title>Mesothelioma: Aspirin may delay growth of asbestos-related cancer</title>
+			<link>http://feeds.sciencedaily.com/~r/sciencedaily/health_medicine/mesothelioma/~3/wGL8nJ351VQ/150707093402.htm</link>
+			<description>Aspirin may help mesothelioma patients, a new study suggests. The finding could eventually give doctors and patients a potential new tool to fight against this devastating disease, which kills about 3,200 people a year nationwide, and advance knowledge of how to fight other cancers.&lt;img src="http://feeds.feedburner.com/~r/sciencedaily/health_medicine/mesothelioma/~4/wGL8nJ351VQ" height="1" width="1" alt=""/&gt;</description>
+			<pubDate>Tue, 07 Jul 2015 09:34:02 EDT</pubDate>
+			<guid isPermaLink="false">https://www.sciencedaily.com/releases/2015/07/150707093402.htm</guid>
+		<feedburner:origLink>https://www.sciencedaily.com/releases/2015/07/150707093402.htm</feedburner:origLink></item>
+		<item>
+			<title>Investigational personalized cellular therapy tolerated well by patients with advanced mesothelioma, ovarian and pancreatic cancers</title>
+			<link>http://feeds.sciencedaily.com/~r/sciencedaily/health_medicine/mesothelioma/~3/-Now9dmEefA/150419193723.htm</link>
+			<description>Genetically modified versions of patientsâ own immune cells successfully traveled to tumors they were designed to attack in an early-stage trial for mesothelioma and pancreatic and ovarian cancers. The data adds to a growing body of research showing the promise of CAR T cell technology.&lt;img src="http://feeds.feedburner.com/~r/sciencedaily/health_medicine/mesothelioma/~4/-Now9dmEefA" height="1" width="1" alt=""/&gt;</description>
+			<pubDate>Sun, 19 Apr 2015 19:37:23 EDT</pubDate>
+			<guid isPermaLink="false">https://www.sciencedaily.com/releases/2015/04/150419193723.htm</guid>
+		<feedburner:origLink>https://www.sciencedaily.com/releases/2015/04/150419193723.htm</feedburner:origLink></item>
+		<item>
+			<title>Immunotherapy drug pembrolizumab shows early promise for mesothelioma patients</title>
+			<link>http://feeds.sciencedaily.com/~r/sciencedaily/health_medicine/mesothelioma/~3/KZXk6rCVOIE/150419193721.htm</link>
+			<description>The PD-1 inhibitor pembrolizumab, a cancer immunotherapy drug, shrank or halted growth of tumors in 76 percent of patients with pleural mesothelioma, a rare and deadly form of cancer that arises in the outer lining of the lungs and internal chest wall, according to a new study. Patients diagnosed with the disease, which is tied to exposure to asbestos, have a median survival rate of about one year.&lt;img src="http://feeds.feedburner.com/~r/sciencedaily/health_medicine/mesothelioma/~4/KZXk6rCVOIE" height="1" width="1" alt=""/&gt;</description>
+			<pubDate>Sun, 19 Apr 2015 19:37:21 EDT</pubDate>
+			<guid isPermaLink="false">https://www.sciencedaily.com/releases/2015/04/150419193721.htm</guid>
+		<feedburner:origLink>https://www.sciencedaily.com/releases/2015/04/150419193721.htm</feedburner:origLink></item>
+		<item>
+			<title>Mesothelioma in southern Nevada likely result of asbestos in environment</title>
+			<link>http://feeds.sciencedaily.com/~r/sciencedaily/health_medicine/mesothelioma/~3/MF3r52FuS8A/150210155940.htm</link>
+			<description>Malignant mesothelioma has been found at higher than expected levels in women and in individuals younger than 55 years old in the southern Nevada counties of Clark and Nye, likewise in the same region carcinogenic mineral fibers including actinolite asbestos, erionite, winchite, magnesioriebeckite and richterite were discovered. These data suggest that these elevated numbers of malignant mesothelioma cases are linked to environmental exposure of carcinogenic mineral fibers.&lt;img src="http://feeds.feedburner.com/~r/sciencedaily/health_medicine/mesothelioma/~4/MF3r52FuS8A" height="1" width="1" alt=""/&gt;</description>
+			<pubDate>Tue, 10 Feb 2015 15:59:40 EST</pubDate>
+			<guid isPermaLink="false">https://www.sciencedaily.com/releases/2015/02/150210155940.htm</guid>
+		<feedburner:origLink>https://www.sciencedaily.com/releases/2015/02/150210155940.htm</feedburner:origLink></item>
+		<item>
+			<title>Cancer from asbestos caused by more than one cell mutation</title>
+			<link>http://feeds.sciencedaily.com/~r/sciencedaily/health_medicine/mesothelioma/~3/36Kri4ps-K0/141204074315.htm</link>
+			<description>It has been a long held belief that tumors arising from exposure to asbestos are caused by mutations in one cell, which then produces multiple clones. This hypothesis is challenged by new research, which suggests it is caused by mutations in multiple cells.&lt;img src="http://feeds.feedburner.com/~r/sciencedaily/health_medicine/mesothelioma/~4/36Kri4ps-K0" height="1" width="1" alt=""/&gt;</description>
+			<pubDate>Thu, 04 Dec 2014 07:43:15 EST</pubDate>
+			<guid isPermaLink="false">https://www.sciencedaily.com/releases/2014/12/141204074315.htm</guid>
+		<feedburner:origLink>https://www.sciencedaily.com/releases/2014/12/141204074315.htm</feedburner:origLink></item>
+		<item>
+			<title>Asbestos likely more widespread than previously thought</title>
+			<link>http://feeds.sciencedaily.com/~r/sciencedaily/health_medicine/mesothelioma/~3/diqxxTsZfUE/141019094545.htm</link>
+			<description>Naturally occurring asbestos minerals may be more widespread than previously thought, with newly discovered sources now identified within the Las Vegas metropolitan area. The asbestos-rich areas are in locations not previously considered to be at risk, according to a new report. âThese minerals were found where one wouldnât expect or think to look,â said a co-researcher of the study. The naturally occurring asbestos was found in Boulder City, Nevada, in the path of a construction zone to build a multi-million dollar highway.&lt;img src="http://feeds.feedburner.com/~r/sciencedaily/health_medicine/mesothelioma/~4/diqxxTsZfUE" height="1" width="1" alt=""/&gt;</description>
+			<pubDate>Sun, 19 Oct 2014 09:45:45 EDT</pubDate>
+			<guid isPermaLink="false">https://www.sciencedaily.com/releases/2014/10/141019094545.htm</guid>
+		<feedburner:origLink>https://www.sciencedaily.com/releases/2014/10/141019094545.htm</feedburner:origLink></item>
+		<item>
+			<title>Consequences of asbestos: New laboratory installed for research into pleural cancer</title>
+			<link>http://feeds.sciencedaily.com/~r/sciencedaily/health_medicine/mesothelioma/~3/6qqpJneigs0/141001090059.htm</link>
+			<description>In the last few years the health-damaging effects of asbestos have led to an increase in pleural cancers. A new interdisciplinary research laboratory is set to lead to scientific advances in treatment.&lt;img src="http://feeds.feedburner.com/~r/sciencedaily/health_medicine/mesothelioma/~4/6qqpJneigs0" height="1" width="1" alt=""/&gt;</description>
+			<media:thumbnail url="https://images.sciencedaily.com/2014/10/141001090059.jpg" height="224" width="300" />
+			<pubDate>Wed, 01 Oct 2014 09:00:59 EDT</pubDate>
+			<guid isPermaLink="false">https://www.sciencedaily.com/releases/2014/10/141001090059.htm</guid>
+		<feedburner:origLink>https://www.sciencedaily.com/releases/2014/10/141001090059.htm</feedburner:origLink></item>
+		<item>
+			<title>Mesothelioma: New findings on treatment options</title>
+			<link>http://feeds.sciencedaily.com/~r/sciencedaily/health_medicine/mesothelioma/~3/srLFLn2s6nY/140929090348.htm</link>
+			<description>Treating patients with high-dose radiotherapy after chemotherapy and surgery for malignant pleural mesothelioma does not achieve improvements in local relapse and overall survival, according to new data from a prospective randomized phase II trial.&lt;img src="http://feeds.feedburner.com/~r/sciencedaily/health_medicine/mesothelioma/~4/srLFLn2s6nY" height="1" width="1" alt=""/&gt;</description>
+			<pubDate>Mon, 29 Sep 2014 09:03:48 EDT</pubDate>
+			<guid isPermaLink="false">https://www.sciencedaily.com/releases/2014/09/140929090348.htm</guid>
+		<feedburner:origLink>https://www.sciencedaily.com/releases/2014/09/140929090348.htm</feedburner:origLink></item>
+		<item>
+			<title>Curcumin, special peptides boost cancer-blocking PIAS3 to neutralize cancer-activating STAT3 in mesothelioma</title>
+			<link>http://feeds.sciencedaily.com/~r/sciencedaily/health_medicine/mesothelioma/~3/C1xzpTJv2RY/140918150836.htm</link>
+			<description>A common Asian spice and cancer-hampering molecules show promise in slowing mesothelioma, cancer of the lung lining linked to asbestos. Scientists demonstrate curcumin and cancer-inhibiting peptides increase a protein inhibitor that slows mesothelioma.&lt;img src="http://feeds.feedburner.com/~r/sciencedaily/health_medicine/mesothelioma/~4/C1xzpTJv2RY" height="1" width="1" alt=""/&gt;</description>
+			<media:thumbnail url="https://images.sciencedaily.com/2014/09/140918150836.jpg" height="200" width="300" />
+			<pubDate>Thu, 18 Sep 2014 15:08:36 EDT</pubDate>
+			<guid isPermaLink="false">https://www.sciencedaily.com/releases/2014/09/140918150836.htm</guid>
+		<feedburner:origLink>https://www.sciencedaily.com/releases/2014/09/140918150836.htm</feedburner:origLink></item>
+		<item>
+			<title>Idiopathic pulmonary fibrosis cases linked with asbestos exposure</title>
+			<link>http://feeds.sciencedaily.com/~r/sciencedaily/health_medicine/mesothelioma/~3/IoZID2C0rHI/140909093713.htm</link>
+			<description>A proportion of idiopathic pulmonary fibrosis (IPF) cases may be linked with asbestos exposure, according to the results of a new study. If confirmed, the findings would mean that current treatment strategies need to be altered as people with a history of asbestos exposure are not currently able to access new treatments for IPF.&lt;img src="http://feeds.feedburner.com/~r/sciencedaily/health_medicine/mesothelioma/~4/IoZID2C0rHI" height="1" width="1" alt=""/&gt;</description>
+			<pubDate>Tue, 09 Sep 2014 09:37:13 EDT</pubDate>
+			<guid isPermaLink="false">https://www.sciencedaily.com/releases/2014/09/140909093713.htm</guid>
+		<feedburner:origLink>https://www.sciencedaily.com/releases/2014/09/140909093713.htm</feedburner:origLink></item>
+		<item>
+			<title>Novel cancer vaccine holds promise against ovarian cancer, mesothelioma</title>
+			<link>http://feeds.sciencedaily.com/~r/sciencedaily/health_medicine/mesothelioma/~3/N1QHpRhK-iU/140305144801.htm</link>
+			<description>A novel approach to cancer immunotherapy may provide a new and cost-effective weapon against some of the most deadly tumors, including ovarian cancer and mesothelioma. Investigators report that a protein engineered to combine a molecule targeting a tumor-cell-surface antigen with another protein that stimulates several immune functions prolonged survival in animal models of both tumors.&lt;img src="http://feeds.feedburner.com/~r/sciencedaily/health_medicine/mesothelioma/~4/N1QHpRhK-iU" height="1" width="1" alt=""/&gt;</description>
+			<media:thumbnail url="https://images.sciencedaily.com/2014/03/140305144801.jpg" height="243" width="300" />
+			<pubDate>Wed, 05 Mar 2014 14:48:01 EST</pubDate>
+			<guid isPermaLink="false">https://www.sciencedaily.com/releases/2014/03/140305144801.htm</guid>
+		<feedburner:origLink>https://www.sciencedaily.com/releases/2014/03/140305144801.htm</feedburner:origLink></item>
+		<item>
+			<title>Radiation before surgery more than doubles mesothelioma survival</title>
+			<link>http://feeds.sciencedaily.com/~r/sciencedaily/health_medicine/mesothelioma/~3/H7MvWpOXJf0/140120173258.htm</link>
+			<description>Results of clinical research that treated mesothelioma with radiation before surgery show the three-year survival rate more than doubled for study participants afflicted with this deadly disease, compared to treating with surgery first.&lt;img src="http://feeds.feedburner.com/~r/sciencedaily/health_medicine/mesothelioma/~4/H7MvWpOXJf0" height="1" width="1" alt=""/&gt;</description>
+			<pubDate>Mon, 20 Jan 2014 17:32:58 EST</pubDate>
+			<guid isPermaLink="false">https://www.sciencedaily.com/releases/2014/01/140120173258.htm</guid>
+		<feedburner:origLink>https://www.sciencedaily.com/releases/2014/01/140120173258.htm</feedburner:origLink></item>
+		<item>
+			<title>Searching for magic bullet against cancer caused by asbestos: One step closer?</title>
+			<link>http://feeds.sciencedaily.com/~r/sciencedaily/health_medicine/mesothelioma/~3/mfIP-cNLc_k/140117103923.htm</link>
+			<description>Mesothelioma is a very aggressive cancer associated with asbestos exposure, which is usually diagnosed in an advanced stage. So far no therapeutic strategy has proven effective against this deadly cancer and the prognosis remains very poor with only few exceptions.&lt;img src="http://feeds.feedburner.com/~r/sciencedaily/health_medicine/mesothelioma/~4/mfIP-cNLc_k" height="1" width="1" alt=""/&gt;</description>
+			<pubDate>Fri, 17 Jan 2014 10:39:23 EST</pubDate>
+			<guid isPermaLink="false">https://www.sciencedaily.com/releases/2014/01/140117103923.htm</guid>
+		<feedburner:origLink>https://www.sciencedaily.com/releases/2014/01/140117103923.htm</feedburner:origLink></item>
+		<item>
+			<title>Overlooked lymph nodes in rib cage have prognostic power for mesothelioma patients</title>
+			<link>http://feeds.sciencedaily.com/~r/sciencedaily/health_medicine/mesothelioma/~3/es5IRLIZGcQ/131028141541.htm</link>
+			<description>For the first time, researchers have shown the predictive power of a group of overlooked lymph nodes that could serve as a better tool to stage and ultimately treat patients with malignant pleural mesothelioma.&lt;img src="http://feeds.feedburner.com/~r/sciencedaily/health_medicine/mesothelioma/~4/es5IRLIZGcQ" height="1" width="1" alt=""/&gt;</description>
+			<pubDate>Mon, 28 Oct 2013 14:15:41 EDT</pubDate>
+			<guid isPermaLink="false">https://www.sciencedaily.com/releases/2013/10/131028141541.htm</guid>
+		<feedburner:origLink>https://www.sciencedaily.com/releases/2013/10/131028141541.htm</feedburner:origLink></item>
+		<item>
+			<title>Strategy to expand patient participation in hard-to-enroll clinical trials</title>
+			<link>http://feeds.sciencedaily.com/~r/sciencedaily/health_medicine/mesothelioma/~3/hYzLuKFCXHw/131023165256.htm</link>
+			<description>Clinical trials are key to finding new cancer treatments, but with patient participation hovering around 5 percent, new strategies are needed to boost enrollment, particularly to study the rare cancers that have so few cases.&lt;img src="http://feeds.feedburner.com/~r/sciencedaily/health_medicine/mesothelioma/~4/hYzLuKFCXHw" height="1" width="1" alt=""/&gt;</description>
+			<pubDate>Wed, 23 Oct 2013 16:52:56 EDT</pubDate>
+			<guid isPermaLink="false">https://www.sciencedaily.com/releases/2013/10/131023165256.htm</guid>
+		<feedburner:origLink>https://www.sciencedaily.com/releases/2013/10/131023165256.htm</feedburner:origLink></item>
+		<item>
+			<title>Mesothelioma: Two groundbreaking trials into treatments for asbestos-related cancer</title>
+			<link>http://feeds.sciencedaily.com/~r/sciencedaily/health_medicine/mesothelioma/~3/OpWe7Mhbnwg/130923092748.htm</link>
+			<description>Two major trials are looking into treatments for a type of cancer which affects those exposed to asbestos.&lt;img src="http://feeds.feedburner.com/~r/sciencedaily/health_medicine/mesothelioma/~4/OpWe7Mhbnwg" height="1" width="1" alt=""/&gt;</description>
+			<pubDate>Mon, 23 Sep 2013 09:27:48 EDT</pubDate>
+			<guid isPermaLink="false">https://www.sciencedaily.com/releases/2013/09/130923092748.htm</guid>
+		<feedburner:origLink>https://www.sciencedaily.com/releases/2013/09/130923092748.htm</feedburner:origLink></item>
+		<item>
+			<title>Mesothelioma: A targeted approach to asbestos-related cancer</title>
+			<link>http://feeds.sciencedaily.com/~r/sciencedaily/health_medicine/mesothelioma/~3/O2_iKGKOmRc/130910205319.htm</link>
+			<description>A new targeted therapy for asbestos-related tumors has shown promise in an animal model. The results raise hopes of a new therapy for this currently incurable cancer. Malignant mesothelioma (MMs) is a rare form of cancer, most commonly caused by exposure to asbestos. It tends to be diagnosed decades after exposure occurs, so is rarely caught early. Current treatments, including surgery and chemotherapy, have limited efficacy and unpleasant side effects.&lt;img src="http://feeds.feedburner.com/~r/sciencedaily/health_medicine/mesothelioma/~4/O2_iKGKOmRc" height="1" width="1" alt=""/&gt;</description>
+			<pubDate>Tue, 10 Sep 2013 20:53:19 EDT</pubDate>
+			<guid isPermaLink="false">https://www.sciencedaily.com/releases/2013/09/130910205319.htm</guid>
+		<feedburner:origLink>https://www.sciencedaily.com/releases/2013/09/130910205319.htm</feedburner:origLink></item>
+		<item>
+			<title>Potential new target to treat malignant pleural mesothelioma</title>
+			<link>http://feeds.sciencedaily.com/~r/sciencedaily/health_medicine/mesothelioma/~3/6y-wSIwtAKU/130725125449.htm</link>
+			<description>Researchers conclude that Ephrin B2 seems to play an important role in malignant pleural mesothelioma cell lines and tumors.&lt;img src="http://feeds.feedburner.com/~r/sciencedaily/health_medicine/mesothelioma/~4/6y-wSIwtAKU" height="1" width="1" alt=""/&gt;</description>
+			<pubDate>Thu, 25 Jul 2013 12:54:49 EDT</pubDate>
+			<guid isPermaLink="false">https://www.sciencedaily.com/releases/2013/07/130725125449.htm</guid>
+		<feedburner:origLink>https://www.sciencedaily.com/releases/2013/07/130725125449.htm</feedburner:origLink></item>
+		<item>
+			<title>Mesothelioma drug slows disease progression in patients with an inactive NF2 gene</title>
+			<link>http://feeds.sciencedaily.com/~r/sciencedaily/health_medicine/mesothelioma/~3/WLk-m9n6ZYI/121108181445.htm</link>
+			<description>Preliminary findings from the first trial of a new drug for patients with mesothelioma show that it has some success in preventing the spread of the deadly disease in patients lacking an active tumour suppressor gene called NF2.&lt;img src="http://feeds.feedburner.com/~r/sciencedaily/health_medicine/mesothelioma/~4/WLk-m9n6ZYI" height="1" width="1" alt=""/&gt;</description>
+			<pubDate>Thu, 08 Nov 2012 18:14:45 EST</pubDate>
+			<guid isPermaLink="false">https://www.sciencedaily.com/releases/2012/11/121108181445.htm</guid>
+		<feedburner:origLink>https://www.sciencedaily.com/releases/2012/11/121108181445.htm</feedburner:origLink></item>
+		<item>
+			<title>High Levels of Blood-Based Protein Specific to Mesothelioma</title>
+			<link>http://feeds.sciencedaily.com/~r/sciencedaily/health_medicine/mesothelioma/~3/pr9yjEt1_fw/121010171934.htm</link>
+			<description>Researchers have discovered the protein product of a little-known gene may one day prove useful in identifying and monitoring the development of mesothelioma in early stages, when aggressive treatment can have an impact on the progression of disease and patient prognosis.&lt;img src="http://feeds.feedburner.com/~r/sciencedaily/health_medicine/mesothelioma/~4/pr9yjEt1_fw" height="1" width="1" alt=""/&gt;</description>
+			<pubDate>Wed, 10 Oct 2012 17:19:34 EDT</pubDate>
+			<guid isPermaLink="false">https://www.sciencedaily.com/releases/2012/10/121010171934.htm</guid>
+		<feedburner:origLink>https://www.sciencedaily.com/releases/2012/10/121010171934.htm</feedburner:origLink></item>
+		<item>
+			<title>Novel blood-based protein signature determined for rare, aggressive lung cancer</title>
+			<link>http://feeds.sciencedaily.com/~r/sciencedaily/health_medicine/mesothelioma/~3/_WK-dGqX3OM/121003195127.htm</link>
+			<description>Researchers have discovered a panel of 13 blood proteins that may be effective biomarkers to detect malignant mesothelioma, according to a new study.&lt;img src="http://feeds.feedburner.com/~r/sciencedaily/health_medicine/mesothelioma/~4/_WK-dGqX3OM" height="1" width="1" alt=""/&gt;</description>
+			<pubDate>Wed, 03 Oct 2012 19:51:27 EDT</pubDate>
+			<guid isPermaLink="false">https://www.sciencedaily.com/releases/2012/10/121003195127.htm</guid>
+		<feedburner:origLink>https://www.sciencedaily.com/releases/2012/10/121003195127.htm</feedburner:origLink></item>
+		<item>
+			<title>Atypical skin mole may provide means to test for new cancer syndrome</title>
+			<link>http://feeds.sciencedaily.com/~r/sciencedaily/health_medicine/mesothelioma/~3/j974Dc6YdjI/120906112610.htm</link>
+			<description>Researchers have discovered germline BAP1 mutations are associated with a novel cancer syndrome characterized by malignant mesothelioma, uveal melanoma, cutaneous melanoma and atypical melanocytic tumors. Germline mutations are hereditary gene defects that are present in every cell.&lt;img src="http://feeds.feedburner.com/~r/sciencedaily/health_medicine/mesothelioma/~4/j974Dc6YdjI" height="1" width="1" alt=""/&gt;</description>
+			<pubDate>Thu, 06 Sep 2012 11:26:10 EDT</pubDate>
+			<guid isPermaLink="false">https://www.sciencedaily.com/releases/2012/09/120906112610.htm</guid>
+		<feedburner:origLink>https://www.sciencedaily.com/releases/2012/09/120906112610.htm</feedburner:origLink></item>
+		<item>
+			<title>Malignant mesothelioma patients likely to benefit from drug pemetrexed identified, study suggests</title>
+			<link>http://feeds.sciencedaily.com/~r/sciencedaily/health_medicine/mesothelioma/~3/k2ZSOssQNkY/120829141809.htm</link>
+			<description>Previous studies have hypothesized that low levels of the enzyme thymidylate synthase (TS) likely mark patients who will benefit from the drug pemetrexed â but results have been inconclusive at best and at times contradictory. A new study provides an explanation why: Only in combination with high levels of a second enzyme, FPGS, does low TS predict response to pemetrexed in patients with malignant pleural mesothelioma.&lt;img src="http://feeds.feedburner.com/~r/sciencedaily/health_medicine/mesothelioma/~4/k2ZSOssQNkY" height="1" width="1" alt=""/&gt;</description>
+			<pubDate>Wed, 29 Aug 2012 14:18:09 EDT</pubDate>
+			<guid isPermaLink="false">https://www.sciencedaily.com/releases/2012/08/120829141809.htm</guid>
+		<feedburner:origLink>https://www.sciencedaily.com/releases/2012/08/120829141809.htm</feedburner:origLink></item>
+		<item>
+			<title>Mesothelioma? Scientists quantify nanofiber health risk to workers</title>
+			<link>http://feeds.sciencedaily.com/~r/sciencedaily/health_medicine/mesothelioma/~3/9CJYXmRmR0I/120822112208.htm</link>
+			<description>Health risks posed to people who work with tiny fibers used in manufacturing industries could be reduced, thanks to new research. Research into the health risks posed by nanofibers â used to strengthen objects from tennis rackets to airplane wings â has pinpointed the lengths at which these fibers are harmful to the lungs.&lt;img src="http://feeds.feedburner.com/~r/sciencedaily/health_medicine/mesothelioma/~4/9CJYXmRmR0I" height="1" width="1" alt=""/&gt;</description>
+			<pubDate>Wed, 22 Aug 2012 11:22:08 EDT</pubDate>
+			<guid isPermaLink="false">https://www.sciencedaily.com/releases/2012/08/120822112208.htm</guid>
+		<feedburner:origLink>https://www.sciencedaily.com/releases/2012/08/120822112208.htm</feedburner:origLink></item>
+		<item>
+			<title>Promising developments in early diagnosis and treatment of mesothelioma</title>
+			<link>http://feeds.sciencedaily.com/~r/sciencedaily/health_medicine/mesothelioma/~3/-Tj2sv7osgA/120418095446.htm</link>
+			<description>New results show important steps being made to improve the diagnosis and treatment of malignant pleural mesothelioma, an aggressive cancer of the outer lining of the lungs caused by asbestos exposure.&lt;img src="http://feeds.feedburner.com/~r/sciencedaily/health_medicine/mesothelioma/~4/-Tj2sv7osgA" height="1" width="1" alt=""/&gt;</description>
+			<pubDate>Wed, 18 Apr 2012 09:54:46 EDT</pubDate>
+			<guid isPermaLink="false">https://www.sciencedaily.com/releases/2012/04/120418095446.htm</guid>
+		<feedburner:origLink>https://www.sciencedaily.com/releases/2012/04/120418095446.htm</feedburner:origLink></item>
+		<item>
+			<title>Genetic link to mesothelioma discovered</title>
+			<link>http://feeds.sciencedaily.com/~r/sciencedaily/health_medicine/mesothelioma/~3/773Bk5KR9CU/110828140940.htm</link>
+			<description>Scientists have found that individuals who carry a mutation in a gene called BAP1 are susceptible to developing two forms of cancer -- mesothelioma, and melanoma of the eye. Additionally, when these individuals are exposed to asbestos or similar mineral fibers, their risk of developing mesothelioma, an aggressive cancer of the lining of the chest and abdomen, is markedly increased.&lt;img src="http://feeds.feedburner.com/~r/sciencedaily/health_medicine/mesothelioma/~4/773Bk5KR9CU" height="1" width="1" alt=""/&gt;</description>
+			<pubDate>Sun, 28 Aug 2011 14:09:40 EDT</pubDate>
+			<guid isPermaLink="false">https://www.sciencedaily.com/releases/2011/08/110828140940.htm</guid>
+		<feedburner:origLink>https://www.sciencedaily.com/releases/2011/08/110828140940.htm</feedburner:origLink></item>
+		<item>
+			<title>Cancer-causing mineral found in U.S. road gravel: Erionite in roads may increase risk of mesothelioma</title>
+			<link>http://feeds.sciencedaily.com/~r/sciencedaily/health_medicine/mesothelioma/~3/4DK35YCCU50/110725162527.htm</link>
+			<description>Vehicles traveling along gravel roads in Dunn County, North Dakota stir up clouds of dust containing high levels of the mineral erionite. Those who breathe in the air every day are at an increased risk of developing mesothelioma, new research shows. Erionite shares similar physical similarities with asbestos and when airborne, its fibers can lodge in people's lungs. Over time, the embedded fibers can lead to mesothelioma, a lung cancer most often associated with asbestos.&lt;img src="http://feeds.feedburner.com/~r/sciencedaily/health_medicine/mesothelioma/~4/4DK35YCCU50" height="1" width="1" alt=""/&gt;</description>
+			<media:thumbnail url="https://images.sciencedaily.com/2011/07/110725162527.jpg" height="211" width="300" />
+			<pubDate>Mon, 25 Jul 2011 16:25:27 EDT</pubDate>
+			<guid isPermaLink="false">https://www.sciencedaily.com/releases/2011/07/110725162527.htm</guid>
+		<feedburner:origLink>https://www.sciencedaily.com/releases/2011/07/110725162527.htm</feedburner:origLink></item>
+		<item>
+			<title>Nanotubes could pose health risk to production line staff, study suggests</title>
+			<link>http://feeds.sciencedaily.com/~r/sciencedaily/health_medicine/mesothelioma/~3/WTZJ8oGTHKA/110614100515.htm</link>
+			<description>Tiny fibers used to strengthen everyday products such as bicycle frames and hockey sticks could pose health hazards to those involved in their manufacture. Certain types of carbon nanotubes -- cylindrical molecules about one-thousandth of the width of a human hair -- could cause cancer in the lining of the lung, researchers have found.&lt;img src="http://feeds.feedburner.com/~r/sciencedaily/health_medicine/mesothelioma/~4/WTZJ8oGTHKA" height="1" width="1" alt=""/&gt;</description>
+			<pubDate>Tue, 14 Jun 2011 10:05:15 EDT</pubDate>
+			<guid isPermaLink="false">https://www.sciencedaily.com/releases/2011/06/110614100515.htm</guid>
+		<feedburner:origLink>https://www.sciencedaily.com/releases/2011/06/110614100515.htm</feedburner:origLink></item>
+		<item>
+			<title>Deaths and major morbidity from asbestos-related diseases in Asia likely to surge in next 20 years, experts warn</title>
+			<link>http://feeds.sciencedaily.com/~r/sciencedaily/health_medicine/mesothelioma/~3/5-7fsDsiU50/110609151531.htm</link>
+			<description>An alarming new article issues a serious warning of massive rises in deaths from asbestos-related lung diseases in Asia. Asian countries accounted for 64% of the global consumption of asbestos in the period of 2001-2007, a striking increase from 14% between 1920 and 1970. This is a result of unregulated asbestos import and use in many Asian countries.&lt;img src="http://feeds.feedburner.com/~r/sciencedaily/health_medicine/mesothelioma/~4/5-7fsDsiU50" height="1" width="1" alt=""/&gt;</description>
+			<pubDate>Thu, 09 Jun 2011 15:15:31 EDT</pubDate>
+			<guid isPermaLink="false">https://www.sciencedaily.com/releases/2011/06/110609151531.htm</guid>
+		<feedburner:origLink>https://www.sciencedaily.com/releases/2011/06/110609151531.htm</feedburner:origLink></item>
+		<item>
+			<title>Pleural mesothelioma: Combination therapy shows promise for rare, deadly cancer caused by asbestos</title>
+			<link>http://feeds.sciencedaily.com/~r/sciencedaily/health_medicine/mesothelioma/~3/9_jDi5RJLH0/110602122258.htm</link>
+			<description>Pleural mesothelioma patients who undergo lung-sparing surgery in combination with photodynamic therapy (PDT) show superior overall survival than patient treated using the conventional therapy of extrapleural pneumonectomy (or en bloc removal of the lung and surrounding tissue) with PDT, indicates new research.&lt;img src="http://feeds.feedburner.com/~r/sciencedaily/health_medicine/mesothelioma/~4/9_jDi5RJLH0" height="1" width="1" alt=""/&gt;</description>
+			<media:thumbnail url="https://images.sciencedaily.com/2011/06/110602122258.jpg" height="397" width="300" />
+			<pubDate>Thu, 02 Jun 2011 12:22:58 EDT</pubDate>
+			<guid isPermaLink="false">https://www.sciencedaily.com/releases/2011/06/110602122258.htm</guid>
+		<feedburner:origLink>https://www.sciencedaily.com/releases/2011/06/110602122258.htm</feedburner:origLink></item>
+		<item>
+			<title>Novel noninvasive tests for early cancer detection</title>
+			<link>http://feeds.sciencedaily.com/~r/sciencedaily/health_medicine/mesothelioma/~3/1qM3dNz_PLQ/110503151602.htm</link>
+			<description>Researchers are intensifying efforts to identify and validate various types of biomarkers that are detectable in readily accessible bodily fluids such as blood and urine.&lt;img src="http://feeds.feedburner.com/~r/sciencedaily/health_medicine/mesothelioma/~4/1qM3dNz_PLQ" height="1" width="1" alt=""/&gt;</description>
+			<pubDate>Tue, 03 May 2011 15:16:02 EDT</pubDate>
+			<guid isPermaLink="false">https://www.sciencedaily.com/releases/2011/05/110503151602.htm</guid>
+		<feedburner:origLink>https://www.sciencedaily.com/releases/2011/05/110503151602.htm</feedburner:origLink></item>
+		<item>
+			<title>Renal cancer drug temsirolimus shows promise against mesothelioma</title>
+			<link>http://feeds.sciencedaily.com/~r/sciencedaily/health_medicine/mesothelioma/~3/_qX1x_Kp1Ds/110501183641.htm</link>
+			<description>A drug commonly used to treat kidney cancer may increase the effectiveness of chemotherapy for mesothelioma, according to a new study.&lt;img src="http://feeds.feedburner.com/~r/sciencedaily/health_medicine/mesothelioma/~4/_qX1x_Kp1Ds" height="1" width="1" alt=""/&gt;</description>
+			<pubDate>Sun, 01 May 2011 18:36:41 EDT</pubDate>
+			<guid isPermaLink="false">https://www.sciencedaily.com/releases/2011/05/110501183641.htm</guid>
+		<feedburner:origLink>https://www.sciencedaily.com/releases/2011/05/110501183641.htm</feedburner:origLink></item>
+		<item>
+			<title>New test detects early-stage, asbestos-related pulmonary cancer</title>
+			<link>http://feeds.sciencedaily.com/~r/sciencedaily/health_medicine/mesothelioma/~3/eIGPoJZeyMA/110404093151.htm</link>
+			<description>Researchers have investigated a novel protein test to detect early-stage, asbestos-related pulmonary cancer. The test can accurately identify proteins secreted from cancerous tumors caused by asbestos exposure.&lt;img src="http://feeds.feedburner.com/~r/sciencedaily/health_medicine/mesothelioma/~4/eIGPoJZeyMA" height="1" width="1" alt=""/&gt;</description>
+			<pubDate>Mon, 04 Apr 2011 09:31:51 EDT</pubDate>
+			<guid isPermaLink="false">https://www.sciencedaily.com/releases/2011/04/110404093151.htm</guid>
+		<feedburner:origLink>https://www.sciencedaily.com/releases/2011/04/110404093151.htm</feedburner:origLink></item>
+		<item>
+			<title>Exposure to North Dakota road material may increase risk of lung cancer</title>
+			<link>http://feeds.sciencedaily.com/~r/sciencedaily/health_medicine/mesothelioma/~3/ZzKufGTAKsE/101209101356.htm</link>
+			<description>New data shows that people exposed to the mineral erionite found in the gravel of road materials in North Dakota may be at significantly increased risk of developing mesothelioma, a type of lung cancer most often associated with asbestos exposure.&lt;img src="http://feeds.feedburner.com/~r/sciencedaily/health_medicine/mesothelioma/~4/ZzKufGTAKsE" height="1" width="1" alt=""/&gt;</description>
+			<pubDate>Thu, 09 Dec 2010 10:13:56 EST</pubDate>
+			<guid isPermaLink="false">https://www.sciencedaily.com/releases/2010/12/101209101356.htm</guid>
+		<feedburner:origLink>https://www.sciencedaily.com/releases/2010/12/101209101356.htm</feedburner:origLink></item>
+		<item>
+			<title>Urgent ban on all asbestos needed, experts urge</title>
+			<link>http://feeds.sciencedaily.com/~r/sciencedaily/health_medicine/mesothelioma/~3/DnVZVuK4VFY/101209074205.htm</link>
+			<description>Scientists have repeated calls for a total ban on all asbestos across the globe. They point out that just 52 nations have banned asbestos but a large number still use, import and export asbestos and asbestos-containing products.&lt;img src="http://feeds.feedburner.com/~r/sciencedaily/health_medicine/mesothelioma/~4/DnVZVuK4VFY" height="1" width="1" alt=""/&gt;</description>
+			<pubDate>Thu, 09 Dec 2010 07:42:05 EST</pubDate>
+			<guid isPermaLink="false">https://www.sciencedaily.com/releases/2010/12/101209074205.htm</guid>
+		<feedburner:origLink>https://www.sciencedaily.com/releases/2010/12/101209074205.htm</feedburner:origLink></item>
+		<item>
+			<title>New biomarkers discovered for pancreatic cancer and mesothelioma</title>
+			<link>http://feeds.sciencedaily.com/~r/sciencedaily/health_medicine/mesothelioma/~3/1vVc7LDsyhA/100928152015.htm</link>
+			<description>Using a novel aptamer-based proteomics array technology, researchers and collaborators have identified biomarkers and protein signatures that are hallmarks of cancer at an early stage for two of the most aggressive and deadly forms of cancer -- pancreatic and mesothelioma.&lt;img src="http://feeds.feedburner.com/~r/sciencedaily/health_medicine/mesothelioma/~4/1vVc7LDsyhA" height="1" width="1" alt=""/&gt;</description>
+			<pubDate>Tue, 28 Sep 2010 15:20:15 EDT</pubDate>
+			<guid isPermaLink="false">https://www.sciencedaily.com/releases/2010/09/100928152015.htm</guid>
+		<feedburner:origLink>https://www.sciencedaily.com/releases/2010/09/100928152015.htm</feedburner:origLink></item>
+		<item>
+			<title>Work-related deaths in England and Wales have almost halved in 20 years, study finds</title>
+			<link>http://feeds.sciencedaily.com/~r/sciencedaily/health_medicine/mesothelioma/~3/kQrmx2a5LFw/100719205638.htm</link>
+			<description>Deaths in England and Wales from injuries and diseases caused by work have almost halved in 20 years, indicates new research.&lt;img src="http://feeds.feedburner.com/~r/sciencedaily/health_medicine/mesothelioma/~4/kQrmx2a5LFw" height="1" width="1" alt=""/&gt;</description>
+			<pubDate>Mon, 19 Jul 2010 20:56:38 EDT</pubDate>
+			<guid isPermaLink="false">https://www.sciencedaily.com/releases/2010/07/100719205638.htm</guid>
+		<feedburner:origLink>https://www.sciencedaily.com/releases/2010/07/100719205638.htm</feedburner:origLink></item>
+		<item>
+			<title>Mystery unraveled: How asbestos causes cancer</title>
+			<link>http://feeds.sciencedaily.com/~r/sciencedaily/health_medicine/mesothelioma/~3/C3iqXMFiMcs/100629094153.htm</link>
+			<description>More than 20 million people in the US, and many more worldwide, who have been exposed to asbestos are at risk of developing mesothelioma, a malignant cancer of the membranes that cover the lungs and abdomen that is resistant to current therapies. Moreover, asbestos exposure increases the risk of lung cancer among smokers. For the past 40 years researchers have tried to understand why asbestos causes cancer.&lt;img src="http://feeds.feedburner.com/~r/sciencedaily/health_medicine/mesothelioma/~4/C3iqXMFiMcs" height="1" width="1" alt=""/&gt;</description>
+			<pubDate>Tue, 29 Jun 2010 09:41:53 EDT</pubDate>
+			<guid isPermaLink="false">https://www.sciencedaily.com/releases/2010/06/100629094153.htm</guid>
+		<feedburner:origLink>https://www.sciencedaily.com/releases/2010/06/100629094153.htm</feedburner:origLink></item>
+		<item>
+			<title>Possible vaccine for mesothelioma proven safe</title>
+			<link>http://feeds.sciencedaily.com/~r/sciencedaily/health_medicine/mesothelioma/~3/CojB7lyeHk8/100304072707.htm</link>
+			<description>Researchers have demonstrated the safety of a potential vaccine against mesothelioma, a rare cancer associated primarily with asbestos exposure. The vaccine, which infuses uses a patient's own dendritic cells with antigen from the patient's tumor, was able to induce a T-cell response against mesothelioma tumors.&lt;img src="http://feeds.feedburner.com/~r/sciencedaily/health_medicine/mesothelioma/~4/CojB7lyeHk8" height="1" width="1" alt=""/&gt;</description>
+			<pubDate>Thu, 04 Mar 2010 07:27:07 EST</pubDate>
+			<guid isPermaLink="false">https://www.sciencedaily.com/releases/2010/03/100304072707.htm</guid>
+		<feedburner:origLink>https://www.sciencedaily.com/releases/2010/03/100304072707.htm</feedburner:origLink></item>
+		<item>
+			<title>New agent to manage cancer related effusions</title>
+			<link>http://feeds.sciencedaily.com/~r/sciencedaily/health_medicine/mesothelioma/~3/2v07uwLe9lE/100203084256.htm</link>
+			<description>In the USA each year, 200,000 cancer patients suffer from a malignant pleural effusion -- development of excessive fluid (pleural effusion) in the chest. Several litres of such fluid can accumulate, and many patients suffer from significant breathlessness and distress. One in four patients with lung cancer, one in every three with breast cancer and most of the patients with mesothelioma will develop a malignant effusion. The current strategy is to induce a pleurodesis (seal the pleural cavity with a chemical agent so no fluid can accumulate). However existing agents are far from perfect, with most producing significant side effects while delivering low success rates.&lt;img src="http://feeds.feedburner.com/~r/sciencedaily/health_medicine/mesothelioma/~4/2v07uwLe9lE" height="1" width="1" alt=""/&gt;</description>
+			<pubDate>Wed, 03 Feb 2010 08:42:56 EST</pubDate>
+			<guid isPermaLink="false">https://www.sciencedaily.com/releases/2010/02/100203084256.htm</guid>
+		<feedburner:origLink>https://www.sciencedaily.com/releases/2010/02/100203084256.htm</feedburner:origLink></item>
+		<item>
+			<title>Asbestos Contamination: Health Impacts Of One Of The Nation's Largest Environmental Disasters</title>
+			<link>http://feeds.sciencedaily.com/~r/sciencedaily/health_medicine/mesothelioma/~3/mZiXetZQyXY/091102172255.htm</link>
+			<description>Over nearly a century, thousands of residents and workers in Libby, Mont., have been exposed to asbestos-contaminated vermiculite ore, leading to markedly higher rates of lung disease and autoimmune disorders, and causing to Libby in 2002 to be added to the federal Environmental Protection Agency's "National Priorities List." Researchers are now launching three investigations into disease pathology in the town and to determine recommended cleanup efforts.&lt;img src="http://feeds.feedburner.com/~r/sciencedaily/health_medicine/mesothelioma/~4/mZiXetZQyXY" height="1" width="1" alt=""/&gt;</description>
+			<pubDate>Mon, 02 Nov 2009 17:22:55 EST</pubDate>
+			<guid isPermaLink="false">https://www.sciencedaily.com/releases/2009/11/091102172255.htm</guid>
+		<feedburner:origLink>https://www.sciencedaily.com/releases/2009/11/091102172255.htm</feedburner:origLink></item>
+		<item>
+			<title>How Carbon Nanotubes Can Affect Lining Of The Lungs</title>
+			<link>http://feeds.sciencedaily.com/~r/sciencedaily/health_medicine/mesothelioma/~3/GDC6EH6OTt0/091025162452.htm</link>
+			<description>Carbon nanotubes are being considered for use in everything from sports equipment to medical applications, but a great deal remains unknown about whether these materials cause respiratory or other health problems. Now a new study shows that inhaling these nanotubes can affect the outer lining of the lung, though the effects of long-term exposure remain unclear.&lt;img src="http://feeds.feedburner.com/~r/sciencedaily/health_medicine/mesothelioma/~4/GDC6EH6OTt0" height="1" width="1" alt=""/&gt;</description>
+			<pubDate>Sun, 25 Oct 2009 16:24:52 EDT</pubDate>
+			<guid isPermaLink="false">https://www.sciencedaily.com/releases/2009/10/091025162452.htm</guid>
+		<feedburner:origLink>https://www.sciencedaily.com/releases/2009/10/091025162452.htm</feedburner:origLink></item>
+		<item>
+			<title>New Technique Can Help Diagnose Mesothelioma</title>
+			<link>http://feeds.sciencedaily.com/~r/sciencedaily/health_medicine/mesothelioma/~3/H7xE9gwMN0Y/090824081121.htm</link>
+			<description>A new technique may help clinicians hone in on a diagnosis in patients presenting with a pleural effusion of unknown cause.&lt;img src="http://feeds.feedburner.com/~r/sciencedaily/health_medicine/mesothelioma/~4/H7xE9gwMN0Y" height="1" width="1" alt=""/&gt;</description>
+			<pubDate>Mon, 24 Aug 2009 08:11:21 EDT</pubDate>
+			<guid isPermaLink="false">https://www.sciencedaily.com/releases/2009/08/090824081121.htm</guid>
+		<feedburner:origLink>https://www.sciencedaily.com/releases/2009/08/090824081121.htm</feedburner:origLink></item>
+		<item>
+			<title>Gene Expression Ratio Test Predicts Outcome In Mesothelioma Patients Treated With Surgery</title>
+			<link>http://feeds.sciencedaily.com/~r/sciencedaily/health_medicine/mesothelioma/~3/ln9BrWh6V0s/090428162014.htm</link>
+			<description>A four-gene expression ratio test prospectively distinguished mesothelioma patients who had a statistically significant longer overall survival from those who had shorter survival in a single-institution study.&lt;img src="http://feeds.feedburner.com/~r/sciencedaily/health_medicine/mesothelioma/~4/ln9BrWh6V0s" height="1" width="1" alt=""/&gt;</description>
+			<pubDate>Tue, 28 Apr 2009 16:20:14 EDT</pubDate>
+			<guid isPermaLink="false">https://www.sciencedaily.com/releases/2009/04/090428162014.htm</guid>
+		<feedburner:origLink>https://www.sciencedaily.com/releases/2009/04/090428162014.htm</feedburner:origLink></item>
+		<item>
+			<title>How Asbestos Fibers Trigger Cancer In Human Cells</title>
+			<link>http://feeds.sciencedaily.com/~r/sciencedaily/health_medicine/mesothelioma/~3/F98wx_8IDAE/081218140541.htm</link>
+			<description>Scientists are now studying the molecular underpinnings of cancer by probing individual bonds between an asbestos fiber and human cells. Though any clinical application is years away, the researchers hope their findings could aid in drug development efforts targeting illnesses caused by excessive exposure to asbestos, including the deadly cancer called mesothelioma.&lt;img src="http://feeds.feedburner.com/~r/sciencedaily/health_medicine/mesothelioma/~4/F98wx_8IDAE" height="1" width="1" alt=""/&gt;</description>
+			<pubDate>Thu, 18 Dec 2008 14:05:41 EST</pubDate>
+			<guid isPermaLink="false">https://www.sciencedaily.com/releases/2008/12/081218140541.htm</guid>
+		<feedburner:origLink>https://www.sciencedaily.com/releases/2008/12/081218140541.htm</feedburner:origLink></item>
+		<item>
+			<title>New Clinical Trial For Patients With Asbestos-associated Lung Cancer</title>
+			<link>http://feeds.sciencedaily.com/~r/sciencedaily/health_medicine/mesothelioma/~3/cd13-Ra4vqc/080626100932.htm</link>
+			<description>The Mesothelioma Center within the Herbert Irving Comprehensive Cancer Center at NewYork-Presbyterian Hospital and Columbia University Medical Center is now recruiting patients for a clinical research study of a new targeted radiation and chemotherapy protocol for pleural mesothelioma, a cancer of the lung's lining that is almost always caused by previous exposure to asbestos.&lt;img src="http://feeds.feedburner.com/~r/sciencedaily/health_medicine/mesothelioma/~4/cd13-Ra4vqc" height="1" width="1" alt=""/&gt;</description>
+			<pubDate>Thu, 26 Jun 2008 10:09:32 EDT</pubDate>
+			<guid isPermaLink="false">https://www.sciencedaily.com/releases/2008/06/080626100932.htm</guid>
+		<feedburner:origLink>https://www.sciencedaily.com/releases/2008/06/080626100932.htm</feedburner:origLink></item>
+		<item>
+			<title>Carbon Nanotubes That Look Like Asbestos, Behave Like Asbestos, Could Lead To Asbestos-related Disease</title>
+			<link>http://feeds.sciencedaily.com/~r/sciencedaily/health_medicine/mesothelioma/~3/OsaX3AJsSGY/080520144004.htm</link>
+			<description>A major study in Nature Nanotechnology suggests some forms of carbon nanotubes -- a poster child for the "nanotechnology revolution" -- could be as harmful as asbestos if inhaled in sufficient quantities.&lt;img src="http://feeds.feedburner.com/~r/sciencedaily/health_medicine/mesothelioma/~4/OsaX3AJsSGY" height="1" width="1" alt=""/&gt;</description>
+			<media:thumbnail url="https://images.sciencedaily.com/2008/05/080520144004.jpg" height="201" width="300" />
+			<pubDate>Tue, 20 May 2008 14:40:04 EDT</pubDate>
+			<guid isPermaLink="false">https://www.sciencedaily.com/releases/2008/05/080520144004.htm</guid>
+		<feedburner:origLink>https://www.sciencedaily.com/releases/2008/05/080520144004.htm</feedburner:origLink></item>
+		<item>
+			<title>Mouse Model For Mesothelioma Reproduces Human Disease</title>
+			<link>http://feeds.sciencedaily.com/~r/sciencedaily/health_medicine/mesothelioma/~3/sccbX6kWIk4/080310131537.htm</link>
+			<description>Scientists have established a mouse model for human malignant mesothelioma that will provide valuable insight into cancer development and progression along with new directions for design of therapeutic strategies. The research may eventually lead to a substantially improved outlook for patients with this devastating disease. Malignant mesothelioma is an aggressive cancer originating from the mesothelial lining of the pleural cavity and is associated with asbestos exposure and is characterized by a long latency period between exposure and disease onset.&lt;img src="http://feeds.feedburner.com/~r/sciencedaily/health_medicine/mesothelioma/~4/sccbX6kWIk4" height="1" width="1" alt=""/&gt;</description>
+			<pubDate>Mon, 10 Mar 2008 13:15:37 EDT</pubDate>
+			<guid isPermaLink="false">https://www.sciencedaily.com/releases/2008/03/080310131537.htm</guid>
+		<feedburner:origLink>https://www.sciencedaily.com/releases/2008/03/080310131537.htm</feedburner:origLink></item>
+		<item>
+			<title>Asbestos Disease Projections Too Low</title>
+			<link>http://feeds.sciencedaily.com/~r/sciencedaily/health_medicine/mesothelioma/~3/8jN7lWGWWn8/070402100931.htm</link>
+			<description>Current predictions of the future incidence of asbestos-related disease have been substantially underestimated, according to new modelling to be presented in Melbourne today by an epidemiologist from the Australian National University.&lt;img src="http://feeds.feedburner.com/~r/sciencedaily/health_medicine/mesothelioma/~4/8jN7lWGWWn8" height="1" width="1" alt=""/&gt;</description>
+			<pubDate>Mon, 02 Apr 2007 10:09:31 EDT</pubDate>
+			<guid isPermaLink="false">https://www.sciencedaily.com/releases/2007/04/070402100931.htm</guid>
+		<feedburner:origLink>https://www.sciencedaily.com/releases/2007/04/070402100931.htm</feedburner:origLink></item>
+		<item>
+			<title>Mesothelioma: Chemo Combination Improves Survival In Asbestos-related Cancer</title>
+			<link>http://feeds.sciencedaily.com/~r/sciencedaily/health_medicine/mesothelioma/~3/553h8_z893M/070208131638.htm</link>
+			<description>People with mesothelioma -- a form of cancer associated with asbestos exposure -- have a higher survival rate when treated with a combination of two cancer drugs, a large multicenter study finds.&lt;img src="http://feeds.feedburner.com/~r/sciencedaily/health_medicine/mesothelioma/~4/553h8_z893M" height="1" width="1" alt=""/&gt;</description>
+			<pubDate>Thu, 08 Feb 2007 13:16:38 EST</pubDate>
+			<guid isPermaLink="false">https://www.sciencedaily.com/releases/2007/02/070208131638.htm</guid>
+		<feedburner:origLink>https://www.sciencedaily.com/releases/2007/02/070208131638.htm</feedburner:origLink></item>
+		<item>
+			<title>Exposure To Volcanic Mineral Associated With Increased Mesothelioma Incidence In Turkey</title>
+			<link>http://feeds.sciencedaily.com/~r/sciencedaily/health_medicine/mesothelioma/~3/HJVGW6Sm5Kc/060320213802.htm</link>
+			<description>High exposure to a fibrous volcanic mineral called erionite was associated with a high incidence of a type of cancer called mesothelioma, according to a study in the March 15 issue of the &lt;i&gt;Journal of the National Cancer Institute. &lt;/i&gt;&lt;img src="http://feeds.feedburner.com/~r/sciencedaily/health_medicine/mesothelioma/~4/HJVGW6Sm5Kc" height="1" width="1" alt=""/&gt;</description>
+			<pubDate>Mon, 20 Mar 2006 21:38:02 EST</pubDate>
+			<guid isPermaLink="false">https://www.sciencedaily.com/releases/2006/03/060320213802.htm</guid>
+		<feedburner:origLink>https://www.sciencedaily.com/releases/2006/03/060320213802.htm</feedburner:origLink></item>
+		<item>
+			<title>Elevated Blood Levels Of A Protein Are Linked To Asbestos-induced Cancers</title>
+			<link>http://feeds.sciencedaily.com/~r/sciencedaily/health_medicine/mesothelioma/~3/k4zYTQ-Lwhs/051016085244.htm</link>
+			<description>Researchers at New York University School of Medicine and Wayne State University have found a molecule that reveals the early stages of pleural mesothelioma, a chest cancer caused by asbestos. The finding opens the way to a blood test for the disease, according to a new study published in the Oct. 13 issue of The New England Journal of Medicine.&lt;img src="http://feeds.feedburner.com/~r/sciencedaily/health_medicine/mesothelioma/~4/k4zYTQ-Lwhs" height="1" width="1" alt=""/&gt;</description>
+			<pubDate>Sun, 16 Oct 2005 08:52:44 EDT</pubDate>
+			<guid isPermaLink="false">https://www.sciencedaily.com/releases/2005/10/051016085244.htm</guid>
+		<feedburner:origLink>https://www.sciencedaily.com/releases/2005/10/051016085244.htm</feedburner:origLink></item>
+		<item>
+			<title>Naturally Occurring Asbestos Linked To Lung Cancer</title>
+			<link>http://feeds.sciencedaily.com/~r/sciencedaily/health_medicine/mesothelioma/~3/PuSic1M59qA/050712225506.htm</link>
+			<description>Everyday exposure to naturally occurring asbestos increases the risk of developing malignant mesothelioma, according to a study by UC Davis researchers. The study - the largest to examine the question - will be published this fall in the American Journal of Respiratory and Critical Care Medicine.&lt;img src="http://feeds.feedburner.com/~r/sciencedaily/health_medicine/mesothelioma/~4/PuSic1M59qA" height="1" width="1" alt=""/&gt;</description>
+			<pubDate>Tue, 12 Jul 2005 22:55:06 EDT</pubDate>
+			<guid isPermaLink="false">https://www.sciencedaily.com/releases/2005/07/050712225506.htm</guid>
+		<feedburner:origLink>https://www.sciencedaily.com/releases/2005/07/050712225506.htm</feedburner:origLink></item>
+		<item>
+			<title>Workers Exposed To Libby Vermiculite Ore Have High Rate Of Chest Wall Abnormalities</title>
+			<link>http://feeds.sciencedaily.com/~r/sciencedaily/health_medicine/mesothelioma/~3/-a3AgtcxLuE/050710102412.htm</link>
+			<description>More than one-quarter of tested workers at an Ohio manufacturing plant historically exposed to asbestos-containing vermiculite ore exhibited signs of scarring of the chest wall lining, or pleural plaques, which are usually considered markers of previous exposure to asbestos fibers, according to research from the University of Cincinnati College of Medicine.&lt;img src="http://feeds.feedburner.com/~r/sciencedaily/health_medicine/mesothelioma/~4/-a3AgtcxLuE" height="1" width="1" alt=""/&gt;</description>
+			<pubDate>Sun, 10 Jul 2005 10:24:12 EDT</pubDate>
+			<guid isPermaLink="false">https://www.sciencedaily.com/releases/2005/07/050710102412.htm</guid>
+		<feedburner:origLink>https://www.sciencedaily.com/releases/2005/07/050710102412.htm</feedburner:origLink></item>
+		<item>
+			<title>No Role For Simian Virus 40 In Human Pleural Mesotheliomas</title>
+			<link>http://feeds.sciencedaily.com/~r/sciencedaily/health_medicine/mesothelioma/~3/U4idKNk32sU/040927081917.htm</link>
+			<description>A study, published in the September 25 issue of Lancet, calls into question the proposed link between SV40 and pleural mesothelioma and provides a possible explanation for the discrepancies in the results obtained by different groups.&lt;img src="http://feeds.feedburner.com/~r/sciencedaily/health_medicine/mesothelioma/~4/U4idKNk32sU" height="1" width="1" alt=""/&gt;</description>
+			<pubDate>Mon, 27 Sep 2004 08:19:17 EDT</pubDate>
+			<guid isPermaLink="false">https://www.sciencedaily.com/releases/2004/09/040927081917.htm</guid>
+		<feedburner:origLink>https://www.sciencedaily.com/releases/2004/09/040927081917.htm</feedburner:origLink></item>
+		<item>
+			<title>Penn Researchers Find That PET Imaging Sheds More Light On Complex, Microscopic Cancers</title>
+			<link>http://feeds.sciencedaily.com/~r/sciencedaily/health_medicine/mesothelioma/~3/d0f9dppVwv8/980912111833.htm</link>
+			<description>Managing cancer is challenging for physicians in and of itself, but with certain types of cancer, diagnosis is difficult as well. In cancers based in unusual locations, such as in the lining of the lung (mesothelioma) or in the lymph nodes, conventional imaging technology cannot detect malignant cells or differentiate them from benign, or non-cancerous, ones.&lt;img src="http://feeds.feedburner.com/~r/sciencedaily/health_medicine/mesothelioma/~4/d0f9dppVwv8" height="1" width="1" alt=""/&gt;</description>
+			<pubDate>Sat, 12 Sep 1998 11:18:33 EDT</pubDate>
+			<guid isPermaLink="false">https://www.sciencedaily.com/releases/1998/09/980912111833.htm</guid>
+		<feedburner:origLink>https://www.sciencedaily.com/releases/1998/09/980912111833.htm</feedburner:origLink></item>
+	</channel>
+</rss><!-- Page successfully written to cache. --><!-- cached Sun, 06 Mar 2016 23:07:01 EST -->

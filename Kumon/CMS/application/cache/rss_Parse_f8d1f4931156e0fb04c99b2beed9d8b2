@@ -1,0 +1,643 @@
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="http://electronicdesign.com/rss.xml" xmlns:media="http://search.yahoo.com/mrss/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Electronic Design</title>
+    <link>http://electronicdesign.com/rss.xml</link>
+    <description></description>
+    <language>en</language>
+          <item>
+    <title>Protecting Your Lithium-Ion Batteries Isnât So Hard</title>
+    <link>http://electronicdesign.com/power-sources/protecting-your-lithium-ion-batteries-isn-t-so-hard</link>
+    <description>
+
+&lt;div class=&quot;node-body article-body&quot;&gt;Safety is a primary concern when using lithium-battery technologyâhere&#039;s one approach to implementing the level of protection needed in battery packs for portables.&lt;/div&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://electronicdesign.com/power-sources/protecting-your-lithium-ion-batteries-isn-t-so-hard&quot; target=&quot;_blank&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+         <comments>http://electronicdesign.com/power-sources/protecting-your-lithium-ion-batteries-isn-t-so-hard#comments</comments>
+ <category domain="http://electronicdesign.com/technologies/analog">Analog</category>
+ <category domain="http://electronicdesign.com/markets/mobile">Mobile</category>
+ <category domain="http://electronicdesign.com/technologies/power">Power</category>
+ <category domain="http://electronicdesign.com/technologies/power-sources">Power Sources</category>
+ <category domain="http://electronicdesign.com/s-z-companies/texas-instruments">Texas Instruments</category>
+ <pubDate>Thu, 26 Jan 2017 13:00:00 +0000</pubDate>
+ <dc:creator></dc:creator>
+ <guid isPermaLink="false">910011 at http://electronicdesign.com</guid>
+                        <media:thumbnail url="http://electronicdesign.com/site-files/electronicdesign.com/files/imagecache/thumb_img/uploads/2017/01/0117tili-ionsafetypromo.jpg" />
+      <media:content url="http://electronicdesign.com/site-files/electronicdesign.com/files/uploads/2017/01/0117tili-ionsafetypromo.jpg" medium="image">
+                      </media:content>
+          </item>  <item>
+    <title>VITA Perspective 2017: Unexplored Territory</title>
+    <link>http://electronicdesign.com/embedded/vita-perspective-2017-unexplored-territory</link>
+    <description>
+
+&lt;div class=&quot;node-body article-body&quot;&gt;VITAâs Executive Director, Jerry Gipper, looks ahead to 2017 and how itâs going to affect the embedded avionics and defense industry. &lt;/div&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://electronicdesign.com/embedded/vita-perspective-2017-unexplored-territory&quot; target=&quot;_blank&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+         <comments>http://electronicdesign.com/embedded/vita-perspective-2017-unexplored-territory#comments</comments>
+ <category domain="http://electronicdesign.com/markets/defense">Defense</category>
+ <category domain="http://electronicdesign.com/technologies/boards">Boards</category>
+ <category domain="http://electronicdesign.com/technologies/embedded">Embedded</category>
+ <pubDate>Mon, 23 Jan 2017 20:26:00 +0000</pubDate>
+ <dc:creator></dc:creator>
+ <guid isPermaLink="false">911011 at http://electronicdesign.com</guid>
+                        <media:thumbnail url="http://electronicdesign.com/site-files/electronicdesign.com/files/imagecache/thumb_img/uploads/2017/01/0117ctevitapromo.jpg" />
+      <media:content url="http://electronicdesign.com/site-files/electronicdesign.com/files/uploads/2017/01/0117ctevitapromo.jpg" medium="image">
+                      </media:content>
+          </item>  <item>
+    <title>Gallery: Checking Out the Latest Consumer Drones</title>
+    <link>http://electronicdesign.com/embedded/gallery-checking-out-latest-consumer-drones</link>
+    <description>&lt;div class=&quot;node-body gallery-body&quot;&gt;Technology Editor Bill Wong saw quite a bit at the 2017 Consumer Electronics Show. Here are some of the drones he came across.
+
+&lt;/div&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://electronicdesign.com/embedded/gallery-checking-out-latest-consumer-drones&quot; target=&quot;_blank&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+         <comments>http://electronicdesign.com/embedded/gallery-checking-out-latest-consumer-drones#comments</comments>
+ <category domain="http://electronicdesign.com/news/hot-topics">Hot Topics</category>
+ <category domain="http://electronicdesign.com/news/products">Products</category>
+ <category domain="http://electronicdesign.com/markets/robotics">Robotics</category>
+ <category domain="http://electronicdesign.com/technologies/electromechanical">Electromechanical</category>
+ <category domain="http://electronicdesign.com/technologies/embedded">Embedded</category>
+ <pubDate>Mon, 23 Jan 2017 20:20:00 +0000</pubDate>
+ <dc:creator></dc:creator>
+ <guid isPermaLink="false">911001 at http://electronicdesign.com</guid>
+                        <media:thumbnail url="http://electronicdesign.com/site-files/electronicdesign.com/files/imagecache/thumb_img/gallery_promo_image/PROMO_0.jpg" />
+      <media:content url="http://electronicdesign.com/site-files/electronicdesign.com/files/gallery_promo_image/PROMO_0.jpg" medium="image">
+                      </media:content>
+          </item>  <item>
+    <title>Webcast: Building High-Assurance Software without Breaking the Bank</title>
+    <link>http://electronicdesign.com/embedded/webcast-building-high-assurance-software-without-breaking-bank</link>
+    <description>
+
+    &lt;div class=&quot;field-deck&quot;&gt;
+
+        
+        
+                
+                Sponsored by AdaCore
+                
+    &lt;/div&gt;
+&lt;div class=&quot;node-body article-body&quot;&gt;Despite the growing need to make software &quot;bullet proof&quot; against increasingly complex requirements and pervasive security attacks, testing can only go so far. Fortunately, formal program verification, which offers a practical complement to testing, and available technologies, like the SPARK toolset, can address specific requirements for robustness and functional correctness.&lt;/div&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://electronicdesign.com/embedded/webcast-building-high-assurance-software-without-breaking-bank&quot; target=&quot;_blank&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+         <comments>http://electronicdesign.com/embedded/webcast-building-high-assurance-software-without-breaking-bank#comments</comments>
+ <category domain="http://electronicdesign.com/learning-resources/webcasts">Webcasts</category>
+ <category domain="http://electronicdesign.com/technologies/embedded">Embedded</category>
+ <pubDate>Mon, 23 Jan 2017 18:06:00 +0000</pubDate>
+ <dc:creator></dc:creator>
+ <guid isPermaLink="false">910991 at http://electronicdesign.com</guid>
+                  </item>  <item>
+    <title>âI Know a Lot about Hacking,â and Other Security Concerns</title>
+    <link>http://electronicdesign.com/blog/i-know-lot-about-hacking-and-other-security-concerns</link>
+    <description>&lt;div class=&quot;node-body blog-body&quot;&gt;President Donald Trump says âI know a lot about hacking.â What do you know, and does all this matter?&lt;/div&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://electronicdesign.com/blog/i-know-lot-about-hacking-and-other-security-concerns&quot; target=&quot;_blank&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+         <comments>http://electronicdesign.com/blog/i-know-lot-about-hacking-and-other-security-concerns#comments</comments>
+ <category domain="http://electronicdesign.com/markets/mobile">Mobile</category>
+ <category domain="http://electronicdesign.com/technologies/embedded">Embedded</category>
+ <group domain="http://electronicdesign.com/blog/altembedded" xmlns="http://drupal.org/project/og">alt.embedded</group>
+ <pubDate>Mon, 23 Jan 2017 17:20:00 +0000</pubDate>
+ <dc:creator></dc:creator>
+ <guid isPermaLink="false">910981 at http://electronicdesign.com</guid>
+                        <media:thumbnail url="http://electronicdesign.com/site-files/electronicdesign.com/files/imagecache/thumb_img/uploads/2017/01/hackerpromo_0.jpg" />
+      <media:content url="http://electronicdesign.com/site-files/electronicdesign.com/files/uploads/2017/01/hackerpromo_0.jpg" medium="image">
+                      </media:content>
+          </item>  <item>
+    <title>TechInsights Tears Down Apple AirPods</title>
+    <link>http://electronicdesign.com/ios/techinsights-tears-down-apple-airpods</link>
+    <description>
+
+    &lt;div class=&quot;field-deck&quot;&gt;
+
+        
+        
+                
+                TechInsights just did a teardown of Appleâs AirPods. Letâs take a look at what they found. 
+                
+    &lt;/div&gt;
+&lt;div class=&quot;node-body article-body&quot;&gt;TechInsights just did a teardown of Appleâs AirPods. Letâs take a look at what they found. &lt;/div&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://electronicdesign.com/ios/techinsights-tears-down-apple-airpods&quot; target=&quot;_blank&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+         <comments>http://electronicdesign.com/ios/techinsights-tears-down-apple-airpods#comments</comments>
+ <category domain="http://electronicdesign.com/markets/mobile">Mobile</category>
+ <category domain="http://electronicdesign.com/technologies/embedded">Embedded</category>
+ <category domain="http://electronicdesign.com/technologies/ios">iOS</category>
+ <pubDate>Mon, 23 Jan 2017 14:45:00 +0000</pubDate>
+ <dc:creator></dc:creator>
+ <guid isPermaLink="false">910951 at http://electronicdesign.com</guid>
+                        <media:thumbnail url="http://electronicdesign.com/site-files/electronicdesign.com/files/imagecache/thumb_img/uploads/2017/01/techinsights-airpod-promo.jpg" />
+      <media:content url="http://electronicdesign.com/site-files/electronicdesign.com/files/uploads/2017/01/techinsights-airpod-promo.jpg" medium="image">
+                      </media:content>
+          </item>  <item>
+    <title>Days After Regulators, Apple Sues Qualcomm over Licensing Terms</title>
+    <link>http://electronicdesign.com/embedded/days-after-regulators-apple-sues-qualcomm-over-licensing-terms</link>
+    <description>
+
+&lt;div class=&quot;node-body article-body&quot;&gt;Just three days after United States regulators filed an antitrust complaint against Qualcomm, Apple sues the chip supplier over unfair licensing terms.&lt;/div&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://electronicdesign.com/embedded/days-after-regulators-apple-sues-qualcomm-over-licensing-terms&quot; target=&quot;_blank&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+         <comments>http://electronicdesign.com/embedded/days-after-regulators-apple-sues-qualcomm-over-licensing-terms#comments</comments>
+ <category domain="http://electronicdesign.com/news/hot-topics">Hot Topics</category>
+ <category domain="http://electronicdesign.com/technologies/embedded">Embedded</category>
+ <pubDate>Fri, 20 Jan 2017 21:55:00 +0000</pubDate>
+ <dc:creator></dc:creator>
+ <guid isPermaLink="false">910751 at http://electronicdesign.com</guid>
+                        <media:thumbnail url="http://electronicdesign.com/site-files/electronicdesign.com/files/imagecache/thumb_img/uploads/2017/01/162410608148b725d25cak.jpg" />
+      <media:content url="http://electronicdesign.com/site-files/electronicdesign.com/files/uploads/2017/01/162410608148b725d25cak.jpg" medium="image">
+                  <media:title type="html">&lt;p&gt;(Image courtesy of&amp;nbsp;&lt;a data-rapid_p=&quot;31&quot; data-track=&quot;attributionNameClick&quot; href=&quot;https://www.flickr.com/photos/pestoverde/&quot; target=&quot;_blank&quot; title=&quot;Go to Maurizio Pesce's photostream&quot;&gt;Maurizio Pesce&lt;/a&gt;, Creative Commons).&lt;/p&gt;
+</media:title>
+                      </media:content>
+          </item>  <item>
+    <title>Google Gives Few Details about the Custom Security Chip it Built for Servers</title>
+    <link>http://electronicdesign.com/microprocessors/google-gives-few-details-about-custom-security-chip-it-built-servers</link>
+    <description>
+
+    &lt;div class=&quot;field-deck&quot;&gt;
+
+        
+        
+                
+                The brief mention of the security chip follows Google&#039;s announcement of the tensor processing unit, a chip it built to enhance machine learning in its search engine and other services.
+                
+    &lt;/div&gt;
+&lt;div class=&quot;node-body article-body&quot;&gt;The latest window into its semiconductor ambitions, Google said that it used custom silicon for hardware security in its data centers.&lt;/div&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://electronicdesign.com/microprocessors/google-gives-few-details-about-custom-security-chip-it-built-servers&quot; target=&quot;_blank&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+         <comments>http://electronicdesign.com/microprocessors/google-gives-few-details-about-custom-security-chip-it-built-servers#comments</comments>
+ <category domain="http://electronicdesign.com/news/hot-topics">Hot Topics</category>
+ <category domain="http://electronicdesign.com/markets/defense">Defense</category>
+ <category domain="http://electronicdesign.com/technologies/android">Android</category>
+ <category domain="http://electronicdesign.com/technologies/components">Components</category>
+ <category domain="http://electronicdesign.com/technologies/embedded">Embedded</category>
+ <category domain="http://electronicdesign.com/technologies/microprocessors">Microprocessors</category>
+ <category domain="http://electronicdesign.com/technologies/systems">Systems</category>
+ <pubDate>Fri, 20 Jan 2017 20:15:00 +0000</pubDate>
+ <dc:creator></dc:creator>
+ <guid isPermaLink="false">910351 at http://electronicdesign.com</guid>
+                  </item>  <item>
+    <title>Sensors Bring Spectral Analysis to the Palm of Your Hand</title>
+    <link>http://electronicdesign.com/analog/sensors-bring-spectral-analysis-palm-your-hand</link>
+    <description>
+
+&lt;div class=&quot;node-body article-body&quot;&gt;Austria&#039;s Ams has released a pair of tiny spectral sensors for on-the-go analysis of foods or pharmaceuticals.&lt;/div&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://electronicdesign.com/analog/sensors-bring-spectral-analysis-palm-your-hand&quot; target=&quot;_blank&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+         <comments>http://electronicdesign.com/analog/sensors-bring-spectral-analysis-palm-your-hand#comments</comments>
+ <category domain="http://electronicdesign.com/news/hot-topics">Hot Topics</category>
+ <category domain="http://electronicdesign.com/technologies/iot">IoT</category>
+ <category domain="http://electronicdesign.com/news/products">Products</category>
+ <category domain="http://electronicdesign.com/technologies/analog">Analog</category>
+ <category domain="http://electronicdesign.com/markets/mobile">Mobile</category>
+ <category domain="http://electronicdesign.com/markets/robotics">Robotics</category>
+ <category domain="http://electronicdesign.com/technologies/electromechanical">Electromechanical</category>
+ <category domain="http://electronicdesign.com/technologies/embedded">Embedded</category>
+ <pubDate>Thu, 19 Jan 2017 23:35:00 +0000</pubDate>
+ <dc:creator></dc:creator>
+ <guid isPermaLink="false">910281 at http://electronicdesign.com</guid>
+                        <media:thumbnail url="http://electronicdesign.com/site-files/electronicdesign.com/files/imagecache/thumb_img/uploads/2017/01/thinkstockphotos-177391568.jpg" />
+      <media:content url="http://electronicdesign.com/site-files/electronicdesign.com/files/uploads/2017/01/thinkstockphotos-177391568.jpg" medium="image">
+                  <media:title type="html">&lt;p&gt;(Image courtesy of Thinkstock).&lt;/p&gt;
+</media:title>
+                      </media:content>
+          </item>  <item>
+    <title>Take the Easy Test Road (Sometimes)</title>
+    <link>http://electronicdesign.com/test-measurement/take-easy-test-road-sometimes</link>
+    <description>
+
+&lt;div class=&quot;node-body article-body&quot;&gt;Getting the job done right means making design tradeoffs and spending your time wiselyâsometimes you can save time by taking the easy road,  sometimes not. &lt;/div&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://electronicdesign.com/test-measurement/take-easy-test-road-sometimes&quot; target=&quot;_blank&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+         <comments>http://electronicdesign.com/test-measurement/take-easy-test-road-sometimes#comments</comments>
+ <category domain="http://electronicdesign.com/technologies/oscilloscopes">Oscilloscopes</category>
+ <category domain="http://electronicdesign.com/technologies/test-measurement">Test &amp; Measurement</category>
+ <pubDate>Thu, 19 Jan 2017 19:59:00 +0000</pubDate>
+ <dc:creator></dc:creator>
+ <guid isPermaLink="false">910541 at http://electronicdesign.com</guid>
+                        <media:thumbnail url="http://electronicdesign.com/site-files/electronicdesign.com/files/imagecache/thumb_img/uploads/2017/01/0117ctekeysightbogpromo.jpg" />
+      <media:content url="http://electronicdesign.com/site-files/electronicdesign.com/files/uploads/2017/01/0117ctekeysightbogpromo.jpg" medium="image">
+                      </media:content>
+          </item>  <item>
+    <title>Declined - Electronic Design Webinar Calendar</title>
+    <link>http://electronicdesign.com/Declined_ED_Webinar_Calendar</link>
+    <description>
+
+&lt;div class=&quot;node-body page-body&quot;&gt;&lt;p&gt;We&amp;#39;ll miss you, but thanks for letting us know you do not want to receive our webinar calendar. If you would like to rejoin the group, please email&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;mailto:brenda.roode@penton.com&quot;&gt;brenda.roode@penton.com&lt;/a&gt;&amp;nbsp;with the subject line:&amp;nbsp; Request to Rejoin Monthly Webinar Calendar List&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;/div&gt;&lt;p&gt;&lt;a href=&quot;http://electronicdesign.com/Declined_ED_Webinar_Calendar&quot; target=&quot;_blank&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+         <pubDate>Thu, 19 Jan 2017 18:39:47 +0000</pubDate>
+ <dc:creator></dc:creator>
+ <guid isPermaLink="false">910511 at http://electronicdesign.com</guid>
+                  </item>  <item>
+    <title>Gallery: Checking Out 3D Printers</title>
+    <link>http://electronicdesign.com/embedded/gallery-checking-out-3d-printers</link>
+    <description>&lt;div class=&quot;node-body gallery-body&quot;&gt;Technology Editor Bill Wong saw quite a bit at the 2017 Consumer Electronics Show. Here are some of the 3D printer technologies he came across.
+&lt;/div&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://electronicdesign.com/embedded/gallery-checking-out-3d-printers&quot; target=&quot;_blank&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+         <comments>http://electronicdesign.com/embedded/gallery-checking-out-3d-printers#comments</comments>
+ <category domain="http://electronicdesign.com/news/hot-topics">Hot Topics</category>
+ <category domain="http://electronicdesign.com/markets/mobile">Mobile</category>
+ <category domain="http://electronicdesign.com/technologies/embedded">Embedded</category>
+ <pubDate>Thu, 19 Jan 2017 17:35:00 +0000</pubDate>
+ <dc:creator></dc:creator>
+ <guid isPermaLink="false">910481 at http://electronicdesign.com</guid>
+                        <media:thumbnail url="http://electronicdesign.com/site-files/electronicdesign.com/files/imagecache/thumb_img/gallery_promo_image/PROMO.jpg" />
+      <media:content url="http://electronicdesign.com/site-files/electronicdesign.com/files/gallery_promo_image/PROMO.jpg" medium="image">
+                      </media:content>
+          </item>  <item>
+    <title>Connecting with the Planets: One Companyâs Role in Missions to Mars, Jupiter, and Beyond</title>
+    <link>http://electronicdesign.com/embedded/connecting-planets-one-company-s-role-missions-mars-jupiter-and-beyond</link>
+    <description>
+
+&lt;div class=&quot;node-body article-body&quot;&gt;Exploring the planets of our solar system requires equipment armed with high-reliability instrumentation and components like high-voltage relays and mini connectors. &lt;/div&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://electronicdesign.com/embedded/connecting-planets-one-company-s-role-missions-mars-jupiter-and-beyond&quot; target=&quot;_blank&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+         <comments>http://electronicdesign.com/embedded/connecting-planets-one-company-s-role-missions-mars-jupiter-and-beyond#comments</comments>
+ <category domain="http://electronicdesign.com/technologies/components">Components</category>
+ <category domain="http://electronicdesign.com/technologies/embedded">Embedded</category>
+ <category domain="http://electronicdesign.com/technologies/power">Power</category>
+ <category domain="http://electronicdesign.com/s-z-companies/te-connectivity">TE Connectivity</category>
+ <pubDate>Thu, 19 Jan 2017 14:39:00 +0000</pubDate>
+ <dc:creator></dc:creator>
+ <guid isPermaLink="false">910451 at http://electronicdesign.com</guid>
+                        <media:thumbnail url="http://electronicdesign.com/site-files/electronicdesign.com/files/imagecache/thumb_img/uploads/2017/01/outerspacethinkstockphotos.jpg" />
+      <media:content url="http://electronicdesign.com/site-files/electronicdesign.com/files/uploads/2017/01/outerspacethinkstockphotos.jpg" medium="image">
+                      </media:content>
+          </item>  <item>
+    <title>The All-Seeing Eye Takes to the Road: Vision Systems for ADAS</title>
+    <link>http://electronicdesign.com/embedded/all-seeing-eye-takes-road-vision-systems-adas</link>
+    <description>
+
+&lt;div class=&quot;node-body article-body&quot;&gt;Today&#039;s ever-more sophisticated ADAS for automotive applications include complex vision systems that perform imaging, high-speed serial communications, and downstream processing.&lt;/div&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://electronicdesign.com/embedded/all-seeing-eye-takes-road-vision-systems-adas&quot; target=&quot;_blank&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+         <comments>http://electronicdesign.com/embedded/all-seeing-eye-takes-road-vision-systems-adas#comments</comments>
+ <category domain="http://electronicdesign.com/markets/automotive">Automotive</category>
+ <category domain="http://electronicdesign.com/technologies/dsps">DSPs</category>
+ <category domain="http://electronicdesign.com/technologies/embedded">Embedded</category>
+ <category domain="http://electronicdesign.com/technologies/power">Power</category>
+ <category domain="http://electronicdesign.com/s-z-companies/texas-instruments">Texas Instruments</category>
+ <pubDate>Thu, 19 Jan 2017 13:00:00 +0000</pubDate>
+ <dc:creator></dc:creator>
+ <guid isPermaLink="false">908911 at http://electronicdesign.com</guid>
+                        <media:thumbnail url="http://electronicdesign.com/site-files/electronicdesign.com/files/imagecache/thumb_img/uploads/2017/01/0117tiadasvisionpromo.jpg" />
+      <media:content url="http://electronicdesign.com/site-files/electronicdesign.com/files/uploads/2017/01/0117tiadasvisionpromo.jpg" medium="image">
+                      </media:content>
+          </item>  <item>
+    <title>Qualcomm&#039;s Antitrust Battles Hit the United States</title>
+    <link>http://electronicdesign.com/wireless/qualcomms-antitrust-battles-hit-united-states</link>
+    <description>
+
+    &lt;div class=&quot;field-deck&quot;&gt;
+
+        
+        
+                
+                For the second time in the last month, Qualcomm is facing charges that its licensing business unfairly limits competition. After a two-year investigation, the U.S. Federal Trade Commission criticized how the company exerts control over its critical wireless patents.
+                
+    &lt;/div&gt;
+&lt;div class=&quot;node-body article-body&quot;&gt;Qualcomm&#039;s business of licensing wireless patents to smartphone makers is again coming under fire. Unlike other complaints, this time Washington is speaking up.
+&lt;/div&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://electronicdesign.com/wireless/qualcomms-antitrust-battles-hit-united-states&quot; target=&quot;_blank&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+         <comments>http://electronicdesign.com/wireless/qualcomms-antitrust-battles-hit-united-states#comments</comments>
+ <category domain="http://electronicdesign.com/technologies/4g">4G</category>
+ <category domain="http://electronicdesign.com/markets/automotive">Automotive</category>
+ <category domain="http://electronicdesign.com/news/hot-topics">Hot Topics</category>
+ <category domain="http://electronicdesign.com/markets/mobile">Mobile</category>
+ <category domain="http://electronicdesign.com/markets/robotics">Robotics</category>
+ <category domain="http://electronicdesign.com/technologies/components">Components</category>
+ <category domain="http://electronicdesign.com/technologies/embedded">Embedded</category>
+ <category domain="http://electronicdesign.com/technologies/wireless">Wireless</category>
+ <pubDate>Thu, 19 Jan 2017 08:00:00 +0000</pubDate>
+ <dc:creator></dc:creator>
+ <guid isPermaLink="false">910051 at http://electronicdesign.com</guid>
+                        <media:thumbnail url="http://electronicdesign.com/site-files/electronicdesign.com/files/imagecache/thumb_img/uploads/2017/01/584765484304b166e8edo.jpg" />
+      <media:content url="http://electronicdesign.com/site-files/electronicdesign.com/files/uploads/2017/01/584765484304b166e8edo.jpg" medium="image">
+                  <media:title type="html">&lt;p&gt;(Image courtesy of &lt;a href=&quot;http://www.flickr.com/photos/jontintinjordan/&quot; target=&quot;_blank&quot;&gt;J&lt;/a&gt;&lt;a data-rapid_p=&quot;28&quot; data-track=&quot;attributionNameClick&quot; href=&quot;https://www.flickr.com/photos/jontintinjordan/&quot; title=&quot;Go to jon jordan's photostream&quot;&gt;on Jordan&lt;/a&gt;, Creative Commons).&lt;/p&gt;
+</media:title>
+                      </media:content>
+          </item>  <item>
+    <title>11 Myths About MRAM (.PDF Download)</title>
+    <link>http://electronicdesign.com/datasheet/11-myths-about-mram-pdf-download</link>
+    <description>
+&lt;div class=&quot;node-body datasheet-body&quot;&gt;&lt;p&gt;Spin-torque magnetoresistive random access memory (ST-MRAM) is emerging as the most promising of the next-generation memory technologies. ST-MRAM is persistent, as a result of storing data when the power is off. It&amp;rsquo;s fast, reading and writing at DRAM and even SRAM cache speeds. On top of that, the memory is cost-effective&amp;mdash;it uses a small single-transistor bit-cell and requires only two or three additional masking steps...&lt;/p&gt;&lt;/div&gt;
+
+
+&lt;p&gt;&lt;a href=&quot;http://electronicdesign.com/datasheet/11-myths-about-mram-pdf-download&quot; target=&quot;_blank&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+         <category domain="http://electronicdesign.com/gold">Gold</category>
+ <pubDate>Wed, 18 Jan 2017 21:32:00 +0000</pubDate>
+ <dc:creator></dc:creator>
+ <guid isPermaLink="false">910331 at http://electronicdesign.com</guid>
+                  </item>  <item>
+    <title>Cellular Could Dominate IoT Applications</title>
+    <link>http://electronicdesign.com/blog/cellular-could-dominate-iot-applications</link>
+    <description>&lt;div class=&quot;node-body blog-body&quot;&gt;Cellular systems are poised to play a bigger role in the IoT movement than expected.&lt;/div&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://electronicdesign.com/blog/cellular-could-dominate-iot-applications&quot; target=&quot;_blank&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+         <comments>http://electronicdesign.com/blog/cellular-could-dominate-iot-applications#comments</comments>
+ <category domain="http://electronicdesign.com/technologies/iot">IoT</category>
+ <category domain="http://electronicdesign.com/technologies/communications">Communications</category>
+ <group domain="http://electronicdesign.com/blog/communiqu" xmlns="http://drupal.org/project/og">CommuniquÃ©</group>
+ <pubDate>Wed, 18 Jan 2017 20:51:00 +0000</pubDate>
+ <dc:creator></dc:creator>
+ <guid isPermaLink="false">910291 at http://electronicdesign.com</guid>
+                        <media:thumbnail url="http://electronicdesign.com/site-files/electronicdesign.com/files/imagecache/thumb_img/uploads/2017/01/phone-android-smartphone595.jpg" />
+      <media:content url="http://electronicdesign.com/site-files/electronicdesign.com/files/uploads/2017/01/phone-android-smartphone595.jpg" medium="image">
+                      </media:content>
+          </item>  <item>
+    <title>Electronic Designâs Products of the Week (1/15-1/21)</title>
+    <link>http://electronicdesign.com/test-measurement/electronic-design-s-products-week-115-121</link>
+    <description>&lt;div class=&quot;node-body gallery-body&quot;&gt;Here we&#039;ve rounded up some of the latest products to optimize your applications, devices, and systems.&lt;/div&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://electronicdesign.com/test-measurement/electronic-design-s-products-week-115-121&quot; target=&quot;_blank&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+         <comments>http://electronicdesign.com/test-measurement/electronic-design-s-products-week-115-121#comments</comments>
+ <category domain="http://electronicdesign.com/markets/defense">Defense</category>
+ <category domain="http://electronicdesign.com/technologies/iot">IoT</category>
+ <category domain="http://electronicdesign.com/news/products">Products</category>
+ <category domain="http://electronicdesign.com/technologies/adc">ADC</category>
+ <category domain="http://electronicdesign.com/technologies/boards">Boards</category>
+ <category domain="http://electronicdesign.com/markets/mobile">Mobile</category>
+ <category domain="http://electronicdesign.com/technologies/communications">Communications</category>
+ <category domain="http://electronicdesign.com/technologies/components">Components</category>
+ <category domain="http://electronicdesign.com/technologies/dacs">DACs</category>
+ <category domain="http://electronicdesign.com/technologies/dev-tools">Dev Tools</category>
+ <category domain="http://electronicdesign.com/technologies/digital-ics">Digital ICs</category>
+ <category domain="http://electronicdesign.com/technologies/embedded">Embedded</category>
+ <category domain="http://electronicdesign.com/technologies/ethernet">Ethernet</category>
+ <category domain="http://electronicdesign.com/gallery">Gallery</category>
+ <category domain="http://electronicdesign.com/technologies/memory">Memory</category>
+ <category domain="http://electronicdesign.com/technologies/power">Power</category>
+ <category domain="http://electronicdesign.com/technologies/systems">Systems</category>
+ <category domain="http://electronicdesign.com/technologies/test-measurement">Test &amp; Measurement</category>
+ <pubDate>Wed, 18 Jan 2017 20:45:00 +0000</pubDate>
+ <dc:creator></dc:creator>
+ <guid isPermaLink="false">910301 at http://electronicdesign.com</guid>
+                        <media:thumbnail url="http://electronicdesign.com/site-files/electronicdesign.com/files/imagecache/thumb_img/gallery_promo_image/08_0110_Kontron_COMe-cAL6-E2.jpg" />
+      <media:content url="http://electronicdesign.com/site-files/electronicdesign.com/files/gallery_promo_image/08_0110_Kontron_COMe-cAL6-E2.jpg" medium="image">
+                      </media:content>
+          </item>  <item>
+    <title>Is Googleâs Renewable Energy Plan What It Seems?</title>
+    <link>http://electronicdesign.com/power/google-s-renewable-energy-plan-what-it-seems</link>
+    <description>
+    &lt;div class=&quot;field-byline&quot;&gt;
+
+        
+        
+                
+                Maria Guerra
+                
+    &lt;/div&gt;
+
+    &lt;div class=&quot;field-deck&quot;&gt;
+
+        
+        
+                
+                Google announced that it will purchase enough renewable energy to match 100% of its operations in 2017 in hopes that regulated utilities will eventually offer better options.
+                
+    &lt;/div&gt;
+&lt;div class=&quot;node-body article-body&quot;&gt;When I first heard about Googleâs latest announcement, I thought the company was going to rely completely on renewable energy to directly energize its data centers....&lt;/div&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://electronicdesign.com/power/google-s-renewable-energy-plan-what-it-seems&quot; target=&quot;_blank&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+         <comments>http://electronicdesign.com/power/google-s-renewable-energy-plan-what-it-seems#comments</comments>
+ <category domain="http://electronicdesign.com/markets/energy">Energy</category>
+ <category domain="http://electronicdesign.com/technologies/power">Power</category>
+ <pubDate>Wed, 18 Jan 2017 20:36:00 +0000</pubDate>
+ <dc:creator></dc:creator>
+ <guid isPermaLink="false">910321 at http://electronicdesign.com</guid>
+                        <media:thumbnail url="http://electronicdesign.com/site-files/electronicdesign.com/files/imagecache/thumb_img/uploads/2017/01/promo_1.jpg" />
+      <media:content url="http://electronicdesign.com/site-files/electronicdesign.com/files/uploads/2017/01/promo_1.jpg" medium="image">
+                      </media:content>
+          </item>  <item>
+    <title>11 Myths About MRAM</title>
+    <link>http://electronicdesign.com/memory/11-myths-about-mram</link>
+    <description>
+
+&lt;div class=&quot;node-body article-body&quot;&gt;Among the next-generation memory technologies, spin-torque MRAM holds great promise due to its persistence, speed, and cost-effectiveness, but misconceptions surround it nonetheless.&lt;/div&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://electronicdesign.com/memory/11-myths-about-mram&quot; target=&quot;_blank&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+         <comments>http://electronicdesign.com/memory/11-myths-about-mram#comments</comments>
+ <category domain="http://electronicdesign.com/learning-resources/11-myths-about">11 Myths About...</category>
+ <category domain="http://electronicdesign.com/markets/automotive">Automotive</category>
+ <category domain="http://electronicdesign.com/markets/mobile">Mobile</category>
+ <category domain="http://electronicdesign.com/technologies/memory">Memory</category>
+ <pubDate>Wed, 18 Jan 2017 19:46:00 +0000</pubDate>
+ <dc:creator></dc:creator>
+ <guid isPermaLink="false">910271 at http://electronicdesign.com</guid>
+                        <media:thumbnail url="http://electronicdesign.com/site-files/electronicdesign.com/files/imagecache/thumb_img/uploads/2017/01/121611mythsspinpromo.jpg" />
+      <media:content url="http://electronicdesign.com/site-files/electronicdesign.com/files/uploads/2017/01/121611mythsspinpromo.jpg" medium="image">
+                      </media:content>
+          </item>  <item>
+    <title>Gallery: Checking Out Augmented and Virtual Reality</title>
+    <link>http://electronicdesign.com/displays/gallery-checking-out-augmented-and-virtual-reality</link>
+    <description>&lt;div class=&quot;node-body gallery-body&quot;&gt;Technology Editor Bill Wong saw quite a bit at the 2017 Consumer Electronics Show. Here are some of the augmented (AR) and virtual reality (VR) technologies he came across. &lt;/div&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://electronicdesign.com/displays/gallery-checking-out-augmented-and-virtual-reality&quot; target=&quot;_blank&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+         <comments>http://electronicdesign.com/displays/gallery-checking-out-augmented-and-virtual-reality#comments</comments>
+ <category domain="http://electronicdesign.com/markets/automotive">Automotive</category>
+ <category domain="http://electronicdesign.com/news/hot-topics">Hot Topics</category>
+ <category domain="http://electronicdesign.com/technologies/iot">IoT</category>
+ <category domain="http://electronicdesign.com/news/products">Products</category>
+ <category domain="http://electronicdesign.com/markets/mobile">Mobile</category>
+ <category domain="http://electronicdesign.com/technologies/displays">Displays</category>
+ <category domain="http://electronicdesign.com/technologies/embedded">Embedded</category>
+ <category domain="http://electronicdesign.com/technologies/microprocessors">Microprocessors</category>
+ <pubDate>Wed, 18 Jan 2017 18:15:00 +0000</pubDate>
+ <dc:creator></dc:creator>
+ <guid isPermaLink="false">910231 at http://electronicdesign.com</guid>
+                        <media:thumbnail url="http://electronicdesign.com/site-files/electronicdesign.com/files/imagecache/thumb_img/gallery_promo_image/PrOMO.JPG" />
+      <media:content url="http://electronicdesign.com/site-files/electronicdesign.com/files/gallery_promo_image/PrOMO.JPG" medium="image">
+                      </media:content>
+          </item>  <item>
+    <title>Carrying a Jetson TX1</title>
+    <link>http://electronicdesign.com/blog/carrying-jetson-tx1</link>
+    <description>&lt;div class=&quot;node-body blog-body&quot;&gt;Technology Editor Bill Wong takes ConnectTechâs Orbitty Carrier for a ride with NVidiaâs Jetson TX1.&lt;/div&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://electronicdesign.com/blog/carrying-jetson-tx1&quot; target=&quot;_blank&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+         <comments>http://electronicdesign.com/blog/carrying-jetson-tx1#comments</comments>
+ <group domain="http://electronicdesign.com/blog/altembedded" xmlns="http://drupal.org/project/og">alt.embedded</group>
+ <pubDate>Wed, 18 Jan 2017 16:31:00 +0000</pubDate>
+ <dc:creator></dc:creator>
+ <guid isPermaLink="false">910221 at http://electronicdesign.com</guid>
+                        <media:thumbnail url="http://electronicdesign.com/site-files/electronicdesign.com/files/imagecache/thumb_img/uploads/2017/01/0117webconnecttechpromo.jpg" />
+      <media:content url="http://electronicdesign.com/site-files/electronicdesign.com/files/uploads/2017/01/0117webconnecttechpromo.jpg" medium="image">
+                      </media:content>
+          </item>  <item>
+    <title>Sensor Interface Relieves Complexity from Smartphones to Cars</title>
+    <link>http://electronicdesign.com/interconnects/sensor-interface-relieves-complexity-smartphones-cars</link>
+    <description>
+
+    &lt;div class=&quot;field-deck&quot;&gt;
+
+        
+        
+                
+                With sensors pushing further into smartphones and other devices, an interface from the MIPI Alliance could limit the complexity and power consumption that come with pinning them to processors.
+                
+    &lt;/div&gt;
+&lt;div class=&quot;node-body article-body&quot;&gt;The MIPI Alliance, which specializes in chip-to-chip interfaces, recently unsealed its new I3C standard, which had only been available to members.&lt;/div&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://electronicdesign.com/interconnects/sensor-interface-relieves-complexity-smartphones-cars&quot; target=&quot;_blank&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+         <comments>http://electronicdesign.com/interconnects/sensor-interface-relieves-complexity-smartphones-cars#comments</comments>
+ <category domain="http://electronicdesign.com/markets/automotive">Automotive</category>
+ <category domain="http://electronicdesign.com/news/hot-topics">Hot Topics</category>
+ <category domain="http://electronicdesign.com/technologies/iot">IoT</category>
+ <category domain="http://electronicdesign.com/markets/medical">Medical</category>
+ <category domain="http://electronicdesign.com/markets/mobile">Mobile</category>
+ <category domain="http://electronicdesign.com/technologies/electromechanical">Electromechanical</category>
+ <category domain="http://electronicdesign.com/technologies/embedded">Embedded</category>
+ <category domain="http://electronicdesign.com/technologies/interconnects">Interconnects</category>
+ <pubDate>Wed, 18 Jan 2017 15:45:00 +0000</pubDate>
+ <dc:creator></dc:creator>
+ <guid isPermaLink="false">910021 at http://electronicdesign.com</guid>
+                        <media:thumbnail url="http://electronicdesign.com/site-files/electronicdesign.com/files/imagecache/thumb_img/uploads/2017/01/29661539317c42ecf0bbo.png" />
+      <media:content url="http://electronicdesign.com/site-files/electronicdesign.com/files/uploads/2017/01/29661539317c42ecf0bbo.png" medium="image">
+                  <media:title type="html">&lt;p&gt;(Image courtesy of &lt;a href=&quot;https://www.flickr.com/photos/oliver_leitzgen/&quot; target=&quot;_blank&quot;&gt;Oliver Leitzgen&lt;/a&gt;, Creative Commons).&lt;/p&gt;
+</media:title>
+                      </media:content>
+          </item>  <item>
+    <title>ZigBee DotDot Dashes to Unify Connectivity Stacks</title>
+    <link>http://electronicdesign.com/communications/zigbee-dotdot-dashes-unify-connectivity-stacks</link>
+    <description>
+
+&lt;div class=&quot;node-body article-body&quot;&gt;The ZigBee Alliance and The Thread Group are behind the new DotDot protocol stack that unifies the upper-level protocols being used in a number of Internet of Things devices.&lt;/div&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://electronicdesign.com/communications/zigbee-dotdot-dashes-unify-connectivity-stacks&quot; target=&quot;_blank&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+         <comments>http://electronicdesign.com/communications/zigbee-dotdot-dashes-unify-connectivity-stacks#comments</comments>
+ <category domain="http://electronicdesign.com/technologies/iot">IoT</category>
+ <category domain="http://electronicdesign.com/markets/medical">Medical</category>
+ <category domain="http://electronicdesign.com/markets/mobile">Mobile</category>
+ <category domain="http://electronicdesign.com/technologies/communications">Communications</category>
+ <category domain="http://electronicdesign.com/technologies/embedded">Embedded</category>
+ <pubDate>Tue, 17 Jan 2017 21:28:00 +0000</pubDate>
+ <dc:creator></dc:creator>
+ <guid isPermaLink="false">910001 at http://electronicdesign.com</guid>
+                        <media:thumbnail url="http://electronicdesign.com/site-files/electronicdesign.com/files/imagecache/thumb_img/uploads/2017/01/promo.gif" />
+      <media:content url="http://electronicdesign.com/site-files/electronicdesign.com/files/uploads/2017/01/promo.gif" medium="image">
+                      </media:content>
+          </item>  <item>
+    <title>Key Considerations for Powertrain HIL Test</title>
+    <link>http://electronicdesign.com/white-paper/key-considerations-powertrain-hil-test</link>
+    <description>
+
+    &lt;div class=&quot;field-deck&quot;&gt;
+
+        
+        
+                
+                Sponsored by National Instruments
+                
+    &lt;/div&gt;
+&lt;div class=&quot;node-body article-body&quot;&gt;Safety, availability, and cost considerations can make performing thorough tests of embedded control devices using the complete system impractical. Hardware-in-the-loop (HIL) simulation is a real-time test technique used to test these devices more efficiently. During HIL test, the physical system that interfaces to an embedded control device is simulated on real-time hardware, and the outputs of the simulator mimic the actual output of the physical system.&lt;/div&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://electronicdesign.com/white-paper/key-considerations-powertrain-hil-test&quot; target=&quot;_blank&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+         <comments>http://electronicdesign.com/white-paper/key-considerations-powertrain-hil-test#comments</comments>
+ <category domain="http://electronicdesign.com/learning-resources/white-paper">White Paper</category>
+ <category domain="http://electronicdesign.com/technologies/test-measurement">Test &amp; Measurement</category>
+ <pubDate>Tue, 17 Jan 2017 20:24:00 +0000</pubDate>
+ <dc:creator></dc:creator>
+ <guid isPermaLink="false">909981 at http://electronicdesign.com</guid>
+                        <media:thumbnail url="http://electronicdesign.com/site-files/electronicdesign.com/files/imagecache/thumb_img/uploads/2017/01/ed-resource-whtpaperpromo1_5.gif" />
+      <media:content url="http://electronicdesign.com/site-files/electronicdesign.com/files/uploads/2017/01/ed-resource-whtpaperpromo1_5.gif" medium="image">
+                      </media:content>
+          </item>  <item>
+    <title>Q&amp;A: S2âs Impact on Z-Wave and IoT Security</title>
+    <link>http://electronicdesign.com/communications/qa-s2-s-impact-z-wave-and-iot-security</link>
+    <description>
+
+&lt;div class=&quot;node-body article-body&quot;&gt;Z-Wave Alliance Executive Director Mitchell Klein discusses the S2 framework and what it means for the future of Z-Wave devices and beyond.&lt;/div&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://electronicdesign.com/communications/qa-s2-s-impact-z-wave-and-iot-security&quot; target=&quot;_blank&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+         <comments>http://electronicdesign.com/communications/qa-s2-s-impact-z-wave-and-iot-security#comments</comments>
+ <category domain="http://electronicdesign.com/technologies/iot">IoT</category>
+ <category domain="http://electronicdesign.com/community/interviews">Interviews</category>
+ <category domain="http://electronicdesign.com/markets/medical">Medical</category>
+ <category domain="http://electronicdesign.com/markets/mobile">Mobile</category>
+ <category domain="http://electronicdesign.com/technologies/communications">Communications</category>
+ <pubDate>Tue, 17 Jan 2017 17:03:00 +0000</pubDate>
+ <dc:creator></dc:creator>
+ <guid isPermaLink="false">909941 at http://electronicdesign.com</guid>
+                        <media:thumbnail url="http://electronicdesign.com/site-files/electronicdesign.com/files/imagecache/thumb_img/uploads/2017/01/hackerpromo.jpg" />
+      <media:content url="http://electronicdesign.com/site-files/electronicdesign.com/files/uploads/2017/01/hackerpromo.jpg" medium="image">
+                      </media:content>
+          </item>  <item>
+    <title>Embedded Flash Storage Gets Smaller and Faster</title>
+    <link>http://electronicdesign.com/blog/embedded-flash-storage-gets-smaller-and-faster</link>
+    <description>&lt;div class=&quot;node-body blog-body&quot;&gt;Flash storage has changed the way embedded designers can utilize large amounts of storage in a compact system. &lt;/div&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://electronicdesign.com/blog/embedded-flash-storage-gets-smaller-and-faster&quot; target=&quot;_blank&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+         <comments>http://electronicdesign.com/blog/embedded-flash-storage-gets-smaller-and-faster#comments</comments>
+ <category domain="http://electronicdesign.com/markets/medical">Medical</category>
+ <category domain="http://electronicdesign.com/markets/mobile">Mobile</category>
+ <category domain="http://electronicdesign.com/technologies/memory">Memory</category>
+ <group domain="http://electronicdesign.com/blog/altembedded" xmlns="http://drupal.org/project/og">alt.embedded</group>
+ <pubDate>Fri, 13 Jan 2017 21:24:00 +0000</pubDate>
+ <dc:creator></dc:creator>
+ <guid isPermaLink="false">909381 at http://electronicdesign.com</guid>
+                        <media:thumbnail url="http://electronicdesign.com/site-files/electronicdesign.com/files/imagecache/thumb_img/uploads/2017/01/promo_0.jpg" />
+      <media:content url="http://electronicdesign.com/site-files/electronicdesign.com/files/uploads/2017/01/promo_0.jpg" medium="image">
+                      </media:content>
+          </item>  <item>
+    <title>Embedded Flash Storage Gets Smaller and Faster (.PDF Download)</title>
+    <link>http://electronicdesign.com/datasheet/embedded-flash-storage-gets-smaller-and-faster-pdf-download</link>
+    <description>
+&lt;div class=&quot;node-body datasheet-body&quot;&gt;&lt;p&gt;Embedded developers have never had so many options when it comes to non-volatile, industrial-grade storage. Even the number of form factors is mind-boggling, ranging from conventional disk-drive formats...&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Register or sign in below to download the full article in .PDF format, including high resolution graphics and schematics when applicable.&lt;/strong&gt;&lt;/p&gt;
+&lt;/div&gt;
+
+
+</description>
+         <category domain="http://electronicdesign.com/gold">Gold</category>
+ <pubDate>Fri, 13 Jan 2017 21:22:00 +0000</pubDate>
+ <dc:creator></dc:creator>
+ <guid isPermaLink="false">909391 at http://electronicdesign.com</guid>
+                  </item>  <item>
+    <title>Unlock Data-Center Power Capacity with &quot;Software Defined Power&quot;</title>
+    <link>http://electronicdesign.com/power/unlock-data-center-power-capacity-software-defined-power</link>
+    <description>
+
+&lt;div class=&quot;node-body article-body&quot;&gt;The demand for cloud computing and data services is accelerating rapidly, but how do we deal with the strain this puts on data-center power capacity?&lt;/div&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://electronicdesign.com/power/unlock-data-center-power-capacity-software-defined-power&quot; target=&quot;_blank&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+         <comments>http://electronicdesign.com/power/unlock-data-center-power-capacity-software-defined-power#comments</comments>
+ <category domain="http://electronicdesign.com/technologies/iot">IoT</category>
+ <category domain="http://electronicdesign.com/technologies/communications">Communications</category>
+ <category domain="http://electronicdesign.com/technologies/power">Power</category>
+ <pubDate>Fri, 13 Jan 2017 17:43:00 +0000</pubDate>
+ <dc:creator></dc:creator>
+ <guid isPermaLink="false">909351 at http://electronicdesign.com</guid>
+                        <media:thumbnail url="http://electronicdesign.com/site-files/electronicdesign.com/files/imagecache/thumb_img/uploads/2017/01/1216ctecuipromo.jpg" />
+      <media:content url="http://electronicdesign.com/site-files/electronicdesign.com/files/uploads/2017/01/1216ctecuipromo.jpg" medium="image">
+                      </media:content>
+          </item>  <item>
+    <title>Hardware and Measurement Abstraction Layers</title>
+    <link>http://electronicdesign.com/white-paper/hardware-and-measurement-abstraction-layers-0</link>
+    <description>
+
+    &lt;div class=&quot;field-deck&quot;&gt;
+
+        
+        
+                
+                Sponsored by National Instruments
+                
+    &lt;/div&gt;
+&lt;div class=&quot;node-body article-body&quot;&gt;Hardware abstraction layers (HALs) and measurement abstraction layers (MALs) are some of the most effective design patterns to make test software as adaptable as the hardware. Rather than employing device-specific code modules in a test sequence, abstraction layers give you the ability to decouple measurement types and instrument-specific drivers from the test sequence.&lt;/div&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://electronicdesign.com/white-paper/hardware-and-measurement-abstraction-layers-0&quot; target=&quot;_blank&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+         <comments>http://electronicdesign.com/white-paper/hardware-and-measurement-abstraction-layers-0#comments</comments>
+ <category domain="http://electronicdesign.com/technologies/analog">Analog</category>
+ <category domain="http://electronicdesign.com/technologies/communications">Communications</category>
+ <category domain="http://electronicdesign.com/learning-resources/white-paper">White Paper</category>
+ <category domain="http://electronicdesign.com/technologies/test-measurement">Test &amp; Measurement</category>
+ <pubDate>Fri, 13 Jan 2017 16:57:00 +0000</pubDate>
+ <dc:creator></dc:creator>
+ <guid isPermaLink="false">909331 at http://electronicdesign.com</guid>
+                        <media:thumbnail url="http://electronicdesign.com/site-files/electronicdesign.com/files/imagecache/thumb_img/uploads/2017/01/ed-resource-whtpaperpromo1_4.gif" />
+      <media:content url="http://electronicdesign.com/site-files/electronicdesign.com/files/uploads/2017/01/ed-resource-whtpaperpromo1_4.gif" medium="image">
+                      </media:content>
+          </item>  </channel>
+</rss>

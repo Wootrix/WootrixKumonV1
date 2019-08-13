@@ -1,0 +1,686 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Robotics Assembly</title>
+    <description>
+      <![CDATA[Articles about Cartesian, SCARA and other robots, as well as peripheral equipment, such as grippers.]]>
+    </description>
+    <link>http://www.assemblymag.com/rss</link>
+    <language>en-us</language>
+    <item>
+      <title>Clemson, Carnegie Mellon to Develop Next-Gen Manufacturing Robots</title>
+      <description>
+        <![CDATA[CLEMSON, SCâResearchers at Clemson University and Carnegie Mellon University are collaborating to develop next-generation robots for advanced manufacturing across the automotive, aerospace, electronics and textile industries. Clemson will also help train the workers who will operate the robots, as part of a $253 million plan to fill roughly 510,000 jobs in manufacturing by 2025.
+]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93695</guid>
+      <pubDate>Mon, 16 Jan 2017 00:00:00 -0500</pubDate>
+      <link>http://www.assemblymag.com/articles/93695-clemson-carnegie-mellon-to-develop-next-gen-manufacturing-robots</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/LatestHeadlines/headlines900/ABB-welding-robot-900.jpg?1436202959" type="image/jpeg" length="459817"/>
+    </item>
+    <item>
+      <title>Cartesian, SCARA, Six-Axis and Delta: Robots Wowed Crowds at The ASSEMBLY Show</title>
+      <author>sprovierij@bnpmedia.com (John Sprovieri)</author>
+      <description>
+        <![CDATA[The ASSEMBLY Show played host to more than 30 suppliers of robots and robotic accessories. The following are some of the robotic technology that were seen on the show floor.]]>
+      </description>
+      <guid>http://www.assemblymag.com/blogs/14/post/93693</guid>
+      <pubDate>Fri, 13 Jan 2017 00:00:00 -0500</pubDate>
+      <link>http://www.assemblymag.com/blogs/14-assembly-blog/post/93693-cartesian-scara-six-axis-and-delta-robots-wowed-crowds-at-the-assembly-show</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/blogimages/900-images-2017/900-images-2017/epson-900.jpg?1484330331" type="image/jpeg" length="127148"/>
+      <media:content url="http://www.assemblymag.com/ext/resources/blogimages/900-images-2017/900-images-2017/ATI-900.jpg?1484330438" type="image/jpeg" fileSize="356275">
+        <media:title type="plain">ATI Industrial Automation</media:title>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/blogimages/900-images-2017/900-images-2017/ABB-900.jpg?1484330469" type="image/jpeg" fileSize="101173">
+        <media:title type="plain">ABB Inc.</media:title>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/blogimages/900-images-2017/900-images-2017/coval-900.jpg?1484330498" type="image/jpeg" fileSize="285066">
+        <media:title type="plain">Coval Vacuum Technology Inc.</media:title>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/blogimages/900-images-2017/900-images-2017/creform-900.jpg?1484330526" type="image/jpeg" fileSize="273182">
+        <media:title type="plain">Creform Corp.</media:title>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/blogimages/900-images-2017/900-images-2017/fanuc-900.jpg?1484330553" type="image/jpeg" fileSize="240483">
+        <media:title type="plain">FANUC America Corp.</media:title>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/blogimages/900-images-2017/900-images-2017/edgewater-900.gif?1484330593" type="image/gif" fileSize="62314">
+        <media:title type="plain">Edgewater Automation</media:title>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/blogimages/900-images-2017/900-images-2017/fanuc-9001.jpg?1484330623" type="image/jpeg" fileSize="240483">
+        <media:title type="plain">Fancort Industries</media:title>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/blogimages/900-images-2017/900-images-2017/comau-900.jpg?1484330660" type="image/jpeg" fileSize="115147">
+        <media:title type="plain">Comau LLC</media:title>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/blogimages/900-images-2017/900-images-2017/festo-900.jpg?1484330714" type="image/jpeg" fileSize="341175">
+        <media:title type="plain">Festo Corp.</media:title>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/blogimages/900-images-2017/900-images-2017/IPR-900.jpg?1484330741" type="image/jpeg" fileSize="164735">
+        <media:title type="plain">IPR Robotics</media:title>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/blogimages/900-images-2017/900-images-2017/schmalz-900.jpg?1484330779" type="image/jpeg" fileSize="257479">
+        <media:title type="plain">Schmalz</media:title>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/blogimages/900-images-2017/900-images-2017/schunk-900.jpg?1484330808" type="image/jpeg" fileSize="108288">
+        <media:title type="plain">SCHUNK Inc.</media:title>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/blogimages/900-images-2017/900-images-2017/staubli-900.jpg?1484330835" type="image/jpeg" fileSize="106169">
+        <media:title type="plain">StÃ¤ubli Corp.</media:title>
+      </media:content>
+    </item>
+    <item>
+      <title>Bosch Group Debuts Collaborative Robot at Consumer Electronics Show</title>
+      <description>
+        <![CDATA[LAS VEGASâThe Bosch Group demonstrated a new industrial robot with a smart âskinâ that could allow people to work more closely with machines. Exhibited at the Consumer Electronics Show here earlier this week, Boschâs Automatic Production Assistant can sense when a person enters a âdanger zoneâ and stop moving before an accident occurs.]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93691</guid>
+      <pubDate>Wed, 11 Jan 2017 00:00:00 -0500</pubDate>
+      <link>http://www.assemblymag.com/articles/93691-bosch-group-debuts-collaborative-robot-at-consumer-electronics-show</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Default_Images/responsive/ASB_default_latestnews.jpg?1479231322" type="image/jpeg" length="166380"/>
+    </item>
+    <item>
+      <title>Vision Enables Flexible Assembly</title>
+      <description>
+        <![CDATA[<p>A Fortune 500 manufacturer of electromechanical products previously operated six separate indexing assembly machines, each producing one of a family of products at about 40 parts per minute.</p>]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93679</guid>
+      <pubDate>Thu, 05 Jan 2017 00:00:00 -0500</pubDate>
+      <link>http://www.assemblymag.com/articles/93679-vision-enables-flexible-assembly</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Issues/2017/January/vision/asb0117vis1.jpg?1483646089" type="image/jpeg" length="75783"/>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2017/January/vision/asb0117vis1.jpg?1483646089" type="image/jpeg" fileSize="75783">
+        <media:title type="plain">1</media:title>
+        <media:description type="plain">The CNCAssembly system consists of seven assembly stations, or engines, linked together by a linear-motor transfer system. Photo courtesy Cognex Corp.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2017/January/vision/asb0117vis4.jpg?1483646201" type="image/jpeg" fileSize="87947">
+        <media:title type="plain">4</media:title>
+        <media:description type="plain">At station 4, a robot orients and assembles plastic spacer-plates onto the bases. A vision system inspects the subassemblies to verify that each part has a spacer-plate and it is correctly positioned on the spacer. Photo courtesy Cognex Corp.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2017/January/vision/asb0117vis5.jpg?1483646249" type="image/jpeg" fileSize="61779">
+        <media:title type="plain">5</media:title>
+        <media:description type="plain">This system assembles six families of an electromechanical product, for a total of more than 75 product variants. Photo courtesy Cognex Corp.
+</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>Shoe Manufacturer Automates Production in Unique Way</title>
+      <author>camilloj@bnpmedia.com (Jim Camillo)</author>
+      <description>
+        <![CDATA[<p>Most manufacturers are keen on automating production, so long as it can be done cost-effectively. This goal applies as well to KEEN Inc., a Portland, OR-based company that makes outdoor and lifestyle footwear.</p>
+]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93672</guid>
+      <pubDate>Thu, 05 Jan 2017 00:00:00 -0500</pubDate>
+      <link>http://www.assemblymag.com/articles/93672-shoe-manufacturer-automates-production-in-unique-way</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Issues/2017/January/AIA/asb0117AIA3.jpg?1483630435" type="image/jpeg" length="82263"/>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2017/January/AIA/asb0117AIA3.jpg?1483630435" type="image/jpeg" fileSize="82263">
+        <media:title type="plain">3</media:title>
+        <media:description type="plain">The UNEEK robotic cell features two IRB 120 six-axis robots that weave together interlocking cords located in the upper portion of each KEEN shoe. Photo courtesy ABB Robotics
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2017/January/AIA/asb0117AIA4.jpg?1483630513" type="image/jpeg" fileSize="79436">
+        <media:title type="plain">4</media:title>
+      </media:content>
+    </item>
+    <item>
+      <title>Robot Gets to Work Quicker on Transport Unit</title>
+      <author>camilloj@bnpmedia.com (Jim Camillo)</author>
+      <description>
+        <![CDATA[What does a manufacturer do if it needs to increase production, but its robotâs range limit has been reached and space limitations prevent the addition of a second robot? ]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93671</guid>
+      <pubDate>Thu, 05 Jan 2017 00:00:00 -0500</pubDate>
+      <link>http://www.assemblymag.com/articles/93671-robot-gets-to-work-quicker-on-transport-unit</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Issues/2017/January/AIA/asb0117AIA1.jpg?1483628498" type="image/jpeg" length="43071"/>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2017/January/AIA/asb0117AIA1.jpg?1483628498" type="image/jpeg" fileSize="43071">
+        <media:title type="plain">1</media:title>
+        <media:description type="plain">This transport unit quickly moves a Fanuc M-2000iA robot to a loading station where it places varioussized steel sleeves onto reels. Photo courtesy IPR GmbH
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2017/January/AIA/asb0117AIA2.jpg?1483628571" type="image/jpeg" fileSize="82475">
+        <media:title type="plain">2</media:title>
+        <media:description type="plain">BsAutomatisierung GmbH builds robotic workcells and complete automated systems. It also offers related engineering services, electrical design and image processing. Photo courtesy bsAutomatisierung GmbH
+</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>At Boeingâs 777X Wing Factory, Robots Get Big Jobs</title>
+      <description>
+        <![CDATA[EVERETT, WAâBoeingâs 777X Composite Wing Center here marks a significant step toward a future in which much of an aircraft assembly plantâs work is done by automated machines and robots.]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93657</guid>
+      <pubDate>Mon, 12 Dec 2016 00:00:00 -0500</pubDate>
+      <link>http://www.assemblymag.com/articles/93657-at-boeings-777x-wing-factory-robots-get-big-jobs</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/LatestHeadlines/headlines900/boeing-900.jpg?1429199038" type="image/jpeg" length="626100"/>
+    </item>
+    <item>
+      <title>Vacuum Grippers Reliably Handle Parts</title>
+      <author>camilloj@bnpmedia.com (Jim Camillo)</author>
+      <description>
+        <![CDATA[<p>Among Forrest Gump&rsquo;s greatest life lessons was the insight that you could never be certain what you would find inside a box of chocolates. Although Gump never actually clarified what that uncertainty is, it&rsquo;s generally assumed he was referring to the various types of fillings hidden in chocolate candies.</p>
+]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93650</guid>
+      <pubDate>Thu, 01 Dec 2016 00:00:00 -0500</pubDate>
+      <link>http://www.assemblymag.com/articles/93650-vacuum-grippers-reliably-handle-parts</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Issues/2016/December/grippers/asb1216Gripper1.jpg?1480532669" type="image/jpeg" length="177782"/>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/December/grippers/asb1216Gripper1.jpg?1480532669" type="image/jpeg" fileSize="177782">
+        <media:title type="plain">1</media:title>
+        <media:description type="plain">Vacuum grippers work best on parts with a flat, clean surface and a surface area at least equal to the pressed, cross-sectional area of the gripper. Photo courtesy Coval Vacuum Technology Inc.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/December/grippers/asb1216Gripper2.jpg?1480532849" type="image/jpeg" fileSize="297512">
+        <media:title type="plain">2</media:title>
+        <media:description type="plain">One of the most popular specialty grippers is the spider, which features a vacuum traverse with multiple arms (typically two to eight) having suction cups at the end. Photo courtesy Schmalz Inc.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/December/grippers/asb1216Gripper3.jpg?1480532887" type="image/jpeg" fileSize="41483">
+        <media:title type="plain">3</media:title>
+        <media:description type="plain">Bernoulli grippers lift and transport objects with minimal contact. The OGGB series cup produces a holding force of 7 to 10 newtons and can be mounted in any position. Photo courtesy Festo Corp.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/December/grippers/asb1216Gripper4.jpg?1480532922" type="image/jpeg" fileSize="66659">
+        <media:title type="plain">4</media:title>
+        <media:description type="plain">The SR/SK Torus vacuum cup features an inner core that creates suction on objects with perforated surfaces. Photo courtesy Zimmer Group US
+</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>Honda Brings Back Human Touch to Automotive Assembly Plant</title>
+      <description>
+        <![CDATA[MARYSVILLE, OHâHonda Motor Co. has abandoned robotics and gone for the human touch at its new assembly plant here dedicated to producing the NSX sports car for worldwide export.]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93630</guid>
+      <pubDate>Tue, 15 Nov 2016 00:00:00 -0500</pubDate>
+      <link>http://www.assemblymag.com/articles/93630-honda-brings-back-human-touch-to-automotive-assembly-plant</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Default_Images/responsive/ASB_default_latestnews.jpg?1479231322" type="image/jpeg" length="166380"/>
+    </item>
+    <item>
+      <title>Whatâs New With Machine Vision Systems</title>
+      <author>sprovierij@bnpmedia.com (John Sprovieri)</author>
+      <description>
+        <![CDATA[<p>Vision systems play a vital role in automated assembly systems. They can check for the presence or absence of parts or materials. They can measure key dimensions of assemblies. They can tell robots the precise location of parts. They can even read 1D and 2D codes.</p>
+]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93620</guid>
+      <pubDate>Mon, 07 Nov 2016 00:00:00 -0500</pubDate>
+      <link>http://www.assemblymag.com/articles/93620-whats-new-with-machine-vision-systems</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Issues/2016/November/Vision/asb1116vision1.jpg?1478532702" type="image/jpeg" length="76056"/>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/November/Vision/asb1116vision1.jpg?1478532702" type="image/jpeg" fileSize="76056">
+        <media:title type="plain">1</media:title>
+        <media:description type="plain">The BVS-E universal vision sensor can detect objects regardless of their location or position. Photo courtesy Balluff Inc.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/November/Vision/asb1116vision2.jpg?1478532799" type="image/jpeg" fileSize="108629">
+        <media:title type="plain">2</media:title>
+        <media:description type="plain">AutoVISION 4.0 allows engineers to easily implement machine vision jobs for item tracking, traceability, defect detection, guidance and monitoring. Photo courtesy Microscan Systems Inc.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/November/Vision/asb1116vision3.jpg?1478532830" type="image/jpeg" fileSize="58589">
+        <media:title type="plain">3</media:title>
+        <media:description type="plain">The Iris GTR smart camera measures just 75 by 75 by 54 millimeters, allowing it to fit into tight spaces. Photo courtesy Matrox Imaging
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/November/Vision/asb1116vision4.jpg?1478532858" type="image/jpeg" fileSize="56320">
+        <media:title type="plain">4</media:title>
+        <media:description type="plain">The iVu Plus Gen2 vision sensors have touch screen interfaces for easy setup and monitoring. Photo courtesy Banner Engineering
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/November/Vision/asb1116vision5.jpg?1478532997" type="image/jpeg" fileSize="69633">
+        <media:title type="plain">5</media:title>
+        <media:description type="plain">Compact 12-Megapixel Camera from Baumer Ltd.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/November/Vision/asb1116vision6tiff.jpg?1478533040" type="image/jpeg" fileSize="68669">
+        <media:title type="plain">6</media:title>
+        <media:description type="plain">Five-Megapixel CMOS Camera from JAI Inc.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/November/Vision/asb1116vision7.jpg?1478533098" type="image/jpeg" fileSize="30930">
+        <media:title type="plain">7</media:title>
+        <media:description type="plain">SICK Inc. has introduced the TriSpector1000 vision sensor for costefficient and reliable 3D inspection.
+</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>Industry 4.0: Myths vs. Reality</title>
+      <author>webera@bnpmedia.com (Austin Weber)</author>
+      <description>
+        <![CDATA[<p>In the nautical disaster movie, &ldquo;The Perfect Storm,&rdquo; three weather fronts converge off the coast of New England to create one of the fiercest storms in U.S. history. A similar convergence is occurring in the manufacturing world today. It&rsquo;s called Industry 4.0 and it promises to transform the way that engineers design and build products over the next two decades.</p>]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93619</guid>
+      <pubDate>Thu, 03 Nov 2016 00:00:00 -0400</pubDate>
+      <link>http://www.assemblymag.com/articles/93619-industry-40-myths-vs-reality</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Issues/2016/November/40/asb1116indsutry1.jpg?1478200729" type="image/jpeg" length="139458"/>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/November/40/asb1116indsutry1.jpg?1478200729" type="image/jpeg" fileSize="139458">
+        <media:title type="plain">1</media:title>
+        <media:description type="plain">Industry 4.0 represents a paradigm shift from centralized to decentralized manufacturing. Photo courtesy Fraunhofer-Gesellschaft
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/November/40/asb1116indsutry2.jpg?1478200820" type="image/jpeg" fileSize="252194">
+        <media:title type="plain">2</media:title>
+        <media:description type="plain">New technologies marry the physical world with the digital world, resulting in more seamless interaction between the two. Illustration courtesy Siemens AG
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/November/40/asb1116industry3.jpg?1478200855" type="image/jpeg" fileSize="161079">
+        <media:title type="plain">3</media:title>
+        <media:description type="plain">This augmented reality system uses projected lights to error-proof and streamline assembly processes. Photo courtesy Light Guide Systems Inc.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/November/40/asb1116industry4.jpg?1478200890" type="image/jpeg" fileSize="187863">
+        <media:title type="plain">4</media:title>
+        <media:description type="plain">Products, systems and services will be increasingly customized to customer needs, with feedback from products throughout their life cycles. Photo courtesy Daimler AG
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/November/40/asb1116industry7.jpg?1478200981" type="image/jpeg" fileSize="234412">
+        <media:title type="plain">7</media:title>
+        <media:description type="plain">Industry 4.0 relies on state-of-the-art production equipment that incorporates robotics, smart devices and embedded intelligence. Photo courtesy BMW AG
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/November/40/asb1116industry101.jpg?1478201062" type="image/jpeg" fileSize="263755">
+        <media:title type="plain">11</media:title>
+        <media:description type="plain">With Industry 4.0, production processes can become more visible and controllable. Photo courtesy Xplore Technologies Corp.
+</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>Tool Changers Maximize Productivity in Robotic Welding Cell</title>
+      <author>camilloj@bnpmedia.com (Jim Camillo)</author>
+      <description>
+        <![CDATA[<p>When the market demands products be made better or faster, manufacturers must respond in kind. For manufacturers in many industries, robots are essential to meeting these ever-changing customer needs.</p>
+]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93618</guid>
+      <pubDate>Thu, 03 Nov 2016 00:00:00 -0400</pubDate>
+      <link>http://www.assemblymag.com/articles/93618-tool-changers-maximize-productivity-in-robotic-welding-cell</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Issues/2016/November/AIA/asb1116AIA7.jpg?1478195620" type="image/jpeg" length="101203"/>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/November/AIA/asb1116AIA7.jpg?1478195620" type="image/jpeg" fileSize="101203">
+        <media:title type="plain">7</media:title>
+        <media:description type="plain">CAF trains are used throughout Europe and by the Saudi Railway Co. (shown) in Saudi Arabia. Photo courtesy CAF
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/November/AIA/asb1116AIA8.jpg?1478195713" type="image/jpeg" fileSize="106346">
+        <media:title type="plain">8</media:title>
+        <media:description type="plain">At CAF&amp;rsquo;s Elmira Heights, NY, manufacturing facility, stainless steel modules automatically hold down frame components as they are resistance welded. Photo courtesy Applied Robotics
+</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>Chinese Automaker Uses Vision-Guided Robots to Securely Handle Parts </title>
+      <author>camilloj@bnpmedia.com (Jim Camillo)</author>
+      <description>
+        <![CDATA[<p>Just a few decades ago, the typical American or European driver would never have believed that China, a communist country, would one day be the world&rsquo;s largest car producer (by volume).</p>
+]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93617</guid>
+      <pubDate>Thu, 03 Nov 2016 00:00:00 -0400</pubDate>
+      <link>http://www.assemblymag.com/articles/93617-chinese-automaker-uses-vision-guided-robots-to-securely-handle-parts</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Issues/2016/November/AIA/asb1116AIA5.jpg?1478195113" type="image/jpeg" length="224834"/>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/November/AIA/asb1116AIA5.jpg?1478195113" type="image/jpeg" fileSize="224834">
+        <media:title type="plain">5</media:title>
+        <media:description type="plain">At a high-volume automotive plant in China, robots grab large metal parts one at a time off a rack and place them on a moving conveyor. A vision-inspection system ensures that the robot&amp;rsquo;s gripper properly attaches to each part. Photo courtesy Teledyne DALSA
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/November/AIA/asb1116AIA6.jpg?1478195242" type="image/jpeg" fileSize="95833">
+        <media:title type="plain">6</media:title>
+        <media:description type="plain">Sherlock image-processing software is used to verify that the position coordinates of the gripper and part are correct. Photo courtesy Teledyne DALSA
+</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>Cartesian Robot Doubles Output of Solar Lego Modules</title>
+      <author>camilloj@bnpmedia.com (Jim Camillo)</author>
+      <description>
+        <![CDATA[<p>Traditional solar panel installations require expensive and time-consuming assembly of custom mounting systems on a roof, which can ultimately slow adoption.</p>]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93615</guid>
+      <pubDate>Thu, 03 Nov 2016 00:00:00 -0400</pubDate>
+      <link>http://www.assemblymag.com/articles/93615-cartesian-robot-doubles-output-of-solar-lego-modules</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Issues/2016/November/AIA/asb1116AIA2.jpg?1478194140" type="image/jpeg" length="144803"/>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/November/AIA/asb1116AIA1.jpg?1478194067" type="image/jpeg" fileSize="65923">
+        <media:title type="plain">1</media:title>
+        <media:description type="plain">The two-axis BA-III Cartesian robot features a BE50F Compo Arm for the X axis and a BE30E Compo Arm for the Y axis. Photo courtesy Toshiba Machine Co. America
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/November/AIA/asb1116AIA2.jpg?1478194140" type="image/jpeg" fileSize="144803">
+        <media:title type="plain">2</media:title>
+        <media:description type="plain">With the SMASHmount system, an installer can quickly mount solar panels to a roof with no field modifications or complications. Photo courtesy SMASH Solar Inc.
+</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>Foxconn Employs 40,000 Robots</title>
+      <description>
+        <![CDATA[NEW TAIPEI CITY, TaiwanâIn 2011, Foxconn announced a plan to replace 500,000 mainland Chinese workers with 1 million robots over the next three to five years. So far, the electronics manufacturing services provider has installed 40,000 robots across China. <a href="http://www.nextbigfuture.com/2016/10/foxconn-reaches-40000-robots-of.html" target="_blank">MORE</a>]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93606</guid>
+      <pubDate>Mon, 24 Oct 2016 00:00:00 -0400</pubDate>
+      <link>http://www.assemblymag.com/articles/93606-foxconn-employs-40000-robots</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Default_Images/responsive/ASB_default_latestnews.jpg?1479231322" type="image/jpeg" length="166380"/>
+    </item>
+    <item>
+      <title>FANUC Robots to get Machine Learning</title>
+      <description>
+        <![CDATA[<p>ROCHESTER HILLS, MI&mdash;Fanuc, one of the world&rsquo;s largest makers of industrial robots, is working with Nvidia, a Silicon Valley chipmaker that specializes in artificial intelligence, to add learning capabilities to its products.</p>
+]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93594</guid>
+      <pubDate>Fri, 07 Oct 2016 00:00:00 -0400</pubDate>
+      <link>http://www.assemblymag.com/articles/93594-fanuc-robots-to-get-machine-learning</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/LatestHeadlines/headlines900/fanuc-collab-900.jpg?1435680021" type="image/jpeg" length="178296"/>
+    </item>
+    <item>
+      <title>The ASSEMBLY Show Preview</title>
+      <author>sprovierij@bnpmedia.com (John Sprovieri)</author>
+      <description>
+        <![CDATA[<p>Laser welding is one of the newest technologies for joining thermoplastic parts. This noncontact process has many advantages. It&rsquo;s fast and precise, and it doesn&rsquo;t generate flash or particulates.</p>]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93586</guid>
+      <pubDate>Mon, 03 Oct 2016 15:22:00 -0400</pubDate>
+      <link>http://www.assemblymag.com/articles/93586-the-assembly-show-preview</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Issues/2016/October/tas/asb1016tas3.jpg?1475522661" type="image/jpeg" length="175794"/>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/October/tas/asb1016tas3.jpg?1475522661" type="image/jpeg" fileSize="175794">
+        <media:title type="plain">3</media:title>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/October/tas/asb1016tas1.jpg?1475522757" type="image/jpeg" fileSize="49666">
+        <media:title type="plain">1</media:title>
+        <media:description type="plain">Dukane has introduced a new laser welding system that allows clear-to-clear plastic welding without the need for laser-absorbing additives. Photo courtesy Dukane Corp.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/October/tas/asb1016tas2.jpg?1475522790" type="image/jpeg" fileSize="26367">
+        <media:title type="plain">2</media:title>
+        <media:description type="plain">First-time exhibitor Comau will be displaying a number of new products at The ASSEMBLY Show, including its new Racer series of small six-axis robots. Photo courtesy Comau LLC
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/October/tas/asb1016tas4.jpg?1475522810" type="image/jpeg" fileSize="153420">
+        <media:title type="plain">4</media:title>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/October/tas/asb1016tas10.jpg?1475522851" type="image/jpeg" fileSize="89024">
+        <media:title type="plain">5</media:title>
+        <media:description type="plain">You can order wiener schnitzel and other German standards at The Hofbrauhaus, one of 15 local restaurants providing food for the annual &amp;ldquo;Taste of Rosemont&amp;rdquo; reception, sponsored by ASG, Div. of Jergens. Photo courtesy Hofbrauhaus
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/October/tas/asb1016tas11.jpg?1475522886" type="image/jpeg" fileSize="139257">
+        <media:title type="plain">6</media:title>
+        <media:description type="plain">A panel discussion on Thursday, Oct. 27, will consider what manufacturers can do to recruit, retain and promote women in their organizations. Photo courtesy Women Can Build
+</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>Airbus Wing Plant Is a Model of Robotic Technology</title>
+      <description>
+        <![CDATA[<p>BROUGHTON, UK&mdash;Like a cartoon space alien with a dome-like skull, an Airbus Beluga transport plane arriving from Madrid drops from the sky above this village 200 miles northwest of London and taxis to a stop with its front end tucked inside a large building off the runway. Its bulbous forehead pops open to disgorge massive wing panels&mdash;98 feet long and 20 feet wide&mdash;that will soon be assembled by sophisticated robots and about 800 people into the largest carbon-fiber composite wings now built for commercial aviation.</p>]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93579</guid>
+      <pubDate>Mon, 03 Oct 2016 00:00:00 -0400</pubDate>
+      <link>http://www.assemblymag.com/articles/93579-airbus-wing-plant-is-a-model-of-robotic-technology</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/LatestHeadlines/headlines900/airbus-mfg-900.jpg?1433272684" type="image/jpeg" length="748353"/>
+    </item>
+    <item>
+      <title>Truck-body welding gets lift from tandem robots</title>
+      <author>camilloj@bnpmedia.com (Jim Camillo)</author>
+      <description>
+        <![CDATA[<p>Manufacturers with long histories and famous founders (e.g., John Deere, Henry Ford, F.L. Maytag) are numerous throughout the world.</p>
+]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93574</guid>
+      <pubDate>Sat, 01 Oct 2016 00:00:00 -0400</pubDate>
+      <link>http://www.assemblymag.com/articles/93574-truck-body-welding-gets-lift-from-tandem-robots</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Issues/2016/October/AIA/asb1016AIA1.jpg?1475255157" type="image/jpeg" length="232409"/>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/October/AIA/asb1016AIA1.jpg?1475255157" type="image/jpeg" fileSize="232409">
+        <media:title type="plain">1</media:title>
+        <media:description type="plain">Last year, Meiller Aufzugt&amp;uuml;ren GmbH installed tandem QIROX QRC-350-E robots at its plant in Slan&amp;yacute;, Czech Republic. The robots weld steel side walls for tipper bodies. Photo courtesy Carl Cloos Schweisstechnik GmbH
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/October/AIA/asb1016AIA2.jpg?1475255237" type="image/jpeg" fileSize="133491">
+        <media:title type="plain">2</media:title>
+        <media:description type="plain">Meiller Aufzugt&amp;uuml;ren GmbH is a market leader in the design and manufacture of tipper bodies (shown) and trailers, as well as lift doors. Photo courtesy Carl Cloos Schweisstechnik GmbH
+</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>Victor Scheinman, Inventor of Assembly Line Robot, Dies at 73</title>
+      <description>
+        <![CDATA[<p>PETROLIA, CA&mdash;Victor Scheinman, the Stanford engineering professor whose electrically powered, computer-controlled robot would become the Programmable Universal Machine for Assembly (PUMA) robot, has died at age 73.</p>
+]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93568</guid>
+      <pubDate>Fri, 23 Sep 2016 00:00:00 -0400</pubDate>
+      <link>http://www.assemblymag.com/articles/93568-victor-scheinman-inventor-of-assembly-line-robot-dies-at-73</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Default_Images/responsive/ASB_default_latestnews.jpg?1479231322" type="image/jpeg" length="166380"/>
+    </item>
+    <item>
+      <title>New Technology for Robotic Welding</title>
+      <author>sprovierij@bnpmedia.com (John Sprovieri)</author>
+      <description>
+        <![CDATA[<p>
+	Welding of one sort or another has been the No. 1 application for industrial robots almost since the technology was invented.</p>
+]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93555</guid>
+      <pubDate>Thu, 08 Sep 2016 02:00:00 -0400</pubDate>
+      <link>http://www.assemblymag.com/articles/93555-new-technology-for-robotic-welding</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Issues/2016/september/welding/asb0916weld1.jpg?1473349151" type="image/jpeg" length="146892"/>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/september/welding/asb0916weld1.jpg?1473349151" type="image/jpeg" fileSize="146892">
+        <media:title type="plain">1</media:title>
+        <media:description type="plain">
+	Driven by demand from the automotive industry, laser welding is one of the fastest growing applications for six-axis robots. Photo courtesy ABB Robotics
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/september/welding/asb0916weld2.jpg?1473349357" type="image/jpeg" fileSize="130796">
+        <media:title type="plain">2</media:title>
+        <media:description type="plain">
+	The dress package for laser welding requires some care to set up. Bend radius restrictions must be adhered to, and the cables can&amp;rsquo;t take shock. Photo courtesy Comau LLC
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/september/welding/asb0916weld3.jpg?1473349388" type="image/jpeg" fileSize="56576">
+        <media:title type="plain">3</media:title>
+        <media:description type="plain">
+	Whether the robot will be used for GTAW or GMAW, experts recommend a machine specifically designed for the task. Photo courtesy FANUC America Corp.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/september/welding/asb0916weld4.jpg?1473349426" type="image/jpeg" fileSize="116076">
+        <media:title type="plain">4</media:title>
+        <media:description type="plain">
+	ABB has recently added the TIP TIG process to its platform of robotic welding technologies. Instead of supplying the filler wire into the weld pool at a continuous rate, the feeder agitates the wire back and forth. Electrical current, supplied by a secondary power source, is also applied to the filler wire. Photo courtesy ABB Robotics
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/september/welding/asb0916weld5.jpg?1473349455" type="image/jpeg" fileSize="220493">
+        <media:title type="plain">5</media:title>
+        <media:description type="plain">
+	With fixtureless welding, the base part is located in a simple fixture. Then, a vision-guided, material handling robot picks up the part to be welded, sets it in place on the base part, and holds it there while an arc welding robot does its task. Photo courtesy FANUC America Corp.
+</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>Vanderbilt Is at the Forefront of Robotic Surgery</title>
+      <author>webera@bnpmedia.com (Austin Weber)</author>
+      <description>
+        <![CDATA[<p>
+	Robots are used in many large hospitals to deliver supplies and assist doctors with delicate surgical procedures. In the future, robotic surgery will become the routine rather than the exception.</p>]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93562</guid>
+      <pubDate>Thu, 08 Sep 2016 00:00:00 -0400</pubDate>
+      <link>http://www.assemblymag.com/articles/93562-vanderbilt-is-at-the-forefront-of-robotic-surgery</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Default_Images/responsive/campus.jpg?1433258966" type="image/jpeg" length="54636"/>
+    </item>
+    <item>
+      <title>Vision Systems Cure Research Companyâs Inflexibility Problem</title>
+      <author>camilloj@bnpmedia.com (Jim Camillo)</author>
+      <description>
+        <![CDATA[<p>
+	In every manufacturing industry, tradition is becoming less important. Companies no longer assume that what worked in the past will be enough to keep and gain customers. Instead, they look to the latest technology to improve manufacturing processes, optimize product quality and expand their customer base.</p>
+]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93554</guid>
+      <pubDate>Thu, 08 Sep 2016 00:00:00 -0400</pubDate>
+      <link>http://www.assemblymag.com/articles/93554-vision-systems-cure-research-companys-inflexibility-problem</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Issues/2016/september/AIA/asb0916AIA9.jpg?1473348682" type="image/jpeg" length="156304"/>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/september/AIA/asb0916AIA9.jpg?1473348682" type="image/jpeg" fileSize="156304">
+        <media:title type="plain">9</media:title>
+        <media:description type="plain">
+	The AseptiCell features Staubli TX-60 HE robots (with mounted In-Sight Micro 1100 vision systems) that aseptically finish and fill ready-to-use vials, syringes and IV bags. Photo courtesy Cognex Corp.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/september/AIA/asb0916AIA10.jpg?1473348773" type="image/jpeg" fileSize="103680">
+        <media:title type="plain">10</media:title>
+        <media:description type="plain">
+	Compact and lightweight, the In-Sight Micro 1100 vision system comes equipped with preconfigured drivers and sample code to communicate with most robots. Photo courtesy Cognex Corp.
+</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>Custom Packaging System Attracts Magnetic Materials Supplier</title>
+      <author>camilloj@bnpmedia.com (Jim Camillo)</author>
+      <description>
+        <![CDATA[<p>
+	Magnetic materials may not be well-known by the general public, but many of the world&rsquo;s leading manufacturers would be in trouble without them.</p>
+]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93552</guid>
+      <pubDate>Thu, 08 Sep 2016 00:00:00 -0400</pubDate>
+      <link>http://www.assemblymag.com/articles/93552-custom-packaging-system-attracts-magnetic-materials-supplier</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Issues/2016/september/AIA/asb0916AIA5.jpg?1473347625" type="image/jpeg" length="112790"/>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/september/AIA/asb0916AIA5.jpg?1473347625" type="image/jpeg" fileSize="112790">
+        <media:title type="plain">5</media:title>
+        <media:description type="plain">
+	A Delta robot equipped with specially designed tooling lifts five magnetic-material parts at a time and moves them into packaging trays. Photo courtesy GB Innomech Ltd.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/september/AIA/asb0916AIA6.jpg?1473347702" type="image/jpeg" fileSize="202337">
+        <media:title type="plain">6</media:title>
+        <media:description type="plain">
+	An operator inserts a tray of magneticmaterial parts into the automated packaging system. The parts are then indexed on a rotary turntable, and the height of each part is verified with a high-speed laser micrometer. Photo courtesy GB Innomech Ltd.
+</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>Gantry handling system quickens sensor soldering</title>
+      <author>camilloj@bnpmedia.com (Jim Camillo)</author>
+      <description>
+        <![CDATA[<p>
+	Today&rsquo;s typical automobile features nearly 100 exterior and interior sensors, with the number likely to increase in the near future. Those located on the outside (axle load, steering angle, blind spots, air temperature, etc.) require special protection from the elements and unique production methods.</p>
+]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93550</guid>
+      <pubDate>Thu, 08 Sep 2016 00:00:00 -0400</pubDate>
+      <link>http://www.assemblymag.com/articles/93550-gantry-handling-system-quickens-sensor-soldering</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Issues/2016/september/AIA/asb0916AIA1.jpg?1473346800" type="image/jpeg" length="123526"/>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/september/AIA/asb0916AIA1.jpg?1473346800" type="image/jpeg" fileSize="123526">
+        <media:title type="plain">1</media:title>
+        <media:description type="plain">
+	A few years ago, IPTE Factory Automation n.v. developed a selective soldering machine that moves by way of a gantry handling system to quickly and directly connect sensor batteries and PCBs in plastic housings. Photo courtesy Festo Corp.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/september/AIA/asb0916AIA2.jpg?1473346879" type="image/jpeg" fileSize="54669">
+        <media:title type="plain">2</media:title>
+        <media:description type="plain">
+	EGC linear-axis belt drives (top) and an EGSL mini-stroke slide ensure high-speed positioning of the selective soldering machine along the X, Y and Z axes. Photos courtesy Festo Corp.
+</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>New Assembly Plant Manufactures Rearview Mirrors</title>
+      <author>sprovierij@bnpmedia.com (John Sprovieri)</author>
+      <description>
+        <![CDATA[<p>
+	One way for a manufacturer to enter a new market is through acquisition. However, one downside of the strategy is that the manufacturing assets you acquire do not always mesh perfectly with how you like to do things.</p>
+]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93548</guid>
+      <pubDate>Wed, 07 Sep 2016 00:00:00 -0400</pubDate>
+      <link>http://www.assemblymag.com/articles/93548-new-assembly-plant-manufactures-rearview-mirrors</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Issues/2016/september/rearview/asb0916move1.jpg?1473272687" type="image/jpeg" length="71913"/>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/september/rearview/asb0916move1.jpg?1473272687" type="image/jpeg" fileSize="71913">
+        <media:title type="plain">1</media:title>
+        <media:description type="plain">
+	Ficosa&amp;rsquo;s new, state-of-the-art assembly plant in Cookeville, TN, will produce exterior rearview mirrors for automotive OEMs across the country. Photo courtesy Ficosa
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/september/rearview/asb0916move2.jpg?1473272775" type="image/jpeg" fileSize="143170">
+        <media:title type="plain">2</media:title>
+        <media:description type="plain">
+	Ficosa&amp;rsquo;s new assembly plant is equipped with a fully robotized paint line. Photo courtesy Ficosa
+</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>Adidas to Open US Highly Automated Shoe Factory in US</title>
+      <description>
+        <![CDATA[<p>
+	ATLANTA&mdash;Adidas will be opening a factory in Atlanta in 2017 where shoes will be produced entirely by robots. In a press release, the company outlined how the factory, dubbed the Speedfactory, will allow the company to manufacture shoes faster while bringing production closer to U.S. consumers.</p>]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93520</guid>
+      <pubDate>Mon, 15 Aug 2016 00:00:00 -0400</pubDate>
+      <link>http://www.assemblymag.com/articles/93520-adidas-to-open-us-highly-automated-shoe-factory-in-us</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Default_Images/responsive/ASB_default_latestnews.jpg?1479231322" type="image/jpeg" length="166380"/>
+    </item>
+    <item>
+      <title>Students to Turn Robots into Blacksmiths in New Manufacturing Competition</title>
+      <description>
+        <![CDATA[<p>
+	DETROIT&mdash;Lightweight Innovations For Tomorrow (LIFT), and the Center for Design and Manufacturing Excellence at The Ohio State University, have launched a new competition for high school college students from around the country merging the ancient skills of the blacksmith with the digital age of robotics to create new material forming capabilities called &ldquo;Robotic Blacksmithing.&rdquo;</p>]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93517</guid>
+      <pubDate>Mon, 15 Aug 2016 00:00:00 -0400</pubDate>
+      <link>http://www.assemblymag.com/articles/93517-students-to-turn-robots-into-blacksmiths-in-new-manufacturing-competition</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Default_Images/responsive/ASB_default_latestnews.jpg?1479231322" type="image/jpeg" length="166380"/>
+    </item>
+    <item>
+      <title>Lasers Will Play Greater Role in Auto Body Assembly Lines</title>
+      <description>
+        <![CDATA[<p>
+	TRAVERSE CITY, MI&mdash;Robotic laser welding will play a greater role in body-in-white assembly lines, as automakers increase their use of lightweight materials, according to Peter Busuttil, director of technology for KUKA Systems North America.</p>
+]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93514</guid>
+      <pubDate>Mon, 08 Aug 2016 00:00:00 -0400</pubDate>
+      <link>http://www.assemblymag.com/articles/93514-lasers-will-play-greater-role-in-auto-body-assembly-lines</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Default_Images/responsive/ASB_default_latestnews.jpg?1479231322" type="image/jpeg" length="166380"/>
+    </item>
+    <item>
+      <title>Robots Stand Out at Automatica</title>
+      <author>sprovierij@bnpmedia.com (John Sprovieri)</author>
+      <description>
+        <![CDATA[<p>
+	Some 45,000 manufacturing engineers and managers from 47 countries attended Automatica 2016, which took place June 21-24 at the New Munich Trade Fair Centre in Germany.</p>
+]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93506</guid>
+      <pubDate>Thu, 04 Aug 2016 01:00:00 -0400</pubDate>
+      <link>http://www.assemblymag.com/articles/93506-robots-stand-out-at-automatica</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Issues/2016/August/Automatica/asb0816munich1.jpg?1470322413" type="image/jpeg" length="124211"/>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/August/Automatica/asb0816munich1.jpg?1470322413" type="image/jpeg" fileSize="124211">
+        <media:title type="plain">1</media:title>
+        <media:description type="plain">
+	Comau showed off its forthcoming AURA highpayload collaborative robot at the Automatica show. Photo courtesy Messe M&amp;uuml;nchen GmbH
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/August/Automatica/asb0816munich2.jpg?1470322493" type="image/jpeg" fileSize="43986">
+        <media:title type="plain">2</media:title>
+        <media:description type="plain">
+	The Co-act Gripper JL1 from SCHUNK Inc. features a flexible outer skin with curved edges, integrated protection against workpiece loss, and an LEDbased interface for communication with people. Photo courtesy SCHUNK Inc.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/August/Automatica/asb0816munich3.jpg?1470322528" type="image/jpeg" fileSize="126440">
+        <media:title type="plain">3</media:title>
+        <media:description type="plain">
+	The SupraGripper from Festo has two grasping elements, each with three fingers, that hover freely above two semicircular plates. This technology could enable objects to be grasped and transported within enclosed spaces. Photo courtesy Festo Corp.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/August/Automatica/asb0816munich4.jpg?1470322558" type="image/jpeg" fileSize="120765">
+        <media:title type="plain">4</media:title>
+        <media:description type="plain">
+	KUKA showed off its LBR iiwa lightweight collaborative robot at Automatica. Photo courtesy KUKA Robotics
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/August/Automatica/asb0816munich5.jpg?1470322590" type="image/jpeg" fileSize="202459">
+        <media:title type="plain">5</media:title>
+        <media:description type="plain">
+	Some 45,000 manufacturing engineers from around the world saw the latest technologies for automated assembly at this year&amp;rsquo;s Automatica show in Munich, Germany. Photo courtesy Messe M&amp;uuml;nchen GmbH
+</media:description>
+      </media:content>
+    </item>
+  </channel>
+</rss>

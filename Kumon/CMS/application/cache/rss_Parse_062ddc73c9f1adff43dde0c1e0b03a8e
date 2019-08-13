@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Moser on Manufacturing</title>
+    <description>
+      <![CDATA[Editorâs note: Harry Moserâs
+column will appear every other
+month. Has your company reshored
+production? Are you thinking
+about it? Weâd like to hear
+from you. We would love to report
+on your successes or opportunities
+in future issues. Contact harry.
+moser@reshorenow.org.]]>
+    </description>
+    <link>http://www.assemblymag.com/rss</link>
+    <language>en-us</language>
+    <item>
+      <title>A deeper dive into Total Cost of Ownership (TCO): Part 1</title>
+      <description>
+        <![CDATA[<p>In our last column, we discussed how &ldquo;total cost of ownership&rdquo; (TCO) could reveal the hidden costs of offshoring and quantify the real profit and loss impact of reshoring or offshoring.</p>
+]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93652</guid>
+      <pubDate>Thu, 01 Dec 2016 00:00:00 -0500</pubDate>
+      <link>http://www.assemblymag.com/articles/93652-a-deeper-dive-into-total-cost-of-ownership-tco-part-1</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Default_Images/responsive/moser.jpg?1460054292" type="image/jpeg" length="154942"/>
+    </item>
+    <item>
+      <title>Using TCO when buying or selling</title>
+      <description>
+        <![CDATA[<p>In our last column, we identified national policies that will help bring manufacturing back from offshore, thereby improving the country&rsquo;s economy, employment and budget deficit.</p>
+]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93590</guid>
+      <pubDate>Mon, 03 Oct 2016 00:00:00 -0400</pubDate>
+      <link>http://www.assemblymag.com/articles/93590-using-tco-when-buying-or-selling</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Default_Images/responsive/moser.jpg?1460054292" type="image/jpeg" length="154942"/>
+    </item>
+    <item>
+      <title>Which candidates will best support U.S. manufacturing?</title>
+      <description>
+        <![CDATA[<p>
+	Our government could do a lot more to level the playing field for manufacturing. While the Reshoring Initiative does not support individual candidates, we do recommend policies that will bring manufacturing back from offshore, and we try to document candidate positions on these issues.</p>
+]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93512</guid>
+      <pubDate>Thu, 04 Aug 2016 00:00:00 -0400</pubDate>
+      <link>http://www.assemblymag.com/articles/93512-which-candidates-will-best-support-us-manufacturing</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Default_Images/responsive/moser.jpg?1460054292" type="image/jpeg" length="154942"/>
+    </item>
+    <item>
+      <title>Manufacturing Matters Most for Your Company, Too</title>
+      <description>
+        <![CDATA[<p>
+	My first column talked about why manufacturing matters most for our country. This month, I want to discuss how chasing cheap prices is not only hollowing out domestic manufacturing but, in many cases, it&rsquo;s making the companies that offshore less profitable. For decades, consultants and MBAs have told companies to focus on their core competencies&mdash;mostly R&amp;D, finance and marketing&mdash;and outsource manufacturing offshore. Now, companies are discovering that strategy was often wrong.</p>]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93432</guid>
+      <pubDate>Fri, 03 Jun 2016 00:00:00 -0400</pubDate>
+      <link>http://www.assemblymag.com/articles/93432-manufacturing-matters-most-for-your-company-too</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Default_Images/responsive/moser.jpg?1460054292" type="image/jpeg" length="154942"/>
+      <media:content url="http://www.assemblymag.com/ext/resources/Default_Images/responsive/moser.jpg?1460054292" type="image/jpeg" fileSize="154942">
+        <media:title type="plain">moser on manufacturing</media:title>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/June/mosert1.jpg?1464968830" type="image/jpeg" fileSize="141050">
+        <media:title type="plain">moser table</media:title>
+      </media:content>
+    </item>
+    <item>
+      <title>Manufacturing matters most</title>
+      <description>
+        <![CDATA[<p>
+	It is too little and too late to keep writing &ldquo;manufacturing matters.&rdquo; Everything else in the economy is secondary to manufacturing, mining and farming. Only these activities build wealth.</p>
+]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93343</guid>
+      <pubDate>Thu, 07 Apr 2016 00:00:00 -0400</pubDate>
+      <link>http://www.assemblymag.com/articles/93343-manufacturing-matters-most</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Default_Images/responsive/moser.jpg?1460054292" type="image/jpeg" length="154942"/>
+    </item>
+  </channel>
+</rss>

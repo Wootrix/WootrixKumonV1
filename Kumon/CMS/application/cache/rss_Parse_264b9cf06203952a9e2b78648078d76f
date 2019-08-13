@@ -1,0 +1,783 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Electronics Assembly</title>
+    <description>
+      <![CDATA[Articles about assembly technologies and trends in the electronics industry.]]>
+    </description>
+    <link>http://www.assemblymag.com/rss</link>
+    <language>en-us</language>
+    <item>
+      <title>Apple, Foxconn to Build $7 Billion U.S. Factory?</title>
+      <description>
+        <![CDATA[<p>CUPERTINO, CA--Apple Inc. and Foxconn Technology Group may build a new factory in the United States to produce display panels.</p>]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93703</guid>
+      <pubDate>Mon, 23 Jan 2017 00:00:00 -0500</pubDate>
+      <link>http://www.assemblymag.com/articles/93703-apple-foxconn-to-build-7-billion-us-factory</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Default_Images/asb-headlines-graphic.jpg?1464270410" type="image/jpeg" length="166380"/>
+    </item>
+    <item>
+      <title>Clemson, Carnegie Mellon to Develop Next-Gen Manufacturing Robots</title>
+      <description>
+        <![CDATA[CLEMSON, SCâResearchers at Clemson University and Carnegie Mellon University are collaborating to develop next-generation robots for advanced manufacturing across the automotive, aerospace, electronics and textile industries. Clemson will also help train the workers who will operate the robots, as part of a $253 million plan to fill roughly 510,000 jobs in manufacturing by 2025.
+]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93695</guid>
+      <pubDate>Mon, 16 Jan 2017 00:00:00 -0500</pubDate>
+      <link>http://www.assemblymag.com/articles/93695-clemson-carnegie-mellon-to-develop-next-gen-manufacturing-robots</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/LatestHeadlines/headlines900/ABB-welding-robot-900.jpg?1436202959" type="image/jpeg" length="459817"/>
+    </item>
+    <item>
+      <title>Dispensing Thick Materials</title>
+      <author>camilloj@bnpmedia.com (Jim Camillo)</author>
+      <description>
+        <![CDATA[<p>Comparative claims can be positive or negative, subjective or objective. But, in every instance, their main purpose is illustrative. A common example is when someone claims that a person or process is &ldquo;as slow as molasses&rdquo; (which, by the way, has a viscosity of only 5,000 to 10,000 centipoise [cps]).</p>
+]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93678</guid>
+      <pubDate>Thu, 05 Jan 2017 00:00:00 -0500</pubDate>
+      <link>http://www.assemblymag.com/articles/93678-dispensing-thick-materials</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Issues/2017/January/dispensing/asb0117Dispensing1.jpg?1483642813" type="image/jpeg" length="64904"/>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2017/January/dispensing/asb0117Dispensing1.jpg?1483642813" type="image/jpeg" fileSize="64904">
+        <media:title type="plain">1</media:title>
+        <media:description type="plain">Thick materials include thermally conductive paste (shown), grease, sealant, solder paste, filled epoxy and form- or cast-in-place gaskets. Photo courtesy Graco Inc.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2017/January/dispensing/asb0117Dispensing2.jpg?1483642891" type="image/jpeg" fileSize="28139">
+        <media:title type="plain">2</media:title>
+        <media:description type="plain">The TS8100 positive displacement pump is designed to dispense materials ranging from low-viscosity coatings to high-viscosity greases, paste and flux. Photo courtesy Techcon Systems
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2017/January/dispensing/asb0117Dispensing3.jpg?1483642920" type="image/jpeg" fileSize="22510">
+        <media:title type="plain">3</media:title>
+        <media:description type="plain">A three-axis benchtop robot, the F4200N.1 has a work area of 200 square millimeters. Photo courtesy Ellsworth Adhesives
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2017/January/dispensing/asb0117Dispensing4.jpg?1483642951" type="image/jpeg" fileSize="27216">
+        <media:title type="plain">4</media:title>
+        <media:description type="plain">Rhino ratio pumps increase thick-material flowability by multiplying the air pressure level placed upon the material by a ratio of 48- or 65-to-1. Photo courtesy Nordson EFD
+</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>ERP Software Keeps Manufacturers Focused on Production, Profit</title>
+      <author>camilloj@bnpmedia.com (Jim Camillo)</author>
+      <description>
+        <![CDATA[<p>Manufacturers face a plethora of challenges every day, regardless of where they are located and the industries they serve.</p>
+]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93647</guid>
+      <pubDate>Thu, 01 Dec 2016 00:00:00 -0500</pubDate>
+      <link>http://www.assemblymag.com/articles/93647-erp-software-keeps-manufacturers-focused-on-production-profit</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Issues/2016/December/AIA/asb1216AIA7.jpg?1480523933" type="image/jpeg" length="44559"/>
+    </item>
+    <item>
+      <title>Samsung to Invest $1 Billion in Texas Semiconductor Factory</title>
+      <description>
+        <![CDATA[AUSTIN, TXâSamsung Austin Semiconductor LLC plans to invest more than $1 billion in its chip-making factory here. Samsung already employs 3,000 people there, and the company expects to add hundreds more technicians and engineers next year.]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93628</guid>
+      <pubDate>Tue, 08 Nov 2016 00:00:00 -0500</pubDate>
+      <link>http://www.assemblymag.com/articles/93628-samsung-to-invest-1-billion-in-texas-semiconductor-factory</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Default_Images/responsive/ASB_default_latestnews.jpg?1479231322" type="image/jpeg" length="166380"/>
+    </item>
+    <item>
+      <title>Foxconn Employs 40,000 Robots</title>
+      <description>
+        <![CDATA[NEW TAIPEI CITY, TaiwanâIn 2011, Foxconn announced a plan to replace 500,000 mainland Chinese workers with 1 million robots over the next three to five years. So far, the electronics manufacturing services provider has installed 40,000 robots across China. <a href="http://www.nextbigfuture.com/2016/10/foxconn-reaches-40000-robots-of.html" target="_blank">MORE</a>]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93606</guid>
+      <pubDate>Mon, 24 Oct 2016 00:00:00 -0400</pubDate>
+      <link>http://www.assemblymag.com/articles/93606-foxconn-employs-40000-robots</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Default_Images/responsive/ASB_default_latestnews.jpg?1479231322" type="image/jpeg" length="166380"/>
+    </item>
+    <item>
+      <title>Cable Manufacturer Goes From Generally Good to Specifically Great</title>
+      <author>camilloj@bnpmedia.com (Jim Camillo)</author>
+      <description>
+        <![CDATA[<p>Ray Berst is the founder and president of Components Express Inc. (CEI), a Woodridge, IL-based manufacturer that specializes in custom machine-vision cables.</p>
+]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93587</guid>
+      <pubDate>Tue, 04 Oct 2016 00:00:00 -0400</pubDate>
+      <link>http://www.assemblymag.com/articles/93587-cable-manufacturer-goes-from-generally-good-to-specifically-great</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Issues/2016/October/Cables/asb1016CE1.jpg?1475596259" type="image/jpeg" length="125629"/>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/October/Cables/asb1016CE1.jpg?1475596259" type="image/jpeg" fileSize="125629">
+        <media:title type="plain">1</media:title>
+        <media:description type="plain">Cables for many of Components Express&amp;rsquo;s military and aerospace customers feature IDC-type very high density connectors. Photo by Jim Camillo
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/October/Cables/asb1016CE2.jpg?1475596402" type="image/jpeg" fileSize="74832">
+        <media:title type="plain">2</media:title>
+        <media:description type="plain">Although CEI specializes in multiconductor machine vision cables, its workers also assemble various electrical components, such as cigarette lighter plugs. Wires in this plug have just been soldered. Photo by Jim Camillo
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/October/Cables/asb1016CE3.jpg?1475596431" type="image/jpeg" fileSize="142815">
+        <media:title type="plain">3</media:title>
+        <media:description type="plain">Forty people work at Woodridge full-time, including 25 in assembly and production. Photo by Jim Camillo
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/October/Cables/asb1016CE4.jpg?1475596466" type="image/jpeg" fileSize="134251">
+        <media:title type="plain">4</media:title>
+        <media:description type="plain">Wires are cleaned before and after soldering to ensure optimum cable performance. Photo by Jim Camillo
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/October/Cables/asb1016CE5.jpg?1475596496" type="image/jpeg" fileSize="170082">
+        <media:title type="plain">5</media:title>
+        <media:description type="plain">Finished cables are bagged, labeled and stacked in a staging area for quality inspection. After the inspector checks the cable to verify the accuracy of the label, he signs off on the order and places a second sticker on the bag. Photo by Jim Camillo
+</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>Adhesives for Speaker Assembly</title>
+      <description>
+        <![CDATA[<p>The loudspeaker market is booming. In addition to designing to an outstanding product, efficient production is crucial for a speaker manufacturer to stay ahead of its competitors. Adhesives play an important role in this, but the potential they offer for increasing productivity has yet to be fully realized.</p>]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93584</guid>
+      <pubDate>Mon, 03 Oct 2016 00:00:00 -0400</pubDate>
+      <link>http://www.assemblymag.com/articles/93584-adhesives-for-speaker-assembly</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Issues/2016/October/speakers/asb1016delo2.jpg?1475517426" type="image/jpeg" length="72083"/>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/October/speakers/asb1016delo2.jpg?1475517426" type="image/jpeg" fileSize="72083">
+        <media:title type="plain">1</media:title>
+        <media:description type="plain">Adhesive bonds the spider to the voice coil, also known as the bobbin, which is usually made of paper or a polyimide-coated fabric with wires wrapped around it. Illustration courtesy DELO Industrial Adhesives
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/October/speakers/asb1016delo1a.jpg?1475517510" type="image/jpeg" fileSize="77361">
+        <media:title type="plain">1a</media:title>
+        <media:description type="plain">A typical loudspeaker is bonded in at least seven places. Illustration courtesy DELO Industrial Adhesives
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/October/speakers/asb1016delo1b.jpg?1475517537" type="image/jpeg" fileSize="31601">
+        <media:title type="plain">1b</media:title>
+        <media:description type="plain">A typical loudspeaker is bonded in at least seven places. Illustration courtesy DELO Industrial Adhesives
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/October/speakers/asb1016delo3.jpg?1475517576" type="image/jpeg" fileSize="54569">
+        <media:title type="plain">3</media:title>
+        <media:description type="plain">One-component polyurethanes are often used to bond the spider to a basket. However, because these adhesives cure so slowly, manufacturers must maintain large quantities of work in process. Illustration courtesy DELO Industrial Adhesives
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/October/speakers/asb1016delo4.jpg?1475517609" type="image/jpeg" fileSize="43275">
+        <media:title type="plain">4</media:title>
+        <media:description type="plain">The pole piece (top) and yoke (bottom) are bonded to a magnet. Two-part methyl methacrylate adhesive is often used for this application. Illustration courtesy DELO Industrial Adhesives
+</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>Bullet-Proof Automated Assembly</title>
+      <author>webera@bnpmedia.com (Austin Weber)</author>
+      <description>
+        <![CDATA[<p>
+	Multistation automated assembly systems are a wonder to behold. A well-designed system can mass-produce hundreds of assemblies per minute with minimal human intervention.</p>]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93557</guid>
+      <pubDate>Thu, 08 Sep 2016 00:00:00 -0400</pubDate>
+      <link>http://www.assemblymag.com/articles/93557-bullet-proof-automated-assembly</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Issues/2016/september/automated/asb0916automation_dial_2.jpg?1473357909" type="image/jpeg" length="96953"/>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/september/automated/asb0916automation_dial_2.jpg?1473357909" type="image/jpeg" fileSize="96953">
+        <media:title type="plain">1</media:title>
+        <media:description type="plain">
+	Several factors can influence the overall design of a multistation automated assembly system, such as production volume and model mix. Photo courtesy Orbitform Group LLC
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/september/automated/asb0916automation_xy_1.jpg?1473358081" type="image/jpeg" fileSize="112457">
+        <media:title type="plain">2</media:title>
+        <media:description type="plain">
+	The goal of automation is to have a machine run with minimum downtime and little or no operator interaction. Photo courtesy Orbitform Group LLC
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/september/automated/asb0916automation2.jpg?1473358110" type="image/jpeg" fileSize="173600">
+        <media:title type="plain">3</media:title>
+        <media:description type="plain">
+	Without actual parts, it&amp;rsquo;s difficult to design high-speed assembly systems. Photo courtesy Performance Feeders Inc.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/september/automated/asb0916automation4.jpg?1473358140" type="image/jpeg" fileSize="165461">
+        <media:title type="plain">4</media:title>
+        <media:description type="plain">
+	Parts feeding plays a critical role in the long-term success of multistation automated assembly systems. Photo courtesy RNA Automation Ltd.
+</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>Whatâs New With Servo Presses</title>
+      <author>camilloj@bnpmedia.com (Jim Camillo)</author>
+      <description>
+        <![CDATA[<p>
+	When an assembly press supplier meets with a manufacturer to discuss its next purchase, both parties focus on one question: Which type and model of press is best for the current application? Mike Brieschke, vice president of sales at Aries Engineering Corp., recalls how two such meetings in 2006 with automotive OEMs led the supplier to ask itself another question: Which type of press is best for the future of assembly?</p>
+]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93556</guid>
+      <pubDate>Thu, 08 Sep 2016 00:00:00 -0400</pubDate>
+      <link>http://www.assemblymag.com/articles/93556-whats-new-with-servo-presses</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Issues/2016/september/servo/asb0916ServoPress1.jpg?1473356560" type="image/jpeg" length="240410"/>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/september/servo/asb0916ServoPress1.jpg?1473356560" type="image/jpeg" fileSize="240410">
+        <media:title type="plain">1</media:title>
+        <media:description type="plain">
+	Manufacturers in several industries use Kistler Instrument Corp.&amp;rsquo;s NCFN servo press, which features a strain gauge force sensor and produces joining forces from 5 to 300 kilonewtons. Photo courtesy Kistler Instrument Corp.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/september/servo/asb0916ServoPress2.jpg?1473356641" type="image/jpeg" fileSize="124475">
+        <media:title type="plain">2</media:title>
+        <media:description type="plain">
+	At this plant, HyperCyl-EMA servo actuators (8-ton force capability) insert bushings for a suspension product. Photo courtesy Aries Engineering Corp.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/september/servo/asb0916ServoPress3.jpg?1473356680" type="image/jpeg" fileSize="40194">
+        <media:title type="plain">3</media:title>
+        <media:description type="plain">
+	Promess handheld models weigh just 20 or 30 pounds, but produce 1,000 or 3,000 pounds of force, respectively. Graphic courtesy Promess Inc.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/september/servo/asb0916ServoPress4.jpg?1473356714" type="image/jpeg" fileSize="39369">
+        <media:title type="plain">4</media:title>
+        <media:description type="plain">
+	EX-K servo presses feature a planetary roller screw and provide forces of 10 to 200 kilonewtons. Photo courtesy TOX-Pressotechnik
+</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>Custom Packaging System Attracts Magnetic Materials Supplier</title>
+      <author>camilloj@bnpmedia.com (Jim Camillo)</author>
+      <description>
+        <![CDATA[<p>
+	Magnetic materials may not be well-known by the general public, but many of the world&rsquo;s leading manufacturers would be in trouble without them.</p>
+]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93552</guid>
+      <pubDate>Thu, 08 Sep 2016 00:00:00 -0400</pubDate>
+      <link>http://www.assemblymag.com/articles/93552-custom-packaging-system-attracts-magnetic-materials-supplier</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Issues/2016/september/AIA/asb0916AIA5.jpg?1473347625" type="image/jpeg" length="112790"/>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/september/AIA/asb0916AIA5.jpg?1473347625" type="image/jpeg" fileSize="112790">
+        <media:title type="plain">5</media:title>
+        <media:description type="plain">
+	A Delta robot equipped with specially designed tooling lifts five magnetic-material parts at a time and moves them into packaging trays. Photo courtesy GB Innomech Ltd.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/september/AIA/asb0916AIA6.jpg?1473347702" type="image/jpeg" fileSize="202337">
+        <media:title type="plain">6</media:title>
+        <media:description type="plain">
+	An operator inserts a tray of magneticmaterial parts into the automated packaging system. The parts are then indexed on a rotary turntable, and the height of each part is verified with a high-speed laser micrometer. Photo courtesy GB Innomech Ltd.
+</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>Gantry handling system quickens sensor soldering</title>
+      <author>camilloj@bnpmedia.com (Jim Camillo)</author>
+      <description>
+        <![CDATA[<p>
+	Today&rsquo;s typical automobile features nearly 100 exterior and interior sensors, with the number likely to increase in the near future. Those located on the outside (axle load, steering angle, blind spots, air temperature, etc.) require special protection from the elements and unique production methods.</p>
+]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93550</guid>
+      <pubDate>Thu, 08 Sep 2016 00:00:00 -0400</pubDate>
+      <link>http://www.assemblymag.com/articles/93550-gantry-handling-system-quickens-sensor-soldering</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Issues/2016/september/AIA/asb0916AIA1.jpg?1473346800" type="image/jpeg" length="123526"/>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/september/AIA/asb0916AIA1.jpg?1473346800" type="image/jpeg" fileSize="123526">
+        <media:title type="plain">1</media:title>
+        <media:description type="plain">
+	A few years ago, IPTE Factory Automation n.v. developed a selective soldering machine that moves by way of a gantry handling system to quickly and directly connect sensor batteries and PCBs in plastic housings. Photo courtesy Festo Corp.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/september/AIA/asb0916AIA2.jpg?1473346879" type="image/jpeg" fileSize="54669">
+        <media:title type="plain">2</media:title>
+        <media:description type="plain">
+	EGC linear-axis belt drives (top) and an EGSL mini-stroke slide ensure high-speed positioning of the selective soldering machine along the X, Y and Z axes. Photos courtesy Festo Corp.
+</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>Forget the Assembly Line: MIT Is Making Phones That Can Assemble Themselves</title>
+      <description>
+        <![CDATA[<p>
+	CAMBRIDGE, MA&mdash;Researchers at the Self-Assembly Lab at the Massachusetts Institute of Technology are developing a mobile phone that can put itself together.</p>
+]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93527</guid>
+      <pubDate>Thu, 25 Aug 2016 00:00:00 -0400</pubDate>
+      <link>http://www.assemblymag.com/articles/93527-forget-the-assembly-line-mit-is-making-phones-that-can-assemble-themselves</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Default_Images/responsive/ASB_default_latestnews.jpg?1479231322" type="image/jpeg" length="166380"/>
+    </item>
+    <item>
+      <title>Two Foxconn Assemblers Die</title>
+      <description>
+        <![CDATA[<p>
+	ZHENGZHOU, China&mdash;Contract manufacturer Foxconn said on Monday that two workers at its assembly facilities here died last week, even as the company made efforts to improve labor conditions that came under scrutiny after a spate of suicides in recent years.</p>
+]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93525</guid>
+      <pubDate>Mon, 22 Aug 2016 00:00:00 -0400</pubDate>
+      <link>http://www.assemblymag.com/articles/93525-two-foxconn-assemblers-die</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/LatestHeadlines/headlines900/foxconn-900.jpg?1437144785" type="image/jpeg" length="496408"/>
+    </item>
+    <item>
+      <title>Conformal Coatings Protect Automotive Electronics</title>
+      <description>
+        <![CDATA[<p>
+	Once a lagging market segment, automotive electronics has gained significant importance in recent years, as the industry, the culture and consumer expectations have changed. Safety and regulatory requirements for vehicles have increased, manufacturers have new warranty requirements, and what used to be &ldquo;luxury&rdquo; features are now expected to come standard with a new car.</p>
+]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93509</guid>
+      <pubDate>Thu, 04 Aug 2016 00:00:00 -0400</pubDate>
+      <link>http://www.assemblymag.com/articles/93509-conformal-coatings-protect-automotive-electronics</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Issues/2016/August/coatings/asb0816coating1.jpg?1470332783" type="image/jpeg" length="110334"/>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/August/coatings/asb0816coating1.jpg?1470332783" type="image/jpeg" fileSize="110334">
+        <media:title type="plain">1</media:title>
+        <media:description type="plain">
+	Today&amp;rsquo;s vehicles are equipped with myriad electronic devices, such as navigation systems and rear-view cameras. Conformal coatings protect the PCBs in these devices from the elements. Photo courtesy Dymax Corp.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/August/coatings/asb0816coating2.jpg?1470332865" type="image/jpeg" fileSize="88858">
+        <media:title type="plain">2</media:title>
+        <media:description type="plain">
+	Many options are available for curing conformal coatings. A conveyorized system is ideal for high-throughput operations. Photo courtesy Dymax Corp.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/August/coatings/asb0816coating3a.jpg?1470332919" type="image/jpeg" fileSize="212888">
+        <media:title type="plain">3</media:title>
+        <media:description type="plain">
+	Industry-approved conformal coatings fluoresce when exposed to black light (next). This helps operators see whether the coating has been applied completely and correctly. Photo courtesy Dymax Corp.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/August/coatings/asb0816coating3b.jpg?1470332947" type="image/jpeg" fileSize="170969">
+        <media:title type="plain">3b</media:title>
+        <media:description type="plain">
+	Industry-approved conformal coatings fluoresce when exposed to black light. This helps operators see whether the coating has been applied completely and correctly. Photo courtesy Dymax Corp.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/August/coatings/asb0816coating4.jpg?1470332975" type="image/jpeg" fileSize="68734">
+        <media:title type="plain">4</media:title>
+        <media:description type="plain">
+	A Cartesian robot equipped with a spray valve can reliably and repeatably apply conformal coatings to PCBs. Photo courtesy Dymax Corp.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/August/coatings/asb0816coating5.jpg?1470333002" type="image/jpeg" fileSize="99704">
+        <media:title type="plain">5</media:title>
+        <media:description type="plain">
+	Conformal coatings eliminate the need to create an enclosure to protect sensitive electronics. That saves space and reduces weight. Photo courtesy Dymax Corp.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/August/coatings/asb0816coating6.jpg?1470333016" type="image/jpeg" fileSize="168278">
+        <media:title type="plain">6</media:title>
+      </media:content>
+    </item>
+    <item>
+      <title>Orbital and Radial Forming for Delicate Assemblies</title>
+      <author>sprovierij@bnpmedia.com (John Sprovieri)</author>
+      <description>
+        <![CDATA[<p>
+	Engineers at a major manufacturer of portable electronic devices had a problem. They needed to rivet a small, thin electrical contact to the device&rsquo;s charger subassembly, but how could they head the tiny rivets&mdash;0.02 to 0.03 inch in diameter&mdash;without crushing the assembly?</p>
+]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93508</guid>
+      <pubDate>Thu, 04 Aug 2016 00:00:00 -0400</pubDate>
+      <link>http://www.assemblymag.com/articles/93508-orbital-and-radial-forming-for-delicate-assemblies</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Issues/2016/August/form/asb0816form1.jpg?1470330996" type="image/jpeg" length="25024"/>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/August/form/asb0816form1.jpg?1470330996" type="image/jpeg" fileSize="25024">
+        <media:title type="plain">1</media:title>
+        <media:description type="plain">
+	Baltec&amp;rsquo;s HPP-25 process controller governs six process parameters: forming distance, riveting time, riveting force, spindle distance, external contact and rivet head height. Photo courtesy Baltec Corp.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/August/form/asb0816form2.jpg?1470331074" type="image/jpeg" fileSize="77238">
+        <media:title type="plain">2</media:title>
+        <media:description type="plain">
+	This setup allows rivets to be headed from both sides of an assembly simultaneously. One controller directs both machines. Photo courtesy Baltec Corp.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/August/form/asb0816form3.jpg?1470331103" type="image/jpeg" fileSize="44005">
+        <media:title type="plain">3</media:title>
+        <media:description type="plain">
+	Orbitform has recently introduced a line of servo-driven power heads. Using a servomotor and ballscrew to apply downward force confers numerous advantages, such as precise control, variable advance and retract rates, and a wide range of forming forces. Photo courtesy Orbitform LLC
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/August/form/asb0816form4.jpg?1470331137" type="image/jpeg" fileSize="85329">
+        <media:title type="plain">4</media:title>
+        <media:description type="plain">
+	Sophisticated controls are enabling orbital and radial riveters to tackle small, precision applications, such as electrical connectors and medical devices. Photo courtesy Taumel Assembly Systems
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/August/form/asb0816form5.jpg?1470331167" type="image/jpeg" fileSize="195855">
+        <media:title type="plain">5</media:title>
+        <media:description type="plain">
+	A manufacturer of automotive speakers uses an orbital forming machine to secure a magnetic core to a metal basket. A special tool swages the magnet in place without deforming the basket. Photo courtesy Taumel Assembly Systems
+</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>Power Distribution Gets Smart</title>
+      <author>webera@bnpmedia.com (Austin Weber)</author>
+      <description>
+        <![CDATA[<p>
+	Most people never think about the electrical grid when they turn on their TV, charge their smartphone or surf the Internet. But, without it, none of those things would work.</p>]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93507</guid>
+      <pubDate>Thu, 04 Aug 2016 00:00:00 -0400</pubDate>
+      <link>http://www.assemblymag.com/articles/93507-power-distribution-gets-smart</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Issues/2016/August/grid/asb0816grid1.jpg?1470323132" type="image/jpeg" length="162410"/>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/August/grid/asb0816grid1.jpg?1470323132" type="image/jpeg" fileSize="162410">
+        <media:title type="plain">1</media:title>
+        <media:description type="plain">
+	Electrical distribution and transmission equipment, such as switch gear, is typically custom built to meet the unique needs of utilities. Photo courtesy ABB Inc.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/August/grid/asb0816grid2.jpg?1470323184" type="image/jpeg" fileSize="113836">
+        <media:title type="plain">2</media:title>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/August/grid/asb0816grid3.jpg?1470323239" type="image/jpeg" fileSize="209265">
+        <media:title type="plain">3</media:title>
+        <media:description type="plain">
+	It will take at least 20 to 30 years to fully implement the grid modernization program in the United States. Photo courtesy S&amp;amp;C Electric Co.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/August/grid/asb0816grid4.jpg?1470323269" type="image/jpeg" fileSize="94126">
+        <media:title type="plain">4</media:title>
+        <media:description type="plain">
+	Smart meters contain circuit boards and electronic modules that measure energy consumption. Photo courtesy U.S. Department of Energy
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/August/grid/asb0816grid5.jpg?1470323298" type="image/jpeg" fileSize="265201">
+        <media:title type="plain">5</media:title>
+        <media:description type="plain">
+	State-of-the-art robots have enabled a 25 percent increase in the number of switch gear units produced at this new assembly plant. Photo courtesy ABB Inc.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/August/grid/asb0816grid6.jpg?1470323313" type="image/jpeg" fileSize="82675">
+        <media:title type="plain">6</media:title>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/August/grid/asb0816grid7.jpg?1470323357" type="image/jpeg" fileSize="259653">
+        <media:title type="plain">7</media:title>
+        <media:description type="plain">
+	Despite energy conservation efforts, electricity demand has risen by 10 percent during the past decade. Photo courtesy Duke Energy Corp.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/August/grid/asb0816grid8.jpg?1470323373" type="image/jpeg" fileSize="119568">
+        <media:title type="plain">8</media:title>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/August/grid/asb0816grid9.jpg?1470323421" type="image/jpeg" fileSize="102505">
+        <media:title type="plain">9</media:title>
+        <media:description type="plain">
+	A new generation of low-cost, peel-and-stick wireless sensors are being developed by engineers at Oak Ridge National Laboratory. Photo courtesy U.S. Department of Energy
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/August/grid/asb0816grid10.jpg?1470323456" type="image/jpeg" fileSize="223900">
+        <media:title type="plain">10</media:title>
+        <media:description type="plain">
+	Transformers are the least sexiest piece of the electric grid, but they play a critical role. Photo courtesy ABB Inc.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/August/grid/asb0816grid11.jpg?1470323486" type="image/jpeg" fileSize="213598">
+        <media:title type="plain">11</media:title>
+        <media:description type="plain">
+	Intelligent switches help electric utilities deploy smart grid systems. Photo courtesy Duke Energy Corp.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/August/grid/asb0816grid12.jpg?1470323519" type="image/jpeg" fileSize="134942">
+        <media:title type="plain">12</media:title>
+        <media:description type="plain">
+	Engineers are developing a new class of power electronics that control and convert electricity. Photo courtesy U.S. Department of Energy
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/August/grid/asb0816grid13.jpg?1470323555" type="image/jpeg" fileSize="325467">
+        <media:title type="plain">13</media:title>
+        <media:description type="plain">
+	Smart grid technology features computer-based control and automation systems. Photo courtesy ABB Inc.
+</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>Calsonic Kansei Mexicana Warms to Selective PCB Soldering</title>
+      <author>camilloj@bnpmedia.com (Jim Camillo)</author>
+      <description>
+        <![CDATA[<p>
+	About 300 miles northwest of Mexico City sits the town of Aguascalientes. Although its name means hot waters, the place is much more well-known for its gentle climate, brave bullfighters and being a stopover point between the mines of Zacatecas and Mexico City.</p>
+]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93504</guid>
+      <pubDate>Thu, 04 Aug 2016 00:00:00 -0400</pubDate>
+      <link>http://www.assemblymag.com/articles/93504-calsonic-kansei-mexicana-warms-to-selective-pcb-soldering</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Issues/2016/August/AIA/asb0816AIA5.jpg?1470321638" type="image/jpeg" length="93844"/>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/August/AIA/asb0816AIA5.jpg?1470321638" type="image/jpeg" fileSize="93844">
+        <media:title type="plain">5</media:title>
+        <media:description type="plain">
+	The town of Aguascalientes serves as the headquarters of Calsonic Kansei Mexicana, a subsidiary of Tokyo-based Calsonic Kansei Corp. Photo courtesy Calsonic Kansei Mexicana S.A. de C.V.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/August/AIA/asb0816AIA6.jpg?1470321704" type="image/jpeg" fileSize="102157">
+        <media:title type="plain">6</media:title>
+        <media:description type="plain">
+	STR2 selective solder systems provide fast, consistent, and high-quality soldering of through-hole components to PCBs. Photo courtesy Manncorp
+</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>Foxconn VP Wins Robotics Award</title>
+      <description>
+        <![CDATA[<p>
+	ANN ARBOR, MI&mdash;Foxconn vice president Chia Day has won 2016 Engelberger Robotics Award for automating electronics assembly at the contract manufacturer&rsquo;s electronics factories in China.</p>
+]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93458</guid>
+      <pubDate>Thu, 23 Jun 2016 00:00:00 -0400</pubDate>
+      <link>http://www.assemblymag.com/articles/93458-foxconn-vp-wins-robotics-award</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Default_Images/responsive/ASB_default_latestnews.jpg?1479231322" type="image/jpeg" length="166380"/>
+    </item>
+    <item>
+      <title>Siemens Opens US Assembly Plant to Make Industrial PCs</title>
+      <description>
+        <![CDATA[<p>
+	LEBANON, OH&mdash;Siemens has opened its first U.S. assembly plant here to manufacture industrial personal computers. By moving production of the computers to Ohio, delivery times to U.S. customers will be cut by 40 percent, Siemens officials said.</p>
+]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93441</guid>
+      <pubDate>Fri, 10 Jun 2016 00:00:00 -0400</pubDate>
+      <link>http://www.assemblymag.com/articles/93441-siemens-opens-us-assembly-plant-to-make-industrial-pcs</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Default_Images/responsive/ASB_default_latestnews.jpg?1479231322" type="image/jpeg" length="166380"/>
+    </item>
+    <item>
+      <title>The Connected Home Is Here</title>
+      <author>webera@bnpmedia.com (Austin Weber)</author>
+      <description>
+        <![CDATA[<p>
+	For the last 100 years, dryers, ovens, refrigerators, washing machines and other household appliances have performed the same basic functions, such as keeping food hot or cold and getting clothes wet and dry. But, a new breed of &ldquo;smart&rdquo; appliances is emerging, thanks to advanced sensor technology and the Internet of Things (IoT).</p>]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93427</guid>
+      <pubDate>Fri, 03 Jun 2016 05:00:00 -0400</pubDate>
+      <link>http://www.assemblymag.com/articles/93427-the-connected-home-is-here</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Issues/2016/June/connected-home/asb0616appliance1.jpg?1464965658" type="image/jpeg" length="84397"/>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/June/connected-home/asb0616appliance1.jpg?1464965658" type="image/jpeg" fileSize="84397">
+        <media:title type="plain">1</media:title>
+        <media:description type="plain">
+	Smart appliances can connect and share information with smart phones and other mobile electronic devices. Photo courtesy Whirlpool Corp.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/June/connected-home/asb0616appliance2.jpg?1464965733" type="image/jpeg" fileSize="117978">
+        <media:title type="plain">2</media:title>
+        <media:description type="plain">
+	Advanced sensor technology enables smart appliances to monitor and collect a wide variety of data. Illustration courtesy Siemens AG
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/June/connected-home/asb0616appliance3.jpg?1464965760" type="image/jpeg" fileSize="78881">
+        <media:title type="plain">3</media:title>
+        <media:description type="plain">
+	Appliance manufacturers are scrambling to roll out products that contain smart features, such as this refrigerator equipped with a coffee brewing system. Photo courtesy GE Appliances
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/June/connected-home/asb0616appliance4.jpg?1464965785" type="image/jpeg" fileSize="73559">
+        <media:title type="plain">4</media:title>
+        <media:description type="plain">
+	Smart appliances offer unique data collection opportunities for manufacturers. Illustration courtesy Ayla Networks Inc.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/June/connected-home/asb0616appliance5.jpg?1464965812" type="image/jpeg" fileSize="36532">
+        <media:title type="plain">5</media:title>
+        <media:description type="plain">
+	Smart appliances are forcing engineers to rethink how they design products. Photo courtesy Samsung Electronics Co.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/June/connected-home/asb0616appliance6jpeg.jpg?1465238918" type="image/jpeg" fileSize="83980">
+        <media:title type="plain">6</media:title>
+        <media:description type="plain">
+	The push for innovation in the appliance industry is opening the door for small start-up companies with new ideas, such as this smart tea maker. Photo courtesy Keyway Innovations/QiAerista
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/June/connected-home/asb0616appliance7.jpg?1465238968" type="image/jpeg" fileSize="79604">
+        <media:title type="plain">7</media:title>
+        <media:description type="plain">
+	Smart appliances are more than just a fad. But, one of the big hurdles manufacturers face is getting consumers to buy into the technology. Photo courtesy Samsung Electronics Co.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/June/connected-home/asb0616appliance8.jpg?1465238997" type="image/jpeg" fileSize="41527">
+        <media:title type="plain">8</media:title>
+        <media:description type="plain">
+	By leveraging Internet of Things technology, this range lets consumers remotely monitor the cooktop and oven functions on a smart phone. Photo courtesy Samsung Electronics Co.
+</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>Assembling Wearable Electronics</title>
+      <description>
+        <![CDATA[<p>
+	Wearable electronics initially trickled into the market with Dick Tracy-inspired watches and healthcare bracelets. They quickly gained momentum, however, and it wasn&rsquo;t long before the wearables market exploded.</p>
+]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93391</guid>
+      <pubDate>Thu, 05 May 2016 00:00:00 -0400</pubDate>
+      <link>http://www.assemblymag.com/articles/93391-assembling-wearable-electronics</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Issues/2016/May/wearables/asb0516wear1.jpg?1462473981" type="image/jpeg" length="62975"/>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/May/wearables/asb0516wear1.jpg?1462473981" type="image/jpeg" fileSize="62975">
+        <media:title type="plain">1</media:title>
+        <media:description type="plain">
+	Wearable PCBs come in a variety of odd shapes to suit an application. Photo courtesy NexLogic Technologies Inc.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/May/wearables/asb0516wear2.jpg?1462474109" type="image/jpeg" fileSize="55667">
+        <media:title type="plain">2</media:title>
+        <media:description type="plain">
+	Wearables can contain a combination of rigid and flex circuitry or flex circuitry alone. Photo courtesy NexLogic Technologies Inc.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/May/wearables/asb0516wear3.jpg?1462474138" type="image/jpeg" fileSize="102294">
+        <media:title type="plain">3</media:title>
+        <media:description type="plain">
+	Micro BGAs are attached to a flex circuit for a medical electronics application. These tiny components can house complex circuitry, such as system-on-a chip technology. Photo courtesy NexLogic Technologies Inc.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/May/wearables/asb0516wear4.jpg?1462474167" type="image/jpeg" fileSize="120385">
+        <media:title type="plain">4</media:title>
+        <media:description type="plain">
+	Wearable PCBs can be assembled with standard pick-and-place equipment, but special fixturing is required. Photo courtesy NexLogic Technologies Inc.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/May/wearables/asb0516wear5.jpg?1462474198" type="image/jpeg" fileSize="86448">
+        <media:title type="plain">5</media:title>
+        <media:description type="plain">
+	This photo shows the difference between fixtures for conventional PCBs and flexible ones. Photo courtesy NexLogic Technologies Inc.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/May/wearables/asb0516wear7a.jpg?1462474247" type="image/jpeg" fileSize="45141">
+        <media:title type="plain">6</media:title>
+        <media:description type="plain">
+	Smart watches and fitness bracelets have helped usher in a new era of wearable electronic devices. Photos courtesy Sony Corp.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/May/wearables/asb0516wear7b.jpg?1462474285" type="image/jpeg" fileSize="47224">
+        <media:title type="plain">7</media:title>
+        <media:description type="plain">
+	Smart watches and fitness bracelets have helped usher in a new era of wearable electronic devices. Photos courtesy Fitbit Inc.
+</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>Software Secures Hardware Builderâs Documentation</title>
+      <author>camilloj@bnpmedia.com (Jim Camillo)</author>
+      <description>
+        <![CDATA[<p>
+	MBX Systems has had a clearly defined relationship with its independent software vendor (ISV) customers since the day the company opened for business in 1995. For more than 20 years, MBX has focused on designing and manufacturing custom hardware&mdash;so the ISVs can focus on developing and selling their software for mass or niche markets. The setup has benefitted both parties.</p>
+]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93336</guid>
+      <pubDate>Wed, 06 Apr 2016 00:00:00 -0400</pubDate>
+      <link>http://www.assemblymag.com/articles/93336-software-secures-hardware-builders-documentation</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Issues/2016/April/aia/asb0416AIA7.jpg?1459970207" type="image/jpeg" length="55612"/>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/April/aia/asb0416AIA7.jpg?1459970207" type="image/jpeg" fileSize="55612">
+        <media:title type="plain">software 1</media:title>
+        <media:description type="plain">
+	MBX Systems uses Dozuki cloud-based documentation software to create paperless instructions for its assemblers in Libertyville, IL, and Nijmegen, Netherlands. Photo courtesy Dozuki
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/April/aia/asb0416AIA8.jpg?1459970284" type="image/jpeg" fileSize="113898">
+        <media:title type="plain">software 2</media:title>
+      </media:content>
+    </item>
+    <item>
+      <title>Andy Grove, Former Intel CEO and Silicon Valley Icon, Dies at 79</title>
+      <description>
+        <![CDATA[<p>
+	SANTA CLARA, CA&mdash;Andy Grove, the brilliant Hungarian-born former chief executive and chairman of chip-making colossus Intel, and one of Silicon Valley&#39;s most revered business leaders, died Monday at the age of 79.</p>
+]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93316</guid>
+      <pubDate>Wed, 23 Mar 2016 00:00:00 -0400</pubDate>
+      <link>http://www.assemblymag.com/articles/93316-andy-grove-former-intel-ceo-and-silicon-valley-icon-dies-at-79</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Default_Images/responsive/ASB_default_latestnews.jpg?1479231322" type="image/jpeg" length="166380"/>
+    </item>
+    <item>
+      <title>Cray Plans Assembly Plant in Wisconsin</title>
+      <description>
+        <![CDATA[<p>
+	CHIPPEWA FALLS, WI&mdash;Cray Inc. plans to invest more than $20 million to build a new assembly plant here.</p>]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93315</guid>
+      <pubDate>Wed, 23 Mar 2016 00:00:00 -0400</pubDate>
+      <link>http://www.assemblymag.com/articles/93315-cray-plans-assembly-plant-in-wisconsin</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Default_Images/responsive/ASB_default_latestnews.jpg?1479231322" type="image/jpeg" length="166380"/>
+    </item>
+    <item>
+      <title>Apple Creates Robotic Disassembly Line</title>
+      <description>
+        <![CDATA[<p>
+	CUPERTINO, CA&mdash;Apple Inc. has developed a large-scale robotic line to disassemble returned iPhones. The line&rsquo;s 29 free-standing robotic arms remove SIM card trays, screws, batteries, cameras and other parts for recycling.</p>
+]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93313</guid>
+      <pubDate>Tue, 22 Mar 2016 00:00:00 -0400</pubDate>
+      <link>http://www.assemblymag.com/articles/93313-apple-creates-robotic-disassembly-line</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/LatestHeadlines/headlines900/apple-disassembly.jpg?1458661705" type="image/jpeg" length="250923"/>
+    </item>
+    <item>
+      <title>Michigan Electronics OEM Forms EMS Division</title>
+      <description>
+        <![CDATA[<p>
+	WIXOM, MI&mdash;Acromag Inc., a manufacturer of electronic monitoring and control products, has formed a new electronics manufacturing services division here.</p>]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93308</guid>
+      <pubDate>Mon, 14 Mar 2016 00:00:00 -0400</pubDate>
+      <link>http://www.assemblymag.com/articles/93308-michigan-electronics-oem-forms-ems-division</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Default_Images/responsive/ASB_default_latestnews.jpg?1479231322" type="image/jpeg" length="166380"/>
+    </item>
+    <item>
+      <title>Researchers Use Nickel Nanoparticles to Print Electronic Circuits</title>
+      <description>
+        <![CDATA[<p>
+	TEL AVIV, Israel&mdash;Researchers at Tel Aviv University are developing a new 3D printing technology that can create electronic circuits using nickel nanoparticles.</p>
+]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93277</guid>
+      <pubDate>Tue, 01 Mar 2016 00:00:00 -0500</pubDate>
+      <link>http://www.assemblymag.com/articles/93277-researchers-use-nickel-nanoparticles-to-print-electronic-circuits</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Default_Images/responsive/ASB_default_latestnews.jpg?1479231322" type="image/jpeg" length="166380"/>
+    </item>
+    <item>
+      <title>Kimchuk Meets Military, Market Challenges With SMT Equipment</title>
+      <author>camilloj@bnpmedia.com (Jim Camillo)</author>
+      <description>
+        <![CDATA[<p>
+	Tier 2 suppliers may be less well-known than Tier 1 suppliers and OEMs, but that doesn&rsquo;t mean their role in the manufacturing chain is any less important.</p>
+]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93266</guid>
+      <pubDate>Tue, 01 Mar 2016 00:00:00 -0500</pubDate>
+      <link>http://www.assemblymag.com/articles/93266-kimchuk-meets-military-market-challenges-with-smt-equipment</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Issues/2016/March/AIA/asb0316AIA7.jpg?1456430750" type="image/jpeg" length="163007"/>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/March/AIA/asb0316AIA7.jpg?1456430750" type="image/jpeg" fileSize="163007">
+        <media:title type="plain">smt 1</media:title>
+        <media:description type="plain">
+	Kimchuk Inc. recently installed two KE-2080E surface-mount-technology machines and a FX-3 chip shooter to produce PCBs used in electromechanical products for the U.S. military and companies in various industries. Photo courtesy Juki Automation Systems
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/March/AIA/asb0316AIA8.jpg?1456430855" type="image/jpeg" fileSize="86896">
+        <media:title type="plain">smt 2</media:title>
+        <media:description type="plain">
+	In 2009, Kimchuk Inc. was recognized by the Connecticut Quality Improvement Award Partnership for the engineering design and packaging work the company did on the Boomerang Sniper Detection System used by the U.S. Army. Photo courtesy U.S. Army
+</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>Collaborative Robots Improve Capacitor Manufacturing</title>
+      <author>camilloj@bnpmedia.com (Jim Camillo)</author>
+      <description>
+        <![CDATA[<p>
+	Throughout its 107-year history, Cornell Dubilier Electronics Inc. (CDE) has placed great importance on manufacturing quality power capacitors, which are passive electrical components that temporarily store electrical energy in an electric field.</p>
+]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93263</guid>
+      <pubDate>Tue, 01 Mar 2016 00:00:00 -0500</pubDate>
+      <link>http://www.assemblymag.com/articles/93263-collaborative-robots-improve-capacitor-manufacturing</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Issues/2016/March/AIA/asb0316AIA1.jpg?1456427607" type="image/jpeg" length="174161"/>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/March/AIA/asb0316AIA1.jpg?1456427607" type="image/jpeg" fileSize="174161">
+        <media:title type="plain">capacitor 1</media:title>
+        <media:description type="plain">
+	Cornell Dubilier Electronics Inc. relies on two Baxter collaborative robots to improve product quality and increase production at its Liberty, SC, plant. Photo courtesy Rethink Robotics Inc.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/March/AIA/asb0316AIA2.jpg?1456427699" type="image/jpeg" fileSize="97998">
+        <media:title type="plain">capacitor 2</media:title>
+        <media:description type="plain">
+	Power capacitors from Cornell Dubilier Electronics are used for airplanes, laser medical technology, alternative energy, welders and generators. Photo courtesy Cornell Dubilier Electronics Inc.
+</media:description>
+      </media:content>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,729 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Quality 101</title>
+    <description>
+      <![CDATA[An assortment of back-to-basics articles on a variety of quality topics.]]>
+    </description>
+    <link>http://www.qualitymag.com/rss</link>
+    <language>en-us</language>
+    <item>
+      <title>3D Measurement: A Next Generation Tool for Manufacturing</title>
+      <description>
+        <![CDATA[<p>It&rsquo;s easy to take many of today&rsquo;s technological marvels for granted, 3D measurement among them. The idea of simply pointing a &ldquo;ray gun&rdquo; of sorts at an object and obtaining all of its geometrical measurements would once have been solely the domain of Star Trek-ian science fiction.</p>]]>
+      </description>
+      <guid>http://www.qualitymag.com/articles/93754</guid>
+      <pubDate>Tue, 03 Jan 2017 00:00:00 -0500</pubDate>
+      <link>http://www.qualitymag.com/articles/93754-d-measurement-a-next-generation-tool-for-manufacturing</link>
+      <enclosure url="http://www.qualitymag.com/ext/resources/Issues/2017/January/kersen/QM0117-DEPT-101-p1FT-3D-measure.jpg?1483461334" type="image/jpeg" length="76656"/>
+      <media:content url="http://www.qualitymag.com/ext/resources/Issues/2017/January/kersen/QM0117-DEPT-101-p1FT-3D-measure.jpg?1483461334" type="image/jpeg" fileSize="76656">
+        <media:title type="plain">3D measurement</media:title>
+        <media:description type="plain">Shown here is the model fully converted to native SolidWorks with full feature tree. Source: NVision</media:description>
+      </media:content>
+      <media:content url="http://www.qualitymag.com/ext/resources/Issues/2017/January/kersen/QM0117-DEPT-101-p2-3D-measure.jpg?1483461397" type="image/jpeg" fileSize="67558">
+        <media:title type="plain">3D measurement</media:title>
+        <media:description type="plain">A 3D scanner can capture the geometry and critical dimensions of this part in a shorter period of time, and with greater accuracy, than traditional hand tools. Source: NVision
+</media:description>
+      </media:content>
+      <media:content url="http://www.qualitymag.com/ext/resources/Issues/2017/January/kersen/QM0117-DEPT-101-p3-3D-measure.jpg?1483461453" type="image/jpeg" fileSize="73573">
+        <media:title type="plain">3D measurement</media:title>
+        <media:description type="plain">A handheld scanner, attached to a mechanical arm, scanning a nozzle. Note the red laser line on the assembly. Source: NVision
+</media:description>
+      </media:content>
+      <media:content url="http://www.qualitymag.com/ext/resources/Issues/2017/January/kersen/QM0117-DEPT-101-p4-3D-measure.jpg?1483461499" type="image/jpeg" fileSize="130947">
+        <media:title type="plain">3D measurement</media:title>
+        <media:description type="plain">The data obtained from scanning will be converted into a triangulated STL polygonal file, which will be used as a template for modelling. Source: NVision
+</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>The Meaning of Force in Modern Metrology</title>
+      <author></author>
+      <description>
+        <![CDATA[<p>Sir Isaac Newton&rsquo;s three laws of motion, published in his thesis Philosophi&aelig; Naturalis Principia Mathematica (Latin for&nbsp;Mathematical Principles of Natural Philosophy) in 1687, are what modern-day physicists and metrologists refer to when they describe force as any interaction that, if unopposed, will change the motion of an object.&nbsp;</p>]]>
+      </description>
+      <guid>http://www.qualitymag.com/articles/93691</guid>
+      <pubDate>Thu, 01 Dec 2016 00:00:00 -0500</pubDate>
+      <link>http://www.qualitymag.com/articles/93691-the-meaning-of-force-in-modern-metrology</link>
+      <enclosure url="http://www.qualitymag.com/ext/resources/Issues/2016/December/force/QM1216-DEPT-101-p1FT-L2Plus.jpg?1479837101" type="image/jpeg" length="112094"/>
+      <media:content url="http://www.qualitymag.com/ext/resources/Issues/2016/December/force/QM1216-DEPT-101-p1FT-L2Plus.jpg?1479837101" type="image/jpeg" fileSize="112094">
+        <media:title type="plain">Starrettâs L2 Plus software. Source: Starrett UK</media:title>
+        <media:description type="plain">Starrett&amp;rsquo;s L2 Plus software. Source: Starrett UK
+</media:description>
+      </media:content>
+      <media:content url="http://www.qualitymag.com/ext/resources/Issues/2016/December/force/QM1216-DEPT-101-p2-multi-run.jpg?1479837214" type="image/jpeg" fileSize="72135">
+        <media:title type="plain">force measurement</media:title>
+        <media:description type="plain">This diagram illustrates the multi-run analysis tool to compare the difference (delta) in load. Along similar lines, the tool can find minimum, maximum, and average results between multiple runs. Source: Starrett UK
+</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>Calibration: What You Need to Know</title>
+      <author>information@mahr.com (Patrick Nugent)</author>
+      <description>
+        <![CDATA[<p>Calibration is not just about having stickers on your equipment with dates that say everything is okay.</p>]]>
+      </description>
+      <guid>http://www.qualitymag.com/articles/93651</guid>
+      <pubDate>Tue, 01 Nov 2016 00:00:00 -0400</pubDate>
+      <link>http://www.qualitymag.com/articles/93651-calibration-what-you-need-to-know</link>
+      <enclosure url="http://www.qualitymag.com/ext/resources/Issues/2016/November/calibration/QM1116-DEPT-101-p1FT-calibration.jpg?1477421985" type="image/jpeg" length="125583"/>
+      <media:content url="http://www.qualitymag.com/ext/resources/Issues/2016/November/calibration/QM1116-DEPT-101-p1FT-calibration.jpg?1477421985" type="image/jpeg" fileSize="125583">
+        <media:title type="plain">calibration</media:title>
+        <media:description type="plain">Calibration is a method or a process to determine if the item under test is meeting or not meeting its performance requirements. A gage block is a good example of this. It is brought into an environmentally controlled room and measured on a piece of equipment that compares it to traceable standards. Source: Mahr
+</media:description>
+      </media:content>
+      <media:content url="http://www.qualitymag.com/ext/resources/Issues/2016/November/calibration/QM1116-DEPT-101-p2.jpg?1477422062" type="image/jpeg" fileSize="86029">
+        <media:title type="plain">calibration</media:title>
+        <media:description type="plain">ISO 17025 accreditation for a lab or a field service organization performing calibrations is really a sign to you that they have been examined and tested by an independent third party to determine if the methods and processes they are using are sound and if the sources of error and uncertainties associated with them are deemed to be reasonable. Source: Mahr
+</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>The Versatility of Vision Metrology</title>
+      <description>
+        <![CDATA[<p>
+	Up until the late 1970s, the contour projector or optical comparator was the mainstay of automated two-dimensional inspection systems.&nbsp;</p>]]>
+      </description>
+      <guid>http://www.qualitymag.com/articles/93486</guid>
+      <pubDate>Thu, 01 Sep 2016 00:00:00 -0400</pubDate>
+      <link>http://www.qualitymag.com/articles/93486-the-versatility-of-vision-metrology</link>
+      <enclosure url="http://www.qualitymag.com/ext/resources/Issues/2016/September/vision-metrology/QM0916-DEPT-101-p1-OneButton.jpg?1472051096" type="image/jpeg" length="142061"/>
+      <media:content url="http://www.qualitymag.com/ext/resources/Issues/2016/September/vision-metrology/QM0916-DEPT-101-p1-OneButton.jpg?1472051096" type="image/jpeg" fileSize="142061">
+        <media:title type="plain">The Versatility of Vision Metrology</media:title>
+        <media:description type="plain">
+	Some vision measurement systems offer &amp;ldquo;one button&amp;rdquo; simple operation and rapid measurement results, making them ideal for in-process inspection solutions. Source: QVI</media:description>
+      </media:content>
+      <media:content url="http://www.qualitymag.com/ext/resources/Issues/2016/September/vision-metrology/QM0916-DEPT-101-p2FT-Inspection.jpg?1472051138" type="image/jpeg" fileSize="158911">
+        <media:title type="plain">The Versatility of Vision Metrology</media:title>
+        <media:description type="plain">
+	When configured in a multisensor configuration, vision measurement systems can handle any complex inspection task. Source: QVI
+</media:description>
+      </media:content>
+      <media:content url="http://www.qualitymag.com/ext/resources/Issues/2016/September/vision-metrology/QM0916-DEPT-101-p3-VideoMetrology.jpg?1472051184" type="image/jpeg" fileSize="104458">
+        <media:title type="plain">The Versatility of Vision Metrology</media:title>
+        <media:description type="plain">
+	Video metrology systems can compare thousands of measurement data points to a 3-D CAD model, allowing for dimensional analysis and manufacturing optimization. Source: QVI
+</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>Why Perform Friction Tests</title>
+      <description>
+        <![CDATA[<p>
+	When material surfaces are in mechanical contact and slide against each other, complex microscopic interactions occur between the surfaces that lead to friction and wear.</p>]]>
+      </description>
+      <guid>http://www.qualitymag.com/articles/93439</guid>
+      <pubDate>Mon, 01 Aug 2016 00:00:00 -0400</pubDate>
+      <link>http://www.qualitymag.com/articles/93439-why-perform-friction-tests</link>
+      <enclosure url="http://www.qualitymag.com/ext/resources/Issues/2016/August/friction-test/QM0816-DEPT-101-p1FT_UMT_TriboLab.jpg?1469551499" type="image/jpeg" length="71842"/>
+      <media:content url="http://www.qualitymag.com/ext/resources/Issues/2016/August/friction-test/QM0816-DEPT-101-p1FT_UMT_TriboLab.jpg?1469551499" type="image/jpeg" fileSize="71842">
+        <media:title type="plain">friction testing</media:title>
+      </media:content>
+      <media:content url="http://www.qualitymag.com/ext/resources/Issues/2016/August/friction-test/QM0816-DEPT-101-p2_UMT_TriboLab.jpg?1469551489" type="image/jpeg" fileSize="64075">
+        <media:title type="plain">Friction Testing</media:title>
+        <media:description type="plain">
+	Figure 1. Interchangeable test modules for the UMT TriboLab system from Bruker. Source: Bruker
+</media:description>
+      </media:content>
+      <media:content url="http://www.qualitymag.com/ext/resources/Issues/2016/August/friction-test/QM0816-DEPT-101-p3_Surface_texture_height_map.jpg?1469551528" type="image/jpeg" fileSize="154839">
+        <media:title type="plain">Friction Testing</media:title>
+        <media:description type="plain">
+	Figure 2. Surface texture height map of a piston sample measured by a 3D optical microscope.Source: Bruker
+</media:description>
+      </media:content>
+      <media:content url="http://www.qualitymag.com/ext/resources/Issues/2016/August/friction-test/QM0816-DEPT-101-p4_Abbott-Firestone_curve.jpg?1469551555" type="image/jpeg" fileSize="57870">
+        <media:title type="plain">Friction Testing</media:title>
+        <media:description type="plain">
+	Figure 3. The Abbott-Firestone curve and volume parameters calculated with imaging and metrology software from the measured 3D surface texture data. Source: Bruker
+</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>Leak Testing 101</title>
+      <description>
+        <![CDATA[<p>
+	Why leak test? Leak testing is performed to ensure that when in service, the component or assembly has zero leakage or a leakage that is acceptable over time for the fluid/gas that it is meant to contain, or conversely to prevent material on the outside from leaking in.</p>]]>
+      </description>
+      <guid>http://www.qualitymag.com/articles/93403</guid>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 -0400</pubDate>
+      <link>http://www.qualitymag.com/articles/93403-leak-testing-101</link>
+      <enclosure url="http://www.qualitymag.com/ext/resources/Issues/2016/July/NDT/leak/ASM340-Large.jpg?1467226985" type="image/jpeg" length="45914"/>
+      <media:content url="http://www.qualitymag.com/ext/resources/Issues/2016/July/NDT/leak/ASM340-Large.jpg?1467226985" type="image/jpeg" fileSize="45914">
+        <media:title type="plain">leak testing</media:title>
+      </media:content>
+      <media:content url="http://www.qualitymag.com/ext/resources/Issues/2016/July/NDT/leak/HRU-Large.jpg?1467227046" type="image/jpeg" fileSize="30446">
+        <media:title type="plain">leak testing</media:title>
+      </media:content>
+    </item>
+    <item>
+      <title>Ins and Outs of Height Gages</title>
+      <description>
+        <![CDATA[<p>
+	A&nbsp;height gage does exactly as its name indicates&mdash;measures the height of a workpiece.</p>
+]]>
+      </description>
+      <guid>http://www.qualitymag.com/articles/93392</guid>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 -0400</pubDate>
+      <link>http://www.qualitymag.com/articles/93392-ins-and-outs-of-height-gages</link>
+      <enclosure url="http://www.qualitymag.com/ext/resources/Issues/2016/July/height/QM0716-DEPT-101-p1FT-height_gage.jpg?1467213420" type="image/jpeg" length="322085"/>
+      <media:content url="http://www.qualitymag.com/ext/resources/Issues/2016/July/height/QM0716-DEPT-101-p1FT-height_gage.jpg?1467213420" type="image/jpeg" fileSize="322085">
+        <media:title type="plain">Ins and Outs of Height Gages</media:title>
+      </media:content>
+      <media:content url="http://www.qualitymag.com/ext/resources/Issues/2016/July/height/QM0716-DEPT-101-p2-height_gage.jpg?1467213475" type="image/jpeg" fileSize="25009">
+        <media:title type="plain">Ins and Outs of Height Gages</media:title>
+        <media:description type="plain">
+	Tools in this group have increased accuracy, and may have additional features including tolerance setting, ID/OD measurement, max/min, TIR and probe compensation. Source: Mitutoyo
+</media:description>
+      </media:content>
+      <media:content url="http://www.qualitymag.com/ext/resources/Issues/2016/July/height/QM0716-DEPT-101-p3-height_gage.jpg?1467213703" type="image/jpeg" fileSize="25047">
+        <media:title type="plain">Ins and Outs of Height Gages</media:title>
+        <media:description type="plain">
+	Digital counter height gages with dial and dual-digit counters decrease the time necessary to measure a part.
+	Source: Mitutoyo
+</media:description>
+      </media:content>
+      <media:content url="http://www.qualitymag.com/ext/resources/Issues/2016/July/height/QM0716-DEPT-101-p4-height_gage.jpg?1467213657" type="image/jpeg" fileSize="22333">
+        <media:title type="plain">Ins and Outs of Height Gages</media:title>
+        <media:description type="plain">
+	An advantage of Vernier height gages is the available range of sizes, generally from six inches to six feet. Source: Mitutoyo
+</media:description>
+      </media:content>
+      <media:content url="http://www.qualitymag.com/ext/resources/Issues/2016/July/height/QM0716-DEPT-101-p5-height_gage.jpg?1467213763" type="image/jpeg" fileSize="22425">
+        <media:title type="plain">Ins and Outs of Height Gages</media:title>
+        <media:description type="plain">
+	The relatively small size of dial height gages makes them ideal as a personal height gage that can be stored in a toolbox.
+	Source: Mitutoyo
+</media:description>
+      </media:content>
+      <media:content url="http://www.qualitymag.com/ext/resources/Issues/2016/July/height/QM0716-DEPT-101-p6-height_gage.jpg?1467213806" type="image/jpeg" fileSize="61150">
+        <media:title type="plain">QM0716-DEPT-101-p6-height_gage.jpg</media:title>
+        <media:description type="plain">
+	Height gages such as these generally have inch/metric conversion, absolute zero and floating zero, as well as data output. Source: Mitutoyo</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>Laser Trackers Propel Aerospace Productivity</title>
+      <description>
+        <![CDATA[<p>
+	Building aircraft has always been a struggle between the size of their components and the need to craft them carefully.&nbsp;</p>]]>
+      </description>
+      <guid>http://www.qualitymag.com/articles/93336</guid>
+      <pubDate>Wed, 01 Jun 2016 00:00:00 -0400</pubDate>
+      <link>http://www.qualitymag.com/articles/93336-laser-trackers-propel-aerospace-productivity</link>
+      <enclosure url="http://www.qualitymag.com/ext/resources/Issues/2016/June/laser-trackers/QM0616-DEPT-101-p1-laser_tracker-FT.jpg?1464278384" type="image/jpeg" length="99429"/>
+      <media:content url="http://www.qualitymag.com/ext/resources/Issues/2016/June/laser-trackers/QM0616-DEPT-101-p1-laser_tracker-FT.jpg?1464278384" type="image/jpeg" fileSize="99429">
+        <media:title type="plain">laser trackers</media:title>
+        <media:description type="plain">
+	Manufacturers around the world use laser trackers to solve their most complex measurement challenges&amp;mdash;and save millions of dollars by completing jobs faster, reducing downtime, and eliminating costly scrap. Source: FARO
+</media:description>
+      </media:content>
+      <media:content url="http://www.qualitymag.com/ext/resources/Issues/2016/June/laser-trackers/QM0616-DEPT-101-p2-laser_tracker.jpg?1464278577" type="image/jpeg" fileSize="165791">
+        <media:title type="plain">laser trackers</media:title>
+        <media:description type="plain">
+	Laser trackers offer portability, shop floor durability, and accurate, consistent and actionable measurement data. Source: FARO
+</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>TORQUE GAGES</title>
+      <author></author>
+      <description>
+        <![CDATA[<p>
+	Torque testing is an important quality-control step in nearly every manufacturing sector. Properly testing rotary parts for torque with handheld or automated gages can prevent everything from un-openable bottle caps to loose fasteners. Or, in a grave example, if GM properly acted on failed rotational torque tests of ignition switches in some of its mid-2000s models, 13 lives would have been saved.</p>]]>
+      </description>
+      <guid>http://www.qualitymag.com/articles/93270</guid>
+      <pubDate>Sun, 01 May 2016 00:00:00 -0400</pubDate>
+      <link>http://www.qualitymag.com/articles/93270-torque-gages</link>
+      <enclosure url="http://www.qualitymag.com/ext/resources/Issues/2016/May/quality-101/QM0516-DEPT-Quality101-p1-Torque-Gages-FT.jpg?1461690693" type="image/jpeg" length="60186"/>
+      <media:content url="http://www.qualitymag.com/ext/resources/Issues/2016/May/quality-101/QM0516-DEPT-Quality101-p1-Torque-Gages-FT.jpg?1461690693" type="image/jpeg" fileSize="60186">
+        <media:title type="plain">Torque Gages</media:title>
+        <media:description type="plain">
+	For better accuracy and repeatability on the assembly floor, a bench-mounted test stand with a torque sensor and an angle indicator is often preferable. Source: Mark-10
+</media:description>
+      </media:content>
+      <media:content url="http://www.qualitymag.com/ext/resources/Issues/2016/May/quality-101/QM0516-DEPT-Quality101-p2-Torque-Gages.jpg?1461762654" type="image/jpeg" fileSize="38249">
+        <media:title type="plain">Torque-Gages</media:title>
+        <media:description type="plain">
+	A bottle cap is tested for torque using a handheld gage. Source: Mark-10
+</media:description>
+      </media:content>
+      <media:content url="http://www.qualitymag.com/ext/resources/Issues/2016/May/quality-101/QM0516-DEPT-Quality101-p3-Torque-Gages.jpg?1461762704" type="image/jpeg" fileSize="42467">
+        <media:title type="plain">Torque-Gages</media:title>
+        <media:description type="plain">
+	Computer-controlled torque testers&amp;nbsp;use a regular PC and software to&amp;nbsp;control the torque tester and provide acquisition and analysis functionality. Source: Mecmesin
+</media:description>
+      </media:content>
+      <media:content url="http://www.qualitymag.com/ext/resources/Issues/2016/May/quality-101/QM0516-DEPT-Quality101-p4-Torque-Gages.jpg?1461762747" type="image/jpeg" fileSize="52014">
+        <media:title type="plain">Torque-Gages</media:title>
+        <media:description type="plain">
+	A bottle lid undergoes a motorized torque test. Source: Mecmesin
+</media:description>
+      </media:content>
+      <media:content url="http://www.qualitymag.com/ext/resources/Issues/2016/May/quality-101/QM0516-DEPT-Quality101-p5-Torque-Gages.jpg?1461762785" type="image/jpeg" fileSize="46737">
+        <media:title type="plain">Torque-Gages</media:title>
+        <media:description type="plain">
+	A bottle is tested with a manual torque tester. Source: Mecmesin
+</media:description>
+      </media:content>
+      <media:content url="http://www.qualitymag.com/ext/resources/Issues/2016/May/quality-101/QM0516-DEPT-Quality101-p6-Torque-Gages.jpg?1461762838" type="image/jpeg" fileSize="37081">
+        <media:title type="plain">Torque-Gages</media:title>
+        <media:description type="plain">
+	A tool is tested for torque using a handheld gage. Source: Mark-10
+</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>Classic Gaging Tips</title>
+      <description>
+        <![CDATA[<p>
+	Gaging Tips, written by George Schuetz, are instructive articles designed to help the reader better understand the principles of gaging and improve their personal techniques.</p>]]>
+      </description>
+      <guid>http://www.qualitymag.com/articles/93258</guid>
+      <pubDate>Sun, 01 May 2016 00:00:00 -0400</pubDate>
+      <link>http://www.qualitymag.com/articles/93258-classic-gaging-tips</link>
+      <enclosure url="http://www.qualitymag.com/ext/resources/Issues/2016/May/Mahr-Native/Mahr_NativeAdvertising_Feature-Image_900x550.jpg?1461003424" type="image/jpeg" length="108320"/>
+    </item>
+    <item>
+      <title>Fixturing Makes Strides as Manufacturing Advances</title>
+      <description>
+        <![CDATA[<p>
+	Work holding fixtures for inspection devices have evolved over time and now have become, in some cases, as complex as the parts they are designed to hold. There was a day when some 1-2-3 blocks, knee blocks, double-sided tape and hot glue were all you needed to fixture parts for measurement on a coordinate measuring machine (CMM).&nbsp;</p>]]>
+      </description>
+      <guid>http://www.qualitymag.com/articles/93196</guid>
+      <pubDate>Fri, 01 Apr 2016 00:00:00 -0400</pubDate>
+      <link>http://www.qualitymag.com/articles/93196-fixturing-makes-strides-as-manufacturing-advances</link>
+      <enclosure url="http://www.qualitymag.com/ext/resources/Issues/2016/April/QM0416-DEPT-101-p1FT-fixturing.jpg?1458840596" type="image/jpeg" length="61408"/>
+      <media:content url="http://www.qualitymag.com/ext/resources/Issues/2016/April/QM0416-DEPT-101-p1FT-fixturing.jpg?1458840596" type="image/jpeg" fileSize="61408">
+        <media:title type="plain">Quality fixturing, CMM</media:title>
+        <media:description type="plain">
+	Many manufactured components today are complex, which makes it difficult to probe and access features for measurement. Swift-fix fixturing systems allow fixtures of varying sizes and complexity to be constructed, then taken apart and reused for other projects. Source: Hexagon Manufacturing Intelligence
+</media:description>
+      </media:content>
+      <media:content url="http://www.qualitymag.com/ext/resources/Issues/2016/April/QM0416-DEPT-101-p2-fixturing.jpg?1458840743" type="image/jpeg" fileSize="104256">
+        <media:title type="plain">Quality Fixturing, CMM</media:title>
+        <media:description type="plain">
+	In addition to CMMs, Swift-fix modular fixturing systems are also designed to work with a wide range of measurement equipment including portable articulating arms, laser scanners, and optical and multi-sensor vision machines. Source: Hexagon Manufacturing Intelligence
+</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>CMM Styli</title>
+      <author></author>
+      <description>
+        <![CDATA[<p>
+	Choosing the right stylus for a coordinate measuring machine probe is a balancing act of size, weight, rigidity and hardness.</p>]]>
+      </description>
+      <guid>http://www.qualitymag.com/articles/93099</guid>
+      <pubDate>Mon, 01 Feb 2016 00:00:00 -0500</pubDate>
+      <link>http://www.qualitymag.com/articles/93099-cmm-styli</link>
+      <enclosure url="http://www.qualitymag.com/ext/resources/Issues/2016/feb/QM0216-DEPT-101-p1FT.jpg?1454354654" type="image/jpeg" length="138372"/>
+      <media:content url="http://www.qualitymag.com/ext/resources/Issues/2016/feb/QM0216-DEPT-101-p1FT.jpg?1454354654" type="image/jpeg" fileSize="138372">
+        <media:title type="plain">CMM Styli</media:title>
+        <media:description type="plain">A 3 mm silicon nitride ball stylus probes a race car wheel center.
+Source: Q-Mark Manufacturing Inc.</media:description>
+      </media:content>
+      <media:content url="http://www.qualitymag.com/ext/resources/Issues/2016/feb/QM0216-DEPT-101-p2.jpg?1454353865" type="image/jpeg" fileSize="60121">
+        <media:title type="plain">QM0216-DEPT-101-p2.jpg</media:title>
+        <media:description type="plain">These Renishaw styli have ruby tips on titanium nitride stems. Source: Renishaw </media:description>
+      </media:content>
+      <media:content url="http://www.qualitymag.com/ext/resources/Issues/2016/feb/QM0216-DEPT-101-p3.jpg?1454353949" type="image/jpeg" fileSize="145590">
+        <media:title type="plain">Styli check</media:title>
+        <media:description type="plain">Opposing 3 mm ruby ball styli check an internal feature on a race car suspension part. Source: Q-Mark Manufacturing Inc. </media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>Air Gaging</title>
+      <author></author>
+      <description>
+        <![CDATA[<p>
+	Air gages have been reliable tools for more than 70 years, providing accurate and repeatable measures of diameter, depth, parallelism, taper and flatness.</p>]]>
+      </description>
+      <guid>http://www.qualitymag.com/articles/93033</guid>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 -0500</pubDate>
+      <link>http://www.qualitymag.com/articles/93033-air-gaging</link>
+      <enclosure url="http://www.qualitymag.com/ext/resources/Issues/2016/January/QM0116-DEPT-101-p1FT.jpg?1450812936" type="image/jpeg" length="107002"/>
+      <media:content url="http://www.qualitymag.com/ext/resources/Issues/2016/January/QM0116-DEPT-101-p1FT.jpg?1450812936" type="image/jpeg" fileSize="107002">
+        <media:title type="plain">AIR GAGING</media:title>
+        <media:description type="plain">
+	Source: Western Gage Corporation</media:description>
+      </media:content>
+      <media:content url="http://www.qualitymag.com/ext/resources/Issues/2016/January/QM0116-DEPT-101-p2.jpg?1450812416" type="image/jpeg" fileSize="105679">
+        <media:title type="plain">AIR GAGING</media:title>
+        <media:description type="plain">
+	Source: Western Gage Corporation
+</media:description>
+      </media:content>
+      <media:content url="http://www.qualitymag.com/ext/resources/Issues/2016/January/QM0116-DEPT-101-p3.jpg?1450812520" type="image/jpeg" fileSize="56486">
+        <media:title type="plain">AIR GAGING</media:title>
+        <media:description type="plain">
+	Source: Western Gage Corporation
+</media:description>
+      </media:content>
+      <media:content url="http://www.qualitymag.com/ext/resources/Issues/2016/January/QM0116-DEPT-101-p4.jpg?1450812569" type="image/jpeg" fileSize="50030">
+        <media:title type="plain">AIR GAGING</media:title>
+        <media:description type="plain">
+	Source: Western Gage Corporation
+</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>Back to the Basics: Inspection and Certification</title>
+      <description>
+        <![CDATA[<p>
+	Several years ago I was inspecting some parts on a small surface plate in the quality lab. Gathered around a larger surface plate a few feet away was an assortment of engineers, supervisors, leads persons, and probably an inspector or two.</p>]]>
+      </description>
+      <guid>http://www.qualitymag.com/articles/92999</guid>
+      <pubDate>Tue, 01 Dec 2015 00:00:00 -0500</pubDate>
+      <link>http://www.qualitymag.com/articles/92999-back-to-the-basics-inspection-and-certification</link>
+      <enclosure url="http://www.qualitymag.com/ext/resources/Default_Images/NewDefault0415/QM-Columnists-900x550-ASQspeak.jpg?1483467185" type="image/jpeg" length="96118"/>
+    </item>
+    <item>
+      <title>Understanding Engineered Surfaces in Automotive</title>
+      <description>
+        <![CDATA[<p>
+	With concerns about greenhouse gas emissions and limited fossil fuels availability, U.S. government regulations, such as the Corporate Average Fuel Economy (CAFE), have been put in place since 1975 to regulate the fuel economy of cars and light trucks.</p>]]>
+      </description>
+      <guid>http://www.qualitymag.com/articles/92990</guid>
+      <pubDate>Tue, 01 Dec 2015 00:00:00 -0500</pubDate>
+      <link>http://www.qualitymag.com/articles/92990-understanding-engineered-surfaces-in-automotive</link>
+      <enclosure url="http://www.qualitymag.com/ext/resources/Issues/December2015/DEPT101/QM1215-DEPT-101-p2FT.jpg?1448899977" type="image/jpeg" length="135332"/>
+      <media:content url="http://www.qualitymag.com/ext/resources/Issues/December2015/DEPT101/QM1215-DEPT-101-p2FT.jpg?1448899977" type="image/jpeg" fileSize="135332">
+        <media:title type="plain">DEPT101_FT</media:title>
+        <media:description type="plain">Figure 2. Metal cylinder color-coded height map (left) and high-fidelity, through-focus grayscale image (right). Source: Bruker</media:description>
+      </media:content>
+      <media:content url="http://www.qualitymag.com/ext/resources/Issues/December2015/DEPT101/QM1215-DEPT-101-p1.jpg?1448899857" type="image/jpeg" fileSize="93212">
+        <media:title type="plain">DEPT101_sl1</media:title>
+        <media:description type="plain">Figure 1. From left to right, 3-D optical image revealing defect in chrome plating; 3-D optical microscope image of honed cylinder wall functional surface; and 3-D surface image of a brake rotor. Source: Bruker</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>3-D Model-Based GD&amp;T for Inspection</title>
+      <description>
+        <![CDATA[<p>
+	The central concept behind model-based definition (MBD) is that the digital model contains all of the detailed information necessary for all aspects of the product life cycle.</p>]]>
+      </description>
+      <guid>http://www.qualitymag.com/articles/92951</guid>
+      <pubDate>Wed, 04 Nov 2015 00:00:00 -0500</pubDate>
+      <link>http://www.qualitymag.com/articles/92951--d-model-based-gdt-for-inspection</link>
+      <enclosure url="http://www.qualitymag.com/ext/resources/Issues/November2015/DEPT101/QM1115-DEPT-101-p1FT.jpg?1446670117" type="image/jpeg" length="177476"/>
+      <media:content url="http://www.qualitymag.com/ext/resources/Issues/November2015/DEPT101/QM1115-DEPT-101-p1FT.jpg?1446670117" type="image/jpeg" fileSize="177476">
+        <media:title type="plain">DEPT101_FT</media:title>
+        <media:description type="plain">
+	If your inspection software is based on a 3-D CAD platform, you can import intelligent GD&amp;amp;T data directly along with the 3-D model. Source: Verisurf
+</media:description>
+      </media:content>
+      <media:content url="http://www.qualitymag.com/ext/resources/Issues/November2015/DEPT101/QM1115-DEPT-101-p2.jpg?1446670148" type="image/jpeg" fileSize="149376">
+        <media:title type="plain">DEPT101_sl2</media:title>
+        <media:description type="plain">
+	Software can provide real-time color coded inspection feedback tied directly to intelligent GD&amp;amp;T definitions. Red &amp;ndash; out of tolerance, high; Green &amp;ndash; in tolerance; Blue &amp;ndash; out of tolerance, low. Source: Verisurf
+</media:description>
+      </media:content>
+      <media:content url="http://www.qualitymag.com/ext/resources/Issues/November2015/DEPT101/QM1115-DEPT-101-p3.jpg?1446670176" type="image/jpeg" fileSize="60993">
+        <media:title type="plain">DEPT101_sl3</media:title>
+      </media:content>
+    </item>
+    <item>
+      <title>Tensile Testing Machine Basics</title>
+      <author>routley@unitedtesting.com (Jeff M. Routley)</author>
+      <description>
+        <![CDATA[<p>
+	The purpose of tensile or mechanical testing is to measure the effect of force on a particular material or component, or on the adhesive or fastener that bonds two materials together.</p>
+]]>
+      </description>
+      <guid>http://www.qualitymag.com/articles/92869</guid>
+      <pubDate>Thu, 01 Oct 2015 00:00:00 -0400</pubDate>
+      <link>http://www.qualitymag.com/articles/92869-tensile-testing-machine-basics</link>
+      <enclosure url="http://www.qualitymag.com/ext/resources/Issues/October2015/QM1015-DEPT-101-p1FT.jpg?1443554866" type="image/jpeg" length="25387"/>
+    </item>
+    <item>
+      <title>The Growing Skills Gap in Manufacturing</title>
+      <author></author>
+      <description>
+        <![CDATA[<p>
+	Army Trail Road, in Chicago&rsquo;s western suburbs, is dotted with metal fabrication plants &mdash; production facilities offering high-tech manufacturing jobs at living wages.</p>
+]]>
+      </description>
+      <guid>http://www.qualitymag.com/articles/92830</guid>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 -0400</pubDate>
+      <link>http://www.qualitymag.com/articles/92830-the-growing-skills-gap-in-manufacturing</link>
+      <enclosure url="http://www.qualitymag.com/ext/resources/Issues/September2015/QM0915-DEPT-analysis-p1FT.jpg?1440601087" type="image/jpeg" length="13634"/>
+    </item>
+    <item>
+      <title>3-D Measurement: An Essential Time-Saving Tool for Industry</title>
+      <description>
+        <![CDATA[<p>
+	The science and technology of 3-D measurement has evolved dramatically in recent decades.</p>
+]]>
+      </description>
+      <guid>http://www.qualitymag.com/articles/92829</guid>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 -0400</pubDate>
+      <link>http://www.qualitymag.com/articles/92829--d-measurement-an-essential-time-saving-tool-for-industry</link>
+      <enclosure url="http://www.qualitymag.com/ext/resources/Issues/September2015/DEPT101/QM0915-DEPT-101-p1FT.jpg?1440600392" type="image/jpeg" length="30722"/>
+      <media:content url="http://www.qualitymag.com/ext/resources/Issues/September2015/DEPT101/QM0915-DEPT-101-p1FT.jpg?1440600392" type="image/jpeg" fileSize="30722">
+        <media:title type="plain">DEPT101_FT</media:title>
+        <media:description type="plain">A handheld scanner can capture an object's 3-D coordinates quickly, with a high degree of resolution and accuracy. Source: Lighting Science Group</media:description>
+      </media:content>
+      <media:content url="http://www.qualitymag.com/ext/resources/Issues/September2015/DEPT101/QM0915-DEPT-101-p2.jpg?1440600515" type="image/jpeg" fileSize="52509">
+        <media:title type="plain">DEPT101_sl2</media:title>
+        <media:description type="plain">Comprehensive inspection reports can be produced during the scanning/
+measurement process. Source: Lighting Science Group</media:description>
+      </media:content>
+      <media:content url="http://www.qualitymag.com/ext/resources/Issues/September2015/DEPT101/QM0915-DEPT-101-p3.jpg?1440600573" type="image/jpeg" fileSize="127994">
+        <media:title type="plain">DEPT101_sl3</media:title>
+        <media:description type="plain">After scanning, the point cloud is converted into an STL triangulated
+mesh of scanned points. Source: NVision Inc.</media:description>
+      </media:content>
+      <media:content url="http://www.qualitymag.com/ext/resources/Issues/September2015/DEPT101/QM0915-DEPT-101-p4.jpg?1440600745" type="image/jpeg" fileSize="50768">
+        <media:title type="plain">DEPT101_sl4</media:title>
+        <media:description type="plain">A solid model allows you to view a part in 3-D and see it from any angle. The above image shows a solid model of a turbine rotor assembly created in SolidWorks. Source: NVision Inc.</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>Shaft Measurement 101</title>
+      <description>
+        <![CDATA[<p>
+	Shaft-type parts can be found in just about every industry, from screws, medical needles, engines, and injectors, to aerospace and power sports. Shafts help the world go.</p>]]>
+      </description>
+      <guid>http://www.qualitymag.com/articles/92702</guid>
+      <pubDate>Thu, 02 Jul 2015 00:00:00 -0400</pubDate>
+      <link>http://www.qualitymag.com/articles/92702-shaft-measurement-101</link>
+      <enclosure url="http://www.qualitymag.com/ext/resources/Issues/July2015/DEPT101/QM0715-DEPT-101-p1FT.jpg?1435856104" type="image/jpeg" length="114384"/>
+      <media:content url="http://www.qualitymag.com/ext/resources/Issues/July2015/DEPT101/QM0715-DEPT-101-p1FT.jpg?1435856104" type="image/jpeg" fileSize="114384">
+        <media:title type="plain">DEPT101</media:title>
+        <media:description type="plain">Measuring precision parts at production rates to sub-micron accuracy is a job for a well-developed, reliable, repeatable, measuring process. Today's industry standard for realizing this type of accuracy are noncontact, optical shaft measuring systems. Here, a camshaft is loaded automatically into the gage. Source: Jenoptik</media:description>
+      </media:content>
+      <media:content url="http://www.qualitymag.com/ext/resources/Issues/July2015/DEPT101/QM0715-DEPT-101-p2.jpg?1435856245" type="image/jpeg" fileSize="39591">
+        <media:title type="plain">DEPT101_sl2</media:title>
+        <media:description type="plain">To capture part detail in three dimensions in a single pass, optical shaft gaging systems are constructed of robust, precision engineered, mechanical components, which supports overall system reliability. Systems operate in three axes: X, Z, and C (rotary). Source: Jenoptik</media:description>
+      </media:content>
+      <media:content url="http://www.qualitymag.com/ext/resources/Issues/July2015/DEPT101/QM0715-DEPT-101-p3.jpg?1435856288" type="image/jpeg" fileSize="53897">
+        <media:title type="plain">DEPT101_sl3</media:title>
+        <media:description type="plain">Loaded into the gage is a valve stem. The part is rotated between the optical sensors, and measurements are captured for 360-degree coverage in seconds. Source: Jenoptik</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>Total Surface Visualization for Geometric Dimensioning and Tolerancing (GD&amp;T)</title>
+      <description>
+        <![CDATA[<p>
+	In mass-production industries, it has been realized that Product Design (PD) departments and Manufacturing Engineering (ME) departments under the same organization show quite different interests in the same product line.</p>]]>
+      </description>
+      <guid>http://www.qualitymag.com/articles/92644</guid>
+      <pubDate>Mon, 01 Jun 2015 00:00:00 -0400</pubDate>
+      <link>http://www.qualitymag.com/articles/92644-total-surface-visualization-for-geometric-dimensioning-and-tolerancing-gdt</link>
+      <enclosure url="http://www.qualitymag.com/ext/resources/Issues/June2015/DEPT101/QM0615-DEPT-101-p1FT.jpg?1434119312" type="image/jpeg" length="68045"/>
+      <media:content url="http://www.qualitymag.com/ext/resources/Issues/June2015/DEPT101/QM0615-DEPT-101-p1.jpg?1433189464" type="image/jpeg" fileSize="178785">
+        <media:title type="plain">DEPT101_sl1</media:title>
+        <media:description type="plain">Figure 1. (a) CMM vs. (b) tunable laser holographic interferometry measurement on engine head deck face. Source: Coherix</media:description>
+      </media:content>
+      <media:content url="http://www.qualitymag.com/ext/resources/Issues/June2015/DEPT101/QM0615-DEPT-101-p2.jpg?1433189511" type="image/jpeg" fileSize="38167">
+        <media:title type="plain">DEPT101_sl2</media:title>
+        <media:description type="plain">Figure 2. Total surface visualization on multiple surfaces of an engine head to deck face datum. Source: Coherix</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>Form 101</title>
+      <author>information@mahr.com (Patrick Nugent)</author>
+      <description>
+        <![CDATA[<p>
+	While John Goodman and Arnold Schwarzenegger are both 6&rsquo;2&rdquo;, few would argue that they have similar body shapes. What this says, simply, is that measuring size does not necessarily say anything about shape.</p>
+]]>
+      </description>
+      <guid>http://www.qualitymag.com/articles/92577</guid>
+      <pubDate>Fri, 01 May 2015 00:00:00 -0400</pubDate>
+      <link>http://www.qualitymag.com/articles/92577-form-101</link>
+      <enclosure url="http://www.qualitymag.com/ext/resources/Issues/May2015/Quality101/QM0515-DEPT-101-p1FT.jpg?1430143128" type="image/jpeg" length="81102"/>
+      <media:content url="http://www.qualitymag.com/ext/resources/Issues/May2015/Quality101/QM0515-DEPT-101-p1FT1.jpg?1430143715" type="image/jpeg" fileSize="81102">
+        <media:title type="plain">Quality101_sl1</media:title>
+        <media:description type="plain">Effective O.D. and I.D. sizes vs. Constant Measured Diameter 
+Source: Mahr</media:description>
+      </media:content>
+      <media:content url="http://www.qualitymag.com/ext/resources/Issues/May2015/Quality101/QM0515-DEPT-101-p2.jpg?1430143771" type="image/jpeg" fileSize="46603">
+        <media:title type="plain">Quality101_sl2</media:title>
+        <media:description type="plain">Figure 2. Measurement of Roundness Part Between Centers</media:description>
+      </media:content>
+      <media:content url="http://www.qualitymag.com/ext/resources/Issues/May2015/Quality101/QM0515-DEPT-101-p3.jpg?1430143891" type="image/jpeg" fileSize="48278">
+        <media:title type="plain">Quality101_sl3</media:title>
+        <media:description type="plain">Figure 3A. Measurement of Roundness V-Block Method - Even Number of Lobes</media:description>
+      </media:content>
+      <media:content url="http://www.qualitymag.com/ext/resources/Issues/May2015/Quality101/QM0515-DEPT-101-p4.jpg?1430143981" type="image/jpeg" fileSize="63298">
+        <media:title type="plain">Quality101_sl4</media:title>
+        <media:description type="plain">Figure 3B. Measurement of Roundness V-Block Method - Odd Number of Lobes</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>In-Process Gaging 101</title>
+      <description>
+        <![CDATA[<p>
+	There was a time, not so long ago, when everyone knew that &ldquo;in-process&rdquo; gaging meant installing a jump-on gage on a grinder to tell the control when the workpiece was at size.</p>
+]]>
+      </description>
+      <guid>http://www.qualitymag.com/articles/92520</guid>
+      <pubDate>Wed, 01 Apr 2015 00:00:00 -0400</pubDate>
+      <link>http://www.qualitymag.com/articles/92520-in-process-gaging-101</link>
+      <enclosure url="http://www.qualitymag.com/ext/resources/Issues/April2015/DEPT101/QM0415-DEPT-101-p1FT.jpg?1427738493" type="image/jpeg" length="127713"/>
+      <media:content url="http://www.qualitymag.com/ext/resources/Issues/April2015/DEPT101/QM0415-DEPT-101-p1FT1.jpg?1427738958" type="image/jpeg" fileSize="127713">
+        <media:title type="plain">DEPT101_sl1</media:title>
+        <media:description type="plain">This photo is an example of an angle head cylindrical grinder that has been retrofitted with a modern generation apparatus. The Unimar in-process gage (foreground) automatically monitors the part diameter while grinding in order to control finished part size. The dynamic wheel balancer mounted on the grinding wheel spindle automatically compensates for an out-of-balance condition as the grinding wheel is reduced in size from dressing. Source: Marposs</media:description>
+      </media:content>
+      <media:content url="http://www.qualitymag.com/ext/resources/Issues/April2015/DEPT101/QM0415-DEPT-101-p2.jpg?1427739018" type="image/jpeg" fileSize="73779">
+        <media:title type="plain">DEPT101_sl2</media:title>
+        <media:description type="plain">
+	This is an absolute gage with measuring accuracies equal to that of standard in-process gages. The gage, which has a measuring range of 300 mm, has been designed for measuring diameters having continuous or interrupted surfaces of any shape and number of teeth with &amp;plusmn;2 microns accuracy. Its wide measuring range allows it to gage sequentially any number of different external diameters on large parts such as railway axles, mill rolls, printing rolls, electrical motors and wind power generators. All measurements are referenced to a single calibration cycle, thereby eliminating the need for a dedicated setup master for each part or diameter to be ground. Source: Marposs
+</media:description>
+      </media:content>
+      <media:content url="http://www.qualitymag.com/ext/resources/Issues/April2015/DEPT101/QM0415-DEPT-101-p3.jpg?1427739677" type="image/jpeg" fileSize="143080">
+        <media:title type="plain">DEPT101_sl3</media:title>
+        <media:description type="plain">This gaging system for shaft-type parts incorporates a robot to load parts from a CNC lathe into the gage after machining, and from the gage to an off-load area. The gage is located within the machining cell and provides feedback to the machine control, and thus, can be considered as an in-process gage. In the case of a mi-loaded part, a built-in recoil device allows the gage to collapse, actuating a switch that puts the robot into emergency stop, protecting the gage and tooling. Source: Marposs</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>Inspection of 60 Degrees Working Thread Plug Gages</title>
+      <description>
+        <![CDATA[<p>
+	Working thread plug gages are the fixed limit functional gages used to inspect product threads on a pass/fail basis.</p>
+]]>
+      </description>
+      <guid>http://www.qualitymag.com/articles/92449</guid>
+      <pubDate>Mon, 02 Mar 2015 00:00:00 -0500</pubDate>
+      <link>http://www.qualitymag.com/articles/92449-inspection-of-60-degrees-working-thread-plug-gages</link>
+      <enclosure url="http://www.qualitymag.com/ext/resources/Issues/March2015/DEPT101/QM0315-DEPT-101-p1FT.jpg?1424723296" type="image/jpeg" length="22695"/>
+      <media:content url="http://www.qualitymag.com/ext/resources/Issues/March2015/DEPT101/QM0315-DEPT-101-p1SL.jpg?1424723494" type="image/jpeg" fileSize="31473">
+        <media:title type="plain">DEPT101_sl1</media:title>
+        <media:description type="plain">This is a visual representation of a typical measurement over wires on a thread gage.  Source: Vermont Gage</media:description>
+      </media:content>
+      <media:content url="http://www.qualitymag.com/ext/resources/Issues/March2015/DEPT101/QM0315-DEPT-101-p2SL.jpg?1424723520" type="image/jpeg" fileSize="11947">
+        <media:title type="plain">DEPT101_sl2</media:title>
+      </media:content>
+    </item>
+    <item>
+      <title>Measurement Techniques in Colorimetry</title>
+      <description>
+        <![CDATA[<p>
+	In colorimetric applications, color is measured objectively; therefore, visual color perception should be simulated as precisely as possible with the color measurement systems used.</p>]]>
+      </description>
+      <guid>http://www.qualitymag.com/articles/92392</guid>
+      <pubDate>Mon, 02 Feb 2015 00:00:00 -0500</pubDate>
+      <link>http://www.qualitymag.com/articles/92392-measurement-techniques-in-colorimetry</link>
+      <enclosure url="http://www.qualitymag.com/ext/resources/Issues/February2015/DEPT101/QM0215-CLMN-101-p1FT.jpg?1422459395" type="image/jpeg" length="18718"/>
+    </item>
+    <item>
+      <title>The Infamous No-Go Gage</title>
+      <description>
+        <![CDATA[<p>
+	The use of the go/no-go fixed limit gage is considered one of the simplest forms of pass/fail attribute inspection.</p>
+]]>
+      </description>
+      <guid>http://www.qualitymag.com/articles/92337</guid>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 -0500</pubDate>
+      <link>http://www.qualitymag.com/articles/92337-the-infamous-no-go-gage</link>
+      <enclosure url="http://www.qualitymag.com/ext/resources/Issues/January2015/DEPT101/QM0115-DEPT-101-p1FT.jpg?1419359887" type="image/jpeg" length="18817"/>
+      <media:content url="http://www.qualitymag.com/ext/resources/Issues/January2015/DEPT101/QM0115-DEPT-101-p1SL.jpg?1419360383" type="image/jpeg" fileSize="35691">
+        <media:title type="plain">DEPT101_sl1</media:title>
+        <media:description type="plain">Using gages as lapping sticks, reamers, hammers or other types of "delicate" adjustment tools will shorten the life of the gage. Source: Vermont Gage</media:description>
+      </media:content>
+      <media:content url="http://www.qualitymag.com/ext/resources/Issues/January2015/DEPT101/QM0115-DEPT-101-p2SL.jpg?1419361235" type="image/jpeg" fileSize="27108">
+        <media:title type="plain">DEPT101_sl2</media:title>
+        <media:description type="plain">The no-go gage is not supposed to fit into the part. Showing  a no-go in the part would be showing an out of tolerance part. Source: Vermont Gage ee ASME B89.7.3.1-2001 for more information on the 10% Rule and options beyond this rule.</media:description>
+      </media:content>
+      <media:content url="http://www.qualitymag.com/ext/resources/Issues/January2015/DEPT101/QM0115-DEPT-101-p3aSL.jpg?1419361265" type="image/jpeg" fileSize="31058">
+        <media:title type="plain">DEPT101_sl3</media:title>
+        <media:description type="plain">Source: Vermont Gage
+</media:description>
+      </media:content>
+      <media:content url="http://www.qualitymag.com/ext/resources/Issues/January2015/DEPT101/QM0115-DEPT-101-p3bSL.jpg?1419361288" type="image/jpeg" fileSize="52924">
+        <media:title type="plain">DEPT101_sl4</media:title>
+        <media:description type="plain">Source: Vermont Gage</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>A Closer Look at Optical Inspection</title>
+      <author></author>
+      <description>
+        <![CDATA[<p>
+	Optical inspection is vital to quality control in manufacturing, and in breaking down the meaning behind the words, it&rsquo;s easy to see why.</p>]]>
+      </description>
+      <guid>http://www.qualitymag.com/articles/92239</guid>
+      <pubDate>Sun, 23 Nov 2014 00:00:00 -0500</pubDate>
+      <link>http://www.qualitymag.com/articles/92239-a-closer-look-at-optical-inspection</link>
+      <enclosure url="http://www.qualitymag.com/ext/resources/Issues/November2014/Quality101/QM1114-DEPT-101-p1FT.jpg?1414778115" type="image/jpeg" length="22908"/>
+      <media:content url="http://www.qualitymag.com/ext/resources/Issues/November2014/Quality101/QM1114-DEPT-101-p1SL.jpg?1414777796" type="image/jpeg" fileSize="37916">
+        <media:title type="plain">Quality101_sl1</media:title>
+        <media:description type="plain">A 2-D image of a coin being optically inspected for surface height; in this case, of a specific feature on the coin obverse. Source: Bruker Nano Surfaces Division</media:description>
+      </media:content>
+      <media:content url="http://www.qualitymag.com/ext/resources/Issues/November2014/Quality101/QM1114-DEPT-101-p2SL.jpg?1414777835" type="image/jpeg" fileSize="34994">
+        <media:title type="plain">Quality101_sl2</media:title>
+        <media:description type="plain">A 3-D inspection view of the same coin. Source: Bruker Nano Surfaces Division </media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>The Future of Color Measurement</title>
+      <author></author>
+      <description>
+        <![CDATA[<p>
+	In quality assurance, color measurement and spectrophotometry are essential in determining a product&rsquo;s color consistency and accuracy.</p>]]>
+      </description>
+      <guid>http://www.qualitymag.com/articles/92181</guid>
+      <pubDate>Thu, 02 Oct 2014 00:00:00 -0400</pubDate>
+      <link>http://www.qualitymag.com/articles/92181-the-future-of-color-measurement</link>
+      <enclosure url="http://www.qualitymag.com/ext/resources/Issues/October2014/Quality101/QM1014-DEPT-101-p1FT.jpg?1412263737" type="image/jpeg" length="13237"/>
+      <media:content url="http://www.qualitymag.com/ext/resources/Issues/October2014/Quality101/QM1014-DEPT-101-p1SL.jpg?1412264157" type="image/jpeg" fileSize="21243">
+        <media:title type="plain">Quality101_sl1</media:title>
+        <media:description type="plain">The 45G CT spectrophotometer, specifically designed for the automotive industry. Source: Datacolor</media:description>
+      </media:content>
+      <media:content url="http://www.qualitymag.com/ext/resources/Issues/October2014/Quality101/QM1014-DEPT-101-p2SL.jpg?1412264219" type="image/jpeg" fileSize="38748">
+        <media:title type="plain">Quality101_sl2</media:title>
+        <media:description type="plain">A 45G CT spectrophotometer determining color agreement on interior car parts. Source: Datacolor</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>When a Round Peg Is Just Too Square: The Basics of Harmonic Analysis</title>
+      <author>information@mahr.com (Patrick Nugent)</author>
+      <description>
+        <![CDATA[<p>
+	Most of the time form measurement looks at basic geometrical shapes: how round something is, how straight or even how flat it is.</p>
+]]>
+      </description>
+      <guid>http://www.qualitymag.com/articles/92092</guid>
+      <pubDate>Fri, 05 Sep 2014 00:00:00 -0400</pubDate>
+      <link>http://www.qualitymag.com/articles/92092-when-a-round-peg-is-just-too-square-the-basics-of-harmonic-analysis</link>
+      <enclosure url="http://www.qualitymag.com/ext/resources/Issues/September2014/DEPT101/QM0914-DEPT-101-p1FT.jpg?1409927144" type="image/jpeg" length="17146"/>
+      <media:content url="http://www.qualitymag.com/ext/resources/Issues/September2014/DEPT101/QM0914-DEPT-101-p1SL.jpg?1409927526" type="image/jpeg" fileSize="23285">
+        <media:title type="plain">DEPT101_sl1</media:title>
+        <media:description type="plain">Form systems that do lead analysis usually do so without the user really needing to be aware of how the system is calculating the desired parameters. But one way that the software can calculate what is needed (and there are other methods as well) is by doing Fourier series analysis. Source: Mahr</media:description>
+      </media:content>
+      <media:content url="http://www.qualitymag.com/ext/resources/Issues/September2014/DEPT101/QM0914-DEPT-101-p2SL.jpg?1409927585" type="image/jpeg" fileSize="34625">
+        <media:title type="plain">DEPT101_sl2</media:title>
+        <media:description type="plain">Figure 1. Fourier analysis allows bearing manufacturers to deconstruct a complex roundness profile and chart its component curves, where the amplitude of the various frequencies is compared to their wavelengths as expressed in undulations per revolution. Source: Mahr </media:description>
+      </media:content>
+      <media:content url="http://www.qualitymag.com/ext/resources/Issues/September2014/DEPT101/QM0914-DEPT-101-p3SL.jpg?1409927610" type="image/jpeg" fileSize="40140">
+        <media:title type="plain">DEPT101_sl3</media:title>
+        <media:description type="plain">Figure 2. Fourier series analysis can also be used for straightness and flatness applications. The charts deconstruct the various wavelengths, plotting amplitude vs. frequency per unit of length. This can be useful in detecting the presenceÃ¢??or absenceÃ¢??of repeating microstructural patterns on part surfaces. Source: Mahr</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>Mechanical Testing of Composites</title>
+      <author>info_news@instron.com (Ian McEnteggart)</author>
+      <description>
+        <![CDATA[<p>
+	Composite materials are being used in an ever-increasing variety of products and applications, as more and more industries realize the benefits that these materials offer.</p>
+]]>
+      </description>
+      <guid>http://www.qualitymag.com/articles/91960</guid>
+      <pubDate>Tue, 01 Jul 2014 08:05:00 -0400</pubDate>
+      <link>http://www.qualitymag.com/articles/91960-mechanical-testing-of-composites</link>
+      <enclosure url="http://www.qualitymag.com/ext/resources/Issues/July2014/DEPT101/QM0714-DEPT-101-p2FT.jpg?1403718233" type="image/jpeg" length="47668"/>
+      <media:content url="http://www.qualitymag.com/ext/resources/Issues/July2014/DEPT101/QM0714-DEPT-101-p1SL.jpg?1403718451" type="image/jpeg" fileSize="27469">
+        <media:title type="plain">DEPT101_sl1</media:title>
+        <media:description type="plain">This is a 250 kN electromechanical system with chambers and hydraulic grips. Source: Instron</media:description>
+      </media:content>
+      <media:content url="http://www.qualitymag.com/ext/resources/Issues/July2014/DEPT101/QM0714-DEPT-101-p2SL.jpg?1403718490" type="image/jpeg" fileSize="43385">
+        <media:title type="plain">DEPT101_sl2</media:title>
+        <media:description type="plain">Composite tests have been standardized by a number of organizations.  Source: Instron</media:description>
+      </media:content>
+      <media:content url="http://www.qualitymag.com/ext/resources/Issues/July2014/DEPT101/QM0714-DEPT-101-p3SL.jpg?1403718529" type="image/jpeg" fileSize="34344">
+        <media:title type="plain">DEPT101_sl3</media:title>
+        <media:description type="plain">Accurate alignment of grips is important. Source: Instron</media:description>
+      </media:content>
+    </item>
+  </channel>
+</rss>

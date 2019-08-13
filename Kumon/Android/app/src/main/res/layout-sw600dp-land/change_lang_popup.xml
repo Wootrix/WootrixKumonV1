@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@color/trans_75_bg"
+    android:gravity="right"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:id="@+id/chng_language_popup_main_lnrlyt"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="right"
+        android:gravity="right"
+        android:orientation="vertical"
+        android:paddingRight="@dimen/margin_5">
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingRight="@dimen/margin_8"
+            android:src="@drawable/popover_arrow" />
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/btn_white_file"
+            android:minHeight="400dp"
+            android:orientation="vertical">
+
+            <FrameLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/popover_header"
+                android:gravity="center_vertical"
+                android:orientation="horizontal">
+
+                <ImageView
+                    android:id="@+id/chng_language_popup_back_imgVw"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="left"
+                    android:src="@drawable/icon_back" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerInParent="true"
+                    android:layout_gravity="center"
+                    android:paddingRight="@dimen/margin_10"
+                    android:text="@string/header_chng_lng"
+                    android:textColor="@color/black_heading"
+                    android:textSize="@dimen/text_size_20" />
+
+                <TextView
+                    android:id="@+id/chng_language_popup_done_txt"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="right|center_vertical"
+                    android:padding="@dimen/margin_10"
+                    android:text="@string/lbl_done_cap"
+                    android:textColor="@color/black_heading"
+                    android:textSize="@dimen/text_size_16" />
+            </FrameLayout>
+
+            <RadioGroup
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:paddingRight="@dimen/margin_10">
+
+                <RadioButton
+                    android:id="@+id/change_lang_english_radio"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:button="@null"
+                    android:checked="true"
+                    android:drawableRight="@drawable/language_toggle_btn"
+                    android:padding="@dimen/margin_10"
+                    android:text="@string/lbl_english"
+                    android:textColor="#3c3c3c"
+                    android:textSize="@dimen/text_size_20" />
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:src="@drawable/seprator" />
+
+                <RadioButton
+                    android:id="@+id/change_lang_spanish_radio"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:button="@null"
+                    android:drawableRight="@drawable/language_toggle_btn"
+                    android:padding="@dimen/margin_10"
+                    android:text="@string/lbl_spanish"
+                    android:textColor="#3c3c3c"
+                    android:textSize="@dimen/text_size_20" />
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:src="@drawable/seprator" />
+
+                <RadioButton
+                    android:id="@+id/change_lang_portuguese_radio"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:button="@null"
+                    android:drawableRight="@drawable/language_toggle_btn"
+                    android:padding="@dimen/margin_10"
+                    android:text="@string/lbl_portuguese"
+                    android:textColor="#3c3c3c"
+                    android:textSize="@dimen/text_size_20" />
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:src="@drawable/seprator" />
+            </RadioGroup>
+        </LinearLayout>
+    </LinearLayout>
+
+</FrameLayout>

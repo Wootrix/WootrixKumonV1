@@ -1,0 +1,157 @@
+/* 
+  Localizable.strings
+  Wootrix
+
+  Created by CIPL227-MOBILITY on 12/09/16.
+  Copyright © 2016 Techahead. All rights reserved.
+*/
+
+"Wootrix" = "Wootrix";
+"ph" = "ph";
+"Settings" = "Ajustes";
+"Successfully shared on Twitter" = ">Compartido con éxito en Twitter";
+"Twitter Login Failed" = "Twitter Login Failed";
+"Twitter is not configured your device settings. Please go to device settings and configure twitter account first." = " Twitter no está configurado en la configuración del dispositivo . Por favor, vaya a la configuración del dispositivo y configurar la cuenta de twitter primero . ";
+"Failed to shared on Twitter" = "Error al compartir en Twitter";
+"Successfully shared on Facebook" = "Compartido con éxito en Facebook";
+"Failed to shared on Facebook" = "Error al compartir en Facebook";
+"Out Of Memory Error" = "Out Of Memory Error";
+"Hello world!" = "Hola Mundo!";
+"Network Not Available" = "Red no disponible";
+
+
+
+"Name" = "Nombre";
+"Email" = "Email";
+"Error" = "Error";
+"Password" = "Contraseña";
+"Confirm Password" = "Acesso Líder";
+"Log in" = "Iniciar Sesión";
+"Log in Col" = "Acceso colaborador";
+"Sign up" = "Contratar";
+"Log in with" = "Entrar con";
+"Don't have an account yet? Sign up here" = "¿No tienes una cuenta todavía? Regístrate aquí";
+"Alreay have an account? Login here" = "¿Ya tienes una cuenta? Entre aquí";
+"Invalid email address" = "Dirección de correo electrónico no es válido";
+"Please wait..." = "Por favor espera ...";
+"Loading..." = "Cargando ...";
+"Send" = "Enviar";
+"Write a comment..." = "Escribe un comentario ...";
+"Camera" = "Cámara";
+"Gallery" = "Galería";
+"SD-Card not available" = "SD-Cardno está disponible";
+"Ok" = "Okay";
+"Cancel" = "Cancelar";
+"Choose Image" = "Seleccione Imagen";
+
+
+
+"Show Page" = "Mostrar Página";
+"Change Email" = "Cambiar correo electrónico";
+"Change Password" = "Cambiar La Contraseña";
+"Rate App" = "Tasa App";
+"Change Language" = "Cambiar idioma";
+"About Us" = "Sobre Nosotros";
+"Topics" = "Temas";
+"Magazines" = "Revistas";
+"Article Languages" = "Idioma Artículos";
+"Log out" = "Finalizar la Sesión";
+"CANCEL" = "CANCELAR";
+"DONE" = "HECHO";
+"New Email ID" = "Nuevo ID de correo electrónico";
+"Confirm Email ID" = "Confirmar ID de correo electrónico";
+"Old Password" = "Contraseña Anterior";
+"New Password" = "Nueva Contraseña";
+"Confirm New Password" = "Confirmar nueva contraseña";
+
+//<!-- HEADER NAMES -->
+"Comments" = "Comentarios";
+"My Account" = "Mi Cuenta";
+
+"About us" = "Sobre Nosotros";
+"Change Password" = "Cambiar La Contraseña";
+"Change Email" = "Cambiar correo electrónico";
+"Change Language" = "Cambiar idioma";
+"Content" = "Contenido";
+"Article" = "Artículo";
+"Add New Magazines" = "Añadir Nuevas Revistas";
+"Add Account" = "Añadir Cuenta";
+
+//<!-- languages -->
+
+"English" = "Inglés";
+"Spanish" = "Español";
+"Portuguese" = "Portugués";
+"Forgot Password?" = "Has Olvidado Tu Contraseña?";
+"Please enter your email" = "Introduzca su dirección de correo electrónico";
+"Search Articles" = "Buscar";
+"Advertisement" = "Publicidad";
+"Please enter your Name" = "Por favor, ingrese su nombre";
+"Please enter your Password" = "Por favor, introduzca su contraseña";
+"Please enter your current password" = "Introduzca su contraseña actual";
+"Current password should be atleast 6 chracter long" = "Contraseña actual debe ser al menos 6 caracteres de largo";
+"Please enter your confirm password" = "Introduzca su confirmación de contraseña";
+"Password and Confirm password does not match" = "Contraseña y Confirmar de la contraseña no coincide";
+"Open Article" = "Artículo Abierto";
+"Open Articles" = "Artículo Abiertos";
+"No comments Found. Be the first one to comment on this Article" = "No tiene comentarios. ¡Sé el primero en comentar este artículo";
+"Please enter comment" = "Por favor ingrese comentario";
+"Enter Subscription Password"  = "Introduzca Contraseña de suscripción";
+"Add Email" = "Añadir Email";
+"Add Password" = "Añadir contraseña";
+"Please choose at least one language" = "Por favor, elija al menos un idioma";
+"Please enter new email" = "Por favor, ingrese la nueva dirección de correo electrónico";
+"Please enter confirm email" = "Por favor escriba el correo electrónico de confirmación";
+"Email and confirm email do not match" = "Correo electrónico y el correo electrónico de confirmación no coinciden";
+"No Social media found to share." = "No hay medios sociales para compartir.";
+"Send" = "Enviar";
+"Do you want to logout?" = "¿Es que quieres salir ?";
+"Yes" = "Sí";
+"No" = "No";
+"Subscription Password" = "Contraseña de Suscripción";
+"Please select atleast one Article Language" = "Por favor, seleccione al menos un Idioma";
+"Like me you can find relevant content on www.wootrix.com" = "Al igual que yo puede encontrar contenido relevante en www.wootrix.com";
+"Alert" = "Alerta";
+"OK" = "De acuerdo";
+"Cancel" = "Cancelar";
+"Do you want to delete the magazine" = "Qué desea eliminar la revista";
+"Magazine Deleted Successfully"="Revista eliminado con éxito";
+//<!-- server side error messges strings -->
+//<string name="service_failed">Webservice failed to give the result.</string>
+//<string name="server_ntwrk_error">Network error Occoured. Please try again.</string>
+//<string name="server_timout_error">Timeout Occured. Please try again.</string>
+//<string name="server_response_error">Response is not Coming from server. Please try again.</string>
+
+//<!-- tags for advertisement module -->
+//<string name="ad_advtID">1</string>
+//<string name="ad_videourl">2</string>
+//<string name="ad_link_url">3</string>
+//<string name="ad_tim_in_sec">4</string>
+
+//<!-- NEW STRINGS -->
+"Do you want to keep selected language as your app\'s default language?" = "¿Quieres mantener idioma seleccionado como idioma predeterminado de su aplicación?";
+"Press back button again to exit." = "Pulse de nuevo el botón de nuevo para salir.";
+"Hey! I am using Wootrix Application. I just read this article:" = "Hola! Estoy utilizando Aplicación Wootrix . Acabo de leer este artículo:";
+"You can read and subscribe Articles, Magazines, Magazine articles on Android, iOS and on Web. \n\n Just check it out http://www.wootrix.com" = "Usted tiene acceso en un solo lugar a los principales artículos de interés en Android, iOS y la web. Basta con echar un vistazo http://www.wootrix.com";
+"Password should be atleast 6 character long." = "La contraseña debe tener al menos 6 caracteres de largo.";
+"Username should be atleast 4 character long." = "Nombre de usuario debe tener al menos 4 caracteres de largo.";
+"sec ago" = "Hace XXX segundos";
+"secs ago" = "Hace XXX segundos";
+"min ago" = "Hace XXX minutos";
+"mins ago" = "Hace XXX minutos";
+"hour ago" = "Hace XXX horas";
+"hours ago" = "Hace XXX horas";
+"day ago" = "Hace XXX días";
+"days ago" = "Hace XXX días";
+"Subscribing Magazine..."="Revista La suscripción...";
+"Magazine subscribed successfully."="Revista suscrito con éxito";
+"Deleting Magazine"="Eliminación de la revista";
+"You need login to view this Closed Magazine" = "Es necesario iniciar sesión para ver esta Revista cerrada";
+"You need login to view this Article"="Es necesario iniciar sesión para ver este artículo";
+"You need login to view this Advertisement."="Es necesario iniciar sesión para ver este anuncio.";
+"You got an notification for an Advertisement" = "Tienes una notificación para un anuncio";
+
+"You got an notification for" ="Tienes una notificación para";
+"Closed Magazine" = "Revista cerrado";
+"Magazine Article" = "Artículo de revista";
+"Magazine Advertisement" = "revista de anuncio";

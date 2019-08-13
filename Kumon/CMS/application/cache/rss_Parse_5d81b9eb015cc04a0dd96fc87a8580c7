@@ -1,0 +1,523 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"
+xmlns:atom="http://www.w3.org/2005/Atom"
+xmlns:dc="http://purl.org/dc/elements/1.1/"
+xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+xmlns:admin="http://webns.net/mvcb/"
+xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:content="http://purl.org/rss/1.0/modules/content/">
+
+<channel>
+<title>Topic: Resources &#45; Supply Chain 24/7</title>
+<link>http://www.supplychain247.com/rss/category/resources</link>
+<description>SupplyChain247</description>
+<dc:language>en</dc:language>
+<dc:creator>pburnson@peerlessmedia.com</dc:creator>
+<dc:rights>Copyright 2017</dc:rights>
+<dc:date>2017-01-23T19:43:00+00:00</dc:date>
+<admin:generatorAgent rdf:resource="http://www.pmachine.com/" />
+<atom:link href="http://www.supplychain247.com/rss/category/resources" rel="self" type="application/rss+xml" />
+
+<item>
+<title>The Future of Manufacturing: Making Things in a Changing World</title>
+<link>http://www.supplychain247.com/paper/the_future_of_manufacturing_making_things_in_a_changing_world</link>
+ 
+ 
+<description><![CDATA[<img src='http://www.supplychain247.com/images/wp/Deloitte_Future_of_Manufacturing_cover.jpg/><br />]]>The manufacturing landscape is facing dramatic changes, creating and capturing value in this new environment will require understanding the factors driving change in specific manufacturing sectors, focusing on activities that convey a structural advantage, leveraging the skills and capabilities of third parties, fundamentally rethinking business models, and identifying influence points.</description>
+
+<guid>http://www.supplychain247.com/paper/the_future_of_manufacturing_making_things_in_a_changing_world</guid>
+<dc:subject>Resources, Papers, Other, Manufacturing</dc:subject>
+<dc:date>2017-01-23T10:19:00+00:00</dc:date>
+</item><item>
+<title>Americaâs Advanced Industries: What They Are, Where They Are, and Why They Matter</title>
+<link>http://www.supplychain247.com/paper/americas_advanced_industries</link>
+ 
+ 
+<description><![CDATA[<img src='http://www.supplychain247.com/images/wp/Brookings_AdvancedIndustry_cover.jpg/><br />]]>This report identifies a distinct yet overlooked part of the economy, the advanced industries sector, that is at once critical to national wellbeing and under pressure from eroding competitiveness and national economic drift.</description>
+
+<guid>http://www.supplychain247.com/paper/americas_advanced_industries</guid>
+<dc:subject>Resources, Papers, Other, Manufacturing</dc:subject>
+<dc:date>2017-01-22T13:15:00+00:00</dc:date>
+</item><item>
+<title>A Case Study of Apple Computer&#8217;s Supplier Hubs: A Tale of Two Cities</title>
+<link>http://www.supplychain247.com/paper/a_case_study_of_apple_computers_supplier_hubs_a_tale_of_two_cities</link>
+ 
+ 
+<description><![CDATA[<img src='http://www.supplychain247.com/images/article/stanford_apply_study_cover.jpg/><br />]]>The supplier hub alternative was particularly intriguing because it provided the additional benefit of allowing Apple to decrease the amount of inventory on its books, by negotiating with suppliers to defer payment for incoming materials until the day of use.</description>
+
+<guid>http://www.supplychain247.com/paper/a_case_study_of_apple_computers_supplier_hubs_a_tale_of_two_cities</guid>
+<dc:subject>Resources, Papers, Other, Business, Academia</dc:subject>
+<dc:date>2017-01-22T11:25:00+00:00</dc:date>
+</item><item>
+<title>The Five âNew Rulesâ of 3PL e-Commerce Fulfillment</title>
+<link>http://www.supplychain247.com/paper/the_five_new_rules_of_3pl_ecommerce_fulfillment</link>
+ 
+ 
+<description><![CDATA[<img src='http://www.supplychain247.com/images/wp/3PL_Central_Five_New_Rules_of_3PL_eCommerce_Fulfillment_cover.jpg/><br />]]>The purpose of this white paper is to spell out âThe Five New Rules of 3PL e&#45;Commerce Fulfillment.â rules and explain how they will benefit your 3PL warehouse, it also provides the guidance you need to help your 3PL e&#45;Commerce fulfillment business prepare for future growth.</description>
+
+<guid>http://www.supplychain247.com/paper/the_five_new_rules_of_3pl_ecommerce_fulfillment</guid>
+<dc:subject>Resources, Papers, Transportation, Transportation Management</dc:subject>
+<dc:date>2017-01-20T13:10:00+00:00</dc:date>
+</item><item>
+<title>Your Business Network: The Digital Supply Chain</title>
+<link>http://www.supplychain247.com/paper/your_business_network_the_digital_supply_chain</link>
+ 
+ 
+<description><![CDATA[<img src='http://www.supplychain247.com/images/wp/opentext_digital_supplychain_0117WPcover.jpg/><br />]]>Information drives competitive advantage in the Digital&#45;First World, and the effective management and coordination of it is critical, to drive competitive advantage and operate seamlessly within this ecosystem of partners, companies need to re&#45;invent their business processes with digital technology.</description>
+
+<guid>http://www.supplychain247.com/paper/your_business_network_the_digital_supply_chain</guid>
+<dc:subject>Resources, Papers, Technology, Software</dc:subject>
+<dc:date>2017-01-19T16:31:00+00:00</dc:date>
+</item><item>
+<title>Keep it Running: The Quintessential Spare Parts Logistics Report</title>
+<link>http://www.supplychain247.com/paper/keep_it_running_the_quintessential_spare_parts_logistics_report</link>
+ 
+ 
+<description><![CDATA[<img src='http://www.supplychain247.com/images/wp/ArmstrongAssociates_Keep_It_Running_Spare_Parts_Logistics_cover.jpg/><br />]]>The report is ideal for shippers seeking a spare parts logistics provider, for providers that wish to benchmark service offerings, or for researchers in need of market sizing data.</description>
+
+<guid>http://www.supplychain247.com/paper/keep_it_running_the_quintessential_spare_parts_logistics_report</guid>
+<dc:subject>Resources, Papers, Transportation, Third Party Logistics</dc:subject>
+<dc:date>2017-01-19T16:12:00+00:00</dc:date>
+</item><item>
+<title>Amplifying Human Potential: Towards Purposeful Artificial Intelligence</title>
+<link>http://www.supplychain247.com/paper/amplifying_human_potential_towards_purposeful_artificial_intelligence</link>
+ 
+ 
+<description><![CDATA[<img src='http://www.supplychain247.com/images/wp/infosys_amplifying_human_potential_report_cover.jpg/><br />]]>Infosys commissioned independent market research company Vanson Bourne to investigate the approach and attitudes that senior decision&#45;makers in large organizations have towards AI technology and how they see the future application and development of AI in their industries.</description>
+
+<guid>http://www.supplychain247.com/paper/amplifying_human_potential_towards_purposeful_artificial_intelligence</guid>
+<dc:subject>Resources, Papers, Technology, Software</dc:subject>
+<dc:date>2017-01-19T09:25:00+00:00</dc:date>
+</item><item>
+<title>Understanding Hidden Costs in Your Supply Chain</title>
+<link>http://www.supplychain247.com/paper/understanding_hidden_costs_in_your_supply_chain</link>
+ 
+ 
+<description><![CDATA[<img src='http://www.supplychain247.com/images/wp/purolator_hiddencosts0117WPcover.jpg/><br />]]>As businesses are scrutinizing every dollar spent on logistics and transportation, it makes sense to understand exactly where costs are being incurred.</description>
+
+<guid>http://www.supplychain247.com/paper/understanding_hidden_costs_in_your_supply_chain</guid>
+<dc:subject>Resources, Papers, Transportation, Transportation Management</dc:subject>
+<dc:date>2017-01-17T16:51:00+00:00</dc:date>
+</item><item>
+<title>How to Meet Trade Compliance Regulations set Forth by the Single Window Mandate</title>
+<link>http://www.supplychain247.com/paper/automated_commercial_environment_how_to_meet_the_2016_single_window_mandate</link>
+ 
+ 
+<description><![CDATA[<img src='http://www.supplychain247.com/images/wp/Amberroad_widow_mandate1116wpcover.png/><br />]]>The Single Window is coming and itâs critical for shippers that self&#45;file to keep abreast of fast&#45;moving target dates and know how to undertake entry filing in the new system.</description>
+
+<guid>http://www.supplychain247.com/paper/automated_commercial_environment_how_to_meet_the_2016_single_window_mandate</guid>
+<dc:subject>Resources, Papers, Supply Chain, Global Trade</dc:subject>
+<dc:date>2017-01-17T16:20:00+00:00</dc:date>
+</item><item>
+<title>An Economy For The 99%</title>
+<link>http://www.supplychain247.com/paper/an_economy_for_the_99_percent</link>
+ 
+ 
+<description><![CDATA[<img src='http://www.supplychain247.com/images/wp/oxfam_an_economy_for_the_99_percent_cover.jpg/><br />]]>Itâs time to build a human economy that benefits everyone, not just the privileged few.</description>
+
+<guid>http://www.supplychain247.com/paper/an_economy_for_the_99_percent</guid>
+<dc:subject>Resources, Papers, Supply Chain, Global Trade</dc:subject>
+<dc:date>2017-01-16T11:14:00+00:00</dc:date>
+</item><item>
+<title>Measuring the Value of Supply Chain Executive Education</title>
+<link>http://www.supplychain247.com/paper/measuring_the_value_of_supply_chain_executive_education</link>
+ 
+ 
+<description><![CDATA[<img src='http://www.supplychain247.com/images/wp/measuring_the_value_of_supply_chain_executive_education_paper.jpg/><br />]]>Universities and colleges have enhanced their supply chain and logistics degree programs; organizations like APICS and the Institute for Supply Management have expanded their certification programs; and training firms offer myriad options to help executives stay current on supply chain trends.</description>
+
+<guid>http://www.supplychain247.com/paper/measuring_the_value_of_supply_chain_executive_education</guid>
+<dc:subject>Resources, Papers, Supply Chain, Education</dc:subject>
+<dc:date>2017-01-15T11:55:00+00:00</dc:date>
+</item><item>
+<title>Transform Global e-Commerce and Maximize the Customer Experience</title>
+<link>http://www.supplychain247.com/paper/transform_global_e_commerce_and_maximize_the_customer_experience</link>
+ 
+ 
+<description><![CDATA[<img src='http://www.supplychain247.com/images/wp/amberroad_ecommerce_0117WPcover.jpg/><br />]]>Global e&#45;commerce is growing in leaps and bounds, particularly in emerging markets, where consumers can find it hard to locate affordable imported products in local shops.</description>
+
+<guid>http://www.supplychain247.com/paper/transform_global_e_commerce_and_maximize_the_customer_experience</guid>
+<dc:subject>Resources, Papers, Supply Chain, Global Trade</dc:subject>
+<dc:date>2017-01-12T16:12:00+00:00</dc:date>
+</item><item>
+<title>Three Common Global Supply Chain Issues that Affect Your Bottom Line</title>
+<link>http://www.supplychain247.com/paper/three_common_global_supply_chain_issues_that_affect_your_bottom_line1</link>
+ 
+ 
+<description><![CDATA[<img src='http://www.supplychain247.com/images/wp/amberroad_bottomline_0117WPcover.jpg/><br />]]>Recognizing areas where you may be losing money due to lack of supply chain visibility is only the first step in improving operations.</description>
+
+<guid>http://www.supplychain247.com/paper/three_common_global_supply_chain_issues_that_affect_your_bottom_line1</guid>
+<dc:subject>Resources, Papers, Supply Chain, Global Trade</dc:subject>
+<dc:date>2017-01-12T15:36:00+00:00</dc:date>
+</item><item>
+<title>Avoiding the Pitfalls of a First-Time TMS Buyer</title>
+<link>http://www.supplychain247.com/paper/avoiding_the_pitfalls_of_a_first_time_tms_buyer</link>
+ 
+ 
+<description><![CDATA[<img src='http://www.supplychain247.com/images/wp/3Gtms_purchasingTMS_0117WPcover.jpg/><br />]]>It&apos;s common in any TMS implementation: You don&apos;t know what you need until youâre well into it.</description>
+
+<guid>http://www.supplychain247.com/paper/avoiding_the_pitfalls_of_a_first_time_tms_buyer</guid>
+<dc:subject>Resources, Papers, Technology, Software</dc:subject>
+<dc:date>2017-01-12T15:17:00+00:00</dc:date>
+</item><item>
+<title>The Internet of Things Supply Chain</title>
+<link>http://www.supplychain247.com/paper/the_internet_of_things_supply_chain</link>
+ 
+ 
+<description><![CDATA[<img src='http://www.supplychain247.com/images/wp/GTNexus-Internet-of-Things-WP_cover.jpg/><br />]]>The biggest obstacle to being ready for the IoT is mindset &#45; businesses need to think beyond their traditional roles in order to thrive when the IoT arrives in full force.</description>
+
+<guid>http://www.supplychain247.com/paper/the_internet_of_things_supply_chain</guid>
+<dc:subject>Resources, Papers, Technology, Mobile &amp; Wireless</dc:subject>
+<dc:date>2017-01-12T14:13:00+00:00</dc:date>
+</item><item>
+<title>Cloud Transportation &amp;&nbsp; Global Trade Management</title>
+<link>http://www.supplychain247.com/paper/cloud_transportation_global_trade_management</link>
+ 
+ 
+<description><![CDATA[<img src='http://www.supplychain247.com/images/wp/oracle_tms_gtm_cloud_ebook_cover.jpg/><br />]]>With Oracle Transportation Management and Global Trade Management Cloud Services, you can deliver exceptional service to your customers with a single platform that provides end&#45;toend visibility and control of transportation, customs, and compliance processes.</description>
+
+<guid>http://www.supplychain247.com/paper/cloud_transportation_global_trade_management</guid>
+<dc:subject>Resources, Papers, Transportation, Transportation Management, Supply Chain, Global Trade</dc:subject>
+<dc:date>2017-01-12T09:02:00+00:00</dc:date>
+</item><item>
+<title>Case, Tote &amp; Polybag Conveyor Solution Systems</title>
+<link>http://www.supplychain247.com/paper/case_tote_polybag_conveyor_solution_systems</link>
+ 
+ 
+<description><![CDATA[<img src='http://www.supplychain247.com/images/wp/Intelligrated_conveyor_0116WPcover.jpg/><br />]]>Conveyor solutions from IntelligratedÂ® help retailers, manufacturers and logistics providers build efficient, high performance automated distribution and fulfillment operations.</description>
+
+<guid>http://www.supplychain247.com/paper/case_tote_polybag_conveyor_solution_systems</guid>
+<dc:subject>Resources, Papers, Warehouse/DC, Conveyors &amp; Sortation</dc:subject>
+<dc:date>2017-01-10T15:46:00+00:00</dc:date>
+</item><item>
+<title>Apple Making Big Profits but Chinese Workersâ Wage on the Slide</title>
+<link>http://www.supplychain247.com/paper/apple_making_big_profits_but_chinese_workers_wage_on_the_slide</link>
+ 
+ 
+<description><![CDATA[<img src='http://www.supplychain247.com/images/wp/ChinaLaborWatch_Pegatron_report_cover.jpg/><br />]]>Apple is hindering the improvement of working conditions in the smartphone industry, and if Apple does not take on responsibility commensurate with its status, other companies will not have the ability to make improvements either.</description>
+
+<guid>http://www.supplychain247.com/paper/apple_making_big_profits_but_chinese_workers_wage_on_the_slide</guid>
+<dc:subject>Resources, Papers, Supply Chain, Sustainability</dc:subject>
+<dc:date>2017-01-08T07:25:00+00:00</dc:date>
+</item><item>
+<title>The eCommerce Challenge</title>
+<link>http://www.supplychain247.com/paper/the_ecommerce_challenge</link>
+ 
+ 
+<description><![CDATA[<img src='http://www.supplychain247.com/images/wp/the_ecommerce_challenge_cover.jpg/><br />]]>Most of todayâs retailers and their supply chain advisors understand the shift in retail sales to the online channel but, for many years, the inclusion of gasoline, groceries, and automobile sales in U.S. retail sales numbers masked the true extent of eCommerce penetration.</description>
+
+<guid>http://www.supplychain247.com/paper/the_ecommerce_challenge</guid>
+<dc:subject>Resources, Papers, Other, E&#45;commerce</dc:subject>
+<dc:date>2017-01-05T05:38:00+00:00</dc:date>
+</item><item>
+<title>Made in America, Again</title>
+<link>http://www.supplychain247.com/paper/made_in_america_again</link>
+ 
+ 
+<description><![CDATA[<img src='http://www.supplychain247.com/images/wp/the_boston_consulting_group_made_in_america_again_cover.jpg/><br />]]>This report, the first in a series, examines the economic trends that point to a U.S. manufacturing renaissance. It also explores the strategic implications of the shifting cost equation for companies engaged in global sourcing.</description>
+
+<guid>http://www.supplychain247.com/paper/made_in_america_again</guid>
+<dc:subject>Resources, Papers, Supply Chain, Global Trade</dc:subject>
+<dc:date>2017-01-04T17:39:00+00:00</dc:date>
+</item><item>
+<title>Beyond Traffic: Trends and Choices 2045</title>
+<link>http://www.supplychain247.com/paper/beyond_traffic_trends_and_choices_2045</link>
+ 
+ 
+<description><![CDATA[<img src='http://www.supplychain247.com/images/wp/Beyond_Traffic_Framework_cover_final.jpg/><br />]]>Our purpose in producing this report was to analyze the latest data and trends shaping transportation so we could objectively frame critical policy choices that need to be made.</description>
+
+<guid>http://www.supplychain247.com/paper/beyond_traffic_trends_and_choices_2045</guid>
+<dc:subject>Resources, Papers, Transportation, Transportation Management, Other, Business, Governmental</dc:subject>
+<dc:date>2017-01-04T12:56:00+00:00</dc:date>
+</item><item>
+<title>Amazonâs Stranglehold</title>
+<link>http://www.supplychain247.com/paper/amazons_stranglehold</link>
+ 
+ 
+<description><![CDATA[<img src='http://www.supplychain247.com/images/wp/ILSR_AmazonReport_cover.jpg/><br />]]>This report aims to pull back Amazonâs cloak of invisibility, it shows how the companyâs tightening grip is stifling competition, eroding jobs, and threatening communities &#45; it presents new data; draws on interviews with dozens of manufacturers, retailers, and others; and synthesizes a broad body of previous reporting and scholarship.</description>
+
+<guid>http://www.supplychain247.com/paper/amazons_stranglehold</guid>
+<dc:subject>Resources, Papers, Supply Chain, Leadership</dc:subject>
+<dc:date>2016-12-28T06:51:00+00:00</dc:date>
+</item><item>
+<title>Learning from Simulated and Unsupervised Images through Adversarial Training</title>
+<link>http://www.supplychain247.com/paper/learning_from_simulated_unsupervised_images_through_adversarial_training</link>
+ 
+ 
+<description><![CDATA[<img src='http://www.supplychain247.com/images/wp/apple_learning_from_simulated_unsupervised_images_paper_cover.jpg/><br />]]>In this paper, we propose Simulated+Unsupervised (S+U) learning, where the goal is to improve the realism of synthetic images from a simulator using unlabeled real data.</description>
+
+<guid>http://www.supplychain247.com/paper/learning_from_simulated_unsupervised_images_through_adversarial_training</guid>
+<dc:subject>Resources, Papers, Technology, Software</dc:subject>
+<dc:date>2016-12-27T17:37:00+00:00</dc:date>
+</item><item>
+<title>2016 Global Manufacturing Competitiveness Index</title>
+<link>http://www.supplychain247.com/paper/2016_global_manufacturing_competitiveness_index</link>
+ 
+ 
+<description><![CDATA[<img src='http://www.supplychain247.com/images/wp/Deloitte_global_mfg_competitiveness_index_2016_cover.jpg/><br />]]>With the release of the 2016 Global Manufacturing Competitiveness Index (GMCI), Deloitte Touche Tohmatsu Limited (Deloitte Global) and the Council on Competitiveness (the Council) in the US build upon the GMCI research, with prior studies published in 2010 and 2013.</description>
+
+<guid>http://www.supplychain247.com/paper/2016_global_manufacturing_competitiveness_index</guid>
+<dc:subject>Resources, Papers, Supply Chain, Global Trade</dc:subject>
+<dc:date>2016-12-26T03:49:00+00:00</dc:date>
+</item><item>
+<title>The 21st Annual, 2017 Third-Party Logistics Study</title>
+<link>http://www.supplychain247.com/paper/the_21st_annual_2017_third_party_logistics_study</link>
+ 
+ 
+<description><![CDATA[<img src='http://www.supplychain247.com/images/wp/Penske_Logistics_2017_3pl_study_cover.jpg/><br />]]>The results and findings of the 2017 21st Annual Third&#45;Party Logistics Study provide current perspectives on the nature of shipper and 3PL relationships, why they are generally successful and some of the ways in which they could be improved.</description>
+
+<guid>http://www.supplychain247.com/paper/the_21st_annual_2017_third_party_logistics_study</guid>
+<dc:subject>Resources, Papers, Transportation, Third Party Logistics</dc:subject>
+<dc:date>2016-12-26T02:27:00+00:00</dc:date>
+</item><item>
+<title>5 Ways to Fill Supply Chain Knowledge Gaps</title>
+<link>http://www.supplychain247.com/paper/5_ways_to_fill_supply_chain_knowledge_gaps</link>
+ 
+ 
+<description><![CDATA[<img src='http://www.supplychain247.com/images/wp/SCMR1501_Education_-5_ways_to_fill_knowledge_gaps_cover.jpg/><br />]]>Is your organization suffering from supply chain knowledge and skillset gaps? Here are five strategies to get back on track.</description>
+
+<guid>http://www.supplychain247.com/paper/5_ways_to_fill_supply_chain_knowledge_gaps</guid>
+<dc:subject>Resources, Papers, Supply Chain, Education, Leadership, Other, Business, Academia</dc:subject>
+<dc:date>2016-12-24T20:00:00+00:00</dc:date>
+</item><item>
+<title>The Future of Work</title>
+<link>http://www.supplychain247.com/paper/the_future_of_work</link>
+ 
+ 
+<description><![CDATA[<img src='http://www.supplychain247.com/images/wp/WEC_the_future_of_work_paper_cover.jpg/><br />]]>The âFuture of Workâ white paper discusses major structural shifts that are currently reshaping the world of work such as globalization, diversity, technology, new production patterns and peopleâs new expectations regarding job and career, the paper provides suggestions on how to tackle these issues and, ultimately, calls upon policymakers to adapt legislation accordingly.</description>
+
+<guid>http://www.supplychain247.com/paper/the_future_of_work</guid>
+<dc:subject>Resources, Papers, Supply Chain, Leadership</dc:subject>
+<dc:date>2016-12-24T16:33:00+00:00</dc:date>
+</item><item>
+<title>China and the World: New Frontiers, Fresh Connections</title>
+<link>http://www.supplychain247.com/paper/china_and_the_world_new_frontiers_fresh_connections</link>
+ 
+ 
+<description><![CDATA[<img src='http://www.supplychain247.com/images/wp/HSBC_China_2016_report_cover.jpg/><br />]]>China&apos;s role in the global economy keeps expanding, and over the past 25 years, it has gone from 11th largest to second, the countryâs economy is now 60% that of the US, and that means its role in determining global demand is critical, however, Chinaâs relationship with the world is changing, this report sets out to examine these changes and what they mean for China and the rest of the world.</description>
+
+<guid>http://www.supplychain247.com/paper/china_and_the_world_new_frontiers_fresh_connections</guid>
+<dc:subject>Resources, Papers, Supply Chain, Global Trade</dc:subject>
+<dc:date>2016-12-22T20:23:00+00:00</dc:date>
+</item><item>
+<title>2017 Top Ten Trends in Modern Demand-Driven Manufacturing</title>
+<link>http://www.supplychain247.com/paper/2017_top_ten_trends_in_modern_demand_driven_manufacturing</link>
+ 
+ 
+<description><![CDATA[<img src='http://www.supplychain247.com/images/wp/synchrono_top10trends_1216WPcover.jpg/><br />]]>The 2017 Top Ten Trends for Modern Demand&#45;Driven Manufacturing is based on interactions with hundreds of manufacturers and industry experts &#45; addressing challenges, supporting innovation and introducing technologies &#45; the constant, key themes that rise to the top are digitization, synchronization and visibility.</description>
+
+<guid>http://www.supplychain247.com/paper/2017_top_ten_trends_in_modern_demand_driven_manufacturing</guid>
+<dc:subject>Resources, Papers, Supply Chain, Supply Chain Optimization</dc:subject>
+<dc:date>2016-12-21T16:27:00+00:00</dc:date>
+</item><item>
+<title>Case Study: McDonaldâs Secret Sauce for Supply Chain Success</title>
+<link>http://www.supplychain247.com/paper/case_study_mcdonalds_secret_sauce_for_supply_chain_success</link>
+ 
+ 
+<description><![CDATA[<img src='http://www.supplychain247.com/images/wp/McDonalds_Case_Study_cover.jpg/><br />]]>Together, McDonaldâs, its owner/operators, and their suppliers have created a System to be reckoned with, a System that continues to set records after 50 years, and many have credited McDonaldâs with transforming the food industry, but ask anyone at McDonaldâs and they will tell you they could not do it alone.</description>
+
+<guid>http://www.supplychain247.com/paper/case_study_mcdonalds_secret_sauce_for_supply_chain_success</guid>
+<dc:subject>Resources, Papers, Supply Chain, Supply Chain Optimization</dc:subject>
+<dc:date>2016-12-20T23:22:00+00:00</dc:date>
+</item><item>
+<title>China Trade Operations: Trends and Advancements</title>
+<link>http://www.supplychain247.com/paper/china_trade_operations_trends_and_advancements</link>
+ 
+ 
+<description><![CDATA[<img src='http://www.supplychain247.com/images/article/amberroad_chinastudyWPcover071714.jpg/><br />]]>While over 77% of companies are currently operating in China, the majority are unable to address the dynamic and complex trade environment &#45; this Aberdeen Group report provides in&#45;depth insights into the complexities of China trade operations, and explains how a China Trade Management solution can help.</description>
+
+<guid>http://www.supplychain247.com/paper/china_trade_operations_trends_and_advancements</guid>
+<dc:subject>Resources, Papers, Supply Chain, Global Trade</dc:subject>
+<dc:date>2016-12-20T18:35:00+00:00</dc:date>
+</item><item>
+<title>Reverse Lifecycle Management: The Next Opportunity in Reverse Logistics</title>
+<link>http://www.supplychain247.com/paper/reverse_lifecycle_management_the_next_opportunity_in_reverse_logistics</link>
+ 
+ 
+<description><![CDATA[<img src='http://www.supplychain247.com/images/wp/Optoro_RLM_WhitePaper_Final_cover.jpg/><br />]]>Given the huge potential for cost savings, risk protection, and revenue gains, companies should seriously consider building a business case and ROI justification for investment in an RLM solution.</description>
+
+<guid>http://www.supplychain247.com/paper/reverse_lifecycle_management_the_next_opportunity_in_reverse_logistics</guid>
+<dc:subject>Resources, Papers, Transportation, Transportation Management, Supply Chain, Sustainability</dc:subject>
+<dc:date>2016-12-20T14:44:00+00:00</dc:date>
+</item><item>
+<title>3 SEKO Logistics eCommerce Case Studies</title>
+<link>http://www.supplychain247.com/paper/3_seko_logistics_ecommerce_case_studies</link>
+ 
+ 
+<description><![CDATA[<img src='http://www.supplychain247.com/images/wp/seko_logistics_3ecommerce_case_studies_cover.png/><br />]]>Providing end&#45;to&#45;end supply chain solutions, enabling eCommerce stores, and freeing up management to focus on creativity, SEKO Logistics addresses the supply chain and logistics needs of London&apos;s Portobello Road MOU company, the iconic Lulu brand, and Escalade Sports.</description>
+
+<guid>http://www.supplychain247.com/paper/3_seko_logistics_ecommerce_case_studies</guid>
+<dc:subject>Resources, Papers, Supply Chain, Supply Chain Optimization</dc:subject>
+<dc:date>2016-12-20T07:32:00+00:00</dc:date>
+</item><item>
+<title>Your Guide to Upcoming Trucking Regulations</title>
+<link>http://www.supplychain247.com/paper/your_guide_to_upcoming_trucking_regulations</link>
+ 
+ 
+<description><![CDATA[<img src='http://www.supplychain247.com/images/wp/csx_trucking_WPcover1216.jpg/><br />]]>A guide to understanding and navigating the driver shortage and trucking regulations.</description>
+
+<guid>http://www.supplychain247.com/paper/your_guide_to_upcoming_trucking_regulations</guid>
+<dc:subject>Resources, Papers, Transportation, Intermodal</dc:subject>
+<dc:date>2016-12-19T14:04:00+00:00</dc:date>
+</item><item>
+<title>KPMG Transport Tracker - Sixth Edition</title>
+<link>http://www.supplychain247.com/paper/kpmg_transport_tracker_sixth_edition</link>
+ 
+ 
+<description><![CDATA[<img src='http://www.supplychain247.com/images/wp/kpmg_sixth_edition_transport_tracker_cover.jpg/><br />]]>This sixth edition of the KPMG Transport Tracker has a special focus on the rising M&amp;A activities and investments in transport startups, analyzing the impact of falling fuel prices on airline operating models and discussing the challenges ahead for logistics companies amidst growing competition from tech giants and startups.</description>
+
+<guid>http://www.supplychain247.com/paper/kpmg_transport_tracker_sixth_edition</guid>
+<dc:subject>Resources, Papers, Supply Chain, Global Trade</dc:subject>
+<dc:date>2016-12-16T16:00:00+00:00</dc:date>
+</item><item>
+<title>Optimizing Your Supply Chain with Air Cargo</title>
+<link>http://www.supplychain247.com/paper/optimizing_your_supply_chain_with_air_cargo</link>
+ 
+ 
+<description><![CDATA[<img src='http://www.supplychain247.com/images/wp/CHRobinson_AirCargo_Whitepaper_cover.jpg/><br />]]>When evaluating how air cargo can help optimize supply chains, it is important to recognize the different variations within this transportation service.</description>
+
+<guid>http://www.supplychain247.com/paper/optimizing_your_supply_chain_with_air_cargo</guid>
+<dc:subject>Resources, Papers, Transportation, Air</dc:subject>
+<dc:date>2016-12-15T20:16:00+00:00</dc:date>
+</item><item>
+<title>Pool Distribution: The Forgotten Mode?</title>
+<link>http://www.supplychain247.com/paper/pool_distribution_the_forgotten_mode</link>
+ 
+ 
+<description><![CDATA[<img src='http://www.supplychain247.com/images/wp/3GTMS_pooldistribution_1216WPcover.jpg/><br />]]>Shippers are giving pool distribution a second look thanks to todayâs third generation TMS, which is more powerful, flexible, and sophisticated than prior generation products.</description>
+
+<guid>http://www.supplychain247.com/paper/pool_distribution_the_forgotten_mode</guid>
+<dc:subject>Resources, Papers, Transportation, Transportation Management</dc:subject>
+<dc:date>2016-12-13T17:34:00+00:00</dc:date>
+</item><item>
+<title>What&#8217;s Changed with A Modern TMS?</title>
+<link>http://www.supplychain247.com/paper/whats_changed_with_a_modern_tms</link>
+ 
+ 
+<description><![CDATA[<img src='http://www.supplychain247.com/images/wp/3GTMS_ModernTMS_1216WPcover.jpg/><br />]]>The Transportation World has Changed Dramatically, are you changing with it?</description>
+
+<guid>http://www.supplychain247.com/paper/whats_changed_with_a_modern_tms</guid>
+<dc:subject>Resources, Papers, Transportation, Transportation Management</dc:subject>
+<dc:date>2016-12-13T17:13:00+00:00</dc:date>
+</item><item>
+<title>3PL Enhances Competitive Advantage and Strengthens Non-Asset Line of Business with Tier 1 TMS</title>
+<link>http://www.supplychain247.com/paper/3pl_enhances_competitive_advantage_and_strengthens_non_asset_line_of_busine</link>
+ 
+ 
+<description><![CDATA[<img src='http://www.supplychain247.com/images/wp/3GTMS_ODW_Logistics_1216WPcover.jpg/><br />]]>Unlike other offerings that were built decades ago, 3Gtms technology addresses todayâs market needs and complexities.</description>
+
+<guid>http://www.supplychain247.com/paper/3pl_enhances_competitive_advantage_and_strengthens_non_asset_line_of_busine</guid>
+<dc:subject>Resources, Papers, Transportation, Transportation Management</dc:subject>
+<dc:date>2016-12-13T17:04:00+00:00</dc:date>
+</item><item>
+<title>TMS Solution Increases Automation and Streamlines Operations</title>
+<link>http://www.supplychain247.com/paper/tms_solution_increases_automation_and_streamlines_operations</link>
+ 
+ 
+<description><![CDATA[<img src='http://www.supplychain247.com/images/wp/3GTMS_Coriscana_Bedding_1216WPcover.jpg/><br />]]>Manufacturer Streamlines Processes and Enables New Business Initiatives with Robust, Flexible Multi&#45;Mode TMS.</description>
+
+<guid>http://www.supplychain247.com/paper/tms_solution_increases_automation_and_streamlines_operations</guid>
+<dc:subject>Resources, Papers, Transportation, Transportation Management</dc:subject>
+<dc:date>2016-12-13T16:45:00+00:00</dc:date>
+</item><item>
+<title>Multi-Mode, Tier 1 TMS Enables Greater Automation</title>
+<link>http://www.supplychain247.com/paper/multi_mode_tier_1_tms_enables_greater_automation</link>
+ 
+ 
+<description><![CDATA[<img src='http://www.supplychain247.com/images/wp/3GTMS_Bemis_1216WPcover.jpg/><br />]]>A Tier 1 TMS, 3G&#45;TM increases productivity by improving shipment efficiency and communications; reducing freight cost; increasing shipment visibility; and providing greater financial transparency.</description>
+
+<guid>http://www.supplychain247.com/paper/multi_mode_tier_1_tms_enables_greater_automation</guid>
+<dc:subject>Resources, Papers, Transportation, Transportation Management</dc:subject>
+<dc:date>2016-12-13T16:25:00+00:00</dc:date>
+</item><item>
+<title>Parcel Delivery: The Future of Last Mile</title>
+<link>http://www.supplychain247.com/paper/parcel_delivery_the_future_of_last_mile</link>
+ 
+ 
+<description><![CDATA[<img src='http://www.supplychain247.com/images/wp/McKinsey_parcel_delivery_the_future_of_last_mile_paper_cover.jpg/><br />]]>Currently subject to significant disruption, last&#45;mile delivery, especially of parcels, is getting a great deal of attention in the media and from investors, and rightfully so.</description>
+
+<guid>http://www.supplychain247.com/paper/parcel_delivery_the_future_of_last_mile</guid>
+<dc:subject>Resources, Papers, Transportation, Transportation Management</dc:subject>
+<dc:date>2016-12-12T19:08:00+00:00</dc:date>
+</item><item>
+<title>Truckload Fuel Surcharges: How They Work &amp; What They Cost</title>
+<link>http://www.supplychain247.com/paper/truckload_fuel_surcharges_how_they_work_what_they_cost</link>
+ 
+ 
+<description><![CDATA[<img src='http://www.supplychain247.com/images/wp/CHRobinson_FuelSurchargeWhitepaper_cover.jpg/><br />]]>By drawing on extensive experience with creating and applying fuel surcharge programs &#45; and by incorporating groundbreaking research &#45; this white paper maps the components of these programs and explains how each variable impacts overall costs.</description>
+
+<guid>http://www.supplychain247.com/paper/truckload_fuel_surcharges_how_they_work_what_they_cost</guid>
+<dc:subject>Resources, Papers, Transportation, Motor</dc:subject>
+<dc:date>2016-12-12T17:03:00+00:00</dc:date>
+</item><item>
+<title>Vendor-Managed Inventory Solutions in the Life Sciences and Pharmaceuticals Industry</title>
+<link>http://www.supplychain247.com/paper/barriers_and_benefits_of_vendor_managed_inventory_solutions_in_the_life_sci</link>
+ 
+ 
+<description><![CDATA[<img src='http://www.supplychain247.com/images/wp/MDlogistics_VMI_1216WPcover.png/><br />]]>Third&#45;party logistics (3PL) providers specialize in maximizing their customersâ supply chain processes. In recent years, 3PLs have innovated their practices to extend the pharmaceutical supply chain for special projects, such as packaging and kitting. Vendor&#45;managed inventory (VMI) is a natural evolution of these extended services.</description>
+
+<guid>http://www.supplychain247.com/paper/barriers_and_benefits_of_vendor_managed_inventory_solutions_in_the_life_sci</guid>
+<dc:subject>Resources, Papers, Transportation, Third Party Logistics</dc:subject>
+<dc:date>2016-12-12T15:41:00+00:00</dc:date>
+</item><item>
+<title>Controlling Temperature in Pharmaceutical Supply Chains</title>
+<link>http://www.supplychain247.com/paper/controlling_temperature_in_pharmaceutical_supply_chains</link>
+ 
+ 
+<description><![CDATA[<img src='http://www.supplychain247.com/images/wp/MDlogistics_TempControl1216WPcover.png/><br />]]>A comprehensive analysis of temperature control processes as essential components of an efficient quality control process.</description>
+
+<guid>http://www.supplychain247.com/paper/controlling_temperature_in_pharmaceutical_supply_chains</guid>
+<dc:subject>Resources, Papers, Transportation, Third Party Logistics</dc:subject>
+<dc:date>2016-12-12T15:36:00+00:00</dc:date>
+</item><item>
+<title>Where Does Privacy Stop and Publicity Begin in the Logistics Industry?</title>
+<link>http://www.supplychain247.com/paper/where_does_privacy_stop_and_publicity_begin_in_the_logistics_industry</link>
+ 
+ 
+<description><![CDATA[<img src='http://www.supplychain247.com/images/wp/MDlogistics_publicity_1216WPcover.png/><br />]]>A comprehensive look at the complex privacy problems encountered by 3PL providers in the modern logistics industry.</description>
+
+<guid>http://www.supplychain247.com/paper/where_does_privacy_stop_and_publicity_begin_in_the_logistics_industry</guid>
+<dc:subject>Resources, Papers</dc:subject>
+<dc:date>2016-12-12T15:25:00+00:00</dc:date>
+</item><item>
+<title>The Perfect Storm: Lessons from the West Coast Port Closures of 2014</title>
+<link>http://www.supplychain247.com/paper/the_perfect_storm_lessons_from_the_west_coast_port_closures_of_2014</link>
+ 
+ 
+<description><![CDATA[<img src='http://www.supplychain247.com/images/wp/MDlogistics_perfectstorm_1216WPcover.png/><br />]]>Although the labor dispute is formally resolved until the next labor contract negotiation period in 2020, delays are still in place from the nine&#45;month saga.</description>
+
+<guid>http://www.supplychain247.com/paper/the_perfect_storm_lessons_from_the_west_coast_port_closures_of_2014</guid>
+<dc:subject>Resources, Papers, Transportation, Transportation Management</dc:subject>
+<dc:date>2016-12-12T15:19:00+00:00</dc:date>
+</item><item>
+<title>How Non-Traditional Services are Revolutionizing the Supply Chain</title>
+<link>http://www.supplychain247.com/paper/how_non_traditional_services_are_revolutionizing_the_supply_chain</link>
+ 
+ 
+<description><![CDATA[<img src='http://www.supplychain247.com/images/wp/MDlogistics_statusquo_1216WPcover.png/><br />]]>A review of emerging non&#45;traditional supply chain services and the impact they have on the third&#45;party logistics model.</description>
+
+<guid>http://www.supplychain247.com/paper/how_non_traditional_services_are_revolutionizing_the_supply_chain</guid>
+<dc:subject>Resources, Papers, Transportation, Third Party Logistics</dc:subject>
+<dc:date>2016-12-12T15:07:00+00:00</dc:date>
+</item><item>
+<title>How Electronic and Mobile Commerce Affect your Supply Chain</title>
+<link>http://www.supplychain247.com/paper/how_electronic_and_mobile_commerce_affect_your_supply_chain</link>
+ 
+ 
+<description><![CDATA[<img src='http://www.supplychain247.com/images/wp/MDlogistics_onlineshopping_1216WPcover.png/><br />]]>A complete look at how e&#45;Commerce and m&#45;Commerce are impacting traditional supply chain models.</description>
+
+<guid>http://www.supplychain247.com/paper/how_electronic_and_mobile_commerce_affect_your_supply_chain</guid>
+<dc:subject>Resources, Papers, Other, E&#45;commerce</dc:subject>
+<dc:date>2016-12-12T15:01:00+00:00</dc:date>
+</item><item>
+<title>The Legislation that is Shaping the U.S. Pharmaceutical Supply Chains</title>
+<link>http://www.supplychain247.com/paper/the_legislation_that_is_shaping_the_u.s._pharmaceutical_supply_chains</link>
+ 
+ 
+<description><![CDATA[<img src='http://www.supplychain247.com/images/wp/MDlogistics_serialization_1216WPcover.png/><br />]]>On Nov. 27, 2013 President Obama signed the Drug Quality and Security Act into law, effectively setting the framework of what would become a nationwide initiative toward wide&#45;scale pharmaceutical serialization.</description>
+
+<guid>http://www.supplychain247.com/paper/the_legislation_that_is_shaping_the_u.s._pharmaceutical_supply_chains</guid>
+<dc:subject>Resources, Papers, Supply Chain, Supply Chain Optimization</dc:subject>
+<dc:date>2016-12-12T14:54:00+00:00</dc:date>
+</item>
+</channel>
+</rss>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/navbar_bg"
+        android:padding="@dimen/margin_5">
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:src="@drawable/wootrix_logo" />
+
+        <com.ta.wootrix.utils.CircularImageView
+            android:id="@+id/landing_screen_profile_image_imgVw"
+            android:layout_width="@dimen/landing_page_top_pr_img_size"
+            android:layout_height="@dimen/landing_page_top_pr_img_size"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="@dimen/margin_5"
+            android:scaleType="centerCrop"
+            android:src="@drawable/navbar_profile_image_placeholder"
+            app:border="true"
+            app:border_color="@color/trans_50_bg"
+            app:border_width="@dimen/margin_3"
+            app:shadow="false" />
+
+    </RelativeLayout>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/margin_5"
+        android:padding="@dimen/margin_5"
+        android:text="@string/lbl_magazines"
+        android:textColor="@color/black_heading"
+        android:textSize="@dimen/text_size_26"
+        android:textStyle="bold" />
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/seprator" />
+
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/recyclerView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:fadeScrollbars="false" />
+
+    <!--<HorizontalScrollView-->
+    <!--android:layout_width="fill_parent"-->
+    <!--android:layout_height="0dp"-->
+    <!--android:layout_margin="@dimen/margin_10"-->
+    <!--android:layout_weight=".35"-->
+    <!--android:scrollbars="none">-->
+
+    <!--<LinearLayout-->
+    <!--android:id="@+id/landing_screen_horizontal_lnrlyt"-->
+    <!--android:layout_width="match_parent"-->
+    <!--android:layout_height="match_parent"-->
+    <!--android:orientation="horizontal"></LinearLayout>-->
+    <!--</HorizontalScrollView>-->
+
+</LinearLayout>

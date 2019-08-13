@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>News &#8211; Electronics Weekly</title>
+	<atom:link href="http://www.electronicsweekly.com/news/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.electronicsweekly.com</link>
+	<description>Electronics Design &#38; Components Tech News</description>
+	<lastBuildDate>Tue, 24 Jan 2017 01:32:00 +0000</lastBuildDate>
+	<language>en-GB</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.5.3</generator>
+
+	<image>
+		<url>http://www.electronicsweekly.com/wp-content/themes/ew/images/logo.gif</url>
+		<title>Electronics Weekly</title>
+		<link>http://www.electronicsweekly.com</link>
+		<width>125</width>
+		<height>75</height>
+		<description>Electronics Design &amp; Components Tech News</description>
+	</image>
+
+	<item>
+		<title>Tech sector welcomes May&#8217;s industrial blueprint</title>
+		<link>http://www.electronicsweekly.com/news/business/tech-sector-welcomes-mays-industrial-blueprint-2017-01/</link>
+		<comments>http://www.electronicsweekly.com/news/business/tech-sector-welcomes-mays-industrial-blueprint-2017-01/#respond</comments>
+		<pubDate>Mon, 23 Jan 2017 15:51:23 +0000</pubDate>
+		<dc:creator><![CDATA[Richard Wilson]]></dc:creator>
+				<category><![CDATA[Business]]></category>
+		<category><![CDATA[Legislation & Skills]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[artificial intelligence]]></category>
+		<category><![CDATA[Brexit]]></category>
+		<category><![CDATA[kpmg]]></category>
+
+		<guid isPermaLink="false">http://www.electronicsweekly.com/?p=492865</guid>
+		<description><![CDATA[<p>Prime Minister Theresa Mayâs blueprint for a Modern Industrial Strategy is being welcomed by the industry and tech investment sector.</p>
+<p>Read full article: <a rel="nofollow" href="http://www.electronicsweekly.com/news/business/tech-sector-welcomes-mays-industrial-blueprint-2017-01/">Tech sector welcomes May&#8217;s industrial blueprint</a></p>
+]]></description>
+		<wfw:commentRss>http://www.electronicsweekly.com/news/business/tech-sector-welcomes-mays-industrial-blueprint-2017-01/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Government strategy: You reply</title>
+		<link>http://www.electronicsweekly.com/news/business/government-strategy-reply-2017-01/</link>
+		<comments>http://www.electronicsweekly.com/news/business/government-strategy-reply-2017-01/#respond</comments>
+		<pubDate>Mon, 23 Jan 2017 15:04:43 +0000</pubDate>
+		<dc:creator><![CDATA[Steve Bush]]></dc:creator>
+				<category><![CDATA[Business]]></category>
+		<category><![CDATA[Brexit]]></category>
+
+		<guid isPermaLink="false">http://www.electronicsweekly.com/?p=492858</guid>
+		<description><![CDATA[<p>The UK government publishes its 'modern industrial strategy', by the Department for Business, Energy &#038; Industrial Strategy, with ten "pillars" to underpin a new approach.</p>
+<p>Read full article: <a rel="nofollow" href="http://www.electronicsweekly.com/news/business/government-strategy-reply-2017-01/">Government strategy: You reply</a></p>
+]]></description>
+		<wfw:commentRss>http://www.electronicsweekly.com/news/business/government-strategy-reply-2017-01/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>3U OpenVPX board offers Zynq UltraScale+ multi-processor SoCs</title>
+		<link>http://www.electronicsweekly.com/news/products/bus-systems-sbcs/3u-openvpx-board-offers-zynq-ultrascale-multi-processor-socs-2017-01/</link>
+		<comments>http://www.electronicsweekly.com/news/products/bus-systems-sbcs/3u-openvpx-board-offers-zynq-ultrascale-multi-processor-socs-2017-01/#respond</comments>
+		<pubDate>Mon, 23 Jan 2017 12:53:12 +0000</pubDate>
+		<dc:creator><![CDATA[Steve Bush]]></dc:creator>
+				<category><![CDATA[Military/Aerospace Electronics]]></category>
+		<category><![CDATA[Single Board Computers]]></category>
+		<category><![CDATA[Testing]]></category>
+		<category><![CDATA[xilinx]]></category>
+
+		<guid isPermaLink="false">http://www.electronicsweekly.com/?p=492849</guid>
+		<description><![CDATA[<p>PanaTeQ introduces a 3U (100 x 160mm) OpenVPX-compatible board with Xilinx 16nm Zynq UltraScale+ SoCs.</p>
+<p>Read full article: <a rel="nofollow" href="http://www.electronicsweekly.com/news/products/bus-systems-sbcs/3u-openvpx-board-offers-zynq-ultrascale-multi-processor-socs-2017-01/">3U OpenVPX board offers Zynq UltraScale+ multi-processor SoCs</a></p>
+]]></description>
+		<wfw:commentRss>http://www.electronicsweekly.com/news/products/bus-systems-sbcs/3u-openvpx-board-offers-zynq-ultrascale-multi-processor-socs-2017-01/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Updated: Government to publish &#8216;modern industrial strategy&#8217; green paper today</title>
+		<link>http://www.electronicsweekly.com/news/business/government-publish-modern-industrial-strategy-green-paper-2017-01/</link>
+		<comments>http://www.electronicsweekly.com/news/business/government-publish-modern-industrial-strategy-green-paper-2017-01/#respond</comments>
+		<pubDate>Mon, 23 Jan 2017 11:41:10 +0000</pubDate>
+		<dc:creator><![CDATA[Steve Bush]]></dc:creator>
+				<category><![CDATA[Business]]></category>
+		<category><![CDATA[Brexit]]></category>
+		<category><![CDATA[Homepage Featured Articles]]></category>
+
+		<guid isPermaLink="false">http://www.electronicsweekly.com/?p=492831</guid>
+		<description><![CDATA[<p>The Department for Business, Energy &#038; Industrial Strategy will publish a green paper on the Government's 'modern industrial strategy'.</p>
+<p>Read full article: <a rel="nofollow" href="http://www.electronicsweekly.com/news/business/government-publish-modern-industrial-strategy-green-paper-2017-01/">Updated: Government to publish &#8216;modern industrial strategy&#8217; green paper today</a></p>
+]]></description>
+		<wfw:commentRss>http://www.electronicsweekly.com/news/business/government-publish-modern-industrial-strategy-green-paper-2017-01/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Foxconn considers US manufacturing plant</title>
+		<link>http://www.electronicsweekly.com/news/business/foxconn-considers-us-manufacturing-plant-2017-01/</link>
+		<comments>http://www.electronicsweekly.com/news/business/foxconn-considers-us-manufacturing-plant-2017-01/#respond</comments>
+		<pubDate>Mon, 23 Jan 2017 09:22:32 +0000</pubDate>
+		<dc:creator><![CDATA[David Manners]]></dc:creator>
+				<category><![CDATA[Business]]></category>
+		<category><![CDATA[Foxconn]]></category>
+
+		<guid isPermaLink="false">http://www.electronicsweekly.com/?p=492825</guid>
+		<description><![CDATA[<p>Foxconn is considering a plan to set up an OLED manufacturing plant in the US which could employ up to 50,000 people and cost $7 billion.</p>
+<p>Read full article: <a rel="nofollow" href="http://www.electronicsweekly.com/news/business/foxconn-considers-us-manufacturing-plant-2017-01/">Foxconn considers US manufacturing plant</a></p>
+]]></description>
+		<wfw:commentRss>http://www.electronicsweekly.com/news/business/foxconn-considers-us-manufacturing-plant-2017-01/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Battery design and manufacturing faults caused Note 7 fires</title>
+		<link>http://www.electronicsweekly.com/news/business/battery-design-manufacturing-faults-caused-note-7-fires-2017-01/</link>
+		<comments>http://www.electronicsweekly.com/news/business/battery-design-manufacturing-faults-caused-note-7-fires-2017-01/#respond</comments>
+		<pubDate>Mon, 23 Jan 2017 08:51:11 +0000</pubDate>
+		<dc:creator><![CDATA[David Manners]]></dc:creator>
+				<category><![CDATA[Business]]></category>
+
+		<guid isPermaLink="false">http://www.electronicsweekly.com/?p=492819</guid>
+		<description><![CDATA[<p>Samsung held a two hour press conference this morning to explain that faults in battery design and manufacturing caused the fires in the Note 7. Koh Dong-jin, president of mobile communications at Samsung, told the conference that the original battery, made by Samsung SDI, had electrodes which touched each other causing a short circuit and ...</p>
+<p>Read full article: <a rel="nofollow" href="http://www.electronicsweekly.com/news/business/battery-design-manufacturing-faults-caused-note-7-fires-2017-01/">Battery design and manufacturing faults caused Note 7 fires</a></p>
+]]></description>
+		<wfw:commentRss>http://www.electronicsweekly.com/news/business/battery-design-manufacturing-faults-caused-note-7-fires-2017-01/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Toshiba faces problems in selling chip stake</title>
+		<link>http://www.electronicsweekly.com/news/business/toshiba-faces-problems-selling-chip-stake-2017-01/</link>
+		<comments>http://www.electronicsweekly.com/news/business/toshiba-faces-problems-selling-chip-stake-2017-01/#respond</comments>
+		<pubDate>Mon, 23 Jan 2017 08:30:45 +0000</pubDate>
+		<dc:creator><![CDATA[David Manners]]></dc:creator>
+				<category><![CDATA[Business]]></category>
+
+		<guid isPermaLink="false">http://www.electronicsweekly.com/?p=492817</guid>
+		<description><![CDATA[<p>Toshiba&#8217;s plan to sell off a stake in its chip business to raise cash faces problems. The need arose because of losses in its nuclear business which could be as big as $6 billion and its barring from raising fresh equity funding following its accounting scandal. Toshiba now faces having a negative net worth It ...</p>
+<p>Read full article: <a rel="nofollow" href="http://www.electronicsweekly.com/news/business/toshiba-faces-problems-selling-chip-stake-2017-01/">Toshiba faces problems in selling chip stake</a></p>
+]]></description>
+		<wfw:commentRss>http://www.electronicsweekly.com/news/business/toshiba-faces-problems-selling-chip-stake-2017-01/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Flex Logix signs eFPGA deal with DARPA</title>
+		<link>http://www.electronicsweekly.com/news/business/492810-2017-01/</link>
+		<comments>http://www.electronicsweekly.com/news/business/492810-2017-01/#respond</comments>
+		<pubDate>Mon, 23 Jan 2017 08:01:57 +0000</pubDate>
+		<dc:creator><![CDATA[David Manners]]></dc:creator>
+				<category><![CDATA[Business]]></category>
+		<category><![CDATA[Programmable Logic and Asic]]></category>
+		<category><![CDATA[FPGAs]]></category>
+
+		<guid isPermaLink="false">http://www.electronicsweekly.com/?p=492810</guid>
+		<description><![CDATA[<p>Flex Logix will make available EFLX arrays in the TSMC 16FFC process node from 2.5K to 122.5K LUTs</p>
+<p>Read full article: <a rel="nofollow" href="http://www.electronicsweekly.com/news/business/492810-2017-01/">Flex Logix signs eFPGA deal with DARPA</a></p>
+]]></description>
+		<wfw:commentRss>http://www.electronicsweekly.com/news/business/492810-2017-01/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Theory could predict noise in future plasmonic systems</title>
+		<link>http://www.electronicsweekly.com/news/research-news/theory-predict-noise-future-plasmonic-systems-2017-01/</link>
+		<comments>http://www.electronicsweekly.com/news/research-news/theory-predict-noise-future-plasmonic-systems-2017-01/#respond</comments>
+		<pubDate>Fri, 20 Jan 2017 14:40:36 +0000</pubDate>
+		<dc:creator><![CDATA[Steve Bush]]></dc:creator>
+				<category><![CDATA[Research]]></category>
+		<category><![CDATA[photonic]]></category>
+		<category><![CDATA[plasmonic]]></category>
+
+		<guid isPermaLink="false">http://www.electronicsweekly.com/?p=492789</guid>
+		<description><![CDATA[<p>Noise in nanoscale photonic and plasmonic amplifiers could be modelled following research at Moscow Institute of Physics and Technology.</p>
+<p>Read full article: <a rel="nofollow" href="http://www.electronicsweekly.com/news/research-news/theory-predict-noise-future-plasmonic-systems-2017-01/">Theory could predict noise in future plasmonic systems</a></p>
+]]></description>
+		<wfw:commentRss>http://www.electronicsweekly.com/news/research-news/theory-predict-noise-future-plasmonic-systems-2017-01/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Mentor certifies RTOS for automotive designs</title>
+		<link>http://www.electronicsweekly.com/market-sectors/automotive-electronics/mentor-certifies-rtos-automotive-designs-2017-01/</link>
+		<comments>http://www.electronicsweekly.com/market-sectors/automotive-electronics/mentor-certifies-rtos-automotive-designs-2017-01/#respond</comments>
+		<pubDate>Fri, 20 Jan 2017 14:27:59 +0000</pubDate>
+		<dc:creator><![CDATA[Richard Wilson]]></dc:creator>
+				<category><![CDATA[Automotive Electronics]]></category>
+		<category><![CDATA[EDA and IP]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[AUTOSAR]]></category>
+		<category><![CDATA[Mentor Graphics]]></category>
+
+		<guid isPermaLink="false">http://www.electronicsweekly.com/?p=492792</guid>
+		<description><![CDATA[<p>Mentor Graphics has introduced anÂ ISO 26262 qualification programme for itsÂ tools and embedded software for useÂ safety-critical designs and verification flows at all criticality levels up to and including ASIL D. Called the Mentor Safe programme it includes the Nucleus SafetyCert real time operating system, the Volcano Vstar AutosarÂ operating system and BSW stack. It also includesÂ ISO 26262 ...</p>
+<p>Read full article: <a rel="nofollow" href="http://www.electronicsweekly.com/market-sectors/automotive-electronics/mentor-certifies-rtos-automotive-designs-2017-01/">Mentor certifies RTOS for automotive designs</a></p>
+]]></description>
+		<wfw:commentRss>http://www.electronicsweekly.com/market-sectors/automotive-electronics/mentor-certifies-rtos-automotive-designs-2017-01/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,578 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Electronics</title>
+    <description>
+      <![CDATA[Controls and sensors, displays and interfaces, switches and relays, controls and sensors, power, shielding and smart appliances and technology.]]>
+    </description>
+    <link>http://www.appliancedesign.com/rss</link>
+    <language>en-us</language>
+    <item>
+      <title>Pay TV Service Providers and Manufacturers Announce Set-Top Box Energy Efficiency Agreement</title>
+      <description>
+        <![CDATA[<p>It is expected that total annual energy consumption in Canada will be reduced and annual carbon dioxide emissions will be cut by over 100,000 tons.</p>]]>
+      </description>
+      <guid>http://www.appliancedesign.com/articles/95326</guid>
+      <pubDate>Fri, 20 Jan 2017 00:00:00 -0500</pubDate>
+      <link>http://www.appliancedesign.com/articles/95326-article-headline</link>
+      <enclosure url="http://www.appliancedesign.com/ext/resources/Default_Images/Ed/AD-News-Wire.jpg?1481749574" type="image/jpeg" length="100061"/>
+    </item>
+    <item>
+      <title>How simulation helps designers implement magnetic position sensor systems more easily and quickly</title>
+      <description>
+        <![CDATA[<p>Integrated magnetic position sensors provide a theoretically very attractive solution to the problem of measuring the angle of a rotating object such as a motor&rsquo;s shaft or a rotary control switch.</p>]]>
+      </description>
+      <guid>http://www.appliancedesign.com/articles/95301</guid>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0500</pubDate>
+      <link>http://www.appliancedesign.com/articles/95301-how-simulation-helps-designers-implement-magnetic-position-sensor-systems-more-easily-and-quickly</link>
+      <enclosure url="http://www.appliancedesign.com/ext/resources/issues2/2017/January/controls-sensors/Fig_1.jpg?1482427616" type="image/jpeg" length="37772"/>
+      <media:content url="http://www.appliancedesign.com/ext/resources/issues2/2017/January/controls-sensors/Fig_1.jpg?1482427616" type="image/jpeg" fileSize="37772">
+        <media:title type="plain">Fig. 1: An ams position sensor contains four Hall elements around the center of the IC.</media:title>
+        <media:description type="plain">Fig. 1: An ams position sensor contains four Hall elements around the center of the IC.
+</media:description>
+      </media:content>
+      <media:content url="http://www.appliancedesign.com/ext/resources/issues2/2017/January/controls-sensors/Fig_10.jpg?1482428223" type="image/jpeg" fileSize="46873">
+        <media:title type="plain">Fig. 10: Plot of error attributable to a varying severity of mechanical displacement over a rotation of 360Â°.</media:title>
+        <media:description type="plain">Fig. 10: Plot of error attributable to a varying severity of mechanical displacement over a rotation of 360&amp;deg;.
+</media:description>
+      </media:content>
+      <media:content url="http://www.appliancedesign.com/ext/resources/issues2/2017/January/controls-sensors/Fig_11.jpg?1482428266" type="image/jpeg" fileSize="67636">
+        <media:title type="plain">Fig. 11: A graphical user interface of the POS-Simulator.</media:title>
+        <media:description type="plain">Fig. 11: A graphical user interface of the POS-Simulator.
+</media:description>
+      </media:content>
+      <media:content url="http://www.appliancedesign.com/ext/resources/issues2/2017/January/controls-sensors/Fig_2.jpg?1482427992" type="image/jpeg" fileSize="43398">
+        <media:title type="plain">Fig. 2: A magnetâs field may be represented as vectors in three dimensions, Bz, Bx and By.</media:title>
+        <media:description type="plain">Fig. 2: A magnet&amp;rsquo;s field may be represented as vectors in three dimensions, Bz, Bx and By.
+</media:description>
+      </media:content>
+      <media:content url="http://www.appliancedesign.com/ext/resources/issues2/2017/January/controls-sensors/Fig_3.jpg?1482428018" type="image/jpeg" fileSize="61571">
+        <media:title type="plain">Fig. 3: 3D plot of the Bz component of the magnetic field on a plane 2mm below a 6mm x 2.5mm cylindrical magnet.</media:title>
+        <media:description type="plain">Fig. 3: 3D plot of the Bz component of the magnetic field on a plane 2mm below a 6mm x 2.5mm cylindrical magnet.
+</media:description>
+      </media:content>
+      <media:content url="http://www.appliancedesign.com/ext/resources/issues2/2017/January/controls-sensors/Fig_4.jpg?1482428045" type="image/jpeg" fileSize="52228">
+        <media:title type="plain">Fig. 4: The values of Bz at each of the four Hall sensors as the signal magnet rotates through 360Â°.</media:title>
+        <media:description type="plain">Fig. 4: The values of Bz at each of the four Hall sensors as the signal magnet rotates through 360&amp;deg;.
+</media:description>
+      </media:content>
+      <media:content url="http://www.appliancedesign.com/ext/resources/issues2/2017/January/controls-sensors/Fig_5.jpg?1482428076" type="image/jpeg" fileSize="37166">
+        <media:title type="plain">Fig. 5: The angle of rotation is calculated from the differential measurements of magnetic strength at each Hall sensing element.</media:title>
+        <media:description type="plain">Fig. 5: The angle of rotation is calculated from the differential measurements of magnetic strength at each Hall sensing element.
+</media:description>
+      </media:content>
+      <media:content url="http://www.appliancedesign.com/ext/resources/issues2/2017/January/controls-sensors/Fig_6.jpg?1482428102" type="image/jpeg" fileSize="45834">
+        <media:title type="plain">Fig. 6: Measurement error when using three different types of magnet with a magnetic position sensor in a typical assembly.</media:title>
+        <media:description type="plain">Fig. 6: Measurement error when using three different types of magnet with a magnetic position sensor in a typical assembly.
+</media:description>
+      </media:content>
+      <media:content url="http://www.appliancedesign.com/ext/resources/issues2/2017/January/controls-sensors/Fig_7.jpg?1482428131" type="image/jpeg" fileSize="37508">
+        <media:title type="plain">Fig. 7: Simulated values show how the peak magnetic flux changes as the air gap between the magnet and sensor IC grows larger.</media:title>
+        <media:description type="plain">Fig. 7: Simulated values show how the peak magnetic flux changes as the air gap between the magnet and sensor IC grows larger.
+</media:description>
+      </media:content>
+      <media:content url="http://www.appliancedesign.com/ext/resources/issues2/2017/January/controls-sensors/Fig_8.jpg?1482428164" type="image/jpeg" fileSize="27973">
+        <media:title type="plain">Fig. 8: Magnetization tilt in a cylindrical, diametrically magnetized magnet.</media:title>
+        <media:description type="plain">Fig. 8: Magnetization tilt in a cylindrical, diametrically magnetized magnet.
+</media:description>
+      </media:content>
+      <media:content url="http://www.appliancedesign.com/ext/resources/issues2/2017/January/controls-sensors/Fig_9.jpg?1482428307" type="image/jpeg" fileSize="38183">
+        <media:title type="plain">Fig. 9: Mechanical misalignment of the signal magnet and IC can take various forms.</media:title>
+        <media:description type="plain">Fig. 9: Mechanical misalignment of the signal magnet and IC can take various forms.
+</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>Go Green â¦ Save Money?</title>
+      <author></author>
+      <description>
+        <![CDATA[<p>Sure, it&rsquo;s good for the planet. But smart home energy management can save you money in some unexpected ways.</p>]]>
+      </description>
+      <guid>http://www.appliancedesign.com/blogs/14/post/95294</guid>
+      <pubDate>Tue, 13 Dec 2016 00:00:00 -0500</pubDate>
+      <link>http://www.appliancedesign.com/blogs/14-appliance-design-blog/post/95294-article-headline</link>
+      <enclosure url="http://www.appliancedesign.com/ext/resources/issues/2016/October/IAM/Quorvo/DSRSmartHomeDashboard.jpg?1481656360" type="image/jpeg" length="41762"/>
+    </item>
+    <item>
+      <title>Nobel Prize for LED Lighting?</title>
+      <description>
+        <![CDATA[<p>How can a technology invented over 50 years ago be considered cutting edge and worthy of the 2014 Nobel Prize in physics? The Nobel-worthy invention was the blue Light Emitting Diode (LED).</p>]]>
+      </description>
+      <guid>http://www.appliancedesign.com/articles/95292</guid>
+      <pubDate>Tue, 13 Dec 2016 00:00:00 -0500</pubDate>
+      <link>http://www.appliancedesign.com/articles/95292-nobel-prize-for-led-lighting</link>
+      <enclosure url="http://www.appliancedesign.com/ext/resources/issues/2016/October/IAM/SGIA/SunLED-Warm-Neutral-Cool-White.jpg?1481657375" type="image/jpeg" length="89903"/>
+      <media:content url="http://www.appliancedesign.com/ext/resources/issues/2016/October/IAM/SGIA/120degrees.jpg?1481657617" type="image/jpeg" fileSize="87302">
+        <media:title type="plain">spatial distribution</media:title>
+        <media:description type="plain">120 degree wide angle. Source: SunLED-USA and Lumvatech
+</media:description>
+      </media:content>
+      <media:content url="http://www.appliancedesign.com/ext/resources/issues/2016/October/IAM/SGIA/30degrees.jpg?1481657656" type="image/jpeg" fileSize="85608">
+        <media:title type="plain">30 degree narrow angle. Source: SunLED-USA and Lumvatech</media:title>
+        <media:description type="plain">30 degree narrow angle. Source: SunLED-USA and Lumvatech
+</media:description>
+      </media:content>
+      <media:content url="http://www.appliancedesign.com/ext/resources/issues/2016/October/IAM/SGIA/Right-Angle.jpg?1481657494" type="image/jpeg" fileSize="15122">
+        <media:title type="plain">Side firing LED</media:title>
+        <media:description type="plain">Side firing LED. Source: SunLED-USA and Lumvatech
+</media:description>
+      </media:content>
+      <media:content url="http://www.appliancedesign.com/ext/resources/issues/2016/October/IAM/SGIA/SunLED-Warm-Neutral-Cool-White.jpg?1481657375" type="image/jpeg" fileSize="89903">
+        <media:title type="plain">LED lights</media:title>
+        <media:description type="plain">White LEDs. Warm (left), Neutral (middle), Cool (right). Source: SunLED-USA and Lumvatech
+</media:description>
+      </media:content>
+      <media:content url="http://www.appliancedesign.com/ext/resources/issues/2016/October/IAM/SGIA/Top-Fire.jpg?1481657540" type="image/jpeg" fileSize="20396">
+        <media:title type="plain">Top firing LED</media:title>
+        <media:description type="plain">Top firing LED. Source: SunLED-USA and Lumvatech
+</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>What Medical Device Companies Need to Consider in Selecting an EMS Company</title>
+      <description>
+        <![CDATA[<p>Once the decision has been made to use an electronics manufacturing services (EMS) company, selecting one involves several steps. Although most EMS companies perform the same basic services, every EMS is different.&nbsp;</p>]]>
+      </description>
+      <guid>http://www.appliancedesign.com/articles/95286</guid>
+      <pubDate>Tue, 13 Dec 2016 00:00:00 -0500</pubDate>
+      <link>http://www.appliancedesign.com/articles/95286-what-medical-device-companies-need-to-consider-in-selecting-an-ems-company</link>
+      <enclosure url="http://www.appliancedesign.com/ext/resources/issues/2016/October/IAM/digicom/TENS-Board-for-article.jpg?1481645642" type="image/jpeg" length="102962"/>
+      <media:content url="http://www.appliancedesign.com/ext/resources/issues/2016/October/IAM/digicom/ROACH-Board-front-panel-for-article.jpg?1481645859" type="image/jpeg" fileSize="138636">
+        <media:title type="plain">Front panel of a system used in the aerospace industry. Source: Digicom Electronics</media:title>
+        <media:description type="plain">Front panel of a system used in the aerospace industry. Source: Digicom Electronics
+</media:description>
+      </media:content>
+      <media:content url="http://www.appliancedesign.com/ext/resources/issues/2016/October/IAM/digicom/TENS-Board-for-article.jpg?1481645642" type="image/jpeg" fileSize="102962">
+        <media:title type="plain">Circuit board used for transcutaneous electrical device stimulation. Source: Digicom Electronics</media:title>
+        <media:description type="plain">Circuit board used for transcutaneous electrical device stimulation. Source: Digicom Electronics
+</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>Cutting AC Line Harmonics</title>
+      <description>
+        <![CDATA[<p>Clean input power for appliances is more important than ever in modern manufacturing facilities. In years past, all loads that were connected to AC supply lines were either resistive loads, such as light bulbs and heaters, or simple inductive loads, such as fixed-speed AC motors.</p>]]>
+      </description>
+      <guid>http://www.appliancedesign.com/articles/95284</guid>
+      <pubDate>Tue, 13 Dec 2016 00:00:00 -0500</pubDate>
+      <link>http://www.appliancedesign.com/articles/95284-cutting-ac-line-harmonics</link>
+      <enclosure url="http://www.appliancedesign.com/ext/resources/issues/2016/October/IAM/harmonics/BehlmanBL120-.jpg?1481642583" type="image/jpeg" length="19267"/>
+      <media:content url="http://www.appliancedesign.com/ext/resources/issues/2016/October/IAM/harmonics/BehlmanBL120-.jpg?1481642583" type="image/jpeg" fileSize="19267">
+        <media:title type="plain">Behlman BL+ 120 Frequency Converter. Source: Behlman Electronics</media:title>
+        <media:description type="plain">Behlman BL+ 120 Frequency Converter. Source: Behlman Electronics
+</media:description>
+      </media:content>
+      <media:content url="http://www.appliancedesign.com/ext/resources/issues/2016/October/IAM/harmonics/fig1.jpg?1481642742" type="image/jpeg" fileSize="32553">
+        <media:title type="plain">Figure 1: Input of a Single-Phase Power Supply. Source: Behlman Electronics </media:title>
+        <media:description type="plain">Figure 1: Input of a Single-Phase Power Supply. Source: Behlman Electronics&amp;nbsp;
+</media:description>
+      </media:content>
+      <media:content url="http://www.appliancedesign.com/ext/resources/issues/2016/October/IAM/harmonics/fig2.jpg?1481642774" type="image/jpeg" fileSize="33642">
+        <media:title type="plain">Figure 2: Current Waveform of Diode Bridge. Source: Behlman Electronics</media:title>
+        <media:description type="plain">Figure 2: Current Waveform of Diode Bridge. Source: Behlman Electronics
+</media:description>
+      </media:content>
+      <media:content url="http://www.appliancedesign.com/ext/resources/issues/2016/October/IAM/harmonics/Figure-3-Harmonics-story-with-18--replacing-16-.jpg?1481642814" type="image/jpeg" fileSize="55565">
+        <media:title type="plain">Figure 3: Frequency Converter Block Diagram. Source: Behlman Electronics</media:title>
+        <media:description type="plain">Figure 3: Frequency Converter Block Diagram. Source: Behlman Electronics
+</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>ZigBee Alliance Accelerates IoT Unification with 20 ZigBee 3.0 Platform Certifications From Eight Silicon ProvidersÂ </title>
+      <description>
+        <![CDATA[<p>The large number of certifications gives product developers broad supply chain options for building lighting solutions, energy devices, sensors, controllers, gateways and other IoT objects that will work together using the industry&rsquo;s most widely deployed common language between IoT devices.</p>]]>
+      </description>
+      <guid>http://www.appliancedesign.com/articles/95279</guid>
+      <pubDate>Wed, 07 Dec 2016 00:00:00 -0500</pubDate>
+      <link>http://www.appliancedesign.com/articles/95279-zigbee-alliance-accelerates-iot-unification-with-20-zigbee-30-platform-certifications-from-eight-silicon-providers</link>
+      <enclosure url="http://www.appliancedesign.com/ext/resources/Default_Images/Ed/AD-News-Wire.jpg?1481749574" type="image/jpeg" length="100061"/>
+    </item>
+    <item>
+      <title>Alibabaâs YunOS Joins the ZigBee Alliance</title>
+      <description>
+        <![CDATA[<p>YunOS is a business division of Alibaba responsible for developing the cloud-based, data and service-oriented operating system for the IoT.</p>]]>
+      </description>
+      <guid>http://www.appliancedesign.com/articles/95277</guid>
+      <pubDate>Fri, 02 Dec 2016 00:00:00 -0500</pubDate>
+      <link>http://www.appliancedesign.com/articles/95277-alibabas-yunos-joins-the-zigbee-alliance</link>
+      <enclosure url="http://www.appliancedesign.com/ext/resources/Default_Images/Ed/AD-News-Wire.jpg?1481749574" type="image/jpeg" length="100061"/>
+    </item>
+    <item>
+      <title>IBM Named an Internet of Things Software Platform Leader, Launches Global Watson IoT Consulting Solutions</title>
+      <description>
+        <![CDATA[<p>IBM now provides end-to-end business solutions that&nbsp;integrate Watson IoT platform with implementation, support and transformation services to deliver new business models &ldquo;as a service,&rdquo; working with clients including Ricoh.</p>
+]]>
+      </description>
+      <guid>http://www.appliancedesign.com/articles/95268</guid>
+      <pubDate>Tue, 22 Nov 2016 00:00:00 -0500</pubDate>
+      <link>http://www.appliancedesign.com/articles/95268-ibm-named-an-internet-of-things-software-platform-leader-launches-global-watson-iot-consulting-solutions</link>
+      <enclosure url="http://www.appliancedesign.com/ext/resources/Default_Images/Ed/AD-News-Wire.jpg?1481749574" type="image/jpeg" length="100061"/>
+    </item>
+    <item>
+      <title>The Small Things</title>
+      <author></author>
+      <description>
+        <![CDATA[<p>Whether positive or negative, small things can have a large impact.</p>]]>
+      </description>
+      <guid>http://www.appliancedesign.com/articles/95251</guid>
+      <pubDate>Tue, 01 Nov 2016 00:00:00 -0400</pubDate>
+      <link>http://www.appliancedesign.com/articles/95251-the-small-things</link>
+      <enclosure url="http://www.appliancedesign.com/ext/resources/NewRDWebsite/DefaultImages/AD-Darryl-Sealand.jpg?1480612489" type="image/jpeg" length="108385"/>
+    </item>
+    <item>
+      <title>Filter it Out</title>
+      <author></author>
+      <description>
+        <![CDATA[<p>AHAM and its member companies are spearheading a public education campaign to inform and educate consumers about the problem of counterfeit refrigerator water filters. It&rsquo;s a widespread issue that has the potential to expose consumers to serious risks.</p>]]>
+      </description>
+      <guid>http://www.appliancedesign.com/articles/95250</guid>
+      <pubDate>Tue, 01 Nov 2016 00:00:00 -0400</pubDate>
+      <link>http://www.appliancedesign.com/articles/95250-filter-it-out</link>
+      <enclosure url="http://www.appliancedesign.com/ext/resources/NewRDWebsite/DefaultImages/ad_default_aham.jpg?1477678891" type="image/jpeg" length="23547"/>
+    </item>
+    <item>
+      <title>Design Software Gets Going</title>
+      <author></author>
+      <description>
+        <![CDATA[<p>Technology continues to shape the design landscape. Projects can shared in the cloud, new materials can be used for 3D printed parts, and interfaces are expected to be as simple as an Apple product.</p>]]>
+      </description>
+      <guid>http://www.appliancedesign.com/articles/95249</guid>
+      <pubDate>Tue, 01 Nov 2016 00:00:00 -0400</pubDate>
+      <link>http://www.appliancedesign.com/articles/95249-design-software-gets-going</link>
+      <enclosure url="http://www.appliancedesign.com/ext/resources/issues/2016/November/design/Design-Software.jpg?1477678509" type="image/jpeg" length="60751"/>
+    </item>
+    <item>
+      <title>How Force-Sensing Technology is Changing the Face of Domestic Appliances</title>
+      <description>
+        <![CDATA[<p>Every now and then a new technology emerges that we cannot possibly see a use for in everyday life, but very soon we can&rsquo;t imagine what we would do without it.</p>]]>
+      </description>
+      <guid>http://www.appliancedesign.com/articles/95246</guid>
+      <pubDate>Tue, 01 Nov 2016 00:00:00 -0400</pubDate>
+      <link>http://www.appliancedesign.com/articles/95246-how-force-sensing-technology-is-changing-the-face-of-domestic-appliances</link>
+      <enclosure url="http://www.appliancedesign.com/ext/resources/issues/2016/November/force-sensing/Touch-Sensing-Hob-02-3.jpg?1477670482" type="image/jpeg" length="74902"/>
+      <media:content url="http://www.appliancedesign.com/ext/resources/issues/2016/November/force-sensing/Grip-Sensing-Blender-01-2.jpg?1477670651" type="image/jpeg" fileSize="40435">
+        <media:title type="plain">grip sensing</media:title>
+        <media:description type="plain">Figure 2: QTC-based force sensors can be used under ergonomically-curved surfaces, enhancing both function and form. Source: Peratech
+</media:description>
+      </media:content>
+      <media:content url="http://www.appliancedesign.com/ext/resources/issues/2016/November/force-sensing/Grip-Sensing-Blender-05-2.jpg?1477670569" type="image/jpeg" fileSize="25875">
+        <media:title type="plain">force sensing</media:title>
+        <media:description type="plain">Figure 2: QTC-based force sensors can be used under ergonomically-curved surfaces, enhancing both function and form. Source: Peratech
+</media:description>
+      </media:content>
+      <media:content url="http://www.appliancedesign.com/ext/resources/issues/2016/November/force-sensing/Touch-Sensing-Hob-02-3.jpg?1477670482" type="image/jpeg" fileSize="74902">
+        <media:title type="plain">touch sensing</media:title>
+        <media:description type="plain">Figure 1: Force touch sensors simplify and improve oven controls, providing a safe and intuitive user experience. Source: Peratech
+</media:description>
+      </media:content>
+      <media:content url="http://www.appliancedesign.com/ext/resources/issues/2016/November/force-sensing/Touch-Sensing-Hob-03-3.jpg?1477670707" type="image/jpeg" fileSize="54904">
+        <media:title type="plain">touch sensing</media:title>
+        <media:description type="plain">Figure 1: Force touch sensors simplify and improve oven controls, providing a safe and intuitive user experience. Source: Peratech
+</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>Enabling Feedback in Touch Free Appliance Controls</title>
+      <description>
+        <![CDATA[<p>The combination of internet connectivity and touchscreen consumer electronics devices has already influenced product design in the white goods sector.&nbsp;</p>]]>
+      </description>
+      <guid>http://www.appliancedesign.com/articles/95245</guid>
+      <pubDate>Tue, 01 Nov 2016 00:00:00 -0400</pubDate>
+      <link>http://www.appliancedesign.com/articles/95245-enabling-feedback-in-touch-free-appliance-controls</link>
+      <enclosure url="http://www.appliancedesign.com/ext/resources/issues/2016/November/touch-free/Figure-5.jpg?1477669828" type="image/jpeg" length="60221"/>
+      <media:content url="http://www.appliancedesign.com/ext/resources/issues/2016/November/touch-free/Figure-1.jpg?1477669896" type="image/jpeg" fileSize="80562">
+        <media:title type="plain">touch free controls</media:title>
+        <media:description type="plain">As technology comes into the kitchen, there are some practical challenges to overcome.
+</media:description>
+      </media:content>
+      <media:content url="http://www.appliancedesign.com/ext/resources/issues/2016/November/touch-free/Figure-2.jpg?1477669942" type="image/jpeg" fileSize="39300">
+        <media:title type="plain">touch free appliance controls</media:title>
+        <media:description type="plain">Touch based haptics have been implemented in screens to provide vital feedback.
+</media:description>
+      </media:content>
+      <media:content url="http://www.appliancedesign.com/ext/resources/issues/2016/November/touch-free/Figure-3.jpg?1477670024" type="image/jpeg" fileSize="54114">
+        <media:title type="plain">touch free appliance controls</media:title>
+        <media:description type="plain">Modulated ultrasound creates tactile sensations in midair.&amp;nbsp;
+</media:description>
+      </media:content>
+      <media:content url="http://www.appliancedesign.com/ext/resources/issues/2016/November/touch-free/Figure-4.jpg?1477669983" type="image/jpeg" fileSize="59173">
+        <media:title type="plain">touch free appliance controls</media:title>
+        <media:description type="plain">Mid-air controls offer an attractive solution for usability and design.
+</media:description>
+      </media:content>
+      <media:content url="http://www.appliancedesign.com/ext/resources/issues/2016/November/touch-free/Figure-5.jpg?1477669828" type="image/jpeg" fileSize="60221">
+        <media:title type="plain">touch free appliance controls</media:title>
+      </media:content>
+    </item>
+    <item>
+      <title>Monitoring equipment performance in the field through sensor technology in the IoT</title>
+      <description>
+        <![CDATA[<p>The Internet of Things (IoT) has moved beyond a developing trend and is now a way to innovate technology further, allowing companies and their customers to begin to reap IoT&rsquo;s growing list of benefits.</p>]]>
+      </description>
+      <guid>http://www.appliancedesign.com/articles/95244</guid>
+      <pubDate>Tue, 01 Nov 2016 00:00:00 -0400</pubDate>
+      <link>http://www.appliancedesign.com/articles/95244-monitoring-equipment-performance-in-the-field-through-sensor-technology-in-the-iot</link>
+      <enclosure url="http://www.appliancedesign.com/ext/resources/issues/2016/November/monitoring/Image-1-MEnergy.jpg?1477669004" type="image/jpeg" length="107186"/>
+      <media:content url="http://www.appliancedesign.com/ext/resources/issues/2016/November/monitoring/Image-1-MEnergy.jpg?1477669004" type="image/jpeg" fileSize="107186">
+        <media:title type="plain">Internet of Things</media:title>
+      </media:content>
+      <media:content url="http://www.appliancedesign.com/ext/resources/issues/2016/November/monitoring/Image-2-MEnergy.jpg?1477669146" type="image/jpeg" fileSize="73828">
+        <media:title type="plain">Internet of Things</media:title>
+      </media:content>
+    </item>
+    <item>
+      <title>The Shake-up in M2M Communication for the Internet of Things</title>
+      <description>
+        <![CDATA[<p>The hallmark of the Internet of Things is machine-to-machine (M2M) communication. Shipping containers will report to their hubs, rain gauges will inform irrigation systems, and your solar panels will talk to your utility.&nbsp;</p>]]>
+      </description>
+      <guid>http://www.appliancedesign.com/articles/95243</guid>
+      <pubDate>Tue, 01 Nov 2016 00:00:00 -0400</pubDate>
+      <link>http://www.appliancedesign.com/articles/95243-the-shake-up-in-m2m-communication-for-the-internet-of-things</link>
+      <enclosure url="http://www.appliancedesign.com/ext/resources/issues/2016/November/Internet-of-Things/1_LoRa.jpg?1477668509" type="image/jpeg" length="114448"/>
+      <media:content url="http://www.appliancedesign.com/ext/resources/issues/2016/November/Internet-of-Things/1_LoRa.jpg?1477668509" type="image/jpeg" fileSize="114448">
+        <media:title type="plain">ear tag sensors for detecting sick cows</media:title>
+        <media:description type="plain">A Nebraska startup called Quantified Ag developed ear-tag sensors to help feedlot managers detect sick cows. The data is communicated using the LoRa Alliance&amp;rsquo;s communication protocol. Source: Bresslergroup
+</media:description>
+      </media:content>
+      <media:content url="http://www.appliancedesign.com/ext/resources/issues/2016/November/Internet-of-Things/2_Medals.jpg?1477668647" type="image/jpeg" fileSize="39697">
+        <media:title type="plain">SIGFOX and LoRa</media:title>
+        <media:description type="plain">SIGFOX and LoRa are in a bit of a race to claim worldwide dominance. Then there&amp;rsquo;s LTE-M, scheduled to be deployed in mid-2017. Source: Bresslergroup
+</media:description>
+      </media:content>
+      <media:content url="http://www.appliancedesign.com/ext/resources/issues/2016/November/Internet-of-Things/3_SigFox.jpg?1477668694" type="image/jpeg" fileSize="109843">
+        <media:title type="plain">WhistleGPS</media:title>
+        <media:description type="plain">WhistleGPS was the first consumer device in the U.S. to join SIGFOX. It decided to tap into the new IoT network in order to provide lower fees for its subscribers. Source: Whistle.com
+</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>Case Study: Star Prototype Develops Finger Vein Reader Prototype</title>
+      <description>
+        <![CDATA[<p>The 4G V-Station and V-Station Lite are multi-factor biometric security devices for point-of-access control using a variety of possible inputs, including fingerprint/finger vein readers, passcodes and proximity cards. The Canadian customer approached Star Prototype to help them create two versions for use as proof-of-concept prototypes to help their product development team create fully operational models.</p>]]>
+      </description>
+      <guid>http://www.appliancedesign.com/articles/95232</guid>
+      <pubDate>Mon, 17 Oct 2016 00:00:00 -0400</pubDate>
+      <link>http://www.appliancedesign.com/articles/95232-case-study-star-prototype-develops-finger-vein-reader-prototype</link>
+      <enclosure url="http://www.appliancedesign.com/ext/resources/Default_Images/Eds-photos/finished-unit-3-2.jpg?1476732559" type="image/jpeg" length="46708"/>
+    </item>
+    <item>
+      <title>DNA Group and ACES ElectronicsÂ Announce the Creation ofÂ ACES North America</title>
+      <description>
+        <![CDATA[<p>This business unit will serve as ACES Electronics&rsquo;&nbsp;sales and marketing team for North America and will have an office located in Raleigh, N.C.</p>]]>
+      </description>
+      <guid>http://www.appliancedesign.com/articles/95229</guid>
+      <pubDate>Tue, 11 Oct 2016 00:00:00 -0400</pubDate>
+      <link>http://www.appliancedesign.com/articles/95229-dna-group-and-aces-electronicsannounce-the-creation-ofaces-north-america</link>
+      <enclosure url="http://www.appliancedesign.com/ext/resources/Default_Images/Ed/AD-News-Wire.jpg?1481749574" type="image/jpeg" length="100061"/>
+    </item>
+    <item>
+      <title>Universality</title>
+      <author></author>
+      <description>
+        <![CDATA[<p>Things not working together. We&rsquo;ve most likely all experienced it or witnessed a friend, colleague or family member struggle with it. Recently, hearing a colleague&rsquo;s frustration I approached his desk to see what was happening. I found him attempting to plug a device into his laptop. Holding the connector in his hand, he said (verbatim), &ldquo;Why don&rsquo;t they just make this work with this!&rdquo;</p>]]>
+      </description>
+      <guid>http://www.appliancedesign.com/articles/95207</guid>
+      <pubDate>Sat, 01 Oct 2016 00:00:00 -0400</pubDate>
+      <link>http://www.appliancedesign.com/articles/95207-universality</link>
+      <enclosure url="http://www.appliancedesign.com/ext/resources/NewRDWebsite/DefaultImages/AD-Darryl-Sealand.jpg?1480612489" type="image/jpeg" length="108385"/>
+    </item>
+    <item>
+      <title>The Ultimate in Energy Efficiency is âNet Zeroâ</title>
+      <author></author>
+      <description>
+        <![CDATA[<p>According to the Department of Energy (DOE), a Zero Energy Ready Home (ZERH) is a high-performance home that is so energy efficient, its renewable energy system can offset all or most of its annual energy consumption.&nbsp;</p>]]>
+      </description>
+      <guid>http://www.appliancedesign.com/articles/95198</guid>
+      <pubDate>Sat, 01 Oct 2016 00:00:00 -0400</pubDate>
+      <link>http://www.appliancedesign.com/articles/95198-the-ultimate-in-energy-efficiency-is-net-zero</link>
+      <enclosure url="http://www.appliancedesign.com/ext/resources/issues/2016/October/Net-Zero/Net-Zero-1.jpg?1475075194" type="image/jpeg" length="135724"/>
+      <media:content url="http://www.appliancedesign.com/ext/resources/issues/2016/October/Net-Zero/Net-Zero-1.jpg?1475075194" type="image/jpeg" fileSize="135724">
+        <media:title type="plain">Net-Zero</media:title>
+        <media:description type="plain">The exterior of the in-progress New Generation Net Zero Energy Manufactured Home, built as part of a U.S. Department of Energy-funded effort to develop ultra-efficient and affordable home designs.&amp;nbsp;Source: Whirlpool Corporation.
+</media:description>
+      </media:content>
+      <media:content url="http://www.appliancedesign.com/ext/resources/issues/2016/October/Net-Zero/Net-Zero-2.jpg?1475075338" type="image/jpeg" fileSize="57392">
+        <media:title type="plain">Net-Zero</media:title>
+        <media:description type="plain">The ZERH home is outfitted with Whirlpool&amp;rsquo;s 4.2 Cu. Ft. Duet Front-Load Washer with Eco-Sanitize Cycle and Electric Dryer with EcoBoost, among other appliances.&amp;nbsp;Source: Whirlpool Corporation.
+</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>First NTIA Multistakeholder Meeting on IoT Security to Coincide with CTA Technology &amp; Standards Forum</title>
+      <description>
+        <![CDATA[<p>The first meeting of the U.S. Commerce Department&#39;s National Telecommunications and Information Administration (NTIA) multistakeholder process to improve the Internet of Things (IoT) security and upgradability will coincide with the CTA Technology &amp; Standards Forum in Austin, TX, in October.</p>
+]]>
+      </description>
+      <guid>http://www.appliancedesign.com/articles/95195</guid>
+      <pubDate>Tue, 20 Sep 2016 00:00:00 -0400</pubDate>
+      <link>http://www.appliancedesign.com/articles/95195-first-ntia-multistakeholder-meeting-on-iot-security-to-coincide-with-cta-technology-standards-forum</link>
+      <enclosure url="http://www.appliancedesign.com/ext/resources/Default_Images/Ed/AD-News-Wire.jpg?1481749574" type="image/jpeg" length="100061"/>
+    </item>
+    <item>
+      <title>The Gold Standard</title>
+      <author></author>
+      <description>
+        <![CDATA[<p>
+	In once-popular nomenclature, to refer to something as &ldquo;the gold standard&rdquo; was to imply that it was the best of something and was used as the measure of the quality of all similar other things.</p>]]>
+      </description>
+      <guid>http://www.appliancedesign.com/articles/95170</guid>
+      <pubDate>Thu, 01 Sep 2016 00:00:00 -0400</pubDate>
+      <link>http://www.appliancedesign.com/articles/95170-the-gold-standard</link>
+      <enclosure url="http://www.appliancedesign.com/ext/resources/NewRDWebsite/DefaultImages/AD-Darryl-Sealand.jpg?1480612489" type="image/jpeg" length="108385"/>
+    </item>
+    <item>
+      <title>Choose the correct display for your next product</title>
+      <author></author>
+      <description>
+        <![CDATA[<p>
+	The three key elements to success in real estate are: location, location, location.</p>]]>
+      </description>
+      <guid>http://www.appliancedesign.com/articles/95164</guid>
+      <pubDate>Thu, 01 Sep 2016 00:00:00 -0400</pubDate>
+      <link>http://www.appliancedesign.com/articles/95164-choose-the-correct-display-for-your-next-product</link>
+      <enclosure url="http://www.appliancedesign.com/ext/resources/issues/2016/September/displays-2/Negative-display.jpg?1472242775" type="image/jpeg" length="49667"/>
+      <media:content url="http://www.appliancedesign.com/ext/resources/issues/2016/September/displays-2/Negative-display.jpg?1472242775" type="image/jpeg" fileSize="49667">
+        <media:title type="plain">Negative mode LCD module</media:title>
+        <media:description type="plain">
+	Negative mode LCD module</media:description>
+      </media:content>
+      <media:content url="http://www.appliancedesign.com/ext/resources/issues/2016/September/displays-2/Positive-Display-choice-2.jpg?1472242552" type="image/jpeg" fileSize="24037">
+        <media:title type="plain">Positive mode LCD module</media:title>
+        <media:description type="plain">
+	Positive mode LCD module
+</media:description>
+      </media:content>
+      <media:content url="http://www.appliancedesign.com/ext/resources/issues/2016/September/displays-2/VATN-custom-silk-screen.jpg?1472242923" type="image/jpeg" fileSize="81298">
+        <media:title type="plain">Negative mode VATN </media:title>
+        <media:description type="plain">
+	Negative mode VATN&amp;nbsp;
+</media:description>
+      </media:content>
+      <media:content url="http://www.appliancedesign.com/ext/resources/issues/2016/September/displays-2/VATN_illustration.jpg?1472242973" type="image/jpeg" fileSize="27473">
+        <media:title type="plain">Configuration of Nematic fluid on a negative mode VATN display</media:title>
+        <media:description type="plain">
+	Configuration of Nematic fluid on a negative mode VATN display
+</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>CES Celebrates 50 Years of Tech</title>
+      <description>
+        <![CDATA[<p>
+	Since its start in 1967, CES has showcased an estimated 700,000 products.&nbsp;</p>
+]]>
+      </description>
+      <guid>http://www.appliancedesign.com/articles/95178</guid>
+      <pubDate>Tue, 30 Aug 2016 00:00:00 -0400</pubDate>
+      <link>http://www.appliancedesign.com/articles/95178-ces-celebrates-50-years-of-tech</link>
+      <enclosure url="http://www.appliancedesign.com/ext/resources/Default_Images/Ed/AD-News-Wire.jpg?1481749574" type="image/jpeg" length="100061"/>
+    </item>
+    <item>
+      <title>New App Turns Apple iOS Devices Into Professional Vibration Measurement Tools</title>
+      <description>
+        <![CDATA[<p>
+	Measurement results can be saved or emailed directly to Ace Controls.</p>]]>
+      </description>
+      <guid>http://www.appliancedesign.com/articles/95155</guid>
+      <pubDate>Fri, 12 Aug 2016 00:00:00 -0400</pubDate>
+      <link>http://www.appliancedesign.com/articles/95155-new-app-turns-apple-ios-devices-into-professional-vibration-measurement-tools</link>
+      <enclosure url="http://www.appliancedesign.com/ext/resources/Default_Images/Eds-photos/ACE_VibroCheckerPRO.jpg?1471027885" type="image/jpeg" length="171641"/>
+    </item>
+    <item>
+      <title>Power Supply</title>
+      <description>
+        <![CDATA[<p>
+	Murata has announced the D1U54P-W-1500-12 series of 1500 Watt power supplies manufactured by Murata Power Solutions.</p>]]>
+      </description>
+      <guid>http://www.appliancedesign.com/articles/95149</guid>
+      <pubDate>Mon, 01 Aug 2016 00:00:00 -0400</pubDate>
+      <link>http://www.appliancedesign.com/articles/95149-power-supply</link>
+      <enclosure url="http://www.appliancedesign.com/ext/resources/NewRDWebsite/DefaultImages/AD-New-Products.jpg?1482435312" type="image/jpeg" length="68645"/>
+    </item>
+    <item>
+      <title>Data Logger</title>
+      <description>
+        <![CDATA[<p>
+	The OM-CP-CRYO-TEMP ultra-low temperature data logger records temperatures as low as -86&deg;C (-122&deg;F).</p>]]>
+      </description>
+      <guid>http://www.appliancedesign.com/articles/95148</guid>
+      <pubDate>Mon, 01 Aug 2016 00:00:00 -0400</pubDate>
+      <link>http://www.appliancedesign.com/articles/95148-data-logger</link>
+      <enclosure url="http://www.appliancedesign.com/ext/resources/issues/2016/August/products/om-cp-cryo-temp.jpg?1470072556" type="image/jpeg" length="79163"/>
+    </item>
+    <item>
+      <title>The Engineering Survey</title>
+      <author></author>
+      <description>
+        <![CDATA[<p>
+	The average respondent of appliance DESIGN makes almost $111,000 a year, has at least a bachelor&rsquo;s degree, and is extremely satisfied with their work, according to this year&rsquo;s Engineering Profession Survey.</p>]]>
+      </description>
+      <guid>http://www.appliancedesign.com/articles/95141</guid>
+      <pubDate>Mon, 01 Aug 2016 00:00:00 -0400</pubDate>
+      <link>http://www.appliancedesign.com/articles/95141-the-engineering-survey</link>
+      <enclosure url="http://www.appliancedesign.com/ext/resources/issues/2016/August/survey/design-engineers.jpg?1470066652" type="image/jpeg" length="92456"/>
+      <media:content url="http://www.appliancedesign.com/ext/resources/issues/2016/August/survey/design-engineers.jpg?1470066652" type="image/jpeg" fileSize="92456">
+        <media:title type="plain">design-engineers</media:title>
+      </media:content>
+      <media:content url="http://www.appliancedesign.com/ext/resources/issues/2016/August/survey/Slide09.jpg?1470066751" type="image/jpeg" fileSize="51065">
+        <media:title type="plain">engineering survey</media:title>
+      </media:content>
+      <media:content url="http://www.appliancedesign.com/ext/resources/issues/2016/August/survey/Slide10.jpg?1470066775" type="image/jpeg" fileSize="49244">
+        <media:title type="plain">engineering survey</media:title>
+      </media:content>
+      <media:content url="http://www.appliancedesign.com/ext/resources/issues/2016/August/survey/Slide25.jpg?1470066797" type="image/jpeg" fileSize="41085">
+        <media:title type="plain">engineering survey</media:title>
+      </media:content>
+      <media:content url="http://www.appliancedesign.com/ext/resources/issues/2016/August/survey/Slide26.jpg?1470066817" type="image/jpeg" fileSize="53711">
+        <media:title type="plain">engineering survey</media:title>
+      </media:content>
+      <media:content url="http://www.appliancedesign.com/ext/resources/issues/2016/August/survey/Slide26b.jpg?1470066833" type="image/jpeg" fileSize="49935">
+        <media:title type="plain">engineering survey</media:title>
+      </media:content>
+      <media:content url="http://www.appliancedesign.com/ext/resources/issues/2016/August/survey/Slide27.jpg?1470066860" type="image/jpeg" fileSize="40511">
+        <media:title type="plain">engineering survey</media:title>
+      </media:content>
+      <media:content url="http://www.appliancedesign.com/ext/resources/issues/2016/August/survey/Slide27b.jpg?1470066878" type="image/jpeg" fileSize="38350">
+        <media:title type="plain">engineering survey</media:title>
+      </media:content>
+    </item>
+    <item>
+      <title>CTA Midyear Forecast: IoT Adoption, Emerging Tech Driving Technology Industry to Revenue Growth</title>
+      <description>
+        <![CDATA[<p>
+	Sales of burgeoning tech products such as wearables, smart home devices and drones will deliver an increase of 1.3 percent over last year&rsquo;s industry revenues.</p>
+]]>
+      </description>
+      <guid>http://www.appliancedesign.com/articles/95129</guid>
+      <pubDate>Mon, 18 Jul 2016 00:00:00 -0400</pubDate>
+      <link>http://www.appliancedesign.com/articles/95129-cta-midyear-forecast-iot-adoption-emerging-tech-driving-technology-industry-to-revenue-growth</link>
+      <enclosure url="http://www.appliancedesign.com/ext/resources/Default_Images/Ed/AD-News-Wire.jpg?1481749574" type="image/jpeg" length="100061"/>
+    </item>
+    <item>
+      <title>The Creation of an Effective Product Life Cycle Process</title>
+      <description>
+        <![CDATA[<p>
+	Over the past ten years there has been a significant focus on companies becoming &ldquo;lean.&rdquo;</p>]]>
+      </description>
+      <guid>http://www.appliancedesign.com/articles/95103</guid>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 -0400</pubDate>
+      <link>http://www.appliancedesign.com/articles/95103-the-creation-of-an-effective-product-life-cycle-process</link>
+      <media:content url="http://www.appliancedesign.com/ext/resources/issues/2016/July/shielding/aorbel_lifecycle.jpg?1467305792" type="image/jpeg" fileSize="67097">
+        <media:title type="plain">The Creation of an Effective Product Life Cycle Process</media:title>
+      </media:content>
+      <media:content url="http://www.appliancedesign.com/ext/resources/issues/2016/July/shielding/bcustombls.jpg?1467306318" type="image/jpeg" fileSize="57957">
+        <media:title type="plain">The Creation of an Effective Product Life Cycle Process</media:title>
+        <media:description type="plain">
+	Figure 3: By consistently utilizing a tested and proven Life Cycle Process, companies are able to fulfill custom board level shielding orders ranging from hundreds of pieces to hundreds of thousands.&amp;nbsp;
+</media:description>
+      </media:content>
+      <media:content url="http://www.appliancedesign.com/ext/resources/issues/2016/July/shielding/cDSC-10-08-10-010.jpg?1467306354" type="image/jpeg" fileSize="85600">
+        <media:title type="plain">The Creation of an Effective Product Life Cycle Process</media:title>
+        <media:description type="plain">
+	Figure 2: With chemical milling, plating, metal forming, custom stamping, and heat treating under one roof, it&amp;rsquo;s possible to offer clients a full range of EMI shielding products and other precision components.
+</media:description>
+      </media:content>
+    </item>
+  </channel>
+</rss>

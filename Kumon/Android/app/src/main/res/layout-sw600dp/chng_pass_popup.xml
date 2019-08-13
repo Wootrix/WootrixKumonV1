@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@color/trans_75_bg"
+    android:gravity="right"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:id="@+id/chng_email_popup_main_lnrlyt"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="right"
+        android:gravity="right"
+        android:orientation="vertical"
+        android:paddingRight="@dimen/margin_5">
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingRight="@dimen/margin_8"
+            android:src="@drawable/popover_arrow" />
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/btn_white_file"
+            android:minHeight="400dp"
+            android:orientation="vertical">
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/popover_header"
+                android:gravity="center_vertical"
+                android:orientation="horizontal">
+
+                <ImageView
+                    android:id="@+id/chng_pass_popup_back_imgVw"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:src="@drawable/icon_back" />
+
+                <TextView
+                    android:id="@+id/chng_pass_popup_header_title_imgVw"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:gravity="center"
+                    android:paddingRight="@dimen/margin_10"
+                    android:text="@string/header_chng_pass"
+                    android:textColor="@color/black_heading"
+                    android:textSize="@dimen/text_size_20" />
+
+                <TextView
+                    android:id="@+id/change_pass_popup_done_txt"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:gravity="center"
+                    android:padding="@dimen/margin_10"
+                    android:text="@string/lbl_done_cap"
+                    android:textColor="@color/black_heading"
+                    android:textSize="@dimen/text_size_16" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:paddingRight="@dimen/margin_10">
+
+                <EditText
+                    android:id="@+id/change_pass_old_pass_txtVw"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="@dimen/margin_5"
+                    android:background="@android:color/transparent"
+                    android:hint="@string/lbl_old_pass"
+                    android:inputType="textPassword"
+                    android:padding="@dimen/margin_5"
+                    android:textColor="#3c3c3c"
+                    android:textSize="@dimen/text_size_18"></EditText>
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:src="@drawable/seprator" />
+
+                <EditText
+                    android:id="@+id/change_pass_new_pass_txtVw"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="@dimen/margin_5"
+                    android:background="@android:color/transparent"
+                    android:hint="@string/lbl_new_pass"
+                    android:inputType="textPassword"
+                    android:padding="@dimen/margin_5"
+                    android:textColor="#3c3c3c"
+                    android:textSize="@dimen/text_size_18"></EditText>
+
+                <ImageView
+                    android:id="@+id/imageView1"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:src="@drawable/seprator" />
+
+                <EditText
+                    android:id="@+id/change_pass_confirm_new_pass_txtVw"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="@dimen/margin_5"
+                    android:background="@android:color/transparent"
+                    android:hint="@string/lbl_confirm_new_pass"
+                    android:inputType="textPassword"
+                    android:padding="@dimen/margin_5"
+                    android:textColor="#3c3c3c"
+                    android:textSize="@dimen/text_size_18"></EditText>
+
+                <ImageView
+                    android:id="@+id/imageView2"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:src="@drawable/seprator" />
+            </LinearLayout>
+        </LinearLayout>
+    </LinearLayout>
+
+</FrameLayout>

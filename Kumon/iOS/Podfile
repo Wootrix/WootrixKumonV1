@@ -1,0 +1,42 @@
+# Uncomment this line to define a global platform for your project
+platform :ios, '7.0'
+
+use_frameworks!
+
+target 'Wootrix' do
+pod 'AFNetworking', '~> 2.0'
+
+pod 'JSONModel'
+
+pod 'Reachability'
+
+pod 'IOSLinkedInAPI'
+pod 'Firebase/Core'
+pod 'Firebase/Messaging'
+pod 'googleplus-ios-sdk'
+
+pod 'TTTAttributedLabel'
+
+pod 'CocoaLumberjack', '~> 1.9'
+
+pod 'SVProgressHUD'
+
+#pod 'ConflictingLibrary'
+end
+
+target 'WootrixTests' do
+
+end
+
+target 'WootrixDev' do
+
+end
+
+target 'WootrixTest' do
+
+end
+
+target 'WootrixStage' do
+
+end
+

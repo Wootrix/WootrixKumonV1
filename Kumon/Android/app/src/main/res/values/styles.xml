@@ -1,0 +1,94 @@
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!--
+        Base application theme, dependent on API level. This theme is replaced
+        by AppBaseTheme from res/values-vXX/styles.xml on newer devices.
+    -->
+    <style name="AppBaseTheme" parent="android:Theme.Light.NoTitleBar">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+
+    <!-- Application theme. -->
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+
+    <style name="custom_dialog_theme" parent="android:Theme.Holo.Dialog">
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowTitleStyle">@null</item>
+        <item name="android:windowAnimationStyle">@android:style/Animation.Dialog</item>
+        <item name="android:windowSoftInputMode">stateUnspecified|adjustPan</item>
+        <item name="android:backgroundDimEnabled">false</item>
+        <item name="android:background">@android:color/transparent</item>
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+
+    <!-- //style for the imageview for phone_home_screen -->
+    <!-- android:layout_width="fill_parent" -->
+    <!-- android:layout_height="fill_parent" -->
+    <!-- android:scaleType="fitXY" -->
+    <!-- android:src="@drawable/article_layout_placeholder" -->
+
+    <style name="phone_bg_image_view_style">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">fill_parent</item>
+        <item name="android:scaleType">fitXY</item>
+        <item name="android:contentDescription">@string/action_settings</item>
+        <item name="android:src">@drawable/article_layout_placeholder</item>
+    </style>
+
+    <style name="phone_play_image_view_style">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_gravity">center</item>
+        <item name="android:src">@drawable/icon_play</item>
+        <item name="android:visibility">gone</item>
+    </style>
+
+    <style name="phone_txtview_header_style">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textSize">@dimen/text_size_26</item>
+        <item name="android:maxLines">2</item>
+        <item name="android:text">Hello</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="phone_txtview_time_style">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textSize">@dimen/text_size_20</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:text">Hello</item>
+        <item name="android:drawableLeft">@drawable/icon_time</item>
+        <item name="android:drawablePadding">@dimen/margin_3</item>
+    </style>
+
+    <style name="phone_txtview_url_style">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textSize">@dimen/text_size_20</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:text">Hello</item>
+        <item name="android:textColor">@color/color_blue</item>
+        <item name="android:drawableLeft">@drawable/icon_web_url</item>
+        <item name="android:drawablePadding">@dimen/margin_3</item>
+    </style>
+
+    <style name="phone_txtview_desc_style">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textSize">@dimen/text_size_22</item>
+        <item name="android:maxLines">3</item>
+        <item name="android:ellipsize">end</item>
+        <item name="android:text">Hello</item>
+    </style>
+
+</resources>

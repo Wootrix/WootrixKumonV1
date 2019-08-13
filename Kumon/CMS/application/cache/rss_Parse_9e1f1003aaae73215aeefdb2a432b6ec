@@ -1,0 +1,1133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Wire Processing Assembly</title>
+    <description>
+      <![CDATA[Articles about stripping, cutting, crimping, assembling and testing wire and cable.]]>
+    </description>
+    <link>http://www.assemblymag.com/rss</link>
+    <language>en-us</language>
+    <item>
+      <title>Automatic Cut, Strip and Crimp Machines</title>
+      <author>camilloj@bnpmedia.com (Jim Camillo)</author>
+      <description>
+        <![CDATA[<p>Every worker and piece of equipment must multitask if a company is to be successful. This is the business philosophy of most wire harness manufacturers, particularly those that are small, like Manufacturing Resource Group (MRG).</p>
+]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93685</guid>
+      <pubDate>Fri, 06 Jan 2017 00:00:00 -0500</pubDate>
+      <link>http://www.assemblymag.com/articles/93685-automatic-cut-strip-and-crimp-machines</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Issues/2017/January/wp-csc/csc1.jpg?1483720479" type="image/jpeg" length="79940"/>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2017/January/wp-csc/csc1.jpg?1483720479" type="image/jpeg" fileSize="79940">
+        <media:title type="plain">1</media:title>
+        <media:description type="plain">Up to five sizes of ferrules can be terminated at one time by the CM 1/5 GS module, when used with the Zeta 630 machine. Photo courtesy Komax Corp.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2017/January/wp-csc/asb0117CSC2.jpg?1483720509" type="image/jpeg" fileSize="60744">
+        <media:title type="plain">2</media:title>
+        <media:description type="plain">Harness manufacturers can integrate the CrimpCenter 36 S machine with up to six processing stations (three for crimping). The machine handles 26 to 12 AWG wire and feeds it at up to 26.3 fps. Photo courtesy Schleuniger Inc.
+</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>Wire Harness Manufacturer Produces Quality Products in the Hearland</title>
+      <description>
+        <![CDATA[<p>The key to Blichmann Engineering&rsquo;s Tower of Power home-brewing system is its temperature control module, which monitors and adjusts the temperature of mash as it is being circulated.</p>
+]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93684</guid>
+      <pubDate>Fri, 06 Jan 2017 00:00:00 -0500</pubDate>
+      <link>http://www.assemblymag.com/articles/93684-wire-harness-manufacturer-produces-quality-products-in-the-hearland</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Issues/2017/January/wp-altex/asb0117altex1.jpg?1483719669" type="image/jpeg" length="95012"/>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2017/January/wp-altex/asb0117altex1.jpg?1483719669" type="image/jpeg" fileSize="95012">
+        <media:title type="plain">1</media:title>
+        <media:description type="plain">Rick Bromm points out the newest piece of equipment at the ALTEX facility in Westfield, IN. ALTEX invested in the Schleuniger MegaStrip 9650 to increase the size of the cable it can cut and strip. The machine handles cable up to 35 millimeters in diameter. Photo by Michael E. Fitzgerald
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2017/January/wp-altex/asb0117altex2.jpg?1483719734" type="image/jpeg" fileSize="87695">
+        <media:title type="plain">2</media:title>
+        <media:description type="plain">Temperature control modules for Blichmann Engineering&amp;rsquo;s homebrewing systems are manufactured, tested and packaged at ALTEX&amp;rsquo;s Indiana facility. Photo courtesy by Michael E. Fitzgerald
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2017/January/wp-altex/asb0117altex3.jpg?1483719761" type="image/jpeg" fileSize="61930">
+        <media:title type="plain">3</media:title>
+        <media:description type="plain">Devanta Guzman assembles a harness for a wheelchair lift at ALTEX&amp;rsquo;s Indiana facility. Photo courtesy by Michael E. Fitzgerald
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2017/January/wp-altex/asb0117altex5.jpg?1483719799" type="image/jpeg" fileSize="73593">
+        <media:title type="plain">5</media:title>
+        <media:description type="plain">Using a cordless screwdriver, Daphne Song works on cables for mail-sorting equipment. Photo courtesy by Michael E. Fitzgerald
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2017/January/wp-altex/asb0117altex6.jpg?1483719831" type="image/jpeg" fileSize="73825">
+        <media:title type="plain">6</media:title>
+        <media:description type="plain">Rick Bromm explains that one of the labor-intensive jobs at ALTEX is cutting individual wires to different lengths. Operators use a strip-crimp machine to strip the wires and terminate the individual conductors. Then, they insert the terminals into housings and test for continuity and functionality with poka-yoke fixturing. Photo courtesy by Michael E. Fitzgerald
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2017/January/wp-altex/asb0117altex7.jpg?1483719868" type="image/jpeg" fileSize="75002">
+        <media:title type="plain">7</media:title>
+        <media:description type="plain">Through its design-assist services, ALTEX modified the process-control monitoring system it assembles for injection-molding machines. ALTEX engineers made the system smaller and networkable. Photo courtesy by Michael E. Fitzgerald
+</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>The Impact of the LV 214-4 Standard</title>
+      <description>
+        <![CDATA[<p>It goes without saying that every manufacturer wants to ensure they are assembling a quality product. Standards and specifications from various organizations provide a guideline from which manufacturers can measure different aspects of quality, while also providing the customer with the reassurance that they are purchasing a trustworthy, long-lasting product.</p>]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93683</guid>
+      <pubDate>Fri, 06 Jan 2017 00:00:00 -0500</pubDate>
+      <link>http://www.assemblymag.com/articles/93683-the-impact-of-the-lv-214-4-standard</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Issues/2017/January/WP-standard/stand1.jpg?1483718411" type="image/jpeg" length="58600"/>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2017/January/WP-standard/stand1.jpg?1483718411" type="image/jpeg" fileSize="58600">
+        <media:title type="plain">1</media:title>
+        <media:description type="plain">Developed by German carmakers, the new LV 214-4 standard outlines the requirements for terminals for automotive wiring. Photo courtesy American Autowire Inc.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2017/January/WP-standard/asb0117stand2a.jpg?1483718484" type="image/jpeg" fileSize="36566">
+        <media:title type="plain">2</media:title>
+        <media:description type="plain">A. LV 214-4 defines what an empty crimp is. In a good crimp, the conductor crimp is filled with all wire strands, while the insulation crimp contains all the undamaged insulation material (photos B and D). Crimp parameters are at the nominal values as specified by the manufacturer. An empty crimp has a full insulation crimp, but the conductor crimp is empty (photos A and C). Photos courtesy Schleuniger Inc.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2017/January/WP-standard/asb0117stand2b.jpg?1483718520" type="image/jpeg" fileSize="40291">
+        <media:title type="plain">2b</media:title>
+        <media:description type="plain">B. LV 214-4 defines what an empty crimp is. In a good crimp, the conductor crimp is filled with all wire strands, while the insulation crimp contains all the undamaged insulation material (photos B and D). Crimp parameters are at the nominal values as specified by the manufacturer. An empty crimp has a full insulation crimp, but the conductor crimp is empty (photos A and C). Photos courtesy Schleuniger Inc.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2017/January/WP-standard/asb0117stand2c.jpg?1483718559" type="image/jpeg" fileSize="40169">
+        <media:title type="plain">2c</media:title>
+        <media:description type="plain">C. LV 214-4 defines what an empty crimp is. In a good crimp, the conductor crimp is filled with all wire strands, while the insulation crimp contains all the undamaged insulation material (photos B and D). Crimp parameters are at the nominal values as specified by the manufacturer. An empty crimp has a full insulation crimp, but the conductor crimp is empty (photos A and C). Photos courtesy Schleuniger Inc.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2017/January/WP-standard/asb0117stand2d.jpg?1483718602" type="image/jpeg" fileSize="42232">
+        <media:title type="plain">2d</media:title>
+        <media:description type="plain">D. LV 214-4 defines what an empty crimp is. In a good crimp, the conductor crimp is filled with all wire strands, while the insulation crimp contains all the undamaged insulation material (photos B and D). Crimp parameters are at the nominal values as specified by the manufacturer. An empty crimp has a full insulation crimp, but the conductor crimp is empty (photos A and C). Photos courtesy Schleuniger Inc.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2017/January/WP-standard/asb0117stand31.jpg?1483718634" type="image/jpeg" fileSize="78517">
+        <media:title type="plain">3</media:title>
+        <media:description type="plain">Under the LV 214-4 standard, a crimp force monitor must be able to detect an assembly with 30 percent insulation inside the crimp. Photo courtesy Schleuniger Inc.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2017/January/WP-standard/asb0117stand11.jpg?1483718672" type="image/jpeg" fileSize="70599">
+        <media:title type="plain">4</media:title>
+        <media:description type="plain">For many years, crimp force monitors have analyzed the total area under the crimp curve. However, the new LV 214-4 standard defines four area segments: one for good crimps and one for each error mode (empty crimp, missing strands and insulation-in-the-crimp). Illustration courtesy Schleuniger Inc.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2017/January/WP-standard/asb0117stand4.jpg?1483718709" type="image/jpeg" fileSize="77397">
+        <media:title type="plain">5</media:title>
+        <media:description type="plain">Headroom is the difference between the peak forces of the average good crimp and empty crimp curves, also expressed as a percentage. Illustration courtesy Schleuniger Inc.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2017/January/WP-standard/asb0117stand5.jpg?1483718738" type="image/jpeg" fileSize="76112">
+        <media:title type="plain">6</media:title>
+        <media:description type="plain">The LV 214-4 standard provides a formula to determine specific locations for X0 and X1. X0 is generally where the good crimp and the insulation-in-the-crimp curves begin to diverge. X1 is generally where the good crimp and empty crimp curves begin to diverge. Illustration courtesy Schleuniger Inc.
+</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>Options for Protecting Wire Harnesses</title>
+      <author>webera@bnpmedia.com (Austin Weber)</author>
+      <description>
+        <![CDATA[<p>This time of the year, many homeowners in the Midwest and Northeast start covering their barbecue grills, patio furniture, rosebushes and swimming pools. The type of cover they choose can make a big difference in how those objects survive cold winter temperatures and heavy snow.</p>]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93589</guid>
+      <pubDate>Tue, 04 Oct 2016 00:00:00 -0400</pubDate>
+      <link>http://www.assemblymag.com/articles/93589-options-for-protecting-wire-harnesses</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Issues/2016/October/Covering/asb1016covering1.jpg?1475600761" type="image/jpeg" length="96070"/>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/October/Covering/asb1016covering1.jpg?1475600761" type="image/jpeg" fileSize="96070">
+        <media:title type="plain">1</media:title>
+        <media:description type="plain">Cable and wire coverings provide an extra layer of insulation and protection from abrasion, chemicals, heat, moisture and vibration. Photo courtesy Panduit Corp.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/October/Covering/asb1016covering2.jpg?1475600839" type="image/jpeg" fileSize="140183">
+        <media:title type="plain">2</media:title>
+        <media:description type="plain">Partially coated sleeves are a popular alternative to adhesive tape. Photo courtesy Tesa Tape Inc.
+</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>Automated Processing of Small RF and Coax Cables</title>
+      <description>
+        <![CDATA[<p>Cell phones, tablets, GPS devices and other mobile electronics are smaller, thinner, lighter and more powerful than ever. Wireless Internet connections, RFID and Bluetooth have become essential features of these devices, necessitating highly complex transmission mechanisms.</p>]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93588</guid>
+      <pubDate>Tue, 04 Oct 2016 00:00:00 -0400</pubDate>
+      <link>http://www.assemblymag.com/articles/93588-automated-processing-of-small-rf-and-coax-cables</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Issues/2016/October/Coax/asb1016coax2.jpg?1475599126" type="image/jpeg" length="83873"/>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/October/Coax/asb1016coax1.jpg?1475599052" type="image/jpeg" fileSize="29782">
+        <media:title type="plain">1</media:title>
+        <media:description type="plain">Fully automatic cutting, stripping and crimping machines like this one are required for processing ultra-miniature RF cables in high-volume operations. Photo courtesy Schleuniger Inc.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/October/Coax/asb1016coax2.jpg?1475599126" type="image/jpeg" fileSize="83873">
+        <media:title type="plain">2</media:title>
+        <media:description type="plain">Ultra-miniature RF cable assemblies are now common in mobile electronics. These cables connect tiny antennas to the circuit board. Photo courtesy Schleuniger Inc.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/October/Coax/asb1016coax3.jpg?1475599154" type="image/jpeg" fileSize="92118">
+        <media:title type="plain">3</media:title>
+        <media:description type="plain">The rotary stripper on the CoaxCenter 6000 can handle cables ranging from 40 AWG to 5.5 millimeters in diameter. Photo courtesy Schleuniger Inc.
+</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>Cable Manufacturer Goes From Generally Good to Specifically Great</title>
+      <author>camilloj@bnpmedia.com (Jim Camillo)</author>
+      <description>
+        <![CDATA[<p>Ray Berst is the founder and president of Components Express Inc. (CEI), a Woodridge, IL-based manufacturer that specializes in custom machine-vision cables.</p>
+]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93587</guid>
+      <pubDate>Tue, 04 Oct 2016 00:00:00 -0400</pubDate>
+      <link>http://www.assemblymag.com/articles/93587-cable-manufacturer-goes-from-generally-good-to-specifically-great</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Issues/2016/October/Cables/asb1016CE1.jpg?1475596259" type="image/jpeg" length="125629"/>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/October/Cables/asb1016CE1.jpg?1475596259" type="image/jpeg" fileSize="125629">
+        <media:title type="plain">1</media:title>
+        <media:description type="plain">Cables for many of Components Express&amp;rsquo;s military and aerospace customers feature IDC-type very high density connectors. Photo by Jim Camillo
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/October/Cables/asb1016CE2.jpg?1475596402" type="image/jpeg" fileSize="74832">
+        <media:title type="plain">2</media:title>
+        <media:description type="plain">Although CEI specializes in multiconductor machine vision cables, its workers also assemble various electrical components, such as cigarette lighter plugs. Wires in this plug have just been soldered. Photo by Jim Camillo
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/October/Cables/asb1016CE3.jpg?1475596431" type="image/jpeg" fileSize="142815">
+        <media:title type="plain">3</media:title>
+        <media:description type="plain">Forty people work at Woodridge full-time, including 25 in assembly and production. Photo by Jim Camillo
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/October/Cables/asb1016CE4.jpg?1475596466" type="image/jpeg" fileSize="134251">
+        <media:title type="plain">4</media:title>
+        <media:description type="plain">Wires are cleaned before and after soldering to ensure optimum cable performance. Photo by Jim Camillo
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/October/Cables/asb1016CE5.jpg?1475596496" type="image/jpeg" fileSize="170082">
+        <media:title type="plain">5</media:title>
+        <media:description type="plain">Finished cables are bagged, labeled and stacked in a staging area for quality inspection. After the inspector checks the cable to verify the accuracy of the label, he signs off on the order and places a second sticker on the bag. Photo by Jim Camillo
+</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>Choose the Best Parts for Your Wire Harness</title>
+      <description>
+        <![CDATA[<p>
+	A key component of any electronic or electrical system is the cable assembly or wire harness&mdash;and yet it is typically one of the last components to be addressed.</p>]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93478</guid>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 -0400</pubDate>
+      <link>http://www.assemblymag.com/articles/93478-choose-the-best-parts-for-your-wire-harness</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Issues/2016/July/epec/asb0716epec1.jpg?1467219505" type="image/jpeg" length="52693"/>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/July/epec/asb0716epec1.jpg?1467219505" type="image/jpeg" fileSize="52693">
+        <media:title type="plain">1</media:title>
+        <media:description type="plain">
+	Stranded conductors (right) are more flexible than solid conductors (left). Both are bare, unplated copper. Photo courtesy Epec Engineered Technologies
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/July/epec/asb0716epec2.jpg?1467219565" type="image/jpeg" fileSize="41141">
+        <media:title type="plain">2</media:title>
+        <media:description type="plain">
+	This cable consists of individual insulated conductors wrapped with a foil shield and enclosed by a polymer sheath. Photo courtesy Epec Engineered Technologies
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/July/epec/asb0716epec3.jpg?1467219591" type="image/jpeg" fileSize="33061">
+        <media:title type="plain">3</media:title>
+        <media:description type="plain">
+	This cable has both foil and braided shields to control electromagnetic and radio frequency interference. Photo courtesy Epec Engineered Technologies
+</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>Automatic Cutting and Stripping Machines</title>
+      <author>camilloj@bnpmedia.com (Jim Camillo)</author>
+      <description>
+        <![CDATA[<p>
+	Without a sculptor, a piece of clay or marble can never reach its full artistic potential. Rotary, V and die blades in automatic cutting and stripping (CAS) machines serve a similar role to help conductive wire and cable achieve its full electric potential as part of a harness.</p>
+]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93477</guid>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 -0400</pubDate>
+      <link>http://www.assemblymag.com/articles/93477-automatic-cutting-and-stripping-machines</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Issues/2016/July/cutStrip/asb0716CutStrip1.jpg?1467214968" type="image/jpeg" length="68305"/>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/July/cutStrip/asb0716CutStrip1.jpg?1467214968" type="image/jpeg" fileSize="68305">
+        <media:title type="plain">1</media:title>
+        <media:description type="plain">
+	The Kappa 331 machine features the Kappa Sensorik laser sensor, which automatically detects the wire conductor and then uses inductive measuring to determine its diameter. Photo courtesy Komax Wire
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/July/cutStrip/asb0716CutStrip2.jpg?1467215026" type="image/jpeg" fileSize="127168">
+        <media:title type="plain">2</media:title>
+        <media:description type="plain">
+	Five versions of the MultiStrip 9480 machine feature a multiposition indexing cutter head. Photo courtesy Schleuniger Inc.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/July/cutStrip/asb0716CutStrip3.jpg?1467215056" type="image/jpeg" fileSize="67098">
+        <media:title type="plain">3</media:title>
+        <media:description type="plain">
+	Manufacturers can use the standalone MultiStrip 9480 machine to cut and strip 32 to 8 AWG wire as short as 2.3 inches, and as long as 3,281 feet. Photo courtesy Schleuniger Inc.
+</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>Handling High-Mix Harness Assembly</title>
+      <author>sprovierij@bnpmedia.com (John Sprovieri)</author>
+      <description>
+        <![CDATA[<p>
+	Contract manufacturer Electronic Technologies International Inc. (ETI) has been in business for more than 25 years. With approximately 75 employees working in two shifts, the company provides printed circuit board (PCB) assembly, wire harness assembly and box build services at a 32,000-square-foot, ISO 9001 certified manufacturing facility in Fort Atkinson, WI.</p>
+]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93476</guid>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 -0400</pubDate>
+      <link>http://www.assemblymag.com/articles/93476-handling-high-mix-harness-assembly</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Issues/2016/July/highmix/asb0716high2.jpg?1467212800" type="image/jpeg" length="190206"/>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/July/highmix/asb0716high1.jpg?1467212986" type="image/jpeg" fileSize="205393">
+        <media:title type="plain">1</media:title>
+        <media:description type="plain">
+	High-mix production is all about hewing to standard operating procedures. Photo courtesy Electri-Cord Manufacturing Co.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/July/highmix/asb0716high2.jpg?1467212800" type="image/jpeg" fileSize="190206">
+        <media:title type="plain">2</media:title>
+        <media:description type="plain">
+	The biggest challenges of high-mix production are managing changeovers and maintaining consistency. Photo courtesy Aucotec AG
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/July/highmix/asb0716high3.jpg?1467212880" type="image/jpeg" fileSize="167071">
+        <media:title type="plain">3</media:title>
+        <media:description type="plain">
+	To minimize changeover time, engineers can try to combine like setups whenever possible. Photo courtesy Fero
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/July/highmix/asb0716high4.jpg?1467212912" type="image/jpeg" fileSize="142688">
+        <media:title type="plain">4</media:title>
+        <media:description type="plain">
+	Enterprise resource planning software can help high-mix assemblers schedule jobs, batch setups and manage inventory. Photo courtesy SMC Manufacturing Services
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/July/highmix/asb0716high5.jpg?1467212949" type="image/jpeg" fileSize="76668">
+        <media:title type="plain">5</media:title>
+        <media:description type="plain">
+	When high-mix assemblers consider new equipment, they look for features to maximize flexibility, such as modular cutter blocks and quickchange applicators. Photo courtesy Schaefer Technologies LLC
+</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>Software Links Mechanical, Electrical Design</title>
+      <author>sprovierij@bnpmedia.com (John Sprovieri)</author>
+      <description>
+        <![CDATA[<p>
+	Harness design software interfaces with other software tools to reduce development time and prevent errors.</p>
+]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93380</guid>
+      <pubDate>Fri, 29 Apr 2016 00:00:00 -0400</pubDate>
+      <link>http://www.assemblymag.com/articles/93380-software-links-mechanical-electrical-design</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Issues/2016/April/wire-software/asb0416eplan1.jpg?1461940159" type="image/jpeg" length="207891"/>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/April/wire-software/asb0416eplan1.jpg?1461940159" type="image/jpeg" fileSize="207891">
+        <media:title type="plain">1</media:title>
+        <media:description type="plain">
+	Wire harness design software is helping a Chinese train manufacturer eliminate errors and save engineering time. Photo courtesy CSR Zhuzhou Electric Locomotive Research Institute Co. Ltd.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/April/wire-software/asb0416eplan2.jpg?1461940220" type="image/jpeg" fileSize="111797">
+        <media:title type="plain">2</media:title>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/April/wire-software/asb0416eplan3.jpg?1461940259" type="image/jpeg" fileSize="122291">
+        <media:title type="plain">3</media:title>
+        <media:description type="plain">
+	Changes to the positioning of connections can be made simply by clicking and dragging with a mouse. All resulting data are adjusted automatically. Photo courtesy EPLAN Software &amp;amp; Service
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/April/wire-software/asb0416eplan4.jpg?1461940273" type="image/jpeg" fileSize="123204">
+        <media:title type="plain">4</media:title>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/April/wire-software/asb0416eplan5.jpg?1461940306" type="image/jpeg" fileSize="61705">
+        <media:title type="plain">5</media:title>
+        <media:description type="plain">
+	Harness proD software can send and receive data from EPLAN&amp;rsquo;s Electric P8 software for electrical planning and engineering. Photo courtesy EPLAN Software &amp;amp; Service
+</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>Rules for Routing Aircraft Wiring</title>
+      <description>
+        <![CDATA[<p>
+	When routing a wiring harness in an aircraft, engineers should pay attention to the proximity of the wires to hydraulic lines, mechanical cables and other parts.</p>]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93379</guid>
+      <pubDate>Fri, 29 Apr 2016 00:00:00 -0400</pubDate>
+      <link>http://www.assemblymag.com/articles/93379-rules-for-routing-aircraft-wiring</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Issues/2016/April/aircraftWiring/asb0416lectromec6.jpg?1461939389" type="image/jpeg" length="177005"/>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/April/aircraftWiring/asb0416lectromec1.jpg?1461939148" type="image/jpeg" fileSize="69920">
+        <media:title type="plain">1</media:title>
+        <media:description type="plain">
+	Figure 1 This figure shows a wiring harness routed near a pressurized hydraulic line. Federal regulations require a safe distance between the harness and the line. Illustration courtesy Lectromec
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/April/aircraftWiring/asb0416lectromec2.jpg?1461939256" type="image/jpeg" fileSize="91853">
+        <media:title type="plain">2</media:title>
+        <media:description type="plain">
+	Figure 2 The signal harness (cyan) is within 2 inches of the closest power-carrying harness (blue). Our analysis found that the power cables produced no EMI on the shielded cables in the signal harness. Illustration courtesy Lectromec
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/April/aircraftWiring/asb0416lectromec3.jpg?1461939296" type="image/jpeg" fileSize="104905">
+        <media:title type="plain">3</media:title>
+        <media:description type="plain">
+	Figure 3 Arcing from a cable can adversely affect nearby components. Here, arcing from a breach in the wiring insulation would likely start at the clamps. Illustration courtesy Lectromec
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/April/aircraftWiring/asb0416lectromec4.jpg?1461939326" type="image/jpeg" fileSize="84304">
+        <media:title type="plain">4</media:title>
+        <media:description type="plain">
+	Figure 4 In this example, three wire harnesses are routed near a fuel line. Harness 1 is routed beneath the line, but it is protected by a shroud. Harness 2 is routed above and perpendicular to the fuel line, but the supporting clamps are too far apart to prevent sagging and chaffing on the tube. Harness 3 is routed horizontally, parallel to the line, which is not an issue. However, the separation distance is less than the allowed distance as defined by a damage assessment. Illustration courtesy Lectromec
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/April/aircraftWiring/asb0416lectromec5.jpg?1461939357" type="image/jpeg" fileSize="93702">
+        <media:title type="plain">5</media:title>
+        <media:description type="plain">
+	Figure 5 Critical clamp markers indicate where a clamp should be placed on a harness. They provide a quick visual reference to a maintenance technician if there is a misalignment of a harness or a harness has slid from its designed location. Illustration courtesy Lectromec
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/April/aircraftWiring/asb0416lectromec6.jpg?1461939389" type="image/jpeg" fileSize="177005">
+        <media:title type="plain">6</media:title>
+        <media:description type="plain">
+	The performance of an aerospace wiring harness depends as much on its location in the overall assembly as it does on the wires themselves. Photo courtesy ELFON Ltd.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/April/aircraftWiring/asb0416lectromec7.jpg?1461939423" type="image/jpeg" fileSize="164475">
+        <media:title type="plain">7</media:title>
+        <media:description type="plain">
+	Heat from nearby components can adversely affect the performance of an aerospace wiring harness. Photo courtesy Co-Operative Industries Aerospace &amp;amp; Defense
+</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>Boeing: Wired for Success</title>
+      <author>webera@bnpmedia.com (Austin Weber)</author>
+      <description>
+        <![CDATA[<p>
+	When Boeing was founded 100 years ago, engineers were concerned about how to use wiring to brace wings. As aircraft became more complex, engineers turned their attention to solving numerous wire harness assembly challenges. Many of their innovative solutions have been chronicled in the pages of ASSEMBLY magazine.</p>
+]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93378</guid>
+      <pubDate>Thu, 28 Apr 2016 11:30:00 -0400</pubDate>
+      <link>http://www.assemblymag.com/articles/93378-boeing-wired-for-success</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Default_Images/asb-webex-graphic.jpg?1461860732" type="image/jpeg" length="30359"/>
+    </item>
+    <item>
+      <title>How To Select and Install M85049/128 Shield Termination Bands Onto Wire Harnesses</title>
+      <description>
+        <![CDATA[<p>
+	SAE AS85049 Specification was established to standardize shield termination bands.</p>
+]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93307</guid>
+      <pubDate>Mon, 07 Mar 2016 00:00:00 -0500</pubDate>
+      <link>http://www.assemblymag.com/articles/93307-how-to-select-and-install-m--shield-termination-bands-onto-wire-harnesses</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Issues/2016/HowTo/asbht0316_daniels_Band-1-Step-02-Edited.jpg?1457720654" type="image/jpeg" length="56443"/>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/HowTo/asbht0316_daniels_Band-1-Step-02-Edited.jpg?1457720654" type="image/jpeg" fileSize="56443">
+        <media:title type="plain">daniels</media:title>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/HowTo/asbht0316_daniels_Band-2-Step-02-Edited.jpg?1457720717" type="image/jpeg" fileSize="49923">
+        <media:title type="plain">daniels 2</media:title>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/HowTo/asbht0316_daniels_Banding-Tools-2-step-.jpg?1457720732" type="image/jpeg" fileSize="48617">
+        <media:title type="plain">daniels 3</media:title>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/HowTo/asbht0316_daniels_BW-EMI12-no-trp.jpg?1457720753" type="image/jpeg" fileSize="77251">
+        <media:title type="plain">daniels 4</media:title>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/HowTo/asbht0316_daniels_BW-EMI13-no-trp.jpg?1457720774" type="image/jpeg" fileSize="78889">
+        <media:title type="plain">daniels 5</media:title>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/HowTo/asbht0316_daniels_BW-EMI15-no-trp.jpg?1457720791" type="image/jpeg" fileSize="76833">
+        <media:title type="plain">daniels 6</media:title>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/HowTo/asbht0316_daniels_BW-EMI16-no-trp.jpg?1457720813" type="image/jpeg" fileSize="47861">
+        <media:title type="plain">daniels 7</media:title>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/HowTo/asbht0316_daniels_BW-EMI17c-no-trp.jpg?1457720833" type="image/jpeg" fileSize="72412">
+        <media:title type="plain">daniels 8</media:title>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/HowTo/asbht0316_daniels_BW-EMI18-no-trp.jpg?1457720853" type="image/jpeg" fileSize="94227">
+        <media:title type="plain">daniels 9</media:title>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/HowTo/asbht0316_daniels_BW-EMI19-no-trp.jpg?1457720872" type="image/jpeg" fileSize="75268">
+        <media:title type="plain">daniels 10</media:title>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/HowTo/asbht0316_daniels_BW-EMI20-no-trp.jpg?1457720894" type="image/jpeg" fileSize="72481">
+        <media:title type="plain">daniels 11</media:title>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/HowTo/asbht0316_daniels_BW-EMI21-no-trp.jpg?1457720914" type="image/jpeg" fileSize="81958">
+        <media:title type="plain">daniels 13</media:title>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/HowTo/asbht0316_daniels_DSC_0166.jpg?1457720934" type="image/jpeg" fileSize="31579">
+        <media:title type="plain">daniels 14</media:title>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/HowTo/asbht0316_daniels_DSC_0169.jpg?1457720953" type="image/jpeg" fileSize="36342">
+        <media:title type="plain">daniels 15</media:title>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/HowTo/asbht0316_daniels_One-Step.jpg?1457720973" type="image/jpeg" fileSize="35688">
+        <media:title type="plain">daniels 16</media:title>
+      </media:content>
+    </item>
+    <item>
+      <title>Options for Wire Labeling</title>
+      <author>camilloj@bnpmedia.com (Jim Camillo)</author>
+      <description>
+        <![CDATA[<p>
+	Peel-and-stick labels, heat-shrink tubing and plastic carriers are the most reliable ways to identify wires in harnesses and electrical panels.</p>
+]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93182</guid>
+      <pubDate>Tue, 05 Jan 2016 00:00:00 -0500</pubDate>
+      <link>http://www.assemblymag.com/articles/93182-options-for-wire-labeling</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Issues/2016/January/wireLabel/asb0116WireLabel1.jpg?1452007707" type="image/jpeg" length="87871"/>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/January/wireLabel/asb0116WireLabel1.jpg?1452007707" type="image/jpeg" fileSize="87871">
+        <media:title type="plain">wire label 1</media:title>
+        <media:description type="plain">
+	Text and graphics are directly printed on heat-shrink tubing, which is manually placed over a wire or cable and heated by a heat gun or a light source machine. Photo courtesy HellermannTyton
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/January/wireLabel/asb0116WireLabel2.jpg?1452007804" type="image/jpeg" fileSize="97785">
+        <media:title type="plain">wire label 2</media:title>
+        <media:description type="plain">
+	Self-laminating labels feature a clear section that overlaps and adheres to the printed area and serves as a protective lamination. Photo courtesy Panduit Corp.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/January/wireLabel/asb0116WireLabel3.jpg?1452007864" type="image/jpeg" fileSize="58310">
+        <media:title type="plain">wire label 3</media:title>
+        <media:description type="plain">
+	Manufacturers with high-mix environments like the BBP33 desktop printer because it enables 20-second material changeovers. Photo courtesy Brady Corp.
+</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>The Well-Equipped Wire Harness Assembly Shop</title>
+      <author>sprovierij@bnpmedia.com (John Sprovieri)</author>
+      <description>
+        <![CDATA[<p>
+	Myriad factors influence how and why harness assemblers set up their shops.</p>]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93181</guid>
+      <pubDate>Tue, 05 Jan 2016 00:00:00 -0500</pubDate>
+      <link>http://www.assemblymag.com/articles/93181-the-well-equipped-wire-harness-assembly-shop</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Issues/2016/January/shop/asb0116shop3.jpg?1452006850" type="image/jpeg" length="145484"/>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/January/shop/asb0116shop1.jpg?1452006746" type="image/jpeg" fileSize="50000">
+        <media:title type="plain">shop 1</media:title>
+        <media:description type="plain">
+	Advanced Interconnect Manufacturing recently added a Wraptor labeling machine from Brady Corp. The semiautomatic machine prints and wraps an adhesive-backed label around wires or cables. Photo courtesy Brady Corp.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/January/shop/asb0116shop2.jpg?1452006816" type="image/jpeg" fileSize="81068">
+        <media:title type="plain">shop 2</media:title>
+        <media:description type="plain">
+	MJM Industries Inc. recently added a laser stripping machine to its shop floor arsenal. Photo courtesy MJM Industries Inc.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/January/shop/asb0116shop3.jpg?1452006850" type="image/jpeg" fileSize="145484">
+        <media:title type="plain">shop 3</media:title>
+        <media:description type="plain">
+	Harness assemblers might be making a mistake if they fail to invest in a machine because they don&amp;rsquo;t have enough business to justify the initial purchase. Photo courtesy Komax Corp.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/January/shop/asb0116shop4.jpg?1452006892" type="image/jpeg" fileSize="32193">
+        <media:title type="plain">shop 4</media:title>
+        <media:description type="plain">
+	Some shops contain equipment from many suppliers, while others prefer to obtain as much equipment as possible from a single vendor. Photo courtesy Schleuniger Inc.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/January/shop/asb0116shop5.jpg?1452006925" type="image/jpeg" fileSize="91468">
+        <media:title type="plain">shop 5</media:title>
+        <media:description type="plain">
+	By necessity, harness assemblers must become adept at changeover. Photo courtesy Komax Corp.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/January/shop/asb0116shop6.jpg?1452006986" type="image/jpeg" fileSize="193265">
+        <media:title type="plain">shop 6</media:title>
+        <media:description type="plain">
+	Manufacturers of trucks, buses and other large vehicles are increasingly requesting that wires be marked for easy identification. Photo courtesy Make Your Numbers Inc.
+</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>Can Carbon Nanotubes Replace Copper?</title>
+      <author>sprovierij@bnpmedia.com (John Sprovieri)</author>
+      <description>
+        <![CDATA[<p>
+	Carbon nanotube wiring is light, strong and efficient in transmitting electrical current.</p>
+]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93180</guid>
+      <pubDate>Tue, 05 Jan 2016 00:00:00 -0500</pubDate>
+      <link>http://www.assemblymag.com/articles/93180-can-carbon-nanotubes-replace-copper</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Issues/2016/January/carbon/asb0116carbon7.jpg?1452005323" type="image/jpeg" length="197832"/>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/January/carbon/asb0116carbon7.jpg?1452005323" type="image/jpeg" fileSize="197832">
+        <media:title type="plain">carbon 1</media:title>
+        <media:description type="plain">
+	The wiring in an aircraft can weigh more than 1,000 pounds. Conductors and EMI shielding made from carbon nanotubes could reduce the weight of such wiring by 80 percent.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/January/carbon/asb0116carbon2.jpg?1452006216" type="image/jpeg" fileSize="199280">
+        <media:title type="plain">carbon 2</media:title>
+        <media:description type="plain">
+	A carbon nanotube is composed of a single layer of carbon atoms in a cylindrical configuration. Illustration courtesy University of Cambridge
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/January/carbon/asb0116carbon3.jpg?1452006257" type="image/jpeg" fileSize="170414">
+        <media:title type="plain">carbon 3</media:title>
+        <media:description type="plain">
+	One method of making carbon nanotubes involves growing them on a metal or silicon substrate like a forest or carpet. Photo courtesy University of Cambridge
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/January/carbon/asb0116carbon4.jpg?1452006342" type="image/jpeg" fileSize="150271">
+        <media:title type="plain">carbon 4</media:title>
+        <media:description type="plain">
+	CNT fibers can be spun into conductive yarns that could someday replace copper wire in wiring harnesses and motor windings. Photo courtesy CSIRO
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/January/carbon/asb0116carbon5.jpg?1452006380" type="image/jpeg" fileSize="19945">
+        <media:title type="plain">carbon 5</media:title>
+        <media:description type="plain">
+	This spinneret is extruding carbon nanotube fiber just 20 microns wide. The material yielded the highest current carrying capacity ever reported for a carbon-based fiber. Photo courtesy Rice University
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/January/carbon/asb0116carbon6.jpg?1452006417" type="image/jpeg" fileSize="157795">
+        <media:title type="plain">carbon 6</media:title>
+        <media:description type="plain">
+	Carbon nanotubes promise to dramatically reduce the weight of automotive wiring harnesses like this one. Photo courtesy Holley Performance Products
+</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>Schematic Software Doubles Production of Control Cabinets</title>
+      <description>
+        <![CDATA[<p>
+	With 650 employees, Bilfinger GreyLogix is among the largest automation technology design specialists in Europe.</p>
+]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93143</guid>
+      <pubDate>Mon, 07 Dec 2015 00:00:00 -0500</pubDate>
+      <link>http://www.assemblymag.com/articles/93143-schematic-software-doubles-production-of-control-cabinets</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Issues/2015/December/AIA/asb1215AIA7.jpg?1449513792" type="image/jpeg" length="213800"/>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/December/AIA/asb1215AIA7.jpg?1449513792" type="image/jpeg" fileSize="213800">
+        <media:title type="plain">aia 7</media:title>
+        <media:description type="plain">
+	Each cabinet housing wall is placed on a separate cart where specially trained assemblers carefully mount each panel. Photo courtesy Bilfinger GreyLogix
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/December/AIA/asb1215AIA8.jpg?1449513872" type="image/jpeg" fileSize="135354">
+        <media:title type="plain">aia 8</media:title>
+        <media:description type="plain">
+	EPLAN Engineering Configuration One generates wiring diagrams after the engineer enters parameter and component data from individually configured lists. Photo courtesy Bilfinger GreyLogix
+</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>CAD Software Streamlines Design and Assembly of Aircraft Electrical Systems</title>
+      <author>camilloj@bnpmedia.com (Jim Camillo)</author>
+      <description>
+        <![CDATA[<p>
+	By embracing technology, Pilatus Aircraft Ltd. has grown from a tiny company to a leading manufacturer of single-engine turboprop aircraft.</p>
+]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93138</guid>
+      <pubDate>Mon, 07 Dec 2015 00:00:00 -0500</pubDate>
+      <link>http://www.assemblymag.com/articles/93138-cad-software-streamlines-design-and-assembly-of-aircraft-electrical-systems</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Issues/2015/December/AIA/asb1215AIA3.jpg?1449506012" type="image/jpeg" length="194476"/>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/December/AIA/asb1215AIA3.jpg?1449506012" type="image/jpeg" fileSize="194476">
+        <media:title type="plain">aia 3</media:title>
+        <media:description type="plain">
+	Pilatus Aircraft Ltd. is a leading manufacturer of single-engine turboprop aircraft, and the only Swiss company to develop, build and sell private aircraft and training systems all over the world. Photo courtesy Mentor Graphics Corp.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/December/AIA/asb1215AIA4.jpg?1449506089" type="image/jpeg" fileSize="157843">
+        <media:title type="plain">aia 4</media:title>
+        <media:description type="plain">
+	The Capital software suite includes 17 programs that let engineers efficiently and cost-effectively define, design, build and service electrical systems and wire harnesses. Photo courtesy Mentor Graphics Corp.
+</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>Cloud-Based CAD Software Aids Wire Harness Design</title>
+      <author>sprovierij@bnpmedia.com (John Sprovieri)</author>
+      <description>
+        <![CDATA[<p>
+	Cloud-based CAD software solves challenges of distributed design and manufacturing.</p>
+]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93074</guid>
+      <pubDate>Fri, 02 Oct 2015 00:00:00 -0400</pubDate>
+      <link>http://www.assemblymag.com/articles/93074-cloud-based-cad-software-aids-wire-harness-design</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Issues/2015/October/cad/asb1015cloud1.jpg?1443804894" type="image/jpeg" length="62781"/>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/October/cad/asb1015cloud1.jpg?1443804894" type="image/jpeg" fileSize="62781">
+        <media:title type="plain">cad 1</media:title>
+        <media:description type="plain">
+	Arcadia Schematic lets engineers interactively place and connect electrical components to create schematic drawings, enabling real-time simulation and analysis. Engineers can draw, evaluate and test large full-vehicle schematics spread over more than 100 sheets. Illustration courtesy Cadonix
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/October/cad/asb1015cloud2.jpg?1443804990" type="image/jpeg" fileSize="56433">
+        <media:title type="plain">cad 2</media:title>
+        <media:description type="plain">
+	With Arcadia Schematic, engineers can evaluate wire sizing, voltage drops, fuse-blow currents and times, signal flow, short circuits, and cross-page connectivity. Illustration courtesy Cadonix
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/October/cad/asb1015cloud3.jpg?1443805025" type="image/jpeg" fileSize="147573">
+        <media:title type="plain">cad 3</media:title>
+        <media:description type="plain">
+	U.K. start-up Riversimple will soon introduce a new, environmentally friendly vehicle powered by fuel cells. Arcadia CAD software was instrumental for designing the vehicle&amp;rsquo;s electrical system. Photos courtesy Riversimple
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/October/cad/asb1015cloud4.jpg?1443805060" type="image/jpeg" fileSize="170122">
+        <media:title type="plain">cad 4</media:title>
+        <media:description type="plain">
+	U.K. start-up Riversimple will soon introduce a new, environmentally friendly vehicle powered by fuel cells. Arcadia CAD software was instrumental for designing the vehicle&amp;rsquo;s electrical system. Photos courtesy Riversimple
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/October/cad/asb1015cloud5.jpg?1443805090" type="image/jpeg" fileSize="188427">
+        <media:title type="plain">cad 5</media:title>
+        <media:description type="plain">
+	MasterMover&amp;rsquo;s ability to customize tugs to suit individual customers gives it an edge on the competition. Arcadia CAD software allows engineers to quickly modify wiring harnesses to accommodate design changes. Photo courtesy MasterMover
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/October/cad/asb1015cloud6.jpg?1443805125" type="image/jpeg" fileSize="180866">
+        <media:title type="plain">cad 6</media:title>
+        <media:description type="plain">
+	In the automotive industry, design, test and manufacturing functions can be geographically remote from each other and are often outsourced. The traditional model of CAD, in which companies buy &amp;lsquo;seats&amp;rsquo; of a design tool that are assigned to specific workstations, isn&amp;rsquo;t aligned with this reality. Photo courtesy Garddian UK Ltd.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/October/cad/asb1015cloud7.jpg?1443805159" type="image/jpeg" fileSize="76135">
+        <media:title type="plain">cad 7</media:title>
+        <media:description type="plain">
+	With Arcadia software, harness protection elements, such convoluted tube and heat shrink materials, can be rendered in different levels of detail. Photo courtesy Pacific Insight Electronics Corp.
+</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>Improve Crimp Quality to Increase Productivity</title>
+      <description>
+        <![CDATA[<p>
+	Many factors can affect crimp quality.</p>
+]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93073</guid>
+      <pubDate>Fri, 02 Oct 2015 00:00:00 -0400</pubDate>
+      <link>http://www.assemblymag.com/articles/93073-improve-crimp-quality-to-increase-productivity</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Issues/2015/October/schleu/asb1015schleu1.jpg?1443801059" type="image/jpeg" length="112599"/>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/October/schleu/asb1015schleu1.jpg?1443801059" type="image/jpeg" fileSize="112599">
+        <media:title type="plain">schleu 1</media:title>
+        <media:description type="plain">
+	When loading a crimping press, handle the reels gently to prevent the terminals from getting bent. Photo courtesy Schleuniger Inc.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/October/schleu/asb1015schleu2.jpg?1443801329" type="image/jpeg" fileSize="177436">
+        <media:title type="plain">schleu 2</media:title>
+        <media:description type="plain">
+	A crimp micrograph is the best way to analyze what&amp;rsquo;s going on inside of the crimp barrel. Photo courtesy Schleuniger Inc.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/October/schleu/asb1015schleu3.jpg?1443801354" type="image/jpeg" fileSize="50613">
+        <media:title type="plain">schleu 3</media:title>
+        <media:description type="plain">
+	An applicator and press that are in poor condition will invariably lead to inconsistent and poor-quality crimps. Photo courtesy Schleuniger Inc.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/October/schleu/asb1015schleu4.jpg?1443801381" type="image/jpeg" fileSize="39933">
+        <media:title type="plain">schleu 4</media:title>
+        <media:description type="plain">
+	The only way to monitor in-process quality is to use a crimp force monitor to measure the force applied to each and every crimp. Photo courtesy Schleuniger Inc.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/October/schleu/asb1015schleu5.jpg?1443801412" type="image/jpeg" fileSize="40405">
+        <media:title type="plain">schleu 5</media:title>
+        <media:description type="plain">
+	To obtain consistent high-quality crimps, engineers should implement a press that provides a repeatable shut height under load and has a consistent crimping speed. Photo Photo courtesy Schleuniger Inc.
+</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>A New Crimp for Aluminum Wire</title>
+      <description>
+        <![CDATA[<p>
+	New design optimizes crimped connections to aluminum wire for automotive applications.</p>]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93072</guid>
+      <pubDate>Fri, 02 Oct 2015 00:00:00 -0400</pubDate>
+      <link>http://www.assemblymag.com/articles/93072-a-new-crimp-for-aluminum-wire</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Issues/2015/October/aluminum/asb1015alum7.jpg?1443799692" type="image/jpeg" length="266727"/>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/October/aluminum/asb1015alum7.jpg?1443799692" type="image/jpeg" fileSize="266727">
+        <media:title type="plain">alum 1</media:title>
+        <media:description type="plain">
+	To create the largest possible contacting surface to the copper for the greatest possible number of strands, the Litealum crimp barrel is rolled in as far as possible. Photo courtesy TE Connectivity
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/October/aluminum/asb1015alum1.jpg?1443799777" type="image/jpeg" fileSize="84413">
+        <media:title type="plain">alum 2</media:title>
+        <media:description type="plain">
+	This graph shows the price of aluminum and copper from June 2006 to June 2011. Replacing copper wire with aluminum could reduce the cost of wiring harnesses considerably. Photo courtesy TE Connectivity
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/October/aluminum/asb1015alum2.jpg?1443799817" type="image/jpeg" fileSize="142020">
+        <media:title type="plain">alum 3</media:title>
+        <media:description type="plain">
+	The Copalum crimp design was developed for aluminum conductors in power engineering applications. Photo courtesy TE Connectivity
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/October/aluminum/asb1015alum4.jpg?1443799849" type="image/jpeg" fileSize="80579">
+        <media:title type="plain">alum 4</media:title>
+        <media:description type="plain">
+	These micrographs show partial cold-welded areas with a Litealum crimp. Photo courtesy TE Connectivity
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/October/aluminum/asb1015alum3.jpg?1443799884" type="image/jpeg" fileSize="161981">
+        <media:title type="plain">alum 3</media:title>
+        <media:description type="plain">
+	The inside of the Litealum crimp barrel has sharp-edged serrations that give it the appearance of a washboard. Photo courtesy TE Connectivity
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/October/aluminum/asb1015alum5.jpg?1443799928" type="image/jpeg" fileSize="143614">
+        <media:title type="plain">alum 5</media:title>
+        <media:description type="plain">
+	Because of its low yield point, the conductor material undergoes far greater mechanical deformation during crimping than the copper sleeve. The volumetric flow caused by this deformation is displaced axially in both directions. Photo courtesy TE Connectivity
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/October/aluminum/asb1015alum6.jpg?1443799963" type="image/jpeg" fileSize="97939">
+        <media:title type="plain">alum 6</media:title>
+        <media:description type="plain">
+	After crimping, the remaining residual surface pressure in the joint is approximately 180 newtons per square millimeter at a small number of points. As a result, no conditions exist that could cause outward creep of the aluminum from the crimp barrel. Photo courtesy TE Connectivity
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/October/aluminum/asb1015alum8.jpg?1443800005" type="image/jpeg" fileSize="221907">
+        <media:title type="plain">alum 8</media:title>
+        <media:description type="plain">
+	To prevent electrochemical corrosion, the insulation at the rear end of the crimp barrel is included in the crimping process. Photo courtesy TE Connectivity
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/October/aluminum/asb1015alum9.jpg?1443800037" type="image/jpeg" fileSize="66235">
+        <media:title type="plain">alum 9</media:title>
+        <media:description type="plain">
+	Aluminum crimp connections have proven stable after temperature shock testing with 500 cycles (-40 C to 130 C) in humid conditions. Photo courtesy TE Connectivity
+</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>Panduit Introduces New Technology for Harness Assembly Board Layout</title>
+      <author>sprovierij@bnpmedia.com (John Sprovieri)</author>
+      <description>
+        <![CDATA[<p>
+	Modular, flexible system promises to reduce the cost of creating a harness layout board by 65 percent.</p>
+]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93034</guid>
+      <pubDate>Thu, 03 Sep 2015 00:00:00 -0400</pubDate>
+      <link>http://www.assemblymag.com/articles/93034-panduit-introduces-new-technology-for-harness-assembly-board-layout</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Issues/2015/September/wireharness/asb0915quick1.jpg?1441292970" type="image/jpeg" length="258556"/>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/September/wireharness/asb0915quick1.jpg?1441292970" type="image/jpeg" fileSize="258556">
+        <media:title type="plain">wire harness 1</media:title>
+        <media:description type="plain">
+	The Quick-Build system allows engineers to create a reusable harness layout board that can be reconfigured quickly and easily. Photo courtesy Panduit
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/September/wireharness/asb0915quick2.jpg?1441293041" type="image/jpeg" fileSize="227059">
+        <media:title type="plain">wire harness 2</media:title>
+        <media:description type="plain">
+	Quick-Build mounting pegs accept various wire-holding accessories, including single-nail wire holders, five-nail wire holders and mounting platforms. Photo courtesy Panduit
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/September/wireharness/asb0915quick3.jpg?1441293063" type="image/jpeg" fileSize="39719">
+        <media:title type="plain">wire harness 3</media:title>
+        <media:description type="plain">
+	Once a mounting peg is inserted into a hole, a quarter turn locks it in place. A rubber washer at the base of the peg provides clamping force to keep it in place. Photo courtesy Panduit
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/September/wireharness/asb0915quick4.jpg?1441293088" type="image/jpeg" fileSize="241289">
+        <media:title type="plain">wire harness 4</media:title>
+        <media:description type="plain">
+	These five-nail wire holders are molded in black, gray or white plastic so engineers can use color-coding to assist technicians during assembly. Photo courtesy Panduit
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/September/wireharness/asb0915quick5.jpg?1441293113" type="image/jpeg" fileSize="60612">
+        <media:title type="plain">wire harness 5</media:title>
+        <media:description type="plain">
+	Detents molded into the base of each accessory allow it to be rotated within the peg for easier routing of branches and breakouts. Photo courtesy Panduit
+</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>Assembling Next-Gen Light Fixtures</title>
+      <author>webera@bnpmedia.com (Austin Weber)</author>
+      <description>
+        <![CDATA[<p>
+	LED fixtures and luminaires are challenging to mass-produce.</p>]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/92974</guid>
+      <pubDate>Sat, 01 Aug 2015 01:00:00 -0400</pubDate>
+      <link>http://www.assemblymag.com/articles/92974-assembling-next-gen-light-fixtures</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Issues/2015/August/Lighting/asb0815light2.jpg?1438015323" type="image/jpeg" length="206094"/>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/August/Lighting/asb0815light1.jpg?1438015350" type="image/jpeg" fileSize="174114">
+        <media:title type="plain">lighting 1</media:title>
+        <media:description type="plain">
+	Demand for commercial, industrial and residential LED lighting applications is skyrocketing. Photo courtesy Acuity Brands Inc.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/August/Lighting/asb0815light2.jpg?1438015323" type="image/jpeg" fileSize="206094">
+        <media:title type="plain">lighting 2</media:title>
+        <media:description type="plain">
+	The LED revolution has forced some old-school electrical equipment manufacturers to alter their assembly lines. Photo courtesy LaMar Lighting Co.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/August/Lighting/asb0815light3.jpg?1438015399" type="image/jpeg" fileSize="80331">
+        <media:title type="plain">lighting 3</media:title>
+        <media:description type="plain">
+	LEDs use only 75 percent of the electricity required by incandescent bulbs. They also last 300 times longer and generate 90 percent less heat. Photo courtesy Acuity Brands Inc.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/August/Lighting/asb0815light4.jpg?1438015383" type="image/jpeg" fileSize="209773">
+        <media:title type="plain">lighting 4</media:title>
+        <media:description type="plain">
+	LED fixtures and luminaires are more challenging to assemble than traditional incandescent or fluorescent products. Photo courtesy Urbis Schreder Ltd.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/August/Lighting/asb0815light5.jpg?1438015437" type="image/jpeg" fileSize="175379">
+        <media:title type="plain">lighting 5</media:title>
+        <media:description type="plain">
+	There&amp;rsquo;s more to LED lighting than just a bulb. Key components used in fixtures and luminaires include drivers, circuit boards, wires, connectors, diffusers and heat sinks. Photo courtesy Urbis Schreder Ltd.
+</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>Cable Ties Facilitate Installation of Wiring in  Cruise Ships</title>
+      <author>camilloj@bnpmedia.com (Jim Camillo)</author>
+      <description>
+        <![CDATA[<p>
+	Since August 2008, the Carnival Splendor has cruised the waters of the Bahamas, Carribean, Europe and South America</p>
+]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/92970</guid>
+      <pubDate>Sat, 01 Aug 2015 00:00:00 -0400</pubDate>
+      <link>http://www.assemblymag.com/articles/92970-cable-ties-facilitate-installation-of-wiring-in-cruise-ships</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Issues/2015/August/AIA/asb0815AIA1.jpg?1438008275" type="image/jpeg" length="174565"/>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/August/AIA/asb0815AIA1.jpg?1438008275" type="image/jpeg" fileSize="174565">
+        <media:title type="plain">cable ties 1</media:title>
+        <media:description type="plain">
+	The Carnival Splendor was built by Fincantieri Cantieri Navali Intaliani S.p.A., the largest shipbuilder in Europe and the fourth largest in the world. Photo courtesy Carnival Corp. &amp;amp; plc
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/August/AIA/asb0815AIA2.jpg?1438008354" type="image/jpeg" fileSize="28968">
+        <media:title type="plain">cable ties 2</media:title>
+        <media:description type="plain">
+	Pan-Steel MLT cable ties feature a head design that self-locks into place at any spot along the tie body to restrain cables. Photo courtesy Panduit Corp.
+</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>A New Paradigm in Crimping Press Design</title>
+      <description>
+        <![CDATA[<p>
+	Schleuniger rethinks the crimping press, from the frame to the drive mechanism.</p>]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/92938</guid>
+      <pubDate>Thu, 02 Jul 2015 00:00:00 -0400</pubDate>
+      <link>http://www.assemblymag.com/articles/92938-a-new-paradigm-in-crimping-press-design</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Issues/2015/July/press/asb0715press3.jpg?1435845628" type="image/jpeg" length="101862"/>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/July/press/asb0715press1.jpg?1435845455" type="image/jpeg" fileSize="30857">
+        <media:title type="plain">press 1</media:title>
+        <media:description type="plain">
+	The frame on Schleuniger&amp;rsquo;s new crimping press is made of formed sheet metal rather than solid pieces of heavy steel or a cast frame. Photo courtesy Schleuniger Inc.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/July/press/asb0715press3.jpg?1435845628" type="image/jpeg" fileSize="101862">
+        <media:title type="plain">press 3</media:title>
+        <media:description type="plain">
+	On a traditional crimping press, the gearbox, shaft and ram coupling must be aligned perfectly to prevent premature bearing wear. Photo courtesy Schleuniger Inc.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/July/press/asb0715press4.jpg?1435845662" type="image/jpeg" fileSize="43798">
+        <media:title type="plain">press 4</media:title>
+        <media:description type="plain">
+	This spring mechanism compresses any excess play at the bottom of the crimping stroke, where precision is needed most. Throughout the life of the press, the mechanism continues to remove excess play as parts wear. Photo courtesy Schleuniger Inc.
+</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>Air Tools for Heavy-Duty Crimping</title>
+      <description>
+        <![CDATA[<p>
+	Crimping a sleeve onto a wire rope requires a lot of force. Handheld pneumatic tools are just the ticket.</p>
+]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/92936</guid>
+      <pubDate>Thu, 02 Jul 2015 00:00:00 -0400</pubDate>
+      <link>http://www.assemblymag.com/articles/92936-air-tools-for-heavy-duty-crimping</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Issues/2015/July/crimping/asb0715crimp1.jpg?1435844300" type="image/jpeg" length="91445"/>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/July/crimping/asb0715crimp1.jpg?1435844300" type="image/jpeg" fileSize="91445">
+        <media:title type="plain">crimp 1</media:title>
+        <media:description type="plain">
+	Air-powered crimping tools provide the best of both worlds&amp;mdash;the power of a stationary press with the portability of a hand tool. Photo courtesy Fabco-Air Inc.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/July/crimping/asb0715crimp2.jpg?1435844384" type="image/jpeg" fileSize="77372">
+        <media:title type="plain">crimp 2</media:title>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/July/crimping/asb0715crimp5.jpg?1435844543" type="image/jpeg" fileSize="87477">
+        <media:title type="plain">crimp 5</media:title>
+        <media:description type="plain">
+	Metal sleeves are usually applied to each end of a wire rope to prevent it from fraying and to help connect the rope to a mechanism or structure. Photo courtesy Loos and Co. Inc.
+</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>Insulation Displacement Connectors Are a Reliable Alternative to Crimping</title>
+      <author>webera@bnpmedia.com (Austin Weber)</author>
+      <description>
+        <![CDATA[<p>
+	Insulation displacement connectors are a reliable alternative to crimping.</p>]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/92935</guid>
+      <pubDate>Thu, 02 Jul 2015 00:00:00 -0400</pubDate>
+      <link>http://www.assemblymag.com/articles/92935-insulation-displacement-connectors-are-reliable-alternative-to-crimping</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Issues/2015/July/ic/asb0715idc1.jpg?1435843565" type="image/jpeg" length="116233"/>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/July/ic/asb0715idc1.jpg?1435843565" type="image/jpeg" fileSize="116233">
+        <media:title type="plain">idc 1</media:title>
+        <media:description type="plain">
+	IDCs provide a cost-effective alternative to crimping and soldering. Photo courtesy AVX Corp.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/July/ic/asb0715idc2.jpg?1436805052" type="image/jpeg" fileSize="104414">
+        <media:title type="plain">idc 2</media:title>
+        <media:description type="plain">
+	By eliminating wire stripping and crimping, IDCs facilitate the rapid assembly of high-density wiring harnesses. Photo courtesy AVX Corp.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/July/ic/asb0715idc3.jpg?1435843781" type="image/jpeg" fileSize="117325">
+        <media:title type="plain">idc 3</media:title>
+        <media:description type="plain">
+	The biggest benefits of using IDCs are simplicity and reliability. Photo courtesy AVX Corp.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/July/ic/asb0715idc4.jpg?1436805268" type="image/jpeg" fileSize="185273">
+        <media:title type="plain">idc 4</media:title>
+        <media:description type="plain">
+	IDC connectors mechanically force unstripped wire under moderate pressure into a V-shaped fork. Photo courtesy ETCO Corp.
+</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>Lasers Remove Polymer Wire Insulation Quickly, Precisely</title>
+      <description>
+        <![CDATA[<p>
+	A variety of lasers can be used to remove polymer insulation from wires for medical device assemblies.</p>
+]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/92934</guid>
+      <pubDate>Thu, 02 Jul 2015 00:00:00 -0400</pubDate>
+      <link>http://www.assemblymag.com/articles/92934-lasers-remove-polymer-wire-insulation-quickly-precisely</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Issues/2015/July/laser/asb0715laser1.jpg?1435842647" type="image/jpeg" length="67114"/>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/July/laser/asb0715laser1.jpg?1435842647" type="image/jpeg" fileSize="67114">
+        <media:title type="plain">laser 1</media:title>
+        <media:description type="plain">
+	This polyimide wire was stripped using a CO2 laser. Photo courtesy Amada Miyachi Inc.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/July/laser/asb0715laser2.jpg?1435842629" type="image/jpeg" fileSize="53455">
+        <media:title type="plain">laser 2</media:title>
+        <media:description type="plain">
+	This laser ablation system includes high-speed galvanometers for beam steering and a custom feeding and rotating mechanism to accurately and repeatably position the wire. Photo courtesy Amada Miyachi Inc.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/July/laser/asb0715laser3.jpg?1435842708" type="image/jpeg" fileSize="78046">
+        <media:title type="plain">laser 3</media:title>
+        <media:description type="plain">
+	Femtosecond lasers produce extremely short pulses of light&amp;mdash;10-15 second in duration. The pulses are so short that the material does not have time to conduct heat from the process area into the surrounding material. Photo courtesy Amada Miyachi Inc.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/July/laser/laserTable.jpg?1435842878" type="image/jpeg" fileSize="95211">
+        <media:title type="plain">laser table</media:title>
+        <media:description type="plain">
+	This table shows the lasers most commonly used for wire stripping, listed by suggested order of consideration, from top to bottom. There is a suitable laser for any combination of material, wire diameter and stripping requirements. Photo courtesy Amada Miyachi Inc.
+</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>Connectors vs. Hard Wiring</title>
+      <description>
+        <![CDATA[<p>
+	Industrial connectors or hard wiring? More and more machine builders are finding connectors more economical and practical.</p>]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/92795</guid>
+      <pubDate>Thu, 02 Apr 2015 00:00:00 -0400</pubDate>
+      <link>http://www.assemblymag.com/articles/92795-connectors-vs-hard-wiring</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Issues/2015/April/connections/asb0415hart1.jpg?1427999677" type="image/jpeg" length="75005"/>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/April/connections/asb0415hart1.jpg?1427999677" type="image/jpeg" fileSize="75005">
+        <media:title type="plain">connectors feature</media:title>
+        <media:description type="plain">
+	Connectors offer excellent mechanical stability and are available with multiple termination options. They can be designed to prevent ingress, resist vibration and temperature extremes, and withstand harsh weather. Photo courtesy Harting Inc.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/April/connections/asb0415hart2.jpg?1427999750" type="image/jpeg" fileSize="79359">
+        <media:title type="plain">connectors slide 2</media:title>
+        <media:description type="plain">
+	Field assembly time for devices and control cabinets is dramatically shortened using connectors instead of hard-wiring. Photo courtesy Harting Inc.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/April/connections/asb0415hart3.jpg?1427999780" type="image/jpeg" fileSize="113331">
+        <media:title type="plain">connectors slide 3</media:title>
+        <media:description type="plain">
+	Connectors simplify design, assembly and maintenance for modular machinery. Photo courtesy Harting Inc.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/April/connections/asb0415hart4.jpg?1427999812" type="image/jpeg" fileSize="95404">
+        <media:title type="plain">connectors slide 4</media:title>
+        <media:description type="plain">
+	Modular connectors can be configured to carry power, signals and data in one unit. Photo courtesy Harting Inc.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/April/connections/asb0415hart5.jpg?1427999843" type="image/jpeg" fileSize="79113">
+        <media:title type="plain">connectors slide 5</media:title>
+        <media:description type="plain">
+	The Han GND connector ensures the safe grounding of electrical circuitry in portable machinery or for concerts and other events where equipment is erected on a temporary basis. It allows full potential equalization to be implemented in a pluggable design. Photo courtesy Harting Inc.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/April/connections/asb0415hart6.jpg?1427999878" type="image/jpeg" fileSize="65210">
+        <media:title type="plain">connectors slide 6</media:title>
+        <media:description type="plain">
+	The Han-Yellock connector only requires male crimp contacts. Conduction between contacts is made by multipliers. This enables the connector to perform the multiplier function previously done by terminal blocks inside the machine. Photo courtesy Harting Inc.
+</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>Insulation, Jacketing and Shielding</title>
+      <author>camilloj@bnpmedia.com (Jim Camillo)</author>
+      <description>
+        <![CDATA[<p>
+	Understanding all three is essential for proper selection and processing of wire and cable.</p>
+]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/92794</guid>
+      <pubDate>Thu, 02 Apr 2015 00:00:00 -0400</pubDate>
+      <link>http://www.assemblymag.com/articles/92794-insulation-jacketing-and-shielding</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Issues/2015/April/wire/asb0415Insulation1.jpg?1427998924" type="image/jpeg" length="52315"/>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/April/wire/asb0415Insulation1.jpg?1427998924" type="image/jpeg" fileSize="52315">
+        <media:title type="plain">wire shielding feature</media:title>
+        <media:description type="plain">
+	EXRAD 4/0 AWG cable measures nearly 1 inch in diameter and weighs 0.876 pound per foot. The 1,000-volt cable features a bright orange irradiated cross-linked elastomer (XLE) jacket, tinned copper braided shielding, and thin inner XLE insulation that surrounds 30 strands of bare copper wire. Photo courtesy Champlain Cable Corp.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/April/wire/asb0415Insulation2.jpg?1427998997" type="image/jpeg" fileSize="56636">
+        <media:title type="plain">wire shielding slide 2</media:title>
+        <media:description type="plain">
+	The outer jacket of these various cables were slit with the JackStrip 8310 slitter. It handles 0.1- to 1-inch OD cable up to 19.7 inches long. Photo courtesy Schleuniger Inc.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/April/wire/asb0415Insulation3.jpg?1427999028" type="image/jpeg" fileSize="143073">
+        <media:title type="plain">wire shielding slide 3</media:title>
+        <media:description type="plain">
+	Twisted pairs is a type of spiral cable shielding. The two insulated conductors are uniformly twisted around each other the full length of the harness to minimize electromagnetic interference from other twisted pairs in the cable. Photo courtesy www.ecvv.com
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/April/wire/asb0415Insulation_table.jpg?1427999049" type="image/jpeg" fileSize="114053">
+        <media:title type="plain">wire shielding slide 4</media:title>
+      </media:content>
+    </item>
+  </channel>
+</rss>

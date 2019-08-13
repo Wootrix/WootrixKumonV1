@@ -1,0 +1,819 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Appliance Assembly</title>
+    <description>
+      <![CDATA[Articles about assembly technologies and trends in the appliance industry.]]>
+    </description>
+    <link>http://www.assemblymag.com/rss</link>
+    <language>en-us</language>
+    <item>
+      <title>LG Ponders Building US Assembly Plant</title>
+      <description>
+        <![CDATA[SEOUL, South KoreaâLG Electronicsâ newly appointed CEO Jo Seong-jin said Sunday that the South Korean electronics OEM is considering setting up its first home appliance assembly plant in the U.S. within the first half of this year.]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93689</guid>
+      <pubDate>Wed, 11 Jan 2017 00:00:00 -0500</pubDate>
+      <link>http://www.assemblymag.com/articles/93689-lg-ponders-building-us-assembly-plant</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Default_Images/responsive/ASB_default_latestnews.jpg?1479231322" type="image/jpeg" length="166380"/>
+    </item>
+    <item>
+      <title>Mastering Changeover</title>
+      <author>webera@bnpmedia.com (Austin Weber)</author>
+      <description>
+        <![CDATA[<p>Quick change is a popular type of magic in which performers appear in entirely different costumes within just a few seconds. It&rsquo;s an act that takes tremendous skill and lots of practice to perfect.</p>]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93649</guid>
+      <pubDate>Thu, 01 Dec 2016 00:00:00 -0500</pubDate>
+      <link>http://www.assemblymag.com/articles/93649-mastering-changeover</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Issues/2016/December/Changeover/asb1216change1.jpg?1480531500" type="image/jpeg" length="179582"/>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/December/Changeover/asb1216change1.jpg?1480531500" type="image/jpeg" fileSize="179582">
+        <media:title type="plain">1</media:title>
+        <media:description type="plain">Changeover is an important component of any lean manufacturing initiative. Photo courtesy ZF Friedrichshafen AG
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/December/Changeover/asb1216change2.jpg?1480531589" type="image/jpeg" fileSize="191706">
+        <media:title type="plain">2</media:title>
+        <media:description type="plain">Changeover is critical in high-mix production environments, such as this battery pack assembly line. Photo courtesy Videoton Holding
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/December/Changeover/asb1216change3.jpg?1480531624" type="image/jpeg" fileSize="198949">
+        <media:title type="plain">3</media:title>
+        <media:description type="plain">Operators have to make psychological adjustments each time they start to assemble a different product. Photo courtesy Visual Knowledge Share Ltd.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/December/Changeover/asb1216change5.jpg?1480531719" type="image/jpeg" fileSize="157736">
+        <media:title type="plain">5</media:title>
+        <media:description type="plain">Although the terms changeover and setup are often used interchangeably, they mean different things. Photo courtesy ZF Friedrichshafen AG
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/December/Changeover/asb1216change6.jpg?1480531756" type="image/jpeg" fileSize="218724">
+        <media:title type="plain">6</media:title>
+        <media:description type="plain">Part counts and assembly complexity can make the changeover process easier or more difficult. Photo courtesy Toyota Motor Corp.
+</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>Our 2016 Assembly Industry Naughty and Nice List</title>
+      <author>sprovierij@bnpmedia.com (John Sprovieri)</author>
+      <description>
+        <![CDATA[<p>Lumps of coal go to Donald Trump and Hillary Clinton for giving us a choice between Scylla and Charybdis. An extra lump goes to The Donald for running a campaign that set new lows in civil political discourse.</p>
+]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93643</guid>
+      <pubDate>Thu, 01 Dec 2016 00:00:00 -0500</pubDate>
+      <link>http://www.assemblymag.com/articles/93643-our-2016-assembly-industry-naughty-and-nice-list</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Default_Images/responsive/editorial.jpg?1433258973" type="image/jpeg" length="57531"/>
+    </item>
+    <item>
+      <title>New Machine Rolls, Welds Stainless Steel Drums for Laundry Appliances</title>
+      <description>
+        <![CDATA[COLDWATER, OHâSystems integrator Coldwater Machine Co. has developed a new machine that automatically rolls and welds stainless steel drums and baskets for washers and dryers.]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93633</guid>
+      <pubDate>Tue, 15 Nov 2016 00:00:00 -0500</pubDate>
+      <link>http://www.assemblymag.com/articles/93633-new-machine-rolls-welds-stainless-steel-drums-for-laundry-appliances</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Default_Images/responsive/ASB_default_latestnews.jpg?1479231322" type="image/jpeg" length="166380"/>
+    </item>
+    <item>
+      <title>Statistical Process Control of Torque Data on Assembly Lines</title>
+      <author>sprovierij@bnpmedia.com (John Sprovieri)</author>
+      <description>
+        <![CDATA[<p>Power tools collect a wealth of data about the fastening process. With some simple statistical analysis, engineers can obtain valuable insight into the fastening process.</p>]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93621</guid>
+      <pubDate>Mon, 07 Nov 2016 00:00:00 -0500</pubDate>
+      <link>http://www.assemblymag.com/articles/93621-statistical-process-control-of-torque-data-on-assembly-lines</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Issues/2016/November/torque/asb1116torque4.jpg?1478534577" type="image/jpeg" length="144761"/>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/November/torque/asb1116torque1.jpg?1478534422" type="image/jpeg" fileSize="47682">
+        <media:title type="plain">1</media:title>
+        <media:description type="plain">In a histogram of torque data, the area under the curve that lies within one standard deviation of the mean represents 68 percent of all torque readings in the data set. The area within two deviations represents 95 percent of all readings, and the area within three deviations represents 99.7 percent of all readings. Illustration courtesy Kanbanize Inc.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/November/torque/asb1116torque2.jpg?1478534508" type="image/jpeg" fileSize="67577">
+        <media:title type="plain">2</media:title>
+        <media:description type="plain">X-bar and R charts can identify fastening problems quickly by comparing samples of torque and angle data to your overall results. Illustration courtesy Minitab Inc.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/November/torque/asb1116torque3.jpg?1478534540" type="image/jpeg" fileSize="179268">
+        <media:title type="plain">3</media:title>
+        <media:description type="plain">Power tools collect a wealth of data about the fastening process. Photo courtesy Desoutter Industrial Tools
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/November/torque/asb1116torque4.jpg?1478534577" type="image/jpeg" fileSize="144761">
+        <media:title type="plain">4</media:title>
+        <media:description type="plain">No matter how accurate the tool, there will always be some variation in how much torque is applied to a fastener. Photo courtesy Atlas Copco Tools and Assembly Systems
+</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>Whirlpool Assembly Plant to Get 30 Percent of Power From Wind</title>
+      <description>
+        <![CDATA[OTTAWA, OHâWhirlpool Corp. began construction on a $3.3-million wind-turbine project at its freezer assembly plant here. The project will generate more than 30 percent of the plantâs power needs.]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93611</guid>
+      <pubDate>Mon, 31 Oct 2016 00:00:00 -0400</pubDate>
+      <link>http://www.assemblymag.com/articles/93611-whirlpool-assembly-plant-to-get-30-percent-of-power-from-wind</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Default_Images/responsive/ASB_default_latestnews.jpg?1479231322" type="image/jpeg" length="166380"/>
+    </item>
+    <item>
+      <title>Fasteners for Foam and Honeycomb</title>
+      <author>sprovierij@bnpmedia.com (John Sprovieri)</author>
+      <description>
+        <![CDATA[<p>Celebrity auto critic Jeremy Clarkson once called the Audi TT &ldquo;the Mac Daddy of sport coupes.&rdquo;</p>
+]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93583</guid>
+      <pubDate>Mon, 03 Oct 2016 00:00:00 -0400</pubDate>
+      <link>http://www.assemblymag.com/articles/93583-fasteners-for-foam-and-honeycomb</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Issues/2016/October/fasteners/asb1016fasten4.jpg?1475514537" type="image/jpeg" length="90555"/>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/October/fasteners/asb1016fasten4.jpg?1475514537" type="image/jpeg" fileSize="90555">
+        <media:title type="plain">1</media:title>
+        <media:description type="plain">The key variables in the EPPsys fastener installation process are torque, driver speed, axial force, insertion depth and installation time. Photo courtesy Weber Screwdriving Systems Inc.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/October/fasteners/asb1016fasten1.jpg?1475514618" type="image/jpeg" fileSize="49262">
+        <media:title type="plain">2</media:title>
+        <media:description type="plain">In most cases, TSSD fasteners do not require a pilot hole. Once the driver moves to the target position, it spins the fastener and pushes it against the surface of the part. Friction generates heat to melt the surface materials and bore a hole into the parts. As the fastener spins, some of its surface material melts as well, mingling with the molten material and fibers of the base parts and creating a weld. When the fastener is flush with the base materials, the driver stops abruptly and holds the fastener in place. When the materials have cooled and solidified, the driver retracts. Illustration courtesy EJOT
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/October/fasteners/asb1016fasten2.jpg?1475514649" type="image/jpeg" fileSize="47405">
+        <media:title type="plain">3</media:title>
+        <media:description type="plain">The EPPsys TSSD can be an anchor point for a Delta PT screw, or it can act as a direct fastening element. Photo courtesy EJOT
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/October/fasteners/asb1016fasten3.jpg?1475514688" type="image/jpeg" fileSize="137811">
+        <media:title type="plain">4</media:title>
+        <media:description type="plain">Because precise control over axial force is a key variable, the fasteners must be installed with a Cartesian or six-axis robot. A blow-feed mechanism supplies fasteners to the driver. Photo courtesy Weber Screwdriving Systems Inc.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/October/fasteners/asb1016fasten5.jpg?1475514726" type="image/jpeg" fileSize="130638">
+        <media:title type="plain">5</media:title>
+        <media:description type="plain">Automakers are increasingly using lightweight EPP foam for a variety of applications, like this air bag cover. Photo courtesy Taracell
+</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>Dryers Remain Centerpiece of Work at Whirlpoolâs Marion Plant</title>
+      <description>
+        <![CDATA[<p>MARION, OH&mdash;When you arrive at the largest clothes-dryer plant in the world, the first thing you see is not some whiz-bang new product, but a really old one. Inside the visitor entrance is a dryer made when the plant had just opened in 1955. The appliance was used in someone&rsquo;s house for 60 years and still works.</p>]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93582</guid>
+      <pubDate>Mon, 03 Oct 2016 00:00:00 -0400</pubDate>
+      <link>http://www.assemblymag.com/articles/93582-dryers-remain-centerpiece-of-work-at-whirlpools-marion-plant</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Default_Images/responsive/ASB_default_latestnews.jpg?1479231322" type="image/jpeg" length="166380"/>
+    </item>
+    <item>
+      <title>Welding Incompatible Thermoplastics</title>
+      <description>
+        <![CDATA[<p>
+	Ideally, every component in a plastic assembly would be made from the same material. However, cost, functional and aesthetic requirements often dictate that a mix of materials be used.</p>]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93558</guid>
+      <pubDate>Thu, 08 Sep 2016 00:00:00 -0400</pubDate>
+      <link>http://www.assemblymag.com/articles/93558-welding-incompatible-thermoplastics</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Issues/2016/september/plastics/asb0916plastic6.jpg?1473359387" type="image/jpeg" length="232457"/>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/september/plastics/asb0916plastic1.jpg?1473359052" type="image/jpeg" fileSize="35057">
+        <media:title type="plain">1</media:title>
+        <media:description type="plain">
+	The maleic anhydride groups are the most commonly used coupling agents. The maleic anhydride is grafted on the PE and the pendent anhydride groups then react with the polyamide amine end-groups. This illustration shows the reaction of a succinic anhydride group in the modifie
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/september/plastics/asb0916plastic2.jpg?1473359241" type="image/jpeg" fileSize="74933">
+        <media:title type="plain">2</media:title>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/september/plastics/asb0916plastic3.jpg?1473359199" type="image/jpeg" fileSize="73629">
+        <media:title type="plain">3</media:title>
+        <media:description type="plain">
+	This graph summarizes the results for yield stress and strain. Values for the base materials are plotted on the right to serve as a comparison. The yield stress of the polymer blend decreases with increasing HDPE content, while the yield strain remains constant at around 14 percent and is higher than that of the base materials.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/september/plastics/asb0916plastic4.jpg?1473359293" type="image/jpeg" fileSize="59665">
+        <media:title type="plain">4</media:title>
+        <media:description type="plain">
+	This graph illustrates the tensile strength achieved when the authors used hot-plate welding to join their polymer blends to HDPE and PA12. The gray bars show the results obtained with their original optimized settings. The dark bars show the results when they used two separate heating tools to tailor the heat to each part.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/september/plastics/asb0916plastic5.jpg?1473359324" type="image/jpeg" fileSize="69215">
+        <media:title type="plain">5</media:title>
+        <media:description type="plain">
+	This graph illustrates the melt viscosity of the polymer blends and base materials at varying temperatures. The viscosity of the blends is higher than the viscosity of the base materials, due to the higher molar mass of the blends.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/september/plastics/asb0916plastic6.jpg?1473359387" type="image/jpeg" fileSize="232457">
+        <media:title type="plain">6</media:title>
+        <media:description type="plain">
+	The authors used hot-plate welding to join a PA12 part to a coupon made from a blend of 70 percent PA12 and 30 percent HDPE. Surprisingly, the welding seam contained several small micro-cracks.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/september/plastics/asb0916plastic7.jpg?1473359428" type="image/jpeg" fileSize="55325">
+        <media:title type="plain">7</media:title>
+        <media:description type="plain">
+	This graph compares the tensile strength achieved with hot-plate welding (grey bars) and diffusion welding (dark bars).
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/september/plastics/asb0916plastic8.jpg?1473359467" type="image/jpeg" fileSize="201140">
+        <media:title type="plain">8</media:title>
+        <media:description type="plain">
+	This photo shows fracture patterns after tensile testing of parts joined with diffusion welding. For joints with blend 1 (70 percent PA12), the fracture path goes through the base material, and the fracture starts in the most fragile polymer part&amp;mdash;the blend.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/september/plastics/asb0916plastics_chart1.jpg?1473359497" type="image/jpeg" fileSize="67353">
+        <media:title type="plain">t1</media:title>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/september/plastics/asb0916plastics_chart2.jpg?1473359526" type="image/jpeg" fileSize="64824">
+        <media:title type="plain">t2</media:title>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/september/plastics/asb0916plastics_chart3.jpg?1473359547" type="image/jpeg" fileSize="80961">
+        <media:title type="plain">t3</media:title>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/september/plastics/asb0916plastics_chart4.jpg?1473359566" type="image/jpeg" fileSize="85858">
+        <media:title type="plain">t4</media:title>
+      </media:content>
+    </item>
+    <item>
+      <title>Whirlpool Breaks Ground on Factory Distribution Center Expansion</title>
+      <description>
+        <![CDATA[<p>
+	GREENVILLE, OH&mdash;Whirlpool Corp. will expand its Factory Distribution Center here, which ships KitchenAid small appliances worldwide. The project will nearly double the space at the facility, to 650,000 square feet.</p>
+]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93529</guid>
+      <pubDate>Thu, 25 Aug 2016 00:00:00 -0400</pubDate>
+      <link>http://www.assemblymag.com/articles/93529-whirlpool-breaks-ground-on-factory-distribution-center-expansion</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Default_Images/responsive/ASB_default_latestnews.jpg?1479231322" type="image/jpeg" length="166380"/>
+    </item>
+    <item>
+      <title>InSinkErator Transitioning Racine Facility to Assembly Only</title>
+      <description>
+        <![CDATA[<p>
+	RACINE, WI&mdash;InSinkErator will transition its factory here to an assembly-only plant over the next three years, and much of its motor production will move to other plants both inside and outside the U.S.</p>
+]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93522</guid>
+      <pubDate>Mon, 22 Aug 2016 00:00:00 -0400</pubDate>
+      <link>http://www.assemblymag.com/articles/93522-insinkerator-transitioning-racine-facility-to-assembly-only</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Default_Images/responsive/ASB_default_latestnews.jpg?1479231322" type="image/jpeg" length="166380"/>
+    </item>
+    <item>
+      <title>Selecting the Best Washer for Assembly</title>
+      <description>
+        <![CDATA[<p>
+	Washers are a vital component of many fastened joints. Washers are critical to the operation of virtually every device with moving parts. They perform a variety of functions beyond just securing bolts, nuts, screws and rivets. They can insulate, seal, lock, provide spacing, improve appearance, supply spring force, align parts, and distribute loads.</p>]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93471</guid>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 -0400</pubDate>
+      <link>http://www.assemblymag.com/articles/93471-selecting-the-best-washer-for-assembly</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Issues/2016/July/washers/asb0716washer1.jpg?1467136830" type="image/jpeg" length="143888"/>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/July/washers/asb0716washer1.jpg?1467136830" type="image/jpeg" fileSize="143888">
+        <media:title type="plain">1</media:title>
+        <media:description type="plain">
+	Washers are available in a bewildering array of sizes, shapes, materials and finishes. Photo courtesy Boker&amp;rsquo;s Inc.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/July/washers/asb0716washer2.jpg?1467137149" type="image/jpeg" fileSize="195074">
+        <media:title type="plain">2</media:title>
+        <media:description type="plain">
+	Washers are stamped parts. Make sure your manufacturer produces burr-free parts. Photo courtesy Boker&amp;rsquo;s Inc.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/July/washers/asb0716washer3.jpg?1467137187" type="image/jpeg" fileSize="121444">
+        <media:title type="plain">3</media:title>
+        <media:description type="plain">
+	Tab washers are a type of lock washer with one or more tabs that can be formed to shape around a bolt or nut. These washers effectively lock a part into place in applications subjected to extreme heat or heavy vibration. Photo courtesy Boker&amp;rsquo;s Inc.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/July/washers/asb0716washer4.jpg?1467137222" type="image/jpeg" fileSize="113571">
+        <media:title type="plain">4</media:title>
+        <media:description type="plain">
+	Miniature washers can be made with an OD smaller than 0.08 inch and an ID of 0.03 inch. They can be 0.005 thick or less. Photo courtesy Boker&amp;rsquo;s Inc.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/July/washers/asb0716washer5.jpg?1467137255" type="image/jpeg" fileSize="29865">
+        <media:title type="plain">5</media:title>
+        <media:description type="plain">
+	Belleville washers are often described as conical or spherical spring washers, as they have the form of a truncated cone or truncated sphere. They are commonly used in thermal expansion applications. Drawing courtesy Boker&amp;rsquo;s Inc.
+</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>Form-in-place and cure-in-place gaskets</title>
+      <author>camilloj@bnpmedia.com (Jim Camillo)</author>
+      <description>
+        <![CDATA[<p>
+	When an assembly process proves to be even a tad too costly&mdash;even a penny or less per cycle&mdash;a cheaper alternative must be found. This is why many manufacturers have replaced die-cut or molded solid gaskets with form-inplace (FIP) and cure-in-place (CIP) liquid gaskets.</p>
+]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93470</guid>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 -0400</pubDate>
+      <link>http://www.assemblymag.com/articles/93470-form-in-place-and-cure-in-place-gaskets</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Issues/2016/July/gasket/asb0716Gasket1.jpg?1467133714" type="image/jpeg" length="88852"/>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/July/gasket/asb0716Gasket1.jpg?1467133714" type="image/jpeg" fileSize="88852">
+        <media:title type="plain">1</media:title>
+        <media:description type="plain">
+	Several suppliers offer UV-cure adhesives for FIP and CIP gaskets. Photo courtesy Hernon Manufacturing Inc.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/July/gasket/asb0716Gasket2.jpg?1467133825" type="image/jpeg" fileSize="48112">
+        <media:title type="plain">2</media:title>
+        <media:description type="plain">
+	Hollow gaskets feature an open center that can be circular, triangular or rectangular. Photo courtesy New Precision Technology Inc.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/July/gasket/asb0716Gasket3.jpg?1467133853" type="image/jpeg" fileSize="39184">
+        <media:title type="plain">3</media:title>
+        <media:description type="plain">
+	The 736HPA-NV high-pressure, balanced-spool valve applies industrial silicones at fluid pressures up to 2,500 psi. Photo courtesy Nordson EFD
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/July/gasket/asb0716Gasket4.jpg?1467133886" type="image/jpeg" fileSize="50583">
+        <media:title type="plain">4</media:title>
+        <media:description type="plain">
+	Foam gaskets are typically applied with a positive-displacement metering and mixing system. Photo courtesy Nordson Sealant Equipment
+</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>Husqvarna to Expand Carolina Assembly Plant</title>
+      <description>
+        <![CDATA[<p>
+	ORANGEBURG, SC&mdash;Husqvarna Consumer Outdoor Products will invest $29 million to expand its assembly plant here.</p>
+]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93437</guid>
+      <pubDate>Tue, 07 Jun 2016 00:00:00 -0400</pubDate>
+      <link>http://www.assemblymag.com/articles/93437-husqvarna-to-expand-carolina-assembly-plant</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Default_Images/responsive/ASB_default_latestnews.jpg?1479231322" type="image/jpeg" length="166380"/>
+    </item>
+    <item>
+      <title>The Connected Home Is Here</title>
+      <author>webera@bnpmedia.com (Austin Weber)</author>
+      <description>
+        <![CDATA[<p>
+	For the last 100 years, dryers, ovens, refrigerators, washing machines and other household appliances have performed the same basic functions, such as keeping food hot or cold and getting clothes wet and dry. But, a new breed of &ldquo;smart&rdquo; appliances is emerging, thanks to advanced sensor technology and the Internet of Things (IoT).</p>]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93427</guid>
+      <pubDate>Fri, 03 Jun 2016 05:00:00 -0400</pubDate>
+      <link>http://www.assemblymag.com/articles/93427-the-connected-home-is-here</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Issues/2016/June/connected-home/asb0616appliance1.jpg?1464965658" type="image/jpeg" length="84397"/>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/June/connected-home/asb0616appliance1.jpg?1464965658" type="image/jpeg" fileSize="84397">
+        <media:title type="plain">1</media:title>
+        <media:description type="plain">
+	Smart appliances can connect and share information with smart phones and other mobile electronic devices. Photo courtesy Whirlpool Corp.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/June/connected-home/asb0616appliance2.jpg?1464965733" type="image/jpeg" fileSize="117978">
+        <media:title type="plain">2</media:title>
+        <media:description type="plain">
+	Advanced sensor technology enables smart appliances to monitor and collect a wide variety of data. Illustration courtesy Siemens AG
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/June/connected-home/asb0616appliance3.jpg?1464965760" type="image/jpeg" fileSize="78881">
+        <media:title type="plain">3</media:title>
+        <media:description type="plain">
+	Appliance manufacturers are scrambling to roll out products that contain smart features, such as this refrigerator equipped with a coffee brewing system. Photo courtesy GE Appliances
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/June/connected-home/asb0616appliance4.jpg?1464965785" type="image/jpeg" fileSize="73559">
+        <media:title type="plain">4</media:title>
+        <media:description type="plain">
+	Smart appliances offer unique data collection opportunities for manufacturers. Illustration courtesy Ayla Networks Inc.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/June/connected-home/asb0616appliance5.jpg?1464965812" type="image/jpeg" fileSize="36532">
+        <media:title type="plain">5</media:title>
+        <media:description type="plain">
+	Smart appliances are forcing engineers to rethink how they design products. Photo courtesy Samsung Electronics Co.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/June/connected-home/asb0616appliance6jpeg.jpg?1465238918" type="image/jpeg" fileSize="83980">
+        <media:title type="plain">6</media:title>
+        <media:description type="plain">
+	The push for innovation in the appliance industry is opening the door for small start-up companies with new ideas, such as this smart tea maker. Photo courtesy Keyway Innovations/QiAerista
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/June/connected-home/asb0616appliance7.jpg?1465238968" type="image/jpeg" fileSize="79604">
+        <media:title type="plain">7</media:title>
+        <media:description type="plain">
+	Smart appliances are more than just a fad. But, one of the big hurdles manufacturers face is getting consumers to buy into the technology. Photo courtesy Samsung Electronics Co.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/June/connected-home/asb0616appliance8.jpg?1465238997" type="image/jpeg" fileSize="41527">
+        <media:title type="plain">8</media:title>
+        <media:description type="plain">
+	By leveraging Internet of Things technology, this range lets consumers remotely monitor the cooktop and oven functions on a smart phone. Photo courtesy Samsung Electronics Co.
+</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>Whatâs New With Power Tools</title>
+      <author>camilloj@bnpmedia.com (Jim Camillo)</author>
+      <description>
+        <![CDATA[<p>
+	If we are to build a better world, politicians tell us, power must be placed in the right hands. This statement will draw no protest from assemblers. After all, these skilled workers require state-of-the-art power tools to build long-lasting quality products on a daily basis.</p>
+]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93428</guid>
+      <pubDate>Fri, 03 Jun 2016 00:00:00 -0400</pubDate>
+      <link>http://www.assemblymag.com/articles/93428-whats-new-with-power-tools</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Issues/2016/June/tools/asb0616Power1.jpg?1464966056" type="image/jpeg" length="87414"/>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/June/tools/asb0616Power1.jpg?1464966056" type="image/jpeg" fileSize="87414">
+        <media:title type="plain">1</media:title>
+        <media:description type="plain">
+	Assemblers use the 26C APU series pneumatic screwdriver upside down. Photo courtesy ASG, Div. of Jergens
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/June/tools/asb0616Power2.jpg?1464966131" type="image/jpeg" fileSize="94345">
+        <media:title type="plain">2</media:title>
+        <media:description type="plain">
+	The 19-Series of pneumatic nutrunners and screwdrivers includes right-angle, inline and pistoltrigger models with a torque range of 0.3 to 15.8 newton-meters. Photo courtesy APEX Tool Group LLC
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/June/tools/asb0616Power3.jpg?1464966162" type="image/jpeg" fileSize="31351">
+        <media:title type="plain">3</media:title>
+        <media:description type="plain">
+	Recently upgraded, the Minimat-ED digital electric screwdriver enables the operator to set torque (0.24 to 4.8 newton-meters) by pushing a button. Photo courtesy DEPRAG Inc.
+</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>Whirlpool to Install Wind Turbines at Ohio Plants</title>
+      <description>
+        <![CDATA[<p>
+	BENTON HARBOR, MI&mdash;Whirlpool Corp. plans to invest $14 million to build wind turbines at its assembly plants in Marion and Ottawa, OH.</p>
+]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93413</guid>
+      <pubDate>Thu, 26 May 2016 00:00:00 -0400</pubDate>
+      <link>http://www.assemblymag.com/articles/93413-whirlpool-to-install-wind-turbines-at-ohio-plants</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Default_Images/responsive/ASB_default_latestnews.jpg?1479231322" type="image/jpeg" length="166380"/>
+    </item>
+    <item>
+      <title>Whirlpool Begins One Expansion Project, Completes Another</title>
+      <description>
+        <![CDATA[<p>
+	FINDLAY, OH&mdash;Whirlpool Corp. has begun construction on a $40 million expansion project at its dishwasher assembly plant here. The project will add 86,400 square feet to the facility and create approximately 50 new jobs. In addition, the appliance manufacturer has completed work on $40 million expansion project at its assembly plant in nearby Greenville, OH.</p>
+]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93395</guid>
+      <pubDate>Fri, 06 May 2016 00:00:00 -0400</pubDate>
+      <link>http://www.assemblymag.com/articles/93395-whirlpool-begins-one-expansion-project-completes-another</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/LatestHeadlines/headlines900/whirlpool-900.jpg?1462553877" type="image/jpeg" length="301472"/>
+    </item>
+    <item>
+      <title>Clinching for Sheet Metal Assembly</title>
+      <author>camilloj@bnpmedia.com (Jim Camillo)</author>
+      <description>
+        <![CDATA[<p>
+	Manufacturers increasingly need to join multiple sheets of lightweight materials. Clinching can do it quickly, consistently and cost-effectively.</p>
+]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93388</guid>
+      <pubDate>Thu, 05 May 2016 00:00:00 -0400</pubDate>
+      <link>http://www.assemblymag.com/articles/93388-clinching-for-sheet-metal-assembly</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Issues/2016/May/Clinch/asb0516Clinch1.jpg?1462467833" type="image/jpeg" length="118677"/>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/May/Clinch/asb0516Clinch1.jpg?1462467833" type="image/jpeg" fileSize="118677">
+        <media:title type="plain">1</media:title>
+        <media:description type="plain">
+	As this image shows, six standard clinches are used to join a galvanized steel automotive band clamp for diesel exhaust components. Photo courtesy TOX Pressotechnik
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/May/Clinch/asb0516Clinch2.jpg?1462467931" type="image/jpeg" fileSize="62788">
+        <media:title type="plain">2</media:title>
+        <media:description type="plain">
+	Clinching produces a joint similar to a press stud, with a round (left), oval or rectangular (right) button under the bottom sheet. Photos courtesy BTM Corp.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/May/Clinch/asb0516Clinch3.jpg?1462467961" type="image/jpeg" fileSize="35028">
+        <media:title type="plain">3</media:title>
+        <media:description type="plain">
+	The floor-mounted Surelok III clinches smoothly and efficiently with 5 tons of force using only 90-psi shop air. To ensure accuracy, a laser points where the clinch will be made. Photo courtesy Norlok Technology Inc.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/May/Clinch/asb0516Clinch4.jpg?1462467993" type="image/jpeg" fileSize="75899">
+        <media:title type="plain">4</media:title>
+        <media:description type="plain">
+	Battery powered, the handheld MCD 30/50 AH unit joins mildsteel stacks up to 3 millimeters thick and aluminum stacks up to 4 millimeters thick. Photo courtesy Eckold GmbH
+</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>Mixed-Model Assembly Is Key to Profitability</title>
+      <author>webera@bnpmedia.com (Austin Weber)</author>
+      <description>
+        <![CDATA[<p>
+	Manufacturers today are producing a wider range of products than ever. Life cycles are shrinking and demand for customization is increasing. As a result, assembly lines must be as flexible as possible without compromising efficiency. That&rsquo;s why companies producing everything from pumps to pistols and caskets to chainsaws depend on mixed-model assembly.</p>]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93387</guid>
+      <pubDate>Thu, 05 May 2016 00:00:00 -0400</pubDate>
+      <link>http://www.assemblymag.com/articles/93387-mixed-model-assembly-is-key-to-profitability</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Issues/2016/May/mixed-model/asb0516mixed1.jpg?1462461790" type="image/jpeg" length="165728"/>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/May/mixed-model/asb0516mixed1.jpg?1462461790" type="image/jpeg" fileSize="165728">
+        <media:title type="plain">1</media:title>
+        <media:description type="plain">
+	Today, flexibility is more important than ever because of shrinking product life cycles and increasing demand for built-to-order products. Photo courtesy Visual Knowledge Share Ltd.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/May/mixed-model/asb0516mixed2.jpg?1462462351" type="image/jpeg" fileSize="270409">
+        <media:title type="plain">2</media:title>
+        <media:description type="plain">
+	Mixed-model assembly is the ability to assemble a family of products that share similar processes, similar work content and similar materials. Photo courtesy Ford Motor Co.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/May/mixed-model/asb0516mixed3.jpg?1462462379" type="image/jpeg" fileSize="183832">
+        <media:title type="plain">3</media:title>
+        <media:description type="plain">
+	Mixed-model assembly was originally created in the auto industry in response to the problems created by line changeovers. Photo courtesy Toyota Motor Corp.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/May/mixed-model/asb0516mixed4.jpg?1462462405" type="image/jpeg" fileSize="208892">
+        <media:title type="plain">4</media:title>
+        <media:description type="plain">
+	Lean, mixed-model assembly systems are highly tuned to customer requirements, especially the takt time needed to produce the right product mix to meet customer demand. The best ones make use of a mix of automated and manual assembly technologies, so that each step in the assembly process is highly optimized. Illustration courtesy Bosch Rexroth Corp.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/May/mixed-model/asb0516mixed5.jpg?1462462433" type="image/jpeg" fileSize="150243">
+        <media:title type="plain">5</media:title>
+        <media:description type="plain">
+	Custom kanban and heijunka boxes can improve flexible assembly applications. Photo courtesy U.S. Tsubaki Automotive and Lean Factory America LLC
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/May/mixed-model/asb0516mixed6.jpg?1462462462" type="image/jpeg" fileSize="134700">
+        <media:title type="plain">6</media:title>
+        <media:description type="plain">
+	AGV-driven kit carts are a common sight on many mixed-model assembly lines. Photo courtesy Creform Corp.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/May/mixed-model/asb0516mixed7.jpg?1462462489" type="image/jpeg" fileSize="183376">
+        <media:title type="plain">7</media:title>
+        <media:description type="plain">
+	Engineers should consider commonality of process, commonality of work contents and material commonality. Photo courtesy BMW AG
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/May/mixed-model/asb0516mixed8.jpg?1462462523" type="image/jpeg" fileSize="153165">
+        <media:title type="plain">8</media:title>
+        <media:description type="plain">
+	Visual work instructions play an important role in mixed-model assembly lines. Photo courtesy Visual Knowledge Share Ltd.
+</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>Electrolux Assembly Plant Exceeds Goals</title>
+      <description>
+        <![CDATA[<p>
+	MEMPHIS, TN&mdash;One of the largest economic development prizes for Memphis since the Great Recession, an Electrolux appliance assembly plant, has exceeded goals for jobs and investment that accompanied a tax break approved in 2011.</p>
+]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93369</guid>
+      <pubDate>Fri, 22 Apr 2016 00:00:00 -0400</pubDate>
+      <link>http://www.assemblymag.com/articles/93369-electrolux-assembly-plant-exceeds-goals</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Default_Images/responsive/ASB_default_latestnews.jpg?1479231322" type="image/jpeg" length="166380"/>
+    </item>
+    <item>
+      <title>GE Opens $39 Million Additive Manufacturing Center</title>
+      <description>
+        <![CDATA[<p>
+	FINDLAY TOWNSHIP, PA&mdash;General Electric has opened a new operation here that will specialize in applying additive manufacturing technology to support the conglomerate&rsquo;s various business units. The $39-million Center for Additive Technology Advancement will employ 50 engineers.</p>]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93344</guid>
+      <pubDate>Fri, 08 Apr 2016 00:00:00 -0400</pubDate>
+      <link>http://www.assemblymag.com/articles/93344-ge-opens-39-million-additive-manufacturing-center</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Default_Images/responsive/ASB_default_latestnews.jpg?1479231322" type="image/jpeg" length="166380"/>
+    </item>
+    <item>
+      <title>Automation Boosts Productivity at Ariens</title>
+      <author>webera@bnpmedia.com (Austin Weber)</author>
+      <description>
+        <![CDATA[<p>
+	Automated guided carts help cut assembly time for riding mowers.</p>]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93339</guid>
+      <pubDate>Thu, 07 Apr 2016 00:00:00 -0400</pubDate>
+      <link>http://www.assemblymag.com/articles/93339-automation-boosts-productivity-at-ariens</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Issues/2016/April/ariens/asb0416ariens1.jpg?1460039122" type="image/jpeg" length="198763"/>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/April/ariens/asb0416ariens1.jpg?1460039122" type="image/jpeg" fileSize="198763">
+        <media:title type="plain">ariens 1</media:title>
+        <media:description type="plain">
+	Ariens recently installed an automated guided cart system at its flagship assembly plant in Brillion, WI. Photo by Austin Weber
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/April/ariens/asb0416ariens2.jpg?1460039239" type="image/jpeg" fileSize="229738">
+        <media:title type="plain">ariens 2</media:title>
+        <media:description type="plain">
+	Ariens is a leading manufacturer of zero-turn lawnmowers. The machines are popular because they&amp;rsquo;re fast and maneuverable. Photo courtesy Ariens Co.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/April/ariens/asb0416ariens3.jpg?1460051346" type="image/jpeg" fileSize="252109">
+        <media:title type="plain">ariens 3</media:title>
+        <media:description type="plain">
+	Automated guided carts are used to assemble riding mowers such as the Ariens IKON X. Photo courtesy Ariens Co.</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/April/ariens/asb0416ariens4.jpg?1460051124" type="image/jpeg" fileSize="208441">
+        <media:title type="plain">ariens 4</media:title>
+        <media:description type="plain">
+	Automated guided carts are used to assemble zero-turn mowers such as the Gravely ZT X. Photo by Austin Weber</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/April/ariens/asb0416ariens5.jpg?1460039398" type="image/jpeg" fileSize="213738">
+        <media:title type="plain">ariens 5</media:title>
+        <media:description type="plain">
+	Ariens&amp;rsquo; new automated assembly line uses visual work instructions and ergonomic fixtures built in-house. Photo by Austin Weber
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/April/ariens/asb0416ariens6.jpg?1460049311" type="image/jpeg" fileSize="206293">
+        <media:title type="plain">ariens 6</media:title>
+        <media:description type="plain">
+	The new conveyor system has increased productivity and throughput by more than 60 percent. Photo courtesy Ariens Co.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/April/ariens/asb0416ariens7.jpg?1460049325" type="image/jpeg" fileSize="149013">
+        <media:title type="plain">ariens 7</media:title>
+        <media:description type="plain">
+	Ariens engineers designed and built height-adjustable steel carriers and fixtures in-house. Photo courtesy Wisconsin Lift Truck Corp.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/April/ariens/asb0416ariens8.jpg?1460049345" type="image/jpeg" fileSize="213640">
+        <media:title type="plain">ariens 8</media:title>
+        <media:description type="plain">
+	The production layout has changed from a U-shaped cell to a linear assembly line. That provides operators and material handlers more access from both sides. Photo by Austin Weber
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/April/ariens/asb0416ariens9.jpg?1460039910" type="image/jpeg" fileSize="231307">
+        <media:title type="plain">ariens 9</media:title>
+        <media:description type="plain">
+	Operators are no longer required to push carts, and the cell can be paced. Work now comes directly to the station and the employee. Photo courtesy Ariens Co.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/April/ariens/asb0416ariens10.jpg?1460049362" type="image/jpeg" fileSize="211100">
+        <media:title type="plain">ariens 10</media:title>
+        <media:description type="plain">
+	Riding mowers are produced in multiple configurations to meet different customer needs. Photo courtesy Ariens Co.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/April/ariens/asb0416ariens11.jpg?1460049380" type="image/jpeg" fileSize="214373">
+        <media:title type="plain">ariens 11</media:title>
+        <media:description type="plain">
+	Some lower volume products are assembled on U-shaped lines. Riding mowers are manually pushed from workstation to workstation. Photo by Austin Weber
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/April/ariens/asb0416ariens12.jpg?1460049395" type="image/jpeg" fileSize="192052">
+        <media:title type="plain">ariens 12</media:title>
+        <media:description type="plain">
+	Wasted motion has been eliminated with the automated conveyor system, which helps Ariens achieve its lean manufacturing initiatives. Photo courtesy Ariens Co.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/April/ariens/asb0416ariens13.jpg?1460049409" type="image/jpeg" fileSize="171432">
+        <media:title type="plain">ariens 13</media:title>
+        <media:description type="plain">
+	Automated guided carts follow floor-mounted magnetic tape that can be easily reconfigured in response to product or volume changes. Photo courtesy Ariens Co.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/April/ariens/asb0416ariens14.jpg?1460049423" type="image/jpeg" fileSize="112808">
+        <media:title type="plain">ariens 14</media:title>
+        <media:description type="plain">
+	Ariens equipment is used by homeowners, commercial landscapers and facilities maintenance professionals. Photo courtesy Ariens Co.
+</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>Friction Stir Spot Welding</title>
+      <author>sprovierij@bnpmedia.com (John Sprovieri)</author>
+      <description>
+        <![CDATA[<p>
+	Friction stir spot welding has many advantages compared with riveting or resistance spot welding.</p>
+]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93337</guid>
+      <pubDate>Thu, 07 Apr 2016 00:00:00 -0400</pubDate>
+      <link>http://www.assemblymag.com/articles/93337-friction-stir-spot-welding</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Issues/2016/April/stir/asb0416stir5.jpg?1460036320" type="image/jpeg" length="146115"/>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/April/stir/asb0416stir5.jpg?1460036320" type="image/jpeg" fileSize="146115">
+        <media:title type="plain">stir 5</media:title>
+        <media:description type="plain">
+	To prevent denting the materials during FSSW, support is needed on the back side of the joint. Photo courtesy Mazda Motor Corp.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/April/stir/asb0416stir1.jpg?1460036409" type="image/jpeg" fileSize="152140">
+        <media:title type="plain">stir 1</media:title>
+        <media:description type="plain">
+	Both FSSW and refill FSSW can be performed with a six-axis articulated robot. Photo courtesy Coldwater Machine Co.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/April/stir/asb0416stir2.jpg?1460036446" type="image/jpeg" fileSize="127318">
+        <media:title type="plain">stir 2</media:title>
+        <media:description type="plain">
+	Refill FSSW produces a flat, smooth surface across the top of the sheet. Photo courtesy Coldwater Machine Co.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/April/stir/asb0416stir3.jpg?1460036487" type="image/jpeg" fileSize="53514">
+        <media:title type="plain">stir 3</media:title>
+        <media:description type="plain">
+	At the start of the refill FSSW process, all three tools apply downward force to the sheets. The pin and sleeve heat the material and begin to penetrate the top sheet. Next, the pin retracts slightly, while the sleeve continues downward into the bottom sheet. At a preset distance, the sleeve reverses direction and the pin moves down again. When both the sleeve and pin are flush with the work surface, rotation stops and the tool is held in place to allow the joint to cool. Illustration courtesy Coldwater Machine Co.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/April/stir/asb0416stir4.jpg?1460036526" type="image/jpeg" fileSize="275768">
+        <media:title type="plain">stir 4</media:title>
+        <media:description type="plain">
+	FSSW has been around since 2003. The process was developed by Mazda Motor Corp. and Kawasaki Heavy Industries. Photo courtesy Mazda Motor Corp.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/April/stir/asb0416stir6.jpg?1460036570" type="image/jpeg" fileSize="208758">
+        <media:title type="plain">stir 6</media:title>
+        <media:description type="plain">
+	As automakers expand the use of aluminum in vehicles, interest in FSSW is increasing. Photo courtesy Mazda Motor Corp.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/April/stir/asb0416stir7.jpg?1460036604" type="image/jpeg" fileSize="79968">
+        <media:title type="plain">stir 7</media:title>
+        <media:description type="plain">
+	The FSSW process leaves a circular indentation on the top side of the joint. The back surface is unblemished. Photo courtesy Mazda Motor Corp.
+</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>Politicians Lose Their Cool Over Carrier Corp.'s Offshoring Decision</title>
+      <author>sprovierij@bnpmedia.com (John Sprovieri)</author>
+      <description>
+        <![CDATA[<p>
+	Manufacturing has again become part of the conversation on the presidential campaign trail, though not for the best of reasons.</p>
+]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93331</guid>
+      <pubDate>Wed, 06 Apr 2016 00:00:00 -0400</pubDate>
+      <link>http://www.assemblymag.com/articles/93331-politicians-lose-their-cool-over-carrier-corps-offshoring-decision</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Default_Images/responsive/editorial.jpg?1433258973" type="image/jpeg" length="57531"/>
+    </item>
+    <item>
+      <title>KitchenAid Begins Assembling New Blender in Ohio</title>
+      <description>
+        <![CDATA[<p>
+	GREENVILLE, OH&mdash;After two years in product development, Whirlpool and KitchenAid finally began producing the new KitchenAid Pro Line Blender on March 28. The new product joins a host of other appliances assembled in Greenville, such as the KitchenAid Stand Mixer and hand mixer.</p>
+]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93325</guid>
+      <pubDate>Thu, 31 Mar 2016 00:00:00 -0400</pubDate>
+      <link>http://www.assemblymag.com/articles/93325-kitchenaid-begins-assembling-new-blender-in-ohio</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Default_Images/responsive/ASB_default_latestnews.jpg?1479231322" type="image/jpeg" length="166380"/>
+    </item>
+    <item>
+      <title>US Responds to Dumping Allegations, Imposes Huge Tax on Imported Steel</title>
+      <description>
+        <![CDATA[<p>
+	WASHINGTON&mdash;Producers in China and six other countries sold cold-rolled steel at unfairly low prices in the U.S. market and will be taxed as much as 266 percent on the price.</p>
+]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93280</guid>
+      <pubDate>Fri, 04 Mar 2016 00:00:00 -0500</pubDate>
+      <link>http://www.assemblymag.com/articles/93280-us-responds-to-dumping-allegations-imposes-huge-tax-on-imported-steel</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Default_Images/responsive/ASB_default_latestnews.jpg?1479231322" type="image/jpeg" length="166380"/>
+    </item>
+    <item>
+      <title>Test Chamber Proves a Sound Solution for Whirlpool</title>
+      <author>camilloj@bnpmedia.com (Jim Camillo)</author>
+      <description>
+        <![CDATA[<p>
+	Few things in a home are as annoying as a noisy appliance.</p>
+]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93265</guid>
+      <pubDate>Tue, 01 Mar 2016 00:00:00 -0500</pubDate>
+      <link>http://www.assemblymag.com/articles/93265-test-chamber-proves-a-sound-solution-for-whirlpool</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Issues/2016/March/AIA/asb0316AIA5.jpg?1456429758" type="image/jpeg" length="142652"/>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/March/AIA/asb0316AIA5.jpg?1456429758" type="image/jpeg" fileSize="142652">
+        <media:title type="plain">appliance 1</media:title>
+        <media:description type="plain">
+	Whirlpool Corp. engineers use two anechoic chambers to measure sound produced by appliances and appliance components. Photo courtesy Eckel Industries Inc.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/March/AIA/asb0316AIA6.jpg?1456429830" type="image/jpeg" fileSize="122263">
+        <media:title type="plain">appliance 6</media:title>
+        <media:description type="plain">
+	Each anechoic chamber is large enough to accommodate any Whirlpool product&amp;mdash;from a toaster to a refrigerator. Photo courtesy Eckel Industries Inc.
+</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>Durable Goods Orders Jump 4.9 Percent in January</title>
+      <description>
+        <![CDATA[<p>
+	WASHINGTON&mdash;Orders for big-ticket goods surged in January. The Commerce Department said Thursday that new orders of durable goods increased 4.9 percent last month, topping the median estimate of 2.9 percent that economists had been expecting.</p>
+]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93269</guid>
+      <pubDate>Fri, 26 Feb 2016 00:00:00 -0500</pubDate>
+      <link>http://www.assemblymag.com/articles/93269-durable-goods-orders-jump-49-percent-in-january</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/LatestHeadlines/latest_headlines2/GE-appliance-park-900.jpg?1428332922" type="image/jpeg" length="443138"/>
+    </item>
+    <item>
+      <title>Whirlpool to Expand Ohio Assembly Plant</title>
+      <description>
+        <![CDATA[<p>
+	FINDLAY, OH&mdash;Whirlpool Corp. will add about 50 jobs in a $40.6 million, 86,400-square-foot expansion of its dishwasher assembly plant here.</p>
+]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93250</guid>
+      <pubDate>Mon, 22 Feb 2016 00:00:00 -0500</pubDate>
+      <link>http://www.assemblymag.com/articles/93250-whirlpool-to-expand-ohio-assembly-plant</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Default_Images/responsive/ASB_default_latestnews.jpg?1479231322" type="image/jpeg" length="166380"/>
+    </item>
+  </channel>
+</rss>

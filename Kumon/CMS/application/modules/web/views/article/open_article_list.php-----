@@ -1,0 +1,576 @@
+<script src="js/jquery.js"></script>
+
+<link rel="stylesheet" href="http://code.jquery.com/ui/1.10.3/themes/smoothness/jquery-ui.css" />
+<script src="http://code.jquery.com/jquery-1.9.1.js"></script>
+<script src="http://code.jquery.com/ui/1.10.3/jquery-ui.js"></script>
+<script src="<?php echo $this->config->base_url() . 'js/ckeditor/ckeditor.js'; ?>"></script>
+
+<!-- Load jQuery and the validate plugin -->  
+<script src="//ajax.aspnetcdn.com/ajax/jquery.validate/1.9/jquery.validate.min.js"></script>
+
+
+<script>
+    $(document).ready(function() {
+        $(".view-bttn").click(function() {
+            $(".layer-bg").fadeIn();
+        });
+
+        $(".close-bttn").click(function() {
+            $(".layer-bg").fadeOut();
+        });
+    });
+
+
+    /* GET LANGUAGE ID AND FETCH LANGUAGE DATA*/
+
+    function LanguageData(val, catId, langId) {
+        window.location.href = "<?php echo base_url(); ?>index.php/openarticlelist?catagory=" + catId + "&lang=" + val;
+    }
+
+    /* SORT CATAGORY DATA*/
+
+    function CatagoryData(val, catId, langId) {
+        var rowId = val;//      
+        window.location.href = "<?php echo base_url(); ?>index.php/openarticlelist?catagory=" + val + "&lang=" + langId;
+        //$('#catagory_form').submit();
+    }
+
+    /* GET ADMIN DETAILS AJAX*/
+    function PUBLISHARTICLE(val1) {
+
+        var tid1 = val1;
+        //alert(tid1);
+        $.ajax({
+            type: "POST",
+            data: {Id: tid1},
+            url: "<?php echo $this->config->base_url(); ?>index.php/publisharticle",
+            success: function(data)
+            {
+                //console.log(data);
+                location.reload();
+
+            }
+
+        });
+
+    }
+
+    /* DELETE A ADMIN*/
+
+    function ConfirmDel() {
+        var x = confirm("<?php echo $this->lang->line("Are_you_sure_want_to_delete_this_record"); ?>")
+        if (x) {
+            return true;
+        } else {
+            return false;
+        }
+    }
+    /*DELETE A ARTICLE*/
+    function DELETE(rowId) {
+        var disable = confirm("<?php echo $this->lang->line("Are_you_sure_want_to_delete_this_record"); ?>");
+        if (disable === true)
+        {
+            var msg = '';
+            $.ajax({
+                type: "POST",
+                data: {val: rowId},
+                dataType: "html",
+                url: "<?php echo $this->config->base_url(); ?>index.php/deleteopenarticle",
+                success: function(data)
+                { //alert(data);
+                    location.reload();
+                }
+            });
+
+        }
+    }
+
+    /*RESTORE A ARTICLE*/
+    function RESTORE(rowId) {
+        var disable = confirm("<?php echo $this->lang->line("Are_you_sure_want_to_restore_this_article"); ?>");
+        if (disable === true)
+        {
+            var msg = '';
+            $.ajax({
+                type: "POST",
+                data: {val: rowId},
+                dataType: "html",
+                url: "<?php echo $this->config->base_url(); ?>index.php/restoreopenarticle",
+                success: function(data)
+                { //alert(data);
+                    location.reload();
+                }
+            });
+
+        }
+    }
+
+    /*RESTORE A ARTICLE*/
+    function PERMANENTDELETE(rowId) {
+        var disable = confirm("<?php echo $this->lang->line("Are_you_sure_want_to_perdelete_this_record"); ?>");
+        if (disable === true)
+        {
+            var msg = '';
+            $.ajax({
+                type: "POST",
+                data: {val: rowId},
+                dataType: "html",
+                url: "<?php echo $this->config->base_url(); ?>index.php/permanentdeleteopenarticle",
+                success: function(data)
+                { //alert(data);
+                    location.reload();
+                }
+            });
+
+        }
+    }
+
+
+
+</script>
+
+</head>
+<?php
+$lang = $_GET['lang'];
+$catagory = $_GET['catagory'];
+?>
+
+<div class="subheader">
+    <div class="fix-container clearfix">
+        <h4><?php echo $this->lang->line('Open_Article') ?></h4>
+        <a class="add-new" href="<?php echo $this->config->base_url(); ?>index.php/addarticle">Add New</a>
+
+    </div>
+</div>
+
+<nav class="clearfix">
+    <div class="fix-container clearfix">
+        <ul>
+            <li class="active"><a href="openarticlelist"><?php echo $this->lang->line('All') ?> <span class="blue"><?php echo $all_article; ?></span></a></li>
+            <li><a href="getpublishedarticlelist"><?php echo $this->lang->line('Published') ?> <span class="green"><?php echo $all_publish_article; ?></span></a></li>            
+            <li><a href="getnewarticlelist"><?php echo $this->lang->line('New') ?> <span class="yellow"><?php echo $all_new_article; ?></span></a></li>
+            <li><a href="getdraftarticlelist"><?php echo $this->lang->line('Draft') ?> <span class="yellow"><?php echo $all_drafted_article; ?></span></a></li>
+            <li><a href="getdeletedarticlelist"><?php echo $this->lang->line('Deleted') ?> <span class="red"><?php echo $all_deleted_article; ?></span></a></li>            
+        </ul>
+    </div>
+</nav>
+
+<div class="fix-container clearfix">
+    <div class="upper_bar clearfix filter-bar">       
+
+        <div class="search-bar">
+            <div class="search-box">
+                <div class="language-filter clearfix">
+                    <div class="select-container">
+                        <div class="select-arrow">
+                            <div class="arrow-down"></div>
+                        </div> 
+                        <form id="catagory_form" action="<?php echo $this->config->base_url() ?>index.php/openarticlelist" method="POST">
+                            <select class="choose-lang" onChange="CatagoryData(this.value, '<?php echo $_GET['catagory'] ?>', '<?php echo $_GET['lang'] ?>');" name="catagory" id="catagory">
+                                <option value="" name=""><?php echo $this->lang->line('Select_Category') ?></option>
+                                <?php foreach ($catagory_result as $state) { ?>
+                                    <option value="<?php echo $state['id']; ?>" <?php if ($state['id'] == $catagory) { ?> selected="selected" <?php } ?>><?php echo $state['category_name']; ?></option>
+                                <?php }
+                                ?>
+                            </select>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="search-bar right-align-box">
+            <div class="language-filter clearfix">
+                <div class="select-container">
+                    <div class="select-arrow">
+                        <div class="arrow-down"></div>
+                    </div> 
+                    <form id="languge_form" action="<?php echo $this->config->base_url() ?>index.php/openarticlelist" method="POST">
+                        <select class="choose-lang" onChange="LanguageData(this.value, '<?php echo $_GET['catagory'] ?>', '<?php echo $_GET['lang'] ?>');" name="lang" id="lang">
+                            <option value="" name=""><?php echo $this->lang->line("Article_Language"); ?></option>
+                            <?php foreach ($language_result as $state) { ?>
+                                <option value="<?php echo $state['id']; ?>" <?php if ($state['id'] == $lang) { ?> selected="selected" <?php } ?>><?php echo $state['language']; ?></option>
+                            <?php }
+                            ?>
+                        </select>
+                    </form>
+                </div>
+            </div>
+
+
+        </div>
+
+    </div>
+
+    <div class="category-list">
+        <div style="color: red"><p><?php
+                echo $msg;
+                echo $this->session->flashdata("msg");
+                ?>   </p>
+            <div style="color: green"><p><?php
+                    echo $msg;
+                    echo $this->session->flashdata("sus_msg");
+                    ?>   </p></div>
+            <?php echo validation_errors(); ?>
+        </div>
+
+        <div class="table-container">
+            <table class="adjust-table" border="0" cellpadding="0" cellspacing="0">
+                <tr>
+                    <th><?php echo $this->lang->line('Title') ?></th>
+                    <th><?php echo $this->lang->line('Author') ?></th>
+                    <th><?php echo $this->lang->line('Category') ?></th>
+                    <th><?php echo $this->lang->line('Tags') ?></th>
+                    <th><span class="commentNotification"><?php echo $this->lang->line('No_of_comments') ?></span></th>
+                    <th><?php echo $this->lang->line('Category_Language') ?></th>
+                    <th><?php echo $this->lang->line('Article_Language') ?></th>
+                    <th><?php echo $this->lang->line('Status') ?></th>                    
+                    <th class="action-colm"><?php echo $this->lang->line('Action') ?></th>
+                </tr>
+                <?php //echo"<pre>"; print_r($data_result['id']);die; ?>
+                <?php
+                if ($data_result != "") {
+                    foreach ($data_result as $value) {
+                        ?>
+                        <tr> 
+                            <td><?php echo $value['title']; ?>  </td>
+                            <td>
+                                <?php
+                                if ($value['author'] == "") {
+                                    echo$value['user_name'];
+                                } else {
+                                    echo $value['author'];
+                                }
+                                ?>
+                            </td>
+
+
+                            <td>
+                                <?php
+                                $name = array();
+                                if ($value['category_name'] != "") {
+                                    foreach ($value['category_name'] as $cn) {
+                                        $name[] = $cn['category_name'];
+                                    }
+                                    echo implode(',', $name);
+                                }
+                                ?>
+                            </td>
+                            <td><?php echo $value['tags']; ?>  </td>
+                            <td><span class="commentNotification"><em><?php echo$value['comment_count']; ?></em></span></td>
+                            <td><?php echo $value['language']; ?>  </td>
+                            <td><?php if($value['article_language']=='1'){ echo"English"; }
+                            elseif($value['article_language']=='2'){ echo"Portuguese"; }
+                            elseif($value['article_language']=='3'){ echo"Spanish"; } ?>  
+                            </td>
+                            <td>
+                                <?php /* CREATED BY ADMIN */ if ($value['created_by'] == '1') { ?>                                
+                                    <?php if ($value['status'] == '1') { ?>
+                                <spam class="pending-btn"><?php echo $this->lang->line('Draft') ?></spam>
+                            <?php } elseif ($value['status'] == '2') { ?>
+
+                                <?php
+                                $todays_date = date("Y-m-d");
+                                if ($todays_date >= $value['publish_from'] && $todays_date <= $value['publish_to'] && $value['status'] == '2') {
+                                    ?>
+                                    <spam class="aprove-btn"><?php echo $this->lang->line('Published') ?><spam>
+                                        <?php } elseif ($todays_date < $value['publish_from']) { ?>
+                                            <spam class="rejected-btn"><?php echo $this->lang->line('Scheduled') ?></spam>
+                                        <?php } elseif ($todays_date > $value['publish_to']) { ?>
+                                            <spam class="rejected-btn"><?php echo $this->lang->line('Expired') ?></spam>
+                                        <?php } ?>
+
+                                    <?php } else { ?>
+                                        <spam class="rejected-btn"><?php echo $this->lang->line('Deleted') ?></spam>
+                                    <?php } ?> 
+
+                                <?php } elseif ($value['created_by'] == '0') /* CREATED BY CROLLER */ { ?>                                    
+                                    <?php if ($value['status'] == '1') { ?>
+                                        <spam class="pending-btn-btn"><?php echo $this->lang->line("New"); ?></spam>
+                                    <?php } elseif ($value['status'] == '2') { ?>
+
+                                        <?php
+                                        $todays_date = date("Y-m-d");
+                                        if ($todays_date >= $value['publish_from'] && $todays_date <= $value['publish_to'] && $value['status'] == '2') {
+                                            ?>
+                                            <spam class="aprove-btn"><?php echo $this->lang->line("Published"); ?></spam>
+                                        <?php } elseif ($todays_date <= $value['publish_from']) { ?>
+                                            <spam class="rejected-btn"><?php echo $this->lang->line("Scheduled"); ?></spam>
+                                        <?php } elseif ($todays_date > $value['publish_to']) { ?>
+                                            <spam class="rejected-btn"><?php echo $this->lang->line('Expired') ?></spam>
+                                        <?php } ?>                                    
+
+                                    <?php } else { ?>
+                                        <spam class="rejected-btn"><?php echo $this->lang->line("Deleted"); ?></spam>
+                                        <?php
+                                    }
+                                }
+                                ?>
+
+                                </td>
+
+                                <td>
+                                    <?php if ($value['status'] == '1') { ?>
+                                        <a class="aprove-btn publish_class" href="javascript:void(0)" >Publish</a>
+
+                                        <a class="edit-icon" href="<?php echo $this->config->base_url(); ?>index.php/editopenarticle?rowId=<?php echo $value['id']; ?>">Edit</a>
+                                        <a class="delete-bttn" href="#" onclick="DELETE(<?php echo $value['id']; ?>, '<?php echo "delete"; ?>');">DELETE</a>
+
+                                    <?php } elseif ($value['status'] == '2') { ?>                                
+                                        <a class="edit-icon" href="<?php echo $this->config->base_url(); ?>index.php/editopenarticle?rowId=<?php echo $value['id']; ?>">Edit</a>
+                                        <a class="delete-bttn" href="#" onclick="DELETE(<?php echo $value['id']; ?>, '<?php echo "delete"; ?>');">DELETE</a> 
+                                    <?php } else { ?>                                
+                                        <a class="restore-bttn" href="#" onclick="RESTORE(<?php echo $value['id']; ?>, '<?php echo "delete"; ?>');">RESTORE</a>
+                                        <a class="shift-delete-bttn" href="#" onclick="PERMANENTDELETE(<?php echo $value['id']; ?>, '<?php echo "delete"; ?>');">PERMANENT DELETE</a>
+                                    <?php } ?>                              
+                                </td>
+
+                                </td>
+                                </tr>
+
+                                <tr>
+                                    <td colspan="8" class="padding-free">
+                                        <div class="show_form clearfix" style="display:none;">
+                                            <div class="add-article">
+
+                                                <div class="add-article-form">
+                                                    <?php //echo 'id='.$value['id'];?>
+                                                    <?php
+                                                    $attributes = array('name' => 'add_article', 'id' => "add_article" . $value['id'], 'class' => 'form-horizontal');
+                                                    echo form_open_multipart($this->config->base_url() . 'index.php/publishopenarticle', $attributes);
+                                                    ?> 
+                                                    <div class="left-grid">
+
+                                                        <div class="input-box">
+                                                            <label><?php echo $this->lang->line('Title') ?> :</label>            
+                                                            <input id="title"  type="text" name="title" value="<?php echo $value['title']; ?>">
+                                                        </div>
+
+
+                                                        <script>
+            $(function() {
+                $(".datefrom1").datepicker({yearRange: "1900:3000", dateFormat: 'yy-mm-dd', changeMonth: true, changeYear: true, minDate: 'today', inline: true});
+            });
+                                                        </script>
+                                                        <div class="input-box"> 
+                                                            <label><?php echo $this->lang->line('Publish_Date_From') ?></label>
+                                                            <input type="text" class="datefrom1"  name="datefrom" readonly="true" value="<?php echo$value['publish_from'] ?>"></div>
+                                                        <script>
+                                                            $(function() {
+                                                                $(".dateto1").datepicker({yearRange: "1900:3000", dateFormat: 'yy-mm-dd', changeMonth: true, changeYear: true, minDate: 'today', inline: true});
+                                                            });
+                                                        </script>
+                                                        <div class="input-box"><label><?php echo $this->lang->line('Publish_Date_To') ?></label>
+                                                            <input type="text"  class="dateto1"  name="dateto" readonly="true" value="<?php echo$value['publish_to'] ?>"></div>
+                                                        <?php //echo"<pre>"; print_r($value); ?>
+
+                                                        <div class="input-box">
+                                                            <label><?php echo $this->lang->line('Tags') ?>:</label>
+                                                            <textarea type="text" name="tags"  rows="6" ><?php echo $value['tags']; ?></textarea>
+                                                        </div> 
+
+
+                                                        <div class="advertisement-type clearfix">
+                                                            <div class="checkbox-container"><input type="checkbox" name="comments" id="media_type" value="1" checked="true"> Allow Comments </div>
+                                                            <div class="checkbox-container"><input type="checkbox" name="share" id="media_type"  value="2" checked="true"> Allow Share </div>
+                                                        </div>
+                                                        <div class="input-box clearfix">
+                                                                <label class=""><?php echo $this->lang->line('Article_Language') ?></label>
+                                                                <select class="" name ='articlelang' id="articlelang">   
+                                                                    <?php $articlelang = $value['article_language']; ?>
+                                                                    <?php foreach ($language_result as $state) { ?>
+                                                                        <option value="<?php echo $state['id']; ?>" <?php if ($state['id'] == $articlelang) { ?> selected="selected" <?php } ?>><?php echo $state['language']; ?></option>
+                                                                    <?php }
+                                                                    ?>
+                                                                </select>
+                                                            </div>
+
+                                                    </div>
+                                                    <script language="JavaScript">
+                                                        function toggle(source) {
+                                                            checkboxes = document.getElementsByName('catagory[]');
+                                                            for (var i = 0, n = checkboxes.length; i < n; i++) {
+                                                                checkboxes[i].checked = source.checked;
+                                                            }
+                                                        }
+
+                                                        /* for uncheck check box select all option */
+                                                        function removeall(th) { //alert('hello');
+                                                            //console.log(document.getElementById("selectall"));
+                                                            $('.selectall').each(function() {//console.log('check');
+                                                                this.checked = false;
+                                                            });
+
+                                                            // document.getElementsByClassName("selectall").checked = false;
+                                                        }
+                                                    </script>
+
+                                                    <div class="right-grid">
+                                                        <div class="input-box">                                                   
+                                                            <label class="full-width-label"><?php echo $this->lang->line('Language') ?></label>
+                                                            <select class="languageval" name ='language' id="<?php echo $value['id']; ?>" onchange="removeall();">                                                        
+                                                                <?php $lang = $value['language_id']; ?>
+                                                                <?php foreach ($language_result as $state) { ?>
+                                                                    <option value="<?php echo $state['id']; ?>" <?php if ($state['id'] == $lang) { ?> selected="selected" <?php } ?>><?php echo $state['language']; ?></option>
+                                                                <?php }
+                                                                ?>                   
+
+                                                            </select>
+
+                                                        </div>
+
+
+                                                        <div class="input-box">
+                                                            <label class="full-width-label"><?php echo $this->lang->line('Categories') ?></label>
+                                                            <div class="selectAll">
+                                                                <!--input type="checkbox" name='selectall' id='selectall' onClick="toggle(this)" /--> <?php //echo $this->lang->line('Select_All');  ?>
+                                                                <input type="checkbox" name='selectall' id='selectall' class="selectall" onClick="toggle(this)" /> <?php echo $this->lang->line('Select_All') ?>   
+                                                            </div>
+
+                                                            <div class="multiselect-box clearfix fullbox selectCategory">                    
+                                                                <?php
+                                                                if ($value['language_id'] == "0") {
+                                                                    $language = '1';
+                                                                } else {
+                                                                    $language = $value['language_id'];
+                                                                }
+                                                                /* NEW CHANGE */
+                                                                if ($language == '1') {
+                                                                    $sql = $this->db->query("select id,category_name,status,created_date from tbl_category where status='1' AND category_name !=''  ORDER BY category_name");
+                                                                } else if ($language == '2') {
+                                                                    $sql = $this->db->query("select id,category_name_portuguese as category_name,status,created_date from tbl_category where status='1' AND category_name_portuguese !='' ORDER BY category_name");
+                                                                } else if ($language == '3') {
+                                                                    $sql = $this->db->query("select id,category_name_spanish as category_name,status,created_date from tbl_category where status='1' AND category_name_spanish !='' ORDER BY category_name");
+                                                                }
+                                                                //$language = $value['language_id'];                                                              
+                                                                //$sql = $this->db->query("SELECT id,category_name FROM tbl_category WHERE status = '1' AND language='$language' ORDER BY id DESC");
+                                                                $catagory_result = $sql->result_array();
+
+                                                                $selected_catagory = $value['category_id'];
+                                                                $selected_catagoryArray = explode(',', $selected_catagory);
+                                                                foreach ($catagory_result as $value1) {
+                                                                    $catagory_id = $value1['id'];
+                                                                    $catagory_name = $value1['category_name'];
+                                                                    ?>
+                                                                               <!--div class="cbox"><input type="checkbox" id="catagory[]" name="catagory[]" value="' . $catagory_id . '" />' . $catagory_name.'</div-->
+                                                                    <div class="cbox"> <input type="checkbox" id="catagory[]" name="catagory[]" class="catagory_class<?php echo $value['id']; ?>" value="<?php echo $catagory_id ?>"<?php if (in_array($catagory_id, $selected_catagoryArray)) { ?> checked="checked" <?php } ?>/> <?php echo $catagory_name ?></div>
+                                                                <?php } ?>
+                                                                <?php $selected_catagoryArray = array(); ?>
+                                                            </div> 
+                                                            <label for="catagory" style="display:none;" generated="true" class="error category_class_error<?php echo $value['id']; ?>"><?php echo $this->lang->line("Please_select_catagory") ?>.</label>
+                                                        </div>
+                                                        <div class="input-box">
+                                                            <input type='hidden' name='article_id' value='<?php echo $value['id']; ?>'>
+                                                        </div>
+
+
+                                                        <div class="input-container align-right clearfix">    
+                                                         <!--a class="publish-magazine" href="#" onclick="PUBLISHARTICLE(<?php echo $value['id']; ?>, '<?php echo "publish"; ?>');">Publish</a-->
+                                                            <input type ="Submit" name="publish" value="publish">
+                                                            <input type ="hidden" name="article_id" value="<?php echo $value['id']; ?>">
+
+
+                                                        </div>
+                                                    </div>
+        <?php echo form_close(); ?>
+
+                                                    <script>
+
+
+
+                                                        // Setup form validation on the #register-form element
+                                                        $("#add_article<?php echo $value['id']; ?>").validate({
+                                                            // Specify the validation rules
+                                                            rules: {
+                                                                title: "required",
+                                                                catagory: "checked",
+                                                                language: "required",
+                                                                datefrom: {
+                                                                    required: true
+                                                                },
+                                                                dateto: {
+                                                                    required: true
+                                                                }
+                                                            },
+                                                            // Specify the validation error messages
+                                                            messages: {
+                                                                title: "<?php echo $this->lang->line("Please_enter_your_title") ?>",
+                                                                catagory: "<?php echo $this->lang->line("Please_select_catagory") ?>",
+                                                                datefrom: "<?php echo $this->lang->line("Please_select_date_from") ?>",
+                                                                dateto: "<?php echo $this->lang->line("Please_select_date_to") ?>",
+                                                            },
+                                                            submitHandler: function(form) {
+                                                                if ($(".catagory_class<?php echo $value['id']; ?>:checked").length == 0) {
+                                                                    $(".category_class_error<?php echo $value['id']; ?>").show();
+                                                                    return false;
+                                                                }
+
+                                                                form.submit();
+                                                            }
+                                                        });
+
+
+                                                    </script>
+
+
+                                                    <div class="input-container align-right clearfix">  
+                                                        <button class="cancel-margin" type="cancel" onclick="javascript:window.location = '<?php echo $this->config->base_url(); ?>index.php/openarticlelist';">Cancel</button>
+                                                    </div>
+
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <script>
+
+                                                        /*for language ajax*/
+                                                        $('.languageval').change(function() {
+                                                            var classId = $(this).attr('id');
+                                                            if ($(this).val() != '') {
+                                                                $.ajax({
+                                                                    url: "<?php echo base_url() ?>index.php/getCategoryFromLanguage",
+                                                                    type: "POST",
+                                                                    data: {'id': $(this).val(), 'selec_cat': '<?php echo $selected_catagory; ?>', 'selectedClass': classId},
+                                                                    success: function(res) {
+                                                                        $('.selectCategory').html(res);
+                                                                    }
+                                                                });
+                                                            } else {
+                                                                $('.selectCategory').html('');
+                                                            }
+                                                        });
+
+                                        </script>
+                                    </td>
+                                </tr>
+
+                                <?php
+                            }
+                        }
+                        ?> 
+
+                        </table>
+
+
+
+                        </div>
+
+
+                        <div class="pagination clearfix">
+                            <ul><?php echo $this->pagination->create_links(); ?></ul> 
+                        </div>
+
+
+                        </div>    
+
+
+
+                        <script>
+                            $('.publish_class').click(function() {
+
+                                $(this).parent().parent().next().find('.show_form').toggle();
+                            });
+
+
+                        </script>
+                        </body>
+                        </html>

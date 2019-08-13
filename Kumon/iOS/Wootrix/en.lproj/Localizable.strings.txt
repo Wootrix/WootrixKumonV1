@@ -1,0 +1,142 @@
+/* 
+  Localizable.strings
+  Wootrix
+
+  Created by Mayank Pahuja on 10/02/15.
+  Copyright (c) 2015 Techahead. All rights reserved.
+*/
+
+
+"Wootrix" = "Wootrix";
+"ph" = "ph";
+"Settings" = "Settings";
+"Successfully shared on Twitter" = "Successfully shared on Twitter";
+"Twitter Login Failed" = "Twitter Login Failed";
+"Twitter is not configured your device settings. Please go to device settings and configure twitter account first." = "Twitter is not configured on your device settings. Please go to device settings and configure twitter account first.";
+"Failed to shared on Twitter" = "Failed to shared on Twitter";
+"Successfully shared on Facebook" = "Successfully shared on Facebook";
+"Failed to shared on Facebook" = "Failed to shared on Facebook";
+"Out Of Memory Error" = "Out Of Memory Error";
+"Hello world!" = "Hello world!";
+"Network Not Available" = "Network Not Available";
+
+
+
+"Name" = "Name";
+"Email" = "Email";
+"Error" = "Error";
+"Password" = "Password";
+"Confirm Password" = "Confirm Password";
+"Log in" = "Log in";
+"Sign up" = "Sign up";
+"Log in with" = "Log in with";
+"Don't have an account yet? Sign up here" = "Don't have an account yet? Sign up here";
+"Alreay have an account? Login here" = "Already have an account? Log in here";
+"Invalid email address" = "Invalid email address";
+"Please wait..." = "Please wait...";
+"Loading..." = "Loading...";
+"Send" = "Send";
+"Write a comment..." = "Write a comment...";
+"Camera" = "Camera";
+"Gallery" = "Gallery";
+"SD-Card not available" = "SD-Card not available";
+"Ok" = "Ok";
+"Cancel" = "Cancel";
+"Choose Image" = "Choose Image";
+
+
+
+"Show Page" = "Show Page";
+"Change Email" = "Change Email";
+"Change Password" = "Change Password";
+"Rate App" = "Rate App";
+"Change Language" = "Change Language";
+"About Us" = "About Us";
+"Topics" = "Topics";
+"Magazines" = "Magazines";
+"Article Languages" = "Article Languages";
+"Log out" = "Log out";
+"CANCEL" = "CANCEL";
+"DONE" = "DONE";
+"New Email ID" = "New Email ID";
+"Confirm Email ID" = "Confirm Email ID";
+"Old Password" = "Old Password";
+"New Password" = "New Password";
+"Confirm New Password" = "Confirm New Password";
+
+//<!-- HEADER NAMES -->
+"Comments" = "Comments";
+"My Account" = "My Account";
+
+"About us" = "About us";
+"Change Password" = "Change Password";
+"Change Email" = "Change Email";
+"Change Language" = "Change Language";
+"Content" = "Content";
+"Article" = "Article";
+"Add New Magazines" = "Add New Magazines";
+"Add Account" = "Add Account";
+
+//<!-- languages -->
+
+"English" = "English";
+"Spanish" = "Spanish";
+"Portuguese" = "Portuguese";
+"Forgot Password?" = "Forgot Password?";
+"Please enter your email" = "Please enter your email";
+"Search Articles" = "Search Articles";
+"Advertisement" = "Advertisement";
+"Please enter your Name" = "Please enter your Name";
+"Please enter your Password" = "Please enter your Password";
+"Please enter your current password" = "Please enter your current password";
+"Current password should be atleast 6 chracter long" = "Current password should be atleast 6 chracter long";
+"Please enter your confirm password" = "Please enter your confirm password";
+"Password and Confirm password does not match" = "Password and Confirm password does not match";
+"Open Article" = "Open Article";
+"Open Articles" = "Open Articles";
+"No comments Found. Be the first one to comment on this Article" = "No comments Found. Be the first one to comment on this Article";
+"Please enter comment" = "Please enter comment";
+"Enter Subscription Password"  = "Enter Subscription Password";
+"Add Email" = "Add Email";
+"Add Password" = "Add Password";
+"Please choose at least one language" = "Please choose at least one language";
+"Please enter new email" = "Please enter new email";
+"Please enter confirm email" = "Please enter confirm email";
+"Email and confirm email do not match" = "Email and confirm email do not match";
+"No Social media found to share." = "No Social media found to share.";
+"Send" = "Send";
+"Do you want to logout?" = "Do you want to logout?";
+"Yes" = "Yes";
+"No" = "No";
+"Subscription Password" = "Subscription Password";
+"Please select atleast one Article Language" = "Please select atleast one Article Language";
+
+"Like me you can find relevant content on www.wootrix.com" = "Like me you can find relevant content on www.wootrix.com";
+
+//<!-- server side error messges strings -->
+//<string name="service_failed">Webservice failed to give the result.</string>
+//<string name="server_ntwrk_error">Network error Occoured. Please try again.</string>
+//<string name="server_timout_error">Timeout Occured. Please try again.</string>
+//<string name="server_response_error">Response is not Coming from server. Please try again.</string>
+
+//<!-- tags for advertisement module -->
+//<string name="ad_advtID">1</string>
+//<string name="ad_videourl">2</string>
+//<string name="ad_link_url">3</string>
+//<string name="ad_tim_in_sec">4</string>
+
+//<!-- NEW STRINGS -->
+"Do you want to keep selected language as your app\'s default language?" = "Do you want to keep selected language as your app\'s default language?";
+"Press back button again to exit." = "Press back button again to exit.";
+"Hey! I am using Wootrix Application. I just read this article:" = "Hey! I am using Wootrix Application. I just read this article:";
+"You can read and subscribe Articles, Magazines, Magazine articles on Android, iOS and on Web. \n\n Just check it out http://www.wootrix.com" = "You can read and subscribe Articles, Magazines, Magazine articles on Android, iOS and on Web. \n\n Just check it out http://www.wootrix.com";
+"Password should be atleast 6 character long." = "Password should be atleast 6 character long.";
+"Username should be atleast 4 character long." = "Username should be atleast 4 character long.";
+"sec ago" = "XXX sec ago";
+"secs ago" = "XXX secs ago";
+"min ago" = "XXX min ago";
+"mins ago" = "XXX mins ago";
+"hour ago" = "XXX hour ago";
+"hours ago" = "XXX hours ago";
+"day ago" = "XXX day ago";
+"days ago" = "XXX days ago";

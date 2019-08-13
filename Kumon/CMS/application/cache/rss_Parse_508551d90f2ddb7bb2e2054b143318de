@@ -1,0 +1,831 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>DFMA Assembly</title>
+    <description>
+      <![CDATA[Articles about how to design products for efficient manufacture and assembly.]]>
+    </description>
+    <link>http://www.assemblymag.com/rss</link>
+    <language>en-us</language>
+    <item>
+      <title>3D Modeling Brings Concurrent Benefits to Machinery Builder</title>
+      <author>camilloj@bnpmedia.com (Jim Camillo)</author>
+      <description>
+        <![CDATA[<p>
+	Mergers, acquisitions and partnerships are risky endeavors for managers, as well as workers. Sometimes these transactions favor one group over another, or end up being disastrous for both groups. Other times, however, the deal turns out great for everyone.</p>]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93464</guid>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 -0400</pubDate>
+      <link>http://www.assemblymag.com/articles/93464-d-modeling-brings-concurrent-benefits-to-machinery-builder</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Issues/2016/July/AIA/asb0716AIA1.jpg?1467039332" type="image/jpeg" length="103880"/>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/July/AIA/asb0716AIA1.jpg?1467039332" type="image/jpeg" fileSize="103880">
+        <media:title type="plain">1</media:title>
+        <media:description type="plain">
+	Mitsubishi Mahindra Agricultural Machinery designs and manufactures a wide range of equipment, such as tractors, combine harvesters and rice transplanters. Photo courtesy Mitsubishi Mahindra Agricultural Machinery Co. Ltd.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/July/AIA/asb0716AIA2.jpg?1467039396" type="image/jpeg" fileSize="140522">
+        <media:title type="plain">2</media:title>
+        <media:description type="plain">
+	XVL Studio software turns 3D design data into interactive 3D manufacturing data, enabling Mitsubishi Mahindra engineers to simultaneously design and develop products. Graphic courtesy Lattice Technology Inc.
+</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>Countering Old-School Views on Design</title>
+      <description>
+        <![CDATA[<p>
+	In the early 1980s, a product design methodology called design for assembly (DFA) began to gain popularity. It focused on improving efficiency by evaluating the amount of labor required for assembly. Since that time, the DFA methodology has been adopted with much success by more than 850 corporations.</p>]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93431</guid>
+      <pubDate>Fri, 03 Jun 2016 00:00:00 -0400</pubDate>
+      <link>http://www.assemblymag.com/articles/93431-countering-old-school-views-on-design</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Issues/2016/June/dfma/asb0616dfma2.jpg?1464968071" type="image/jpeg" length="48448"/>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/June/dfma/asb0616dfma2.jpg?1464968071" type="image/jpeg" fileSize="48448">
+        <media:title type="plain">dfma 2</media:title>
+        <media:description type="plain">
+	It is much more cost effective to produce a single, more complex, multifunctional part than the series of simple shapes all joined together. Illustration courtesy Boothroyd Dewhurst Inc.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/June/dfma/asb0616dfma1.jpg?1464968132" type="image/jpeg" fileSize="32830">
+        <media:title type="plain">dfma 1</media:title>
+        <media:description type="plain">
+	The overwhelming majority of a product&amp;rsquo;s cost is tied up in materials and process-related outlays. The cost of direct labor usually makes up the smallest proportion. Source: Boothroyd Dewhurst Inc.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/June/dfma/asb0616dfma3A.jpg?1464968169" type="image/jpeg" fileSize="49672">
+        <media:title type="plain">dfma 3</media:title>
+        <media:description type="plain">
+	An OEM&amp;rsquo;s original design for a lamp assembly consisted of 37 parts, including a bracket welded to a cantilevered mounting plate and four rubber isolation mounts that are secured to the bracket with nuts and washers. Photos courtesy Boothroyd Dewhurst Inc.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/June/dfma/asb0616dfma3B.jpg?1464968189" type="image/jpeg" fileSize="36475">
+        <media:title type="plain">dfma 3b</media:title>
+        <media:description type="plain">
+	An OEM&amp;rsquo;s original design for a lamp assembly consisted of 37 parts, including a bracket welded to a cantilevered mounting plate and four rubber isolation mounts that are secured to the bracket with nuts and washers. Photos courtesy Boothroyd Dewhurst Inc.</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/June/dfma/asb0616dfma3C.jpg?1464968204" type="image/jpeg" fileSize="40353">
+        <media:title type="plain">dfma 3c</media:title>
+        <media:description type="plain">
+	An OEM&amp;rsquo;s original design for a lamp assembly consisted of 37 parts, including a bracket welded to a cantilevered mounting plate and four rubber isolation mounts that are secured to the bracket with nuts and washers. Photos courtesy Boothroyd Dewhurst Inc.</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/June/dfma/asb0616dfma4A.jpg?1464968238" type="image/jpeg" fileSize="83722">
+        <media:title type="plain">dfma 4</media:title>
+        <media:description type="plain">
+	The OEM&amp;rsquo;s initial redesign of the lamp assembly focused solely on part-cost reduction. For example, the lamp guard and the rubber isolation mounts were removed. Photos courtesy Boothroyd Dewhurst Inc.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/June/dfma/asb0616dfma4B.jpg?1464968253" type="image/jpeg" fileSize="35092">
+        <media:title type="plain">dfma 4b</media:title>
+        <media:description type="plain">
+	The OEM&amp;rsquo;s initial redesign of the lamp assembly focused solely on part-cost reduction. For example, the lamp guard and the rubber isolation mounts were removed. Photos courtesy Boothroyd Dewhurst Inc.</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/June/dfma/asb0616dfma4C.jpg?1464968274" type="image/jpeg" fileSize="58627">
+        <media:title type="plain">dfma 4c</media:title>
+        <media:description type="plain">
+	The OEM&amp;rsquo;s initial redesign of the lamp assembly focused solely on part-cost reduction. For example, the lamp guard and the rubber isolation mounts were removed. Photos courtesy Boothroyd Dewhurst Inc.</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/June/dfma/asb0616dfma5.jpg?1464968310" type="image/jpeg" fileSize="60117">
+        <media:title type="plain">dfma 5</media:title>
+        <media:description type="plain">
+	The lamp assembly is located on the rear of the vehicle, just above the transmission cover casting. This presented an opportunity to use DFA principles to reduce cost by integrating the mounting bracket and lamp guard into the casting. Photo courtesy Boothroyd Dewhurst Inc.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/June/dfma/asb0616dfma6.jpg?1464968341" type="image/jpeg" fileSize="34265">
+        <media:title type="plain">dfma 6</media:title>
+        <media:description type="plain">
+	The DFA method, which concentrated on finding labor efficiency, resulted in a 45.5 percent reduction in the cost of the assembly&amp;mdash;without sacrificing any of the original design&amp;rsquo;s functionality. Photo courtesy Boothroyd Dewhurst Inc.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/June/dfma/asb0616dfma7.jpg?1464968367" type="image/jpeg" fileSize="38690">
+        <media:title type="plain">dfma 7</media:title>
+        <media:description type="plain">
+	Although the multifunctional casting in the DFA redesign costs more to produce than the original transmission cover casting, the multifunctional casting also eliminates the need for a separate lamp bracket and lamp guard. When all of this is considered, the DFA redesign is quite cost competitive. Source: Boothroyd Dewhurst Inc.
+</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>Worker Safety, Company Turnaround Go Hand-in-Hand</title>
+      <author>camilloj@bnpmedia.com (Jim Camillo)</author>
+      <description>
+        <![CDATA[<p>
+	Times were tough for the Timken Co. at the start of the 21st century. In March 2000, the Canton, OH-based manufacturer of antifriction roller bearings and related components announced plans to cut 600 jobs worldwide&mdash;after having trimmed 1,700 jobs in the previous two years. It also closed plants in Australia and England, and was relying more heavily on sources of steel outside the United States.</p>]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93334</guid>
+      <pubDate>Wed, 06 Apr 2016 00:00:00 -0400</pubDate>
+      <link>http://www.assemblymag.com/articles/93334-worker-safety-company-turnaround-go-hand-in-hand</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Issues/2016/April/aia/asb0416AIA3.jpg?1459966787" type="image/jpeg" length="77005"/>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/April/aia/asb0416AIA3.jpg?1459966787" type="image/jpeg" fileSize="77005">
+        <media:title type="plain">ergonomics 1</media:title>
+        <media:description type="plain">
+	The Timken Co. manufactures antifriction roller bearings and related components. Photo courtesy Timken Co.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/April/aia/asb0416AIA4.jpg?1459966869" type="image/jpeg" fileSize="122773">
+        <media:title type="plain">ergonomics 2</media:title>
+        <media:description type="plain">
+	The hands-on portion of the Humantech System involves assemblers and production employees working alongside certified professional ergonomists to hone their job skills. Photos courtesy Humantech Inc.
+</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>Software Quickens Design of Future-Helicopter Fuselage</title>
+      <author>camilloj@bnpmedia.com (Jim Camillo)</author>
+      <description>
+        <![CDATA[<p>
+	With an eye to the future, the U.S. Army held its Joint Multi-Role (JMR) competition in June 2014 to select the next generation of high-speed-rotorcraft helicopters.</p>]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93264</guid>
+      <pubDate>Tue, 01 Mar 2016 00:00:00 -0500</pubDate>
+      <link>http://www.assemblymag.com/articles/93264-software-quickens-design-of-future-helicopter-fuselage</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Issues/2016/March/AIA/asb0316AIA3.jpg?1456428072" type="image/jpeg" length="167533"/>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/March/AIA/asb0316AIA3.jpg?1456428072" type="image/jpeg" fileSize="167533">
+        <media:title type="plain">helicoptor 1</media:title>
+        <media:description type="plain">
+	Spirit AeroSystems Inc. designed and developed a fuselage prototype for the V-280 helicopter at its Wichita, KS, facility, then shipped it to Bell Helicopter&amp;rsquo;s manufacturing facility in Amarillo, TX, for final assembly. Photo courtesy Collier Research Corp.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/March/AIA/asb0316AIA4.jpg?1456428168" type="image/jpeg" fileSize="139872">
+        <media:title type="plain">helicoptor 2</media:title>
+        <media:description type="plain">
+	HyperSizer software is used for certification analysis of composite and metallic airframe structures, such as this airplane fuselage. Graphic courtesy Collier Research Corp.
+</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>Additive Manufacturing Takes Off in Aerospace Industry</title>
+      <author>webera@bnpmedia.com (Austin Weber)</author>
+      <description>
+        <![CDATA[<p>
+	Aerospace engineers are pushing the boundaries of 3D printing.</p>]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93176</guid>
+      <pubDate>Mon, 04 Jan 2016 00:00:00 -0500</pubDate>
+      <link>http://www.assemblymag.com/articles/93176-additive-manufacturing-takes-off-in-aerospace-industry</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Issues/2016/January/additive/asb0116print1.jpg?1451935827" type="image/jpeg" length="75024"/>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/January/additive/asb0116print1.jpg?1451935827" type="image/jpeg" fileSize="75024">
+        <media:title type="plain">additive 1</media:title>
+        <media:description type="plain">
+	The majority of this jet-powered unmanned aerial vehicle uses 3D-printed parts. Photo courtesy Stratasys Ltd.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/January/additive/asb0116print2.jpg?1451935942" type="image/jpeg" fileSize="112850">
+        <media:title type="plain">additive 2</media:title>
+        <media:description type="plain">
+	The Orion crew module uses four vents that were printed from nickel alloy. Photo courtesy Lockheed Martin Corp.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/January/additive/asb0116print3.jpg?1451935976" type="image/jpeg" fileSize="73732">
+        <media:title type="plain">additive 3</media:title>
+        <media:description type="plain">
+	These functional miniature jet engine parts were built with additive manufacturing technology. Photo courtesy GE Aviation
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/January/additive/asb0116print4.jpg?1451936015" type="image/jpeg" fileSize="65657">
+        <media:title type="plain">additive 4</media:title>
+        <media:description type="plain">
+	This nickel alloy jet engine combustor was made with direct metal laser sintering. Photo courtesy EOS of North America Inc.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/January/additive/asb0116print5.jpg?1451936055" type="image/jpeg" fileSize="106925">
+        <media:title type="plain">additive 5</media:title>
+        <media:description type="plain">
+	When the COSMIC-2 satellite launches later this year, it will mark the first time that 3D-printed parts will function externally in outer space. NASA engineers used fused deposition modeling technology to produce 30 plastic antenna array supports. Illustration courtesy Stratasys Ltd.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/January/additive/asb0116print6.jpg?1451936097" type="image/jpeg" fileSize="145830">
+        <media:title type="plain">additive 6</media:title>
+        <media:description type="plain">
+	Additive manufacturing allows aerospace companies to build complex shapes and dramatically reduce production time. Photo courtesy Metropolitan State University
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/January/additive/asb0116print8.jpg?1451936186" type="image/jpeg" fileSize="128312">
+        <media:title type="plain">additive 8</media:title>
+        <media:description type="plain">
+	Juncture points for this satellite antenna reflector are connected by sheer tie fittings that were printed out of titanium powder. Photo courtesy Lockheed Martin Corp.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/January/additive/asb0116print9.jpg?1451936231" type="image/jpeg" fileSize="144498">
+        <media:title type="plain">additive 9</media:title>
+        <media:description type="plain">
+	Engineers produced this ultra-lightweight satellite antenna by printing the titanium parts. Photo courtesy Harris Corp.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/January/additive/asb0116print10.jpg?1451936317" type="image/jpeg" fileSize="64387">
+        <media:title type="plain">additive 10</media:title>
+        <media:description type="plain">
+	This antenna support arm was printed to reduce weight and production costs. Photo courtesy Altair Engineering Inc .
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/January/additive/asb0116print11.jpg?1451936353" type="image/jpeg" fileSize="38335">
+        <media:title type="plain">additive 11</media:title>
+        <media:description type="plain">
+	Air ducts are a popular application for additive manufacturing. Photo courtesy EOS of North America Inc.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/January/additive/asb0116print12.jpg?1451936389" type="image/jpeg" fileSize="30678">
+        <media:title type="plain">additive 12</media:title>
+        <media:description type="plain">
+	This cobalt chrome gas turbine swirler was produced with direct metal laser sintering. Photo courtesy EOS of North America Inc.
+</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>Go looking for problems</title>
+      <author></author>
+      <description>
+        <![CDATA[<p>
+	Problem solving starts before a problem is even defined.</p>
+]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93148</guid>
+      <pubDate>Mon, 07 Dec 2015 00:00:00 -0500</pubDate>
+      <link>http://www.assemblymag.com/articles/93148-go-looking-for-problems</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Default_Images/responsive/shipulski.jpg?1433258980" type="image/jpeg" length="61946"/>
+    </item>
+    <item>
+      <title>Materials Tester Gives Redesigned Stool a Leg Up</title>
+      <author>camilloj@bnpmedia.com (Jim Camillo)</author>
+      <description>
+        <![CDATA[<p>
+	Functionality and ergonomics are becoming increasingly important to furniture manufacturers around the world.</p>
+]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93097</guid>
+      <pubDate>Tue, 03 Nov 2015 00:00:00 -0500</pubDate>
+      <link>http://www.assemblymag.com/articles/93097-materials-tester-gives-redesigned-stool-a-leg-up</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Issues/2015/November/AiA/asb1115AIA7.jpg?1446583302" type="image/jpeg" length="50836"/>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/November/AiA/asb1115AIA7.jpg?1446583302" type="image/jpeg" fileSize="50836">
+        <media:title type="plain">aia 7</media:title>
+        <media:description type="plain">
+	Last year, OneLeg added a silicone seat cover to its one-legged gardening stool to provide users with extra comfort and the ability to lean forward without sliding off the seat. Graphic courtesy AMETEK Test &amp;amp; Calibration Instruments
+</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>CAD Software Helps American Axle Reduce Weight of Power Train Components</title>
+      <author>camilloj@bnpmedia.com (Jim Camillo)</author>
+      <description>
+        <![CDATA[<p>
+	There's no mistaking the specialty of Tier 1 supplier American Axle & Manufacturing (AAM). This company designs and manufactures driveline and drivetrain systems for light trucks, SUVs, crossover vehicles and passenger cars.</p>
+]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93095</guid>
+      <pubDate>Tue, 03 Nov 2015 00:00:00 -0500</pubDate>
+      <link>http://www.assemblymag.com/articles/93095-cad-software-helps-american-axle-reduce-weight-of-power-train-components</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Issues/2015/November/AiA/asb1115AIA3.jpg?1446581760" type="image/jpeg" length="81799"/>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/November/AiA/asb1115AIA3.jpg?1446581760" type="image/jpeg" fileSize="81799">
+        <media:title type="plain">aia 3</media:title>
+        <media:description type="plain">
+	This graphic shows both sides of the original (top row) and redesigned axle carriers. The redesigned part is 20 percent smaller and lighter (38.34 kilograms vs. 47.97 kilograms). Graphic courtesy AAM
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/November/AiA/asb1115AIA4.jpg?1446581832" type="image/jpeg" fileSize="82786">
+        <media:title type="plain">aia 4</media:title>
+        <media:description type="plain">
+	AAM designs and manufactures driveline and drivetrain system components, including axles, chassis modules, driveshafts, transmission parts, transfer cases and metal-formed products. Photo courtesy AAM
+</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>Figuring Out Fastener Drive Styles</title>
+      <author>camilloj@bnpmedia.com (Jim Camillo)</author>
+      <description>
+        <![CDATA[<p>
+	Ever-increasing internal and external drive styles give design engineers more ways to effectively transfer torque from tool to fastener.</p>
+]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93067</guid>
+      <pubDate>Thu, 01 Oct 2015 00:00:00 -0400</pubDate>
+      <link>http://www.assemblymag.com/articles/93067-figuring-out-fastener-drive-styles</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Issues/2015/October/drive-styles/asb1015DriveStyle1replacement.jpg?1443728186" type="image/jpeg" length="72071"/>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/October/drive-styles/asb1015DriveStyle1replacement.jpg?1443728186" type="image/jpeg" fileSize="72071">
+        <media:title type="plain">drive styles 1</media:title>
+        <media:description type="plain">
+	The Pozidriv features negatively drafted driving walls in the recess and on the screwdriver wings, along with notches in the center of the recess to better position the screwdriver. Photo courtesy Phillips Screw Co.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/October/drive-styles/asb1015DriveStyle2.jpg?1443728265" type="image/jpeg" fileSize="43740">
+        <media:title type="plain">drive styles 2</media:title>
+        <media:description type="plain">
+	TORX PLUS has an elliptical geometry. This configuration reduces operator fatigue by minimizing end load during assembly. Graphic courtesy Acument Global Technologies
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/October/drive-styles/asb1015DriveStyle3.jpg?1443728296" type="image/jpeg" fileSize="131959">
+        <media:title type="plain">drive styles 3</media:title>
+        <media:description type="plain">
+	TORX has been very popular in the automotive industry for several decades and is becoming widely used in other industries worldwide. Photo courtesy Acument Global Technologies
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/October/drive-styles/asb1015DriveStyle4.jpg?1443728328" type="image/jpeg" fileSize="60454">
+        <media:title type="plain">drive styles 4</media:title>
+        <media:description type="plain">
+	The Mortorq and Mortorq Super drives feature four curved, triangular wings spread from a center point. This shape provides full contact of the driver bit. Photo courtesy Phillips Screw Co.
+</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>Soft Plastic Gives Tattoo Artists a Better Grip on Their Tools</title>
+      <author>camilloj@bnpmedia.com (Jim Camillo)</author>
+      <description>
+        <![CDATA[<p>
+	Product designers and artists share a similar trait: They love to create things. How appropriate then, that product designers at Chicago-based Morphix Inc. are dedicated to making high-quality specialty tools for tattoo artists worldwide.</p>
+]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93064</guid>
+      <pubDate>Thu, 01 Oct 2015 00:00:00 -0400</pubDate>
+      <link>http://www.assemblymag.com/articles/93064-soft-plastic-gives-tattoo-artists-a-better-grip-on-their-tools</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Issues/2015/October/aia/asb1015AIA9.jpg?1443721580" type="image/jpeg" length="136622"/>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/October/aia/asb1015AIA9.jpg?1443721580" type="image/jpeg" fileSize="136622">
+        <media:title type="plain">soft plastic</media:title>
+        <media:description type="plain">
+	Morphix Inc. makes various products for tattoo artists, including needle grip covers. Photo courtesy Morphix Inc.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/October/aia/asb1015AIA10.jpg?1443721651" type="image/jpeg" fileSize="57351">
+        <media:title type="plain">soft plastic</media:title>
+      </media:content>
+    </item>
+    <item>
+      <title>Whirlpool Makes Product Cost Management a Priority</title>
+      <author>camilloj@bnpmedia.com (Jim Camillo)</author>
+      <description>
+        <![CDATA[<p>
+	Every manufacturer has three goals related to product costs: keep them low, consistent and competitive.</p>
+]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93029</guid>
+      <pubDate>Thu, 03 Sep 2015 00:00:00 -0400</pubDate>
+      <link>http://www.assemblymag.com/articles/93029-whirlpool-makes-product-cost-management-a-priority</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Issues/2015/September/AIA/asb0915AIA7.jpg?1441288968" type="image/jpeg" length="139122"/>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/September/AIA/asb0915AIA7.jpg?1441288968" type="image/jpeg" fileSize="139122">
+        <media:title type="plain">whirlpool 1</media:title>
+        <media:description type="plain">
+	Enterprise Product Cost Management software automates product cost estimating processes and ensures global consistency in costing practices for Whirlpool Corp. Photo courtesy aPriori Technologies Inc.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/September/AIA/asb0915AIA8.jpg?1441289044" type="image/jpeg" fileSize="54866">
+        <media:title type="plain">whirlpool 2</media:title>
+      </media:content>
+    </item>
+    <item>
+      <title>3D Printers Produce Race-Ready Parts</title>
+      <description>
+        <![CDATA[<p>
+	Additive manufacturing gives racing teams a winning edge.</p>]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/92899</guid>
+      <pubDate>Thu, 04 Jun 2015 00:00:00 -0400</pubDate>
+      <link>http://www.assemblymag.com/articles/92899-d-printers-produce-race-ready-parts</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Issues/2015/June/race/asb0615race1.jpg?1433443203" type="image/jpeg" length="144800"/>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/June/race/asb0615race1.jpg?1433443203" type="image/jpeg" fileSize="144800">
+        <media:title type="plain">race 1</media:title>
+        <media:description type="plain">
+	This rally car, a John Cooper Works MINI, contains at least 15 parts made via the fused deposition modeling process. Photo courtesy Stratasys Ltd.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/June/race/asb0615race2.jpg?1433443285" type="image/jpeg" fileSize="83641">
+        <media:title type="plain">race 2</media:title>
+        <media:description type="plain">
+	The gauge pod of this rally car was printed from ABS. It integrates all mounting features and includes channels for electrical components. If it had been made from carbon fiber, those features would have been manually assembled to the pod. Photo courtesy Stratasys Ltd.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/June/race/asb0615race3.jpg?1433443310" type="image/jpeg" fileSize="74819">
+        <media:title type="plain">race 3</media:title>
+        <media:description type="plain">
+	The plastic hood vent on this MINI rally car was produced via FDM. The design, which was optimized for aerodynamics, would have been difficult to produce through injection molding or carbon fiber lay-up. Photo courtesy Stratasys Ltd.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/June/race/asb0615race4.jpg?1433443340" type="image/jpeg" fileSize="53422">
+        <media:title type="plain">race 4</media:title>
+        <media:description type="plain">
+	This two-piece filter housing was printed from polycarbonate, which was selected for its ability to withstand a temperature of 200 F over a four-hour race Photo courtesy Stratasys Ltd.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/June/race/asb0615race5.jpg?1433443368" type="image/jpeg" fileSize="62523">
+        <media:title type="plain">race 5</media:title>
+        <media:description type="plain">
+	Within a few hours of completing a design, Stewart-Haas engineers can use additive manufacturing to produce custom duct connectors that optimize airflow inside a race car. Photo courtesy Stratasys Ltd.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/June/race/asb0615race6.jpg?1433443396" type="image/jpeg" fileSize="208254">
+        <media:title type="plain">race 6</media:title>
+        <media:description type="plain">
+	Rally cars have hit jumps at 100 mph and have flown more than 175 feet. Photo courtesy Stratasys Ltd.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/June/race/asb0615race7.jpg?1433443439" type="image/jpeg" fileSize="156412">
+        <media:title type="plain">race 7</media:title>
+        <media:description type="plain">
+	Joe Gibbs Racing initially acquired a 3D printer as a design and evaluation tool, but later expanded its applications to include pattern making and direct digital manufacturing. Photo courtesy Stratasys Ltd.
+</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>FAA Clears 3D-Printed Metal Part to Fly in Jet Engine</title>
+      <description>
+        <![CDATA[<p>
+	FAIRFIELD, CT&mdash;A metal sensor housing has become the first 3D-printed part certified by the Federal Aviation Administration to fly inside a commercial jet engine.</p>
+]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/92820</guid>
+      <pubDate>Thu, 16 Apr 2015 00:00:00 -0400</pubDate>
+      <link>http://www.assemblymag.com/articles/92820-faa-clears-3d-printed-metal-part-to-fly-in-jet-engine</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Default_Images/asb-headlines-900jms.jpg?1427903030" type="image/jpeg" length="144782"/>
+    </item>
+    <item>
+      <title>Automated Assembly Systems: Fixed or Flexible?</title>
+      <author>sprovierij@bnpmedia.com (John Sprovieri)</author>
+      <description>
+        <![CDATA[<p>
+	Systems integrators wrestle with the notion of flexibility in multistation automated assembly systems.</p>]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/92729</guid>
+      <pubDate>Tue, 03 Mar 2015 06:00:00 -0500</pubDate>
+      <link>http://www.assemblymag.com/articles/92729-automated-assembly-systems-fixed-or-flexible</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Issues/2015/March/flex/asb0315flex3.jpg?1425414333" type="image/jpeg" length="52609"/>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/March/flex/asb0315flex1.jpg?1425414465" type="image/jpeg" fileSize="87096">
+        <media:title type="plain">flex slide 1</media:title>
+        <media:description type="plain">
+	Because of their flexibility, robots allow systems integrators to accommodate unexpected problems with part behavior or changes in machine design. Photo courtesy Flexible Automation Inc.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/March/flex/asb0315flex2.jpg?1425414518" type="image/jpeg" fileSize="65149">
+        <media:title type="plain">flex slide 2</media:title>
+        <media:description type="plain">
+	A conveyor-based assembly system is easier to maintain than a rotary indexing dial, because engineers have better access to the equipment. Photo courtesy ATC Automation
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/March/flex/asb0315flex31.jpg?1425414646" type="image/jpeg" fileSize="77058">
+        <media:title type="plain">flex slide 3</media:title>
+        <media:description type="plain">
+	Even so-called &amp;ldquo;dedicated&amp;rdquo; automation systems are smart machines. They are almost always equipped with PLCs, vision systems and data-logging technology. Photo courtesy Genesis Automation
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/March/flex/asb0315flex4.jpg?1425414662" type="image/jpeg" fileSize="39673">
+        <media:title type="plain">flex slide 4</media:title>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/March/flex/asb0315flex5.jpg?1425414678" type="image/jpeg" fileSize="56565">
+        <media:title type="plain">flex slide 5</media:title>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/March/flex/asb0315flex6.jpg?1425414694" type="image/jpeg" fileSize="60214">
+        <media:title type="plain">flex slide 6</media:title>
+      </media:content>
+    </item>
+    <item>
+      <title>University Innovation Lab Fosters Development of New Products and Ideas</title>
+      <author>webera@bnpmedia.com (Austin Weber)</author>
+      <description>
+        <![CDATA[<p>
+	Some day in the near future, an on-campus innovation center could be as ubiquitous to college life as a library, a student union or a football stadium.</p>
+]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/92731</guid>
+      <pubDate>Tue, 03 Mar 2015 00:00:00 -0500</pubDate>
+      <link>http://www.assemblymag.com/articles/92731-university-innovation-lab-fosters-development-of-new-products-and-ideas</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/campus/asb0112campus1.jpg?1378756874" type="image/jpeg" length="33891"/>
+    </item>
+    <item>
+      <title>Challenges in Automatic Screwdriving</title>
+      <author>sprovierij@bnpmedia.com (John Sprovieri)</author>
+      <description>
+        <![CDATA[<p>
+	Suppliers of automatic screwdriving equipment talk about their toughest challenges and how they overcame them.</p>]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/92656</guid>
+      <pubDate>Tue, 03 Feb 2015 10:00:00 -0500</pubDate>
+      <link>http://www.assemblymag.com/articles/92656-challenges-in-automatic-screwdriving</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Issues/2015/February/screwdriving/asb0215screw1.jpg?1422989920" type="image/jpeg" length="19438"/>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/February/screwdriving/asb0215screw11.jpg?1422989998" type="image/jpeg" fileSize="25383">
+        <media:title type="plain">screwdriving slide 1</media:title>
+        <media:description type="plain">
+	A vacuum hose attached to this screwdriving spindle keeps the fastener on the bit when reaching into recesses. Photo courtesy DEPRAG Inc.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/February/screwdriving/asb0215screw2.jpg?1422990028" type="image/jpeg" fileSize="16163">
+        <media:title type="plain">screwdriving slide 2</media:title>
+        <media:description type="plain">
+	DEPRAG&amp;rsquo;s sword feeder is an alternative to vibratory bowls for feeding screws. The feeder handles screws more gently than a bowl and operates more cleanly. Photo courtesy DEPRAG Inc.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/February/screwdriving/asb0215screw3.jpg?1422990061" type="image/jpeg" fileSize="21254">
+        <media:title type="plain">screwdriving slide 3</media:title>
+        <media:description type="plain">
+	This automatic screwfeeding system can be programmed not to feed another screw unless the previous fastener has been installed correctly. Photo courtesy ASG Div. of Jergens Inc.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/February/screwdriving/asb0215screw6.jpg?1422990124" type="image/jpeg" fileSize="64575">
+        <media:title type="plain">screwdriving slide 6</media:title>
+        <media:description type="plain">
+	This four-spindle automatic screwdriving machine secures the cover for a gasketed electronics assembly. Photo courtesy Design Tool Inc.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/February/screwdriving/asb0215screw7.jpg?1422990158" type="image/jpeg" fileSize="17683">
+        <media:title type="plain">screwdriving slide 7</media:title>
+        <media:description type="plain">
+	This automatic screwdriver is equipped with unique tooling that allows it to install screws in confined spaces. The jaws mechanically hold onto the screw until it is started in the target hole. Once the screw is started, the jaws swing out toward the one open side. Photo courtesy Dixon Automatic Tool Inc.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/February/screwdriving/asb0215screw8a.jpg?1422990215" type="image/jpeg" fileSize="75965">
+        <media:title type="plain">screwdriving slide 8a</media:title>
+        <media:description type="plain">
+	This screwdriving system is equipped with two rotary bowl screwfeeders. Each bowl holds 12 pounds of screws and delivers more than 30 screws per minute.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/February/screwdriving/asb0215screw8b.jpg?1422990247" type="image/jpeg" fileSize="45502">
+        <media:title type="plain">screwdriving slide 8b</media:title>
+        <media:description type="plain">
+	A logic control module alternates feeders each time a &amp;ldquo;cycle completed&amp;rdquo; signal is received from the driver. A screw is then blow-fed to a multiport manifold that directs screws from either feeder to a single port. Photo courtesy Nasco Industries Inc.
+</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>How well do you know your parts?</title>
+      <author>sprovierij@bnpmedia.com (John Sprovieri)</author>
+      <description>
+        <![CDATA[<p>
+	During the past month, I interviewed several engineers for an article on automatic screwdriving. Along the way, I learned a bit of wisdom that is applicable no matter what process you might want to automate.</p>
+]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/92642</guid>
+      <pubDate>Tue, 03 Feb 2015 00:00:00 -0500</pubDate>
+      <link>http://www.assemblymag.com/articles/92642-how-well-do-you-know-your-parts</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Default_Images/JohnSpro.jpg?1383068824" type="image/jpeg" length="14743"/>
+    </item>
+    <item>
+      <title>Postponement Helps Sensor Maker Thrive</title>
+      <description>
+        <![CDATA[<p>
+	To reduce its inventory costs, Dynisco needed to change how it designed and assembled its products.</p>
+]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/92593</guid>
+      <pubDate>Mon, 05 Jan 2015 00:00:00 -0500</pubDate>
+      <link>http://www.assemblymag.com/articles/92593-postponement-helps-sensor-maker-thrive</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Issues/2015/January/dfma/asb0115dfma1.jpg?1420490295" type="image/jpeg" length="19672"/>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/January/dfma/asb0115dfma11.jpg?1420490455" type="image/jpeg" fileSize="26212">
+        <media:title type="plain">dfma slide 1</media:title>
+        <media:description type="plain">
+	Dynisco could practice postponement with the main components of its legacy sensor product, but only at the filled-assembly level. The gauged assembly, snout and flex all must be assembled and stored as a subassembly. Photo courtesy Dynisco Instruments
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/January/dfma/asb0115dfma2.jpg?1420490489" type="image/jpeg" fileSize="18833">
+        <media:title type="plain">dfma slide 2</media:title>
+        <media:description type="plain">
+	The gauged assembly defines the specific pressure range the instrument can measure. The electronics are the only aspect of this design that can be added during final assembly. Photo courtesy Dynisco Instruments
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/January/dfma/asb0115dfma3.jpg?1420490518" type="image/jpeg" fileSize="35284">
+        <media:title type="plain">dfma slide 3</media:title>
+        <media:description type="plain">
+	Dynisco&amp;rsquo;s new Vertex sensor was designed for multiple levels of postponement. Subassemblies include the sensor tip and transducer assembly (lower left), flex assembly (top) and electronics assembly (lower right). Each component can be manufactured individually and stocked at their respective subassembly levels. Photo courtesy Dynisco Instruments
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/January/dfma/asb0115dfma4.jpg?1420490549" type="image/jpeg" fileSize="36568">
+        <media:title type="plain">dfma slide 4</media:title>
+        <media:description type="plain">
+	Dynisco&amp;rsquo;s melt pressure sensors are used in plastic extrusion and processing machinery. Photo courtesy Nanjing Kaichi Machinery Co. Ltd.
+</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>To capture new markets, think disruptive innovation</title>
+      <author></author>
+      <description>
+        <![CDATA[<p>
+	Disruptive innovation devalues what made you successful.</p>
+]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/92548</guid>
+      <pubDate>Wed, 03 Dec 2014 00:00:00 -0500</pubDate>
+      <link>http://www.assemblymag.com/articles/92548-to-capture-new-markets-think-disruptive-innovation</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Default_Images/shipulski.jpg?1380569571" type="image/jpeg" length="24070"/>
+    </item>
+    <item>
+      <title>Fast Prototyping Sweetens Bakerâs Success</title>
+      <author>camilloj@bnpmedia.com (Jim Camillo)</author>
+      <description>
+        <![CDATA[<p>
+	To most people, cupcakes are a pleasant treat or a momentary diversion. But to Freed&rsquo;s Bakery, one of the largest cupcake makers in the United States, cupcakes are big business.</p>
+]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/92538</guid>
+      <pubDate>Tue, 02 Dec 2014 00:00:00 -0500</pubDate>
+      <link>http://www.assemblymag.com/articles/92538-fast-prototyping-sweetens-bakers-success</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Issues/2014/December/AIA/asb1214AIA1422.jpg?1417542585" type="image/jpeg" length="49149"/>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2014/December/AIA/asb1214AIA13.jpg?1417543150" type="image/jpeg" fileSize="49387">
+        <media:title type="plain">bakery slide</media:title>
+        <media:description type="plain">
+	Freed&amp;rsquo;s Bakery uses a special machine to dispense two-color icing on its cupcakes in various amounts and patterns. Photo courtesy 3-Dimensional Services Group
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2014/December/AIA/asb1214AIA2.jpg?1417543177" type="image/jpeg" fileSize="100258">
+        <media:title type="plain">bakery slide 2</media:title>
+        <media:description type="plain">
+	Freed&amp;rsquo;s Bakery supplies in-store bakeries nationwide with iced and un-iced cupcakes in various sizes, flavors, colors and packaging. Photo courtesy Henderson International School
+</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>Rubber-Like Material Increases Flexibility of Laser Sintering System</title>
+      <description>
+        <![CDATA[<p>
+	New technology is often a paradox&mdash;offering increased capability but at great expense with a long ROI.</p>]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/92478</guid>
+      <pubDate>Sat, 01 Nov 2014 00:00:00 -0400</pubDate>
+      <link>http://www.assemblymag.com/articles/92478-rubber-like-material-increases-flexibility-of-laser-sintering-system</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Issues/2014/November/AIA/asb1114AIA5.jpg?1414781443" type="image/jpeg" length="56614"/>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2014/November/AIA/asb1114AIA51.jpg?1414781626" type="image/jpeg" fileSize="78902">
+        <media:title type="plain">boeing slide 1</media:title>
+        <media:description type="plain">
+	DuraForm parts are used on air vehicles of the U.S. Army (like the AH-64D Apache Longbow helicopter) and foreign defense forces. Photo courtesy www.strategypage.com
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2014/November/AIA/asb1114AIA6.jpg?1414781663" type="image/jpeg" fileSize="22809">
+        <media:title type="plain">boeing slide 2</media:title>
+        <media:description type="plain">
+	Boeing Mesa uses an SLS system to make nonloadbearing parts out of DuraForm, a flexible rubber-like material. Photo courtesy 3D Systems Corp.
+</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>3D Printer Expands Labâs Prototyping Capabilities</title>
+      <author>camilloj@bnpmedia.com (Jim Camillo)</author>
+      <description>
+        <![CDATA[<p>
+	Arenas and other large venues rely on high-tech displays to produce the best show possible for an audience. The show must go on, as the saying goes, so reliability is paramount.</p>
+]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/92434</guid>
+      <pubDate>Fri, 03 Oct 2014 00:00:00 -0400</pubDate>
+      <link>http://www.assemblymag.com/articles/92434-d-printer-expands-labs-prototyping-capabilities</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Issues/2014/October/aia/asb1014AIA5.jpg?1412345053" type="image/jpeg" length="25901"/>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2014/October/aia/asb1014AIA51.jpg?1412345200" type="image/jpeg" fileSize="34776">
+        <media:title type="plain">3d printer slide 1</media:title>
+        <media:description type="plain">
+	Manufacturers create a wide variety of prototypes at the Hyphen lab, located in Kitchener, Ontario. Photo courtesy Christie Digital Systems Canada Inc.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2014/October/aia/asb1014AIA6.jpg?1412345242" type="image/jpeg" fileSize="40061">
+        <media:title type="plain">3d printer slide 2</media:title>
+        <media:description type="plain">
+	The Fortus 900mc 3D printer can produce prototypes that are accurate to within &amp;plusmn;0.0035 or 0.0015 inch per inch. Photo courtesy Stratasys Ltd.
+</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>NASA Tests Rocket Engine Parts Made Via 3D Printing</title>
+      <description>
+        <![CDATA[<p>
+	HUNTSVILLE, AL&mdash;NASA has successfully tested complex rocket engine parts produced with the additive manufacturing process laser metal sintering.</p>
+]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/92403</guid>
+      <pubDate>Wed, 03 Sep 2014 00:00:00 -0400</pubDate>
+      <link>http://www.assemblymag.com/articles/92403-nasa-tests-rocket-engine-parts-made-via-3d-printing</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/LatestHeadlines/latest_headlines2/nasa-logo-422.jpg?1409753567" type="image/jpeg" length="85096"/>
+    </item>
+    <item>
+      <title>Harness-design software speeds racecar construction</title>
+      <author>camilloj@bnpmedia.com (Jim Camillo)</author>
+      <description>
+        <![CDATA[<p>
+	Every summer since 1998, teams of college students from around the world have come to the United Kingdom to participate in the international Formula Student (FS) racing competition.</p>
+]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/92398</guid>
+      <pubDate>Wed, 03 Sep 2014 00:00:00 -0400</pubDate>
+      <link>http://www.assemblymag.com/articles/92398-harness-design-software-speeds-racecar-construction</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Issues/2014/September/AIA/asb0914AIA1.jpg?1409752118" type="image/jpeg" length="44921"/>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2014/September/AIA/asb0914AIA11.jpg?1409752250" type="image/jpeg" fileSize="63262">
+        <media:title type="plain">Harness design software slide 1</media:title>
+        <media:description type="plain">
+	In 2013, nearly 80 students at Amberg-Weiden University developed the school&amp;rsquo;s first electric-powered car for the Formula Student Electric competition. Photo courtesy Konrad Bittner, Amberg-Weiden University
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2014/September/AIA/asb0914AIA2.jpg?1409752283" type="image/jpeg" fileSize="35516">
+        <media:title type="plain">Harness design software slide 2</media:title>
+        <media:description type="plain">
+	The Running Snail team from Amberg-Weiden University quickly designed the car&amp;rsquo;s wire harnesses using Harness proD software. Graphic courtesy Konrad Bittner, Amberg-Weiden University
+</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>Sciaky to Provide Additive Manufacturing System for Making Airplane Parts</title>
+      <description>
+        <![CDATA[<p>
+	CHICAGO&mdash;Sciaky Inc. has received a purchase order from a major aerospace parts maker to provide an electron beam additive manufacturing system. The system will help the manufacturer save time and cost when producing large, high-value metal parts.</p>]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/92344</guid>
+      <pubDate>Thu, 07 Aug 2014 00:00:00 -0400</pubDate>
+      <link>http://www.assemblymag.com/articles/92344-sciaky-to-provide-additive-manufacturing-system-for-making-airplane-parts</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Default_Images/asb-headlines-graphic.jpg?1464270410" type="image/jpeg" length="166380"/>
+    </item>
+    <item>
+      <title>Robots and factories are no longer differentiators</title>
+      <author></author>
+      <description>
+        <![CDATA[<p>
+	There&rsquo;s lots of talk about a manufacturing renaissance. Some call it a resurgence, others a revolution, but the name doesn&rsquo;t matter. There&rsquo;s also been a lot of argument over the magnitude of the decline in manufacturing and how to measure it. Some say there wasn&rsquo;t a decline at all. None of that matters, either.</p>
+]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/92342</guid>
+      <pubDate>Tue, 05 Aug 2014 00:00:00 -0400</pubDate>
+      <link>http://www.assemblymag.com/articles/92342-robots-and-factories-are-no-longer-differentiators</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Default_Images/shipulski.jpg?1380569571" type="image/jpeg" length="24070"/>
+    </item>
+    <item>
+      <title>3D Printing Myths and Methods</title>
+      <author>webera@bnpmedia.com (Austin Weber)</author>
+      <description>
+        <![CDATA[<p>
+	Depending on who you listen to, 3D printing (or, as it&rsquo;s more formally known, additive manufacturing) is either the biggest thing to hit the manufacturing world since the screw or the biggest tech fad since the fax machine. It&rsquo;s actually a little of each.</p>]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/92260</guid>
+      <pubDate>Tue, 01 Jul 2014 15:00:00 -0400</pubDate>
+      <link>http://www.assemblymag.com/articles/92260-d-printing-myths-and-methods</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Issues/2014/July/3d-printing/asb0714print1.jpg?1404222288" type="image/jpeg" length="12902"/>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2014/July/3d-printing/asb0714print11.jpg?1404222420" type="image/jpeg" fileSize="16359">
+        <media:title type="plain">3d slide 1</media:title>
+        <media:description type="plain">
+	This state-of-the-art 3D printer lets engineers incorporate up to 46 colors into one prototype. Photo courtesy Stratasys Ltd.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2014/July/3d-printing/asb0714print2.jpg?1404222487" type="image/jpeg" fileSize="29183">
+        <media:title type="plain">3d slide 2</media:title>
+        <media:description type="plain">
+	Additive manufacturing allowed engineers to reduce the number of brazes and welds on this jet engine fuel nozzle from 25 to just five. Photo courtesy General Electric Co.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2014/July/3d-printing/asb0714print3.jpg?1404222541" type="image/jpeg" fileSize="40059">
+        <media:title type="plain">3d slide 3</media:title>
+        <media:description type="plain">
+	This prototype tape dispenser was printed to allow engineers to conduct form, fit and function testing. Photo courtesy RedEye
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2014/July/3d-printing/asb0714print4.jpg?1404222639" type="image/jpeg" fileSize="59238">
+        <media:title type="plain">3d slide 4</media:title>
+        <media:description type="plain">
+	Engineers recently printed a working loudspeaker, seamlessly integrating the plastic, conductive and magnetic parts. Photo courtesy Cornell University
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2014/July/3d-printing/asb0714print5.jpg?1404222683" type="image/jpeg" fileSize="26242">
+        <media:title type="plain">3d slide 5</media:title>
+        <media:description type="plain">
+	By using laser sintering, the number of components in this medical centrifuge was reduced from 32 to three. Photo courtesy EOS of North America Inc.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2014/July/3d-printing/asb0714print6.jpg?1404222752" type="image/jpeg" fileSize="39658">
+        <media:title type="plain">3d slide 6</media:title>
+        <media:description type="plain">
+	Electron beam additive manufacturing is used on a wide variety of components, such as this webbed titanium aircraft forging. Photo courtesy Skiaky
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2014/July/3d-printing/asb0714print7.jpg?1404222805" type="image/jpeg" fileSize="37469">
+        <media:title type="plain">3d slide 7</media:title>
+        <media:description type="plain">
+	To streamline manufacturing time and reduction costs, this axial turbine blisk was printed. The part was originally a wax casting. Photo courtesy 3D Systems Inc.
+</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>Avatars Do Heavy Lifting at Ford Assembly Plant</title>
+      <description>
+        <![CDATA[<p>
+	DEARBORN, MI&mdash;Engineers at Ford Motor Co. have created virtual representations of employees&mdash; called &ldquo;avatars&rdquo;&mdash;to assess whether articulating arms and other ergonomic aids could help with assembly.</p>
+]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/92238</guid>
+      <pubDate>Tue, 24 Jun 2014 00:00:00 -0400</pubDate>
+      <link>http://www.assemblymag.com/articles/92238-avatars-do-heavy-lifting-at-ford-assembly-plant</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/LatestHeadlines/latest_headlines2/manufacturing-simulation422.jpg?1403624900" type="image/jpeg" length="126282"/>
+    </item>
+    <item>
+      <title>The yin and yang of standard work</title>
+      <author></author>
+      <description>
+        <![CDATA[<p>
+	The value of standard work is clear: improved productivity and quality. With standard work, the process is well documented, its yield is high, its cycle time is rock solid, and everyone has been trained to do it. It worked well once, so we do it again and again.</p>
+]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/92195</guid>
+      <pubDate>Tue, 03 Jun 2014 00:00:00 -0400</pubDate>
+      <link>http://www.assemblymag.com/articles/92195-the-yin-and-yang-of-standard-work</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Default_Images/shipulski.jpg?1380569571" type="image/jpeg" length="24070"/>
+    </item>
+    <item>
+      <title>To Improve Your Designs, Listen to the Voice of the Customer</title>
+      <author>sprovierij@bnpmedia.com (John Sprovieri)</author>
+      <description>
+        <![CDATA[<p>
+	The late novelist John Le Carr&eacute; once said, &ldquo;A desk is a dangerous place from which to view the world.&rdquo; As it turns out, what was good advice for spies is equally good for manufacturing and design engineers.</p>
+]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/92186</guid>
+      <pubDate>Tue, 03 Jun 2014 00:00:00 -0400</pubDate>
+      <link>http://www.assemblymag.com/articles/92186-to-improve-your-designs-listen-to-the-voice-of-the-customer</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Default_Images/JohnSpro.jpg?1383068824" type="image/jpeg" length="14743"/>
+    </item>
+  </channel>
+</rss>

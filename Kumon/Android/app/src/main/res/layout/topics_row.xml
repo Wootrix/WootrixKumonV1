@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <CheckBox
+        android:id="@+id/topics_row_item_chkbox"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:button="@null"
+        android:drawableRight="@drawable/language_toggle_btn"
+        android:padding="@dimen/margin_8"
+        android:text="@string/lbl_spanish"
+        android:textColor="#15151c"
+        android:textSize="@dimen/text_size_24" />
+
+</LinearLayout>

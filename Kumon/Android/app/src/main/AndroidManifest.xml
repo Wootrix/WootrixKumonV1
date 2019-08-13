@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.ta.wootrix">
+
+    <uses-feature
+        android:name="android.hardware.camera"
+        android:required="false" />
+    <uses-feature
+        android:name="android.hardware.camera.front"
+        android:required="false" />
+    <uses-feature
+        android:name="android.hardware.location.gps"
+        android:required="false" />
+    <uses-feature
+        android:name="android.hardware.location.network"
+        android:required="false" />
+    <uses-feature
+        android:name="android.hardware.location"
+        android:required="false" />
+
+
+    <!-- permission for access location -->
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="android.permission.GET_ACCOUNTS" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <!--<uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />-->
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+
+    <application
+        android:name=".firebase.AnalyticsApplication"
+        android:allowBackup="true"
+        android:allowClearUserData="true"
+        android:hardwareAccelerated="true"
+        android:icon="@drawable/app_icon"
+        android:label="@string/app_name"
+        android:largeHeap="true"
+        android:theme="@android:style/Theme.Light.NoTitleBar"
+        android:vmSafeMode="true">
+        <activity
+            android:name="com.ta.wootrix.phone.SplashActivity"
+            android:configChanges="locale|touchscreen|keyboard|orientation|screenSize"
+            android:label="@string/app_name"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar">
+
+
+            <!--<intent-filter>-->
+            <!--<action android:name="android.intent.action.VIEW" />-->
+            <!--<category android:name="android.intent.category.BROWSABLE" />-->
+            <!--<category android:name="android.intent.category.DEFAULT"/>-->
+            <!--<data-->
+            <!--android:host="jsjj2.app.goo.gl"-->
+            <!--android:pathPrefix="/Scq6"-->
+            <!--android:scheme="https" />-->
+            <!--</intent-filter>-->
+
+        </activity>
+        <activity
+            android:name="com.ta.wootrix.phone.LoginActivity"
+            android:configChanges="locale|touchscreen|orientation|screenSize|keyboardHidden"
+            android:label="@string/app_name">
+
+        </activity>
+
+        <activity
+            android:name="com.ta.wootrix.phone.SignupActivity"
+            android:configChanges="locale|touchscreen|keyboard|orientation|screenSize"
+            android:label="@string/app_name" />
+        <activity
+            android:name="com.ta.wootrix.phone.LandingPageActivity"
+            android:configChanges="locale|touchscreen|keyboard|orientation|screenSize"
+            android:label="@string/app_name"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar">
+
+            <!--<intent-filter>-->
+            <!--<action android:name="android.intent.action.VIEW" />-->
+            <!--<category android:name="android.intent.category.BROWSABLE" />-->
+            <!--<category android:name="android.intent.category.DEFAULT"/>-->
+            <!--<data-->
+            <!--android:host="en.wikipedia.org"-->
+            <!--android:pathPrefix="/wiki/Google"-->
+            <!--android:scheme="https" />-->
+            <!--</intent-filter>-->
+        </activity>
+        <activity
+            android:name="com.ta.wootrix.phone.AdvertisementViewActivity"
+            android:configChanges="locale|touchscreen|keyboard|orientation|screenSize"
+            android:label="@string/app_name"
+            android:parentActivityName="com.ta.wootrix.phone.HomeActivity"
+            android:screenOrientation="portrait">
+
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.ta.wootrix.phone.HomeActivity" />
+
+        </activity>
+        <activity
+            android:name="com.ta.wootrix.tablet.TabletHomeActivity"
+            android:configChanges="layoutDirection|locale|touchscreen|orientation|screenSize|keyboardHidden"
+            android:label="@string/app_name"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar"
+            android:windowSoftInputMode="stateHidden" />
+        <activity
+            android:name="com.ta.wootrix.tablet.TabletArticleDetailActivity"
+            android:configChanges="locale|touchscreen|keyboard|orientation|screenSize"
+            android:label="@string/app_name" />
+        <activity
+            android:name="com.ta.wootrix.tablet.TabletAdvertViewActivity"
+            android:configChanges="locale|touchscreen|keyboard|orientation|screenSize"
+            android:label="@string/app_name" />
+        <activity
+            android:name="com.ta.wootrix.phone.HomeActivity"
+            android:configChanges="locale|touchscreen|keyboard|orientation|screenSize"
+            android:label="@string/app_name"
+            android:launchMode="singleTop"
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
+        <activity
+            android:name="com.ta.wootrix.phone.AboutUsActivity"
+            android:configChanges="locale|touchscreen|keyboard|orientation|screenSize"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.ta.wootrix.phone.MyAccountActivity"
+            android:configChanges="locale|touchscreen|keyboard|orientation|screenSize"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.ta.wootrix.phone.ArticleDetailActivity"
+            android:configChanges="locale|touchscreen|keyboard|orientation|screenSize"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.ta.wootrix.tablet.TabletEmbeddedVideoActivity"
+            android:label="@string/app_name" />
+        <activity
+            android:name="com.ta.wootrix.tablet.TabletEmbeddedArticleDetailActivity"
+            android:label="@string/app_name" />
+        <activity
+            android:name="com.ta.wootrix.phone.EmbeddedVideoActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.ta.wootrix.phone.EmbeddedArticleDetailActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.ta.wootrix.phone.ChangeEmailActivity"
+            android:configChanges="locale|touchscreen|keyboard|orientation|screenSize"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait"></activity>
+        <activity
+            android:name="com.ta.wootrix.phone.ChangePasswordActivity"
+            android:configChanges="locale|touchscreen|keyboard|orientation|screenSize"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait"></activity>
+        <activity
+            android:name="com.ta.wootrix.phone.ChangeLanguageActivity"
+            android:configChanges="locale|touchscreen|keyboard|orientation|screenSize"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait"></activity>
+        <activity
+            android:name="com.ta.wootrix.phone.SettingActivity"
+            android:configChanges="locale|touchscreen|keyboard|orientation|screenSize"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait"></activity>
+        <activity
+            android:name="com.ta.wootrix.phone.CommentActivity"
+            android:configChanges="locale|touchscreen|keyboard|orientation|screenSize"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait"></activity>
+
+
+        <activity
+            android:name="com.ta.wootrix.firebase.ArticleDetailActivityTwo"
+            android:configChanges="locale|touchscreen|keyboard|orientation|screenSize"
+            android:label="@string/app_name"></activity>
+
+        <activity
+            android:name="com.ta.wootrix.firebase.CommentActivityTwo"
+            android:configChanges="locale|touchscreen|keyboard|orientation|screenSize"
+            android:label="@string/app_name"></activity>
+
+        <activity
+            android:name="com.ta.wootrix.firebase.MainActivity"
+            android:configChanges="locale|touchscreen|keyboard|orientation|screenSize"
+            android:label="@string/app_name"></activity>
+
+        <meta-data
+            android:name="com.google.android.gms.version"
+            android:value="@integer/google_play_services_version" />
+
+        <service
+            android:name=".firebase.MyFireBaseMessage"
+            android:enabled="true">
+            <intent-filter>
+                <action android:name="com.google.firebase.MESSAGING_EVENT" />
+            </intent-filter>
+        </service>
+        <service android:name=".firebase.MyInstantService">
+            <intent-filter>
+                <action android:name="com.google.firebase.INSTANCE_ID_EVENT" />
+            </intent-filter>
+        </service>
+
+        <service android:name="com.ta.wootrix.restapi.RestService"></service>
+
+        <!-- Add this meta-data below, and change "key_live_xxxxxxx" to your actual live Branch key -->
+        <meta-data
+            android:name="io.branch.sdk.BranchKey"
+            android:value="key_live_deEOxg2Pl9gSzwQRFckC2kclrta5xX9c" />
+
+        <!--<meta-data-->
+            <!--android:name="io.branch.sdk.BranchKey"-->
+            <!--android:value="key_test_hmvb20wNC3vNtVhFcz6zqobkAxaho4Qc" />-->
+
+        <!-- For your test app, if you have one; Again, use your actual test Branch key -->
+        <!--<meta-data android:name="io.branch.sdk.BranchKey.test" android:value="key_test_hmvb20wNC3vNtVhFcz6zqobkAxaho4Qc" />-->
+
+        <activity
+            android:name="com.ta.wootrix.phone.DeepLinkActivity"
+            android:label="@string/title_deeplink"
+            android:launchMode="singleTask"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar">
+
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+
+            <intent-filter
+                android:icon="@drawable/app_icon"
+                android:label="@string/filter_title_deeplink">
+
+                <action android:name="android.intent.action.VIEW" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.BROWSABLE" />
+
+                <!-- Accepts URIs that begin with "http://www.example.com/gizmos” -->
+                <!--<data android:scheme="http"-->
+                <!--android:host="www.wootrix.com"-->
+                <!--android:pathPrefix="/index.php" />-->
+
+                <!-- note that the leading "/" is required for pathPrefix-->
+                <!-- Accepts URIs that begin with "example://gizmos” -->
+                <data android:scheme="fbhapp" />
+
+            </intent-filter>
+
+            <intent-filter android:autoVerify="true">
+                <action android:name="android.intent.action.VIEW" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.BROWSABLE" />
+
+                <data
+                    android:host="mygq.app.link"
+                    android:scheme="https" />
+            </intent-filter>
+        </activity>
+
+        <activity
+            android:name="com.microsoft.identity.client.BrowserTabActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW" />
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.BROWSABLE" />
+
+                <!--Add in your scheme/host from registered redirect URI-->
+                <!--By default, the scheme should be similar to 'msal[appId]' -->
+                <data android:scheme="msal35532026-3245-4de4-9a43-255a3b2632e9"
+                    android:host="auth" />
+
+                <data android:scheme="msal5904648b-0ceb-46cd-ba1f-5ee6d91bf5be"
+                    android:host="auth" />
+            </intent-filter>
+        </activity>
+
+        <receiver
+            android:name="io.branch.referral.InstallListener"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="com.android.vending.INSTALL_REFERRER" />
+            </intent-filter>
+        </receiver>
+
+    </application>
+
+</manifest>

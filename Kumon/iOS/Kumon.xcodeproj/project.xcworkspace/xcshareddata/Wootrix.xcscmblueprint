@@ -1,0 +1,32 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "6cd04198-7dd4-1a4c-8865-fe094605d721++4480",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "6cd04198-7dd4-1a4c-8865-fe094605d721++4480" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "619724370DEC2851357FB5BE70AD98BAED8B9FCD" : 9223372036854775807,
+    "6cd04198-7dd4-1a4c-8865-fe094605d721++4480" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "E900039F-DC7A-43F7-910B-405DB8E159BE",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "619724370DEC2851357FB5BE70AD98BAED8B9FCD" : "",
+    "6cd04198-7dd4-1a4c-8865-fe094605d721++4480" : "Wootrix_IOS%202\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Wootrix",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Wootrix.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/bitbucket.org\/cgastadia\/wootrixlatestsep13.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "619724370DEC2851357FB5BE70AD98BAED8B9FCD"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/10.11.5.3\/svn\/pedro_wootrix_ias_f",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "6cd04198-7dd4-1a4c-8865-fe094605d721++4480"
+    }
+  ]
+}

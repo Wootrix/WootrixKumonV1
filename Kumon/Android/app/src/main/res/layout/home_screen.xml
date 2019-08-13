@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:id="@+id/home_screen_top_banner_bg_lnrLyt"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/actionnar_banner_height"
+            android:background="@color/banner_color"
+            android:gravity="center_vertical"
+            android:padding="@dimen/margin_5">
+
+            <ImageView
+                android:id="@+id/home_screen_top_banner_imageVw"
+                android:layout_width="@dimen/custom_margin_cum_width"
+                android:layout_height="@dimen/actionnar_banner_height"
+                android:scaleType="centerInside"
+                android:src="@drawable/wootrix_logo"
+                android:visibility="invisible" />
+
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="@dimen/margin_10"
+                android:layout_marginRight="@dimen/margin_10"
+                android:layout_weight="1"
+                android:background="@drawable/search"
+                android:gravity="center_vertical"
+                android:orientation="horizontal"
+                android:padding="@dimen/margin_5">
+
+                <EditText
+                    android:id="@+id/home_screen_search_edtTxt"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_marginRight="@dimen/margin_5"
+                    android:layout_weight="1"
+                    android:background="@android:color/transparent"
+                    android:hint="@string/lbl_search_magazines"
+                    android:paddingLeft="@dimen/margin_5"
+                    android:singleLine="true"
+                    android:textSize="@dimen/text_size_32"></EditText>
+
+                <ImageView
+                    android:id="@+id/home_screen_search_imgVw"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="@dimen/margin_3"
+                    android:padding="@dimen/margin_5"
+                    android:src="@drawable/icon_search" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="@dimen/custom_margin_cum_width"
+                android:layout_height="wrap_content"
+                android:gravity="right"
+                android:orientation="horizontal">
+
+                <com.ta.wootrix.utils.CircularImageView
+                    android:id="@+id/home_screen_profile_image_imgVw"
+                    android:layout_width="@dimen/landing_page_top_pr_img_size"
+                    android:layout_height="@dimen/landing_page_top_pr_img_size"
+                    android:layout_alignParentRight="true"
+                    android:layout_centerVertical="true"
+                    android:layout_marginRight="@dimen/margin_5"
+                    android:scaleType="centerCrop"
+                    android:src="@drawable/navbar_profile_image_placeholder"
+                    app:border="true"
+                    app:border_color="@color/trans_50_bg"
+                    app:border_width="@dimen/margin_3"
+                    app:shadow="false" />
+            </LinearLayout>
+        </LinearLayout>
+
+        <FrameLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1">
+
+            <se.emilsjolander.flipview.FlipView xmlns:flipview="http://schemas.android.com/apk/res-auto"
+                android:id="@+id/home_screen_flipview"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="#ffffff"
+                flipview:fliporientation="vertical"></se.emilsjolander.flipview.FlipView>
+
+            <ImageView
+                android:id="@+id/home_screen_refresh_imgVw_imgVw"
+                android:layout_width="@dimen/landing_page_top_pr_img_size"
+                android:layout_height="@dimen/landing_page_top_pr_img_size"
+                android:layout_gravity="right|top"
+                android:layout_margin="@dimen/margin_10"
+                android:src="@drawable/icon_refresh" />
+
+            <TextView
+                android:id="@+id/empty_view"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:text="Empty!"
+                android:textSize="32sp"
+                android:visibility="gone" />
+
+            <ListView
+                android:id="@+id/home_screen_articles_listview"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="@color/white"
+                android:cacheColorHint="#0000"
+                android:divider="@drawable/seprator"
+                android:scrollingCache="false"
+                android:visibility="gone"></ListView>
+        </FrameLayout>
+
+        <LinearLayout
+            android:id="@+id/home_screen_page_lnrLyt"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/banner_color"
+            android:gravity="center_vertical"
+            android:padding="@dimen/margin_10">
+
+            <ImageView
+                android:id="@+id/home_screen_left_paging_imgVw"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="@dimen/custom_margin_cum_width"
+                android:padding="@dimen/margin_5"
+                android:src="@drawable/icon_right_arrow" />
+
+            <HorizontalScrollView
+                android:id="@+id/home_screen_pager_slider_scrollVw"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:scrollbars="none">
+
+                <LinearLayout
+                    android:id="@+id/home_screen_pager_slider_lnrLyt"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:orientation="horizontal"
+                    android:padding="@dimen/margin_5"></LinearLayout>
+            </HorizontalScrollView>
+
+            <ImageView
+                android:id="@+id/home_screen_right_paging_imgVw"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:padding="@dimen/margin_5"
+                android:src="@drawable/icon_left_arrow" />
+
+            <ImageView
+                android:layout_width="@dimen/custom_margin_cum_width"
+                android:layout_height="wrap_content"
+                android:src="@drawable/wootrix_logo_bottom" />
+        </LinearLayout>
+    </LinearLayout>
+
+    <!-- implementing cover page -->
+    <ImageView
+        android:id="@+id/home_screen_cover_page"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/black"
+        android:scaleType="fitXY"
+        android:visibility="gone" />
+
+</RelativeLayout>

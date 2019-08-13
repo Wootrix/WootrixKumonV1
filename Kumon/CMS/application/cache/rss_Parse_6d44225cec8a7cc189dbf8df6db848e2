@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" >
+	<channel>
+		<title>EETimes: </title>
+		<link>http://www.eetimes.com</link>
+		<description>EETimes: </description>
+		<copyright><![CDATA[Copyright (C) 2000-2017 EE Times - All rights reserved.]]></copyright>
+		<language>en-us</language>
+		<lastBuildDate>Mon, 23 Jan 2017 22:59:49 EST</lastBuildDate>
+		<image>
+			<title>EETimes: </title>
+			<url>http://m.eet.com/images/images/spacer.gif</url>
+			<link>http://www.eetimes.com</link>
+		</image>
+		<item>
+			<title>Silicon Labs Expands IoT Portfolio</title> 
+				<link>http://www.eetimes.com/document.asp?doc_id=1331243&amp;_mc=RSS_EET_EDT</link> <image><url>http://img.deusm.com/eetimes/2017/01/1331243/IoT-network-pixabay-x-98.png</url></image>
+			<dc:creator><![CDATA[Rick Merritt]]></dc:creator>			
+			<dc:image><url>http://img.deusm.com/eetimes/rmerrit_125x125.jpg</url></dc:image>
+			<description><![CDATA[Silicon Labs bought Zentri, a 20-person company making mainly software for Wi-Fi modules for the Internet of Things.]]></description>
+			<pubDate>Mon, 23 Jan 2017 19:45:00 EST</pubDate>
+			<guid isPermaLink="true">http://www.eetimes.com/document.asp?doc_id=1331243</guid>
+		</item>
+		<item>
+			<title>X-Fab is Fastest Growing Foundry</title> 
+				<link>http://www.eetimes.com/document.asp?doc_id=1331242&amp;_mc=RSS_EET_EDT</link> <image><url>http://img.deusm.com/ebnonline/2017/01/282358/xfab_98.png</url></image>
+			<dc:creator><![CDATA[Dylan McGrath]]></dc:creator>			
+			<dc:image><url>http://img.deusm.com/eetimes/mcgrath125x125.jpg</url></dc:image>
+			<description><![CDATA[Pure play foundry sales increased by 11% last year to reach $50 billion, according to IC Insights. ]]></description>
+			<pubDate>Mon, 23 Jan 2017 16:11:00 EST</pubDate>
+			<guid isPermaLink="true">http://www.eetimes.com/document.asp?doc_id=1331242</guid>
+		</item>
+		<item>
+			<title>From Hardware Emulation to High-Frequency Trading Riding the FPGA Wave</title> 
+				<link>http://www.eetimes.com/author.asp?section_id=36&amp;doc_id=1331241&amp;_mc=RSS_EET_EDT</link> <image><url>http://img.deusm.com/eetimes/2017/01/1331241/3pi-0115-eet-lar-00-70x70.jpg</url></image>
+			<description><![CDATA[In an interview with Lauro Rizzatti, former CEO of EVE, Luc Burgun, explains how he crossed the bridge between hardware emulation and high-frequency trading.]]></description>
+			<pubDate>Mon, 23 Jan 2017 15:50:00 EST</pubDate>
+			<guid isPermaLink="true">http://www.eetimes.com/author.asp?section_id=36&amp;doc_id=1331241</guid>
+		</item>
+		<item>
+			<title>Batteries Caused Samsung Galaxy to Explode</title> 
+				<link>http://www.eetimes.com/document.asp?doc_id=1331240&amp;_mc=RSS_EET_EDT</link> <image><url>http://img.deusm.com/eetimes/2017/01/1331240/samsung-battery-structure_366.png</url></image>
+			<dc:creator><![CDATA[Junko Yoshida]]></dc:creator>			
+			<dc:image><url>http://img.deusm.com/eetimes/jyoshida_125x125.jpg</url></dc:image>
+			<description><![CDATA[Following a three-month investigation into the exploding Galaxy Note 7 handsets, Samsung put the blame squarely on the devices' batteries. The company ruled out any issue with the smartphones' software or other hardware.]]></description>
+			<pubDate>Mon, 23 Jan 2017 14:21:00 EST</pubDate>
+			<guid isPermaLink="true">http://www.eetimes.com/document.asp?doc_id=1331240</guid>
+		</item>
+		<item>
+			<title>Toshiba's NAND Future Uncertain</title> 
+				<link>http://www.eetimes.com/document.asp?doc_id=1331239&amp;_mc=RSS_EET_EDT</link> <image><url>http://img.deusm.com/eetimes/2017/01/1331239/Toshiba_366.png</url></image>
+			<dc:creator><![CDATA[Junko Yoshida]]></dc:creator>			
+			<dc:image><url>http://img.deusm.com/eetimes/jyoshida_125x125.jpg</url></dc:image>
+			<description><![CDATA[Roughly 10 suitors are interested in Toshiba's NAND flash business. Selling a stake in the spun-off chip business is the quickest way for Toshiba to boost its capital, but several factors make Toshiba's plan both more urgent and complex.]]></description>
+			<pubDate>Mon, 23 Jan 2017 13:25:00 EST</pubDate>
+			<guid isPermaLink="true">http://www.eetimes.com/document.asp?doc_id=1331239</guid>
+		</item>
+		<item>
+			<title>Automotive ECU Updates: Keeping the Hackers Out</title> 
+				<link>http://www.eetimes.com/document.asp?doc_id=1331232&amp;_mc=RSS_EET_EDT</link> <image><url>http://m.eet.com/images/eetimes/2016/10/1330684/cybersecurity_366.png</url></image>
+			<dc:creator><![CDATA[Martin Rowe]]></dc:creator>			
+			<dc:image><url>http://img.deusm.com/theconnectingedge/Martin-Rowe-125x125.jpg</url></dc:image>
+			<description><![CDATA[A new software security technology called Uptane aims to keep hackers away from firmware updates and keep manufacturers and suppliers in control.]]></description>
+			<pubDate>Mon, 23 Jan 2017 10:31:00 EST</pubDate>
+			<guid isPermaLink="true">http://www.eetimes.com/document.asp?doc_id=1331232</guid>
+		</item>
+		<item>
+			<title>Dragonfly Surveillance Cyborg Could Aid Pollination</title> 
+				<link>http://www.eetimes.com/document.asp?doc_id=1331215&amp;_mc=RSS_EET_EDT</link> <image><url>http://img.deusm.com/eetimes/2017/01/1331215/caroimagedragonfly.jpg</url></image>
+			<dc:creator><![CDATA[R. Colin Johnson]]></dc:creator>			
+			<dc:image><url>http://img.deusm.com/eetimes/Colin_Johnson-125x125.jpg</url></dc:image>
+			<description><![CDATA[Who needs bees. Just use technology to pollinate? The Charles Stark Draper Laboratory, Inc. (Draper, Cambridge Mass.) has embedded an optrode in a dragonfly with the idea of guided pollination. 
+]]></description>
+			<pubDate>Mon, 23 Jan 2017 00:01:00 EST</pubDate>
+			<guid isPermaLink="true">http://www.eetimes.com/document.asp?doc_id=1331215</guid>
+		</item>
+		<item>
+			<title>Trump: Man Without Scruples</title> 
+				<link>http://www.eetimes.com/author.asp?section_id=36&amp;doc_id=1331237&amp;_mc=RSS_EET_EDT</link> <image><url>http://img.deusm.com/eetimes/2017/01/1331237/Trump_366.png</url></image>
+			<dc:creator><![CDATA[Junko Yoshida]]></dc:creator>			
+			<dc:image><url>http://img.deusm.com/eetimes/jyoshida_125x125.jpg</url></dc:image>
+			<description><![CDATA[The world isn't so sure yet which Trump will show up for the long haul. The Chinese government, too, is still deciding how to react to the new U.S. president.]]></description>
+			<pubDate>Mon, 23 Jan 2017 00:00:00 EST</pubDate>
+			<guid isPermaLink="true">http://www.eetimes.com/author.asp?section_id=36&amp;doc_id=1331237</guid>
+		</item>
+		<item>
+			<title>Q'comm Feels Smartphone Squeeze</title> 
+				<link>http://www.eetimes.com/author.asp?section_id=36&amp;doc_id=1331235&amp;_mc=RSS_EET_EDT</link> <image><url>http://img.deusm.com/eetimes/2017/01/1331235/Smartphones-China-IHS-x-366.png</url></image>
+			<dc:creator><![CDATA[Rick Merritt]]></dc:creator>			
+			<dc:image><url>http://img.deusm.com/eetimes/rmerrit_125x125.jpg</url></dc:image>
+			<description><![CDATA[The salad days of the smartphone era are over, now stakeholders are fighting over pieces of red meat.]]></description>
+			<pubDate>Sat, 21 Jan 2017 02:00:00 EST</pubDate>
+			<guid isPermaLink="true">http://www.eetimes.com/author.asp?section_id=36&amp;doc_id=1331235</guid>
+		</item>
+		<item>
+			<title>EDA Firm ATopTech Files for Bankruptcy</title> 
+				<link>http://www.eetimes.com/document.asp?doc_id=1331234&amp;_mc=RSS_EET_EDT</link> <image><url>http://img.deusm.com/ebnonline/2017/01/282358/Bankrupt_98.jpg</url></image>
+			<dc:creator><![CDATA[Dylan McGrath]]></dc:creator>			
+			<dc:image><url>http://img.deusm.com/eetimes/mcgrath125x125.jpg</url></dc:image>
+			<description><![CDATA[Privately held EDA vendor expects to be sold after losing long-running legal battle with Synopsys. ]]></description>
+			<pubDate>Fri, 20 Jan 2017 17:25:00 EST</pubDate>
+			<guid isPermaLink="true">http://www.eetimes.com/document.asp?doc_id=1331234</guid>
+		</item>
+		<item>
+			<title>TI Reorgs Analog Group</title> 
+				<link>http://www.eetimes.com/document.asp?doc_id=1331233&amp;_mc=RSS_EET_EDT</link> <image><url>http://img.deusm.com/eetimes/2017/01/1331233/TI-Logo-x-366.png</url></image>
+			<dc:creator><![CDATA[Rick Merritt]]></dc:creator>			
+			<dc:image><url>http://img.deusm.com/eetimes/rmerrit_125x125.jpg</url></dc:image>
+			<description><![CDATA[Texas Instruments reorganized four analog groups into three, eliminating no products but causing a small number of layoffs in support personnel.]]></description>
+			<pubDate>Fri, 20 Jan 2017 16:00:00 EST</pubDate>
+			<guid isPermaLink="true">http://www.eetimes.com/document.asp?doc_id=1331233</guid>
+		</item>
+		<item>
+			<title>It's Year Five of Paul Salopek's Round-the-World Walk</title> 
+				<link>http://www.eetimes.com/author.asp?section_id=216&amp;doc_id=1331228&amp;_mc=RSS_EET_EDT</link> <image><url>http://img.deusm.com/eetimes/2017/01/1331228/max-0767-eet-oew-00-366x210.jpg</url></image>
+			<dc:creator><![CDATA[Max Maxfield]]></dc:creator>			
+			<dc:image><url>http://img.deusm.com/eetimes/2014/01/1320743/max-el-magnifico-125x125.gif</url></dc:image>
+			<description><![CDATA[Prize-winning journalist Paul Salopek is on the fifth year of his decade-long, 21,000-mile walk spanning continents, languages, and cultures.]]></description>
+			<pubDate>Fri, 20 Jan 2017 13:00:00 EST</pubDate>
+			<guid isPermaLink="true">http://www.eetimes.com/author.asp?section_id=216&amp;doc_id=1331228</guid>
+		</item>
+		<item>
+			<title>Friday Feel-Good Video: A Wee Day Out</title> 
+				<link>http://www.eetimes.com/author.asp?section_id=216&amp;doc_id=1331227&amp;_mc=RSS_EET_EDT</link> <image><url>http://img.deusm.com/eetimes/2017/01/1331227/max-0769-eet-fgv-00-366x210.jpg</url></image>
+			<dc:creator><![CDATA[Max Maxfield]]></dc:creator>			
+			<dc:image><url>http://img.deusm.com/eetimes/2014/01/1320743/max-el-magnifico-125x125.gif</url></dc:image>
+			<description><![CDATA[This video is a combination of "feel-good" and "awe-inspiring" and it will leave a smile on your face throughout (interspaced with "Oooh" expressions of surprise).]]></description>
+			<pubDate>Fri, 20 Jan 2017 12:40:00 EST</pubDate>
+			<guid isPermaLink="true">http://www.eetimes.com/author.asp?section_id=216&amp;doc_id=1331227</guid>
+		</item>
+		<item>
+			<title>5G Calls for Silicon in 2017</title> 
+				<link>http://www.eetimes.com/document.asp?doc_id=1331222&amp;_mc=RSS_EET_EDT</link> <image><url>http://img.deusm.com/eetimes/2017/01/1331222/Radio-towers-Nokia-Nets.png</url></image>
+			<dc:creator><![CDATA[Rick Merritt]]></dc:creator>			
+			<dc:image><url>http://img.deusm.com/eetimes/rmerrit_125x125.jpg</url></dc:image>
+			<description><![CDATA[This year, work on silicon and antenna architectures for 5G cellular networks begins in earnest, said a Nokia CTO.]]></description>
+			<pubDate>Fri, 20 Jan 2017 11:40:00 EST</pubDate>
+			<guid isPermaLink="true">http://www.eetimes.com/document.asp?doc_id=1331222</guid>
+		</item>
+		<item>
+			<title>NHTSA Lets Tesla Off The Hook</title> 
+				<link>http://www.eetimes.com/document.asp?doc_id=1331224&amp;_mc=RSS_EET_EDT</link> <image><url>http://img.deusm.com/eetimes/2017/01/1331224/tesla-logo_366.png</url></image>
+			<dc:creator><![CDATA[Junko Yoshida]]></dc:creator>			
+			<dc:image><url>http://img.deusm.com/eetimes/jyoshida_125x125.jpg</url></dc:image>
+			<description><![CDATA[The NHTSA concluded a months-long investigation of a fatal crash in Florida, and reported that the agency found no defects in Tesla's Automatic Emergency Braking and Autopilot systems. Did NHTSA let Tesla off the hook too easily? Absolutely.]]></description>
+			<pubDate>Fri, 20 Jan 2017 09:36:00 EST</pubDate>
+			<guid isPermaLink="true">http://www.eetimes.com/document.asp?doc_id=1331224</guid>
+		</item>
+		<item>
+			<title>Tsinghua to Build $30 Billion Memory Fab in China</title> 
+				<link>http://www.eetimes.com/document.asp?doc_id=1331223&amp;_mc=RSS_EET_EDT</link> <image><url>http://img.deusm.com/ebnonline/2017/01/282358/China_flag_ball_98.jpg</url></image>
+			<dc:creator><![CDATA[Dylan McGrath]]></dc:creator>			
+			<dc:image><url>http://img.deusm.com/eetimes/mcgrath125x125.jpg</url></dc:image>
+			<description><![CDATA[State-controlled Chinese chip firm has committed to $54 billion to two memory fab projects in past two months. ]]></description>
+			<pubDate>Fri, 20 Jan 2017 01:50:00 EST</pubDate>
+			<guid isPermaLink="true">http://www.eetimes.com/document.asp?doc_id=1331223</guid>
+		</item>
+		<item>
+			<title>Friday Quiz: Specifying Power Supplies, Part 1</title> 
+				<link>http://www.eetimes.com/author.asp?section_id=36&amp;doc_id=1331213&amp;_mc=RSS_EET_EDT</link> <image><url>http://img.deusm.com/eetimes/2017/01/1331213/ametek_power_p1_366x210.jpg</url></image>
+			<dc:creator><![CDATA[Martin Rowe]]></dc:creator>			
+			<dc:image><url>http://img.deusm.com/theconnectingedge/Martin-Rowe-125x125.jpg</url></dc:image>
+			<description><![CDATA[How should you specify your next bench or system power supply? Find out through these questions.]]></description>
+			<pubDate>Fri, 20 Jan 2017 00:03:00 EST</pubDate>
+			<guid isPermaLink="true">http://www.eetimes.com/author.asp?section_id=36&amp;doc_id=1331213</guid>
+		</item>
+		<item>
+			<title>Carbon-on-Wafer Tech Said to Make RF Compatible with CMOS</title> 
+				<link>http://www.eetimes.com/document.asp?doc_id=1331214&amp;_mc=RSS_EET_EDT</link> <image><url>http://img.deusm.com/eetimes/2017/01/1331214/caroimage.png</url></image>
+			<dc:creator><![CDATA[R. Colin Johnson]]></dc:creator>			
+			<dc:image><url>http://img.deusm.com/eetimes/Colin_Johnson-125x125.jpg</url></dc:image>
+			<description><![CDATA[The world's first commercial carbon-on-silicon wafers use aligned nanotubes, which can be lithographically fabricated into super-fast transistors alongside normal CMOS circuitry.]]></description>
+			<pubDate>Fri, 20 Jan 2017 00:00:00 EST</pubDate>
+			<guid isPermaLink="true">http://www.eetimes.com/document.asp?doc_id=1331214</guid>
+		</item>
+		<item>
+			<title>Will Storage Class Memory Disrupt Memory Hierarchy? </title> 
+				<link>http://www.eetimes.com/author.asp?section_id=36&amp;doc_id=1331205&amp;_mc=RSS_EET_EDT</link> <image><url>http://img.deusm.com/eetimes/2017/01/1331205/Besang01.png</url></image>
+			<dc:creator><![CDATA[Sang-Yun Lee]]></dc:creator>			
+			<dc:image><url>http://img.deusm.com/eetimes/2017/01/1331205/Sang-Yun_Lee-125x125.png</url></dc:image>
+			<description><![CDATA[Will SCM come to the market and disrupt traditional memory hierarchy?]]></description>
+			<pubDate>Fri, 20 Jan 2017 00:00:00 EST</pubDate>
+			<guid isPermaLink="true">http://www.eetimes.com/author.asp?section_id=36&amp;doc_id=1331205</guid>
+		</item>
+		<item>
+			<title>Virtual Reality Takes Zombie Shoot-'Em-Ups to Next Level</title> 
+				<link>http://www.eetimes.com/author.asp?section_id=216&amp;doc_id=1331221&amp;_mc=RSS_EET_EDT</link> <image><url>http://img.deusm.com/eetimes/2017/01/1331221/max-0760-eet-ass-00-366x210.jpg</url></image>
+			<dc:creator><![CDATA[Max Maxfield]]></dc:creator>			
+			<dc:image><url>http://img.deusm.com/eetimes/2014/01/1320743/max-el-magnifico-125x125.gif</url></dc:image>
+			<description><![CDATA[Arizona Sunshine plunges you into a blistering hot, post-apocalyptic Arizona where you must defend yourself against hordes of the gruesome undead.]]></description>
+			<pubDate>Thu, 19 Jan 2017 17:00:00 EST</pubDate>
+			<guid isPermaLink="true">http://www.eetimes.com/author.asp?section_id=216&amp;doc_id=1331221</guid>
+		</item>
+	</channel>
+</rss>

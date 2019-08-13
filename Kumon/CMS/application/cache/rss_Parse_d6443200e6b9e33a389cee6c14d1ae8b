@@ -1,0 +1,880 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" media="screen" href="/~d/styles/rss2full.xsl"?><?xml-stylesheet type="text/css" media="screen" href="http://feeds.feedburner.com/~d/styles/itemcontent.css"?><rss xmlns:a10="http://www.w3.org/2005/Atom" xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" version="2.0">
+    <channel xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
+        <title>Resources for lockout-tagout</title>
+        <link>http://reliableplant.com/Meta/Tags/lockout-tagout</link>
+        <description>All articles for lockout-tagout</description>
+        <language>en-us</language>
+        <copyright>Copyright 0000-2016 Noria Corporation - All Rights Reserved</copyright>
+        <lastBuildDate>Fri, 19 Jun 2015 10:02:51 -0500</lastBuildDate>
+        <generator>Noria Core</generator>
+        <a10:id>http://reliableplant.com/Meta/Tags/lockout-tagout</a10:id>
+        
+        <a10:link rel="search" type="application/opensearchdescription+xml" title="Content Search" href="http://reliableplant.com/osd.xml" />
+        <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://feeds.feedburner.com/noria/reliableplant/tags/lockout-tagout" /><feedburner:info uri="noria/reliableplant/tags/lockout-tagout" /><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/" /><item>
+            <guid isPermaLink="false">tag:noria.com,2010-06-10:publishing:magazines:rp:cf2b90fd-c7b5-488b-8677-a4bc00a596af</guid>
+            <link>http://feedproxy.google.com/~r/noria/reliableplant/tags/lockout-tagout/~3/c8cAxH1SV1I/lockout-tagout-procedures</link>
+            <a10:author>
+                <a10:name>Noria news wires</a10:name>
+            </a10:author>
+            <category>Videos</category>
+            <category>Media Entries</category>
+            <title>The Importance of Lockout-Tagout Procedures</title>
+            <description>&lt;p&gt;
+	Lockout procedures keep equipment energy sources from activating when you don&amp;rsquo;t want them to, especially during maintenance when employees are vulnerable to injury or death. Effective lockout-tagout procedures also minimize downtime and protect expensive equipment, ensuring that machines are correctly shut down and restarted. This 11-minute, 51-second video describes the importance of a safety lockout-tagout program as well as steps to safely apply and remove lockout devices to isolate hazardous energy prior to and after equipment servicing and maintenance.&lt;/p&gt;
+&lt;p&gt;
+	     &lt;/p&gt;&lt;img src="http://feeds.feedburner.com/~r/noria/reliableplant/tags/lockout-tagout/~4/c8cAxH1SV1I" height="1" width="1" alt=""/&gt;</description>
+            <a10:updated>2015-06-19T10:02:51-05:00</a10:updated>
+            <a10:content type="text/html" src="http://reliableplant.com/View/30175/lockout-tagout-procedures" />
+        <feedburner:origLink>http://reliableplant.com/View/30175/lockout-tagout-procedures</feedburner:origLink></item>
+        <item>
+            <guid isPermaLink="false">tag:noria.com,2010-06-10:publishing:magazines:rp:89cec515-1e6d-4e3a-bce1-a029008aaf2c</guid>
+            <link>http://feedproxy.google.com/~r/noria/reliableplant/tags/lockout-tagout/~3/YBG1BQgEFRc/signage-labeling-reliability</link>
+            <a10:author>
+                <a10:name>Bob Schindler</a10:name>
+            </a10:author>
+            <category>Web Exclusives</category>
+            <category>Articles</category>
+            <title>How Signage and Labeling can Improve Reliability</title>
+            <description>&lt;p&gt;
+	The importance of signage and labeling is often underplayed or even ignored when a maintenance program is being discussed. Since we are visual creatures and the visual workplace is the direct application of this, we should take a few minutes to go over some reasons and applications for signage and labeling to get more attention in our programs.&lt;/p&gt;
+&lt;p&gt;
+	Signage can be for several reasons, such as:&lt;/p&gt;
+&lt;ul&gt;
+	&lt;li&gt;
+		Regulatory compliance (e.g., personal protective equipment, arc flash, Department of Transportation placarding)&lt;/li&gt;
+	&lt;li&gt;
+		Access control, such as &amp;ldquo;Authorized Personnel Only&amp;rdquo;&lt;/li&gt;
+	&lt;li&gt;
+		Fire safety, such as extinguisher locations and fire exits&lt;/li&gt;
+	&lt;li&gt;
+		General safety (e.g., cautions about fork truck traffic)&lt;/li&gt;
+	&lt;li&gt;
+		Behavior and training purposes (safety reminders and CPR how-to directions)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;
+	Labeling is usually more specific but is also varied in use. Examples include:&lt;/p&gt;
+&lt;ul&gt;
+	&lt;li&gt;
+		Piping labels per ANSI standard&lt;/li&gt;
+	&lt;li&gt;
+		Equipment labeling for the CMMS&lt;/li&gt;
+	&lt;li&gt;
+		Storage location labels&lt;/li&gt;
+	&lt;li&gt;
+		Special tools and tooling&lt;/li&gt;
+	&lt;li&gt;
+		Safety equipment&lt;/li&gt;
+	&lt;li&gt;
+		Equipment set points and wear indicators&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;
+	All of these and more play an important part in achieving your maintenance and reliability goals. Don&amp;rsquo;t forget that one of the biggest factors in your success is your ability to communicate effectively with your operators and technicians. They need clear direction on proper behavior and actions. A few generic, half-hearted exhortations to &amp;ldquo;work smarter&amp;rdquo; or &amp;ldquo;work safely&amp;rdquo; look nice on the wall, but do they truly achieve their intent if they are not coupled with specific instructions? Probably not.&lt;/p&gt;
+&lt;p&gt;
+	It takes visible, useful and targeted information to let your people know what you expect from them. In exchange, you have to provide them the tools they need to make it happen. Proper signage and labeling moves your organization in the right direction and does so at a very reasonable price.&lt;/p&gt;
+&lt;p&gt;
+	Take a look around your maintenance shop first and look for the simple things like the safety posters, the grinder guard safety labels, the special tools storage labels, the fire equipment, oily rag storage, etc., that you could do right away. Then, expand out into areas that are under your control and start putting up the signs and labels that you can see are missing. Go to the various safety sites on the Internet and check your general vendors for what they offer for ideas. I guarantee that you will see opportunities for everything from flammable materials storage to pinch points, arc flash and many others.&lt;/p&gt;
+&lt;p&gt;
+	Your piping labels are especially important if your process includes hazardous materials or high pressures and temperatures. Don&amp;rsquo;t forget the directional arrows for clarity where possible.&lt;/p&gt;
+&lt;p&gt;
+	Equipment labels pay off big time for your CMMS system and for improving the accuracy of your work orders, as well as assisting your safety program. Putting the identification number or code, a proper description and the power shut-off locations on the tag are the bare minimum.&lt;/p&gt;
+&lt;p&gt;
+	The ID number gets the work orders written to the right spot and ties together bills of material, standard operating procedures and lockout/tagout procedures as well as just about anything else your imagination can connect to that unique piece of equipment.&lt;/p&gt;
+&lt;p&gt;
+	The proper description gets everyone using the same name for it, and that reduces confusion. Everyone has run into the problem of the new guy who calls it a widget when you call it a whatsit. Save time all around and get everyone on the same page with a simple tag or label.&lt;/p&gt;
+&lt;p&gt;
+	Power source locations are a big safety item that could help to save an injury or equipment damage by directing people to the shut-off right away. Don&amp;rsquo;t pass up this opportunity to save time in an emergency.&lt;/p&gt;
+&lt;p&gt;
+	Your operations partners will recognize the value quickly. Jobs are recorded more accurately, take less time and get done safer. Who could argue with that? They will want to get on the train with you and share in the good results. Plus, it is fairly cheap, can be done with in-house labor and can be spread out over months or even over multiple budget years.&lt;/p&gt;
+&lt;p&gt;
+	Remember, reliability doesn&amp;rsquo;t cost; it pays.&lt;/p&gt;&lt;img src="http://feeds.feedburner.com/~r/noria/reliableplant/tags/lockout-tagout/~4/YBG1BQgEFRc" height="1" width="1" alt=""/&gt;</description>
+            <a10:updated>2012-04-04T08:24:53-05:00</a10:updated>
+            <a10:content type="text/html" src="http://reliableplant.com/Read/28833/signage-labeling-reliability" />
+        <feedburner:origLink>http://reliableplant.com/Read/28833/signage-labeling-reliability</feedburner:origLink></item>
+        <item>
+            <guid isPermaLink="false">tag:noria.com,2010-06-10:publishing:magazines:rp:2cf3b895-af7d-43f8-8468-9ffe00a02eac</guid>
+            <link>http://feedproxy.google.com/~r/noria/reliableplant/tags/lockout-tagout/~3/3-YV_daRzAw/pfannenberg-alarm-sounder</link>
+            <a10:author>
+                <a10:name>Noria news wires</a10:name>
+            </a10:author>
+            <category>Industry News</category>
+            <category>Articles</category>
+            <title>Pfannenberg Introduces Alarm Sounder</title>
+            <description>&lt;p&gt;
+	&lt;img alt="" src="http://media.noria.com/sites/Uploads/2012/2/21/d929c6a4-b3a4-4a75-b3a0-a047e98f1ebf_pfannenberg.jpeg" style="margin: 7px; width: 328px; height: 308px; float: left;" /&gt;Pfannenberg has introduced an audible alarm sounder that is specifically designed to conform with safety integrity level (SIL) 1 and 2 systems. Model DS 10-SIL capitalizes on the technology of the company&amp;rsquo;s workhorse model DS 10 and features an output of 110 decibels, a cast aluminum housing and a legacy for dependable signaling on machinery, heavy equipment and in tough industrial environments.&lt;/p&gt;
+&lt;p&gt;
+	Enhancements for the SIL version include self-monitoring circuitry and fault-indicating contact closures to alert of failure or initiate shutdown /lockout of machinery until corrective action can be achieved, thus eliminating the need for redundant devices.&lt;/p&gt;
+&lt;p&gt;
+	The DS 10-SIL also incorporates full statistical data supporting conformity to SIL 1 and SIL 2 requirements, a menu of 32 unique alarm tones and the ability to remotely trigger up to four selected tones. Target applications for the DS 10-SIL include machinery start-up alarms, process failure alarms, machine guard muting alarms and evacuation alarms for toxic gas leaks and chemical spills.&lt;/p&gt;
+&lt;p&gt;
+	&amp;ldquo;Safety engineers can now deploy audible alarms that are specifically designed for fulfilling their safety instrumented system requirements and achieving their target SIL ratings,&amp;rdquo; says product manager Ray Limburg. &amp;ldquo;With SIL-conforming signaling devices, the associated operational risks are better mitigated, leading to a reduction in potential liability surrounding a mishap.&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;
+	Based in Hamburg, Germany, Pfannenberg has branches, production sites and agents in 44 countries around the world, including Lancaster, N.Y., where the company produces field-tested visual and audible devices for alarm, warning and indication. For more information, visit &lt;a href="http://www.pfannenbergusa.com/sil-signaling"&gt;www.pfannenbergusa.com&lt;/a&gt;.&lt;/p&gt;&lt;img src="http://feeds.feedburner.com/~r/noria/reliableplant/tags/lockout-tagout/~4/3-YV_daRzAw" height="1" width="1" alt=""/&gt;</description>
+            <a10:updated>2012-02-21T09:43:10-06:00</a10:updated>
+            <a10:content type="text/html" src="http://reliableplant.com/Read/28770/pfannenberg-alarm-sounder" />
+        <feedburner:origLink>http://reliableplant.com/Read/28770/pfannenberg-alarm-sounder</feedburner:origLink></item>
+        <item>
+            <guid isPermaLink="false">tag:noria.com,2010-06-10:publishing:magazines:rp:f2281bbb-9905-4631-959d-9ffd00ca0e41</guid>
+            <link>http://feedproxy.google.com/~r/noria/reliableplant/tags/lockout-tagout/~3/8icYjjQn08Y/achieving-zero-failures</link>
+            <a10:author>
+                <a10:name>Tim Goshert</a10:name>
+            </a10:author>
+            <category>Web Exclusives</category>
+            <category>Articles</category>
+            <title>Achieving Zero Failures is Possible</title>
+            <description>&lt;p&gt;
+	In his book, &amp;ldquo;Making Common Sense Common Practice,&amp;rdquo; Ron Moore of the RM Group explains that plant safety and reliability are linked and interrelated. He acknowledges that you can get better safety performance by solely focusing on improving safety practices (e.g., wearing personal protective equipment (PPE), implementing better permitting, using proper lockout/tagout procedures, etc.). However, Moore is also of the firm belief that best-performing plants are very disciplined about all their practices, and from that get a synergistic effect in all of their performance measures.&lt;/p&gt;
+&lt;p&gt;
+	Figures 1 and 2 show examples from a larger set of data that demonstrate the strong correlation between reliability (asset utilization capability) and safety (injury rate). This supports the statement that a more reliable plant is a safer plant.&lt;/p&gt;
+&lt;p&gt;
+	&lt;img alt="" src="http://media.noria.com/sites/Uploads/2012/2/20/93eda360-794b-4022-9d14-567d234cadec_zero failures1.jpeg" style="width: 400px; height: 291px;" /&gt;&lt;/p&gt;
+&lt;p&gt;
+	&lt;em&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Figure 1&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;
+	&lt;img alt="" src="http://media.noria.com/sites/Uploads/2012/2/20/6c5c0f28-e997-44ec-93fa-8e0eeee232eb_zero failures2.jpeg" style="width: 400px; height: 302px;" /&gt;&lt;/p&gt;
+&lt;p&gt;
+	&lt;em&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Figure 2&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;
+	My experience supports Moore&amp;rsquo;s sentiments. I&amp;rsquo;ve experienced a significant change process with Cargill over the past 30 years regarding safety. We are in some businesses that traditionally have been considered not conducive to good safety results. It was thought to be impossible to keep people from getting hurt. We have found this to be untrue. More importantly, we have found that a change in attitude, leadership and actions were needed to achieve this. The culture progressed from one where injuries were part of the business to an attitude where &amp;ldquo;zero injuries are possible in any business anywhere in the world.&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;
+	Our company&amp;rsquo;s safety progress has been a 30-year journey of improved annual results. These results are measured in a safety index number &amp;mdash; a proprietary calculation of reported injury frequency rate (RIFR), disabling frequency rate (DFR) and severity rate (SR). The lower the score, the better the performance.&lt;/p&gt;
+&lt;p&gt;
+	Cargill&amp;rsquo;s safety index measurement has been used to drive better safety performance. We have seen the index decrease from 100 in the late 1970s to less than 2 today. Many companies now believe that a zero injury rate is a legitimate goal. It has become part of their culture.&lt;/p&gt;
+&lt;p&gt;
+	I believe that zero failures in reliability can also be achieved. In my travels, when I ask people if they believe if this is possible, most emphatically say, &amp;ldquo;No way.&amp;rdquo; They believe it isn&amp;rsquo;t possible, much the same way they believed 10 to 20 years ago that zero injuries would be impossible. Yet there are plants that have nearly achieved the goal of zero failures along with zero injuries. These plants have experienced many days and weeks where nothing fails unexpectedly. These sites understand all of the failure modes of their assets and their assets&amp;rsquo; current health. If and when a defect enters the asset, the defect is corrected early and failure is prevented. They are convinced that zero is possible.&lt;/p&gt;
+&lt;p&gt;
+	Experiences and data show that zero failures are possible. As someone once said, &amp;ldquo;If you think you can&amp;rsquo;t, you&amp;rsquo;re probably right. If you think you can, you&amp;rsquo;re probably right.&amp;rdquo;&lt;/p&gt;&lt;img src="http://feeds.feedburner.com/~r/noria/reliableplant/tags/lockout-tagout/~4/8icYjjQn08Y" height="1" width="1" alt=""/&gt;</description>
+            <a10:updated>2012-02-20T12:15:37-06:00</a10:updated>
+            <a10:content type="text/html" src="http://reliableplant.com/Read/28768/achieving-zero-failures" />
+        <feedburner:origLink>http://reliableplant.com/Read/28768/achieving-zero-failures</feedburner:origLink></item>
+        <item>
+            <guid isPermaLink="false">tag:noria.com,2010-06-10:publishing:magazines:rp:eb8a609a-d518-4f42-9568-9f1e00dcc98b</guid>
+            <link>http://feedproxy.google.com/~r/noria/reliableplant/tags/lockout-tagout/~3/0zSN-dShhSo/DuraLabel-Printer-Loaner</link>
+            <a10:author>
+                <a10:name>Noria news wires</a10:name>
+            </a10:author>
+            <category>Industry News</category>
+            <category>Articles</category>
+            <title>DuraLabel Announces Free Printer Loaner Program</title>
+            <description>&lt;p&gt;
+	DuraLabel has announced that it will provide a free printer for qualified customers who need repairs, cleaning or tune-ups. The benefit is increased productivity and fewer work interruptions. DuraLabel printers are used to create industrial signs and labels for applications such as general safety, arc flash, pipe marking and lockout/tagout.&lt;/p&gt;
+&lt;p&gt;
+	Once loaners are received, machines are tested and serviced. Servicing may include updating firmware, updating print headsprings, checking print head alignment and cleaning print head, platen roller, media guides and cutter assemblies. Usually loaners are returned within a week after the original printer is returned. Whenever DuraLabel customers are without a printer and they have a critical labeling job to manage, they receive a loaner.&amp;nbsp;Overnight loaners are available, too.&lt;/p&gt;
+&lt;p&gt;
+	&amp;ldquo;Customers are usually surprised and delighted to hear about the free loaner because we&amp;rsquo;ve all become so accustomed to paying extra for help,&amp;rdquo; said Steve Stephenson, general manager of graphic products.&lt;/p&gt;
+&lt;p&gt;
+	For more information, visit &lt;a href="http://www.duralabel.com/"&gt;www.DuraLabel.com&lt;/a&gt;.&lt;/p&gt;&lt;img src="http://feeds.feedburner.com/~r/noria/reliableplant/tags/lockout-tagout/~4/0zSN-dShhSo" height="1" width="1" alt=""/&gt;</description>
+            <a10:updated>2011-07-12T13:23:49-05:00</a10:updated>
+            <a10:content type="text/html" src="http://reliableplant.com/Read/28498/DuraLabel-Printer-Loaner" />
+        <feedburner:origLink>http://reliableplant.com/Read/28498/DuraLabel-Printer-Loaner</feedburner:origLink></item>
+        <item>
+            <guid isPermaLink="false">tag:noria.com,2010-06-10:publishing:magazines:rp:1440189e-2edc-4499-ab86-9e6f00ebcff1</guid>
+            <link>http://feedproxy.google.com/~r/noria/reliableplant/tags/lockout-tagout/~3/Z2zsGB-jAxM/Brady-lockout-tagout-visual</link>
+            <a10:author>
+                <a10:name>RP news wires</a10:name>
+            </a10:author>
+            <category>Industry News</category>
+            <category>Articles</category>
+            <title>Brady to offer online training on lockout/tagout compliance, visual workplace</title>
+            <description>&lt;p&gt;
+	This week, Brady Corporation announced the debut of its new eLearning training program, a series of Web-based training courses on workplace safety and productivity. Brady launched the eLearning platform with two comprehensive training modules: a lockout/tagout compliance program and a visual workplace program.&lt;/p&gt;
+&lt;p&gt;
+	At $29.95 per course, the lockout/tagout and visual workplace eLearning programs offers employers an affordable and convenient solution to meet the growing need for employee training &amp;ndash; without the cost of travel and days off of work.&lt;/p&gt;
+&lt;p&gt;
+	&lt;strong&gt;&lt;em&gt;Interactive training courses aid learning with real-life scenarios, quizzes and reporting&lt;/em&gt;&lt;/strong&gt;&lt;br /&gt;
+	Brady&amp;rsquo;s eLearning courses offer a number of interactive features to facilitate learning and comprehension, including real-life application situations and on-the-spot quizzes. With graphics, flash animation and hundreds of photographs from actual facilities, the courses provide tangible examples that participants can relate to in their existing job responsibilities.&lt;/p&gt;
+&lt;p&gt;
+	Designed as a self-directed learning experience, the eLearning courses are available 24 hours a day via the internet. Participants can save their course progress and come back to complete the training at their own pace.&lt;/p&gt;
+&lt;p&gt;
+	For managers, the courses also feature a number of convenient reporting options for monitoring the training progress of their employees. Managers can assign courses, send reminder emails and generate progress reports all within the eLearning platform.&lt;/p&gt;
+&lt;p&gt;
+	&lt;strong&gt;&lt;em&gt;Lockout training module provides instruction for a safe and compliant lockout program&lt;/em&gt;&lt;/strong&gt;&lt;br /&gt;
+	As a leader in lockout/tagout compliance devices and services, Brady launched the lockout training program to round out its complete offering of lockout/tagout solutions. The Lockout/Tagout eLearning module is a two-part training program for all employees involved in lockout/tagout activities in a facility.&lt;/p&gt;
+&lt;p&gt;
+	The first course is specifically designed for authorized and affected workers, which are the employees who will actually be performing the servicing and maintenance activities on de-energized equipment. It provides a comprehensive review of how to safely perform lockout activities in line with OSHA requirements.&lt;/p&gt;
+&lt;p&gt;
+	The second course is intended for corporate safety leaders, or the employees responsible for managing the lockout program. It reviews key learnings from the first course, and trains participants on the proper requirements for developing, implementing and sustaining a safe and compliant lockout/tagout program.&lt;/p&gt;
+&lt;p&gt;
+	&lt;strong&gt;&lt;em&gt;Visual Workplace modules train employees to use visuals to sustain lean improvements &lt;/em&gt;&lt;/strong&gt;&lt;br /&gt;
+	The Visual Workplace eLearning program consists of three individual training modules, each designed for lean managers and their employees. With a module on visual workplace, 5-S workplace organization and Total Productive Maintenance (TPM), the program provides a comprehensive review of visual workplace techniques and best practices, and teaches employees how to sustain lean improvements by incorporating visuals into their existing 5-S and TPM activities.&lt;/p&gt;
+&lt;p&gt;
+	In the first module, &amp;ldquo;Introduction to Visual Workplace,&amp;rdquo; employees learn the fundamental concepts of a visually-instructive workplace and learn how to identify, create and maintain visuals throughout a facility based on visual management tools and best practices.&lt;/p&gt;
+&lt;p&gt;
+	The second module, &amp;ldquo;5S Visuals &amp;ndash; Improving Workplace Organization,&amp;rdquo; provides an overview of 5-S workplace organization and how visuals are used in 5-S to maintain order and optimize efficiency.&lt;/p&gt;
+&lt;p&gt;
+	The final module is entitled &amp;ldquo;Visual Controls for TPM &amp;ndash; Enhancing Equipment Reliability and Maintenance Efficiency.&amp;rdquo; This course reviews the methods and goals of Total Productive Maintenance (TPM), and demonstrates how to use visuals in TPM to simplify maintenance and detect abnormalities.&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;
+	eLearning course descriptions available on &lt;a href="http://www.bradyid.com/"&gt;www.BradyID.com&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;
+	For more information on Brady&amp;rsquo;s new Lockout/Tagout and Visual Workplace eLearning training modules, or to view the complete course descriptions, visit &lt;a href="http://www.bradyid.com/elearning?cid=655"&gt;www.BradyID.com/elearning&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;
+	&lt;strong&gt;&lt;u&gt;About Brady Corporation&lt;/u&gt;&lt;/strong&gt;&lt;br /&gt;
+	Brady Corporation is an international manufacturer and marketer of complete solutions that identify and protect premises, products and people. Its products include high-performance labels and signs, safety devices, printing systems and software, and precision die-cut materials. Founded in 1914, the company has more than 500,000 customers in electronics, telecommunications, manufacturing, electrical, construction, education, medical and a variety of other industries. Brady is headquartered in Milwaukee and employs more than 7,000 people at operations in the Americas, Europe and Asia/Pacific. Brady&amp;rsquo;s fiscal&amp;nbsp;2010 sales were approximately $1.2 billion.&amp;nbsp;&lt;/p&gt;&lt;img src="http://feeds.feedburner.com/~r/noria/reliableplant/tags/lockout-tagout/~4/Z2zsGB-jAxM" height="1" width="1" alt=""/&gt;</description>
+            <a10:updated>2011-01-18T14:18:31-06:00</a10:updated>
+            <a10:content type="text/html" src="http://reliableplant.com/Read/28308/Brady-lockout-tagout-visual" />
+        <feedburner:origLink>http://reliableplant.com/Read/28308/Brady-lockout-tagout-visual</feedburner:origLink></item>
+        <item>
+            <guid isPermaLink="false">tag:noria.com,2010-06-10:publishing:magazines:rp:9c14fd85-8c2b-428c-bbf8-9e4400aa9321</guid>
+            <link>http://feedproxy.google.com/~r/noria/reliableplant/tags/lockout-tagout/~3/XnrP0tdsv80/strategies-to-optimize-shutdowns</link>
+            <a10:author>
+                <a10:name>Kevin Duffy</a10:name>
+            </a10:author>
+            <category>Web Exclusives</category>
+            <category>Articles</category>
+            <title>Strategies to optimize shutdowns, turnarounds and outages</title>
+            <description>&lt;p&gt;
+	The traditional view of operational shutdowns, turnarounds and outages (STOs) holds that they are maintenance and engineering events. This simplistic view is held by many organizations. A more realistic and holistic perspective, however, recognizes that the impact and scope of STOs extend far beyond the maintenance and engineering functions. STOs can command significant capital and operating budgets. They attract the attention of shareholders and boards of directors, and impact inventory supply chains and customer relationships. They are, therefore, &amp;ldquo;whole business events&amp;rdquo;, not simple function-specific ones.&lt;/p&gt;
+&lt;p&gt;
+	Considering all the potential ramifications, well-executed STOs can represent a source of competitive advantage for an organization. They can drive commercial performance, boost morale, bring recognition to high-performing teams and accelerate individual careers.&lt;/p&gt;
+&lt;p&gt;
+	The corollary to this picture of success, of course, is that poorly executed STOs can cost an organization millions of dollars in lost revenue, drive up operating costs and cause permanent damage to the careers of those involved. This has long been true but is now amplified in the current operational environment, in which most organizations are operating with reduced workforces and resources. Simply put: In today&amp;rsquo;s leaner and meaner business environments, STOs represent not only an increasingly significant challenge, but also an increasingly significant opportunity.&lt;/p&gt;
+&lt;p&gt;
+	STOs consist of the following phases of activity:&lt;/p&gt;
+&lt;ul&gt;
+	&lt;li&gt;
+		Detailed planning and organization of the work involved&lt;/li&gt;
+	&lt;li&gt;
+		Removal of assets from production&lt;/li&gt;
+	&lt;li&gt;
+		Inspection and work execution, product changes, repairs, improvement activities or a combination of these&lt;/li&gt;
+	&lt;li&gt;
+		Restart of the asset/unit/plant and restoration to &amp;ldquo;should&amp;rdquo; performance levels&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;
+	STO work is usually &amp;ndash; but not always &amp;ndash; recurring or cyclic in nature. An STO is unique in that it &lt;em&gt;always&lt;/em&gt;involves the plant, unit or asset being taken offline or out of service. An STO is not considered to be complete when the individual work packages are completed. An STO is complete only when the asset, unit or item is returned to service and performing at the desired level.&lt;/p&gt;
+&lt;p&gt;
+	STOs are more complex than other project-based events. Quite simply, they involve both planned activities and unplanned work resulting from inspection of part of a machine or asset which is not accessible or visible during normal operations. The potential for identifying previously unforeseen or emergent work requirements discovered at inspection that must be performed within the defined time constraints of the STO adds the requirement of rapid troubleshooting and decision-making capabilities.&lt;/p&gt;
+&lt;p&gt;
+	Take a moment to consider your organization&amp;rsquo;s current approach to conducting STOs. Is there a significant reliance on knowledge and experience? Are one or two team members considered critical to STOs because &amp;ldquo;they were there the last four times and know what happened&amp;rdquo;? All too often, the execution of a STO (with all the dependencies and ramifications we considered at the outset of this article) rides on one or two highly experienced &amp;ldquo;hero&amp;rdquo; employees stepping up to solve the problem or &amp;ldquo;get it done&amp;rdquo; during STOs. But given the demographic shift that is now upon us, many of these individuals are destined to leave the workforce in a relatively short time. This, of course, is in addition to the everyday issues of absence due to sickness, transfers to another part of the business, or career advancement with another company.&lt;/p&gt;
+&lt;p&gt;
+	If the knowledge and experience previously relied upon are no longer available for any reason, all the business issues which depend on the STO are in jeopardy. The challenge and opportunity then is to adopt a replicable, reliable, process-driven approach to STO management which harnesses &amp;ndash; but is not totally dependent upon &amp;ndash; team members&amp;rsquo; knowledge and experience, and enables easy knowledge transfer from one person to the next.&lt;/p&gt;
+&lt;p&gt;
+	In Kepner-Tregoe&amp;rsquo;s experience, the top challenges in managing STOs lie in the following critical areas:&lt;/p&gt;
+&lt;p&gt;
+	&lt;strong&gt;1) Ensuring workforce safety, whether they are employees or contractors, is the No. 1 priority for the STO management team. &lt;/strong&gt;STOs present numerous challenges for safety. Large numbers of contractors may be working on site for the first time with little knowledge of equipment and processes. Employees will carry out many tasks which are not routine and only occur in the STO situations. For example, cleaning, inspection and repair will often be carried out with special isolation requirements in confined spaces or other challenging environments.&lt;/p&gt;
+&lt;p&gt;
+	&lt;strong&gt;2) The development, deployment and communication of an effective STO process &lt;/strong&gt;which is clearly understood by all stakeholders, and which navigates all concerned parts of the organization through the complex challenges presented. Too frequently, the STO process is unclear, fragmented and not shared. Without a guiding framework, the coordination and execution of the complex tasks involved become extremely difficult. Many departments may need to plan inventory or resources if they are to be impacted in any way by the STO. A lack of general coordination is also compounded when the absence of a common approach results in a myriad of different methods being used, making coordination and communication close to impossible.&lt;/p&gt;
+&lt;p&gt;
+	&lt;strong&gt;3) Managing project scope creep is typically one of the top challenges for most STO management teams. &lt;/strong&gt;It is a particular issue in STOs where inspection is only possible when the process or asset is the STO (e.g. opening up a furnace to establish the amount of relining required). Managers need prioritization tools to help them make better decisions on managing emerging work to stay within plan and budget targets. Without such prioritization tools, STOs can quickly experience scope creep, leading to other work cuts from schedules which can have detrimental effects on operational performance after recommissioning.&lt;/p&gt;
+&lt;p&gt;
+	&lt;strong&gt;4) The capture, analysis and availability of relevant information and metrics &lt;/strong&gt;via management information systems will enable the appropriate managing of activities and identification of future improvements. Measuring the right things, the right way, at the right time &amp;ndash; and communicating them appropriately &amp;ndash; allows STO leadership to maintain control of the diverse range of activities when work is being executed. While poor planning is usually blamed for cost and time overruns, if problems continue in future STOs, they are very often symptomatic of the absence of a good measurement and control system. This absence will either hinder &amp;ndash; or totally prevent &amp;ndash; the organization from understanding and learning from the problems it experiences.&lt;/p&gt;
+&lt;p&gt;
+	&lt;strong&gt;5) The existence of business processes which do not support the needs of the STO. &lt;/strong&gt;We know from experience that organizations should continually evaluate (and, if necessary, adjust and align) their business processes in order to remain competitive, and that misaligned processes will cause inefficiencies. In most organizations, business processes are designed to enable normal day-to-day activities. They are generally not designed to cope with major peak loads, special cause events and the other unusual demands that an STO places on them. A key opportunity for improvement in STO effectiveness lies in re-engineering basic business processes so that they can accommodate the needs of an STO and its related potential emergent work requirements.&lt;/p&gt;
+&lt;p&gt;
+	&lt;strong&gt;6) Cost management and control in executing complex STOs. &lt;/strong&gt;The existing reporting and control systems do not provide STO budget performance data until sometime after the STO is completed. The STO requires a cost monitoring program that provides timely data throughout the STO, enabling those controlling activities to make more informed choices on course of action.&lt;/p&gt;
+&lt;p&gt;
+	&lt;strong&gt;7) The coordination and management of complex resources. &lt;/strong&gt;STOs &amp;ndash; and particularly larger ones &amp;ndash; typically involve technical staff, corporate engineering, specialists, vendors, contractors, government bodies (safety, environmental, etc.) alongside internal employees, whom possess varying degrees of knowledge and experience. It is not uncommon in some operational environments for the number of people on site to grow by 300 percent when contractor resources are used to assist with STO execution. This puts a significant load on processes such as induction, isolation training, material supply and equipment procurement. Even if the internal team is generally experienced, an STO still can involve individuals in roles and carrying out key duties which are new to them. Without clear communication and management protocols, our experience has shown that up to 30 percent of the working day can be lost waiting for adequate instruction or searching for a resolution when a problem occurs.&lt;/p&gt;
+&lt;p&gt;
+	&lt;strong&gt;8) Transforming an organization from reactive to proactive. &lt;/strong&gt;Shedding a reactive culture and moving toward anticipating and resolving issues before they impact is also critical to STO success. Every organization has a hero or two &amp;ndash; people who are remembered for &amp;ldquo;saving the day&amp;rdquo; &amp;ndash; and the individual&amp;rsquo;s reward for this kind of heroism can be great on many levels (job security, advancement, financial incentives, recognition, self-actualization). The problem is that heroism is only required when the organization is already in trouble. How many personnel are rewarded and recognized for the arguably more valuable heroism of thinking about and preventing things from going wrong? This is perhaps the most essential component in executing a successful STO. The few most efficient organizations we know already have replaced the &amp;ldquo;go and do it&amp;rdquo; mantra with that of &amp;ldquo;go and think it through properly first&amp;rdquo;, and have appropriately adapted their emphasis in terms of performance and recognition systems to encourage this type of behavior.&lt;/p&gt;
+&lt;p&gt;
+	&lt;strong&gt;9) Managing the expectations of diverse stakeholders. &lt;/strong&gt;As noted previously, STOs are more business issues than engineering events; yet, in many organizations, indirect stakeholders are rarely involved in the outage management process. However, one thing is certain, their voices will certainly be heard if restart is problematic, or if supply to market becomes an issue. A key skill requirement, and often a skill gap for todays STO leaders, is the engagement of key stakeholder groups early in the planning process. This enables adequate communication of the likely risks and consequences of the STO and keeps all impacted personnel informed during execution so they can plan their own areas of operation accordingly.&lt;/p&gt;
+&lt;p&gt;
+	&lt;strong&gt;&lt;em&gt;Optimizing the STO Process&lt;/em&gt;&lt;/strong&gt;&lt;br /&gt;
+	STO optimization requires a holistic approach to managing the entire set of complex activities and relationships which exist in the shutdown-turnaround-outage (STO) process.&lt;/p&gt;
+&lt;p&gt;
+	To do this, several elements should be considered. First, a clear and common process framework must exist for the STO activity. Secondly, the processes that drive the flow of information and activities within the STO framework must be aligned and efficient.&lt;/p&gt;
+&lt;p&gt;
+	There are three primary phases that exist within a typical STO model. They are outlined in Figure 1 with sub-elements within each phase:&lt;/p&gt;
+&lt;p&gt;
+	&lt;span _fck_bookmark="1" style="display: none"&gt;&amp;nbsp;&lt;/span&gt;&lt;span _fck_bookmark="1" style="display: none"&gt;&amp;nbsp;&lt;/span&gt;&lt;img alt="" src="http://media.noria.com/sites/Uploads/2010/12/6/quick/df1eb364-30b7-4780-ac87-11459d1f02a8_KT_STO_1.jpeg" /&gt;&lt;span _fck_bookmark="1" style="display: none"&gt;&amp;nbsp;&lt;/span&gt;&lt;span _fck_bookmark="1" style="display: none"&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;
+	&lt;span _fck_bookmark="1" style="display: none"&gt;&amp;nbsp;&lt;/span&gt;&lt;img alt="" src="http://media.noria.com/sites/Uploads/2010/12/6/quick/6c217409-e3ed-4e31-acd7-77414c798ff6_KT_STO_2.jpeg" /&gt;&lt;span _fck_bookmark="1" style="display: none"&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;p align="center"&gt;
+	&lt;strong&gt;&lt;em&gt;Figure 1.&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;
+	&lt;strong&gt;&lt;em&gt;Definition &lt;/em&gt;&lt;/strong&gt;&lt;br /&gt;
+	The Definition Phase ensures the identification of major sponsors and customers at the initiation of the STO. It also provides communication channels for the business, business units and support functions to prepare the organization for the STO. The most suitable timeframe for the STO is determined by gathering data on the operational process, customer requirements, equipment needs, resources and other constraints. Once this information is processed, the Definition Phase drives decision-making activities in the &amp;ldquo;charter and scope&amp;rdquo; elements of the STO, where detailed objectives and boundaries for activity are defined. It should address the protocols for scope freeze and change control to ensure they are supported by the organization. Without such protocols, achievement of time and cost goals is practically impossible.&lt;/p&gt;
+&lt;p&gt;
+	The Definition Phase leads the team through the detailed processes of defining work activities, determining work packages and the resource requirements needed to carry out the work and performing primary risk assessment activities. It also should consider defining work in areas of STO tasks such as the decommissioning or removal of the asset from production. This can have a major impact on restart effectiveness and hamper the organization&amp;rsquo;s ability to synchronize restart with activities in other critical areas. The restart process itself is an area often underplanned and underassessed by STO teams, which in turn leads to poor production efficiency for extended time periods after units are returned to production.&lt;/p&gt;
+&lt;p&gt;
+	On completion of the definition phase, the leadership team will have the first indications if the goals and objectives set for the STO are attainable.&lt;/p&gt;
+&lt;p&gt;
+	&lt;strong&gt;&lt;em&gt;Planning&lt;/em&gt;&lt;/strong&gt;&lt;br /&gt;
+	The Planning Phase is primarily concerned with the organization of the STO activity. Key activities take place to ensure resources are available to execute the work packages that make up the STO activities. Responsibility assignment should consider adequate levels of knowledge, skills and experience of assigned resource bottlenecks where people, but not required skills, are available.&lt;/p&gt;
+&lt;p&gt;
+	At this point, tasks can be sequenced and scheduled to confirm the viability of the STO duration, and if the resources identified are adequate to complete the work identified within cost constraints placed on the STO.&lt;/p&gt;
+&lt;p&gt;
+	The planning activity also focuses the organization on two critical but frequently understated aspects of the STO:&lt;/p&gt;
+&lt;ul&gt;
+	&lt;li&gt;
+		aligning business processes to facilitate STO implementation, and&lt;/li&gt;
+	&lt;li&gt;
+		developing metrics and measurement systems to track a balanced set of indicators to drive future improvements.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;
+	All organizations have business processes guiding the daily operational activities. The organization may not be completely satisfied with such processes, but they do for the most part exist. The issue for the STO is that the operational processes that are in place often times are incapable of dealing with the incremental load placed upon them by key STO activity, such as induction, contractor management, procurement vendor payment, cost control and reporting to highlight a critical few.&lt;/p&gt;
+&lt;p&gt;
+	The STO team must carry out a process review to establish the robustness of key business processes. If necessary, redesign and additions should take place so that the processes enable a more effective STO. Often, if this action is not taken, upon post-STO review, it is discovered that these same processes have negatively impacted the STOs implementation phase.&lt;/p&gt;
+&lt;p&gt;
+	Metric and measurement systems are a component that also must be addressed. These key systems are the providers of information for management decision making, control, and the identification of areas for both recognition and improvement.&lt;/p&gt;
+&lt;p&gt;
+	Metrics are an area that are often underexploited in the STO. Generally, most outage metrics are limited to the single dimension of performance covering time, cost and the achievement of overall STO objectives. While these are clearly the fundamental success factors, other important types of metric &amp;ldquo;families&amp;rdquo; &amp;ndash; process, people, promotional and political which may benefit the team and activity &amp;ndash; are often overlooked.&lt;/p&gt;
+&lt;p&gt;
+	However well selected the metrics, to be of value, they must be monitored by an effective measurement system that has the appropriate frequency and has clearly understood protocols for escalation and feedback. Good metrics are often devalued, if not nullified, by the inadequacies of the measurement system.&lt;/p&gt;
+&lt;p&gt;
+	Prior to the commencement of STO implementation, a final round of risk assessment should be conducted on the interfaces between groups. This step ensures that planning and risk assessments done at a functional level can form part of an integrated STO plan. The process considers interfaces for master schedules, resource leveling, resource conflict, responsibility assignments, communications and issue escalation. At the same time, all pre-STO work is checked for completion so that there are no surprises when the Implementation Phase begins. As the STO progresses, any emergent work will consume precious time and resources. These up-front risk assessments pay dividends in the long run by keeping emergent work to an absolute minimum. Tactical modifications of the plan &amp;ldquo;on-the-fly&amp;rdquo; will, of course, be necessary to ensure on-time finish, but can be minimized with adequate focus and preparation.&lt;/p&gt;
+&lt;p&gt;
+	&lt;strong&gt;&lt;em&gt;Implementation&lt;/em&gt;&lt;/strong&gt;&lt;br /&gt;
+	However efficient the design and flow of the Implementation Phase, its ultimate effectiveness is dependent on the outcomes of the Definition and Planning Phases.&lt;/p&gt;
+&lt;p&gt;
+	The Implementation Phase provides a process to ensure the work that has been organized gets done. It is specifically concerned with the mobilization and management of resources and the monitoring of activities to ensure that they accomplish STO results to the standards required in a safe and proper manner. The Implementation Phase establishes the standards of behavior required to deliver the STO objectives. On a daily basis, teams must communicate, resolve issues, and provide updates among themselves and the management team. The visual representation of the performance, schedule and cost allows close tracking on the progress of the STO, as well as the surfacing of additional issues. This will help to ensure that the information needed for effective problem solving, issue escalation and decision making is available, where required.&lt;/p&gt;
+&lt;p&gt;
+	As STO work packages are completed, and the asset or plant nears reinstatement to operational status, modifications to the restart plan based on lessons learned from emergent work should drive a review of the plans. Risk assessment also needs to be conducted on any modifications before attempting to restart the plant so that potential problems are adequately addressed.&lt;/p&gt;
+&lt;p&gt;
+	A key element in the Implementation Phase is the close monitoring and reporting of the restart activity itself &amp;ndash; and this is vital to the timely resumption of operations. Formal equipment acceptance and handover from external vendors and the STO team must be carried out to make sure potential problems are addressed and desired value is delivered.&lt;/p&gt;
+&lt;p&gt;
+	When the restart has been completed, the team inputs the required data into the communication value stream to ensure learning capture and subsequent continuous improvement. The STO team then can be released for redeployment to its next project.&lt;/p&gt;
+&lt;p&gt;
+	&lt;strong&gt;&lt;em&gt;Tie That Binds&lt;/em&gt;&lt;/strong&gt;&lt;br /&gt;
+	Our experience has taught us that the model described is extremely robust. That same experience also has taught us that to be effective as a holistic approach, connectivity &amp;ndash; linking the critical elements in each of the three primary areas &amp;ndash; must be present through the design and implementation of a communication stream which flows through the model. Without such a communication stream, the organization runs the risk of:&lt;/p&gt;
+&lt;ul&gt;
+	&lt;li&gt;
+		having a tendency to look at the optimization of each component block rather than the process as a whole;&lt;/li&gt;
+	&lt;li&gt;
+		overlooking the complexity of interconnections between the components that can lead to gaps or white spaces in process or organization; and,&lt;/li&gt;
+	&lt;li&gt;
+		having different module responsibilities and ownership, leading to inconsistencies in standards in the implementation of the STO process.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;
+	The development of the communication stream provides constant information feedback loops among the key elements of the STO process model, and also facilitates closeout and review activities to gather and process information on lessons learned. The communication stream ensures that information flows effectively for the duration of the STO. Stakeholders and performance objectives will require metrics and measurement systems which ensure that implementation activities remain on track to deliver the goals required of the STO. These monitoring frameworks will use dashboards and other visual aids to create visibility for all stakeholder groups, and will promote active communication and discussion.&lt;/p&gt;
+&lt;p&gt;
+	At closure, the objectives and deliverables for the STO are reviewed to determine whether performance and stakeholder expectations have been met. Lessons learned from all STO stakeholders, including contractors and vendors, are documented and codified for future reference.&lt;/p&gt;
+&lt;p&gt;
+	What type of results has been seen using KT&amp;rsquo;s approach to STO management?&lt;/p&gt;
+&lt;p&gt;
+	&lt;strong&gt;1) Development, deployment and communication of an effective STO process&lt;/strong&gt;&lt;br /&gt;
+	Having a defined process that STO stakeholders and the STO team understand &amp;ndash; and can follow &amp;ndash; minimizes the issues that organizations often experience at restart once STO work packages have been completed. The graph for Changeover Performance below shows how an international display manufacturer improved its restarts over a number of the STOs simply by using a visible process. There was a 318 percent improvement in output for the first 24 hours of production at restart.&lt;/p&gt;
+&lt;p style="text-align: center"&gt;
+	&lt;span _fck_bookmark="1" style="display: none"&gt;&amp;nbsp;&lt;/span&gt;&lt;img alt="" src="http://media.noria.com/sites/Uploads/2010/12/6/quick/43695f80-5c42-4de6-afa9-ab3db61183d7_KT_STO_3.jpeg" /&gt;&lt;span _fck_bookmark="1" style="display: none"&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;p align="center"&gt;
+	&lt;strong&gt;&lt;em&gt;Figure 2. Changeover Performance&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;
+	&lt;strong&gt;2) Capture, analysis and availability of relevant information and metrics&lt;/strong&gt;&lt;br /&gt;
+	In the highly time-constrained world of an STO, having accurate and up-to-date information is key to making the right decisions. A dashboard that was used at a long products steel mill displayed metrics on progress among various teams, overall progress, costs, safety audits, extra work and other indicators. When the daily dashboard was distributed to stakeholders, it enabled sponsors, STO managers and team leaders to stay in close touch with the progress and performance of the STO. The STO completed all planned work within the scheduled period, and did not record a single case of lost time or medical injury.&lt;/p&gt;
+&lt;p&gt;
+	&lt;strong&gt;3) Overcoming business processes which do not support the needs of the STO&lt;/strong&gt;&lt;br /&gt;
+	A recent engagement with an international mining company necessitated the creation or modification of a number of business processes that impacted STOs. By reviewing these processes &amp;ndash; including contractor management, procurement, predictive maintenance, preventive maintenance, business improvement, lockout/tagout, reliability, permitting and compliance, among others &amp;ndash; the organization was able to improve its ability to scope the STO, start work packages on time and reduce crew waiting times. The impact was significant. Lockout/tagout and parts issues fell by 75 percent, and equipment failures and safety incidents decreased by 30 percent as shown on the &amp;ldquo;Percentage of Issues vs. Prior Shutdown&amp;rdquo; chart below.&lt;/p&gt;
+&lt;p style="text-align: center"&gt;
+	&lt;strong&gt;&lt;img alt="" src="http://media.noria.com/sites/Uploads/2010/12/6/quick/23c54e70-9829-4715-b23f-6faef3de2c85_KT_STO_4.jpeg" /&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p align="center"&gt;
+	&lt;strong&gt;&lt;em&gt;Figure 3. Percentage of Issues vs. Prior Shutdown&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;
+	&lt;strong&gt;4) Coordination and management of complex resources&lt;/strong&gt;&lt;br /&gt;
+	A major oil company underwent a turnaround event in its Singapore refinery which, in excess of US $200 million, was the biggest and most expensive it had attempted worldwide. It involved specialists and sub-contractors with whom the organization had no prior working experience, and equipment which had never been used before. As they neared the event, staff and sub-contractors found that they did not know who to approach for resources, technical support and issue resolution. In other words, there was no clarity on ownership of the work packages. Was it the asset owner, the main contractor or both?&lt;/p&gt;
+&lt;p&gt;
+	Establishing an effective communication process in this stage entailed, first, specifically defining roles, such as Approve, Lead, Support, etc., for each major deliverable. Then, through a series of communication sessions, assignments of responsibility for these roles were made among the asset owner, main contractor and sub-contractors. The result was clear ownership and resources who knew where to go when they needed specific types of support.&lt;/p&gt;
+&lt;p&gt;
+	&lt;strong&gt;5) Overcoming a reactive culture, moving toward anticipating and resolving issues before they impact&lt;/strong&gt;&lt;br /&gt;
+	In 2006, a major building materials manufacturer ran five days over its planned STO. In 2007, using the KT STO management process, an STO planned for 30 days was completed four days early. The reason they saw this improvement? The detailed risk management allowed the company to identify and prepare for issues before they occurred. Understanding the links between work packages, the resources used and surrounding activities enabled the STO team to look at more than the list of tasks to be completed. The data collected also allowed them to more accurately plan their future STO.&lt;/p&gt;
+&lt;p style="text-align: center"&gt;
+	&lt;strong&gt;&lt;img alt="" src="http://media.noria.com/sites/Uploads/2010/12/6/quick/cd1b90d2-28fd-485e-bc84-4787a32c6505_KT_STO_5.jpeg" /&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p align="center"&gt;
+	&lt;strong&gt;&lt;em&gt;Figure 4. Planned Days Down vs. Actual Days Down&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;
+	&lt;strong&gt;6) Managing the expectations of diverse stakeholders&lt;/strong&gt;&lt;br /&gt;
+	By managing the expectations of the organization&amp;rsquo;s diverse groups, STO improved greatly at a high-production concentrator. If perception really is reality, the STO management needs to not only deliver but be seen to deliver. In this case, all key management personnel &amp;ndash; from the general manager through corporate to operations through to key vendors &amp;ndash; expressed confidence that the impact of the STO management had been better than ever before. Vice presidents spent time in other areas of the organization; capital expenditure authorizations were approved; operations had confidence in scheduling; contractor and vendor idle time decreased. STO quality was shown to have increased overall by 60 percent (measured by on time and on scope), while cost was shown to have decreased by 40 percent (cost of run STO). Key to these results was providing a common language, process and understanding of both, and managing stakeholders&amp;rsquo; expectations. Results and expectations are two different areas of managing the performance of people; this means it is critical that key leaders have a shared understanding, and good information on both what is of value, and what will be delivered.&lt;/p&gt;
+&lt;p&gt;
+	&lt;strong&gt;&lt;em&gt;Achieving Shutdown Excellence&lt;/em&gt;&lt;/strong&gt;&lt;br /&gt;
+	Kepner-Tregoe&amp;rsquo;s shutdown programs focus on delivering shutdown results on time and on budget while reducing possible risks associated with shutdown activities. KT has key applications that will ensure a sound risk management system is in place for your business shutdown.&lt;/p&gt;
+&lt;p&gt;
+	KT has experienced successful execution of multi-million-dollar shutdowns. The company&amp;rsquo;s services are tailored to meet the individual needs of your business ranging from single days of coaching/training to full-time project management.&lt;/p&gt;
+&lt;p&gt;
+	&lt;strong&gt;&lt;em&gt;The KT Approach&lt;/em&gt;&lt;/strong&gt;&lt;br /&gt;
+	KT applications provide the following to shutdowns:&lt;/p&gt;
+&lt;ul&gt;
+	&lt;li&gt;
+		Discipline&lt;/li&gt;
+	&lt;li&gt;
+		A common process&lt;/li&gt;
+	&lt;li&gt;
+		Visibility of daily progress&lt;/li&gt;
+	&lt;li&gt;
+		Managed risk&lt;/li&gt;
+	&lt;li&gt;
+		Timely decisions by daily monitoring of cost vs. plan&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;
+	Without careful planning and risk management, delays can cause the cost of lost production to far exceed the planned maintenance costs of a shutdown. A small investment in KT is minimal compared to the total costs of your shutdown or the risks of a poorly executed shut with costly delays and incomplete projects.&lt;/p&gt;
+&lt;p&gt;
+	&lt;strong&gt;&lt;em&gt;Types of Support Available&lt;/em&gt;&lt;/strong&gt;&lt;br /&gt;
+	KT support for shutdowns includes:&lt;/p&gt;
+&lt;ul&gt;
+	&lt;li&gt;
+		Shutdown definition facilitation&lt;/li&gt;
+	&lt;li&gt;
+		Project management training&lt;/li&gt;
+	&lt;li&gt;
+		Shutdown management training&lt;/li&gt;
+	&lt;li&gt;
+		Lean shutdown implementation&lt;/li&gt;
+	&lt;li&gt;
+		On the job coaching&lt;/li&gt;
+	&lt;li&gt;
+		Project planning support&lt;/li&gt;
+	&lt;li&gt;
+		Project software training and support&lt;/li&gt;
+	&lt;li&gt;
+		Full time on site support to shutdown or maintenance managers&lt;/li&gt;
+	&lt;li&gt;
+		Teams and leader development&lt;/li&gt;
+	&lt;li&gt;
+		Risk assessment&lt;/li&gt;
+	&lt;li&gt;
+		Audits and recommendations&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;
+	&lt;strong&gt;&lt;em&gt;Clients&lt;/em&gt;&lt;/strong&gt;&lt;br /&gt;
+	Selected clients with whom KT has engaged in shutdowns include:&lt;/p&gt;
+&lt;ul&gt;
+	&lt;li&gt;
+		Bluescope Steel&lt;/li&gt;
+	&lt;li&gt;
+		Cement Australia&lt;/li&gt;
+	&lt;li&gt;
+		Onesteel&lt;/li&gt;
+	&lt;li&gt;
+		Rio Tinto&lt;/li&gt;
+	&lt;li&gt;
+		Visy&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;
+	&lt;strong&gt;&lt;em&gt;What Success Looks Like&lt;/em&gt;&lt;/strong&gt;&lt;br /&gt;
+	When management at a heavy manufacturing site engaged KT to improve its shutdowns, the emphasis was to complete the shutdowns on time and on budget. Past shutdowns had run over time; but this time, finished product inventory was low and there was no allowing for extra hours. By working with KT, the manufacturer exceeded expectations. The shutdown came in 4.5 days ahead of schedule and half-a-million dollars under budget. Start-up time to full capacity from the previous year was reduced from 10 days to 36 hours.&lt;/p&gt;
+&lt;p&gt;
+	&lt;strong&gt;&lt;u&gt;About the author:&lt;/u&gt;&lt;/strong&gt;&lt;br /&gt;
+	Kevin Duffy is the global vice president of operational excellence for Kepner-Tregoe (KT), an international consulting and training services organization.&amp;nbsp; For more information about KT&amp;rsquo;s STO training services, contact Kevin at &lt;a href="mailto:kduffy@kepner-tregoe.com"&gt;kduffy@kepner-tregoe.com&lt;/a&gt;or visit &lt;a href="http://www.kepner-tregoe.com/"&gt;www.kepner-tregoe.com&lt;/a&gt;.&lt;/p&gt;&lt;img src="http://feeds.feedburner.com/~r/noria/reliableplant/tags/lockout-tagout/~4/XnrP0tdsv80" height="1" width="1" alt=""/&gt;</description>
+            <a10:updated>2010-12-06T10:21:00-06:00</a10:updated>
+            <a10:content type="text/html" src="http://reliableplant.com/Read/27760/strategies-to-optimize-shutdowns" />
+        <feedburner:origLink>http://reliableplant.com/Read/27760/strategies-to-optimize-shutdowns</feedburner:origLink></item>
+        <item>
+            <guid isPermaLink="false">tag:noria.com,2010-06-10:publishing:magazines:rp:43e67727-55cf-47e9-9e3a-9cf80137c4db</guid>
+            <link>http://feedproxy.google.com/~r/noria/reliableplant/tags/lockout-tagout/~3/yydiQX12fKQ/safety-violations-osha</link>
+            <a10:author>
+                <a10:name>RP news wires</a10:name>
+            </a10:author>
+            <category>Industry News</category>
+            <category>Articles</category>
+            <title>OSHA reports on top 10 safety violations for 2009 </title>
+            <description>&lt;P style="MARGIN: 0in 0in 0pt" class=MsoNormal&gt;&lt;SPAN style="FONT-FAMILY: 'Arial','sans-serif'; FONT-SIZE: 9pt"&gt;The U.S. Department of Occupational Safety and Health Administration (OSHA) on October 28 revealed the preliminary top 10 most-frequent workplace safety violations for 2009 as part of a presentation at the NSC's annual Congress &amp;amp; Expo. The number of top 10 violations has increased almost 30 percent over the same time period in 2008.&lt;?xml:namespace prefix = o ns = "urn:schemas-microsoft-com:office:office" /&gt;&lt;o:p&gt;&lt;/o:p&gt;&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P style="MARGIN: 0in 0in 0pt" class=MsoNormal&gt;&lt;SPAN style="FONT-FAMILY: 'Arial','sans-serif'; FONT-SIZE: 9pt"&gt;&lt;o:p&gt;&amp;nbsp;&lt;/o:p&gt;&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P style="MARGIN: 0in 0in 0pt" class=MsoNormal&gt;&lt;SPAN style="FONT-FAMILY: 'Arial','sans-serif'; FONT-SIZE: 9pt"&gt;"We appreciate our colleagues at OSHA presenting their new violation data to such a receptive audience," said National Safety Council president and CEO Janet Froetscher. "The sheer number of violations gives us new resolve in raising awareness about the importance of having sounds safety procedures."&lt;o:p&gt;&lt;/o:p&gt;&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P style="MARGIN: 0in 0in 0pt" class=MsoNormal&gt;&lt;SPAN style="FONT-FAMILY: 'Arial','sans-serif'; FONT-SIZE: 9pt"&gt;&lt;o:p&gt;&amp;nbsp;&lt;/o:p&gt;&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P style="MARGIN: 0in 0in 0pt" class=MsoNormal&gt;&lt;SPAN style="FONT-FAMILY: 'Arial','sans-serif'; FONT-SIZE: 9pt"&gt;The workplace violations are:&lt;o:p&gt;&lt;/o:p&gt;&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P style="MARGIN: 0in 0in 0pt" class=MsoNormal&gt;&lt;SPAN style="FONT-FAMILY: 'Arial','sans-serif'; FONT-SIZE: 9pt"&gt;&lt;o:p&gt;&amp;nbsp;&lt;/o:p&gt;&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P style="MARGIN: 0in 0in 0pt" class=MsoNormal&gt;&lt;B style="mso-bidi-font-weight: normal"&gt;&lt;SPAN style="FONT-FAMILY: 'Arial','sans-serif'; FONT-SIZE: 9pt"&gt;1. Scaffolding â 9,093 violations&lt;o:p&gt;&lt;/o:p&gt;&lt;/SPAN&gt;&lt;/B&gt;&lt;/P&gt;
+&lt;P style="MARGIN: 0in 0in 0pt" class=MsoNormal&gt;&lt;SPAN style="FONT-FAMILY: 'Arial','sans-serif'; FONT-SIZE: 9pt"&gt;Scaffold accidents most often result from the planking or support giving way, or from the employee slipping or being struck by a falling object.&lt;o:p&gt;&lt;/o:p&gt;&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P style="MARGIN: 0in 0in 0pt" class=MsoNormal&gt;&lt;SPAN style="FONT-FAMILY: 'Arial','sans-serif'; FONT-SIZE: 9pt"&gt;&lt;o:p&gt;&amp;nbsp;&lt;/o:p&gt;&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P style="MARGIN: 0in 0in 0pt" class=MsoNormal&gt;&lt;B style="mso-bidi-font-weight: normal"&gt;&lt;SPAN style="FONT-FAMILY: 'Arial','sans-serif'; FONT-SIZE: 9pt"&gt;2. Fall Protection â 6,771 violations&lt;o:p&gt;&lt;/o:p&gt;&lt;/SPAN&gt;&lt;/B&gt;&lt;/P&gt;
+&lt;P style="MARGIN: 0in 0in 0pt" class=MsoNormal&gt;&lt;SPAN style="FONT-FAMILY: 'Arial','sans-serif'; FONT-SIZE: 9pt"&gt;Any time a worker is at a height of 4 feet or more, the worker is at risk and needs to be protected. Fall protection must be provided at four feet in general industry, 5 feet in maritime and 6 feet in construction.&lt;o:p&gt;&lt;/o:p&gt;&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P style="MARGIN: 0in 0in 0pt" class=MsoNormal&gt;&lt;SPAN style="FONT-FAMILY: 'Arial','sans-serif'; FONT-SIZE: 9pt"&gt;&lt;o:p&gt;&amp;nbsp;&lt;/o:p&gt;&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P style="MARGIN: 0in 0in 0pt" class=MsoNormal&gt;&lt;B style="mso-bidi-font-weight: normal"&gt;&lt;SPAN style="FONT-FAMILY: 'Arial','sans-serif'; FONT-SIZE: 9pt"&gt;3. Hazard Communication â 6,378 violations&lt;o:p&gt;&lt;/o:p&gt;&lt;/SPAN&gt;&lt;/B&gt;&lt;/P&gt;
+&lt;P style="MARGIN: 0in 0in 0pt" class=MsoNormal&gt;&lt;SPAN style="FONT-FAMILY: 'Arial','sans-serif'; FONT-SIZE: 9pt"&gt;Chemical manufacturers and importers are required to evaluate the hazards of the chemicals they produce or import, and prepare labels and safety data sheets to convey the hazard information to their downstream customers.&lt;o:p&gt;&lt;/o:p&gt;&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P style="MARGIN: 0in 0in 0pt" class=MsoNormal&gt;&lt;SPAN style="FONT-FAMILY: 'Arial','sans-serif'; FONT-SIZE: 9pt"&gt;&lt;o:p&gt;&amp;nbsp;&lt;/o:p&gt;&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P style="MARGIN: 0in 0in 0pt" class=MsoNormal&gt;&lt;B style="mso-bidi-font-weight: normal"&gt;&lt;SPAN style="FONT-FAMILY: 'Arial','sans-serif'; FONT-SIZE: 9pt"&gt;4. Respiratory Protection â 3,803 violations&lt;o:p&gt;&lt;/o:p&gt;&lt;/SPAN&gt;&lt;/B&gt;&lt;/P&gt;
+&lt;P style="MARGIN: 0in 0in 0pt" class=MsoNormal&gt;&lt;SPAN style="FONT-FAMILY: 'Arial','sans-serif'; FONT-SIZE: 9pt"&gt;Respirators protect workers against insufficient oxygen environments, harmful dusts, fogs, smokes, mists, gases, vapors and sprays. These hazards may cause cancer, lung impairment, other diseases or death.&lt;o:p&gt;&lt;/o:p&gt;&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P style="MARGIN: 0in 0in 0pt" class=MsoNormal&gt;&lt;SPAN style="FONT-FAMILY: 'Arial','sans-serif'; FONT-SIZE: 9pt"&gt;&lt;o:p&gt;&amp;nbsp;&lt;/o:p&gt;&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P style="MARGIN: 0in 0in 0pt" class=MsoNormal&gt;&lt;B style="mso-bidi-font-weight: normal"&gt;&lt;SPAN style="FONT-FAMILY: 'Arial','sans-serif'; FONT-SIZE: 9pt"&gt;5. Lockout/Tagout â 3,321 violations&lt;o:p&gt;&lt;/o:p&gt;&lt;/SPAN&gt;&lt;/B&gt;&lt;/P&gt;
+&lt;P style="MARGIN: 0in 0in 0pt" class=MsoNormal&gt;&lt;SPAN style="FONT-FAMILY: 'Arial','sans-serif'; FONT-SIZE: 9pt"&gt;"Lockout/Tagout" refers to specific practices and procedures to safeguard employees from the unexpected startup of machinery and equipment, or the release of hazardous energy during service or maintenance activities.&lt;o:p&gt;&lt;/o:p&gt;&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P style="MARGIN: 0in 0in 0pt" class=MsoNormal&gt;&lt;SPAN style="FONT-FAMILY: 'Arial','sans-serif'; FONT-SIZE: 9pt"&gt;&lt;o:p&gt;&amp;nbsp;&lt;/o:p&gt;&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P style="MARGIN: 0in 0in 0pt" class=MsoNormal&gt;&lt;B style="mso-bidi-font-weight: normal"&gt;&lt;SPAN style="FONT-FAMILY: 'Arial','sans-serif'; FONT-SIZE: 9pt"&gt;6. Electrical (Wiring) â 3,079 violations&lt;o:p&gt;&lt;/o:p&gt;&lt;/SPAN&gt;&lt;/B&gt;&lt;/P&gt;
+&lt;P style="MARGIN: 0in 0in 0pt" class=MsoNormal&gt;&lt;SPAN style="FONT-FAMILY: 'Arial','sans-serif'; FONT-SIZE: 9pt"&gt;Working with electricity can be dangerous. Engineers, electricians and other professionals work with electricity directly, including working on overhead lines, cable harnesses, and circuit assemblies. Others, such as office workers and sales people, work with electricity indirectly and may also be exposed to electrical hazards.&lt;o:p&gt;&lt;/o:p&gt;&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P style="MARGIN: 0in 0in 0pt" class=MsoNormal&gt;&lt;SPAN style="FONT-FAMILY: 'Arial','sans-serif'; FONT-SIZE: 9pt"&gt;&lt;o:p&gt;&amp;nbsp;&lt;/o:p&gt;&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P style="MARGIN: 0in 0in 0pt" class=MsoNormal&gt;&lt;B style="mso-bidi-font-weight: normal"&gt;&lt;SPAN style="FONT-FAMILY: 'Arial','sans-serif'; FONT-SIZE: 9pt"&gt;7. Ladders â 3,072 violations&lt;o:p&gt;&lt;/o:p&gt;&lt;/SPAN&gt;&lt;/B&gt;&lt;/P&gt;
+&lt;P style="MARGIN: 0in 0in 0pt" class=MsoNormal&gt;&lt;SPAN style="FONT-FAMILY: 'Arial','sans-serif'; FONT-SIZE: 9pt"&gt;Occupational fatalities caused by falls remain a serious public health problem. The U.S. Department of Labor (DOL) lists falls as one of the leading causes of traumatic occupational death, accounting for eight percent of all occupational fatalities from trauma.&lt;o:p&gt;&lt;/o:p&gt;&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P style="MARGIN: 0in 0in 0pt" class=MsoNormal&gt;&lt;SPAN style="FONT-FAMILY: 'Arial','sans-serif'; FONT-SIZE: 9pt"&gt;&lt;o:p&gt;&amp;nbsp;&lt;/o:p&gt;&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P style="MARGIN: 0in 0in 0pt" class=MsoNormal&gt;&lt;B style="mso-bidi-font-weight: normal"&gt;&lt;SPAN style="FONT-FAMILY: 'Arial','sans-serif'; FONT-SIZE: 9pt"&gt;8. Powered Industrial Trucks â 2,993 violations&lt;o:p&gt;&lt;/o:p&gt;&lt;/SPAN&gt;&lt;/B&gt;&lt;/P&gt;
+&lt;P style="MARGIN: 0in 0in 0pt" class=MsoNormal&gt;&lt;SPAN style="FONT-FAMILY: 'Arial','sans-serif'; FONT-SIZE: 9pt"&gt;Each year, tens of thousands of injuries related to powered industrial trucks (PIT), or forklifts, occur in U.S. workplaces. Many employees are injured when lift trucks are inadvertently driven off loading docks, lifts fall between docks and an unsecured trailer, they are struck by a lift truck, or when they fall while on elevated pallets and tines.&lt;o:p&gt;&lt;/o:p&gt;&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P style="MARGIN: 0in 0in 0pt" class=MsoNormal&gt;&lt;SPAN style="FONT-FAMILY: 'Arial','sans-serif'; FONT-SIZE: 9pt"&gt;&lt;o:p&gt;&amp;nbsp;&lt;/o:p&gt;&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P style="MARGIN: 0in 0in 0pt" class=MsoNormal&gt;&lt;B style="mso-bidi-font-weight: normal"&gt;&lt;SPAN style="FONT-FAMILY: 'Arial','sans-serif'; FONT-SIZE: 9pt"&gt;9. Electrical â 2,556 violations&lt;o:p&gt;&lt;/o:p&gt;&lt;/SPAN&gt;&lt;/B&gt;&lt;/P&gt;
+&lt;P style="MARGIN: 0in 0in 0pt" class=MsoNormal&gt;&lt;SPAN style="FONT-FAMILY: 'Arial','sans-serif'; FONT-SIZE: 9pt"&gt;Working with electricity can be dangerous. Engineers, electricians, and other professionals work with electricity directly, including working on overhead lines, cable harnesses and circuit assemblies. Others, such as office workers and sales people, work with electricity indirectly and may also be exposed to electrical hazards.&lt;o:p&gt;&lt;/o:p&gt;&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P style="MARGIN: 0in 0in 0pt" class=MsoNormal&gt;&lt;SPAN style="FONT-FAMILY: 'Arial','sans-serif'; FONT-SIZE: 9pt"&gt;&lt;o:p&gt;&amp;nbsp;&lt;/o:p&gt;&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P style="MARGIN: 0in 0in 0pt" class=MsoNormal&gt;&lt;B style="mso-bidi-font-weight: normal"&gt;&lt;SPAN style="FONT-FAMILY: 'Arial','sans-serif'; FONT-SIZE: 9pt"&gt;10. Machine Guarding â 2,364 violations&lt;o:p&gt;&lt;/o:p&gt;&lt;/SPAN&gt;&lt;/B&gt;&lt;/P&gt;
+&lt;P style="MARGIN: 0in 0in 0pt" class=MsoNormal&gt;&lt;SPAN style="FONT-FAMILY: 'Arial','sans-serif'; FONT-SIZE: 9pt"&gt;Any machine part, function, or process that may cause injury must be safeguarded. When the operation of a machine or accidental contact injures the operator or others in the vicinity, the hazards must be eliminated or controlled.&lt;o:p&gt;&lt;/o:p&gt;&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P style="MARGIN: 0in 0in 0pt" class=MsoNormal&gt;&lt;SPAN style="FONT-FAMILY: 'Arial','sans-serif'; FONT-SIZE: 9pt"&gt;&lt;o:p&gt;&amp;nbsp;&lt;/o:p&gt;&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P style="MARGIN: 0in 0in 0pt" class=MsoNormal&gt;&lt;SPAN style="FONT-FAMILY: 'Arial','sans-serif'; FONT-SIZE: 9pt"&gt;The final report on the Top 10 for 2009 violations will be published in the December edition of NSC's &lt;I style="mso-bidi-font-style: normal"&gt;Safety+Health&lt;/I&gt; magazine.&lt;o:p&gt;&lt;/o:p&gt;&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P style="MARGIN: 0in 0in 0pt" class=MsoNormal&gt;&lt;SPAN style="FONT-FAMILY: 'Arial','sans-serif'; FONT-SIZE: 9pt"&gt;&lt;o:p&gt;&amp;nbsp;&lt;/o:p&gt;&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P style="MARGIN: 0in 0in 0pt" class=MsoNormal&gt;&lt;SPAN style="FONT-FAMILY: 'Arial','sans-serif'; FONT-SIZE: 9pt"&gt;The National Safety Council (&lt;A href="http://www.nsc.org/"&gt;&lt;U&gt;&lt;FONT color=#800080&gt;www.nsc.org&lt;/FONT&gt;&lt;/U&gt;&lt;/A&gt;) saves lives by preventing injuries and deaths at work, in homes and communities, and on the roads, through leadership, research, education and advocacy. &lt;/SPAN&gt;&lt;/P&gt;&lt;img src="http://feeds.feedburner.com/~r/noria/reliableplant/tags/lockout-tagout/~4/yydiQX12fKQ" height="1" width="1" alt=""/&gt;</description>
+            <a10:updated>2009-10-29T00:00:00-05:00</a10:updated>
+            <a10:content type="text/html" src="http://reliableplant.com/Read/20871/safety-violations-osha" />
+        <feedburner:origLink>http://reliableplant.com/Read/20871/safety-violations-osha</feedburner:origLink></item>
+        <item>
+            <guid isPermaLink="false">tag:noria.com,2010-06-10:publishing:magazines:rp:908990c9-701b-4925-850b-9cf800f210ce</guid>
+            <link>http://feedproxy.google.com/~r/noria/reliableplant/tags/lockout-tagout/~3/o76I0DW0VqM/arc-flash-risks</link>
+            <a10:author>
+                <a10:name>RP news wires</a10:name>
+            </a10:author>
+            <category>Industry News</category>
+            <category>Articles</category>
+            <title>Weyerhaeuser works with Eaton to cut arc flash risks</title>
+            <description>&lt;P&gt;&lt;SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: 'Arial','sans-serif'"&gt;Diversified industrial manufacturer Eaton Corporation on April 21 announced implementation of a plan to assist Weyerhaeuser Corporation in its efforts to reduce the risk of arc flash hazards. Arc flash prevention is a critical challenge for a wide range of industries and manufacturers globally. The strategic approach positions Weyerhaeuser as an innovator and industry leader on the issue of employee and facility safety. &lt;?xml:namespace prefix = o ns = "urn:schemas-microsoft-com:office:office" /&gt;&lt;o:p&gt;&lt;/o:p&gt;&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P&gt;&lt;SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: 'Arial','sans-serif'"&gt;One part of this program is a recent effort to enhance safety, reliability and productivity at Weyerhaeuser&lt;SPAN id=bwanpa3&gt;â&lt;/SPAN&gt;s integrated paper mill in Springfield, Ore. &lt;o:p&gt;&lt;/o:p&gt;&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P&gt;&lt;SPAN id=bwanpa4&gt;&lt;SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: 'Arial','sans-serif'"&gt;â&lt;/SPAN&gt;Personal safety, lost productivity, legal liability, equipment damage and facility downtime are just some of the major risks of arc flash,&lt;SPAN id=bwanpa5&gt;â&lt;/SPAN&gt; said Mike Longman, Eaton&lt;SPAN id=bwanpa6&gt;â&lt;/SPAN&gt;s vice president for marketing and PowerChain Management. &lt;SPAN id=bwanpa7&gt;â&lt;/SPAN&gt;We&lt;SPAN id=bwanpa8&gt;â&lt;/SPAN&gt;re proud to collaborate with Weyerhaeuser and set the example for the right way to deal with the issue &lt;SPAN id=bwanpa9&gt;â&lt;/SPAN&gt; before problems arise.&lt;SPAN id=bwanpa10&gt;â&lt;/SPAN&gt; &lt;o:p&gt;&lt;/o:p&gt;&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P&gt;&lt;SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: 'Arial','sans-serif'"&gt;According to the National Fire Protection Association (NFPA), an arc flash occurs when an electric current passes through the air between ungrounded conductors or between ungrounded and grounded conductors. An arc flash produces some of the highest temperatures on earth and can create a devastating blast, resulting in serious injury, burns, and even fatalities. &lt;o:p&gt;&lt;/o:p&gt;&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P&gt;&lt;SPAN id=bwanpa11&gt;&lt;SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: 'Arial','sans-serif'"&gt;â&lt;/SPAN&gt;Eaton&lt;SPAN id=bwanpa12&gt;â&lt;/SPAN&gt;s turn-key approach gave us a very effective tool to use in our efforts to better protect our employees from electrical arc flash hazards,&lt;SPAN id=bwanpa13&gt;â&lt;/SPAN&gt; said Warren Hopper, P.E., senior power advisor for Weyerhaeuser, Springfield, Ore., and manufacturing services manager for Weyerhaeuser Pulp, Paper and Packaging Manufacturing Operations. &lt;SPAN id=bwanpa14&gt;â&lt;/SPAN&gt;In the process of addressing critical safety issues, Eaton&lt;SPAN id=bwanpa15&gt;â&lt;/SPAN&gt;s solutions also enable us to reduce downtime, build efficiency and, ultimately, contribute to our bottom line.&lt;SPAN id=bwanpa16&gt;â&lt;/SPAN&gt; &lt;o:p&gt;&lt;/o:p&gt;&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P&gt;&lt;SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: 'Arial','sans-serif'"&gt;Eaton teamed with Weyerhaeuser to provide the paper mill with new mini vacuum circuit breakers and integral trip units equipped with its patented Arcflash Reduction Maintenance System offering multiple trip settings allowing incident energy on low voltage substation secondary main busses to be reduced from over 200 calories to less than four during maintenance. Maintenance personnel are now able to work on this equipment while energized, safely implementing mill lockout/tagout procedures. More substation upgrades are planned for the near future. This innovative approach used to dramatically reduce arc flash hazards in low and medium voltage substations is suitable for both new and existing applications. &lt;o:p&gt;&lt;/o:p&gt;&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P&gt;&lt;SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: 'Arial','sans-serif'"&gt;Weyerhaeuser Company, one of the world's largest forest products companies, was incorporated in 1900. In 2007, sales were $16.3 billion. It has offices or operations in 13 countries, with customers worldwide. Weyerhaeuser is principally engaged in the growing and harvesting of timber; the manufacture, distribution and sale of forest products; and real estate construction, development and related activities. &lt;o:p&gt;&lt;/o:p&gt;&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P&gt;&lt;SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: 'Arial','sans-serif'"&gt;Eaton&lt;SPAN id=bwanpa17&gt;â&lt;/SPAN&gt;s electrical business is a global leader in electrical control, power distribution, uninterruptible power supply and industrial automation products and services. Eaton&lt;SPAN id=bwanpa18&gt;â&lt;/SPAN&gt;s global electrical brands, including Cutler-Hammer&lt;SPAN id=bwanpa19&gt;, MGE Office Protection Systems&lt;SPAN id=bwanpa20&gt;, Powerware&lt;SPAN id=bwanpa21&gt;, Holec&lt;SPAN id=bwanpa22&gt;, MEM&lt;SPAN id=bwanpa23&gt;, Santak and Moeller, provide customer-driven PowerChain Management&lt;SUP&gt;&lt;SPAN id=bwanpa24&gt; &lt;/SUP&gt;solutions to serve the power system needs of the industrial, institutional, government, utility, commercial, residential, IT, mission critical and OEM markets worldwide. &lt;o:p&gt;&lt;/o:p&gt;&lt;/SPAN&gt;&lt;/P&gt;
+&lt;P&gt;&lt;SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: 'Arial','sans-serif'"&gt;Eaton Corporation is a diversified industrial manufacturer with 2007 sales of $13.0 billion. Eaton is a global leader in electrical systems and components for power quality, distribution and control; hydraulics components, systems and services for industrial and mobile equipment; hydraulics, fuel and pneumatic systems for commercial and military aircraft; intelligent truck drivetrain systems for safety and fuel economy; and automotive engine air management systems, powertrain solutions and specialty controls for performance, fuel economy and safety. Eaton has 79,000 employees and sells products to customers in more than 150 countries.&lt;/SPAN&gt;&lt;/P&gt;&lt;/SPAN&gt;&lt;/SPAN&gt;&lt;/SPAN&gt;&lt;/SPAN&gt;&lt;/SPAN&gt;&lt;/SPAN&gt;&lt;img src="http://feeds.feedburner.com/~r/noria/reliableplant/tags/lockout-tagout/~4/o76I0DW0VqM" height="1" width="1" alt=""/&gt;</description>
+            <a10:updated>2008-04-22T00:00:00-05:00</a10:updated>
+            <a10:content type="text/html" src="http://reliableplant.com/Read/11574/arc-flash-risks" />
+        <feedburner:origLink>http://reliableplant.com/Read/11574/arc-flash-risks</feedburner:origLink></item>
+        <item>
+            <guid isPermaLink="false">tag:noria.com,2010-06-10:publishing:magazines:rp:a0c9fb74-a198-4386-ad2e-9cf800da157b</guid>
+            <link>http://feedproxy.google.com/~r/noria/reliableplant/tags/lockout-tagout/~3/2LNYMEnfpmg/lockout-tagout-procedure</link>
+            <a10:author>
+                <a10:name>James Madison University</a10:name>
+            </a10:author>
+            <category>Web Exclusives</category>
+            <category>Articles</category>
+            <title>An example of an effective lockout/tagout procedure</title>
+            <description>&lt;P&gt;The procedure outlined in this article establishes the minimum requirements for the lockout or tagout of energy-isolating devices. Lockout is the preferred method of isolating fixtures, equipment or machinery from energy sources. It shall be used to ensure that the fixture, equipment or machinery is isolated from all potentially hazardous energy and locked out or tagged out before associates perform any servicing or maintenance activities where the unexpected energization, start-up or release of stored energy could cause bodily injury and/or to prevent damage to fixtures, equipment, machinery or the environment.&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;&lt;U&gt;Definitions&lt;/U&gt;&lt;/STRONG&gt; &lt;BR&gt;&lt;STRONG&gt;Affected associate:&lt;/STRONG&gt; This is an associate who works in an area where servicing or maintenance operations are performed. An affected associate does not perform servicing or maintenance on machines or equipment and, consequently, is not responsible for implementing lockout/tagout procedures. However, an authorized associate and an affected associate may be the same person when the affected associateâs duties also involve performing maintenance or service. An affected associate becomes an authorized associate whenever he or she performs servicing or maintenance functions. &lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;Authorized associate:&lt;/STRONG&gt; This is an associate who performs servicing or maintenance on equipment and machinery. This associate implements lockout/tagout procedures to guarantee his or her own protection. &lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;Capability of being locked out:&lt;/STRONG&gt; An energy-isolating device is considered capable of being locked out if it meets one of the following requirements: &lt;/P&gt;
+&lt;UL type=disc&gt;
+&lt;LI&gt;It is designed with a hasp to which a lock can attached. 
+&lt;LI&gt;It is designed with any other integral part through which a lock can be affixed. 
+&lt;LI&gt;It has a locking mechanism built into it. 
+&lt;LI&gt;It can be locked without dismantling, rebuilding or replacing the energy-isolating device or permanently altering its energy control capability. &lt;/LI&gt;&lt;/UL&gt;
+&lt;P&gt;&lt;STRONG&gt;Energized:&lt;/STRONG&gt; Equipment and machinery is energized when they are connected to an energy source or contain residual or stored energy. &lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;Energy control procedure:&lt;/STRONG&gt; This is a written document that contains the steps an authorized associate must follow to safely control hazardous energy during servicing or maintenance of equipment or machinery. &lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;Energy control program:&lt;/STRONG&gt; This is a program intended to prevent the unexpected energizing or the release of stored energy in equipment or machinery. The program consists of: &lt;/P&gt;
+&lt;UL type=disc&gt;
+&lt;LI&gt;Energy control procedures. 
+&lt;LI&gt;An associate training program. 
+&lt;LI&gt;Periodic inspections of the associates using the procedures and a procedure review. &lt;/LI&gt;&lt;/UL&gt;
+&lt;P&gt;&lt;STRONG&gt;Energy-isolating device:&lt;/STRONG&gt; This is a mechanical device that physically prevents the transmission or release of energy. &lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;Energy source:&lt;/STRONG&gt; This is any source of electrical, mechanical, hydraulic, pneumatic, chemical, steam, thermal or other energy. &lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;Lockout:&lt;/STRONG&gt; Placing a lock on an energy-isolating device according to an established procedure, that ensures that the fixture, equipment or machinery cannot be energized until the lock is removed by the person who placed it there. &lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;Lockout device:&lt;/STRONG&gt; This is a device that utilizes a positive means such as a lock to hold an energy-isolating device in a safe position and prevent the energizing of fixtures, equipment or machinery.&lt;BR&gt;&lt;BR&gt;&lt;STRONG&gt;Tagout:&lt;/STRONG&gt; This is the placement of a tagout device on an energy-isolating device, according to an established procedure, clearly marked by means of a tag that states who has the fixture, equipment or machinery shut down and that the equipment or machinery must not be operated until the tagout device is removed by the associate who place it there. &lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;Tagout device:&lt;/STRONG&gt; This is any prominent warning device, such as a tag and a means of attachment, that can be securely fastened to an energy-isolating device according to established procedure. The tag indicates that the equipment or machinery to which it is attached must not be operated until the tagout device is removed according to the energy control procedure. The attachment method must be substantial and not easily removed. &lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;Zero energy state:&lt;/STRONG&gt; All sources of energy have been controlled and/or dissipated. &lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;&lt;U&gt;Responsibilities&lt;/U&gt;&lt;/STRONG&gt; &lt;BR&gt;&lt;STRONG&gt;Director:&lt;/STRONG&gt; Retains overall responsibility for this procedure. &lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;Engineering manager:&lt;/STRONG&gt; This person is responsible to ensure that all engineering associates are aware of this procedure and are trained in its use and application. All training is to be documented and copies sent to the facilities management (FM) personnel coordinator and to the facilities management safety manager. He or she ensures that contractors are aware of this procedure. &lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;Assistant director for operations and FM managers:&lt;/STRONG&gt; Responsible to ensure that all maintenance personnel are aware of this procedure and are trained in its use and application. All training is to be documented and copies sent to the FM personnel coordinator and to the FM safety manager. Ensure that contractors are aware of this procedure. &lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;FM safety manager:&lt;/STRONG&gt; Responsible for auditing this procedure, that procedures are consistent throughout facilities management and that documentation is accurate. &lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;Institutional fire safety inspectors:&lt;/STRONG&gt; Responsible to check for the existence or non-existence of written energy control (shutdown/startup) procedures in mechanical equipment rooms and to so indicate on their inspection report. A copy of the inspection report is to be sent to the FM safety manager. &lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;Maintenance supervisors:&lt;/STRONG&gt; Responsible to ensure that all maintenance personnel are aware of this procedure and are trained in its use and application. Names and job titles of associates who are authorized to lock out or tag out shall be documented and copies sent to the FM personnel coordinator and to the FM safety manager. Each new or transferred associate and other associates whose work operations are or may be in the area shall be trained in the purpose and use of this lockout or tagout procedure. Supervisors shall verify the accuracy of existing written energy control (shutdown/startup) procedures, write them if they are non-existent, obtain adequate supplies, maintain the inventory and document the issuance of locks, tags and locking devices. &lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;Maintenance associates:&lt;/STRONG&gt; Responsible to know and to understand the important safety significance of this procedure and its proper application. If violations of this procedure are observed, notify your supervisor and the FM safety manager immediately. &lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;&lt;U&gt;Hazard analysis&lt;/U&gt;&lt;/STRONG&gt; &lt;BR&gt;A written hazard analysis shall be performed by scheduled maintenance associates for each piece of equipment and machinery that is used, serviced or maintained. Be sure to include stored equipment and machinery. This begins with an inventory to be recorded on an energy hazard assessment inventory form. Send a copy of this form to the FM safety manager. &lt;/P&gt;
+&lt;P&gt;As the inventory is completed for each building, a more detailed evaluation of each piece of equipment or machinery shall be completed. Document all energy sources (direct and hidden), the hazards posed, the magnitude or measurable degree of danger, any special or unusual conditions, and the proper isolation methods and devices. Record these items on the detailed energy hazard assessment form. Send a copy of this form to the FM safety manager. &lt;/P&gt;
+&lt;P&gt;The assessment forms serve as the building blocks for developing written energy control (shutdown and startup) procedures. As these energy control procedures are completed, send them to the FM safety manager for review. &amp;nbsp;&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;&lt;U&gt;Procedure&lt;/U&gt;&lt;/STRONG&gt; &lt;BR&gt;A) &lt;STRONG&gt;&lt;EM&gt;Basic rules for using lockout or tagout system procedures&lt;/EM&gt;&lt;/STRONG&gt;&lt;/P&gt;
+&lt;UL type=disc&gt;
+&lt;LI&gt;All energy sources to fixtures, equipment and/or machinery shall be locked out or tagged out to protect against accidental or inadvertent operation when such operation could cause injury to personnel.&lt;BR&gt;
+&lt;LI&gt;Note that isolating a piece of equipment from its source may not eliminate all potential hazards. Stored energy may be present within the equipment or machinery. &lt;BR&gt;
+&lt;LI&gt;Do not attempt to operate any switch, valve or other energy isolation device when it is locked or tagged out. &lt;BR&gt;
+&lt;LI&gt;Never remove a lock or tag for another associate. Only the associate placing the lock or tag may remove it. If there is a need to remove another associateâs lock or tag in an emergency, only the maintenance supervisor may do so after making every effort to contact the owner of the lock or tag. &lt;/LI&gt;&lt;/UL&gt;
+&lt;P&gt;&lt;STRONG&gt;&lt;EM&gt;B) Sequence to lock out or tag out&lt;/EM&gt;&lt;/STRONG&gt; &lt;/P&gt;
+&lt;UL type=disc&gt;
+&lt;LI&gt;The supervisor shall make a survey to locate and identify all isolating devices to be certain which switch(s), valve(s) or other energy-isolating devices apply to the equipment to be locked or tagged out. More than one energy source (electrical, mechanical or others) may be involved. &lt;BR&gt;
+&lt;LI&gt;Verify the written energy control (shutdown/startup) procedure attached to the equipment or machinery, make necessary changes, supply the written procedure in the absence thereof, and send a copy of the procedure or changes to an existing procedure to the FM safety manager for review. &lt;BR&gt;
+&lt;LI&gt;The supervisor or shop leadman shall notify all affected associates and customers that a lockout or tagout system is going to be utilized and the reason for that action. The authorized associate shall know the type and magnitude of energy that the machine or equipment utilizes and shall understand the hazards thereof.&lt;BR&gt;
+&lt;LI&gt;If the machine or equipment is operating, shut it down by the written energy control (shutdown) procedure attached to the equipment or machine (depress stop button, open toggle switch, etc.). &lt;BR&gt;
+&lt;LI&gt;Operate the switch, valve or other energy-isolating device(s) to ensure that the equipment is isolated from its energy source(s). Stored energy (such as that in spring, elevated machine members, rotating flywheels, hydraulic systems and air, gas, steam and water pressure, etc.) must be dissipated or restrained by methods such as repositioning, double blocking and bleeding down, etc.&lt;BR&gt;
+&lt;LI&gt;Lockout and/or tagout the energy-isolating devices with assigned individual lock(s) or tag(s). Tags shall indicate that the energy-isolated device(s) shall not be operated until after the removal of the tag.&lt;BR&gt;
+&lt;LI&gt;After ensuring that no personnel are exposed, and as a check on having disconnected the energy sources, operate the push button or other normal operating controls to make certain the equipment will not operate.&lt;BR&gt;
+&lt;LI&gt;Caution: Return operating control(s) to âneutralâ or âoffâ position after the test.&lt;BR&gt;
+&lt;LI&gt;The equipment is now locked out or tagged out. &lt;/LI&gt;&lt;/UL&gt;
+&lt;P&gt;&lt;STRONG&gt;&lt;EM&gt;C) Restoring machines or equipment to normal production operations&lt;/EM&gt;&lt;/STRONG&gt;&lt;/P&gt;
+&lt;UL type=disc&gt;
+&lt;LI&gt;After servicing and/or maintenance is completed and the fixture, equipment or machinery is ready for normal operation, check the area around the fixture, equipment or machinery to ensure that no one is exposed. &lt;/LI&gt;&lt;/UL&gt;
+&lt;UL type=disc&gt;
+&lt;LI&gt;After all tools have been removed from the fixture, equipment or machinery, guards have been reinstalled and associates are in the clear, remove all lockout or tagout devices. Notify all affected persons that the lockout or tagout has been removed. Operate the energy- isolating devices to restore energy to the fixture, equipment or machinery following the written energy control (startup) procedure. &lt;/LI&gt;&lt;/UL&gt;
+&lt;P&gt;&lt;STRONG&gt;&lt;EM&gt;D) Procedure involving more than one person&lt;/EM&gt;&lt;/STRONG&gt; &lt;/P&gt;
+&lt;UL type=disc&gt;
+&lt;LI&gt;In the preceding steps, if more than one individual is required to work on the equipment or machinery, each shall place his/her own personal lockout device and/or tagout device on the energy-isolating device(s). When an energy-isolating device cannot accept multiple locks and tags, a multiple lockout or tagout device (box or hasp) may be used.&lt;BR&gt; 
+&lt;LI&gt;If lockout is used, a single lock may be used to lock out the machine or equipment with the key being placed in a lockout box or cabinet which allows the use of multiple locks to secure it. Each associate will than use his/her own lock to secure the box or cabinet. As each person no longer needs to maintain his or her lockout protection, that person will remove his/her lock from the box or cabinet. &lt;BR&gt;
+&lt;LI&gt;When work must continue over a shift change the supervisor or lead worker must ensure that all associates are aware of which locks are to be replaced or left in place. All associates in the oncoming shift must be informed of the lockout/tagout conditions. &lt;/LI&gt;&lt;/UL&gt;
+&lt;P&gt;&lt;STRONG&gt;&lt;EM&gt;E) Additional requirements&lt;/EM&gt;&lt;/STRONG&gt; &lt;BR&gt;1) Engineering manager, FM managers and supervisors should annually verify that all associates are in compliance with the requirements of this procedure. A periodic lockout/tagout inspection form shall be used and a copy of the completed form sent to the FM safety manager. &lt;/P&gt;
+&lt;P&gt;2) Initial training must be provided for all authorized and affected associates, repeated annually and documented. Additional retraining for all authorized and affected associates must be provided whenever there is a change in equipment, machinery, procedures or whenever there is evidence that this procedure is being violated. &lt;/P&gt;
+&lt;P&gt;3) Locks provided by facilities management are the only authorized locks to be used for equipment or machine lockout. Each lock should be keyed separately. One key issued to the authorized associate possessing the lock and the other key kept by the supervisor for emergency situations only. &lt;/P&gt;
+&lt;P&gt;4) Each lock should be identified as to its owner. In lieu of identification on the lock, an authorized associateâs personal tag can be applied in addition to his/her lock when locking out the equipment or machinery so that the lockâs owner can be readily identified. &lt;/P&gt;
+&lt;P&gt;5) The tags, padlocks and lockout devices used for locking out machinery and equipment should only be used for lockout and not for any other activity. &lt;/P&gt;
+&lt;P&gt;6) All equipment or machinery should be provided with appropriate energy isolating devices. Each such energy-isolating device should be clearly identified by a label. Only where such devices are not now existent may tagout be used. &lt;/P&gt;
+&lt;UL type=disc&gt;
+&lt;LI&gt;Whenever the equipment or machinery is modified or rebuilt, the energy control device must be altered to allow the incorporation of a lock for lockout purposes.&lt;BR&gt; 
+&lt;LI&gt;When new or replacement equipment or machinery is ordered, the specifications shall include the capability of locking out the energy source(s). &lt;/LI&gt;&lt;/UL&gt;
+&lt;P&gt;7) All equipment or machinery that is required to be locked or tagged out shall have a written energy control (shutdown/startup) procedure attached to or near the main power switch for that equipment or machinery. This procedure is to identify all the energy sources which may be acting on this equipment and detail how each energy source is to be locked or tagged out. A copy of these procedures is to be sent to the FM safety manager for review. &lt;/P&gt;
+&lt;P&gt;8) The removal of a lock or tag by anyone other than the assigned associate who placed the lock or tag on the equipment or machinery is a very serious event and shall be documented with a copy of the documentation being sent to the FM safety manager. The supervisor should make every effort to locate the responsible associate, make a thorough examination of all machinery or equipment protected by the lockout or tagout to ensure that personnel, tools and equipment are clear, and notify the FM manager before removing the lock or tag. Continue to make all reasonable efforts to contact the associate to inform him/her that his/her lockout or tagout device has been removed and to ensure that the associate has this knowledge before he/she resumes work. &lt;/P&gt;
+&lt;P&gt;9) A tagout device, including the means of attachment, shall be substantial enough to prevent inadvertent or accidental removal. Tagout device attachment shall meet the following: &lt;/P&gt;
+&lt;UL type=disc&gt;
+&lt;LI&gt;Be able to be affixed by hand. 
+&lt;LI&gt;Be non-reusable. 
+&lt;LI&gt;Be self-locking. 
+&lt;LI&gt;Requires a minimum unlocking strength of 50 pounds. &lt;/LI&gt;&lt;/UL&gt;
+&lt;P&gt;Note: One device which meets all of these requirements is a one-piece, all environment-tolerant, nylon cable tie. &lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;&lt;EM&gt;F) Extras&lt;/EM&gt;&lt;/STRONG&gt; &lt;BR&gt;Cord and plug equipment is exempt from the provisions of this procedure provided that the following two conditions are met. &lt;/P&gt;
+&lt;UL type=disc&gt;
+&lt;LI&gt;Power to the equipment or machine must be completely removed by unplugging. &lt;BR&gt;
+&lt;LI&gt;The authorized associate must have the plug under his or her exclusive control (i.e. in sight at all times). If not, the plug must be locked out. &lt;/LI&gt;&lt;/UL&gt;
+&lt;P&gt;An audit shall be performed annually by the FM safety manager to ensure compliance with this written procedure. &lt;/P&gt;
+&lt;P&gt;This procedure shall be reviewed annually. &lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;&lt;U&gt;Training&lt;/U&gt;&lt;/STRONG&gt; &lt;BR&gt;All personnel authorized to do maintenance and affected associates (those using or capable of starting a machine or any equipment) shall be trained annually on this procedure. &lt;/P&gt;
+&lt;P&gt;All new associates shall be properly trained on this procedure before working in an area where lockout or tagout is in use. &lt;/P&gt;
+&lt;P&gt;Supervisors must document that associate training has been accomplished. Copies of this documentation are to be sent to the FM personnel coordinator and to the FM safety manager. &lt;/P&gt;
+&lt;P&gt;Documentation must include the names of all associates participating, the date of the training, a copy of the curriculum and the name of the trainer. &lt;/P&gt;
+&lt;P&gt;To ensure that the necessary information has been learned a written test shall be administered by the trainer and the results recorded. Associates who do not achieve at least a 75 percent score on the written test must be retrained. &lt;/P&gt;
+&lt;P&gt;Written test results are to be retained by the FM personnel coordinator. &lt;/P&gt;
+&lt;P&gt;Training should include the following: &lt;/P&gt;
+&lt;UL type=disc&gt;
+&lt;LI&gt;Ensure that all associates know the details of this procedure and that they know what to do and what not to do when they encounter a lock or a tag on a switch or a device they wish to operate.&lt;BR&gt; 
+&lt;LI&gt;Associates must be aware that a tag is not a physical restraint. They must be aware of the false sense of security that tagout systems can present. &lt;/LI&gt;&lt;/UL&gt;
+&lt;P&gt;Retraining should take place: &lt;/P&gt;
+&lt;UL type=disc&gt;
+&lt;LI&gt;When an associate is re-assigned to a different area or machine.&lt;BR&gt; 
+&lt;LI&gt;When there is a change in the tag and lockout procedure.&lt;BR&gt; 
+&lt;LI&gt;When there is a change in equipment or machinery.&lt;BR&gt; 
+&lt;LI&gt;When a periodic inspection or audit reveals inadequacies in the associateâs knowledge or use of energy control procedures or this energy control program. &lt;/LI&gt;&lt;/UL&gt;&lt;img src="http://feeds.feedburner.com/~r/noria/reliableplant/tags/lockout-tagout/~4/2LNYMEnfpmg" height="1" width="1" alt=""/&gt;</description>
+            <a10:updated>2008-03-10T00:00:00-05:00</a10:updated>
+            <a10:content type="text/html" src="http://reliableplant.com/Read/10907/lockout-tagout-procedure" />
+        <feedburner:origLink>http://reliableplant.com/Read/10907/lockout-tagout-procedure</feedburner:origLink></item>
+        <item>
+            <guid isPermaLink="false">tag:noria.com,2010-06-10:publishing:magazines:rp:c76e40f3-2626-4705-b072-9cf800def333</guid>
+            <link>http://feedproxy.google.com/~r/noria/reliableplant/tags/lockout-tagout/~3/RhFdzNQ_CFY/lockout-tagout-osha</link>
+            <a10:author>
+                <a10:name>RP news wires</a10:name>
+            </a10:author>
+            <category>Industry News</category>
+            <category>Articles</category>
+            <title>OSHA letter clarifies lockout/tagout requirements</title>
+            <description>&lt;P class=MsoNormal&gt;In a recent Letter of Interpretation, the Occupational Safety and Health Administration clarifies the application of the Lockout/Tagout (LOTO) standard, 29 CFR Â§1910.147, to die-setting activities and other machine setup operations.&lt;/P&gt;
+&lt;P class=MsoNormal&gt;&lt;B style="mso-bidi-font-weight: normal"&gt;&lt;EM&gt;Die-setting&lt;/EM&gt;&lt;BR&gt;&lt;/B&gt;OSHA says that die-setting activities constitute servicing activities and are covered by the LOTO standard â i.e., pursuant to the definitions for setting up and servicing and/or maintenance contained in Â§1910.147(b). (The letter specifically addresses die-setting activities with regards to hydraulic power presses.)&lt;/P&gt;
+&lt;P class=MsoNormal&gt;OSHA says that safety blocks (as described in the letter), as well as electric disconnect switches (also described in the letter), are energy isolating devices if they physically prevent the transmission or release of energy. See the Â§1910.147(b) definition of energy isolating device.&lt;/P&gt;
+&lt;P class=MsoNormal&gt;Although the safety blocks may provide some protection, OSHA says the reliance on control circuit devices (i.e., two-hand controls and/or a light curtain) alone or together may not protect employees from other types of hazards because neither safeguarding device physically prevents the transmission or release of hazardous energy. For example, the use of control circuitry alone does not prevent employee exposure to hazardous energy that may result from unexpected ram movement caused by potential mechanical energy (resultant from the ram/slide position and associated gravitational force), press component or control system malfunction, or press activation by others.&lt;/P&gt;
+&lt;P class=MsoNormal&gt;&lt;B style="mso-bidi-font-weight: normal"&gt;&lt;EM&gt;Grinding wheels, drill bits&lt;/EM&gt;&lt;BR&gt;&lt;/B&gt;OSHA says LOTO requirements apply to changing grinding wheels on a surface grinder and changing a drill bit on a radial arm drill press, unless the set-up activity meets one of the following LOTO standard exceptions:&lt;/P&gt;
+&lt;OL type=1&gt;
+&lt;LI class=MsoNormal style="mso-list: l0 level1 lfo1; tab-stops: list .5in"&gt;The minor servicing exception, contained in the Â§1910.147(a)(2)(ii) note, provides that: âMinor tool changes and adjustments, and other minor servicing activities, which take place during normal production operations, are not covered by this standard if they are routine, repetitive, and integral to the use of the equipment for production, provided that the work is performed using alternative measures which provide effective protection (see Subpart O of this Part).â 
+&lt;LI class=MsoNormal style="mso-list: l0 level1 lfo1; tab-stops: list .5in"&gt;The cord- and plug-connected equipment exception, contained in Â§1910.147(a)(2)(iii)(A), states that the LOTO standard does not apply to: âWork on cord and plug connected electric equipment for which exposure to the hazards of unexpected energization or start up of the equipment is controlled by the unplugging the equipment from the energy source and by the plug being under the exclusive control of the employee performing the servicing or maintenance.â &lt;/LI&gt;&lt;/OL&gt;
+&lt;P class=MsoNormal&gt;With respect to changing a grinding wheel on a surface grinder, OSHA says the wheel change takes place outside of the normal production process: i.e., the machine is turned off, grinding operations stop, a guard is removed, and the wheel retainer nut is loosened and removed. Therefore, the minor servicing exception does not apply and the energy source for the grinder would need to be locked or tagged out in accordance with this standard, OSHA says in the letter. [The Occupational Safety and Health Review Commission (OSHRC) rejected an employer's assertion that set-up activities associated with a printer/slotter machine constituted servicing and/or maintenance within the scope of the minor servicing exception. OSHRC concluded that adjustments made to prepare for the normal production operations cannot, at the same time, be adjustments that are made during normal production operations. As such, these setting up activities, by definition, cannot fall within the minor servicing exception. See &lt;I style="mso-bidi-font-style: normal"&gt;Westvaco Corp.&lt;/I&gt; 16 (&lt;I style="mso-bidi-font-style: normal"&gt;BNA&lt;/I&gt;) OSHRC 1374 (90-134, 1993).]&lt;/P&gt;
+&lt;P class=MsoNormal&gt;In terms of radial arm drill presses (as addressed in the scenario in the letter), OSHA says that minor tool changes and adjustments, which are routine and repetitive and must be performed as an integral part of the production process, are permitted to be performed without LOTO if the work is performed using alternative measures that provide effective protection. Electric disconnect switches or control switches are considered effective protection if the switches:&lt;/P&gt;
+&lt;OL type=1&gt;
+&lt;LI class=MsoNormal style="mso-list: l1 level1 lfo2; tab-stops: list .5in"&gt;Are properly designed and applied in accordance with recognized and good engineering practice; and 
+&lt;LI class=MsoNormal style="mso-list: l1 level1 lfo2; tab-stops: list .5in"&gt;Control all the hazardous energy and are placed in an off position; and 
+&lt;LI class=MsoNormal style="mso-list: l1 level1 lfo2; tab-stops: list .5in"&gt;Are under the exclusive control of the employee performing the task. &lt;/LI&gt;&lt;/OL&gt;
+&lt;P class=MsoNormal&gt;In the event the surface grinder or drill press wiring consists of a flexible cord equipped with an attachment plug connected to permanent wiring (as permitted by 29 CFR 1910, Subpart S), OSHA says the employer may elect not to LOTO the equipment as long as: (1) the employer unplugs the cord- and plug-connected equipment; (2) unplugging controls all of the hazardous energy to which the employee may be exposed; and (3) the plug is in the exclusive control of the employee who is performing the tool change. See Â§1910.147(a)(2)(iii)(A) exception. In all other situations in which employees are performing servicing and maintenance activities and may be exposed to hazardous energy, LOTO must be performed to protect employees from hazardous energy, OSHA says in the letter.&lt;/P&gt;&lt;img src="http://feeds.feedburner.com/~r/noria/reliableplant/tags/lockout-tagout/~4/RhFdzNQ_CFY" height="1" width="1" alt=""/&gt;</description>
+            <a10:updated>2007-02-16T00:00:00-06:00</a10:updated>
+            <a10:content type="text/html" src="http://reliableplant.com/Read/4796/lockout-tagout-osha" />
+        <feedburner:origLink>http://reliableplant.com/Read/4796/lockout-tagout-osha</feedburner:origLink></item>
+        <item>
+            <guid isPermaLink="false">tag:noria.com,2010-06-10:publishing:magazines:rp:4cd3d65f-626a-4459-a560-9cf800da0be2</guid>
+            <link>http://feedproxy.google.com/~r/noria/reliableplant/tags/lockout-tagout/~3/K-EZDCmCgiU/lockout-tagout</link>
+            <a10:author>
+                <a10:name>Noria Corporation</a10:name>
+            </a10:author>
+            <category>Web Exclusives</category>
+            <category>Articles</category>
+            <title>The keys to lockout/tagout</title>
+            <description>&lt;p&gt;Picture yourself performing maintenance inside of a huge machine. Suddenly, the
+  machine springs to life, powerful metal gears grinding around you, placing you
+  in mortal danger. That is exactly the sort of terrifying scenario that lockout/tagout
+  is meant to prevent. Lockout/tagout is a procedure to disable equipment to protect
+  workers from either an unexpected release of energy or an accidental start-up
+while performing job activities.&lt;/p&gt;
+&lt;p&gt;When the Occupational Safety and Health Administration
+  recently revealed the 10 most-violated OSHA standards, based on citations issued
+  from Oct. 1, 2004,
+  through Aug. 30, 2005, lockout/tagout was the fifth-most-cited standard. &lt;br&gt;
+âObviously, companies should comply with lockout/tagout regulations so
+they donât
+  receive citations and fines from OSHA,â says Benjamin Mangan, president
+  of MANCOMM and American Safety Training Inc., two companies that align to provide
+  OSHA compliance products and safety training. âBut most importantly,
+  companies should comply because lockout/tagout prevents accidents and saves
+lives.â&lt;/p&gt;
+&lt;p&gt;During lockout/tagout, a person authorized by the company places
+  locks and/or tags on energy-isolating devices before working on equipment,
+  and only that
+  person can remove those locks and tags. Isolation devices are mechanical appliances,
+  such as circuit breakers, used to stop energy from being released to the equipment.
+  Lockout is usually accomplished with a keyed lock holding an isolating device
+  in an âoffâ position. Tagout, which is often used when lockout canât
+  take place, uses tags to warn people that the equipment and isolating device
+may not be operated. &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;L/T in the workplace&lt;/strong&gt; &lt;br&gt;
+  Lockout/tagout is required when servicing
+    or performing maintenance on equipment. Effective lockout/tagout should occur
+    in three phases: applying lockout/tagout, servicing and repairing equipment,
+  and returning equipment to proper operation. &lt;/p&gt;
+&lt;p&gt; &lt;strong&gt;Applying lockout/tagout:&lt;/strong&gt; The authorized worker should notify
+  workers in the area that lockout/tagout procedures will be taking place. Those
+  workers should
+  listen
+  to any instructions given by the authorized worker and move to a safe location,
+  away from the equipment. Note that locks and tags must be marked with names
+  or pictures identifying them with the authorized workers placing them, and
+  other
+people canât attach or remove locks or tags on behalf of authorized workers.&lt;/p&gt;
+&lt;br&gt;
+  
+&lt;br&gt;
+&lt;p&gt;&lt;strong&gt;Servicing
+    and repairing equipment:&lt;/strong&gt; Workers should stay away from the equipment
+    during this phase, which is when the authorized person will be working on
+    the
+  equipment and is most vulnerable to the unexpected release of hazardous energy.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Returning
+      equipment to proper operation:&lt;/strong&gt; During this phase, the authorized worker
+  should tell workers in the area when locks and tags will be removed.
+      Workers
+      should stay clear while locks and tags are removed and the equipment is
+  prepared for normal operation. Workers should be informed when lockout/tagout
+  is complete.  &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Test your L/T knowledge&lt;/strong&gt; &lt;br&gt;
+  So, do you think you know lockout/tagout? Take
+    this test and see. &lt;/p&gt;
+&lt;p&gt; 1) What is the purpose of lockout/tagout? &lt;br&gt;
+  a) To make sure the work is being
+  completed on time. &lt;br&gt;
+  b) To protect people from serious harm due to accidental
+  release of
+  energy. &lt;br&gt;
+  c) To make sure the workplace is secure after-hours. &lt;br&gt;
+  d) To make sure
+employees are in top physical condition. &lt;/p&gt;
+&lt;p&gt;2) What is an energy-isolating device?
+  &lt;br&gt;
+  a) A lock &lt;br&gt;
+  b) A mechanical device like a valve or a circuit breaker &lt;br&gt;
+  c) A tag
+  &lt;br&gt;
+d) A and C &lt;/p&gt;
+&lt;p&gt;3) Who can service equipment?&lt;br&gt;
+  a) Any employee &lt;br&gt;
+  b) Management &lt;br&gt;
+  c) Authorized
+  workers &lt;br&gt;
+d) Custodians &lt;/p&gt;
+&lt;p&gt;4) What must happen before removing a machine guard?
+  &lt;br&gt;
+  a)
+  You must put on eye protection. &lt;br&gt;
+  b) Ask a trusted co-worker to watch the controls
+  so no one else will touch them. &lt;br&gt;
+  c) Tell everyone you see in the work area they
+  need to be especially careful. &lt;br&gt;
+d) Lock/tag the equipment. &lt;/p&gt;
+&lt;p&gt;5) What is a tag
+  used for? &lt;br&gt;
+  a) To hang around a workerâs neck. &lt;br&gt;
+  b) To identify company products.
+  &lt;br&gt;
+  c) A warning to not operate equipment. &lt;br&gt;
+d) None of the above &lt;/p&gt;
+&lt;p&gt;6) When are tags
+  used? &lt;br&gt;
+  a) When a lock canât be used. &lt;br&gt;
+  b) When products go on sale. &lt;br&gt;
+  c) When
+  a government official says they can be used. &lt;br&gt;
+d) All of the above. &lt;/p&gt;
+&lt;p&gt;7) You can
+  help an authorized person by fastening their lock to a disconnect switch. &lt;br&gt;
+  a)
+  True &lt;br&gt;
+b) False &lt;/p&gt;
+&lt;p&gt;8) What kind of lock is used for lockout? &lt;br&gt;
+  a) A lock from the
+  workerâs
+  personal locker. &lt;br&gt;
+  b) A piece of strong wire. &lt;br&gt;
+  c) A plastic zip tie. &lt;br&gt;
+  d) A lock
+specifically identified for lockout. &lt;/p&gt;
+&lt;p&gt;9) What can be used to remove a lock from
+    an isolating
+    device? &lt;br&gt;
+  a) A hacksaw. &lt;br&gt;
+  b) A key. &lt;br&gt;
+  c) Bolt cutters. &lt;br&gt;
+  d) A cutting torch. &lt;/p&gt;
+&lt;p&gt;10)
+    What types of lockout/tagout records should be kept? &lt;br&gt;
+  a) Written lockout/tagout
+    procedures.
+      &lt;br&gt;
+  b) Inspection documents. &lt;br&gt;
+  c) Training records. &lt;br&gt;
+  d) All of the above. &lt;/p&gt;
+&lt;p&gt;A score
+        of 10 correct answers is the only acceptable score for total OSHA compliance.
+        When
+        it comes to safety, knowledge is power, and comprehensive training on
+  lockout/tagout is the best way to assure that workers are familiar with that
+  lifesaving
+    procedure.&lt;/p&gt;
+&lt;p&gt;â
+  Workers may need training from time to time to refresh their lockout/tagout skills,
+  or to introduce new or revised lockout/tagout control procedures,â says
+  Mangan. âPlus, they may need refresher training when there are changes
+in their job assignments, machines, equipment or work processes.â &lt;/p&gt;
+&lt;p&gt; Refresher training also may be needed if the company finds out a worker has
+  not been following the rules. Lockout/tagout training is an ongoing process.
+  Like
+  any other type of training, itâs never a one-shot deal. &lt;br&gt;
+For more information on this subject, visit &lt;a href="http://www.mancomm.com"&gt;www.mancomm.com&lt;/a&gt;. &lt;/p&gt;
+&lt;p&gt; &lt;em&gt;Test answers:&lt;/em&gt; &lt;br&gt;
+  &lt;em&gt;1) b, 2) b, 3) c, 4) d, 5) c, 6) a, 7) b, 8) d, 9) b, 10) d.&lt;/em&gt;&lt;br&gt;
+    
+&lt;/p&gt;&lt;img src="http://feeds.feedburner.com/~r/noria/reliableplant/tags/lockout-tagout/~4/K-EZDCmCgiU" height="1" width="1" alt=""/&gt;</description>
+            <a10:updated>2006-05-31T00:00:00-05:00</a10:updated>
+            <a10:content type="text/html" src="http://reliableplant.com/Read/1624/lockout-tagout" />
+        <feedburner:origLink>http://reliableplant.com/Read/1624/lockout-tagout</feedburner:origLink></item>
+        <item>
+            <guid isPermaLink="false">tag:noria.com,2010-06-10:publishing:magazines:rp:8b79413c-f305-4f6f-b7df-9cf800d9f7b0</guid>
+            <link>http://feedproxy.google.com/~r/noria/reliableplant/tags/lockout-tagout/~3/LWAlkkth3zE/electrical-safety</link>
+            <a10:author>
+                <a10:name>Noria Corporation</a10:name>
+            </a10:author>
+            <category>Magazine Articles</category>
+            <category>Articles</category>
+            <title>Electrical safety is no shocker</title>
+            <description>&lt;P&gt;Electricity is natureâs most versatile form of energy. Electrical power lights our homes, streets, offices and factories. The power of electricity can be dangerous if itâs not used correctly. Electrical energy can damage property and ignite fires. It can also hurt and even kill. &lt;/P&gt;
+&lt;P&gt;Sound safety practices help minimize electrical hazards and cut down the risk of accidents. The hazard of electricity cannot be eliminated, but it can be controlled though education and engineering. The more you understand about electrical energy, the safer youâll be. &lt;/P&gt;
+&lt;P&gt;&lt;SPAN class=subtitle3&gt;&lt;IMG height=144 src="http://media.noria.com/sites/archive_images/backup_200509_Safety-Report-Plug.jpg" width=200 align=right&gt;Cause of Electric Shock &lt;/SPAN&gt;&lt;BR&gt;You can get an electric shock if you touch a grounded surface and hazardous electrical equipment at the same time. The shock happens when the flow of current (amperage) from the electrical equipment goes through your body to the ground. How serious the injury depends on what part of your body receives the current. It also depends on how long the electric current flows. Just a small amount of amperage can hurt or be fatal. &lt;/P&gt;
+&lt;P&gt;&lt;SPAN class=subtitle3&gt;Ask and Protect Yourself &lt;/SPAN&gt;&lt;BR&gt;Are you aware that only trained, qualified and authorized employees are permitted to work on electrical equipment? &lt;/P&gt;
+&lt;P&gt;Has an electrician inspected your equipment, tools, machines and lights to make sure they operate according to electrical code requirements? &lt;/P&gt;
+&lt;P&gt;Are extension and appliance cords in good repair and properly rated for their intended use? &lt;/P&gt;
+&lt;P&gt;Are you using three-prong receptacles for three-prong plugs? &lt;/P&gt;
+&lt;P&gt;Are you protecting circuits with ground fault circuit interrupters (GFCI)? &lt;/P&gt;
+&lt;P&gt;Are you closing electrical control panels and covering receptacle boxes? &lt;/P&gt;
+&lt;P&gt;Do you avoid touching water, damp surfaces, ungrounded metal and bare wires if you arenât protected? &lt;/P&gt;
+&lt;P&gt;Do you avoid working in and around wet or damp conditions, equipment and electrical currents that arenât grounded, and wires that arenât insulated? &lt;/P&gt;
+&lt;P&gt;Do you use equipment and tools in the manner that they are designed? &lt;/P&gt;
+&lt;P&gt;Do you immediately report any damaged or defective equipment, power tools and machinery? &lt;/P&gt;
+&lt;P&gt;Do you look for posted signs that identify electrical hazards? &lt;/P&gt;
+&lt;P&gt;Do you follow lockout/tagout procedures? &lt;/P&gt;
+&lt;P&gt;&lt;SPAN class=subtitle3&gt;Wear the Right Protection &lt;/SPAN&gt;&lt;BR&gt;Donât wear metal jewelry that might make contact with electric current. &lt;/P&gt;
+&lt;P&gt;Wear eye protection where required. &lt;/P&gt;
+&lt;P&gt;Wear rubber-soled shoes or boots on damp or wet surfaces. &lt;/P&gt;
+&lt;P&gt;Wear safety-approved rubber and leather gloves when working with electricity. &lt;/P&gt;
+&lt;P&gt;&lt;SPAN class=subtitle3&gt;Hazard Checklist&lt;/SPAN&gt; &lt;BR&gt;Check the surrounding area for spills, dampness or water. &lt;/P&gt;
+&lt;P&gt;Check that connections and ground wires are tight and free from breaks. &lt;/P&gt;
+&lt;P&gt;Check that circuits and wiring are in good repair and not overloaded. &lt;/P&gt;
+&lt;P&gt;Check insulation for worn spots or breaks that could cause a shock. &lt;/P&gt;
+&lt;P&gt;Check the condition of cords and extension cords. &lt;/P&gt;
+&lt;P&gt;Check and maintain equipment to make sure itâs working right and free of defects or damage. &lt;/P&gt;
+&lt;P&gt;Check equipment belts and gears to detect excess tension or binding that can cause a power overload. &lt;/P&gt;
+&lt;P&gt;Check that personal hand and foot protectors are kept in good repair and readily available. &lt;/P&gt;
+&lt;P&gt;Immediately report hazards or damaged and defective equipment, tools and machinery to a supervisor or manager. &lt;/P&gt;
+&lt;P&gt;&lt;SPAN class=subtitle3&gt;Electrical Emergencies &lt;/SPAN&gt;&lt;BR&gt;&lt;STRONG&gt;For high-voltage electricity&lt;/STRONG&gt;: Contact the police and emergency medical services. &lt;/P&gt;
+&lt;P&gt;Notify your supervisor or follow the emergency instructions spelled out in your company policy. &lt;/P&gt;
+&lt;UL&gt;
+&lt;LI&gt;
+&lt;P&gt;Do not touch a person who has come in contact with high-voltage electricity. &lt;/P&gt;
+&lt;LI&gt;
+&lt;P&gt;Do not use a tool to free the person. &lt;/P&gt;&lt;/LI&gt;&lt;/UL&gt;
+&lt;P&gt;&lt;STRONG&gt;For low-voltage electricity&lt;/STRONG&gt;: Contact emergency medical services. &lt;/P&gt;
+&lt;UL&gt;
+&lt;LI&gt;
+&lt;P&gt;Donât touch anyone who has become grounded. &lt;/P&gt;
+&lt;LI&gt;
+&lt;P&gt;Switch off power at the fuse or circuit-breaker box, or pull the plug. &lt;/P&gt;
+&lt;LI&gt;
+&lt;P&gt;Call the electric company if you canât shut the power off. &lt;/P&gt;&lt;/LI&gt;&lt;/UL&gt;
+&lt;P&gt;This article is courtesy of the National Safety Council. For more information, visit &lt;A href="http://www.nsc.org"&gt;www.nsc.org&lt;/A&gt;. &lt;/P&gt;&lt;img src="http://feeds.feedburner.com/~r/noria/reliableplant/tags/lockout-tagout/~4/LWAlkkth3zE" height="1" width="1" alt=""/&gt;</description>
+            <a10:updated>2005-09-16T00:00:00-05:00</a10:updated>
+            <a10:content type="text/html" src="http://reliableplant.com/Read/265/electrical-safety" />
+        <feedburner:origLink>http://reliableplant.com/Read/265/electrical-safety</feedburner:origLink></item>
+    </channel>
+</rss>

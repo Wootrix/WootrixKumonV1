@@ -1,0 +1,1644 @@
+<?php
+
+/*
+ * To change this template, choose Tools | Templates
+ * and open the template in the editor.
+ */
+if (!defined('BASEPATH'))
+    exit('No direct script access allowed');
+
+class customer_magazine extends CI_Controller {
+
+    public function __construct() {
+
+        parent::__construct();
+        $this->load->helper('url');
+        $this->load->library('session', true);
+        $this->load->library('pagination');
+        $this->load->library('form_validation');
+        $languge = $this->session->userdata('language');
+        if ($languge == "") {
+            $this->lang->load('en', 'english');
+        } else {
+            $this->lang->load($languge, 'english');
+        }
+        $this->output->set_header('Last-Modified: ' . gmdate("D, d M Y H:i:s") . ' GMT');
+        $this->output->set_header('Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0');
+        $this->output->set_header('Pragma: no-cache');
+        $this->output->set_header("Expires: Mon, 26 Jul 1997 05:00:00 GMT");
+    }
+    
+     /**
+     * @author Techahead
+     * @access Public
+     * @param 
+     * @return 
+     * Index function load defaut 
+     * */
+    
+    public function customer_magazinelist(){
+         if ($this->session->userdata('user_id') == "") {
+            redirect("customer_login");
+        }
+        $this->session->unset_userdata('searchUser');
+        
+        $magazineObj = $this->load->model("customer/customer_magazine_model");
+        $magazineObj = new customer_magazine_model();        
+        
+        $magazineObj->set_customer_id($this->session->userdata('user_id'));
+               
+        if($this->input->post("sa") == "search"){
+            $magazineObj->set_title(trim($this->input->post("title")));
+            $this->session->set_userdata('searchUser',$_POST['title']);
+        }
+        $magazine_list = $magazineObj->magazineList();
+
+        $data['data_result'] = $magazine_list;
+        $data['title'] = 'Wootrix';
+        $data['header'] = array('view' => 'templates/customerheader', 'data' => array());
+        $data['main_content'] = array('view' => 'customer_magazine/customer_magazine_list', 'data' => array());
+        $data['footer'] = array('view' => 'templates/customerfooter', 'data' => array());
+        //$this->load->view('customer_view/customer_login', $data);
+        $this->load->view('templates/common', $data);
+        
+    }
+    
+    /*Magazine Article List*/
+    
+    public function customer_articlelist(){
+         if ($this->session->userdata('user_id') == "") {
+            redirect("customer_login");
+        }
+        
+        $this->checkIsUserMagazine();
+        $magazineObj = $this->load->model("customer/customer_magazine_model");
+        $magazineObj = new customer_magazine_model();
+        $magazineObj->set_customer_id($this->session->userdata('user_id'));
+
+        $customerId = $this->session->userdata('user_id');
+
+        $this->load->model("web/customer_model");
+        $customerObj = new customer_model();
+        $customerObj->set_id($customerId);
+        $autoPublish = $customerObj->getAutoPublishPermission();
+               
+        /* language sort by */
+        if ($_GET['lang'] != "") { 
+            $magazineObj->set_language_id($_GET['lang']);
+            
+        }
+        if ($_GET['catagory'] != "") {
+            $status = $magazineObj->set_catagory_id($_GET['catagory']);
+        }
+        if($_GET['cat_lang']!=''){
+           $magazineObj->set_article_language($_REQUEST['cat_lang']); 
+        }
+        $language_result = $magazineObj->getLanguageList();
+        $catagory_result = $magazineObj->getCatagoryList();
+         
+
+        $magazine_id = $_GET['rowId'];
+        $magazineObj->set_id($magazine_id);
+        $magazine_article_list = $magazineObj->getMagazineArticleList();
+        
+        $magazine_title  =  $magazineObj->getMagazinetitle();
+        
+         /* -------header value results------------ */
+        $data['all_article'] = $magazineObj->getMagazineAllArticleCount();        
+        $data['magazine_publish_article'] = $magazineObj->getMagazinePublishArticle();
+        $data['magazine_deleted_article'] = $magazineObj->getMagazineDeletedArticle();
+        $data['magazine_review_article'] = $magazineObj->getMagazineReviewArticle();
+        $data['magazine_draft_article'] = $magazineObj->getMagazineDraftArticle();
+        /* ---------------------------------------- */
+
+        $data['data_result'] = $magazine_article_list;
+        $data['language_result'] = $language_result;
+        $data['magazine_title'] = $magazine_title;
+        $data['magazine_id'] = $magazine_id;
+        $data['catagory_result'] = $catagory_result;
+        $data['auto_publish'] = $autoPublish;
+        
+        $data['title'] = 'Wootrix';
+        $data['header'] = array('view' => 'templates/customerheader', 'data' => array());
+        $data['main_content'] = array('view' => 'customer_magazine/customer_article', 'data' => array());
+        $data['footer'] = array('view' => 'templates/customerfooter', 'data' => array());
+        //$this->load->view('customer_view/customer_login', $data);
+        $this->load->view('templates/common', $data);
+    }
+    
+    /*Magazine published article list*/
+    public function customer_magazine_published_article_list(){ 
+         if ($this->session->userdata('user_id') == "") {
+            redirect("customer_login");
+        }
+        
+        $magazineObj = $this->load->model("customer/customer_magazine_model");
+        $magazineObj = new customer_magazine_model();
+        $magazineObj->set_customer_id($this->session->userdata('user_id'));
+        //$language_result = $magazineObj->getLanguageList();           
+        
+         /*check Language Session */  
+//          if($this->session->userdata('lang') !=""){
+//              $magazineObj->set_language_id($this->session->userdata('lang'));
+//          }
+        /*------------*/
+          
+        
+        /* language sort by */
+        if ($_GET['lang'] != "") {
+            $magazineObj->set_language_id($_GET['lang']);            
+        }
+        if ($_GET['catagory'] != "") {
+            $status = $magazineObj->set_catagory_id($_GET['catagory']);
+        }
+        if($_GET['cat_lang']!=''){
+           $magazineObj->set_article_language($_REQUEST['cat_lang']); 
+        }
+        $language_result = $magazineObj->getLanguageList();
+        $catagory_result = $magazineObj->getCatagoryList();
+        
+
+        $magazine_id = $_GET['rowId'];
+        $magazineObj->set_id($magazine_id);
+        $magazine_article_list = $magazineObj->getMagazinePublishedArticleList();
+        $magazine_title  =  $magazineObj->getMagazinetitle();
+        
+
+
+        /* -------header value results------------ */
+        $data['all_article'] = $magazineObj->getMagazineAllArticleCount();
+        $data['magazine_publish_article'] = $magazineObj->getMagazinePublishArticle();
+        $data['magazine_deleted_article'] = $magazineObj->getMagazineDeletedArticle();
+        $data['magazine_review_article'] = $magazineObj->getMagazineReviewArticle();
+        $data['magazine_draft_article'] = $magazineObj->getMagazineDraftArticle();
+        /* ---------------------------------------- */
+
+        $data['data_result'] = $magazine_article_list;
+        $data['magazine_title'] =  $magazine_title;
+        $data['language_result'] = $language_result;
+        $data['magazine_title'] = $magazine_title;
+        $data['magazine_id'] = $magazine_id;
+        $data['catagory_result'] = $catagory_result;        
+        $data['title'] = 'Wootrix';
+        $data['header'] = array('view' => 'templates/customerheader', 'data' => array());
+        $data['main_content'] = array('view' => 'customer_magazine/customer_publish_article', 'data' => array());
+        $data['footer'] = array('view' => 'templates/customerfooter', 'data' => array());
+        //$this->load->view('customer_view/customer_login', $data);
+        $this->load->view('templates/common', $data);
+    }
+    
+    /*CUSTOMER DRAFTED ARTICLE*/
+    public function customer_draftarticle(){  
+         if ($this->session->userdata('user_id') == "") {
+            redirect("customer_login");
+        }
+        
+        $magazineObj = $this->load->model("customer/customer_magazine_model");
+        $magazineObj = new customer_magazine_model();
+        $magazineObj->set_customer_id($this->session->userdata('user_id'));
+        
+        /* language sort by */
+        if ($_GET['lang'] != "") {
+            $magazineObj->set_language_id($_GET['lang']);
+//            $this->session->set_userdata('lang', $_GET['lang']);
+        }
+        if ($_GET['catagory'] != "") {
+            $status = $magazineObj->set_catagory_id($_GET['catagory']);
+        }
+        $language_result = $magazineObj->getLanguageList();
+        $catagory_result = $magazineObj->getCatagoryList();
+       
+         
+
+        $magazine_id = $_GET['rowId'];
+        $magazineObj->set_id($magazine_id);
+        $magazine_article_list = $magazineObj->getMagazineDrafArticle();
+        $magazine_title  =  $magazineObj->getMagazinetitle();
+        
+
+
+        /* -------header value results------------ */
+        $data['all_article'] = $magazineObj->getMagazineAllArticleCount();
+        $data['magazine_publish_article'] = $magazineObj->getMagazinePublishArticle();
+        $data['magazine_deleted_article'] = $magazineObj->getMagazineDeletedArticle();
+        $data['magazine_review_article'] = $magazineObj->getMagazineReviewArticle();
+        $data['magazine_draft_article'] = $magazineObj->getMagazineDraftArticle();
+        
+        /* ---------------------------------------- */
+
+        $data['data_result'] = $magazine_article_list;
+        $data['magazine_title'] =  $magazine_title;
+        $data['language_result'] = $language_result;
+        $data['magazine_title'] = $magazine_title;
+        $data['magazine_id'] = $magazine_id;
+        $data['catagory_result'] = $catagory_result;        
+        $data['title'] = 'Wootrix';
+        $data['header'] = array('view' => 'templates/customerheader', 'data' => array());
+        $data['main_content'] = array('view' => 'customer_magazine/customer_draft_article', 'data' => array());
+        $data['footer'] = array('view' => 'templates/customerfooter', 'data' => array());
+        //$this->load->view('customer_view/customer_login', $data);
+        $this->load->view('templates/common', $data);
+    
+    }
+    
+    /*Magazine deleted article list*/
+    public function customer_magazine_deleted_article_list(){
+        if ($this->session->userdata('user_id') == ""){
+              redirect("customer_login");
+          }
+        
+        $magazineObj = $this->load->model("customer/customer_magazine_model");
+        $magazineObj = new customer_magazine_model();      
+        
+       
+        
+        /* language sort by */
+        if ($_GET['lang'] != "") {
+            $magazineObj->set_language_id($_GET['lang']);           
+        }
+        if ($_GET['catagory'] != "") {
+            $status = $magazineObj->set_catagory_id($_GET['catagory']);
+        }
+         $language_result = $magazineObj->getLanguageList();
+         $catagory_result = $magazineObj->getCatagoryList();
+       
+
+        $magazine_id = $_GET['rowId'];
+        $magazineObj->set_id($magazine_id);
+        $magazine_article_list = $magazineObj->getMagazineDeletedArticleList();
+        $magazine_title  =  $magazineObj->getMagazinetitle();      
+
+
+        /* -------header value results------------ */
+        $data['all_article'] = $magazineObj->getMagazineAllArticleCount();
+        $data['magazine_publish_article'] = $magazineObj->getMagazinePublishArticle();
+        $data['magazine_deleted_article'] = $magazineObj->getMagazineDeletedArticle();
+        $data['magazine_review_article'] = $magazineObj->getMagazineReviewArticle();
+        $data['magazine_draft_article'] = $magazineObj->getMagazineDraftArticle();
+        /* ---------------------------------------- */
+
+        $data['data_result'] = $magazine_article_list;
+        $data['language_result'] = $language_result;
+        $data['magazine_title'] = $magazine_title;
+        $data['magazine_id'] = $magazine_id;
+        $data['catagory_result'] = $catagory_result;       
+        
+        $data['title'] = 'Wootrix';
+        $data['header'] = array('view' => 'templates/customerheader', 'data' => array());
+        $data['main_content'] = array('view' => 'customer_magazine/customer_deleted_article', 'data' => array());
+        $data['footer'] = array('view' => 'templates/customerfooter', 'data' => array());
+        //$this->load->view('customer_view/customer_login', $data);
+        $this->load->view('templates/common', $data);
+        
+    }
+    
+    /*Magazine review article list*/
+    public function customer_magazine_review_article_list(){
+        if ($this->session->userdata('user_id') == ""){
+              redirect("customer_login");
+          }
+        
+         $magazineObj = $this->load->model("customer/customer_magazine_model");
+        $magazineObj = new customer_magazine_model();
+          
+        $language_result = $magazineObj->getLanguageList();
+        $catagory_result = $magazineObj->getCatagoryList();
+        /* language sort by */
+        if ($_GET['lang'] != "") {
+            $magazineObj->set_language_id($_GET['lang']);
+            $this->session->set_userdata('lang', $_POST['lang']);
+        }
+        if ($_GET['catagory'] != "") {
+            $status = $magazineObj->set_catagory_id($_GET['catagory']);
+        }
+        
+        
+         
+
+        $magazine_id = $_GET['rowId'];
+        $magazineObj->set_id($magazine_id);
+        $magazine_article_list = $magazineObj->getMagazineReviewArticleList();
+        $magazine_title = $magazineObj->getMagazinetitle();
+
+        /* -------header value results------------ */
+        $data['all_article'] = $magazineObj->getMagazineAllArticleCount();
+        $data['magazine_publish_article'] = $magazineObj->getMagazinePublishArticle();
+        $data['magazine_deleted_article'] = $magazineObj->getMagazineDeletedArticle();
+        $data['magazine_review_article'] = $magazineObj->getMagazineReviewArticle();
+        $data['magazine_draft_article'] = $magazineObj->getMagazineDraftArticle();
+        /* ---------------------------------------- */
+
+        $data['data_result'] = $magazine_article_list;
+        $data['language_result'] = $language_result;
+        $data['magazine_title'] = $magazine_title;
+        $data['magazine_id'] = $magazine_id;
+        $data['catagory_result'] = $catagory_result;       
+        
+        $data['title'] = 'Wootrix';
+        $data['header'] = array('view' => 'templates/customerheader', 'data' => array());
+        $data['main_content'] = array('view' => 'customer_magazine/customer_review_article', 'data' => array());
+        $data['footer'] = array('view' => 'templates/customerfooter', 'data' => array());
+        //$this->load->view('customer_view/customer_login', $data);
+        $this->load->view('templates/common', $data);
+        
+    }
+    
+    
+    
+    /*SEND FOR REVIEW*/
+    
+    public function send_for_review(){
+
+        $magazineObj = $this->load->model("customer/customer_magazine_model");
+        $magazineObj = new customer_magazine_model();
+        $article_id = $_POST['val'];
+        $magazineObj->set_id($article_id);
+
+        $magazineObj->sendForReview();
+
+        exit();
+    }
+
+    public function send_for_publish(){
+
+        $magazineObj = $this->load->model("customer/customer_magazine_model");
+        $magazineObj = new customer_magazine_model();
+        $article_id = $_POST['val'];
+        $magazineObj->set_id($article_id);
+
+        $magazineObj->sendForPublish();
+
+        exit();
+    }
+  
+    /*RESTORE ARTICLE*/
+    
+    public function restore_article(){        
+        $magazineObj = $this->load->model("customer/customer_magazine_model");
+        $magazineObj = new customer_magazine_model(); 
+        //echo"<pre>"; print_r($_POST); die;
+        $article_id = $_GET['val'];
+        $magazineObj->set_id($article_id);
+        $magazineObj->setSource($_GET['source']);
+        $magazineObj->restoreArticle();
+        if($this->session->userdata('user_id')!=''){ 
+        redirect('customer_articlelist?&rowId='.$_GET['rowId']);
+        }else{
+        redirect('magazinearticlelist?&rowId='.$_GET['rowId']);
+        }
+    }
+   
+    /* PERMANENTLY DELETE*/
+    
+    public function shiftdelete_article(){
+        $magazineObj = $this->load->model("customer/customer_magazine_model");
+        $magazineObj = new customer_magazine_model();      
+        $article_id = $_GET['val'];
+        $magazineObj->setSource($_GET['source']);
+        $magazineObj->set_id($article_id);
+        $magazineObj->shiftDeleteArticle($_GET['rowId']);
+        if($this->session->userdata('user_id')!=''){ 
+        redirect('customer_articlelist?&rowId='.$_GET['rowId']);
+        }else{
+        redirect('magazinearticlelist?&rowId='.$_GET['rowId']);
+        }
+    }
+    
+    /*GET REJECTION REPORT*/
+    public function rejection_report_view(){
+        
+        $magazineObj = $this->load->model("customer/customer_magazine_model");
+        $magazineObj = new customer_magazine_model();      
+        $article_id = $_POST['Id'];
+        //echo"<pre>"; print_r($_POST);
+        $magazineObj->set_id($article_id);
+        $data_result = $magazineObj->getRejectionReport();
+        $result ="";
+        $article_report = $data_result['article_report'];
+        $title = $data_result['title'];        
+        /* SENDING STRING IN POP UP */
+        $result = "
+            <h4>Title:  $title</h4>
+                <div class= 'popup-inner clearfix'>
+            <p>Report: $article_report </p>
+                </div>
+        ";
+        echo $result;
+        exit();
+    }
+    
+    
+    /*------------------------------ARTICLE PART ---------------------------*/
+    
+    /**
+     * @author Techahead
+     * @access Public
+     * @param 
+     * @return 
+     * Index function load defaut 
+     * */
+    public function add_customer_article() {
+
+        if ($this->session->userdata('user_id') == "") {
+            redirect("customer_login");
+        }
+        $magazineObj = $this->load->model("customer/customer_magazine_model");
+        $magazineObj = new customer_magazine_model();
+        
+        $mag_id = $_REQUEST['mag'];
+        $magazineObj->set_magazine_id($mag_id);
+        $magazine_info = $magazineObj->getMagazineInfo();
+        
+        $language_result = $magazineObj->getLanguageList();
+        $catagory_list =  $magazineObj->getCatagoryList();
+        
+        if ($this->input->post("save") == "Save in Draft" || $this->input->post("publish") == "Send for Review") {
+           
+            $this->form_validation->set_rules('title', 'title', 'required');
+
+            if ($this->form_validation->run() == TRUE) {
+                //echo"<pre>"; print_r($_POST); die;
+                $magazineObj->set_title(trim($this->input->post("title")));
+                $magazineObj->set_media_type($this->input->post("media_type"));
+                
+                $magazineObj->set_language($this->input->post("language"));
+                $magazineObj->set_description($this->input->post("description"));
+                $magazineObj->set_tags($this->input->post("tags"));
+                $magazineObj->set_publish_from($this->input->post("datefrom"));
+                $magazineObj->set_publish_to($this->input->post("dateto"));
+                $magazineObj->set_magazine_id($this->input->post("magazine_id"));
+                $magazineObj->set_article_language($this->input->post("articlelang"));
+                if ($this->input->post("share")) {
+                    $magazineObj->set_allow_share($this->input->post("share"));
+                } else {
+                    $magazineObj->set_allow_share('0');
+                }
+                if ($this->input->post("comments")) {
+                    $magazineObj->set_allow_comment($this->input->post("comments"));
+                } else {
+                    $magazineObj->set_allow_comment('0');
+                }
+                if ($this->input->post("publish")) {
+                    $magazineObj->set_status('1');
+                } else {
+                    $magazineObj->set_status('4');
+                }
+                if ($this->input->post('catagory') != "") {
+                    $catagory_id = $this->input->post('catagory');
+                    $catagory_id_list = implode(",", $catagory_id);
+                    $magazineObj->set_catagory_id($catagory_id_list);
+                } else {
+                    $magazineObj->set_catagory_id('1');
+                }
+                $magazineObj->set_customer_id($this->session->userdata('user_id'));
+
+                /* cover_image['images'] */
+                /* FILE UPLOAD COVER PIC */
+                if ($_FILES['cover_pic']['error'] == 0) {
+
+                    $folderName = 'Article';
+                    $pathToUpload = './assets/' . $folderName;
+                    if (!is_dir($pathToUpload)) {
+                        mkdir($pathToUpload, 0777, TRUE);
+                    }
+
+                    $config['upload_path'] = './assets/Article/';
+                    // Location to save the image
+                    $config['allowed_types'] = 'gif|jpg|png|jpeg';
+                    $config['overwrite'] = FALSE;
+                    $config['remove_spaces'] = true;
+                    $config['maintain_ratio'] = TRUE;
+                    //$config['max_size'] = '0';
+                    $config['create_thumb'] = TRUE;
+                    //$config['width']  = 300;
+                    //$config['height'] = 200;
+
+                    $imgName = date("Y-m-d");
+                    $nameImg = "";
+                    $nameChar = "ABCDEFGHIJKLMNOPQRSTYUVWXYZabcdefghijklmnopqrstuvwxyz";
+
+                    for ($i = 0; $i < 3; $i++) {
+
+                        $nameImg .= $nameChar[rand(0, strlen($nameChar))];
+                    }
+                    $config['file_name'] = $imgName . $nameImg . "_org";
+
+                    $thumbName = $imgName;
+                    $this->load->library('upload', $config);
+                    //codeigniter default function
+
+                    if (!$this->upload->do_upload('cover_pic')) {
+                        echo $this->upload->display_errors();
+
+                        $this->session->set_flashdata("msg", "Image not uploaded");
+                        redirect("customer_articlelist?rowId=".$this->input->post("magazine_id"));
+                        // redirect  page if the load fails.
+                    } else {
+                        /* -------- CREATE THUMB ----------- */
+                        $config2['image_library'] = 'gd2';
+                        //$imgName . $nameImg . "_org";
+                        $config2['file_name'] = $this->upload->file_name;
+                        $config2['source_image'] = $this->upload->upload_path . $this->upload->file_name;
+                        $config2['new_image'] = './assets/Article/thumbs/';
+                        $config2['maintain_ratio'] = TRUE;
+                        //	$config2 ['create_thumb'] = TRUE;
+                        $config2['width'] = 80;
+                        $config2['height'] = 50;
+                        $config2['upload_path'] = './assets/Article/thumbs/';
+
+                        $folderName = 'thumbs';
+                        $pathToUpload = './assets/Article/' . $folderName;
+                        if (!is_dir($pathToUpload)) {
+                            mkdir($pathToUpload, 0777, TRUE);
+                        }
+                        $this->load->library('image_lib', $config2);
+
+                        if (!$this->image_lib->resize()) {
+
+                            echo $this->image_lib->display_errors();
+                            $msg = "Image resize failed";
+                        }
+                    }
+
+                    $magazineObj->set_image($this->upload->file_name);
+                }
+
+                /* UPLOAD  VEDIO TYPE */
+                if ($_FILES['video']['error'] == 0) {
+
+                    $config['upload_path'] = './assets/Article/';
+                    $config['allowed_types'] = '*';
+                    $config['max_size'] = '50000';
+                    $config['overwrite'] = FALSE;
+                    $config['remove_spaces'] = TRUE;
+                    $config['encrypt_name'] = TRUE;                    
+                    $this->load->library('upload', $config);
+                    $this->upload->initialize($config);
+                    if (!$this->upload->do_upload('video')) {
+                        // If there is any error
+                        $err_msgs .= 'Error in Uploading video ' . $this->upload->display_errors() . '<br />';
+                    } else {
+                        $currentTime = date("YmdHis");
+                            //echo $currentTime;die;
+                            $thumb_pathVideo = "./assets/Article/thumbs/";
+                            $baseUrlForVideo = base_url() . "assets/Article/" . $this->upload->file_name;
+                            //echo $baseUrlForVideo;die;
+                            $ffmpeg = 'ffmpeg';
+                            $video = $baseUrlForVideo;
+                            //$image = $this->upload->file_name . 'demo.jpeg';
+                            $image = $thumb_pathVideo . $this->upload->file_name . 'demo.jpeg';
+                            $thumbUrlPath = $image;
+
+                            // default time to get the image
+                            $second = 1;
+                            // get the duration and a random place within that
+                            $cmd = "$ffmpeg -i $video 2>&1";
+                            if (preg_match('/Duration: ((\d+):(\d+):(\d+))/s', `$cmd`, $time)) {
+                                $total = ($time[2] * 3600) + ($time[3] * 60) + $time[4];
+                                // $second = rand(1, ($total - 1));
+                                $second = 1;
+                            }
+                            // get the screenshot
+                            $cmd = shell_exec("$ffmpeg -i $video -deinterlace -an -ss $second -t 00:00:01 -r 1 -y -vcodec mjpeg -f mjpeg  $image 2>&1");
+                            
+                                           
+                        /* FILE NAME AS ARRAY */
+                        $magazineObj->set_video_path($this->upload->file_name);
+                    }
+                }
+
+                $insert_article = $magazineObj->InsertCustomerArticle();
+                if ($insert_article == TRUE) {
+                    $this->session->set_flashdata("susmsg", "Article created Successfully");
+                    redirect("customer_articlelist?rowId=".$this->input->post("magazine_id"));
+                } else {
+                    $this->session->set_flashdata("msg", "Article not created");
+                    redirect("customer_articlelist?rowId=".$this->input->post("magazine_id"));
+                }
+            }redirect("customer_articlelist?rowId=".$this->input->post("magazine_id"));
+        }
+        
+        $data['language_result'] = $language_result;
+        $data['catagory_result'] = $catagory_list; 
+        $data['magazine_info'] = $magazine_info;
+        $data['header'] = array('view' => 'templates/customerheader', 'data' => array());
+        $data['main_content'] = array('view' => 'customer_magazine/add_custo_article', 'data' => array());
+        $data['footer'] = array('view' => 'templates/customerfooter', 'data' => array());
+        //$this->load->view('customer_view/customer_login', $data);
+        $this->load->view('templates/common', $data);
+    }
+    
+    
+    
+     /* EDIT ARTICLE_____ */
+
+    public function edit_customer_article() {
+        //$this->checkIsUserMagazine();
+        if ($this->session->userdata('user_id') == "") {
+            redirect("customer_login");
+        }
+        $magazineObj = $this->load->model("customer/customer_magazine_model");
+        $magazineObj = new customer_magazine_model();
+
+        $customerId = $this->session->userdata('user_id');
+
+        $this->load->model("web/customer_model");
+        $customerObj = new customer_model();
+        $customerObj->set_id($customerId);
+        $autoPublish = $customerObj->getAutoPublishPermission();
+
+        $data['magazine_result'] = $magazineObj->getCustomerMagazine();
+        //echo"<pre>"; print_r($_REQUEST); die;
+        $mag_id = $_REQUEST['mag'];
+        $magazineObj->set_magazine_id($mag_id);
+        $magazine_info = $magazineObj->getMagazineInfo();
+        $article_id = $_REQUEST['rowId'];
+        $magazineObj->set_id($article_id);
+        /* GET CATAGORY WITH LANGUAGE*/
+        $magazineObj->setSource($_GET['source']);
+        $article_data = $magazineObj->getArticleDetails();
+        
+        $article_data_lang = $article_data['language_id'];         
+         $magazineObj->set_language_id($article_data_lang);
+          
+         $language_result = $magazineObj->getLanguageList();
+         
+         //$catagory_list =  $magazineObj->getCatagoryList();
+         //echo '<pre>';print_r($catagory_list);die;
+        
+        if($this->input->post("cancel") == "cancel"){
+            redirect("customer_articlelist?rowId=".$this->input->post("magazine_id")."&mag=".$this->input->post("article_id"));
+        }
+        if ($this->input->post("save") == "Salvar em Rascunho" || $this->input->post("publish") == "Enviar para Review"
+            || $this->input->post("real_publish") == "Publicar") {
+
+            $this->form_validation->set_rules('title', 'title', 'required');
+
+            if ($this->form_validation->run() == TRUE) {
+                //echo"<pre>"; print_r($_POST); die;
+                $magazineObj->set_title(trim($this->input->post("title")));
+                $magazineObj->set_media_type($this->input->post("media_type"));
+                
+                $magazineObj->set_language($this->input->post("language"));
+                $magazineObj->set_description($this->input->post("description"));
+                $magazineObj->set_tags($this->input->post("tags"));
+                $magazineObj->set_publish_from($this->input->post("datefrom"));
+                $magazineObj->set_publish_to($this->input->post("dateto"));
+                $magazineObj->set_magazine_id($this->input->post("magazine"));
+                $magazineObj->set_customer_id($this->session->userdata('user_id'));
+                $magazineObj->set_id($this->input->post("article_id"));
+                $magazineObj->set_article_language($this->input->post("articlelang"));
+
+                $groupsParam =  $this->input->post("group");
+                $locationsParam =  $this->input->post("location");
+                $disciplineParam =  $this->input->post("discipline");
+                $branchParam =  $this->input->post("branch");
+                
+                if ($this->input->post("share")) {
+                    $magazineObj->set_allow_share($this->input->post("share"));
+                } else {
+                    $magazineObj->set_allow_share('0');
+                }
+                if ($this->input->post("comments")) {
+                    $magazineObj->set_allow_comment($this->input->post("comments"));
+                } else {
+                    $magazineObj->set_allow_comment('0');
+                }
+
+                if( $this->input->post("real_publish") ){
+                    $magazineObj->set_status('2');
+                } else if ($this->input->post("publish")) {
+                    $magazineObj->set_status('1');
+                } else {
+                    $magazineObj->set_status('4');
+                }
+
+                if ($this->input->post('catagory') != "") {
+                    $catagory_id = $this->input->post('catagory');
+                    $catagory_id_list = implode(",", $catagory_id);
+                    $magazineObj->set_catagory_id($catagory_id_list);
+                } else {
+                    $magazineObj->set_catagory_id('1');
+                }
+               
+                if($this->input->post('embed')!=''){
+                $magazineObj->setEmbedVideo($this->input->post('embed'));
+                if($_FILES['thumb_embeded']['size']>0){ 
+                $embed_video_thumb=  $this->uploadEmbededThumb('Article');
+
+                $magazineObj->setEmbedThumbVideo($embed_video_thumb);
+                }
+                }
+                /* FILE UPLOAD COVER PIC */
+                if ($_FILES['cover_pic']['error'] == 0) {
+
+                    $folderName = 'Article';
+                    $pathToUpload = './assets/' . $folderName;
+                    if (!is_dir($pathToUpload)) {
+                        mkdir($pathToUpload, 0777, TRUE);
+                    }
+
+                    $config['upload_path'] = './assets/Article/';
+                    // Location to save the image
+                    $config['allowed_types'] = 'gif|jpg|png|jpeg';
+                    $config['overwrite'] = FALSE;
+                    $config['remove_spaces'] = true;
+                    $config['maintain_ratio'] = TRUE;
+                    //$config['max_size'] = '0';
+                    $config['create_thumb'] = TRUE;
+                    //$config['width']  = 300;
+                    //$config['height'] = 200;
+
+                    $imgName = date("Y-m-d");
+                    $nameImg = "";
+                    $nameChar = "ABCDEFGHIJKLMNOPQRSTYUVWXYZabcdefghijklmnopqrstuvwxyz";
+
+                    for ($i = 0; $i < 3; $i++) {
+
+                        $nameImg .= $nameChar[rand(0, strlen($nameChar))];
+                    }
+                    $config['file_name'] = $imgName . $nameImg . "_org";
+
+                    $thumbName = $imgName;
+                    $this->load->library('upload', $config);
+                    //codeigniter default function
+
+                    if (!$this->upload->do_upload('cover_pic')) {
+                        echo $this->upload->display_errors();
+
+                        $this->session->set_flashdata("msg", "Image not uploaded");
+                        redirect("editcustomerarticle?rowId=".$this->input->post("magazine_id")."&mag=".$this->input->post("article_id"));
+                        // redirect  page if the load fails.
+                    } else {
+                        /* -------- CREATE THUMB ----------- */
+                        $config2['image_library'] = 'gd2';
+                        //$imgName . $nameImg . "_org";
+                        $config2['file_name'] = $this->upload->file_name;
+                        $config2['source_image'] = $this->upload->upload_path . $this->upload->file_name;
+                        $config2['new_image'] = './assets/Article/thumbs/';
+                        $config2['maintain_ratio'] = TRUE;
+                        //	$config2 ['create_thumb'] = TRUE;
+                        $config2['width'] = 80;
+                        $config2['height'] = 50;
+                        $config2['upload_path'] = './assets/Article/thumbs/';
+
+                        $folderName = 'thumbs';
+                        $pathToUpload = './assets/Article/' . $folderName;
+                        if (!is_dir($pathToUpload)) {
+                            mkdir($pathToUpload, 0777, TRUE);
+                        }
+                        $this->load->library('image_lib', $config2);
+
+                        if (!$this->image_lib->resize()) {
+
+                            echo $this->image_lib->display_errors();
+                            $msg = "Image resize failed";
+                        }
+                    }
+
+                    $magazineObj->set_image($this->upload->file_name);
+                }
+
+                /* UPLOAD  VEDIO TYPE */
+                if ($_FILES['video']['error'] == 0) {
+
+                    $config['upload_path'] = './assets/Article/';
+                    $config['allowed_types'] = '*';
+                    $config['max_size'] = '';
+                    $config['overwrite'] = FALSE;
+                    $config['remove_spaces'] = TRUE;
+                    $config['encrypt_name'] = TRUE;
+                    
+                    $this->load->library('upload', $config);
+                    $this->upload->initialize($config);
+                    if (!$this->upload->do_upload('video')) {
+                        // If there is any error
+                        $err_msgs .= 'Error in Uploading video ' . $this->upload->display_errors() . '<br />';
+                    } else {
+                        $currentTime = date("YmdHis");
+                            //echo $currentTime;die;
+                            $thumb_pathVideo = "./assets/Article/thumbs/";
+                            $baseUrlForVideo = base_url() . "assets/Article/" . $this->upload->file_name;
+                            //echo $baseUrlForVideo;die;
+                            $ffmpeg = 'ffmpeg';
+                            $video = $baseUrlForVideo;
+                            //$image = $this->upload->file_name . 'demo.jpeg';
+                            $image = $thumb_pathVideo . $this->upload->file_name . 'demo.jpeg';
+                            $thumbUrlPath = $image;
+
+                            // default time to get the image
+                            $second = 1;
+                            // get the duration and a random place within that
+                            $cmd = "$ffmpeg -i $video 2>&1";
+                            if (preg_match('/Duration: ((\d+):(\d+):(\d+))/s', `$cmd`, $time)) {
+                                $total = ($time[2] * 3600) + ($time[3] * 60) + $time[4];
+                                // $second = rand(1, ($total - 1));
+                                $second = 1;
+                            }
+                            // get the screenshot
+                            $cmd = shell_exec("$ffmpeg -i $video -deinterlace -an -ss $second -t 00:00:01 -r 1 -y -vcodec mjpeg -f mjpeg  $image 2>&1");
+                            
+                                           
+                        /* FILE NAME AS ARRAY */
+                        $magazineObj->set_video_path($this->upload->file_name);
+                        $magazineObj->set_video_path($array);
+                        $magazineObj->UpdateVideoPath();
+                    }
+                }
+
+
+                $magazineObj->setSource($this->input->post('sourceName'));
+                
+                $update_article = $magazineObj->UpdateCustomerArticle($groupsParam, $locationsParam, $disciplineParam, $branchParam);
+                if ($update_article == TRUE) {
+                    $this->session->set_flashdata("susmsg", "Article updated Successfully");
+                    //$url = $_SERVER['HTTP_REFERER'];
+                    //redirect($url);
+                    redirect("customer_articlelist?rowId=".$this->input->post("magazine_id"));
+                } else {
+                    $this->session->set_flashdata("msg", "Article not updated");
+                    redirect("editcustomerarticle?rowId=".$this->input->post("magazine_id")."&mag=".$this->input->post("article_id"));
+                }
+            }
+        }
+
+        $this->load->model("web/group_model");
+        $model = new group_model();
+
+        $groups = $model->getAllGroups();
+        $locations = $model->getAllLocations();
+        $disciplines = $model->getAllDisciplines();
+        $branches = $model->getAllBranches();
+
+        $model->setId($article_id);
+
+        $articleGroups = $model->getArticleGroups();
+        $arrayGroups = [];
+
+        if( $articleGroups !== false ) {
+
+            foreach ($articleGroups as $group) {
+                $arrayGroups[] = $group["group_id"];
+            }
+
+        }
+
+        $articleLocation = $model->getArticleLocations();
+        $arrayLocations = [];
+
+        if( $articleLocation !== false ){
+
+            foreach( $articleLocation as $location ){
+                $arrayLocations[] = $location["location_id"];
+            }
+
+        }
+
+        $articleDiscipline = $model->getArticleDisciplines();
+        $arrayDisciplines = [];
+
+        if( $articleDiscipline !== false ){
+
+            foreach( $articleDiscipline as $discipline ){
+                $arrayDisciplines[] = $discipline["discipline_id"];
+            }
+
+        }
+
+        $articleBranch = $model->getArticleBranches();
+        $arrayBranches = [];
+
+        if( $articleBranch !== false ){
+
+            foreach( $articleBranch as $branch ){
+                $arrayBranches[] = $branch["branch"];
+            }
+
+        }
+
+        $data["groups"] = $groups;
+        $data["locations"] = $locations;
+        $data["disciplines"] = $disciplines;
+        $data["branches"] = $branches;
+        $data["articleGroups"] = $arrayGroups;
+        $data["articleLocation"] = $arrayLocations;
+        $data["articleDiscipline"] = $arrayDisciplines;
+        $data["articleBranch"] = $arrayBranches;
+        $data['language_result'] = $language_result;
+        $data['catagory_result'] = $catagory_list;
+        $data['article_data'] = $article_data;
+        $data['magazine_info'] = $magazine_info;
+        $data["auto_publish"] = $autoPublish;
+        $data['header'] = array('view' => 'templates/customerheader', 'data' => array());
+        $data['main_content'] = array('view' => 'customer_magazine/edit_custo_article', 'data' => array());
+        $data['footer'] = array('view' => 'templates/customerfooter', 'data' => array());        
+        $this->load->view('templates/common', $data);
+        
+    }
+    
+    
+    /*Perticular magazine Code*/
+    
+    public function customer_magazine_code(){
+        
+        if ($this->session->userdata('user_id') == ""){
+              redirect("customer_login");
+          }
+        
+        $magazineObj = $this->load->model("customer/customer_magazine_model");
+        $magazineObj = new customer_magazine_model();      
+         /*check Language Session */  
+          if($this->session->userdata('lang') !=""){
+              $magazineObj->set_language_id($this->session->userdata('lang'));
+          }
+       
+        $magazine_id = $_GET['mag'];
+        $magazineObj->set_magazine_id($magazine_id);
+        $magazineObj->set_id($magazine_id);
+        
+        $magazine_code_list  =  $magazineObj->getMagazineCodeList();      
+        $magazine_title = $magazineObj->getMagazinetitle();
+        /* ---------------------------------------- */
+
+        $data['data_result'] = $magazine_code_list;        
+        $data['magazine_title'] = $magazine_title;
+        $data['magazine_id'] = $magazine_id;
+             
+        
+        $data['title'] = 'Wootrix';
+        $data['header'] = array('view' => 'templates/customerheader', 'data' => array());
+        $data['main_content'] = array('view' => 'customer_magazine/magazine_code', 'data' => array());
+        $data['footer'] = array('view' => 'templates/customerfooter', 'data' => array());
+        //$this->load->view('customer_view/customer_login', $data);
+        $this->load->view('templates/common', $data);
+    }
+    
+    private function checkIsUserMagazine(){
+        $magazine=array();
+        $user_id=$this->session->userdata('user_id');
+        $qrGetMag=$this->db->query("select * from tbl_magazine where customer_id=$user_id and status='1'");
+        if($qrGetMag->num_rows()>0){
+            $resGetMag=$qrGetMag->result_array();
+        }else{
+            $resGetMag=array();
+        }
+        foreach($resGetMag as $temp){
+          $magazine[]=$temp['id'];  
+        }
+        if($this->uri->segment(1)=='editcustomerarticle'){
+        $magzine_id=$_GET['mag'];    
+        }else{
+        $magzine_id=$_GET['rowId'];
+        }
+        
+        if($magzine_id=='' or !in_array($magzine_id,$magazine)){
+            redirect('customer_magazinelist');
+        }
+        
+        
+        
+        
+    }
+    
+    // *** for phase 2 work
+    
+    public function addCustomerArticle(){
+
+        if ($this->session->userdata('user_id') == "") {
+            redirect("customer_login");
+        }
+
+        $this->load->model("customer/customer_magazine_model");
+        $magazineObj = new customer_magazine_model();
+
+        $customerId = $this->session->userdata('user_id');
+
+        $this->load->model("web/customer_model");
+        $customerObj = new customer_model();
+        $customerObj->set_id($customerId);
+        $autoPublish = $customerObj->getAutoPublishPermission();
+
+        $data['customer_magazine']=$magazineObj->getCustomerMagazine();
+//        echo "<pre>";print_r($data);die;
+        $language_result = $magazineObj->getLanguageList();
+//        echo '<pre>';print_r($data['customer_magazine']);die;
+
+        if ($this->input->post("save") == "Salvar em Rascunho" || $this->input->post("publish") == "Enviar para Review"
+                || $this->input->post("real_publish") == "Publicar") {
+
+            $this->form_validation->set_rules('title', 'title', 'required');
+
+            if ($this->form_validation->run() == TRUE) {
+                //echo "<pre>";print_r($_POST);die;
+                $magazineObj->set_title(trim($this->input->post("title")));
+                $magazineObj->set_media_type($this->input->post("media_type"));
+                $magazineObj->set_magazine_id($this->input->post('magazine'));
+                $magazineObj->set_language($this->input->post("language"));
+                $magazineObj->set_description($this->input->post("description"));
+                $magazineObj->set_tags($this->input->post("tags"));
+                $magazineObj->set_publish_from($this->input->post("datefrom"));
+                $magazineObj->set_publish_to($this->input->post("dateto"));
+                $magazineObj->set_link_url(trim($this->input->post('url')));
+                //$magazineObj->set_magazine_id($this->input->post("magazine_id"));
+                $magazineObj->set_article_language($this->input->post("articlelang"));
+
+                $groupsParam =  $this->input->post("group");
+                $locationsParam =  $this->input->post("location");
+                $disciplineParam =  $this->input->post("discipline");
+                $branchParam =  $this->input->post("branch");
+
+                if ($this->input->post("share")) {
+                    $magazineObj->set_allow_share($this->input->post("share"));
+                } else {
+                    $magazineObj->set_allow_share('0');
+                }
+                if ($this->input->post("comments")) {
+                    $magazineObj->set_allow_comment($this->input->post("comments"));
+                } else {
+                    $magazineObj->set_allow_comment('0');
+                }
+
+                if( $this->input->post("real_publish") ){
+                    $magazineObj->set_status('2');
+                } else if ($this->input->post("publish")) {
+                    $magazineObj->set_status('1');
+                } else {
+                    $magazineObj->set_status('4');
+                }
+
+                if ($this->input->post('catagory') != "") {
+                    $catagory_id = $this->input->post('catagory');
+                    $catagory_id_list = implode(",", $catagory_id);
+                    $magazineObj->set_catagory_id($catagory_id_list);
+                } else {
+                    $magazineObj->set_catagory_id('1');
+                }
+                if($this->input->post('embed')!=''){
+                $magazineObj->setEmbedVideo($this->input->post('embed'));
+                if($_FILES['thumb_embeded']['size']>0){
+                $embed_video_thumb=  $this->uploadEmbededThumb('Article');
+                $magazineObj->setEmbedThumbVideo($embed_video_thumb);
+                }
+                }
+                $magazineObj->set_customer_id($this->session->userdata('user_id'));
+
+
+
+                /* cover_image['images'] */
+                /* FILE UPLOAD COVER PIC */
+                //echo "<pre>";print_r($_FILES);die;
+                if ($_FILES['cover_pic']['error'] == 0) {
+
+                    $folderName = 'Article';
+                    $pathToUpload = './assets/' . $folderName;
+                    if (!is_dir($pathToUpload)) {
+                        mkdir($pathToUpload, 0777, TRUE);
+                    }
+
+                    $config['upload_path'] = './assets/Article/';
+                    // Location to save the image
+                    $config['allowed_types'] = 'gif|jpg|png|jpeg';
+                    $config['overwrite'] = FALSE;
+                    $config['remove_spaces'] = true;
+                    $config['maintain_ratio'] = TRUE;
+                    //$config['max_size'] = '0';
+                    $config['create_thumb'] = TRUE;
+                    //$config['width']  = 300;
+                    //$config['height'] = 200;
+
+                    $imgName = date("Y-m-d");
+                    $nameImg = "";
+                    $nameChar = "ABCDEFGHIJKLMNOPQRSTYUVWXYZabcdefghijklmnopqrstuvwxyz";
+
+                    for ($i = 0; $i < 3; $i++) {
+
+                        $nameImg .= $nameChar[rand(0, strlen($nameChar))];
+                    }
+                    $config['file_name'] = $imgName . $nameImg . "_org";
+
+                    $thumbName = $imgName;
+                    $this->load->library('upload', $config);
+                    //codeigniter default function
+
+                    if (!$this->upload->do_upload('cover_pic')) {
+                        echo $this->upload->display_errors();
+
+                        $this->session->set_flashdata("msg", "Image not uploaded");
+                        redirect("customer_articlelist?rowId=".$this->input->post("magazine_id"));
+                        // redirect  page if the load fails.
+                    } else {
+                        /* -------- CREATE THUMB ----------- */
+                        $config2['image_library'] = 'gd2';
+                        //$imgName . $nameImg . "_org";
+                        $config2['file_name'] = $this->upload->file_name;
+                        $config2['source_image'] = $this->upload->upload_path . $this->upload->file_name;
+                        $config2['new_image'] = './assets/Article/thumbs/';
+                        $config2['maintain_ratio'] = TRUE;
+                        //	$config2 ['create_thumb'] = TRUE;
+                        $config2['width'] = 80;
+                        $config2['height'] = 50;
+                        $config2['upload_path'] = './assets/Article/thumbs/';
+
+                        $folderName = 'thumbs';
+                        $pathToUpload = './assets/Article/' . $folderName;
+                        if (!is_dir($pathToUpload)) {
+                            mkdir($pathToUpload, 0777, TRUE);
+                        }
+                        $this->load->library('image_lib', $config2);
+
+                        if (!$this->image_lib->resize()) {
+
+                            echo $this->image_lib->display_errors();
+                            $msg = "Image resize failed";
+                        }
+                    }
+
+                    $magazineObj->set_image($this->upload->file_name);
+                }
+
+                /* UPLOAD  VEDIO TYPE */
+                if ($_FILES['video']['error'] == 0) {
+
+                    $config['upload_path'] = './assets/Article/';
+                    $config['allowed_types'] = '*';
+                    $config['max_size'] = '50000';
+                    $config['overwrite'] = FALSE;
+                    $config['remove_spaces'] = TRUE;
+                    $config['encrypt_name'] = TRUE;
+                    $this->load->library('upload', $config);
+                    $this->upload->initialize($config);
+                    if (!$this->upload->do_upload('video')) {
+                        // If there is any error
+                        $err_msgs .= 'Error in Uploading video ' . $this->upload->display_errors() . '<br />';
+                    } else {
+                        $currentTime = date("YmdHis");
+                            //echo $currentTime;die;
+                            $thumb_pathVideo = "./assets/Article/thumbs/";
+                            $baseUrlForVideo = base_url() . "assets/Article/" . $this->upload->file_name;
+                            //echo $baseUrlForVideo;die;
+                            $ffmpeg = 'ffmpeg';
+                            $video = $baseUrlForVideo;
+                            //$image = $this->upload->file_name . 'demo.jpeg';
+                            $image = $thumb_pathVideo . $this->upload->file_name . 'demo.jpeg';
+                            $thumbUrlPath = $image;
+
+                            // default time to get the image
+                            $second = 1;
+                            // get the duration and a random place within that
+                            $cmd = "$ffmpeg -i $video 2>&1";
+                            if (preg_match('/Duration: ((\d+):(\d+):(\d+))/s', `$cmd`, $time)) {
+                                $total = ($time[2] * 3600) + ($time[3] * 60) + $time[4];
+                                // $second = rand(1, ($total - 1));
+                                $second = 1;
+                            }
+                            // get the screenshot
+                            $cmd = shell_exec("$ffmpeg -i $video -deinterlace -an -ss $second -t 00:00:01 -r 1 -y -vcodec mjpeg -f mjpeg  $image 2>&1");
+
+
+                        /* FILE NAME AS ARRAY */
+                        $magazineObj->set_video_path($this->upload->file_name);
+                    }
+                }
+
+                $insert_article = $magazineObj->InsertCustomerArticle($groupsParam, $locationsParam, $disciplineParam, $branchParam);
+
+                if ($insert_article == TRUE) {
+                    $this->session->set_flashdata("susmsg", "Article created Successfully");
+                    redirect("customer_articlelist?rowId=".$this->input->post("magazine_id"));
+                } else {
+                    $this->session->set_flashdata("msg", "Article not created");
+                    redirect("customer_articlelist?rowId=".$this->input->post("magazine_id"));
+                }
+            }redirect("customer_articlelist?rowId=".$this->input->post("magazine_id"));
+        }
+
+        $this->load->model("web/group_model");
+        $model = new group_model();
+
+        $groups = $model->getAllGroups();
+        $locations = $model->getAllLocations();
+        $disciplines = $model->getAllDisciplines();
+        $branches = $model->getAllBranches();
+
+        $data["groups"] = $groups;
+        $data["locations"] = $locations;
+        $data["branches"] = $branches;
+        $data["disciplines"] = $disciplines;
+        $data['language_result'] = $language_result;
+        $data['catagory_result'] = $catagory_list;
+        $data['magazine_info'] = $magazine_info;
+        $data["auto_publish"] = $autoPublish;
+        $data['header'] = array('view' => 'templates/customerheader', 'data' => array());
+        $data['main_content'] = array('view' => 'customer_magazine/addCustomerArticle', 'data' => array());
+        $data['footer'] = array('view' => 'templates/customerfooter', 'data' => array());
+        //$this->load->view('customer_view/customer_login', $data);
+
+        $this->load->view('templates/common', $data);
+
+    }
+
+    public function editCustomerArticle(){
+
+        //$this->checkIsUserMagazine();
+        if ($this->session->userdata('user_id') == "") {
+            redirect("customer_login");
+        }
+        $magazineObj = $this->load->model("customer/customer_magazine_model");
+        $magazineObj = new customer_magazine_model();
+
+        $customerId = $this->session->userdata('user_id');
+
+        $this->load->model("web/customer_model");
+        $customerObj = new customer_model();
+        $customerObj->set_id($customerId);
+        $autoPublish = $customerObj->getAutoPublishPermission();
+
+        //echo"<pre>"; print_r($_REQUEST); die;
+        /*
+         * phase 2 changes
+        $mag_id = $_REQUEST['mag'];
+        $magazineObj->set_magazine_id($mag_id);
+        $magazine_info = $magazineObj->getMagazineInfo();
+        $article_id = $_REQUEST['rowId'];
+         * /
+         */
+        $article_id = $_REQUEST['rowId'];
+        $magazineObj->set_id($article_id);
+        $data['customer_magazine']=$magazineObj->getCustomerMagazine();
+        /* GET CATAGORY WITH LANGUAGE*/
+
+        $article_data = $magazineObj->getArticleDetails();
+
+        $article_data_lang = $article_data['language_id'];
+        $magazineObj->set_language_id($article_data_lang);
+
+        $language_result = $magazineObj->getLanguageList();
+
+        //$catagory_list =  $magazineObj->getCatagoryList();
+
+
+        if($this->input->post("cancel") == "cancel"){
+            redirect("customer_articlelist?rowId=".$this->input->post("magazine_id")."&mag=".$this->input->post("article_id"));
+        }
+        if ($this->input->post("save") == "Salvar em Rascunho" || $this->input->post("publish") == "Enviar para Review"
+            || $this->input->post("real_publish") == "Publicar") {
+
+            $this->form_validation->set_rules('title', 'title', 'required');
+
+            if ($this->form_validation->run() == TRUE) {
+                //echo"<pre>"; print_r($_POST); die;
+                $magazineObj->set_title(trim($this->input->post("title")));
+                $magazineObj->set_media_type($this->input->post("media_type"));
+
+                $magazineObj->set_language($this->input->post("language"));
+                $magazineObj->set_description($this->input->post("description"));
+                $magazineObj->set_tags($this->input->post("tags"));
+                $magazineObj->set_publish_from($this->input->post("datefrom"));
+                $magazineObj->set_publish_to($this->input->post("dateto"));
+                $magazineObj->set_magazine_id($this->input->post("magazine_id"));
+
+                $magazineObj->set_magazine_id($this->input->post("magazine"));
+                $magazineObj->set_customer_id($this->session->userdata('user_id'));
+                $magazineObj->set_id($this->input->post("article_id"));
+                $magazineObj->set_article_language($this->input->post("articlelang"));
+
+                $groupsParam =  $this->input->post("group");
+                $locationsParam =  $this->input->post("location");
+                $disciplineParam =  $this->input->post("discipline");
+                $branchParam =  $this->input->post("branch");
+
+                if ($this->input->post("share")) {
+                    $magazineObj->set_allow_share($this->input->post("share"));
+                } else {
+                    $magazineObj->set_allow_share('0');
+                }
+                if ($this->input->post("comments")) {
+                    $magazineObj->set_allow_comment($this->input->post("comments"));
+                } else {
+                    $magazineObj->set_allow_comment('0');
+                }
+
+                if( $this->input->post("real_publish") ){
+                    $magazineObj->set_status('2');
+                } else if ($this->input->post("publish")) {
+                    $magazineObj->set_status('1');
+                } else {
+                    $magazineObj->set_status('4');
+                }
+
+                if ($this->input->post('catagory') != "") {
+                    $catagory_id = $this->input->post('catagory');
+                    $catagory_id_list = implode(",", $catagory_id);
+                    $magazineObj->set_catagory_id($catagory_id_list);
+                } else {
+                    $magazineObj->set_catagory_id('1');
+                }
+                if($this->input->post('embed')!=''){
+                    $magazineObj->setEmbedVideo($this->input->post('embed'));
+                    if($_FILES['thumb_embeded']['error']=='0'){
+                        $embed_video_thumb=  $this->uploadEmbededThumb('Article');
+                    }
+                    $magazineObj->setEmbedThumbVideo($embed_video_thumb);
+                }
+                /* FILE UPLOAD COVER PIC */
+                if ($_FILES['cover_pic']['error'] == 0) {
+
+                    $folderName = 'Article';
+                    $pathToUpload = './assets/' . $folderName;
+                    if (!is_dir($pathToUpload)) {
+                        mkdir($pathToUpload, 0777, TRUE);
+                    }
+
+                    $config['upload_path'] = './assets/Article/';
+                    // Location to save the image
+                    $config['allowed_types'] = 'gif|jpg|png|jpeg';
+                    $config['overwrite'] = FALSE;
+                    $config['remove_spaces'] = true;
+                    $config['maintain_ratio'] = TRUE;
+                    //$config['max_size'] = '0';
+                    $config['create_thumb'] = TRUE;
+                    //$config['width']  = 300;
+                    //$config['height'] = 200;
+
+                    $imgName = date("Y-m-d");
+                    $nameImg = "";
+                    $nameChar = "ABCDEFGHIJKLMNOPQRSTYUVWXYZabcdefghijklmnopqrstuvwxyz";
+
+                    for ($i = 0; $i < 3; $i++) {
+
+                        $nameImg .= $nameChar[rand(0, strlen($nameChar))];
+                    }
+                    $config['file_name'] = $imgName . $nameImg . "_org";
+
+                    $thumbName = $imgName;
+                    $this->load->library('upload', $config);
+                    //codeigniter default function
+
+                    if (!$this->upload->do_upload('cover_pic')) {
+                        echo $this->upload->display_errors();
+
+                        $this->session->set_flashdata("msg", "Image not uploaded");
+                        redirect("editcustomerarticle?rowId=".$this->input->post("magazine_id")."&mag=".$this->input->post("article_id"));
+                        // redirect  page if the load fails.
+                    } else {
+                        /* -------- CREATE THUMB ----------- */
+                        $config2['image_library'] = 'gd2';
+                        //$imgName . $nameImg . "_org";
+                        $config2['file_name'] = $this->upload->file_name;
+                        $config2['source_image'] = $this->upload->upload_path . $this->upload->file_name;
+                        $config2['new_image'] = './assets/Article/thumbs/';
+                        $config2['maintain_ratio'] = TRUE;
+                        //	$config2 ['create_thumb'] = TRUE;
+                        $config2['width'] = 80;
+                        $config2['height'] = 50;
+                        $config2['upload_path'] = './assets/Article/thumbs/';
+
+                        $folderName = 'thumbs';
+                        $pathToUpload = './assets/Article/' . $folderName;
+                        if (!is_dir($pathToUpload)) {
+                            mkdir($pathToUpload, 0777, TRUE);
+                        }
+                        $this->load->library('image_lib', $config2);
+
+                        if (!$this->image_lib->resize()) {
+
+                            echo $this->image_lib->display_errors();
+                            $msg = "Image resize failed";
+                        }
+                    }
+
+                    $magazineObj->set_image($this->upload->file_name);
+                }
+
+                /* UPLOAD  VEDIO TYPE */
+                if ($_FILES['video']['error'] == 0) {
+
+                    $config['upload_path'] = './assets/Article/';
+                    $config['allowed_types'] = '*';
+                    $config['max_size'] = '';
+                    $config['overwrite'] = FALSE;
+                    $config['remove_spaces'] = TRUE;
+                    $config['encrypt_name'] = TRUE;
+
+                    $this->load->library('upload', $config);
+                    $this->upload->initialize($config);
+                    if (!$this->upload->do_upload('video')) {
+                        // If there is any error
+                        $err_msgs .= 'Error in Uploading video ' . $this->upload->display_errors() . '<br />';
+                    } else {
+                        $currentTime = date("YmdHis");
+                        //echo $currentTime;die;
+                        $thumb_pathVideo = "./assets/Article/thumbs/";
+                        $baseUrlForVideo = base_url() . "assets/Article/" . $this->upload->file_name;
+                        //echo $baseUrlForVideo;die;
+                        $ffmpeg = 'ffmpeg';
+                        $video = $baseUrlForVideo;
+                        //$image = $this->upload->file_name . 'demo.jpeg';
+                        $image = $thumb_pathVideo . $this->upload->file_name . 'demo.jpeg';
+                        $thumbUrlPath = $image;
+
+                        // default time to get the image
+                        $second = 1;
+                        // get the duration and a random place within that
+                        $cmd = "$ffmpeg -i $video 2>&1";
+                        if (preg_match('/Duration: ((\d+):(\d+):(\d+))/s', `$cmd`, $time)) {
+                            $total = ($time[2] * 3600) + ($time[3] * 60) + $time[4];
+                            // $second = rand(1, ($total - 1));
+                            $second = 1;
+                        }
+                        // get the screenshot
+                        $cmd = shell_exec("$ffmpeg -i $video -deinterlace -an -ss $second -t 00:00:01 -r 1 -y -vcodec mjpeg -f mjpeg  $image 2>&1");
+
+
+                        /* FILE NAME AS ARRAY */
+                        $magazineObj->set_video_path($this->upload->file_name);
+                        $magazineObj->set_video_path($array);
+                        $magazineObj->UpdateVideoPath();
+                    }
+                }
+
+                $update_article = $magazineObj->UpdateCustomerArticle($groupsParam, $locationsParam, $disciplineParam, $branchParam);
+                if ($update_article == TRUE) {
+                    $this->session->set_flashdata("susmsg", "Article updated Successfully");
+                    //$url = $_SERVER['HTTP_REFERER'];
+                    //redirect($url);
+                    redirect("customer_articlelist?rowId=".$this->input->post("magazine_id"));
+                } else {
+                    $this->session->set_flashdata("msg", "Article not updated");
+                    redirect("editcustomerarticle?rowId=".$this->input->post("magazine_id")."&mag=".$this->input->post("article_id"));
+                }
+            }
+        }
+
+        $this->load->model("web/group_model");
+        $model = new group_model();
+
+        $groups = $model->getAllGroups();
+        $locations = $model->getAllLocations();
+        $disciplines = $model->getAllDisciplines();
+        $branches = $model->getAllBranches();
+
+        $model->setId($article_id);
+
+        $articleGroups = $model->getArticleGroups();
+        $arrayGroups = [];
+
+        if( $articleGroups !== false ) {
+
+            foreach ($articleGroups as $group) {
+                $arrayGroups[] = $group["group_id"];
+            }
+
+        }
+
+        $articleLocation = $model->getArticleLocations();
+        $arrayLocations = [];
+
+        if( $articleLocation !== false ){
+
+            foreach( $articleLocation as $location ){
+                $arrayLocations[] = $location["location_id"];
+            }
+
+        }
+
+        $articleDiscipline = $model->getArticleDisciplines();
+        $arrayDisciplines = [];
+
+        if( $articleDiscipline !== false ){
+
+            foreach( $articleDiscipline as $discipline ){
+                $arrayDisciplines[] = $discipline["discipline_id"];
+            }
+
+        }
+
+        $articleBranch = $model->getArticleBranches();
+        $arrayBranches = [];
+
+        if( $articleBranch !== false ){
+
+            foreach( $articleBranch as $branch ){
+                $arrayBranches[] = $branch["branch"];
+            }
+
+        }
+
+        $data["groups"] = $groups;
+        $data["locations"] = $locations;
+        $data["disciplines"] = $disciplines;
+        $data["branches"] = $branches;
+        $data["articleGroups"] = $arrayGroups;
+        $data["articleLocation"] = $arrayLocations;
+        $data["articleDiscipline"] = $arrayDisciplines;
+        $data["articleBranch"] = $arrayBranches;
+        $data['language_result'] = $language_result;
+        $data['catagory_result'] = $catagory_list;
+        $data['article_data'] = $article_data;
+        $data['magazine_info'] = $magazine_info;
+        $data["auto_publish"] = $autoPublish;
+        $data['header'] = array('view' => 'templates/customerheader', 'data' => array());
+        $data['main_content'] = array('view' => 'customer_magazine/editCustomerArticle', 'data' => array());
+        $data['footer'] = array('view' => 'templates/customerfooter', 'data' => array());
+        $this->load->view('templates/common', $data);
+
+
+    }
+
+    public function CustomerArticlelist(){
+        
+        
+        
+         if ($this->session->userdata('user_id') == "") {
+            redirect("customer_login");
+        }
+        
+        $this->checkIsUserMagazine();
+        $magazineObj = $this->load->model("customer/customer_magazine_model");
+        $magazineObj = new customer_magazine_model();
+        $magazineObj->set_customer_id($this->session->userdata('user_id'));
+        
+               
+        /* language sort by */
+        if ($_GET['lang'] != "") { 
+            $magazineObj->set_language_id($_GET['lang']);
+            
+        }
+//        if ($_GET['catagory'] != "") {
+//            $status = $magazineObj->set_catagory_id($_GET['catagory']);
+//        }
+//        if($_GET['cat_lang']!=''){
+//           $magazineObj->set_article_language($_REQUEST['cat_lang']); 
+//        }
+        $language_result = $magazineObj->getLanguageList();
+        //$catagory_result = $magazineObj->getCatagoryList();
+         
+
+        $magazine_id = $_GET['rowId'];
+        $magazineObj->set_id($magazine_id);
+        //$magazine_article_list = $magazineObj->getMagazineArticleList();
+        /** phase 2 **/
+        $magazine_article_list = $magazineObj->getCustomerMagazineArticleListNew();
+        
+        $magazine_title  =  $magazineObj->getMagazinetitle();
+        
+         /* -------header value results------------ */
+        $data['all_article'] = $magazineObj->getMagazineAllArticleCount();        
+        $data['magazine_publish_article'] = $magazineObj->getMagazinePublishArticle();
+        $data['magazine_deleted_article'] = $magazineObj->getMagazineDeletedArticle();
+        $data['magazine_review_article'] = $magazineObj->getMagazineReviewArticle();
+        $data['magazine_draft_article'] = $magazineObj->getMagazineDraftArticle();
+        /* ---------------------------------------- */
+
+        $data['data_result'] = $magazine_article_list;
+        $data['language_result'] = $language_result;
+        $data['magazine_title'] = $magazine_title;
+        $data['magazine_id'] = $magazine_id;
+        //$data['catagory_result'] = $catagory_result;
+        
+        
+        $data['title'] = 'Wootrix';
+        $data['header'] = array('view' => 'templates/customerheader', 'data' => array());
+        $data['main_content'] = array('view' => 'customer_magazine/customerArticle', 'data' => array());
+        $data['footer'] = array('view' => 'templates/customerfooter', 'data' => array());
+        //$this->load->view('customer_view/customer_login', $data);
+        $this->load->view('templates/common', $data);
+  
+        
+        
+    }
+    
+    public function uploadEmbededThumb($folderName) {                              
+        $folderRegister = "./assets/$folderName/";                      //folder is used for upload path.
+
+        if (!is_dir($folderRegister)) {
+            mkdir($folderRegister, 0777, TRUE);            // providing permission 
+        }
+
+        $imgNameRegister = date("Y-m-d");
+        $nameImgRegister = "";
+        $nameCharRegister = "ABCDEFGHIJKLMNOPQRSTYUVWXYZabcdefghijklmnopqrstuvwxyz";
+
+        for ($i = 0; $i < 3; $i++) {
+
+            $nameImgRegister .= $nameCharRegister[rand(0, strlen($nameCharRegister))];
+        }
+        $imagenameActual = $_FILES['thumb_embeded']['name'];
+        $imagenameRegister = $imgNameRegister . $nameImgRegister . $imagenameActual;
+
+        $serverUrlRegister = $folderRegister . $imagenameRegister;
+        //print_r($_FILES);die;
+        if ($_FILES['thumb_embeded']['size'] > 0) {                              //checking the condition for uploading of file.
+            if (move_uploaded_file($_FILES['thumb_embeded']['tmp_name'], $serverUrlRegister)) {
+
+                $baseUrlForImage = "assets/$folderName/" . $imagenameRegister;
+            }
+        }
+        //echo $baseUrlForImage;die;
+        return $baseUrlForImage;
+    }
+
+    
+    
+}
+?>

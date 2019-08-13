@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<rss version="2.0">
+<channel>
+<title>Drives and Controls Magazine</title>
+<link>http://www.drivesncontrols.com</link>
+<description>Drives and Controls Magazine</description>
+<language>en</language>
+<pubDate>Wed, 18 Jan 2017 15:15:19 GMT</pubDate>
+<lastBuildDate>Wed, 18 Jan 2017 15:15:19 GMT</lastBuildDate>
+<docs>http://blogs.law.harvard.edu/tech/rss</docs>
+<generator>PFPS version 2.47</generator>
+<image>
+<title>Drives and Controls Magazine</title>
+<url>http://www.drivesncontrols.com/images/rss.gif</url>
+<link>http://www.drivesncontrols.com</link>
+</image>
+<item>
+<title>$30 Raspberry Pi computer module targets industrial uses</title>
+<link>http://www.drivesncontrols.com/news/fullstory.php/aid/5314/$30_Raspberry_Pi_computer_module_targets_industrial_uses.html</link>
+<description>A new version of the low-cost Raspberry Pi computer has been announced which is targeted at engineers developing embedded control systems. The Raspberry Pi 3 Compute Module (CM3) is based on the latest Raspberry Pi 3 architecture, with an ARM quad-core processor running at up to 1.2GHz, 1GB of LPDDR2 RAM and 4GB of on-board eMMC Flash storage. It has the same pin-out as the original Compute Module (CM1).</description>
+<pubDate>Mon, 16 Jan 2017 05:00:00 GMT</pubDate>
+<guid>http://www.drivesncontrols.com/news/fullstory.php/aid/5314</guid>
+</item>
+<item>
+<title>Servomotor with built-in screw drive is unique</title>
+<link>http://www.drivesncontrols.com/news/fullstory.php/aid/5313/Servomotor_with_built-in_screw_drive_is__91unique_92.html</link>
+<description>The German miniature servomotor specialist Wittenstein cyber motor has come up with a unique servomotor design which has a screw drive built into its housing. The motor, spindle drive, linear guide and encoder system form a ready-to-mount integrated linear actuator system suitable for use as a dynamic positioning axis, especially where space is limited. When combined with servo controls, the motors can form servo axes with multiple fieldbus interfaces.</description>
+<pubDate>Mon, 09 Jan 2017 05:00:00 GMT</pubDate>
+<guid>http://www.drivesncontrols.com/news/fullstory.php/aid/5313</guid>
+</item>
+<item>
+<title>Yaskawa invests 25m to expand its European activities</title>
+<link>http://www.drivesncontrols.com/news/fullstory.php/aid/5311/Yaskawa_invests__8025m_to_expand_its_European_activities.html</link>
+<description>The Japanese automation and robotics manufacturer Yaskawa is investing around 25m to expand its production facilities in Europe and to open a new robot manufacturing plant and European robotics development centre in Slovenia, creating around 200 jobs in the process.</description>
+<pubDate>Mon, 09 Jan 2017 05:00:00 GMT</pubDate>
+<guid>http://www.drivesncontrols.com/news/fullstory.php/aid/5311</guid>
+</item>
+<item>
+<title>Soft-starters with onboard PLCs adapt torque to the load</title>
+<link>http://www.drivesncontrols.com/news/fullstory.php/aid/5310/Soft-starters_with_onboard_PLCs_adapt_torque_to_the_load.html</link>
+<description>At the recent SPS IPC Drives show in Germany, WEG unveiled a family of high-end soft-starters with built-in PLC functions that provide programmable control of induction motors. The soft-PLC allows the output torque to be adapted to the load, and start-up currents to be minimised.</description>
+<pubDate>Mon, 09 Jan 2017 05:00:00 GMT</pubDate>
+<guid>http://www.drivesncontrols.com/news/fullstory.php/aid/5310</guid>
+</item>
+<item>
+<title>SPS IPC Drives 2016 Exclusive Show Report</title>
+<link>http://www.drivesncontrols.com/news/fullstory.php/aid/5305/SPS_IPC_Drives_2016_Exclusive_Show_Report.html</link>
+<description>Once again, the SPS IPC Drives automation and motion engineering mega-show, held every November in Nuremberg, Germany, proved to be a bellwether for the state of the sector  especially in Germany  and an indicator of the trends that are driving the industry. One noticeable theme was the number of collaborative efforts being set up by companies and organisations that might normally be considered rivals.</description>
+<pubDate>Fri, 06 Jan 2017 05:00:00 GMT</pubDate>
+<guid>http://www.drivesncontrols.com/news/fullstory.php/aid/5305</guid>
+</item>
+<item>
+<title>Linear transfer system carries on-board power</title>
+<link>http://www.drivesncontrols.com/news/fullstory.php/aid/5304/Linear_transfer_system_carries_on-board_power.html</link>
+<description>Mitsubishi Electric is the latest automation supplier to announce a linear transfer system for production lines. It has teamed up with the German production technology specialist, APT Automation, to develop a system called Smart Carriage that uniquely provides 240V AC and 24VC supplies on board its carriages, which can be used to power sensors, grippers and actuators, and to collect and store data.</description>
+<pubDate>Fri, 06 Jan 2017 05:00:00 GMT</pubDate>
+<guid>http://www.drivesncontrols.com/news/fullstory.php/aid/5304</guid>
+</item>
+<item>
+<title>Current monitor adapts to suit its application</title>
+<link>http://www.drivesncontrols.com/news/fullstory.php/aid/5303/Current_monitor_adapts_to_suit_its_application.html</link>
+<description>At the recent SPS IPC Drives show in Germany, Murrelektronik announced a modular current-monitoring system that can be adapted to suit an application. The Mico Pro system monitors control and load currents, identifies critical conditions, signals limit loads, and switches faulty channels off in a targeted way. A patented tripping process ensures that trips occur as late as possible, but as early as is necessary.</description>
+<pubDate>Fri, 06 Jan 2017 05:00:00 GMT</pubDate>
+<guid>http://www.drivesncontrols.com/news/fullstory.php/aid/5303</guid>
+</item>
+<item>
+<title>NASA's glass gears have cracking potential</title>
+<link>http://www.drivesncontrols.com/news/fullstory.php/aid/5302/NASA_s_glass_gears_have_cracking_potential.html</link>
+<description>US researchers, led by scientists and engineers from NASAs Jet Propulsion Laboratory in California, are developing gears made out of special materials that that can act both as a metal and as a glass. The materials can operate efficiently without lubricants in extremely cold conditions, such as those found on the surface of planets and moons. They could also slash the cost of strain-wave gears used in applications such as robotics.</description>
+<pubDate>Thu, 05 Jan 2017 05:00:00 GMT</pubDate>
+<guid>http://www.drivesncontrols.com/news/fullstory.php/aid/5302</guid>
+</item>
+<item>
+<title>US invests $25m in advanced motor technologies</title>
+<link>http://www.drivesncontrols.com/news/fullstory.php/aid/5301/US_invests_$25m_in_advanced_motor_technologies.html</link>
+<description>The US Department of Energy has announced nearly $25m of funding for 13 projects aimed at advancing technologies for high-efficiency electric motors. The Office of Energy Efficiency and Renewable Energys (EERE) Next Generation Electric Machines projects will address the limitations of traditional materials and designs by enhancing their efficiency, improving their performance, and reducing their weight.</description>
+<pubDate>Thu, 05 Jan 2017 05:00:00 GMT</pubDate>
+<guid>http://www.drivesncontrols.com/news/fullstory.php/aid/5301</guid>
+</item>
+<item>
+<title>VSD enhanced by Ethernet port and Web server</title>
+<link>http://www.drivesncontrols.com/news/fullstory.php/aid/5300/VSD_enhanced_by_Ethernet_port_and_Web_server.html</link>
+<description>Mitsubishi Electric used the recent SPS IPC Drives show in Germany to preview a new inverter with a built-in Web server and Ethernet TCP/IP connections. The FR-A800-E drive, which is based on the existing FR-A800, will provide enhanced functions for remote monitoring and parameter adjustment, as well as easier integration into networks. Mitsubishi says that single drive could control an entire machine or process, saving time and money for SIs and OEMs.</description>
+<pubDate>Thu, 05 Jan 2017 05:00:00 GMT</pubDate>
+<guid>http://www.drivesncontrols.com/news/fullstory.php/aid/5300</guid>
+</item>
+<item>
+<title>Open control platform supports your favourite tools</title>
+<link>http://www.drivesncontrols.com/news/fullstory.php/aid/5299/Open_control_platform_supports_your_favourite_tools.html</link>
+<description>At the recent SPS IPC Drives show, Phoenix Contact unveiled a future-proof open control platform, called PLCnext, that will allow engineers from different disciplines to work together simultaneously on projects, each in their preferred development environments. They can continue to use their chosen programming tools  such as Visual Studio, Eclipse and Matlab Simulink  and to link their program code, saving time and reducing the risk of errors.</description>
+<pubDate>Wed, 04 Jan 2017 05:00:00 GMT</pubDate>
+<guid>http://www.drivesncontrols.com/news/fullstory.php/aid/5299</guid>
+</item>
+<item>
+<title>Triple servoamps cut space requirements by up to 90%</title>
+<link>http://www.drivesncontrols.com/news/fullstory.php/aid/5298/Triple_servoamps_cut_space_requirements_by_up_to_90_25.html</link>
+<description>Schneider Electric has developed a drive system for servomotors that, it claims, could cut the need for space in control cabinets by up to 90% compared to conventional servo amplifiers, as well as reducing energy consumption by up to 40%. It unveiled the Lexium 62 ILD system at the recent SPS IPC Drives exhibition in Germany.</description>
+<pubDate>Wed, 04 Jan 2017 05:00:00 GMT</pubDate>
+<guid>http://www.drivesncontrols.com/news/fullstory.php/aid/5298</guid>
+</item>
+<item>
+<title>Industrial automation market will exceed $250bn by 2024</title>
+<link>http://www.drivesncontrols.com/news/fullstory.php/aid/5297/Industrial_automation_market__91will_exceed_$250bn_by_2024_92.html</link>
+<description>A new report from Transparency Market Research predicts that the global market for industrial automation equipment will expand from $183bn in 2015 to reach $352bn by the end of 2024  a CAGR of 6.6% over the period. Part of this growth will be driven by manufacturing industry revolutionising the way that it operates. Another driving factor is said to be a strong growth in demand for CNC technologies.</description>
+<pubDate>Wed, 04 Jan 2017 05:00:00 GMT</pubDate>
+<guid>http://www.drivesncontrols.com/news/fullstory.php/aid/5297</guid>
+</item>
+<item>
+<title>UK to invest £147m in six advanced manufacturing hubs</title>
+<link>http://www.drivesncontrols.com/news/fullstory.php/aid/5296/UK_to_invest__A3147m_in_six_advanced_manufacturing_hubs.html</link>
+<description>Six UK universities are to receive £60m of government funding to help establish research hubs aimed at improving manufacturing processes. A further £87.5m will be contributed by partners, academia and industry.</description>
+<pubDate>Wed, 04 Jan 2017 05:00:00 GMT</pubDate>
+<guid>http://www.drivesncontrols.com/news/fullstory.php/aid/5296</guid>
+</item>
+<item>
+<title>Basic 100Mbit version of CC-Link IE will cut costs</title>
+<link>http://www.drivesncontrols.com/news/fullstory.php/aid/5295/_91Basic_92_100Mbit_version_of_CC-Link_IE_will_cut_costs.html</link>
+<description>CLPA  the CC-Link Partner Association  has announced an addition to its CC-Link IE protocol that will allow device vendors to add CC-Link IE compatibility to any product with a 100Mbit Ethernet port. The new version, known as CC-Link IE Field Network Basic  or Basic Mode  can be implemented on devices or master controllers using software alone, allowing it to be added to existing products without making any hardware modifications. CLPA says that this will reduce the cost of development and time-to-market significantly.</description>
+<pubDate>Wed, 04 Jan 2017 05:00:00 GMT</pubDate>
+<guid>http://www.drivesncontrols.com/news/fullstory.php/aid/5295</guid>
+</item>
+<item>
+<title>Future enclosures will have built-in cooling 'like a fridge'</title>
+<link>http://www.drivesncontrols.com/news/fullstory.php/aid/5294/Future_enclosures_will_have_built-in_cooling__like_a_fridge_.html</link>
+<description>Ritttal used the recent SPS IPC Drives exhibition to preview its vision of the future where enclosures will have built-in cooling systems, avoiding the need to assemble cooling systems on enclosure roofs or side panels. It showed two prototypes: one with the cooling system at the top; the other at the side.</description>
+<pubDate>Wed, 04 Jan 2017 05:00:00 GMT</pubDate>
+<guid>http://www.drivesncontrols.com/news/fullstory.php/aid/5294</guid>
+</item>
+<item>
+<title>Dana buys Brevini's power transmission and fluid power activities</title>
+<link>http://www.drivesncontrols.com/news/fullstory.php/aid/5293/Dana_buys_Brevini_s_power_transmission_and_fluid_power_activities.html</link>
+<description>The US vehicle technologies supplier Dana Incorporated is acquiring the power transmission and fluid power businesses of the Italian Brevini Group in a deal that values the group at 325m, including the assumption of about 100m of debt. Dana plans initially to buy an 80% share in the Brevini businesses, with an option to acquire the remaining 20% by 2020.</description>
+<pubDate>Wed, 04 Jan 2017 05:00:00 GMT</pubDate>
+<guid>http://www.drivesncontrols.com/news/fullstory.php/aid/5293</guid>
+</item>
+<item>
+<title>Camera grabs videos before and after incidents</title>
+<link>http://www.drivesncontrols.com/news/fullstory.php/aid/5292/Camera_grabs_videos_before_and_after_incidents.html</link>
+<description>At the recent SPS IPC Drives show in Germany, Sick launched a camera that captures images and video sequences taken immediately before and after an event, to reveal the causes of plant malfunctions  such as safety barriers being ignored or items being removed from production lines. The camera can transmit event-controlled video sequences directly to the cloud, as well as storing them locally on an SD memory card.</description>
+<pubDate>Wed, 04 Jan 2017 05:00:00 GMT</pubDate>
+<guid>http://www.drivesncontrols.com/news/fullstory.php/aid/5292</guid>
+</item>
+<item>
+<title>Gateway links plants to the IoT, without any programming</title>
+<link>http://www.drivesncontrols.com/news/fullstory.php/aid/5291/Gateway_links_plants_to_the_IoT,_without_any_programming.html</link>
+<description>New from Bosch Rexroth is a gateway that links new or existing plants to the Internet of Things (IoT) without affecting the automation logic. The Linux-based IoT gateway uses Java apps and open interfaces. Configuration is Web-based, and needs no programming.</description>
+<pubDate>Wed, 04 Jan 2017 05:00:00 GMT</pubDate>
+<guid>http://www.drivesncontrols.com/news/fullstory.php/aid/5291</guid>
+</item>
+<item>
+<title>Motion control software adds support for OPC-UA</title>
+<link>http://www.drivesncontrols.com/news/fullstory.php/aid/5290/Motion_control_software_adds_support_for_OPC-UA.html</link>
+<description>Siemens has updated its Simotion motion control software, equipping it with object-oriented programming (OOP) and communications via OPC UA.</description>
+<pubDate>Wed, 04 Jan 2017 05:00:00 GMT</pubDate>
+<guid>http://www.drivesncontrols.com/news/fullstory.php/aid/5290</guid>
+</item>
+<item>
+<title>Schaeffler buys Compact Dynamics to boost drives activities</title>
+<link>http://www.drivesncontrols.com/news/fullstory.php/aid/5289/Schaeffler_buys_Compact_Dynamics_to_boost_drives_activities.html</link>
+<description>The automotive and industrial supplier Schaeffler is buying a 51% stake in Compact Dynamcs, the German manufacturer of high-performance motors currently owned by the power semiconductor specialist, Semikron. Under the deal, which gives Schaeffler the option of acquiring the remaining shares in 2018, it will also cooperate with Semikron in the development of power electronic systems and the integration of power electronic components. Financial details have not been released.</description>
+<pubDate>Wed, 21 Dec 2016 05:00:00 GMT</pubDate>
+<guid>http://www.drivesncontrols.com/news/fullstory.php/aid/5289</guid>
+</item>
+<item>
+<title>$18m backing for GE spin-off that re-invents the switch</title>
+<link>http://www.drivesncontrols.com/news/fullstory.php/aid/5288/$18m_backing_for_GE_spin-off_that__91re-invents_the_switch_92.html</link>
+<description>A new US company, spun off from GEs Global Research Center, claims to have re-invented the electronic switch, with a device that can handle kilowatts of power, yet offers the size, speed, cost, and reliability attractions of solid-state devices.</description>
+<pubDate>Thu, 08 Dec 2016 05:00:00 GMT</pubDate>
+<guid>http://www.drivesncontrols.com/news/fullstory.php/aid/5288</guid>
+</item>
+<item>
+<title>UK manufacturers aren't ready for new industrial revolution</title>
+<link>http://www.drivesncontrols.com/news/fullstory.php/aid/5287/UK_manufacturers__91aren_t_ready_for_new_industrial_revolution_92.html</link>
+<description>More than four in ten UK manufacturers (42%) say they have a good handle on what the fourth industrial revolution (4IR) will entail. But according to a new report from the manufacturers organisation, EEF, and Oracle, just one in ten (11%) believe that the UK is geared up for this crucial next industrial age. This suggests that in terms of being 4IR ready, there is still some way to go.</description>
+<pubDate>Mon, 05 Dec 2016 05:00:00 GMT</pubDate>
+<guid>http://www.drivesncontrols.com/news/fullstory.php/aid/5287</guid>
+</item>
+<item>
+<title>Free app could save manufacturers more than $1m a year</title>
+<link>http://www.drivesncontrols.com/news/fullstory.php/aid/5286/Free_app_could_save_manufacturers_more_than_$1m_a_year.html</link>
+<description>Rockwell Automation has released a free app for mobile devices such as smartphones that will allow engineering teams to collaborate and share knowledge, view live production statistics, interact with machine alarms and troubleshoot machines. Rockwell estimates that each team member using the FactoryTalk TeamOne app could save 1% of their workday, or 33 seconds per shift  equivalent to an annual saving of more than $1.4m for a manufacturer with about 2,000 production staff.</description>
+<pubDate>Fri, 02 Dec 2016 05:00:00 GMT</pubDate>
+<guid>http://www.drivesncontrols.com/news/fullstory.php/aid/5286</guid>
+</item>
+<item>
+<title>Next-generation motion engineering system is unveiled</title>
+<link>http://www.drivesncontrols.com/news/fullstory.php/aid/5284/Next-generation_motion_engineering_system_is_unveiled.html</link>
+<description>At the recent SPS IPC Drives show in Germany, SEW-Eurodrive unveiled the first elements in a next-generation modular motion engineering system that will encompass all elements from controls, software and inverters, to motors. The new Movi-C products will be programmed using a single engineering software package, called Movisuite, that combines planning, configuration and diagnostics functions and will be used to set up everything from single inverters to complete machines.</description>
+<pubDate>Fri, 02 Dec 2016 05:00:00 GMT</pubDate>
+<guid>http://www.drivesncontrols.com/news/fullstory.php/aid/5284</guid>
+</item>
+<item>
+<title>45mm-wide twin-axis servodrive is worlds thinnest</title>
+<link>http://www.drivesncontrols.com/news/fullstory.php/aid/5283/45mm-wide_twin-axis_servodrive_is__91world_92s_thinnest_92.html</link>
+<description>The German motion engineer Stober has developed what it claims is the worlds narrowest multi-axis servodrive. The modular, rack-based SI6 system includes double-axis modules (2 x 5A) that are 45mm wide, resulting in six-axis systems that are 18cm wide, and 20-axis systems that are less than 50cm wide, including power supplies. The drives have a position, speed and current cycle time of 62.5µs.</description>
+<pubDate>Fri, 02 Dec 2016 05:00:00 GMT</pubDate>
+<guid>http://www.drivesncontrols.com/news/fullstory.php/aid/5283</guid>
+</item>
+<item>
+<title>Energy-saving VSD targets fans, pumps and compressors</title>
+<link>http://www.drivesncontrols.com/news/fullstory.php/aid/5282/Energy-saving_VSD_targets_fans,_pumps_and_compressors.html</link>
+<description>At last weeks SPS IPC Drives exhibition in Germany, ABB unveiled a new general-purpose variable-speed drive designed to optimise pump, fan and compressor operations, efficiently and simply. The compact ACS480 drive  which is available in ratings from 0.7511kW, 380480V  is said to offer users all of the functions they will need to control standard applications easily and intuitively.</description>
+<pubDate>Wed, 30 Nov 2016 05:00:00 GMT</pubDate>
+<guid>http://www.drivesncontrols.com/news/fullstory.php/aid/5282</guid>
+</item>
+<item>
+<title>Automation giants back OPC UA TSN to unify comms</title>
+<link>http://www.drivesncontrols.com/news/fullstory.php/aid/5281/Automation_giants_back_OPC_UA_TSN_to_unify_comms.html</link>
+<description>More than ten leading automation suppliers have joined forces to back OPC UA over Time Sensitive Networking (TSN) as a unifying communication system for use between industrial controllers and to the cloud. The companies  which include ABB, Bosch Rexroth, B&#x26;amp;R, Cisco, General Electric, Kuka, National Instruments (NI), Parker Hannifin, Schneider Electric, SEW-Eurodrive and TTTech  intend to support OPC UA TSN in their future products.</description>
+<pubDate>Tue, 29 Nov 2016 05:00:00 GMT</pubDate>
+<guid>http://www.drivesncontrols.com/news/fullstory.php/aid/5281</guid>
+</item>
+<item>
+<title>Danfoss enters MV drives market with novel kit-based design</title>
+<link>http://www.drivesncontrols.com/news/fullstory.php/aid/5280/Danfoss_enters_MV_drives_market_with_novel_kit-based_design.html</link>
+<description>Danfoss Drives has entered the $2.5bn medium-voltage drives market with a novel modular design that allows system integrators (SIs) and OEMs to customise their drives and to fit them more easily into tight spaces, such as on board ships. The Vacon 3000 drives will initially cover voltage ratings from 3.34.16kV, and power ratings up to 6MW. The range will probably be extended upwards at a later stage.</description>
+<pubDate>Tue, 29 Nov 2016 05:00:00 GMT</pubDate>
+<guid>http://www.drivesncontrols.com/news/fullstory.php/aid/5280</guid>
+</item>
+<item>
+<title>Private equity firm buys troubled Brammer for £221.5m</title>
+<link>http://www.drivesncontrols.com/news/fullstory.php/aid/5279/Private_equity_firm_buys_troubled_Brammer_for__A3221.5m.html</link>
+<description>The industrial distributor Brammer has been bought by the private equity firm Advent International for £221.5m. The deal follows a turbulent period for the MRO (maintenance, repair and overhaul) distributor, whose share value halved after it issued a profit warning in October. Brammers shares have plummeted in value by 80% since hitting a 16-year high in June 2014. </description>
+<pubDate>Mon, 28 Nov 2016 05:00:00 GMT</pubDate>
+<guid>http://www.drivesncontrols.com/news/fullstory.php/aid/5279</guid>
+</item>
+</channel>
+</rss>

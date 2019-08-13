@@ -1,0 +1,941 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Adhesives Assembly</title>
+    <description>
+      <![CDATA[Articles about epoxies, cyanoacrylates and other adhesives.]]>
+    </description>
+    <link>http://www.assemblymag.com/rss</link>
+    <language>en-us</language>
+    <item>
+      <title>New Mixer Optimizes Adhesive Performance</title>
+      <description>
+        <![CDATA[<p>Two-component adhesives are widely used for assembly in numerous industries, including aerospace, automotive and construction. Applied correctly, these adhesives provide strong, durable bonds.</p>]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93680</guid>
+      <pubDate>Fri, 06 Jan 2017 00:00:00 -0500</pubDate>
+      <link>http://www.assemblymag.com/articles/93680-new-mixer-optimizes-adhesive-performance</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Issues/2017/January/mixing/asb0117mix2.jpg?1483716026" type="image/jpeg" length="20754"/>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2017/January/mixing/asb0117mix1.jpg?1483715936" type="image/jpeg" fileSize="47937">
+        <media:title type="plain">1</media:title>
+        <media:description type="plain">Computer-aided design software and analysis of fluid dynamics played major roles in the development of a novel, square mixing architecture for two-component adhesives. Photo courtesy Nordson EFD
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2017/January/mixing/asb0117mix2.jpg?1483716026" type="image/jpeg" fileSize="20754">
+        <media:title type="plain">2</media:title>
+        <media:description type="plain">Although static mixers have long been based in round mixing chambers, mathematical analysis indicated that a square geometry would actually provide more efficient and effective mixing. Photo courtesy Nordson EFD
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2017/January/mixing/asb0117mix3.jpg?1483716065" type="image/jpeg" fileSize="20281">
+        <media:title type="plain">3</media:title>
+        <media:description type="plain">Once specific amounts of resin and hardener are metered out, the two materials pass through a static mixer to thoroughly blend the two fluids. This ensures complete curing and full realization of the adhesive&amp;rsquo;s properties. Photo courtesy Nordson EFD
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2017/January/mixing/asb0117mix4.jpg?1483716092" type="image/jpeg" fileSize="17263">
+        <media:title type="plain">4</media:title>
+        <media:description type="plain">EFD&amp;rsquo;s new square static mixer is 20 percent shorter than comparable square-geometry mixers. That means 30 percent less adhesive is retained in the mixer when it comes time for disposal. Photo courtesy Nordson EFD
+</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>Dispensing Thick Materials</title>
+      <author>camilloj@bnpmedia.com (Jim Camillo)</author>
+      <description>
+        <![CDATA[<p>Comparative claims can be positive or negative, subjective or objective. But, in every instance, their main purpose is illustrative. A common example is when someone claims that a person or process is &ldquo;as slow as molasses&rdquo; (which, by the way, has a viscosity of only 5,000 to 10,000 centipoise [cps]).</p>
+]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93678</guid>
+      <pubDate>Thu, 05 Jan 2017 00:00:00 -0500</pubDate>
+      <link>http://www.assemblymag.com/articles/93678-dispensing-thick-materials</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Issues/2017/January/dispensing/asb0117Dispensing1.jpg?1483642813" type="image/jpeg" length="64904"/>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2017/January/dispensing/asb0117Dispensing1.jpg?1483642813" type="image/jpeg" fileSize="64904">
+        <media:title type="plain">1</media:title>
+        <media:description type="plain">Thick materials include thermally conductive paste (shown), grease, sealant, solder paste, filled epoxy and form- or cast-in-place gaskets. Photo courtesy Graco Inc.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2017/January/dispensing/asb0117Dispensing2.jpg?1483642891" type="image/jpeg" fileSize="28139">
+        <media:title type="plain">2</media:title>
+        <media:description type="plain">The TS8100 positive displacement pump is designed to dispense materials ranging from low-viscosity coatings to high-viscosity greases, paste and flux. Photo courtesy Techcon Systems
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2017/January/dispensing/asb0117Dispensing3.jpg?1483642920" type="image/jpeg" fileSize="22510">
+        <media:title type="plain">3</media:title>
+        <media:description type="plain">A three-axis benchtop robot, the F4200N.1 has a work area of 200 square millimeters. Photo courtesy Ellsworth Adhesives
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2017/January/dispensing/asb0117Dispensing4.jpg?1483642951" type="image/jpeg" fileSize="27216">
+        <media:title type="plain">4</media:title>
+        <media:description type="plain">Rhino ratio pumps increase thick-material flowability by multiplying the air pressure level placed upon the material by a ratio of 48- or 65-to-1. Photo courtesy Nordson EFD
+</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>Adhesives for Speaker Assembly</title>
+      <description>
+        <![CDATA[<p>The loudspeaker market is booming. In addition to designing to an outstanding product, efficient production is crucial for a speaker manufacturer to stay ahead of its competitors. Adhesives play an important role in this, but the potential they offer for increasing productivity has yet to be fully realized.</p>]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93584</guid>
+      <pubDate>Mon, 03 Oct 2016 00:00:00 -0400</pubDate>
+      <link>http://www.assemblymag.com/articles/93584-adhesives-for-speaker-assembly</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Issues/2016/October/speakers/asb1016delo2.jpg?1475517426" type="image/jpeg" length="72083"/>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/October/speakers/asb1016delo2.jpg?1475517426" type="image/jpeg" fileSize="72083">
+        <media:title type="plain">1</media:title>
+        <media:description type="plain">Adhesive bonds the spider to the voice coil, also known as the bobbin, which is usually made of paper or a polyimide-coated fabric with wires wrapped around it. Illustration courtesy DELO Industrial Adhesives
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/October/speakers/asb1016delo1a.jpg?1475517510" type="image/jpeg" fileSize="77361">
+        <media:title type="plain">1a</media:title>
+        <media:description type="plain">A typical loudspeaker is bonded in at least seven places. Illustration courtesy DELO Industrial Adhesives
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/October/speakers/asb1016delo1b.jpg?1475517537" type="image/jpeg" fileSize="31601">
+        <media:title type="plain">1b</media:title>
+        <media:description type="plain">A typical loudspeaker is bonded in at least seven places. Illustration courtesy DELO Industrial Adhesives
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/October/speakers/asb1016delo3.jpg?1475517576" type="image/jpeg" fileSize="54569">
+        <media:title type="plain">3</media:title>
+        <media:description type="plain">One-component polyurethanes are often used to bond the spider to a basket. However, because these adhesives cure so slowly, manufacturers must maintain large quantities of work in process. Illustration courtesy DELO Industrial Adhesives
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/October/speakers/asb1016delo4.jpg?1475517609" type="image/jpeg" fileSize="43275">
+        <media:title type="plain">4</media:title>
+        <media:description type="plain">The pole piece (top) and yoke (bottom) are bonded to a magnet. Two-part methyl methacrylate adhesive is often used for this application. Illustration courtesy DELO Industrial Adhesives
+</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>Troubleshooting Adhesive Bonding Issues</title>
+      <description>
+        <![CDATA[<p>
+	High-tech adhesives are very reliable, and problems do not occur often. When used correctly, adhesives can resolve many design issues while also saving money, time and effort.</p>]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93560</guid>
+      <pubDate>Thu, 08 Sep 2016 00:00:00 -0400</pubDate>
+      <link>http://www.assemblymag.com/articles/93560-troubleshooting-adhesive-bonding-issues</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Issues/2016/september/adhesive/asb0916adhesive1.jpg?1473360809" type="image/jpeg" length="40458"/>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/september/adhesive/asb0916adhesive1.jpg?1473360809" type="image/jpeg" fileSize="40458">
+        <media:title type="plain">1</media:title>
+        <media:description type="plain">
+	Most adhesives work best when applied in just the right amount to create an optimal bond line. Too much or too little adhesive can produce variable bond strengths. Photo courtesy EpoxySet Inc.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/september/adhesive/asb0916adhesive2.jpg?1473360884" type="image/jpeg" fileSize="50958">
+        <media:title type="plain">2</media:title>
+        <media:description type="plain">
+	When testing bonded joints, engineers look for cohesive failure, that is, adhesive remaining on both substrates when pulled apart, as shown here. This can be achieved with proper preparation of the substrate surface. Photo courtesy EpoxySet Inc.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/september/adhesive/asb0916adhesive4.jpg?1473360925" type="image/jpeg" fileSize="37829">
+        <media:title type="plain">4</media:title>
+        <media:description type="plain">
+	Contamination is the most common cause of bond failures. Grease, oil or other impurities on the surface of the parts can potentially cause loss of adhesion. Photo courtesy EpoxySet Inc.
+</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>Resin Shields Orion Craft and Crew During Re-Entry</title>
+      <author>camilloj@bnpmedia.com (Jim Camillo)</author>
+      <description>
+        <![CDATA[<p>
+	NASA spokespeople frequently tell the public that space exploration is not for the faint of heart. But, this type of work is also not for the impatient.</p>
+]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93551</guid>
+      <pubDate>Thu, 08 Sep 2016 00:00:00 -0400</pubDate>
+      <link>http://www.assemblymag.com/articles/93551-resin-shields-orion-craft-and-crew-during-re-entry</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Issues/2016/september/AIA/asb0916AIA3.jpg?1473347055" type="image/jpeg" length="193846"/>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/september/AIA/asb0916AIA3.jpg?1473347055" type="image/jpeg" fileSize="193846">
+        <media:title type="plain">3</media:title>
+        <media:description type="plain">
+	Measuring 16.5 feet in diameter, the Orion heat shield is carefully lifted from its layup mold. Photo courtesy Lockheed Martin Space Systems Co.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/september/AIA/asb0916AIA4.jpg?1473347123" type="image/jpeg" fileSize="61852">
+        <media:title type="plain">4</media:title>
+        <media:description type="plain">
+	The Orion&amp;rsquo;s composite-resin heat shield and back shell protect the spacecraft and crew from extreme temperatures during re-entry. Photo courtesy TenCate Advanced Composites North America
+</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>Conformal Coatings Protect Automotive Electronics</title>
+      <description>
+        <![CDATA[<p>
+	Once a lagging market segment, automotive electronics has gained significant importance in recent years, as the industry, the culture and consumer expectations have changed. Safety and regulatory requirements for vehicles have increased, manufacturers have new warranty requirements, and what used to be &ldquo;luxury&rdquo; features are now expected to come standard with a new car.</p>
+]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93509</guid>
+      <pubDate>Thu, 04 Aug 2016 00:00:00 -0400</pubDate>
+      <link>http://www.assemblymag.com/articles/93509-conformal-coatings-protect-automotive-electronics</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Issues/2016/August/coatings/asb0816coating1.jpg?1470332783" type="image/jpeg" length="110334"/>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/August/coatings/asb0816coating1.jpg?1470332783" type="image/jpeg" fileSize="110334">
+        <media:title type="plain">1</media:title>
+        <media:description type="plain">
+	Today&amp;rsquo;s vehicles are equipped with myriad electronic devices, such as navigation systems and rear-view cameras. Conformal coatings protect the PCBs in these devices from the elements. Photo courtesy Dymax Corp.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/August/coatings/asb0816coating2.jpg?1470332865" type="image/jpeg" fileSize="88858">
+        <media:title type="plain">2</media:title>
+        <media:description type="plain">
+	Many options are available for curing conformal coatings. A conveyorized system is ideal for high-throughput operations. Photo courtesy Dymax Corp.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/August/coatings/asb0816coating3a.jpg?1470332919" type="image/jpeg" fileSize="212888">
+        <media:title type="plain">3</media:title>
+        <media:description type="plain">
+	Industry-approved conformal coatings fluoresce when exposed to black light (next). This helps operators see whether the coating has been applied completely and correctly. Photo courtesy Dymax Corp.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/August/coatings/asb0816coating3b.jpg?1470332947" type="image/jpeg" fileSize="170969">
+        <media:title type="plain">3b</media:title>
+        <media:description type="plain">
+	Industry-approved conformal coatings fluoresce when exposed to black light. This helps operators see whether the coating has been applied completely and correctly. Photo courtesy Dymax Corp.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/August/coatings/asb0816coating4.jpg?1470332975" type="image/jpeg" fileSize="68734">
+        <media:title type="plain">4</media:title>
+        <media:description type="plain">
+	A Cartesian robot equipped with a spray valve can reliably and repeatably apply conformal coatings to PCBs. Photo courtesy Dymax Corp.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/August/coatings/asb0816coating5.jpg?1470333002" type="image/jpeg" fileSize="99704">
+        <media:title type="plain">5</media:title>
+        <media:description type="plain">
+	Conformal coatings eliminate the need to create an enclosure to protect sensitive electronics. That saves space and reduces weight. Photo courtesy Dymax Corp.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/August/coatings/asb0816coating6.jpg?1470333016" type="image/jpeg" fileSize="168278">
+        <media:title type="plain">6</media:title>
+      </media:content>
+    </item>
+    <item>
+      <title>Form-in-place and cure-in-place gaskets</title>
+      <author>camilloj@bnpmedia.com (Jim Camillo)</author>
+      <description>
+        <![CDATA[<p>
+	When an assembly process proves to be even a tad too costly&mdash;even a penny or less per cycle&mdash;a cheaper alternative must be found. This is why many manufacturers have replaced die-cut or molded solid gaskets with form-inplace (FIP) and cure-in-place (CIP) liquid gaskets.</p>
+]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93470</guid>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 -0400</pubDate>
+      <link>http://www.assemblymag.com/articles/93470-form-in-place-and-cure-in-place-gaskets</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Issues/2016/July/gasket/asb0716Gasket1.jpg?1467133714" type="image/jpeg" length="88852"/>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/July/gasket/asb0716Gasket1.jpg?1467133714" type="image/jpeg" fileSize="88852">
+        <media:title type="plain">1</media:title>
+        <media:description type="plain">
+	Several suppliers offer UV-cure adhesives for FIP and CIP gaskets. Photo courtesy Hernon Manufacturing Inc.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/July/gasket/asb0716Gasket2.jpg?1467133825" type="image/jpeg" fileSize="48112">
+        <media:title type="plain">2</media:title>
+        <media:description type="plain">
+	Hollow gaskets feature an open center that can be circular, triangular or rectangular. Photo courtesy New Precision Technology Inc.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/July/gasket/asb0716Gasket3.jpg?1467133853" type="image/jpeg" fileSize="39184">
+        <media:title type="plain">3</media:title>
+        <media:description type="plain">
+	The 736HPA-NV high-pressure, balanced-spool valve applies industrial silicones at fluid pressures up to 2,500 psi. Photo courtesy Nordson EFD
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/July/gasket/asb0716Gasket4.jpg?1467133886" type="image/jpeg" fileSize="50583">
+        <media:title type="plain">4</media:title>
+        <media:description type="plain">
+	Foam gaskets are typically applied with a positive-displacement metering and mixing system. Photo courtesy Nordson Sealant Equipment
+</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>Adhered Fasteners Ease Assembly of Renault Concept Car</title>
+      <author>camilloj@bnpmedia.com (Jim Camillo)</author>
+      <description>
+        <![CDATA[<p>
+	ARaymond Automotive has provided custom fasteners, clips, connectors, adhesives and other materials to OEMs and Tier 1 suppliers around the world for nearly 20 years. Its engineers specialize in three processes (fastening, fluid connections and bonding) that are used in all areas of a vehicle.</p>
+]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93424</guid>
+      <pubDate>Fri, 03 Jun 2016 00:00:00 -0400</pubDate>
+      <link>http://www.assemblymag.com/articles/93424-adhered-fasteners-ease-assembly-of-renault-concept-car</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Issues/2016/June/AIA/asb0616AIA3.jpg?1464964566" type="image/jpeg" length="61303"/>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/June/AIA/asb0616AIA3.jpg?1464964566" type="image/jpeg" fileSize="61303">
+        <media:title type="plain">AIA 3</media:title>
+        <media:description type="plain">
+	Renault assemblers (left) use a special tool to press and heat a fastener against a TechBond PUR adhesive tablet at a specific attachment point underneath the EOLAB&amp;rsquo;s floor panels. Photo courtesy ARaymond
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/June/AIA/asb0616AIA4.jpg?1464964630" type="image/jpeg" fileSize="79170">
+        <media:title type="plain">AIA 4</media:title>
+        <media:description type="plain">
+	The Renault EOLAB consumes only 0.004 gallon of fuel and emits 1.2 ounces of CO2 per mile. An aerodynamic design&amp;mdash;including a streamlined body outline and side flaps&amp;mdash;is one reason for these performance benefits. Photo courtesy Renault
+</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>Finding Best Adhesive Isnât Shear Luck for Irish Design Firm</title>
+      <author>camilloj@bnpmedia.com (Jim Camillo)</author>
+      <description>
+        <![CDATA[<p>
+	Product designers, like manufacturers, face the daily challenge of creating original, quality products that fit market needs. Based in Dublin, the Klickity Co. has been meeting this challenge as both a product design firm and a manufacturer since 2010. Founded by industrial designer Kate Cronin, the company specializes in sustainable and affordable contemporary home accessories and LED-based gifts.</p>
+]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93384</guid>
+      <pubDate>Wed, 04 May 2016 00:00:00 -0400</pubDate>
+      <link>http://www.assemblymag.com/articles/93384-finding-best-adhesive-isnt-shear-luck-for-irish-design-firm</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Issues/2016/May/AIA/asb0516AIA3.jpg?1462386791" type="image/jpeg" length="81057"/>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/May/AIA/asb0516AIA3.jpg?1462386791" type="image/jpeg" fileSize="81057">
+        <media:title type="plain">aia 3</media:title>
+        <media:description type="plain">
+	The KLIP modular notice board consists of hexagonal polypropylene discs that are placed next to each other to form rows and columns, or overlapped to form clusters. Letters, notes and photos are clipped into disc slots as desired. Photo courtesy The Klickity Co.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/May/AIA/asb0516AIA4.jpg?1462386873" type="image/jpeg" fileSize="127545">
+        <media:title type="plain">aia 4</media:title>
+        <media:description type="plain">
+	The Klickity Co. uses PPX5 methyl methacrylate adhesive to bond a sticky pad to the back of each polypropylene KLIP hexagonal disc. Photo courtesy www.wipolymers.ie
+</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>How To Identify The Right Adhesive Dispensing Equipment For The Job</title>
+      <description>
+        <![CDATA[<p>
+	Rapid change has become the norm in today&rsquo;s marketplace. With it comes even greater pressure for new technologies to accommodate manufacturing needs to fulfill the consumer demand now and in the future.</p>
+]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93283</guid>
+      <pubDate>Tue, 08 Mar 2016 00:00:00 -0500</pubDate>
+      <link>http://www.assemblymag.com/articles/93283-how-to-identify-the-right-adhesive-dispensing-equipment-for-the-job</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Issues/2016/HowTo/asbht0316_magnum.jpg?1457451111" type="image/jpeg" length="91846"/>
+    </item>
+    <item>
+      <title>How To Use Structural Adhesives to Replace Welding and Mechanical Fasteners</title>
+      <description>
+        <![CDATA[<p>
+	In numerous industries and applications, high-performing structural adhesives are replacing standard joining methods such as welding and the use of mechanical fasteners like rivets and bolts.</p>]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/92741</guid>
+      <pubDate>Mon, 07 Mar 2016 00:00:00 -0500</pubDate>
+      <link>http://www.assemblymag.com/articles/92741-how-to-use-structural-adhesives-to-replace-welding-and-mechanical-fasteners</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Issues/2015/March/HowTo/asb0315HTG_hernon1.jpg?1425918552" type="image/jpeg" length="11700"/>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/March/HowTo/asb0315HTG_hernon11.jpg?1425918626" type="image/jpeg" fileSize="15871">
+        <media:title type="plain">hernon slide 1</media:title>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/March/HowTo/asb0315HTG_hernon3.jpg?1425918643" type="image/jpeg" fileSize="51260">
+        <media:title type="plain">hernon slide 2</media:title>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/March/HowTo/asb0315HTG_HernonLogo.jpg?1425918715" type="image/jpeg" fileSize="58996">
+        <media:title type="plain">hernon slide 3</media:title>
+      </media:content>
+    </item>
+    <item>
+      <title>Michigan State Is at the Leading Edge of Automotive Composites</title>
+      <author>webera@bnpmedia.com (Austin Weber)</author>
+      <description>
+        <![CDATA[<p>
+	Carbon-fiber composites offer a variety of advantages for car and truck manufacturers, including lighter weight, better corrosion resistance and higher impact strength than aluminum and steel.</p>]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93274</guid>
+      <pubDate>Tue, 01 Mar 2016 00:00:00 -0500</pubDate>
+      <link>http://www.assemblymag.com/articles/93274-michigan-state-is-at-the-leading-edge-of-automotive-composites</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Default_Images/responsive/campus.jpg?1433258966" type="image/jpeg" length="54636"/>
+    </item>
+    <item>
+      <title>Best Practices for UV-Cure Adhesives</title>
+      <author>camilloj@bnpmedia.com (Jim Camillo)</author>
+      <description>
+        <![CDATA[<p>
+	For optimal results when using UV-cure adhesives, engineers should shield the adhesive from light and match the wavelength of light to the adhesive.</p>
+]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93272</guid>
+      <pubDate>Tue, 01 Mar 2016 00:00:00 -0500</pubDate>
+      <link>http://www.assemblymag.com/articles/93272-best-practices-for-uv-cure-adhesives</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Issues/2016/March/adhesives/asb0316UVCure1.jpg?1456510903" type="image/jpeg" length="78534"/>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/March/adhesives/asb0316UVCure1.jpg?1456510903" type="image/jpeg" fileSize="78534">
+        <media:title type="plain">adhesives 1</media:title>
+        <media:description type="plain">
+	Encompass UV-cure acrylic urethane adhesives incorporate Ultra-Red fluorescing and See-Cure color-change technologies. The adhesives are blue, but become colorless when cured and appear red under low-intensity black light during inspection. Photo courtesy Dymax Corp.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/March/adhesives/asb0316UVCure2.jpg?1456510979" type="image/jpeg" fileSize="105877">
+        <media:title type="plain">adhesives 2</media:title>
+        <media:description type="plain">
+	Ammunition manufacturer Sellier and Bellot uses a custom Autosealer 5500 UV-adhesive dispensing and curing system to increase productivity. Photo courtesy Hernon Manufacturing Inc.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/March/adhesives/asb0316UVCure3.jpg?1456511009" type="image/jpeg" fileSize="94280">
+        <media:title type="plain">adhesives 3</media:title>
+      </media:content>
+    </item>
+    <item>
+      <title>New Dispensing, Curing Technology Improves Productivity</title>
+      <description>
+        <![CDATA[<p>
+	Whether it&rsquo;s a handheld pneumatic benchtop dispenser or a needle valve mounted to a Cartesian robot, there are many technologies for getting an adhesive, sealant or lubricant from a bulk supply and onto a part. By automating the dispensing process, assemblers can minimize waste, ensure quality and increase productivity.</p>]]>
+      </description>
+      <guid>http://www.assemblymag.com/blogs/14/post/93236</guid>
+      <pubDate>Tue, 09 Feb 2016 00:00:00 -0500</pubDate>
+      <link>http://www.assemblymag.com/blogs/14-assembly-blog/post/93236-new-dispensing-curing-technology-improves-productivity</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/blogimages/900-images/techcon900-16.jpg?1455042534" type="image/jpeg" length="188886"/>
+      <media:content url="http://www.assemblymag.com/ext/resources/blogimages/900-images/americanUV900-16.jpg?1455042655" type="image/jpeg" fileSize="306373">
+        <media:title type="plain">American Ultraviolet</media:title>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/blogimages/900-images/dopag900-16.jpg?1455042767" type="image/jpeg" fileSize="182708">
+        <media:title type="plain">Dopag dispensing</media:title>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/blogimages/900-images/nordsonEFD900-16.jpg?1455042898" type="image/jpeg" fileSize="295652">
+        <media:title type="plain">EFD dispensing</media:title>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/blogimages/900-images/hammamatsu900-16.jpg?1455043003" type="image/jpeg" fileSize="127118">
+        <media:title type="plain">hamamatsu curing</media:title>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/blogimages/900-images/fisnar900-16.jpg?1455043134" type="image/jpeg" fileSize="125614">
+        <media:title type="plain">Fisnar dispensing</media:title>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/blogimages/900-images/excelitas900-16.jpg?1455043196" type="image/jpeg" fileSize="193089">
+        <media:title type="plain">Omnicure</media:title>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/blogimages/900-images/scheugenpflug900-16.jpg?1455043306" type="image/jpeg" fileSize="111765">
+        <media:title type="plain">Scheugenpflug</media:title>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/blogimages/900-images/dymax900-16.jpg?1455043377" type="image/jpeg" fileSize="106291">
+        <media:title type="plain">dymax curing</media:title>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/blogimages/900-images/mta-automation900-16.jpg?1455043461" type="image/jpeg" fileSize="118980">
+        <media:title type="plain">MTA Automation</media:title>
+      </media:content>
+    </item>
+    <item>
+      <title>Nitinol: Taming the Magical Metal</title>
+      <author>webera@bnpmedia.com (Austin Weber)</author>
+      <description>
+        <![CDATA[<p>
+	Shape memory alloys offer numerous benefits, but cause assembly headaches.</p>]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93221</guid>
+      <pubDate>Mon, 01 Feb 2016 00:00:00 -0500</pubDate>
+      <link>http://www.assemblymag.com/articles/93221-nitinol-taming-the-magical-metal</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Issues/2016/February/nitinol/asb0216nitinol1.jpg?1454338567" type="image/jpeg" length="37665"/>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/February/nitinol/asb0216nitinol1.jpg?1454338567" type="image/jpeg" fileSize="37665">
+        <media:title type="plain">nitinol 1</media:title>
+        <media:description type="plain">
+	Engineers turned to nitinol when they created a new stent that features a 3D geometry. Photo courtesy Veryan Medical Ltd.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/February/nitinol/asb0216nitinol2.jpg?1454338655" type="image/jpeg" fileSize="28133">
+        <media:title type="plain">nitinol 2</media:title>
+        <media:description type="plain">
+	This nitinol medical device is used by surgeons to engage, reposition, release or extract stones in the kidney and the ureter. Photo courtesy Cook Medical LLC
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/February/nitinol/asb0216nitinol3.jpg?1454338694" type="image/jpeg" fileSize="117207">
+        <media:title type="plain">nitinol 3</media:title>
+        <media:description type="plain">
+	This atrial septal defect occluder consists of flexible nitinol wire mesh. Photo courtesy Occlutech International AB
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/February/nitinol/asb0216nitinol4.jpg?1454338735" type="image/jpeg" fileSize="60294">
+        <media:title type="plain">nitinol 4</media:title>
+        <media:description type="plain">
+	Nitinol is a metal that has magical properties, such as superelasticity and the ability to repeatedly retain its preformed shape. Photo courtesy Boston Scientific Corp.
+</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>Benchtop Dispensing Robots</title>
+      <author>camilloj@bnpmedia.com (Jim Camillo)</author>
+      <description>
+        <![CDATA[<p>
+	Simpler operating software and more optional features enhance the appeal and capabilities of Cartesian and SCARA robots.</p>]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93178</guid>
+      <pubDate>Mon, 04 Jan 2016 00:00:00 -0500</pubDate>
+      <link>http://www.assemblymag.com/articles/93178-benchtop-dispensing-robots</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Issues/2016/January/dispensing/asb0116Dispense1.jpg?1451938375" type="image/jpeg" length="66911"/>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/January/dispensing/asb0116Dispense1.jpg?1451938375" type="image/jpeg" fileSize="66911">
+        <media:title type="plain">dispensing 1</media:title>
+        <media:description type="plain">
+	The four-axis SR4404 SCARA robot covers a 440-millimeter-square work area. Here, it is dispensing a gasket material. Photo courtesy Nordson EFD
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/January/dispensing/asb0116Dispense2.jpg?1451938459" type="image/jpeg" fileSize="67221">
+        <media:title type="plain">dispensing 2</media:title>
+        <media:description type="plain">
+	On a Cartesian robot, the mounted syringe moves in straight lines along the X, Y and Z axes. Each axis is a separate linear actuator driven by a ballscrew or belt. Photo courtesy Janome IE USA Inc.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/January/dispensing/asb0116Dispense3.jpg?1451938490" type="image/jpeg" fileSize="81514">
+        <media:title type="plain">dispensing 3</media:title>
+        <media:description type="plain">
+	Dispense Works specializes in custom benchtop dispensing systems. Features on this model (RP1215) include a laser-displacement measurement sensor, a pick-and-place vacuum head, a 5-gallon-pail pump and an integrated digital scale. Photo courtesy Dispense Works Inc.
+</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>New Adhesives Are Strong, Versatile</title>
+      <author>sprovierij@bnpmedia.com (John Sprovieri)</author>
+      <description>
+        <![CDATA[<p>
+	The ASSEMBLY Show features not only the machinery needed to assemble parts, but also the supplies, such as adhesives.</p>]]>
+      </description>
+      <guid>http://www.assemblymag.com/blogs/14/post/93159</guid>
+      <pubDate>Tue, 22 Dec 2015 00:00:00 -0500</pubDate>
+      <link>http://www.assemblymag.com/blogs/14-assembly-blog/post/93159-new-adhesives-are-strong-versatile</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/blogimages/900-images/3m-acrylic900.jpg?1450808440" type="image/jpeg" length="126866"/>
+      <media:content url="http://www.assemblymag.com/ext/resources/blogimages/900-images/dymax900.jpg?1450808598" type="image/jpeg" fileSize="151421">
+        <media:title type="plain">Dymax UV cure adhesive</media:title>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/blogimages/900-images/hernon-adhesive900.jpg?1450808675" type="image/jpeg" fileSize="378397">
+        <media:title type="plain">Hernon methacrylate adhesive</media:title>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/blogimages/900-images/palm-labs900.jpg?1450808737" type="image/jpeg" fileSize="105027">
+        <media:title type="plain">Palm labs cyanoacrylate adhesive</media:title>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/blogimages/900-images/cyberbond900.jpg?1450808795" type="image/jpeg" fileSize="266583">
+        <media:title type="plain">Cyberbond UV adhesive</media:title>
+      </media:content>
+    </item>
+    <item>
+      <title>3D Printing With Silicone</title>
+      <description>
+        <![CDATA[<p>
+	Thanks to a new technology, silicone joins the growing list of materials for additive manufacturing.</p>]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93070</guid>
+      <pubDate>Fri, 02 Oct 2015 00:00:00 -0400</pubDate>
+      <link>http://www.assemblymag.com/articles/93070-d-printing-with-silicone</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Issues/2015/October/silicone/asb1015silicone1.jpg?1443796710" type="image/jpeg" length="70176"/>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/October/silicone/asb1015silicone1.jpg?1443796710" type="image/jpeg" fileSize="70176">
+        <media:title type="plain">silicone 1</media:title>
+        <media:description type="plain">
+	Wacker&amp;rsquo;s new 3D printing system consists of a Cartesian robot equipped with a dispensing nozzle that rapidly deposits one droplet of silicone at a time on a base surface. Just like ink-jet printing on paper, the robot follows a path governed by a CAD file of the part. Photo courtesy Wacker Chemie AG
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/October/silicone/asb1015silicone2.jpg?1443796800" type="image/jpeg" fileSize="64507">
+        <media:title type="plain">silicone 2</media:title>
+        <media:description type="plain">
+	With each pass, the nozzle can dispense a silicone strip approximately 0.6 millimeter wide and 0.3 millimeter thick. The robot regularly pauses and a beam of ultraviolet light scans over the tiny drops, which have merged into a fine line. The UV light vulcanizes the silicone then in less than a second. The robot then applies the next layer of silicone. Photo courtesy Wacker Chemie AG
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/October/silicone/asb1015silicone3.jpg?1443796828" type="image/jpeg" fileSize="70496">
+        <media:title type="plain">silicone 3</media:title>
+        <media:description type="plain">
+	With each pass, the nozzle can dispense a silicone strip approximately 0.6 millimeter wide and 0.3 millimeter thick. The robot regularly pauses and a beam of ultraviolet light scans over the tiny drops, which have merged into a fine line. The UV light vulcanizes the silicone then in less than a second. The robot then applies the next layer of silicone. Photo courtesy Wacker Chemie AG
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/October/silicone/asb1015silicone4.jpg?1443796849" type="image/jpeg" fileSize="51336">
+        <media:title type="plain">silicone 4</media:title>
+        <media:description type="plain">
+	With each pass, the nozzle can dispense a silicone strip approximately 0.6 millimeter wide and 0.3 millimeter thick. The robot regularly pauses and a beam of ultraviolet light scans over the tiny drops, which have merged into a fine line. The UV light vulcanizes the silicone then in less than a second. The robot then applies the next layer of silicone. Photo courtesy Wacker Chemie AG</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/October/silicone/asb1015silicone5.jpg?1443796869" type="image/jpeg" fileSize="33259">
+        <media:title type="plain">silicone 5</media:title>
+        <media:description type="plain">
+	With each pass, the nozzle can dispense a silicone strip approximately 0.6 millimeter wide and 0.3 millimeter thick. The robot regularly pauses and a beam of ultraviolet light scans over the tiny drops, which have merged into a fine line. The UV light vulcanizes the silicone then in less than a second. The robot then applies the next layer of silicone. Photo courtesy Wacker Chemie AG
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/October/silicone/asb1015silicone6.jpg?1443796894" type="image/jpeg" fileSize="113228">
+        <media:title type="plain">silicone 6</media:title>
+        <media:description type="plain">
+	3D printing of silicone could see immediate application in the automotive and medical device industries. Photo courtesy Wacker Chemie AG
+</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>Advances in Silicone Adhesives</title>
+      <author>camilloj@bnpmedia.com (Jim Camillo)</author>
+      <description>
+        <![CDATA[<p>
+	Faster curing and application-specific formulations expand silicone adhesives&rsquo; impressive list of assembly benefits.</p>
+]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/92975</guid>
+      <pubDate>Sat, 01 Aug 2015 00:00:00 -0400</pubDate>
+      <link>http://www.assemblymag.com/articles/92975-advances-in-silicone-adhesives</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Issues/2015/August/silicone/asb0815Silicone1.jpg?1438016743" type="image/jpeg" length="98715"/>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/August/silicone/asb0815Silicone1.jpg?1438016743" type="image/jpeg" fileSize="98715">
+        <media:title type="plain">silicone</media:title>
+        <media:description type="plain">
+	Recently introduced, the EA-7100 adhesive cures through a process called &amp;lsquo;thermal-radical&amp;rsquo; chemistry. Photo courtesy Dow Corning
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/August/silicone/asb0815Silicone2.jpg?1438016828" type="image/jpeg" fileSize="238960">
+        <media:title type="plain">silicone 2</media:title>
+        <media:description type="plain">
+	Specialty adhesives include those formulated for thermal conductivity in electronic assemblies featuring large semiconductor chips. Photo courtesy Silicone Solutions
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/August/silicone/asb0815Silicone3.jpg?1438016883" type="image/jpeg" fileSize="107120">
+        <media:title type="plain">silicone 3</media:title>
+        <media:description type="plain">
+	Solar panel manufacturers use the 9450 meter-mix system to dispense adhesives and encapsulate junction boxes and photovoltaic circuitry. Photo courtesy Exact Dispensing Systems
+</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>Jet Dispenser Applies Epoxy Underfill Material for Hearing Aid Assembly</title>
+      <author>camilloj@bnpmedia.com (Jim Camillo)</author>
+      <description>
+        <![CDATA[<p>
+	Protecting one's hearing is always a smart thing to do. Hearing-aid manufacturer GN ReSound (GNR) believes that improving one's hearing is just as smart.</p>
+]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/92973</guid>
+      <pubDate>Sat, 01 Aug 2015 00:00:00 -0400</pubDate>
+      <link>http://www.assemblymag.com/articles/92973-jet-dispenser-applies-epoxy-underfill-material-for-hearing-aid-assembly</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Issues/2015/August/AIA/asb0815AIA7.jpg?1438012085" type="image/jpeg" length="33842"/>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/August/AIA/asb0815AIA7.jpg?1438012085" type="image/jpeg" fileSize="33842">
+        <media:title type="plain">hearing aids</media:title>
+        <media:description type="plain">
+	The smart LiNX2 hearing aid operates on 2.4 gigahertz, a globally accepted frequency band used by home wireless networks and common everyday wireless items. Photo courtesy GN ReSound
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/August/AIA/asb0815AIA8.jpg?1438012173" type="image/jpeg" fileSize="77950">
+        <media:title type="plain">hearing aids 2</media:title>
+        <media:description type="plain">
+	GN ReSound uses two inline dispensing systems to apply first and second level underfill for flip-chip packaging. Photo courtesy Nordson Asymtek
+</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>Dispensing Tiny Amounts</title>
+      <author>camilloj@bnpmedia.com (Jim Camillo)</author>
+      <description>
+        <![CDATA[<p>
+	With the right equipment, manufacturers can accurately dispense milliliter, microliter and nanoliter dots.</p>
+]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/92932</guid>
+      <pubDate>Wed, 01 Jul 2015 00:00:00 -0400</pubDate>
+      <link>http://www.assemblymag.com/articles/92932-dispensing-tiny-amounts</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Issues/2015/July/dispensing/asb0715Dispense1.jpg?1435775467" type="image/jpeg" length="83879"/>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/July/dispensing/asb0715Dispense1.jpg?1435775467" type="image/jpeg" fileSize="83879">
+        <media:title type="plain">dispensing 1</media:title>
+        <media:description type="plain">
+	The SureShot 3500 jetting system dispenses microliter shots at a rate of 6,000 per minute. In late 2013, Hernon Manufacturing Inc. introduced its Autosealer 5300 ammunition-sealant dispensing machine featuring the 3500 system. Photo courtesy Hernon Manufacturing Inc.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/July/dispensing/asb0715Dispense2.jpg?1435775597" type="image/jpeg" fileSize="32948">
+        <media:title type="plain">dispensing 2</media:title>
+        <media:description type="plain">
+	A tiny piston (0.005 to 0.062 inch in diameter) moves within the SP2 pump&amp;rsquo;s dispensing chamber to deliver an exact amount of fluid through the tip. The pump dispenses dots from 274 microliters down to 0.25 nanoliter. Photo courtesy Creative Automation Co.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/July/dispensing/asb0715Dispense3.jpg?1435775626" type="image/jpeg" fileSize="97402">
+        <media:title type="plain">dispensing 3</media:title>
+        <media:description type="plain">
+	Introduced last month, the XQR41 time pressure valve dispenses micro dots of 100 to 150 microns at a rate of 400 per minute. Photo courtesy Nordson EFD
+</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>Retaining Compound Improves Valve Manufacturing</title>
+      <author>camilloj@bnpmedia.com (Jim Camillo)</author>
+      <description>
+        <![CDATA[<p>
+	Growth came relatively quickly for hydraulic valve, manifold and electronic controls manufacturer HydraForce Inc.</p>
+]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/92927</guid>
+      <pubDate>Wed, 01 Jul 2015 00:00:00 -0400</pubDate>
+      <link>http://www.assemblymag.com/articles/92927-retaining-compound-improves-valve-manufacturing</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Issues/2015/July/aia/asb0715AIA5.jpg?1435768408" type="image/jpeg" length="95080"/>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/July/aia/asb0715AIA5.jpg?1435768408" type="image/jpeg" fileSize="95080">
+        <media:title type="plain">vavle 1</media:title>
+        <media:description type="plain">
+	Fitting parts on valves assembled with fast-setting Loctite 648 retaining compound can withstand 1,000 ft-lb of torque after just 5 minutes. Photo courtesy Henkel Corp.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/July/aia/asb0715AIA6.jpg?1436274196" type="image/jpeg" fileSize="86387">
+        <media:title type="plain">vavle 2</media:title>
+        <media:description type="plain">
+	For many years, HydraForce Inc. has been the world&amp;rsquo;s largest manufacturer of hydraulic cartridge valves. Photo courtesy HydraForce Inc.
+</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>Adhesives Supplier Hernon to Double Size of Florida HQ</title>
+      <description>
+        <![CDATA[<p>
+	SANFORD, FL&mdash;Hernon Manufacturing Inc., a producer of adhesive and dispensing technologies, will more than double the size of its manufacturing facility here through a $2.5 million investment projected to add 20 jobs.</p>]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/92886</guid>
+      <pubDate>Tue, 02 Jun 2015 00:00:00 -0400</pubDate>
+      <link>http://www.assemblymag.com/articles/92886-adhesives-supplier-hernon-to-double-size-of-florida-hq</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/LatestHeadlines/headlines900/hernon-mfg-900.jpg?1433272186" type="image/jpeg" length="332707"/>
+    </item>
+    <item>
+      <title>Cure Epoxies With Heat</title>
+      <author>webera@bnpmedia.com (Austin Weber)</author>
+      <description>
+        <![CDATA[<p>
+	Curing adhesives with heat can reduce cycle times and boost throughput.</p>
+]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/92850</guid>
+      <pubDate>Mon, 04 May 2015 00:00:00 -0400</pubDate>
+      <link>http://www.assemblymag.com/articles/92850-cure-epoxies-with-heat</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Issues/2015/May/heat/asb0515heat1.jpg?1433259091" type="image/jpeg" length="101998"/>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/May/heat/asb0515heat1.jpg?1433259091" type="image/jpeg" fileSize="101998">
+        <media:title type="plain">heat</media:title>
+        <media:description type="plain">
+	Benefits of heat curing include greater bond strength, hardness, rigidity, toughness and impact resistance. Photo courtesy Master Bond Inc.</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/May/heat/asb0515heat2.jpg?1430768088" type="image/jpeg" fileSize="91312">
+        <media:title type="plain">heat 2</media:title>
+        <media:description type="plain">
+	Adding heat when curing adhesives improves cross-linking density and performance. Photo courtesy Master Bond Inc.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/May/heat/asb0515heat3jpeg.jpg?1430768140" type="image/jpeg" fileSize="90030">
+        <media:title type="plain">heat 3</media:title>
+        <media:description type="plain">
+	This electrically heated belt conveyor is used to cure an epoxy resin bond between a plastic frame and a glass mirror. Photo courtesy Grieve Corp.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/May/heat/asb0515heat4.jpg?1430768178" type="image/jpeg" fileSize="164857">
+        <media:title type="plain">heat 4</media:title>
+        <media:description type="plain">
+	Curing adhesives with heat can reduce cycle times and increase throughput. Photo courtesy 3M Co.
+</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>New Technology Combines Adhesives, Fasteners</title>
+      <description>
+        <![CDATA[<p>
+	A new technology combines the advantages of adhesives and threaded fasteners for assembling composite materials.</p>]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/92793</guid>
+      <pubDate>Thu, 02 Apr 2015 00:00:00 -0400</pubDate>
+      <link>http://www.assemblymag.com/articles/92793-new-technology-combines-adhesives-fasteners</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Issues/2015/April/delo/asb0415delo1.jpg?1427997984" type="image/jpeg" length="49159"/>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/April/delo/asb0415delo1.jpg?1427997984" type="image/jpeg" fileSize="49159">
+        <media:title type="plain">delo feature</media:title>
+        <media:description type="plain">
+	The ONSERT system consists of a two-piece fastener bonded to a base material with a one-part, light-curing adhesive. The round, flat base of the fastener is made from an amorphous, light-permeable plastic. The plastic can be molded around a metal nut, bolt, ball stud or snap connection. Photos courtesy DELO Industrial Adhesives LLC
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/April/delo/asb0415delo2.jpg?1427998100" type="image/jpeg" fileSize="52745">
+        <media:title type="plain">delo slide 2</media:title>
+        <media:description type="plain">
+	The ONSERT system consists of a two-piece fastener bonded to a base material with a one-part, light-curing adhesive. The round, flat base of the fastener is made from an amorphous, light-permeable plastic. The plastic can be molded around a metal nut, bolt, ball stud or snap connection. Photos courtesy DELO Industrial Adhesives LLC
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/April/delo/asb0415delo3.jpg?1427998124" type="image/jpeg" fileSize="67115">
+        <media:title type="plain">delo slide 3</media:title>
+        <media:description type="plain">
+	The ONSERT system consists of a two-piece fastener bonded to a base material with a one-part, light-curing adhesive. The round, flat base of the fastener is made from an amorphous, light-permeable plastic. The plastic can be molded around a metal nut, bolt, ball stud or snap connection. Photos courtesy DELO Industrial Adhesives LLC
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/April/delo/asb0415delo4.jpg?1427998154" type="image/jpeg" fileSize="63931">
+        <media:title type="plain">delo slide 4</media:title>
+        <media:description type="plain">
+	To reduce weight, the body of BMW&amp;rsquo;s i3 electric vehicle is made from CFRP. Numerous ONSERT fasteners provide attachment points for various components. Photo courtesy DELO Industrial Adhesives LLC
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/April/delo/asb0415delo5.jpg?1427998185" type="image/jpeg" fileSize="134752">
+        <media:title type="plain">delo slide 5</media:title>
+        <media:description type="plain">
+	Although light in weight, CFRP is more challenging to join to other components than high-strength sheet metal. Photo courtesy DELO Industrial Adhesives LLC
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/April/delo/asb0415delo6A.jpg?1427998213" type="image/jpeg" fileSize="44390">
+        <media:title type="plain">delo slide 6</media:title>
+        <media:description type="plain">
+	The adhesive produces a strong bond to CFRP. Pull-off strength of up to 2,000 newtons can be achieved on CFRP with an ONSERT stud with a base diameter of 25 millimeters. Photo courtesy DELO Industrial Adhesives LLC
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/April/delo/asb0415delo6B.jpg?1427998234" type="image/jpeg" fileSize="61814">
+        <media:title type="plain">delo slide 6b</media:title>
+        <media:description type="plain">
+	The adhesive produces a strong bond to CFRP. Pull-off strength of up to 2,000 newtons can be achieved on CFRP with an ONSERT stud with a base diameter of 25 millimeters. Photo courtesy DELO Industrial Adhesives LLC
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/April/delo/asb0415delo7A.jpg?1427998263" type="image/jpeg" fileSize="37047">
+        <media:title type="plain">delo slide 7</media:title>
+        <media:description type="plain">
+	Environmental testing demonstrated that the ONSERT bases could withstand demanding conditions and achieve high pull-off strength and shear strength values. Photo courtesy DELO Industrial Adhesives LLC
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/April/delo/asb0415delo7B.jpg?1427998290" type="image/jpeg" fileSize="68896">
+        <media:title type="plain">delo slide 7b</media:title>
+        <media:description type="plain">
+	Environmental testing demonstrated that the ONSERT bases could withstand demanding conditions and achieve high pull-off strength and shear strength values. Photo courtesy DELO Industrial Adhesives LLC
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/April/delo/asb0415delo8A.jpg?1427998323" type="image/jpeg" fileSize="41255">
+        <media:title type="plain">delo slide 8</media:title>
+        <media:description type="plain">
+	DELO engineers measured the amount of torque needed to break off a threaded stud from a CFRP surface at room temperature. Measured at 9 newton-meters, the off-torque was much higher than the 5.5 newton-meters specified as the tightening torque for M5 bolts. Photo courtesy DELO Industrial Adhesives LLC
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/April/delo/asb0415delo8B.jpg?1427998346" type="image/jpeg" fileSize="64289">
+        <media:title type="plain">delo slide 8b</media:title>
+      </media:content>
+    </item>
+    <item>
+      <title>New adhesives solve medical device assembly challenges.</title>
+      <description>
+        <![CDATA[<p>
+	Engineers have many options for joining identical or similar materials. To join, say, a steel part to another steel part, engineers can use screws, rivets, welds, adhesives, clinches or press-fits.</p>
+]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/92785</guid>
+      <pubDate>Thu, 02 Apr 2015 00:00:00 -0400</pubDate>
+      <link>http://www.assemblymag.com/articles/92785-new-adhesives-solve-medical-device-assembly-challenges</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Issues/2015/April/asb0415med1.jpg?1427987235" type="image/jpeg" length="90058"/>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/April/asb0415med1.jpg?1427987235" type="image/jpeg" fileSize="90058">
+        <media:title type="plain">medical feature</media:title>
+        <media:description type="plain">
+	Dymax has introduced a new LED-curable adhesive for assembling catheters made with Nylon 12 and PEBA. Photo courtesy Dymax Corp.
+</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>Novelis, Henkel to Develop Adhesives for Automotive Aluminum</title>
+      <description>
+        <![CDATA[<p>
+	ROCKY HILL, CT&mdash;Novelis, a manufacturer of automotive aluminum sheet, and Henkel Adhesive Technologies have agreed to collaborate on the development of advanced bonding technologies for aluminum in high-volume vehicles.</p>
+]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/92767</guid>
+      <pubDate>Thu, 12 Mar 2015 00:00:00 -0400</pubDate>
+      <link>http://www.assemblymag.com/articles/92767-novelis-henkel-to-develop-adhesives-for-automotive-aluminum</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Default_Images/asb-headlines-graphic.jpg?1464270410" type="image/jpeg" length="166380"/>
+    </item>
+    <item>
+      <title>Assembling Fordâs Aluminum Wonder Truck</title>
+      <author>webera@bnpmedia.com (Austin Weber)</author>
+      <description>
+        <![CDATA[<p>
+	Rivets, screws and other joining processes play a key role behind the new F-150.</p>]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/92728</guid>
+      <pubDate>Tue, 03 Mar 2015 02:00:00 -0500</pubDate>
+      <link>http://www.assemblymag.com/articles/92728-assembling-fords-aluminum-wonder-truck</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Issues/2015/March/ford/asb0315auto1.jpg?1425412744" type="image/jpeg" length="61312"/>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/March/ford/asb0315auto11.jpg?1425412887" type="image/jpeg" fileSize="98153">
+        <media:title type="plain">ford slide 1</media:title>
+        <media:description type="plain">
+	The new F-150 features an aluminum body and cargo box that shave 700 pounds off the top-selling vehicle. Photo courtesy Ford Motor Co.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/March/ford/asb0315auto2.jpg?1425412950" type="image/jpeg" fileSize="103830">
+        <media:title type="plain">ford slide 2</media:title>
+        <media:description type="plain">
+	Traditional spot-welding equipment in the body shop was ripped out and replaced with state-of-the-art technology that allows the F-150 to be assembled with self-piercing rivets. Photo by Austin Weber
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/March/ford/asb0315auto3.jpg?1425413114" type="image/jpeg" fileSize="95727">
+        <media:title type="plain">ford slide 3</media:title>
+        <media:description type="plain">
+	The popular F-150 is Ford&amp;rsquo;s top moneymaker. Photo courtesy Ford Motor Co.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/March/ford/asb0315auto6.jpg?1425413193" type="image/jpeg" fileSize="41027">
+        <media:title type="plain">ford slide 4</media:title>
+        <media:description type="plain">
+	A step-feeding system enables fast cycle rates with flow-drill screws. Photo by Austin Weber
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/March/ford/asb0315auto5.jpg?1425413227" type="image/jpeg" fileSize="92356">
+        <media:title type="plain">ford slide 5</media:title>
+        <media:description type="plain">
+	Ford engineers decided to switch from steel to aluminum to improve fuel efficiency and boost performance. Photo courtesy Ford Motor Co.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/March/ford/asb0315auto8.jpg?1425413282" type="image/jpeg" fileSize="72994">
+        <media:title type="plain">ford slide 6</media:title>
+        <media:description type="plain">
+	Unlike conventional riveting, self-piercing technology does not require a predrilled or punched hole. The fasteners pierce and fasten in one operation, simplifying assembly and reducing costs while providing a strong, reliable joint. Photo by Austin Weber
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/March/ford/asb0315auto7.jpg?1425413329" type="image/jpeg" fileSize="59150">
+        <media:title type="plain">ford slide 7</media:title>
+        <media:description type="plain">
+	The aluminum-bodied F-150 boasts greater towing and payload capacities than its competitors. Photo courtesy Ford Motor Co.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/March/ford/asb0315auto41.jpg?1425413385" type="image/jpeg" fileSize="84761">
+        <media:title type="plain">ford slide 8</media:title>
+        <media:description type="plain">
+	Hundreds of six-axis robots are mounted on overhead rails at the Dearborn Truck Plant, which frees up floor space in the body shop. Photo by Austin Weber
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/March/ford/asb0315auto9.jpg?1425413440" type="image/jpeg" fileSize="82993">
+        <media:title type="plain">ford slide 9</media:title>
+        <media:description type="plain">
+	A robotic visual inspection system automatically validates the dimensions on approximately 80 points on each body. Photo by Austin Weber
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/March/ford/asb0315auto10.jpg?1425413474" type="image/jpeg" fileSize="96683">
+        <media:title type="plain">ford slide 10</media:title>
+        <media:description type="plain">
+	The F-150 is available is three different body styles and five basic trim levels. Photo courtesy Ford Motor Co.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/March/ford/asb0315auto111.jpg?1425413508" type="image/jpeg" fileSize="98152">
+        <media:title type="plain">ford slide 11</media:title>
+        <media:description type="plain">
+	Aluminum body panels offer many advantages over steel. One kilogram of aluminum can replace 2 kilograms of steel. The lightweight material also is corrosion-resistant. Photo courtesy Ford Motor Co.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/March/ford/asb0315auto12.jpg?1425413539" type="image/jpeg" fileSize="95045">
+        <media:title type="plain">ford slide 12</media:title>
+        <media:description type="plain">
+	Tape-fed rivets are supplied on reusable plastic spools that each hold several thousand fasteners. Photo by Austin Weber
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/March/ford/asb0315auto13.jpg?1425413578" type="image/jpeg" fileSize="74342">
+        <media:title type="plain">ford slide 13</media:title>
+        <media:description type="plain">
+	Roughly the same number of body parts are used in the aluminum version of the F-150 as in the older steel design. Photo by Austin Weber
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/March/ford/asb0315auto14.jpg?1425413612" type="image/jpeg" fileSize="74982">
+        <media:title type="plain">ford slide 14</media:title>
+        <media:description type="plain">
+	Ford decided to insource many of the new F-150&amp;rsquo;s stampings and subassemblies to control production quality. Photo by Austin Weber
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/March/ford/asb0315auto15.jpg?1425413647" type="image/jpeg" fileSize="64763">
+        <media:title type="plain">ford slide 15</media:title>
+        <media:description type="plain">
+	The 2015 F-150 boasts all sorts of high-tech features, such as LED headlamps and a 360-degree vision system. Illustration courtesy Ford Motor Co.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/March/ford/asb0315auto16.jpg?1425413679" type="image/jpeg" fileSize="98947">
+        <media:title type="plain">ford slide 16</media:title>
+        <media:description type="plain">
+	The body of the next-generation F-150 is built with approximately 2,000 rivets vs. 5,000 spot welds in the 2014 version. Photo by Austin Weber
+</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>Supplier of Adhesives, Dispensing Equipment Expands in Florida</title>
+      <description>
+        <![CDATA[<p>
+	SANFORD, FL&mdash;Hernon Manufacturing, a supplier of adhesives, sealants and dispensing equipment, will begin construction next month on a new building expansion. When complete, the new building will be 160 percent of the size of the current facility.</p>
+]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/92700</guid>
+      <pubDate>Mon, 23 Feb 2015 00:00:00 -0500</pubDate>
+      <link>http://www.assemblymag.com/articles/92700-supplier-of-adhesives-dispensing-equipment-expands-in-florida</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Default_Images/asb-headlines-graphic.jpg?1464270410" type="image/jpeg" length="166380"/>
+    </item>
+    <item>
+      <title>New Dispensing, Curing Technology Cuts Waste, Ensures Quality</title>
+      <author>sprovierij@bnpmedia.com (John Sprovieri)</author>
+      <description>
+        <![CDATA[<p>
+	More than 20 suppliers of equipment for dispensing and curing adhesives exhibited at The ASSEMBLY Show last fall. Here is a small sample of the new technologies to be found on the show floor.</p>]]>
+      </description>
+      <guid>http://www.assemblymag.com/blogs/14/post/92653</guid>
+      <pubDate>Tue, 03 Feb 2015 00:00:00 -0500</pubDate>
+      <link>http://www.assemblymag.com/blogs/14-assembly-blog/post/92653-new-dispensing-curing-technology-cuts-waste-ensures-quality</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/blogimages/techcon422.jpg?1424385155" type="image/jpeg" length="68986"/>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,454 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" media="screen" href="/~d/styles/rss2full.xsl"?><?xml-stylesheet type="text/css" media="screen" href="http://feeds.sciencedaily.com/~d/styles/itemcontent.css"?><rss xmlns:media="http://search.yahoo.com/mrss/" xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" version="2.0">
+	<channel>
+		<title>Cancer News -- ScienceDaily</title>
+		<link>https://www.sciencedaily.com/news/health_medicine/cancer/</link>
+		<description>Read the latest medical research on risk factors for cancer, cancer symptoms, treatments and more. Updated daily.</description>
+		<language>en-us</language>
+		<pubDate>Sun, 06 Mar 2016 23:08:04 EST</pubDate>
+		<lastBuildDate>Sun, 06 Mar 2016 23:08:04 EST</lastBuildDate>
+		<ttl>60</ttl>
+		<image>
+			<title>Cancer News -- ScienceDaily</title>
+			<url>https://www.sciencedaily.com/images/scidaily-logo-rss.png</url>
+			<link>https://www.sciencedaily.com/news/health_medicine/cancer/</link>
+			<description>For more science news, visit ScienceDaily.</description>
+		</image>
+		
+		<atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://feeds.sciencedaily.com/sciencedaily/health_medicine/cancer" /><feedburner:info uri="sciencedaily/health_medicine/cancer" /><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/" /><feedburner:emailServiceId>sciencedaily/health_medicine/cancer</feedburner:emailServiceId><feedburner:feedburnerHostname>https://feedburner.google.com</feedburner:feedburnerHostname><item>
+			<title>New vulnerability revealed in blood cancer development</title>
+			<link>http://feeds.sciencedaily.com/~r/sciencedaily/health_medicine/cancer/~3/WQJU5ynOXTk/160304122932.htm</link>
+			<description>A protein that is key to the development of blood cancers caused by a common genetic error has been identified by researchers. The discovery is a missing piece in the puzzle of understanding how high levels of a protein called MYC drive cancer development, and may to lead to future strategies for early treatment or possibly even prevention of these cancers.&lt;img src="http://feeds.feedburner.com/~r/sciencedaily/health_medicine/cancer/~4/WQJU5ynOXTk" height="1" width="1" alt=""/&gt;</description>
+			<media:thumbnail url="https://images.sciencedaily.com/2016/03/160304122932.jpg" height="200" width="300" />
+			<pubDate>Fri, 04 Mar 2016 12:29:32 EST</pubDate>
+			<guid isPermaLink="false">https://www.sciencedaily.com/releases/2016/03/160304122932.htm</guid>
+		<feedburner:origLink>https://www.sciencedaily.com/releases/2016/03/160304122932.htm</feedburner:origLink></item>
+		<item>
+			<title>Researchers target specific protein associated with poor survival, treatment</title>
+			<link>http://feeds.sciencedaily.com/~r/sciencedaily/health_medicine/cancer/~3/ct6OjGxh6TQ/160304122922.htm</link>
+			<description>Glioblastoma multiformeis a highly aggressive brain tumor with low survival rates, with newly diagnosed patients surviving a median of 14 months and recurrent patients surviving a median of only 3 to 9 months. New therapeutic targets and biomarkers for prognosis are urgently needed. Researchers recently reported that expression of the protein BIRC3 is associated with poor survival and recurrent disease in GBM patients; and therefore may be a good therapeutic target.&lt;img src="http://feeds.feedburner.com/~r/sciencedaily/health_medicine/cancer/~4/ct6OjGxh6TQ" height="1" width="1" alt=""/&gt;</description>
+			<pubDate>Fri, 04 Mar 2016 12:29:22 EST</pubDate>
+			<guid isPermaLink="false">https://www.sciencedaily.com/releases/2016/03/160304122922.htm</guid>
+		<feedburner:origLink>https://www.sciencedaily.com/releases/2016/03/160304122922.htm</feedburner:origLink></item>
+		<item>
+			<title>New insights reported about the Angelina Jolie gene</title>
+			<link>http://feeds.sciencedaily.com/~r/sciencedaily/health_medicine/cancer/~3/fO88JSqpbfk/160304120803.htm</link>
+			<description>New research reveals another function of the breast cancer susceptibility gene BRCA1. This could lead to improved diagnostics and treatment tools for this form of breast cancer.&lt;img src="http://feeds.feedburner.com/~r/sciencedaily/health_medicine/cancer/~4/fO88JSqpbfk" height="1" width="1" alt=""/&gt;</description>
+			<pubDate>Fri, 04 Mar 2016 12:08:03 EST</pubDate>
+			<guid isPermaLink="false">https://www.sciencedaily.com/releases/2016/03/160304120803.htm</guid>
+		<feedburner:origLink>https://www.sciencedaily.com/releases/2016/03/160304120803.htm</feedburner:origLink></item>
+		<item>
+			<title>Specialized tests useful for melanoma diagnosis, treatment</title>
+			<link>http://feeds.sciencedaily.com/~r/sciencedaily/health_medicine/cancer/~3/-mYigBFqeFQ/160304093229.htm</link>
+			<description>In certain cases, genetic and molecular testing can yield valuable information that helps dermatologists provide individualized care for their melanoma patients.&lt;img src="http://feeds.feedburner.com/~r/sciencedaily/health_medicine/cancer/~4/-mYigBFqeFQ" height="1" width="1" alt=""/&gt;</description>
+			<pubDate>Fri, 04 Mar 2016 09:32:29 EST</pubDate>
+			<guid isPermaLink="false">https://www.sciencedaily.com/releases/2016/03/160304093229.htm</guid>
+		<feedburner:origLink>https://www.sciencedaily.com/releases/2016/03/160304093229.htm</feedburner:origLink></item>
+		<item>
+			<title>Dietary glycemic index linked to lung cancer risk in select populations</title>
+			<link>http://feeds.sciencedaily.com/~r/sciencedaily/health_medicine/cancer/~3/kPPmkltNB28/160304091915.htm</link>
+			<description>Consuming a diet with a high glycemic index, a classification of how rapidly carbohydrates elevate blood sugar levels, was independently associated with an increased risk of developing lung cancer in non-Hispanic whites, according to a new epidemiologic study.&lt;img src="http://feeds.feedburner.com/~r/sciencedaily/health_medicine/cancer/~4/kPPmkltNB28" height="1" width="1" alt=""/&gt;</description>
+			<pubDate>Fri, 04 Mar 2016 09:19:15 EST</pubDate>
+			<guid isPermaLink="false">https://www.sciencedaily.com/releases/2016/03/160304091915.htm</guid>
+		<feedburner:origLink>https://www.sciencedaily.com/releases/2016/03/160304091915.htm</feedburner:origLink></item>
+		<item>
+			<title>There goes the neighborhood: Changes in chromosome structure activate cancer-causing genes</title>
+			<link>http://feeds.sciencedaily.com/~r/sciencedaily/health_medicine/cancer/~3/n3y5LGN36JQ/160303150220.htm</link>
+			<description>In a finding with enormous implications for cancer diagnostics and therapeutics, scientists have discovered that breaches in looping chromosomal structures known as âinsulated neighborhoodsâ can activate oncogenes capable of fueling aggressive tumor growth.&lt;img src="http://feeds.feedburner.com/~r/sciencedaily/health_medicine/cancer/~4/n3y5LGN36JQ" height="1" width="1" alt=""/&gt;</description>
+			<pubDate>Thu, 03 Mar 2016 15:02:20 EST</pubDate>
+			<guid isPermaLink="false">https://www.sciencedaily.com/releases/2016/03/160303150220.htm</guid>
+		<feedburner:origLink>https://www.sciencedaily.com/releases/2016/03/160303150220.htm</feedburner:origLink></item>
+		<item>
+			<title>Cancer expert says public health, prevention measures are key to defeating cancer</title>
+			<link>http://feeds.sciencedaily.com/~r/sciencedaily/health_medicine/cancer/~3/yFpc4F9vqns/160303145920.htm</link>
+			<description>Is investment in research to develop new treatments the best approach to controlling cancer? Many people believe that the time is right for another big push to defeat cancer, including President Obama, who called for a major cancer-fighting campaign in his final State of the Union address. But in a new paper, this kind of effort will never cure cancer without public health and prevention.&lt;img src="http://feeds.feedburner.com/~r/sciencedaily/health_medicine/cancer/~4/yFpc4F9vqns" height="1" width="1" alt=""/&gt;</description>
+			<pubDate>Thu, 03 Mar 2016 14:59:20 EST</pubDate>
+			<guid isPermaLink="false">https://www.sciencedaily.com/releases/2016/03/160303145920.htm</guid>
+		<feedburner:origLink>https://www.sciencedaily.com/releases/2016/03/160303145920.htm</feedburner:origLink></item>
+		<item>
+			<title>Tumors contain the seeds of their own destruction</title>
+			<link>http://feeds.sciencedaily.com/~r/sciencedaily/health_medicine/cancer/~3/CqPhlS7tCEw/160303145749.htm</link>
+			<description>Scientists have made a groundbreaking discovery in understanding how the genetic complexity of tumors can be recognized and exploited by the immune system, even when the disease is at its most advanced stages.&lt;img src="http://feeds.feedburner.com/~r/sciencedaily/health_medicine/cancer/~4/CqPhlS7tCEw" height="1" width="1" alt=""/&gt;</description>
+			<media:thumbnail url="https://images.sciencedaily.com/2016/03/160303145749.jpg" height="219" width="300" />
+			<pubDate>Thu, 03 Mar 2016 14:57:49 EST</pubDate>
+			<guid isPermaLink="false">https://www.sciencedaily.com/releases/2016/03/160303145749.htm</guid>
+		<feedburner:origLink>https://www.sciencedaily.com/releases/2016/03/160303145749.htm</feedburner:origLink></item>
+		<item>
+			<title>Broccoli may offer protection against liver cancer, study shows</title>
+			<link>http://feeds.sciencedaily.com/~r/sciencedaily/health_medicine/cancer/~3/kcjUxnL8KUc/160303133607.htm</link>
+			<description>Eating broccoli three to five times per week can lower the risk of many types of cancers, research has indicated. Consuming a high-fat, high-sugar diet and having excess body fat is linked with the development of nonalcoholic fatty liver disease (NAFLD), which can lead to diseases such as cirrhosis and liver cancer. A new study shows that including broccoli in the diet may protect against liver cancer, as well as aid in countering the development of NAFLD.&lt;img src="http://feeds.feedburner.com/~r/sciencedaily/health_medicine/cancer/~4/kcjUxnL8KUc" height="1" width="1" alt=""/&gt;</description>
+			<pubDate>Thu, 03 Mar 2016 13:36:07 EST</pubDate>
+			<guid isPermaLink="false">https://www.sciencedaily.com/releases/2016/03/160303133607.htm</guid>
+		<feedburner:origLink>https://www.sciencedaily.com/releases/2016/03/160303133607.htm</feedburner:origLink></item>
+		<item>
+			<title>New kind of stem cell discovered</title>
+			<link>http://feeds.sciencedaily.com/~r/sciencedaily/health_medicine/cancer/~3/7azY4qs8tI0/160303133512.htm</link>
+			<description>A new kind of stem cell, one that could lead to advances in regenerative medicine as well as offer new ways to study birth defects and other reproductive problems, has been discovered by a team of researchers.&lt;img src="http://feeds.feedburner.com/~r/sciencedaily/health_medicine/cancer/~4/7azY4qs8tI0" height="1" width="1" alt=""/&gt;</description>
+			<media:thumbnail url="https://images.sciencedaily.com/2016/03/160303133512.jpg" height="450" width="300" />
+			<pubDate>Thu, 03 Mar 2016 13:35:12 EST</pubDate>
+			<guid isPermaLink="false">https://www.sciencedaily.com/releases/2016/03/160303133512.htm</guid>
+		<feedburner:origLink>https://www.sciencedaily.com/releases/2016/03/160303133512.htm</feedburner:origLink></item>
+		<item>
+			<title>PGK1 protein promotes brain tumor formation, cancer metabolism</title>
+			<link>http://feeds.sciencedaily.com/~r/sciencedaily/health_medicine/cancer/~3/A_NykY4FPFw/160303133508.htm</link>
+			<description>PGK1, a glycolytic enzyme, has been found to play a role in coordinating cellular processes crucial to cancer metabolism and brain tumor formation, according to results of a new study.&lt;img src="http://feeds.feedburner.com/~r/sciencedaily/health_medicine/cancer/~4/A_NykY4FPFw" height="1" width="1" alt=""/&gt;</description>
+			<pubDate>Thu, 03 Mar 2016 13:35:08 EST</pubDate>
+			<guid isPermaLink="false">https://www.sciencedaily.com/releases/2016/03/160303133508.htm</guid>
+		<feedburner:origLink>https://www.sciencedaily.com/releases/2016/03/160303133508.htm</feedburner:origLink></item>
+		<item>
+			<title>Healthy cells 'collaborate' with tumors to help build new blood vessels</title>
+			<link>http://feeds.sciencedaily.com/~r/sciencedaily/health_medicine/cancer/~3/ZtJECT5cRzw/160303133506.htm</link>
+			<description>Healthy cells actively collaborate with tumors by creating a mesh of collagen that encourages cancer cells to build new blood vessels, a new study shows. Researchers found that 'collaborator' cells build a beneficial environment around the tumor which helps it to build the new blood vessels it needs to grow.&lt;img src="http://feeds.feedburner.com/~r/sciencedaily/health_medicine/cancer/~4/ZtJECT5cRzw" height="1" width="1" alt=""/&gt;</description>
+			<pubDate>Thu, 03 Mar 2016 13:35:06 EST</pubDate>
+			<guid isPermaLink="false">https://www.sciencedaily.com/releases/2016/03/160303133506.htm</guid>
+		<feedburner:origLink>https://www.sciencedaily.com/releases/2016/03/160303133506.htm</feedburner:origLink></item>
+		<item>
+			<title>Blocking transfer of calcium to cell's powerhouse selectively kills cancer cells</title>
+			<link>http://feeds.sciencedaily.com/~r/sciencedaily/health_medicine/cancer/~3/bvhfdnPrzVI/160303133005.htm</link>
+			<description>Inhibiting the transfer of calcium ions into the cell's powerhouse is specifically toxic to cancer cells, suggesting new ways to fight the disease. Calcium addiction by mitochondria is a novel feature of cancer cells. This unexpected dependency on calcium transfer to the mitochondria for the survival of cancer cells surprised the researchers.&lt;img src="http://feeds.feedburner.com/~r/sciencedaily/health_medicine/cancer/~4/bvhfdnPrzVI" height="1" width="1" alt=""/&gt;</description>
+			<media:thumbnail url="https://images.sciencedaily.com/2016/03/160303133005.jpg" height="219" width="300" />
+			<pubDate>Thu, 03 Mar 2016 13:30:05 EST</pubDate>
+			<guid isPermaLink="false">https://www.sciencedaily.com/releases/2016/03/160303133005.htm</guid>
+		<feedburner:origLink>https://www.sciencedaily.com/releases/2016/03/160303133005.htm</feedburner:origLink></item>
+		<item>
+			<title>Alternative route for cell death revealed by scientists</title>
+			<link>http://feeds.sciencedaily.com/~r/sciencedaily/health_medicine/cancer/~3/zha4Vn9YxSE/160303133003.htm</link>
+			<description>A new pathway for mitochondrial cell death that involves the protein BCL-2 ovarian killer otherwise known as BOK has been revealed by scientists. The discovery may lead to new ways to trigger cell death in some types of cancer cells, they report.&lt;img src="http://feeds.feedburner.com/~r/sciencedaily/health_medicine/cancer/~4/zha4Vn9YxSE" height="1" width="1" alt=""/&gt;</description>
+			<pubDate>Thu, 03 Mar 2016 13:30:03 EST</pubDate>
+			<guid isPermaLink="false">https://www.sciencedaily.com/releases/2016/03/160303133003.htm</guid>
+		<feedburner:origLink>https://www.sciencedaily.com/releases/2016/03/160303133003.htm</feedburner:origLink></item>
+		<item>
+			<title>Common genetic variant in a tumor suppressor gene linked to obesity and type 2 diabetes</title>
+			<link>http://feeds.sciencedaily.com/~r/sciencedaily/health_medicine/cancer/~3/1K-tru8nH4Y/160303133001.htm</link>
+			<description>P53, a tumor suppressor referred to as has often been described as the 'guardian of the genome,' may also be the 'guardian of obesity.' New research found that a variant of the gene is heavily implicated in metabolism, which may lead to obesity and the development of type 2 diabetes.&lt;img src="http://feeds.feedburner.com/~r/sciencedaily/health_medicine/cancer/~4/1K-tru8nH4Y" height="1" width="1" alt=""/&gt;</description>
+			<pubDate>Thu, 03 Mar 2016 13:30:01 EST</pubDate>
+			<guid isPermaLink="false">https://www.sciencedaily.com/releases/2016/03/160303133001.htm</guid>
+		<feedburner:origLink>https://www.sciencedaily.com/releases/2016/03/160303133001.htm</feedburner:origLink></item>
+		<item>
+			<title>Breast cancer: An improved animal model opens up new treatments</title>
+			<link>http://feeds.sciencedaily.com/~r/sciencedaily/health_medicine/cancer/~3/oPAWtuvpLH0/160303132955.htm</link>
+			<description>Scientists have developed an animal model for breast cancer that faithfully captures the disease. Tested on human breast tissue, this the most clinically realistic model of breast cancer to date.&lt;img src="http://feeds.feedburner.com/~r/sciencedaily/health_medicine/cancer/~4/oPAWtuvpLH0" height="1" width="1" alt=""/&gt;</description>
+			<media:thumbnail url="https://images.sciencedaily.com/2016/03/160303132955.jpg" height="300" width="300" />
+			<pubDate>Thu, 03 Mar 2016 13:29:55 EST</pubDate>
+			<guid isPermaLink="false">https://www.sciencedaily.com/releases/2016/03/160303132955.htm</guid>
+		<feedburner:origLink>https://www.sciencedaily.com/releases/2016/03/160303132955.htm</feedburner:origLink></item>
+		<item>
+			<title>Mapping family history can lead more at-risk patients to timely screening</title>
+			<link>http://feeds.sciencedaily.com/~r/sciencedaily/health_medicine/cancer/~3/q9rvyG3zpf0/160303120902.htm</link>
+			<description>Most doctors and nurses review a patientâs family history to identify risk factors for heart disease and cancer, often through a paper checklist or brief interview. But more deliberate efforts to map a patientâs family tree could identify additional risks and drive patients to timely screenings for illnesses that may unknowingly affect them, according to a new study.&lt;img src="http://feeds.feedburner.com/~r/sciencedaily/health_medicine/cancer/~4/q9rvyG3zpf0" height="1" width="1" alt=""/&gt;</description>
+			<pubDate>Thu, 03 Mar 2016 12:09:02 EST</pubDate>
+			<guid isPermaLink="false">https://www.sciencedaily.com/releases/2016/03/160303120902.htm</guid>
+		<feedburner:origLink>https://www.sciencedaily.com/releases/2016/03/160303120902.htm</feedburner:origLink></item>
+		<item>
+			<title>Long-term aspirin use linked to lower risk for gastrointestinal tract cancers</title>
+			<link>http://feeds.sciencedaily.com/~r/sciencedaily/health_medicine/cancer/~3/Ey5rc4529FA/160303120430.htm</link>
+			<description>Regular low doses of aspirin for at least six years was associated with a modestly reduced overall risk for cancer, primarily due to a lower risk for gastrointestinal tract cancer, especially colorectal cancers, according to an article.&lt;img src="http://feeds.feedburner.com/~r/sciencedaily/health_medicine/cancer/~4/Ey5rc4529FA" height="1" width="1" alt=""/&gt;</description>
+			<pubDate>Thu, 03 Mar 2016 12:04:30 EST</pubDate>
+			<guid isPermaLink="false">https://www.sciencedaily.com/releases/2016/03/160303120430.htm</guid>
+		<feedburner:origLink>https://www.sciencedaily.com/releases/2016/03/160303120430.htm</feedburner:origLink></item>
+		<item>
+			<title>Tapping into Twitter to help recruit cancer patients into #ClinicalTrials</title>
+			<link>http://feeds.sciencedaily.com/~r/sciencedaily/health_medicine/cancer/~3/UlxHgnLa0yc/160303120426.htm</link>
+			<description>Twitter may be an effective, untapped resource to stimulate interest in cancer clinical trials and boost enrollment, physicians suggest.&lt;img src="http://feeds.feedburner.com/~r/sciencedaily/health_medicine/cancer/~4/UlxHgnLa0yc" height="1" width="1" alt=""/&gt;</description>
+			<pubDate>Thu, 03 Mar 2016 12:04:26 EST</pubDate>
+			<guid isPermaLink="false">https://www.sciencedaily.com/releases/2016/03/160303120426.htm</guid>
+		<feedburner:origLink>https://www.sciencedaily.com/releases/2016/03/160303120426.htm</feedburner:origLink></item>
+		<item>
+			<title>Ultra-fast detection of breast density using MRT helps determine breast cancer risks</title>
+			<link>http://feeds.sciencedaily.com/~r/sciencedaily/health_medicine/cancer/~3/lOG5QMHs9ns/160303084617.htm</link>
+			<description>A high breast density is an independent risk factor for breast cancer. MRT is the safest method for breast cancer diagnosis and is now used for early diagnosis. Researchers have now successfully developed a method for the exact measurement of breast density using magnetic resonance tomography (MRT) examinations with the Dixon sequence. With this, in addition to a better breast cancer diagnosis, a better assessment of the risk is also possible.&lt;img src="http://feeds.feedburner.com/~r/sciencedaily/health_medicine/cancer/~4/lOG5QMHs9ns" height="1" width="1" alt=""/&gt;</description>
+			<pubDate>Thu, 03 Mar 2016 08:46:17 EST</pubDate>
+			<guid isPermaLink="false">https://www.sciencedaily.com/releases/2016/03/160303084617.htm</guid>
+		<feedburner:origLink>https://www.sciencedaily.com/releases/2016/03/160303084617.htm</feedburner:origLink></item>
+		<item>
+			<title>Drug combination slows breast cancer spread</title>
+			<link>http://feeds.sciencedaily.com/~r/sciencedaily/health_medicine/cancer/~3/NmuXOt5AuHY/160302204510.htm</link>
+			<description>A combination of two drugs delays progression of advanced, aggressive breast cancer by an average of nine months -- working in all subsets of the most common type of breast cancer. The combination -- of a first-in-class targeted drug called palbociclib, and the hormone drug fulvestrant -- slowed cancer growth in around two thirds of women with advanced forms of the most common type of breast cancer.&lt;img src="http://feeds.feedburner.com/~r/sciencedaily/health_medicine/cancer/~4/NmuXOt5AuHY" height="1" width="1" alt=""/&gt;</description>
+			<pubDate>Wed, 02 Mar 2016 20:45:10 EST</pubDate>
+			<guid isPermaLink="false">https://www.sciencedaily.com/releases/2016/03/160302204510.htm</guid>
+		<feedburner:origLink>https://www.sciencedaily.com/releases/2016/03/160302204510.htm</feedburner:origLink></item>
+		<item>
+			<title>New breast reconstruction technique provides better outcomes, less discomfort for women recovering from breast cancer</title>
+			<link>http://feeds.sciencedaily.com/~r/sciencedaily/health_medicine/cancer/~3/xpsxBf5i7aw/160302182438.htm</link>
+			<description>New and progressive advances have been made in breast cancer surgery. Authors of a new article report on an innovative technique â called pre-pectoral placement of a tissue expander -- was utilized during breast reconstruction surgery following a mastectomy. The procedure results in diminished post-operative pain, quicker recovery time, improved mobility, and an excellent aesthetic outcome for patients.&lt;img src="http://feeds.feedburner.com/~r/sciencedaily/health_medicine/cancer/~4/xpsxBf5i7aw" height="1" width="1" alt=""/&gt;</description>
+			<pubDate>Wed, 02 Mar 2016 18:24:38 EST</pubDate>
+			<guid isPermaLink="false">https://www.sciencedaily.com/releases/2016/03/160302182438.htm</guid>
+		<feedburner:origLink>https://www.sciencedaily.com/releases/2016/03/160302182438.htm</feedburner:origLink></item>
+		<item>
+			<title>Next-generation immunotherapy offers new hope for beating brain cancer</title>
+			<link>http://feeds.sciencedaily.com/~r/sciencedaily/health_medicine/cancer/~3/TpYZdp7ecu8/160302181728.htm</link>
+			<description>High-grade glioma is the most aggressive form of brain cancer. Despite improvements in surgical procedures, chemotherapy, and radiotherapy, this type of brain tumor is still notoriously hard to treat: less than 10 percent of patients survive beyond five years. Researchers have now shown that next-generation cell-based immunotherapy may offer new hope in the fight against brain cancer.&lt;img src="http://feeds.feedburner.com/~r/sciencedaily/health_medicine/cancer/~4/TpYZdp7ecu8" height="1" width="1" alt=""/&gt;</description>
+			<media:thumbnail url="https://images.sciencedaily.com/2016/03/160302181728.jpg" height="242" width="300" />
+			<pubDate>Wed, 02 Mar 2016 18:17:28 EST</pubDate>
+			<guid isPermaLink="false">https://www.sciencedaily.com/releases/2016/03/160302181728.htm</guid>
+		<feedburner:origLink>https://www.sciencedaily.com/releases/2016/03/160302181728.htm</feedburner:origLink></item>
+		<item>
+			<title>New weapon in the fight against children's brain tumors</title>
+			<link>http://feeds.sciencedaily.com/~r/sciencedaily/health_medicine/cancer/~3/Rib3RcOlKOk/160302181712.htm</link>
+			<description>Children with brain cancer may soon get some help from mice with the same disease, thanks to a new brain tumor model in mice that should make it easier to test treatments.&lt;img src="http://feeds.feedburner.com/~r/sciencedaily/health_medicine/cancer/~4/Rib3RcOlKOk" height="1" width="1" alt=""/&gt;</description>
+			<media:thumbnail url="https://images.sciencedaily.com/2016/03/160302181712.jpg" height="225" width="300" />
+			<pubDate>Wed, 02 Mar 2016 18:17:12 EST</pubDate>
+			<guid isPermaLink="false">https://www.sciencedaily.com/releases/2016/03/160302181712.htm</guid>
+		<feedburner:origLink>https://www.sciencedaily.com/releases/2016/03/160302181712.htm</feedburner:origLink></item>
+		<item>
+			<title>Vitamin D deficiency contributes to spread of breast cancer in mice, study finds</title>
+			<link>http://feeds.sciencedaily.com/~r/sciencedaily/health_medicine/cancer/~3/-QsPyk63_Yo/160302135614.htm</link>
+			<description>Breast tumors in laboratory mice deficient in vitamin D grow faster and are more likely to metastasize than tumors in mice with adequate levels of vitamin D, according to a preliminary study.&lt;img src="http://feeds.feedburner.com/~r/sciencedaily/health_medicine/cancer/~4/-QsPyk63_Yo" height="1" width="1" alt=""/&gt;</description>
+			<pubDate>Wed, 02 Mar 2016 13:56:14 EST</pubDate>
+			<guid isPermaLink="false">https://www.sciencedaily.com/releases/2016/03/160302135614.htm</guid>
+		<feedburner:origLink>https://www.sciencedaily.com/releases/2016/03/160302135614.htm</feedburner:origLink></item>
+		<item>
+			<title>Processed meat may increase the risk of breast cancer for Latinas, study finds</title>
+			<link>http://feeds.sciencedaily.com/~r/sciencedaily/health_medicine/cancer/~3/5pqXbH4tfNI/160302135603.htm</link>
+			<description>Latinas who eat processed meats such as bacon and sausage may have an increased risk for breast cancer, according to a new study that did not find the same association among white women. Researchers also looked at consumption of red meats, poultry, all fish and just tuna. White women who ate an average of 14 grams of tuna daily (roughly the size of a thimble) were 25 percent more likely to have breast cancer than those who did not.&lt;img src="http://feeds.feedburner.com/~r/sciencedaily/health_medicine/cancer/~4/5pqXbH4tfNI" height="1" width="1" alt=""/&gt;</description>
+			<pubDate>Wed, 02 Mar 2016 13:56:03 EST</pubDate>
+			<guid isPermaLink="false">https://www.sciencedaily.com/releases/2016/03/160302135603.htm</guid>
+		<feedburner:origLink>https://www.sciencedaily.com/releases/2016/03/160302135603.htm</feedburner:origLink></item>
+		<item>
+			<title>High-fat diet linked to intestinal stem cell changes, increased risk for cancer</title>
+			<link>http://feeds.sciencedaily.com/~r/sciencedaily/health_medicine/cancer/~3/a01D2cUTIvM/160302132730.htm</link>
+			<description>Over the past decade, studies have found that obesity and eating a high-fat, high-calorie diet are significant risk factors for many types of cancer. Now, a new study reveals how a high-fat diet makes the cells of the intestinal lining more likely to become cancerous.&lt;img src="http://feeds.feedburner.com/~r/sciencedaily/health_medicine/cancer/~4/a01D2cUTIvM" height="1" width="1" alt=""/&gt;</description>
+			<pubDate>Wed, 02 Mar 2016 13:27:30 EST</pubDate>
+			<guid isPermaLink="false">https://www.sciencedaily.com/releases/2016/03/160302132730.htm</guid>
+		<feedburner:origLink>https://www.sciencedaily.com/releases/2016/03/160302132730.htm</feedburner:origLink></item>
+		<item>
+			<title>Routine colonoscopies save lives</title>
+			<link>http://feeds.sciencedaily.com/~r/sciencedaily/health_medicine/cancer/~3/wpwnSz1vtxA/160302132717.htm</link>
+			<description>Cancer of the colon or rectum is the second leading cause of cancer deaths among both men and women in the United States. According to the Centers for Disease Control and Prevention, about 140,000 Americans are diagnosed annually with colorectal cancer, and more than 50,000 people die from it. Colorectal cancer is preventable through screenings that detect and remove small, pre-cancerous growths called polyps.&lt;img src="http://feeds.feedburner.com/~r/sciencedaily/health_medicine/cancer/~4/wpwnSz1vtxA" height="1" width="1" alt=""/&gt;</description>
+			<media:thumbnail url="https://images.sciencedaily.com/2016/03/160302132717.jpg" height="169" width="300" />
+			<pubDate>Wed, 02 Mar 2016 13:27:17 EST</pubDate>
+			<guid isPermaLink="false">https://www.sciencedaily.com/releases/2016/03/160302132717.htm</guid>
+		<feedburner:origLink>https://www.sciencedaily.com/releases/2016/03/160302132717.htm</feedburner:origLink></item>
+		<item>
+			<title>New report finds 'surprising gaps' in knowledge of ovarian cancers</title>
+			<link>http://feeds.sciencedaily.com/~r/sciencedaily/health_medicine/cancer/~3/8wMUsj3koSU/160302121241.htm</link>
+			<description>Ovarian cancer should not be categorized as a single disease, but rather as a constellation of different cancers involving the ovary, yet questions remain on how and where various ovarian cancers arise, says a new congressionally mandated report.&lt;img src="http://feeds.feedburner.com/~r/sciencedaily/health_medicine/cancer/~4/8wMUsj3koSU" height="1" width="1" alt=""/&gt;</description>
+			<pubDate>Wed, 02 Mar 2016 12:12:41 EST</pubDate>
+			<guid isPermaLink="false">https://www.sciencedaily.com/releases/2016/03/160302121241.htm</guid>
+		<feedburner:origLink>https://www.sciencedaily.com/releases/2016/03/160302121241.htm</feedburner:origLink></item>
+		<item>
+			<title>Discovery of a gene associated with a set of poorly understood rare diseases</title>
+			<link>http://feeds.sciencedaily.com/~r/sciencedaily/health_medicine/cancer/~3/8Q_NO9Z-tiE/160302121233.htm</link>
+			<description>GEMC1 has been identified as a master gene for the generation of multiciliated cells -- cells with fine filaments that move fluids and substances -- which are found exclusively in the brain, respiratory tract, and reproductive system. Defects in multiciliated cells lead to ciliopathies -- rare and complex diseases that are poorly understood and for which not all causative genes have been identified.&lt;img src="http://feeds.feedburner.com/~r/sciencedaily/health_medicine/cancer/~4/8Q_NO9Z-tiE" height="1" width="1" alt=""/&gt;</description>
+			<media:thumbnail url="https://images.sciencedaily.com/2016/03/160302121233.jpg" height="316" width="300" />
+			<pubDate>Wed, 02 Mar 2016 12:12:33 EST</pubDate>
+			<guid isPermaLink="false">https://www.sciencedaily.com/releases/2016/03/160302121233.htm</guid>
+		<feedburner:origLink>https://www.sciencedaily.com/releases/2016/03/160302121233.htm</feedburner:origLink></item>
+		<item>
+			<title>Toward diagnosing diseases such as cancer in their earliest stages</title>
+			<link>http://feeds.sciencedaily.com/~r/sciencedaily/health_medicine/cancer/~3/Cq1EZ65Ffts/160302121034.htm</link>
+			<description>Detecting diseases such as cancer in their earliest stages can make a huge difference in patient treatment, but it is often difficult to do. Now scientists report a new, simple method that could make early disease diagnosis much easier. In addition, their approach only requires a minute sample of patient blood and is 1,000 times more sensitive in detecting biomarkers for thyroid cancer than the current government-approved test.&lt;img src="http://feeds.feedburner.com/~r/sciencedaily/health_medicine/cancer/~4/Cq1EZ65Ffts" height="1" width="1" alt=""/&gt;</description>
+			<pubDate>Wed, 02 Mar 2016 12:10:34 EST</pubDate>
+			<guid isPermaLink="false">https://www.sciencedaily.com/releases/2016/03/160302121034.htm</guid>
+		<feedburner:origLink>https://www.sciencedaily.com/releases/2016/03/160302121034.htm</feedburner:origLink></item>
+		<item>
+			<title>Cancer cells' evasive action revealed</title>
+			<link>http://feeds.sciencedaily.com/~r/sciencedaily/health_medicine/cancer/~3/mA5525XxaAk/160302121032.htm</link>
+			<description>Researchers identify a mechanism by which lung cancer cells evade the body's immune system. The researchers have found links between subtle actions and reactions that allow cancerous cells to spread with little to stand in their way.&lt;img src="http://feeds.feedburner.com/~r/sciencedaily/health_medicine/cancer/~4/mA5525XxaAk" height="1" width="1" alt=""/&gt;</description>
+			<pubDate>Wed, 02 Mar 2016 12:10:32 EST</pubDate>
+			<guid isPermaLink="false">https://www.sciencedaily.com/releases/2016/03/160302121032.htm</guid>
+		<feedburner:origLink>https://www.sciencedaily.com/releases/2016/03/160302121032.htm</feedburner:origLink></item>
+		<item>
+			<title>Study of patients with melanoma finds most have few moles</title>
+			<link>http://feeds.sciencedaily.com/~r/sciencedaily/health_medicine/cancer/~3/4TtwvYZ9LY4/160302115435.htm</link>
+			<description>Most patients with melanoma had few moles and no atypical moles, and in patients younger than 60, thick melanomas were more commonly found in those with fewer moles but more atypical moles, according to an article.&lt;img src="http://feeds.feedburner.com/~r/sciencedaily/health_medicine/cancer/~4/4TtwvYZ9LY4" height="1" width="1" alt=""/&gt;</description>
+			<pubDate>Wed, 02 Mar 2016 11:54:35 EST</pubDate>
+			<guid isPermaLink="false">https://www.sciencedaily.com/releases/2016/03/160302115435.htm</guid>
+		<feedburner:origLink>https://www.sciencedaily.com/releases/2016/03/160302115435.htm</feedburner:origLink></item>
+		<item>
+			<title>Differences in type of small protein may further elucidate lung cancer risk in African Americans</title>
+			<link>http://feeds.sciencedaily.com/~r/sciencedaily/health_medicine/cancer/~3/U3TTqpOQLyM/160302084559.htm</link>
+			<description>Research shows differences in a certain type of small protein vary by race and may contribute differently to the development of lung cancer in African Americans and European Americans.&lt;img src="http://feeds.feedburner.com/~r/sciencedaily/health_medicine/cancer/~4/U3TTqpOQLyM" height="1" width="1" alt=""/&gt;</description>
+			<pubDate>Wed, 02 Mar 2016 08:45:59 EST</pubDate>
+			<guid isPermaLink="false">https://www.sciencedaily.com/releases/2016/03/160302084559.htm</guid>
+		<feedburner:origLink>https://www.sciencedaily.com/releases/2016/03/160302084559.htm</feedburner:origLink></item>
+		<item>
+			<title>Breast cancer: The mental trauma of severe disease</title>
+			<link>http://feeds.sciencedaily.com/~r/sciencedaily/health_medicine/cancer/~3/ijUMxOGMNpU/160302082618.htm</link>
+			<description>A majority of patients diagnosed with breast cancer go on to develop symptoms of post-traumatic stress disorder, and in most of these cases the symptoms persist for at least a year, new research indicates.&lt;img src="http://feeds.feedburner.com/~r/sciencedaily/health_medicine/cancer/~4/ijUMxOGMNpU" height="1" width="1" alt=""/&gt;</description>
+			<pubDate>Wed, 02 Mar 2016 08:26:18 EST</pubDate>
+			<guid isPermaLink="false">https://www.sciencedaily.com/releases/2016/03/160302082618.htm</guid>
+		<feedburner:origLink>https://www.sciencedaily.com/releases/2016/03/160302082618.htm</feedburner:origLink></item>
+		<item>
+			<title>Researchers find Achilles' heel of a severe form of childhood leukemia</title>
+			<link>http://feeds.sciencedaily.com/~r/sciencedaily/health_medicine/cancer/~3/WYQJ0xpfhZA/160302082400.htm</link>
+			<description>Researchers have found the Achilles' heel of one of the most aggressive forms of leukemia that affects both children and adults. They have also identified a possible new treatment that exploits this fatal weakness.&lt;img src="http://feeds.feedburner.com/~r/sciencedaily/health_medicine/cancer/~4/WYQJ0xpfhZA" height="1" width="1" alt=""/&gt;</description>
+			<pubDate>Wed, 02 Mar 2016 08:24:00 EST</pubDate>
+			<guid isPermaLink="false">https://www.sciencedaily.com/releases/2016/03/160302082400.htm</guid>
+		<feedburner:origLink>https://www.sciencedaily.com/releases/2016/03/160302082400.htm</feedburner:origLink></item>
+		<item>
+			<title>Cancer treatment on a cellular level</title>
+			<link>http://feeds.sciencedaily.com/~r/sciencedaily/health_medicine/cancer/~3/1LT3qwQDC9s/160302082249.htm</link>
+			<description>The most common treatments for cancer are radiation and chemotherapy. However they have side effects and also damage healthy tissues. Moreover, their effectiveness is limited when the cancer has spread through out the body. Researchers are therefore working to develop a gentler treatment that 'tricks' the cancer cells, which would absorb a cytotoxin and therefore be destroyed, while healthy cells would remain unaffected.&lt;img src="http://feeds.feedburner.com/~r/sciencedaily/health_medicine/cancer/~4/1LT3qwQDC9s" height="1" width="1" alt=""/&gt;</description>
+			<media:thumbnail url="https://images.sciencedaily.com/2016/03/160302082249.jpg" height="110" width="300" />
+			<pubDate>Wed, 02 Mar 2016 08:22:49 EST</pubDate>
+			<guid isPermaLink="false">https://www.sciencedaily.com/releases/2016/03/160302082249.htm</guid>
+		<feedburner:origLink>https://www.sciencedaily.com/releases/2016/03/160302082249.htm</feedburner:origLink></item>
+		<item>
+			<title>Ethnic minority women more likely to believe that cancer is deadly, down to fate</title>
+			<link>http://feeds.sciencedaily.com/~r/sciencedaily/health_medicine/cancer/~3/V7X75QV30ps/160301204933.htm</link>
+			<description>Women from ethnic minorities in the UK are more likely to believe that cancer is incurable and is down to fate than their white counterparts, according to a study. They surveyed 720 White British, Caribbean, African, Indian, Pakistani, and Bangladeshi women.&lt;img src="http://feeds.feedburner.com/~r/sciencedaily/health_medicine/cancer/~4/V7X75QV30ps" height="1" width="1" alt=""/&gt;</description>
+			<pubDate>Tue, 01 Mar 2016 20:49:33 EST</pubDate>
+			<guid isPermaLink="false">https://www.sciencedaily.com/releases/2016/03/160301204933.htm</guid>
+		<feedburner:origLink>https://www.sciencedaily.com/releases/2016/03/160301204933.htm</feedburner:origLink></item>
+		<item>
+			<title>Early MRI screening reduces risk of breast cancer death for survivors of childhood Hodgkin's lymphoma</title>
+			<link>http://feeds.sciencedaily.com/~r/sciencedaily/health_medicine/cancer/~3/Wpt1Qy-8Jpw/160301174132.htm</link>
+			<description>Early screening with MRIs can reduce breast cancer mortality for female survivors of childhood Hodgkin's lymphoma (HL) who received chest radiation, researchers have confirmed in a screening effectiveness study.&lt;img src="http://feeds.feedburner.com/~r/sciencedaily/health_medicine/cancer/~4/Wpt1Qy-8Jpw" height="1" width="1" alt=""/&gt;</description>
+			<pubDate>Tue, 01 Mar 2016 17:41:32 EST</pubDate>
+			<guid isPermaLink="false">https://www.sciencedaily.com/releases/2016/03/160301174132.htm</guid>
+		<feedburner:origLink>https://www.sciencedaily.com/releases/2016/03/160301174132.htm</feedburner:origLink></item>
+		<item>
+			<title>Low vitamin D predicts aggressive prostate cancer</title>
+			<link>http://feeds.sciencedaily.com/~r/sciencedaily/health_medicine/cancer/~3/XlP0jy6s3Tg/160301131117.htm</link>
+			<description>A new study provides a major link between low levels of vitamin D and aggressive prostate cancer. Research showed deficient vitamin D blood levels in men can predict aggressive prostate cancer identified at the time of surgery. The finding is important because it can offer guidance to men and their doctors who may be considering active surveillance, in which they monitor the cancer rather than remove the prostate&lt;img src="http://feeds.feedburner.com/~r/sciencedaily/health_medicine/cancer/~4/XlP0jy6s3Tg" height="1" width="1" alt=""/&gt;</description>
+			<pubDate>Tue, 01 Mar 2016 13:11:17 EST</pubDate>
+			<guid isPermaLink="false">https://www.sciencedaily.com/releases/2016/03/160301131117.htm</guid>
+		<feedburner:origLink>https://www.sciencedaily.com/releases/2016/03/160301131117.htm</feedburner:origLink></item>
+		<item>
+			<title>Beta blockers may lead to new novel triple negative breast cancer treatments</title>
+			<link>http://feeds.sciencedaily.com/~r/sciencedaily/health_medicine/cancer/~3/CUJ5EA8L6fc/160301131105.htm</link>
+			<description>New research shows that a commonly prescribed class of high blood pressure drugs may have the potential to slow the growth of triple negative breast cancer tumors. These drugs, called 'beta blockers' work by counteracting the pro-growth effect caused by adrenaline by affecting the the beta2-adrenoceptor.&lt;img src="http://feeds.feedburner.com/~r/sciencedaily/health_medicine/cancer/~4/CUJ5EA8L6fc" height="1" width="1" alt=""/&gt;</description>
+			<pubDate>Tue, 01 Mar 2016 13:11:05 EST</pubDate>
+			<guid isPermaLink="false">https://www.sciencedaily.com/releases/2016/03/160301131105.htm</guid>
+		<feedburner:origLink>https://www.sciencedaily.com/releases/2016/03/160301131105.htm</feedburner:origLink></item>
+		<item>
+			<title>Better biopsies through biofluidics</title>
+			<link>http://feeds.sciencedaily.com/~r/sciencedaily/health_medicine/cancer/~3/MGlIPbXiysw/160301113830.htm</link>
+			<description>Biopsies are a gold standard for definitively diagnosing diseases like cancer. Usually, doctors can only take 2-D snapshots of the tissue, and they're limited in their ability to measure the protein levels that might better explain a diagnosis. But now, researchers have developed a new method to acquire 3-D atlases of tissue that provide much more information, incorporating both data on the tissue structure and its molecular profile.&lt;img src="http://feeds.feedburner.com/~r/sciencedaily/health_medicine/cancer/~4/MGlIPbXiysw" height="1" width="1" alt=""/&gt;</description>
+			<media:thumbnail url="https://images.sciencedaily.com/2016/03/160301113830.jpg" height="300" width="300" />
+			<pubDate>Tue, 01 Mar 2016 11:38:30 EST</pubDate>
+			<guid isPermaLink="false">https://www.sciencedaily.com/releases/2016/03/160301113830.htm</guid>
+		<feedburner:origLink>https://www.sciencedaily.com/releases/2016/03/160301113830.htm</feedburner:origLink></item>
+		<item>
+			<title>Study may widen patient pool that benefits from EPZ-5676 against acute myeloid leukemia</title>
+			<link>http://feeds.sciencedaily.com/~r/sciencedaily/health_medicine/cancer/~3/BWO9TXHtNRg/160301103114.htm</link>
+			<description>The mechanism that gene MN1 uses to cause an aggressive AML subtype is better understood thanks to new research. Drugs targeting weak link in the chain of causation are in clinical trials for other subtypes.&lt;img src="http://feeds.feedburner.com/~r/sciencedaily/health_medicine/cancer/~4/BWO9TXHtNRg" height="1" width="1" alt=""/&gt;</description>
+			<pubDate>Tue, 01 Mar 2016 10:31:14 EST</pubDate>
+			<guid isPermaLink="false">https://www.sciencedaily.com/releases/2016/03/160301103114.htm</guid>
+		<feedburner:origLink>https://www.sciencedaily.com/releases/2016/03/160301103114.htm</feedburner:origLink></item>
+		<item>
+			<title>New biomarker identifies uveal melanoma patients at high risk for metastasis</title>
+			<link>http://feeds.sciencedaily.com/~r/sciencedaily/health_medicine/cancer/~3/H4Pllnj1xeU/160301074246.htm</link>
+			<description>A biomarker that puts patients at a higher risk for metastasis of uveal melanoma has been identified by researchers. Among uveal melanomas categorized as class 1, those with high levels of the biomarker PRAME mRNA were more likely to metastasize than those with low levels of PRAME mRNA, indicating that patients with this biomarker be monitored more closely for metastatic disease.&lt;img src="http://feeds.feedburner.com/~r/sciencedaily/health_medicine/cancer/~4/H4Pllnj1xeU" height="1" width="1" alt=""/&gt;</description>
+			<pubDate>Tue, 01 Mar 2016 07:42:46 EST</pubDate>
+			<guid isPermaLink="false">https://www.sciencedaily.com/releases/2016/03/160301074246.htm</guid>
+		<feedburner:origLink>https://www.sciencedaily.com/releases/2016/03/160301074246.htm</feedburner:origLink></item>
+		<item>
+			<title>Scientists identify gene that regulates growth of melanoma</title>
+			<link>http://feeds.sciencedaily.com/~r/sciencedaily/health_medicine/cancer/~3/wbadPK_FYrY/160229221011.htm</link>
+			<description>A gene in melanoma that can dramatically affect the growth of the disease has been identified by a team of researchers. The findings provide new insight into how melanoma grows and identifies a new target for treatment of melanoma and other cancers.&lt;img src="http://feeds.feedburner.com/~r/sciencedaily/health_medicine/cancer/~4/wbadPK_FYrY" height="1" width="1" alt=""/&gt;</description>
+			<media:thumbnail url="https://images.sciencedaily.com/2016/02/160229221011.jpg" height="375" width="300" />
+			<pubDate>Mon, 29 Feb 2016 22:10:11 EST</pubDate>
+			<guid isPermaLink="false">https://www.sciencedaily.com/releases/2016/02/160229221011.htm</guid>
+		<feedburner:origLink>https://www.sciencedaily.com/releases/2016/02/160229221011.htm</feedburner:origLink></item>
+		<item>
+			<title>Using new drug screening tool, researchers identify potential treatments for Ewing Sarcoma</title>
+			<link>http://feeds.sciencedaily.com/~r/sciencedaily/health_medicine/cancer/~3/BpyjfUT4G5E/160229220651.htm</link>
+			<description>In a first-of-its-kind-study, researchers have discovered and applied a new screening technique capable of testing thousands of potential drug compounds to see if those compounds can reverse abnormal DNA unwinding in Ewing sarcoma, a bone and soft tissue cancer that's most common in teens and young adults.&lt;img src="http://feeds.feedburner.com/~r/sciencedaily/health_medicine/cancer/~4/BpyjfUT4G5E" height="1" width="1" alt=""/&gt;</description>
+			<pubDate>Mon, 29 Feb 2016 22:06:51 EST</pubDate>
+			<guid isPermaLink="false">https://www.sciencedaily.com/releases/2016/02/160229220651.htm</guid>
+		<feedburner:origLink>https://www.sciencedaily.com/releases/2016/02/160229220651.htm</feedburner:origLink></item>
+		<item>
+			<title>Cancer patients with limited finances are more likely to have increased symptoms and poorer quality of life</title>
+			<link>http://feeds.sciencedaily.com/~r/sciencedaily/health_medicine/cancer/~3/NZTrw2t_9Ck/160229182540.htm</link>
+			<description>If you're a lung or colorectal cancer patient, what's in your wallet could determine your level of suffering and quality of life during treatment, according to a new study.&lt;img src="http://feeds.feedburner.com/~r/sciencedaily/health_medicine/cancer/~4/NZTrw2t_9Ck" height="1" width="1" alt=""/&gt;</description>
+			<pubDate>Mon, 29 Feb 2016 18:25:40 EST</pubDate>
+			<guid isPermaLink="false">https://www.sciencedaily.com/releases/2016/02/160229182540.htm</guid>
+		<feedburner:origLink>https://www.sciencedaily.com/releases/2016/02/160229182540.htm</feedburner:origLink></item>
+		<item>
+			<title>Autoimmune diseases: Novel drug for arthritis</title>
+			<link>http://feeds.sciencedaily.com/~r/sciencedaily/health_medicine/cancer/~3/HLY_Maz18pc/160229182536.htm</link>
+			<description>A significant step has been made in creating a new type of drug for treatment of autoimmune diseases, such as rheumatoid arthritis and Crohn's disease.&lt;img src="http://feeds.feedburner.com/~r/sciencedaily/health_medicine/cancer/~4/HLY_Maz18pc" height="1" width="1" alt=""/&gt;</description>
+			<pubDate>Mon, 29 Feb 2016 18:25:36 EST</pubDate>
+			<guid isPermaLink="false">https://www.sciencedaily.com/releases/2016/02/160229182536.htm</guid>
+		<feedburner:origLink>https://www.sciencedaily.com/releases/2016/02/160229182536.htm</feedburner:origLink></item>
+		<item>
+			<title>Engineered hydrogel scaffolds enable growth of functioning human breast tissue</title>
+			<link>http://feeds.sciencedaily.com/~r/sciencedaily/health_medicine/cancer/~3/4AYEsVVwcZc/160229153836.htm</link>
+			<description>Researchers have created a hydrogel scaffold that replicates the environment found within the human breast. The scaffold supports the growth of human mammary tissue from patient-derived cells and can be used to study normal breast development as well as breast cancer initiation and progression.&lt;img src="http://feeds.feedburner.com/~r/sciencedaily/health_medicine/cancer/~4/4AYEsVVwcZc" height="1" width="1" alt=""/&gt;</description>
+			<pubDate>Mon, 29 Feb 2016 15:38:36 EST</pubDate>
+			<guid isPermaLink="false">https://www.sciencedaily.com/releases/2016/02/160229153836.htm</guid>
+		<feedburner:origLink>https://www.sciencedaily.com/releases/2016/02/160229153836.htm</feedburner:origLink></item>
+		<item>
+			<title>Two-way clustering method for QSAR modeling of diverse set of chemicals</title>
+			<link>http://feeds.sciencedaily.com/~r/sciencedaily/health_medicine/cancer/~3/zQpdUwV2WRA/160229153241.htm</link>
+			<description>New articles developed in silico models for the estimation of potential mutagenicity of chemicals from their structure without the input of any other experimental data.&lt;img src="http://feeds.feedburner.com/~r/sciencedaily/health_medicine/cancer/~4/zQpdUwV2WRA" height="1" width="1" alt=""/&gt;</description>
+			<pubDate>Mon, 29 Feb 2016 15:32:41 EST</pubDate>
+			<guid isPermaLink="false">https://www.sciencedaily.com/releases/2016/02/160229153241.htm</guid>
+		<feedburner:origLink>https://www.sciencedaily.com/releases/2016/02/160229153241.htm</feedburner:origLink></item>
+		<item>
+			<title>Single dose of trastuzumab kick starts immune response in certain breast cancers</title>
+			<link>http://feeds.sciencedaily.com/~r/sciencedaily/health_medicine/cancer/~3/aA_B7jjaFpo/160229153235.htm</link>
+			<description>A tumor's immune response to a single dose of the HER2 inhibitor trastuzumab predicted which patients with HER2-positive breast cancer would respond to the drug on a more long-term basis, according to the results of a new study.&lt;img src="http://feeds.feedburner.com/~r/sciencedaily/health_medicine/cancer/~4/aA_B7jjaFpo" height="1" width="1" alt=""/&gt;</description>
+			<pubDate>Mon, 29 Feb 2016 15:32:35 EST</pubDate>
+			<guid isPermaLink="false">https://www.sciencedaily.com/releases/2016/02/160229153235.htm</guid>
+		<feedburner:origLink>https://www.sciencedaily.com/releases/2016/02/160229153235.htm</feedburner:origLink></item>
+		<item>
+			<title>Blocking inflammation prevents cell death, improves memory in Alzheimer's disease</title>
+			<link>http://feeds.sciencedaily.com/~r/sciencedaily/health_medicine/cancer/~3/bpWEu0A-72g/160229152916.htm</link>
+			<description>Using a drug compound created to treat cancer, neurobiologists have disarmed the brain's response to the distinctive beta-amyloid plaques that are the hallmark of Alzheimer's disease.&lt;img src="http://feeds.feedburner.com/~r/sciencedaily/health_medicine/cancer/~4/bpWEu0A-72g" height="1" width="1" alt=""/&gt;</description>
+			<media:thumbnail url="https://images.sciencedaily.com/2016/02/160229152916.jpg" height="300" width="300" />
+			<pubDate>Mon, 29 Feb 2016 15:29:16 EST</pubDate>
+			<guid isPermaLink="false">https://www.sciencedaily.com/releases/2016/02/160229152916.htm</guid>
+		<feedburner:origLink>https://www.sciencedaily.com/releases/2016/02/160229152916.htm</feedburner:origLink></item>
+		<item>
+			<title>Metabolic phenotyping of blood plasma allows for the detection of lung cancer</title>
+			<link>http://feeds.sciencedaily.com/~r/sciencedaily/health_medicine/cancer/~3/lR_N1PWdfUs/160229140130.htm</link>
+			<description>Metabolic phenotyping of blood plasma by proton nuclear magnetic resonance identified unique metabolic biomarkers specific to lung cancer patients and allowed for the accurate identification of a cohort of patients with early and late-stage lung cancer.&lt;img src="http://feeds.feedburner.com/~r/sciencedaily/health_medicine/cancer/~4/lR_N1PWdfUs" height="1" width="1" alt=""/&gt;</description>
+			<pubDate>Mon, 29 Feb 2016 14:01:30 EST</pubDate>
+			<guid isPermaLink="false">https://www.sciencedaily.com/releases/2016/02/160229140130.htm</guid>
+		<feedburner:origLink>https://www.sciencedaily.com/releases/2016/02/160229140130.htm</feedburner:origLink></item>
+		<item>
+			<title>Mutated gene associated with colon cancer discovered in 18th-century Hungarian mummy</title>
+			<link>http://feeds.sciencedaily.com/~r/sciencedaily/health_medicine/cancer/~3/LCgym8-uJ94/160229140123.htm</link>
+			<description>A new discovery suggests that a genetic predisposition to cancer preceded the advent of modernization -- and, in a bizarre twist, they discovered this evidence in an 18th-century Hungarian mummy.&lt;img src="http://feeds.feedburner.com/~r/sciencedaily/health_medicine/cancer/~4/LCgym8-uJ94" height="1" width="1" alt=""/&gt;</description>
+			<media:thumbnail url="https://images.sciencedaily.com/2016/02/160229140123.jpg" height="400" width="300" />
+			<pubDate>Mon, 29 Feb 2016 14:01:23 EST</pubDate>
+			<guid isPermaLink="false">https://www.sciencedaily.com/releases/2016/02/160229140123.htm</guid>
+		<feedburner:origLink>https://www.sciencedaily.com/releases/2016/02/160229140123.htm</feedburner:origLink></item>
+		<item>
+			<title>Is anti-TNF therapy safe for inflammatory bowel disease patients with prior cancer?</title>
+			<link>http://feeds.sciencedaily.com/~r/sciencedaily/health_medicine/cancer/~3/uwWNRGEgKMI/160229135936.htm</link>
+			<description>A previous history of cancer doesn't necessarily preclude treatment with antibodies against tumor necrosis factor (anti-TNF) for patients with inflammatory bowel diseases, suggests a new study.&lt;img src="http://feeds.feedburner.com/~r/sciencedaily/health_medicine/cancer/~4/uwWNRGEgKMI" height="1" width="1" alt=""/&gt;</description>
+			<pubDate>Mon, 29 Feb 2016 13:59:36 EST</pubDate>
+			<guid isPermaLink="false">https://www.sciencedaily.com/releases/2016/02/160229135936.htm</guid>
+		<feedburner:origLink>https://www.sciencedaily.com/releases/2016/02/160229135936.htm</feedburner:origLink></item>
+		<item>
+			<title>Blood vessels sprout under pressure</title>
+			<link>http://feeds.sciencedaily.com/~r/sciencedaily/health_medicine/cancer/~3/h6WMPL-wvKE/160229135335.htm</link>
+			<description>It is blood pressure that drives the opening of small capillaries during angiogenesis. A team of researchers has observed the process for the first time.&lt;img src="http://feeds.feedburner.com/~r/sciencedaily/health_medicine/cancer/~4/h6WMPL-wvKE" height="1" width="1" alt=""/&gt;</description>
+			<pubDate>Mon, 29 Feb 2016 13:53:35 EST</pubDate>
+			<guid isPermaLink="false">https://www.sciencedaily.com/releases/2016/02/160229135335.htm</guid>
+		<feedburner:origLink>https://www.sciencedaily.com/releases/2016/02/160229135335.htm</feedburner:origLink></item>
+		<item>
+			<title>Breast cancer genetic variants found to alter how cells respond to estrogen</title>
+			<link>http://feeds.sciencedaily.com/~r/sciencedaily/health_medicine/cancer/~3/IQgH4u3eD_Y/160229135151.htm</link>
+			<description>An international study of almost 120,000 women has newly identified five genetic variants affecting risk of breast cancer, all of which are believed to influence how breast cells respond to the female sex hormone estrogen.&lt;img src="http://feeds.feedburner.com/~r/sciencedaily/health_medicine/cancer/~4/IQgH4u3eD_Y" height="1" width="1" alt=""/&gt;</description>
+			<pubDate>Mon, 29 Feb 2016 13:51:51 EST</pubDate>
+			<guid isPermaLink="false">https://www.sciencedaily.com/releases/2016/02/160229135151.htm</guid>
+		<feedburner:origLink>https://www.sciencedaily.com/releases/2016/02/160229135151.htm</feedburner:origLink></item>
+		<item>
+			<title>Illuminating the broad spectrum of disease</title>
+			<link>http://feeds.sciencedaily.com/~r/sciencedaily/health_medicine/cancer/~3/LCjzweg6kYA/160229135149.htm</link>
+			<description>A new method that dramatically simplifies an arduous experimental process in early drug discovery has been described by researchers in a new report. Their method, called PRISM, uses a molecular barcoding system to test potential drug compounds on cancer and other cell lines at unprecedented scale and speed. The system allows for pooling and testing of multiple cell lines simultaneously, accelerating the search for targeted therapies and better representing the genetic diversity of disease.&lt;img src="http://feeds.feedburner.com/~r/sciencedaily/health_medicine/cancer/~4/LCjzweg6kYA" height="1" width="1" alt=""/&gt;</description>
+			<pubDate>Mon, 29 Feb 2016 13:51:49 EST</pubDate>
+			<guid isPermaLink="false">https://www.sciencedaily.com/releases/2016/02/160229135149.htm</guid>
+		<feedburner:origLink>https://www.sciencedaily.com/releases/2016/02/160229135149.htm</feedburner:origLink></item>
+		<item>
+			<title>Precision oncology could be tailor-made for metastatic prostate cancer</title>
+			<link>http://feeds.sciencedaily.com/~r/sciencedaily/health_medicine/cancer/~3/58YmFnljeLw/160229135146.htm</link>
+			<description>Metastatic prostate cancer, where better therapeutic strategies are desperately needed, appears to be tailor-made for precision oncology, according to a new study. Researchers found that a single metastasis within an individual patient can provide consistent molecular information to help guide therapy in metastatic prostate cancer.&lt;img src="http://feeds.feedburner.com/~r/sciencedaily/health_medicine/cancer/~4/58YmFnljeLw" height="1" width="1" alt=""/&gt;</description>
+			<media:thumbnail url="https://images.sciencedaily.com/2016/02/160229135146.jpg" height="200" width="300" />
+			<pubDate>Mon, 29 Feb 2016 13:51:46 EST</pubDate>
+			<guid isPermaLink="false">https://www.sciencedaily.com/releases/2016/02/160229135146.htm</guid>
+		<feedburner:origLink>https://www.sciencedaily.com/releases/2016/02/160229135146.htm</feedburner:origLink></item>
+		<item>
+			<title>New genetic insights into mesothelioma</title>
+			<link>http://feeds.sciencedaily.com/~r/sciencedaily/health_medicine/cancer/~3/ekTPU1f5_r0/160229135143.htm</link>
+			<description>In a comprehensive genomic analysis using more than 200 mesothelioma tumors, investigators have found previously unknown genetic alterations, including some that may be clinically actionable, as well as others that may improve diagnostics, screening and predictions about outcomes for patients.&lt;img src="http://feeds.feedburner.com/~r/sciencedaily/health_medicine/cancer/~4/ekTPU1f5_r0" height="1" width="1" alt=""/&gt;</description>
+			<pubDate>Mon, 29 Feb 2016 13:51:43 EST</pubDate>
+			<guid isPermaLink="false">https://www.sciencedaily.com/releases/2016/02/160229135143.htm</guid>
+		<feedburner:origLink>https://www.sciencedaily.com/releases/2016/02/160229135143.htm</feedburner:origLink></item>
+	</channel>
+</rss><!-- Page successfully written to cache. --><!-- cached Sun, 06 Mar 2016 23:07:01 EST -->

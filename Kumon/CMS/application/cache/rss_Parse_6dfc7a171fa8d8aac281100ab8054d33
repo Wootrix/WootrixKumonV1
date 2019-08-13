@@ -1,0 +1,517 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" media="screen" href="/~d/styles/rss2full.xsl"?><?xml-stylesheet type="text/css" media="screen" href="http://feeds.feedburner.com/~d/styles/itemcontent.css"?><rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:admin="http://webns.net/mvcb/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+
+<channel>
+<title>Topic: Case Studies - Supply Chain 24/7</title>
+<link>http://www.supplychain247.com/rss/category/case_studies</link>
+<description>SupplyChain247</description>
+<dc:language>en</dc:language>
+<dc:creator>pburnson@peerlessmedia.com</dc:creator>
+<dc:rights>Copyright 2017</dc:rights>
+<dc:date>2017-01-23T19:43:00+00:00</dc:date>
+<admin:generatorAgent rdf:resource="http://www.pmachine.com/" />
+
+
+<atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://feeds.feedburner.com/sc247/rss/case_studies" /><feedburner:info xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" uri="sc247/rss/case_studies" /><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/" /><item>
+<title>Automating Time-Critical Business Processes &amp; Governing the Flow of EDI Data</title>
+<link>http://www.supplychain247.com/article/automating_time_critical_business_processes_governing_the_flow_of_edi_data</link>
+ 
+ 
+<description><![CDATA[<img src='http://www.supplychain247.com/images/article/automating_time_critical_business_image.jpg/><br />]]>Selecting and migrating to a new EDI solution that provides native support for a full range of EDI formats, and is compatible with the corporate ERP, can be a daunting challenge.</description>
+
+<guid>http://www.supplychain247.com/article/automating_time_critical_business_processes_governing_the_flow_of_edi_data</guid>
+<dc:subject>Case Studies, Technology, Software</dc:subject>
+<dc:date>2015-02-17T18:33:03+00:00</dc:date>
+</item><item>
+<title>Real-Time Visibility &amp; Analytics for UTiâs Global B2B âCenter of Excellenceâ</title>
+<link>http://www.supplychain247.com/article/real_time_visibility_analytics_for_utis_global_b2b_center_of_excellence</link>
+ 
+ 
+<description><![CDATA[<img src='http://www.supplychain247.com/images/article/real_time_visibility_analytics_for_uti_image.jpg/><br />]]>By centralizing and modernizing UTi's B2B operations, they have simplified production support and gained back the time they used to spend going through each technology layer to find out where and why something went wrong.</description>
+
+<guid>http://www.supplychain247.com/article/real_time_visibility_analytics_for_utis_global_b2b_center_of_excellence</guid>
+<dc:subject>Case Studies, Supply Chain, Supply Chain Optimization</dc:subject>
+<dc:date>2015-02-04T12:51:03+00:00</dc:date>
+</item><item>
+<title>The Amazing Supply Chain of the 2014 World Cup Soccer Ball</title>
+<link>http://www.supplychain247.com/article/the_amazing_supply_chain_of_the_2014_world_cup_soccer_ball</link>
+ 
+ 
+<description><![CDATA[<img src='http://www.supplychain247.com/images/article/worldcup_2014_match_ball_image2.jpg/><br />]]>Most people donât give a second thought to the soccer ballâs journey to the pitch - itâs safe to say though, that just as much careful supply chain planning and hard work goes into making the ball as training the players.</description>
+
+<guid>http://www.supplychain247.com/article/the_amazing_supply_chain_of_the_2014_world_cup_soccer_ball</guid>
+<dc:subject>Case Studies, Supply Chain, Sourcing &amp; Procurement</dc:subject>
+<dc:date>2014-06-12T10:00:12+00:00</dc:date>
+</item><item>
+<title>Papa Johnâs Achieves 10-15% Reduction in Freight Spend in 6 Months</title>
+<link>http://www.supplychain247.com/article/papa_johns_achieves_10_15_reduction_in_freight_spend_in_6_months</link>
+ 
+ 
+<description><![CDATA[<img src='http://www.supplychain247.com/images/article/manhattan_associates_papa_johns_supply_chain_process_platform_image.jpg/><br />]]>Supply Chain Process Platform improved overall visibility, reduced outside storage costs and inventory levels, improved DC efficiencies and transportation utilization, reduced mileage and labor costs.</description>
+
+<guid>http://www.supplychain247.com/article/papa_johns_achieves_10_15_reduction_in_freight_spend_in_6_months</guid>
+<dc:subject>Case Studies, Supply Chain, Supply Chain Optimization</dc:subject>
+<dc:date>2014-04-16T07:37:10+00:00</dc:date>
+</item><item>
+<title>Keeping the City of Dallas Secure with MobileAsset</title>
+<link>http://www.supplychain247.com/article/keeping_the_city_of_dallas_secure_with_mobileasset</link>
+ 
+ 
+<description><![CDATA[<img src='http://www.supplychain247.com/images/article/wasp_barcode_technologies_dallas_image.jpg/><br />]]>Wasp's asset tracking software, MobileAsset, helps the City of Dallas track items like armored SWAT vehicles, police radios, GPS systems, and laptops -- ensuring that items essential to the city's security can always be located. Using MobileAsset, the City of Dallas can quickly access asset tracking reports and comply with audit requests.</description>
+
+<guid>http://www.supplychain247.com/article/keeping_the_city_of_dallas_secure_with_mobileasset</guid>
+<dc:subject>Case Studies, Warehouse/DC, Auto ID &amp; Data Capture</dc:subject>
+<dc:date>2014-02-06T19:59:08+00:00</dc:date>
+</item><item>
+<title>QSCC Achieves Cross-Functional Visibility by Integrating Internal &amp; External Systems</title>
+<link>http://www.supplychain247.com/article/qscc_achieves_cross_functional_visibility_by_integrating_systems</link>
+ 
+ 
+<description><![CDATA[<img src='http://www.supplychain247.com/images/article/arrowstream_QSCC_image.jpg/><br />]]>In a fast-moving marketplace, QSCC wanted to gain more supply chain purchasing visibility on a daily basis in order to ensure continuous, on-time supply and reduce costs.</description>
+
+<guid>http://www.supplychain247.com/article/qscc_achieves_cross_functional_visibility_by_integrating_systems</guid>
+<dc:subject>Case Studies, Technology, Software</dc:subject>
+<dc:date>2013-12-01T02:05:58+00:00</dc:date>
+</item><item>
+<title>Supply Chain Case Studies</title>
+<link>http://www.supplychain247.com/paper/supply_chain_case_studies</link>
+ 
+ 
+<description><![CDATA[<img src='http://www.supplychain247.com/images/wp/pittohio_combined_thumbnail.jpg/><br />]]>PITT OHIO takes a look at various Supply Chain Transportation Solutions</description>
+
+<guid>http://www.supplychain247.com/paper/supply_chain_case_studies</guid>
+<dc:subject>Case Studies, Resources, Papers, Transportation, Transportation Management</dc:subject>
+<dc:date>2013-10-31T14:01:19+00:00</dc:date>
+</item><item>
+<title>A Historical Perspective on Regional Parcel Carriers</title>
+<link>http://www.supplychain247.com/paper/regional_parcel_carriers_a_historical_perspective</link>
+ 
+ 
+<description><![CDATA[<img src='http://www.supplychain247.com/images/wp/RegionalParcelCarriersHistoricalPerspective.jpg/><br />]]>Regional parcel carriers are a vast group and each has its own set of strengths that your organization can leverage to enhance your supply chain. They can provide better transit, white glove services, special handling, and in most cases, better prices.</description>
+
+<guid>http://www.supplychain247.com/paper/regional_parcel_carriers_a_historical_perspective</guid>
+<dc:subject>Case Studies, Resources, Papers, Transportation, Transportation Management</dc:subject>
+<dc:date>2013-10-31T12:49:04+00:00</dc:date>
+</item><item>
+<title>A Case Study of Bare Escentualsâ Omni-Channel Distribution Center</title>
+<link>http://www.supplychain247.com/article/a_case_study_of_bare_escentuals_omni-channel_distribution_center</link>
+ 
+ 
+<description><![CDATA[<img src='http://www.supplychain247.com/images/article/bare_escentuals_image.jpg/><br />]]>With a Web site launch pending in 2007, the companyâs logistics team knew that bringing the fulfillment for all the channels into one facility would enable the retailer to make sure that they got the right product to the right people at the right time.</description>
+
+<guid>http://www.supplychain247.com/article/a_case_study_of_bare_escentuals_omni-channel_distribution_center</guid>
+<dc:subject>News, Media, Videos, Case Studies, Warehouse/DC, Warehouse Management, Other, E-commerce</dc:subject>
+<dc:date>2013-07-14T20:25:37+00:00</dc:date>
+</item><item>
+<title>World Visionâs LMMS Advances Aid with Intermec CN50, FieldWorker</title>
+<link>http://www.supplychain247.com/article/world_visions_lmms_advances_aid_with_intermec_cn50_fieldworker</link>
+ 
+ 
+<description><![CDATA[<img src='http://www.supplychain247.com/images/article/world_vision_case_study_video_image.jpg/><br />]]>Last Mile Mobile Solutions (LMMS) - "Through LMMS, we are now able to scan beneficiary ID cards with the Intermec CN50 mobile computers. This creates the verification that they've received their relief supplies."</description>
+
+<guid>http://www.supplychain247.com/article/world_visions_lmms_advances_aid_with_intermec_cn50_fieldworker</guid>
+<dc:subject>Media, Videos, Case Studies, Warehouse/DC, Auto ID &amp; Data Capture, Technology, Mobile &amp; Wireless</dc:subject>
+<dc:date>2013-06-27T02:32:32+00:00</dc:date>
+</item><item>
+<title>Mail Call - Improving Efficiency Through Mobile Data Capture</title>
+<link>http://www.supplychain247.com/article/mail_call_improving_efficiency_through_mobile_data_capture</link>
+ 
+ 
+<description><![CDATA[<img src='http://www.supplychain247.com/images/article/intermec_mail_call_image.jpg/><br />]]>Mail Call delivered a courier solution to equip their drivers, riders and delivery guys with the tool they need to complete deliveries accurately with no down time. Watch the Mail Call case study video, achieving efficiencies to improve their business through an Intermec &amp; BCDS solution.</description>
+
+<guid>http://www.supplychain247.com/article/mail_call_improving_efficiency_through_mobile_data_capture</guid>
+<dc:subject>Case Studies, Transportation, Transportation Management, Warehouse/DC, Auto ID &amp; Data Capture</dc:subject>
+<dc:date>2013-06-27T00:50:36+00:00</dc:date>
+</item><item>
+<title>Leading Global Logistics Provider HAVI Discovers the Benefits of Auto-ID Technology</title>
+<link>http://www.supplychain247.com/article/leading_global_logistics_provider_havi_discovers_the_benefits_of_auto_id</link>
+ 
+ 
+<description><![CDATA[<img src='http://www.supplychain247.com/images/article/intermec_havi_logistics_image.jpg/><br />]]>When looking for the right printer, HAVI Logistics found exactly what they were looking for from Intermec. And it was not just the high quality of its products that impressed the project managers. The PX6i high-performance thermal transfer printer printhead replacement program was another significant reason why Intermec was chosen.</description>
+
+<guid>http://www.supplychain247.com/article/leading_global_logistics_provider_havi_discovers_the_benefits_of_auto_id</guid>
+<dc:subject>Case Studies, Transportation, Transportation Management, Warehouse/DC, Auto ID &amp; Data Capture</dc:subject>
+<dc:date>2013-06-26T23:05:33+00:00</dc:date>
+</item><item>
+<title>Transtar Improves Business IQ with Smart Printing Solution</title>
+<link>http://www.supplychain247.com/article/transtar_improves_business_iq_with_smart_printing_solution</link>
+ 
+ 
+<description><![CDATA[<img src='http://www.supplychain247.com/images/article/intermec_transtar_image.jpg/><br />]]>The company couldnât easily track shipment errors, and in fact was spending increased staff hours on a manual process growing increasingly outdated. They sought a seamless transition from the outdated labeling process to a streamlined, easy-toimplement solution that would increase productivity, reduce lengthy preparation time and increase customer satisfaction. The solution? Intermec PM4i and PX6i Smart Printers.</description>
+
+<guid>http://www.supplychain247.com/article/transtar_improves_business_iq_with_smart_printing_solution</guid>
+<dc:subject>Case Studies, Warehouse/DC, Auto ID &amp; Data Capture</dc:subject>
+<dc:date>2013-06-26T22:15:31+00:00</dc:date>
+</item><item>
+<title>Earhart Petroleumâs Fleet Automation Boosts Productivity 20 Percent</title>
+<link>http://www.supplychain247.com/article/earhart_petroleums_fleet_automation_boosts_productivity_20_percent</link>
+ 
+ 
+<description><![CDATA[<img src='http://www.supplychain247.com/images/article/intermec_earhart_petroleum_image.jpg/><br />]]>Earhart Petroleum had several goals they hoped to achieve as a result of the technology investment. They looked to improve delivery efficiency (as measured by gallons delivered per truck/per day) by 20 percent, minimize inventory shrinkage, reduce staff overtime and improve invoice turnaround time by three business days.</description>
+
+<guid>http://www.supplychain247.com/article/earhart_petroleums_fleet_automation_boosts_productivity_20_percent</guid>
+<dc:subject>Case Studies, Transportation, Transportation Management, Warehouse/DC, Auto ID &amp; Data Capture</dc:subject>
+<dc:date>2013-06-26T21:39:16+00:00</dc:date>
+</item><item>
+<title>Driving to the Future - VISA Global Logistics Improves Reliability and Service with Intermecâs CN50</title>
+<link>http://www.supplychain247.com/article/driving_to_the_future_visa_global_logistics_improves_reliability</link>
+ 
+ 
+<description><![CDATA[<img src='http://www.supplychain247.com/images/article/intermec_visa_global_logistics_image.jpg/><br />]]>VISA Global logistics recognised that the existing platform was outdated and unreliable. It had a slow internet connection (GPRS) and unreliable GSM module that was causing frustration amongst the truck drivers. The existing version of Windows mobile (PocketPC 2003) was no longer supported by Microsoft and many workarounds needed to be implemented to keep the platform running.</description>
+
+<guid>http://www.supplychain247.com/article/driving_to_the_future_visa_global_logistics_improves_reliability</guid>
+<dc:subject>Case Studies, Transportation, Transportation Management, Warehouse/DC, Auto ID &amp; Data Capture</dc:subject>
+<dc:date>2013-06-26T20:08:15+00:00</dc:date>
+</item><item>
+<title>Leading Wholesale Supplier Noble Implements POD System &amp; Streamlines Shipping Automation</title>
+<link>http://www.supplychain247.com/article/leading_wholesale_supplier_noble_implements_pod_system_streamlines_shipping</link>
+ 
+ 
+<description><![CDATA[<img src='http://www.supplychain247.com/images/article/intermec_noble_image.jpg/><br />]]>With recent expansion into both Quebec and British Columbia, Noble now has more than 200 delivery trucks and 24 hour service. With growth came the need for a better proof of delivery (POD) system. The company also looked to automate its shipping and receiving process to streamline overall operations using Intermec's CN50 rugged mobile computer.</description>
+
+<guid>http://www.supplychain247.com/article/leading_wholesale_supplier_noble_implements_pod_system_streamlines_shipping</guid>
+<dc:subject>Case Studies, Transportation, Transportation Management, Warehouse/DC, Auto ID &amp; Data Capture, Technology, Software</dc:subject>
+<dc:date>2013-06-24T03:44:39+00:00</dc:date>
+</item><item>
+<title>IRLY Distributorsâ Warehouse Management Software Roll-Out Conquers Recession</title>
+<link>http://www.supplychain247.com/article/irly_distributors_warehouse_management_software_roll_out_conquers_recession</link>
+ 
+ 
+<description><![CDATA[<img src='http://www.supplychain247.com/images/article/Intermec_Irly_Distributors_image.jpg/><br />]]>After recommendations from colleagues and partners who'd worked with them, IRLY looked to PathGuide Technologies, a leading WMS provider for industrial and retail distributors, for a quick implementation. PathGuide's Latitude software is known for automating warehousing and distribution to provide real-time information about inventory - streamlining operations for greater efficiency and overall customer service.</description>
+
+<guid>http://www.supplychain247.com/article/irly_distributors_warehouse_management_software_roll_out_conquers_recession</guid>
+<dc:subject>Media, Photos, Case Studies, Warehouse/DC, Auto ID &amp; Data Capture, Warehouse Management</dc:subject>
+<dc:date>2013-05-21T16:53:14+00:00</dc:date>
+</item><item>
+<title>Ripening Produce Traceability: LoBue Citrus Automates Labeling with Intermec, FoodLogiQ</title>
+<link>http://www.supplychain247.com/article/ripening_produce_traceability_lobue_citrus_automates_labeling_with_intermec</link>
+ 
+ 
+<description><![CDATA[<img src='http://www.supplychain247.com/images/article/lobue_citrus_case_study_image.jpg/><br />]]>LoBue Citrus based in Lindsay, California, recognized the need to automate its produce traceability program. Formerly, the process was manual, which tied up critical resources and increased the likelihood of error.</description>
+
+<guid>http://www.supplychain247.com/article/ripening_produce_traceability_lobue_citrus_automates_labeling_with_intermec</guid>
+<dc:subject>Media, Videos, Case Studies, Warehouse/DC, Auto ID &amp; Data Capture</dc:subject>
+<dc:date>2013-05-21T02:43:48+00:00</dc:date>
+</item><item>
+<title>Washington Fruit Enhances Food Traceability with Mobile Computers, Scanners &amp; Industrial Printers</title>
+<link>http://www.supplychain247.com/article/washington_fruit_enhances_food_traceability_with_mobile_computers</link>
+ 
+ 
+<description><![CDATA[<img src='http://www.supplychain247.com/images/article/washington_fruit_products_image.jpg/><br />]]>To meet government compliance on food traceability, Washington Fruit sought the help of Pacific-iD. Washington Fruit implemented the Intermec CK3 mobile computer, PM4i industrial printer, SR61 scanner, and CV60 vehicle-mounted computer to improve pallet tagging and tracking.</description>
+
+<guid>http://www.supplychain247.com/article/washington_fruit_enhances_food_traceability_with_mobile_computers</guid>
+<dc:subject>Media, Videos, Case Studies, Warehouse/DC, Auto ID &amp; Data Capture, Technology, Mobile &amp; Wireless</dc:subject>
+<dc:date>2013-05-20T19:35:13+00:00</dc:date>
+</item><item>
+<title>Tribridge Enterprise Resource Planning (ERP)</title>
+<link>http://www.supplychain247.com/article/tribridge_enterprise_resource_planning_erp</link>
+ 
+ 
+<description><![CDATA[<img src='http://www.supplychain247.com/images/article/tribridge_heelys_image.jpg/><br />]]>With the powerful on-premise or cloud Microsoft Dynamics SL solution for professional services, operations, field services and construction management, you can be confident that projects are estimated correctly, completed on time, and meet your customersâ requirements.</description>
+
+<guid>http://www.supplychain247.com/article/tribridge_enterprise_resource_planning_erp</guid>
+<dc:subject>Case Studies, Supply Chain, Enterprise Resource Planning, Technology, Cloud, Software</dc:subject>
+<dc:date>2013-05-07T20:34:29+00:00</dc:date>
+</item><item>
+<title>Deployment of Rugged Mobile Computers Boost Data Capture Capabilities at PGA</title>
+<link>http://www.supplychain247.com/article/deployment_of_rugged_mobile_computers_boost_data_capture_capabilities</link>
+ 
+ 
+<description><![CDATA[<img src='http://www.supplychain247.com/images/article/intermec_pga_thumb_image.jpg/><br />]]>Learn how the Professional Golfers' Association (PGA) deployed the Intermec CN50 and Intermec CK71 rugged mobile computers with the help of Scan Read Technologies to boost data capture capabilities at high stakes tournaments. As a result, they expect an excess of $3 million in savings by 2016.</description>
+
+<guid>http://www.supplychain247.com/article/deployment_of_rugged_mobile_computers_boost_data_capture_capabilities</guid>
+<dc:subject>Case Studies, Technology, Mobile &amp; Wireless</dc:subject>
+<dc:date>2013-05-06T15:07:39+00:00</dc:date>
+</item><item>
+<title>RFID Helps Lord &amp; Taylor Capture More Sales</title>
+<link>http://www.supplychain247.com/article/rfid_helps_lord_taylor_capture_more_sales</link>
+ 
+ 
+<description><![CDATA[<img src='http://www.supplychain247.com/images/article/lord_and_taylor_image.jpg/><br />]]>Sales associates in Lord &amp; Taylor's flagship New York Fifth Avenue store now use RFID to automatically improve display sample inventory processes and visibility, and can attribute a 4% increase in sales to more complete floor displays.</description>
+
+<guid>http://www.supplychain247.com/article/rfid_helps_lord_taylor_capture_more_sales</guid>
+<dc:subject>Media, Videos, Case Studies, Warehouse/DC, Auto ID &amp; Data Capture, Technology, Mobile &amp; Wireless</dc:subject>
+<dc:date>2013-05-05T04:32:57+00:00</dc:date>
+</item><item>
+<title>GT Nexus Selected by TOMS to Provide Cloud-based Global Sourcing &amp; Supply Chain Control Platform</title>
+<link>http://www.supplychain247.com/article/gt_nexus_selected_by_toms_to_provide_cloud_based_global_sourcing</link>
+ 
+ 
+<description><![CDATA[<img src='http://www.supplychain247.com/images/article/gt_nexus_-toms_image.jpg/><br />]]>TOMS Shoes has selected GT Nexus to provide the cloud supply chain technology platform to support global sourcing and import operations at the rapidly growing footwear and eye wear company.</description>
+
+<guid>http://www.supplychain247.com/article/gt_nexus_selected_by_toms_to_provide_cloud_based_global_sourcing</guid>
+<dc:subject>News, Case Studies, Supply Chain, Global Trade, Sourcing &amp; Procurement, Technology, Cloud, Software</dc:subject>
+<dc:date>2013-04-23T22:26:25+00:00</dc:date>
+</item><item>
+<title>FORTE provide BDF Beiersdorf distribution operations increased capacity and reduced labor costs</title>
+<link>http://www.supplychain247.com/article/forte_provide_bdf_beiersdorf_distribution_operations_increased_capacity</link>
+ 
+ 
+<description><![CDATA[<img src='http://www.supplychain247.com/images/article/nivea_cream_face_image.jpg/><br />]]>An acquisition and new customer shipping requirements provided a fresh opportunity to develop a world-class distribution center that would deliver the flawless performance needed to support their radiant growth for years. With the help of FORTE, Beiersdorf consolidated three distribution centers into a single highly automated facility, enabling them to improve picking and shipping accuracy while doubling capacity and reducing operating costs 15%.</description>
+
+<guid>http://www.supplychain247.com/article/forte_provide_bdf_beiersdorf_distribution_operations_increased_capacity</guid>
+<dc:subject>Media, Videos, Case Studies, Warehouse/DC, Automation, Warehouse Management</dc:subject>
+<dc:date>2013-04-13T03:09:34+00:00</dc:date>
+</item><item>
+<title>IDEXX Laboratories Increases Picking &amp; Packing Operations Using Forteâs Automation Director</title>
+<link>http://www.supplychain247.com/article/idexx_laboratories_increases_picking_packing_operations_using_fortes</link>
+ 
+ 
+<description><![CDATA[<img src='http://www.supplychain247.com/images/article/idexx_labs_thumb_image.jpg/><br />]]>Together, the IDEXX and FORTE teams designed a new automated material handling system with two separate packing areas: one for single-zone orders and the remaining stations for multiple-zone orders.</description>
+
+<guid>http://www.supplychain247.com/article/idexx_laboratories_increases_picking_packing_operations_using_fortes</guid>
+<dc:subject>Media, Videos, Case Studies, Warehouse/DC, Automation, Conveyors &amp; Sortation, Technology, Software</dc:subject>
+<dc:date>2013-04-12T04:34:21+00:00</dc:date>
+</item><item>
+<title>Chocolatier Achieves ROI Within 60 days of Implementing FORTE Recommended Improvements</title>
+<link>http://www.supplychain247.com/article/chocolatier_achieves_roi_within_60_days_of_implementing_forte_recommended_i</link>
+ 
+ 
+<description><![CDATA[<img src='http://www.supplychain247.com/images/article/forte_chocolatier_case_study_image.jpg/><br />]]>FORTE provided a Distribution Assessment to identify improvements with processes, software utilization, inventory turns, material handling system capacity and space utilization.</description>
+
+<guid>http://www.supplychain247.com/article/chocolatier_achieves_roi_within_60_days_of_implementing_forte_recommended_i</guid>
+<dc:subject>Case Studies, Warehouse/DC, Automation, Warehouse Management, Technology, Software</dc:subject>
+<dc:date>2013-04-12T03:27:59+00:00</dc:date>
+</item><item>
+<title>Order Volume for Willow House Increased More Than 50% &amp; Labor Costs Decreased by 30%</title>
+<link>http://www.supplychain247.com/article/order_volume_for_willow_house_increased_more_than_50_labor_costs_decreased</link>
+ 
+ 
+<description><![CDATA[<img src='http://www.supplychain247.com/images/article/forte_willow_house_case_study_image.jpg/><br />]]>FORTE designed and implemented a new 500,000 sq. ft. automated distribution center in Calera, Alabama with pick-to-light technology.</description>
+
+<guid>http://www.supplychain247.com/article/order_volume_for_willow_house_increased_more_than_50_labor_costs_decreased</guid>
+<dc:subject>Case Studies, Warehouse/DC, Automation, Warehouse Management, Technology, Software</dc:subject>
+<dc:date>2013-04-12T03:07:38+00:00</dc:date>
+</item><item>
+<title>New totesÂ»ISOTONER DC Handles Pre-Holiday Volume &amp; Delivers 99.9% Order Fulfillment Accuracy</title>
+<link>http://www.supplychain247.com/article/new_totesisotoner_dc_handles_pre_holiday_volume_delivers_99.9_order</link>
+ 
+ 
+<description><![CDATA[<img src='http://www.supplychain247.com/images/article/forte_totes_case_study_image.jpg/><br />]]>FORTE designed and built a new, automated 450,000 sq. ft. distribution center in Cincinnati, Ohio. A WMS needs analysis was performed, including vendor evaluation, selection and implementation.</description>
+
+<guid>http://www.supplychain247.com/article/new_totesisotoner_dc_handles_pre_holiday_volume_delivers_99.9_order</guid>
+<dc:subject>Case Studies, Warehouse/DC, Automation, Warehouse Management, Technology, Software</dc:subject>
+<dc:date>2013-04-12T02:03:50+00:00</dc:date>
+</item><item>
+<title>FORTE Helps Maui Jim See Their Distribution Operations More Clearly</title>
+<link>http://www.supplychain247.com/article/forte_helps_maui_jim_see_their_distribution_operations_more_clearly</link>
+ 
+ 
+<description><![CDATA[<img src='http://www.supplychain247.com/images/article/forte_maui_jim_case_study_image.jpg/><br />]]>FORTE provided an Operations Assessment to identify improvement opportunities within Maui Jimâs DC. The primary focus of the assessment included the pick line, material flow and layout, warehouse management system (WMS), and distribution processes.</description>
+
+<guid>http://www.supplychain247.com/article/forte_helps_maui_jim_see_their_distribution_operations_more_clearly</guid>
+<dc:subject>Case Studies, Warehouse/DC, Automation, Packaging &amp; Labeling, Warehouse Management, Technology, Software</dc:subject>
+<dc:date>2013-04-12T01:15:35+00:00</dc:date>
+</item><item>
+<title>FORTE Helps Keen Develop a New 3PL Relationship that Dramatically Improves On-Time Shipments</title>
+<link>http://www.supplychain247.com/article/forte_helps_keen_develop_a_new_3pl_relationship_that_dramatically_improves</link>
+ 
+ 
+<description><![CDATA[<img src='http://www.supplychain247.com/images/article/forte_keen_case_study_image.jpg/><br />]]>FORTE worked with Keen to identify key business drivers and success factors, peer distribution approach in their vertical and to develop a cost and risk assessment.</description>
+
+<guid>http://www.supplychain247.com/article/forte_helps_keen_develop_a_new_3pl_relationship_that_dramatically_improves</guid>
+<dc:subject>Case Studies, Transportation, Third Party Logistics, Warehouse/DC, Automation, Warehouse Management, Technology, Software</dc:subject>
+<dc:date>2013-04-11T21:59:56+00:00</dc:date>
+</item><item>
+<title>FORTE Provides RoadRunner Sports with a Five-Year Distribution Center Strategy</title>
+<link>http://www.supplychain247.com/article/forte_provides_roadrunner_sports_with_a_five_year_distribution_center</link>
+ 
+ 
+<description><![CDATA[<img src='http://www.supplychain247.com/images/article/forte_roadrunner_case_study_image.jpg/><br />]]>FORTE performed a network optimization study that identified the need for a bi-coastal distribution center network. RoadRunner could keep their West Coast location and add a new facility in Columbus, Ohio.</description>
+
+<guid>http://www.supplychain247.com/article/forte_provides_roadrunner_sports_with_a_five_year_distribution_center</guid>
+<dc:subject>Case Studies, Warehouse/DC, Automation, Warehouse Management, Technology, Software</dc:subject>
+<dc:date>2013-04-11T21:38:32+00:00</dc:date>
+</item><item>
+<title>Smith &amp; Nephew Decrease Operating Expenses By 15% Using FORTE Business &amp; Data Analysis</title>
+<link>http://www.supplychain247.com/article/smith_nephew_decrease_operating_expenses_by_15_using_forte_business_data_an</link>
+ 
+ 
+<description><![CDATA[<img src='http://www.supplychain247.com/images/article/forte_smith_nephew_case_study_image.jpg/><br />]]>FORTE provided Smith &amp; Nephew recommendations on the existing distribution model and presented a range of options from complete in-house distribution to total 3PL distribution.</description>
+
+<guid>http://www.supplychain247.com/article/smith_nephew_decrease_operating_expenses_by_15_using_forte_business_data_an</guid>
+<dc:subject>Case Studies, Warehouse/DC, Automation, Warehouse Management, Technology, Software</dc:subject>
+<dc:date>2013-04-11T21:07:32+00:00</dc:date>
+</item><item>
+<title>Vera Bradleyâs Investment in FORTEâs Smart Warehouse Suite Pays For Itself in Less Than 2 Years</title>
+<link>http://www.supplychain247.com/article/vera_bradleys_investment_in_fortes_smart_warehouse_suite_pays_for_itself</link>
+ 
+ 
+<description><![CDATA[<img src='http://www.supplychain247.com/images/article/forte_vera_bradley_case_study_image.jpg/><br />]]>To handle Vera Bradleyâs growth, FORTE originally designed a highly automated, 200,000 sq. ft. distribution center and integrated a Warehouse Management System (WMS) with material handling automation utilizing FORTEâs Smart Warehouse Suiteâ¢ software.</description>
+
+<guid>http://www.supplychain247.com/article/vera_bradleys_investment_in_fortes_smart_warehouse_suite_pays_for_itself</guid>
+<dc:subject>Case Studies, Warehouse/DC, Automation, Warehouse Management, Technology, Software</dc:subject>
+<dc:date>2013-04-11T20:16:47+00:00</dc:date>
+</item><item>
+<title>FORTE helps Lenox Consolidate 4 Major DCâs &amp; 16 Satellite Facilities into One DC Facility</title>
+<link>http://www.supplychain247.com/article/forte_helps_lenox_consolidate_4_major_dcs_16_satellite_facilities_into_one</link>
+ 
+ 
+<description><![CDATA[<img src='http://www.supplychain247.com/images/article/forte_lenox_case_study_image.jpg/><br />]]>Lenox needed to consolidate four major distribution centers and 16 satellite facilities into one facility to eliminate redundant operations, lower labor and transportation costs, and improve customer service levels.</description>
+
+<guid>http://www.supplychain247.com/article/forte_helps_lenox_consolidate_4_major_dcs_16_satellite_facilities_into_one</guid>
+<dc:subject>Case Studies, Warehouse/DC, Automation, Warehouse Management</dc:subject>
+<dc:date>2013-04-11T18:46:26+00:00</dc:date>
+</item><item>
+<title>FORTE helps rue21 Convert their Manual Paper-Based System to a Fully Automated Environment</title>
+<link>http://www.supplychain247.com/article/forte_helps_rue21_convert_their_manual_paper_based_system_to_a_fully_automa</link>
+ 
+ 
+<description><![CDATA[<img src='http://www.supplychain247.com/images/article/forte_rue21_case_study_image.jpg/><br />]]>With a wide selection of styles, rue21 was growing rapidly, opening eight to 10 stores per month. With more than 750 stores in more than 45 states, they needed to cost-effectively improve operations to support not only their existing stores, but also the hundreds of planned retail stores.</description>
+
+<guid>http://www.supplychain247.com/article/forte_helps_rue21_convert_their_manual_paper_based_system_to_a_fully_automa</guid>
+<dc:subject>Case Studies, Warehouse/DC, Automation, Packaging &amp; Labeling, Technology, Software</dc:subject>
+<dc:date>2013-04-11T18:06:07+00:00</dc:date>
+</item><item>
+<title>Augusta engages FORTE to Expand their DC Storage &amp; Picking Capacities</title>
+<link>http://www.supplychain247.com/article/augusta_engages_forte_to_expand_their_dc_storage_picking_capacities</link>
+ 
+ 
+<description><![CDATA[<img src='http://www.supplychain247.com/images/article/forte_augusta_sportsware_image.jpg/><br />]]>Augusta engaged FORTE to develop a long-range strategic plan that as manufacturing within the facility was phased out, the storage and picking capacities in the distribution operation would expand in phases.</description>
+
+<guid>http://www.supplychain247.com/article/augusta_engages_forte_to_expand_their_dc_storage_picking_capacities</guid>
+<dc:subject>Case Studies, Warehouse/DC, Automation, Packaging &amp; Labeling, Shelving &amp; Racking, Technology, Software, Other, Order Picking</dc:subject>
+<dc:date>2013-04-11T18:02:01+00:00</dc:date>
+</item><item>
+<title>FORTE Reduces Transportation Costs by $4 million for Specialty Retailer of Urban Apparel</title>
+<link>http://www.supplychain247.com/article/forte_reduces_transportation_costs_by_4_million_for_specialty_retailer</link>
+ 
+ 
+<description><![CDATA[<img src='http://www.supplychain247.com/images/article/forte_specialty_retailer_image.jpg/><br />]]>FORTE used a network optimization model to simulate the effects of market growth on outbound transportation cost and service levels.</description>
+
+<guid>http://www.supplychain247.com/article/forte_reduces_transportation_costs_by_4_million_for_specialty_retailer</guid>
+<dc:subject>Case Studies, Warehouse/DC, Automation, Warehouse Management, Technology, Software</dc:subject>
+<dc:date>2013-04-11T04:25:24+00:00</dc:date>
+</item><item>
+<title>FORTE Tested Various DC Combinations to Determine Optimum Path for this Home Improvement Retailer</title>
+<link>http://www.supplychain247.com/article/forte_tested_various_dc_combinations_to_determine_optimum_path</link>
+ 
+ 
+<description><![CDATA[<img src='http://www.supplychain247.com/images/article/forte_home_improvement_case_study_image.jpg/><br />]]>FORTE identified a go-forward strategy for expansion by creating a model to simulate the effects of market growth on outbound transportation cost and service levels.</description>
+
+<guid>http://www.supplychain247.com/article/forte_tested_various_dc_combinations_to_determine_optimum_path</guid>
+<dc:subject>Case Studies, Warehouse/DC, Automation, Warehouse Management, Technology, Software</dc:subject>
+<dc:date>2013-04-11T04:03:57+00:00</dc:date>
+</item><item>
+<title>FORTE helps Nambe Select a Viable Best-in-Class Third Party (3PL) Logistics Provider</title>
+<link>http://www.supplychain247.com/article/forte_helps_nambe_select_a_viable_best-in-class_third_party_3pl_logistics_p</link>
+ 
+ 
+<description><![CDATA[<img src='http://www.supplychain247.com/images/article/forte_nambe_case_study_image.jpg/><br />]]>Nambe is known for its award-winning, hand-crafted designs in metal, crystal and porcelain, but needed FORTEâs expertise when hand-picking a best-in-class third-party-logistics (3PL) provider.</description>
+
+<guid>http://www.supplychain247.com/article/forte_helps_nambe_select_a_viable_best-in-class_third_party_3pl_logistics_p</guid>
+<dc:subject>Case Studies, Transportation, Third Party Logistics, Warehouse/DC, Automation</dc:subject>
+<dc:date>2013-04-11T02:37:12+00:00</dc:date>
+</item><item>
+<title>Sharpie Increases their Shipping Accuracy to nearly 100% using FORTEâs Automation Directorâ¢ WCS</title>
+<link>http://www.supplychain247.com/article/sharpie_increases_their_shipping_accuracy_to_nearly_100_using_fortes_automa</link>
+ 
+ 
+<description><![CDATA[<img src='http://www.supplychain247.com/images/article/forte_sharpie_case_study_image.jpg/><br />]]>FORTE retrofitted and expanded the one-year-old sortation system with two new sorters serving a total of 100 lanes. The increase in lanes and decrease in pallet positions per lane eliminated manual RF scanning.</description>
+
+<guid>http://www.supplychain247.com/article/sharpie_increases_their_shipping_accuracy_to_nearly_100_using_fortes_automa</guid>
+<dc:subject>Case Studies, Warehouse/DC, Automation, Pallets &amp; Containers, Technology, Software</dc:subject>
+<dc:date>2013-04-11T01:55:45+00:00</dc:date>
+</item><item>
+<title>FORTE Reduces Tycoâs Inbound &amp; Outbound Freight Costs through Optimized Transportation Modes</title>
+<link>http://www.supplychain247.com/article/forte_reduces_tycos_inbound_outbound_freight_costs_through_optimized</link>
+ 
+ 
+<description><![CDATA[<img src='http://www.supplychain247.com/images/article/forte_tyco_case_study_image.jpg/><br />]]>FORTE, along with their affiliation with University of Cincinnatiâs Center for Productivity Improvement, used their Network Analysis expertise and real-world experience to determine the optimal network design for Tyco.</description>
+
+<guid>http://www.supplychain247.com/article/forte_reduces_tycos_inbound_outbound_freight_costs_through_optimized</guid>
+<dc:subject>Case Studies, Warehouse/DC, Automation, Warehouse Management, Technology, Software</dc:subject>
+<dc:date>2013-04-11T01:54:15+00:00</dc:date>
+</item><item>
+<title>FORTE Lowered MEDRADâs Freight Costs by 10.6 Percent &amp; Labor Costs by 15.4 Percent</title>
+<link>http://www.supplychain247.com/article/forte_lowered_medrads_freight_costs_by_10.6_percent_labor_costs_by_15.4</link>
+ 
+ 
+<description><![CDATA[<img src='http://www.supplychain247.com/images/article/forte_medrad_case_study_image.jpg/><br />]]>FORTE and the Network Analysis experts at the University of Cincinnatiâs Center for Productivity Improvement used their expertise and real-world experience to determine the optimal network design for this global operation.</description>
+
+<guid>http://www.supplychain247.com/article/forte_lowered_medrads_freight_costs_by_10.6_percent_labor_costs_by_15.4</guid>
+<dc:subject>Case Studies, Warehouse/DC, Automation, Warehouse Management</dc:subject>
+<dc:date>2013-04-11T01:36:38+00:00</dc:date>
+</item><item>
+<title>FORTE allows Delta to Reach 75% of all Major Markets with a 99% Picking &amp; Shipping Accuracy</title>
+<link>http://www.supplychain247.com/article/forte_allows_delta_to_reach_75_of_all_major_markets</link>
+ 
+ 
+<description><![CDATA[<img src='http://www.supplychain247.com/images/article/forte_delta_case_study_image.jpg/><br />]]>FORTE designed and implemented a new 255,000 sq. ft. distribution center in Jackson, Tennessee. After a WMS needs analysis, vendor evaluation and selection, the material handling system was integrated with the WMS utilizing FORTEâs Automation Directorâ¢ WCS.</description>
+
+<guid>http://www.supplychain247.com/article/forte_allows_delta_to_reach_75_of_all_major_markets</guid>
+<dc:subject>Case Studies, Warehouse/DC, Automation, Packaging &amp; Labeling, Warehouse Management, Technology, Software</dc:subject>
+<dc:date>2013-04-11T01:12:01+00:00</dc:date>
+</item><item>
+<title>FORTE Develops a New Pick-by-Wave System with only 2 Touches per Carton when Cross-Docked</title>
+<link>http://www.supplychain247.com/article/forte_develops_a_new_pick_by_wave_system_with_only_2_touches_per_carton</link>
+ 
+ 
+<description><![CDATA[<img src='http://www.supplychain247.com/images/article/forte_dc_retrofit_case_study_image.jpg/><br />]]>FORTE developed a new pick-by-wave system with an automated print and apply station. A new U-shaped induct conveyor moves the cartons through a scanner and down one of three divert lanes directly into a truck.</description>
+
+<guid>http://www.supplychain247.com/article/forte_develops_a_new_pick_by_wave_system_with_only_2_touches_per_carton</guid>
+<dc:subject>Case Studies, Warehouse/DC, Automation, Packaging &amp; Labeling</dc:subject>
+<dc:date>2013-04-10T00:37:26+00:00</dc:date>
+</item><item>
+<title>Crate &amp; Barrel Reduces Order Fulfillment Costs by 38% with FORTE Material Handling Systems Design</title>
+<link>http://www.supplychain247.com/article/crate_barrel_reduces_order_fulfillment_costs_by_38_with_forte</link>
+ 
+ 
+<description><![CDATA[<img src='http://www.supplychain247.com/images/article/forte_crate_and_barrel_case_study_image.jpg/><br />]]>FORTE planned, designed and implemented an expansion to the Cranbury distribution center, including process development, material handling systems design and technology integration, for increased capacity and capabilities to support the growth in the direct-to-consumer channel.</description>
+
+<guid>http://www.supplychain247.com/article/crate_barrel_reduces_order_fulfillment_costs_by_38_with_forte</guid>
+<dc:subject>Case Studies, Warehouse/DC, Automation, Packaging &amp; Labeling, Warehouse Management, Technology, Software</dc:subject>
+<dc:date>2013-04-10T00:12:29+00:00</dc:date>
+</item><item>
+<title>Intelligratedâs Alvey Robotic Palletizers Achieve a 76% ROI for Kelly-Moore Paint Company</title>
+<link>http://www.supplychain247.com/article/intelligrateds_alvey_robotic_palletizers_achieve_a_76_roi_for_kelly_moore</link>
+ 
+ 
+<description><![CDATA[<img src='http://www.supplychain247.com/images/article/Int_KellyMoore_CaseStudy_image.jpg/><br />]]>Intelligrated Kelly-Moore Paint Company Case Study - Alvey Robotic Palletizers help the 5th largest paint company in the US yield big dividends with a 76% return on investment in the first year.</description>
+
+<guid>http://www.supplychain247.com/article/intelligrateds_alvey_robotic_palletizers_achieve_a_76_roi_for_kelly_moore</guid>
+<dc:subject>Media, Videos, Case Studies, Warehouse/DC, Automation, Pallets &amp; Containers, Technology, Robotics</dc:subject>
+<dc:date>2013-04-09T22:40:55+00:00</dc:date>
+</item><item>
+<title>American Apparel Finds the Right Fit with Motorola RFID</title>
+<link>http://www.supplychain247.com/article/american_apparel_finds_the_right_fit_with_motorola_rfid</link>
+ 
+ 
+<description><![CDATA[<img src='http://www.supplychain247.com/images/article/american_apparel_image.jpg/><br />]]>American Apparel was looking for a smarter way to meet their goals and, from what they had learned, item-level RFID looked like precisely the solution they wanted. Given the control the company has over its own manufacturing, distribution and retail operations, the plan was to reap the benefits of RFID not only on the retail floor, but throughout its closed loop supply chain.</description>
+
+<guid>http://www.supplychain247.com/article/american_apparel_finds_the_right_fit_with_motorola_rfid</guid>
+<dc:subject>Case Studies, Warehouse/DC, Auto ID &amp; Data Capture, Technology, Mobile &amp; Wireless</dc:subject>
+<dc:date>2013-04-05T09:11:02+00:00</dc:date>
+</item><item>
+<title>Associated Food Stores Delivers On-Time  Service, Fresher Food with Zebraâs WhereNet RTLS</title>
+<link>http://www.supplychain247.com/article/associated_food_stores_delivers_on_time_service_fresher_food_with_zebras</link>
+ 
+ 
+<description><![CDATA[<img src='http://www.supplychain247.com/images/article/zebra_associated_food_image.jpg/><br />]]>Zebraâs WhereNet provided Associated Food Stores (AFS) with wireless, real-time applications for optimizing, locating, tracking, and managing assets across its 600-plus acre distribution center in Farr West, Utah.</description>
+
+<guid>http://www.supplychain247.com/article/associated_food_stores_delivers_on_time_service_fresher_food_with_zebras</guid>
+<dc:subject>Case Studies, Warehouse/DC, Auto ID &amp; Data Capture</dc:subject>
+<dc:date>2013-04-03T09:10:30+00:00</dc:date>
+</item><item>
+<title>London Fog Stays in the Forefront of Fashion with New Wireless &amp; Mobile Systems from Barcoding, Inc.</title>
+<link>http://www.supplychain247.com/article/london_fog_stays_in_the_forefront_of_fashion_with_new_wireless_mobile</link>
+ 
+ 
+<description><![CDATA[<img src='http://www.supplychain247.com/images/article/barcoding_inc_london_fog_image.jpg/><br />]]>At its main manufacturing facility in Eldersburg, Maryland, London Fog faced the challenge of upgrading its inventory and shipping/receiving hardware and applications to accommodate greater wireless flexibility and allow for future technology developments.</description>
+
+<guid>http://www.supplychain247.com/article/london_fog_stays_in_the_forefront_of_fashion_with_new_wireless_mobile</guid>
+<dc:subject>Media, Videos, Case Studies, Warehouse/DC, Auto ID &amp; Data Capture, Warehouse Management, Technology, Mobile &amp; Wireless, Software</dc:subject>
+<dc:date>2013-04-03T09:08:31+00:00</dc:date>
+</item><item>
+<title>Bard Installs a New Materials Handling System using FORTEâs Automation Directorâ¢ WCS</title>
+<link>http://www.supplychain247.com/article/bard_installs_a_new_materials_handling_system_using_fortes_automation</link>
+ 
+ 
+<description><![CDATA[<img src='http://www.supplychain247.com/images/article/forte_bard_case_study_image.jpg/><br />]]>After a thorough WMS needs analysis, vendor evaluation and selection, we integrated the WMS with the new material handling system utilizing FORTEâs Automation Directorâ¢ WCS.</description>
+
+<guid>http://www.supplychain247.com/article/bard_installs_a_new_materials_handling_system_using_fortes_automation</guid>
+<dc:subject>Case Studies, Warehouse/DC, Automation, Technology, Software</dc:subject>
+<dc:date>2013-04-02T16:29:14+00:00</dc:date>
+</item>
+</channel>
+</rss>

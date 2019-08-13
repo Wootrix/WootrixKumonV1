@@ -1,0 +1,12 @@
+{
+    "name": "wootrix/facebook",
+    "authors": [
+        {
+            "name": "Vitor Braga",
+            "email": "vitor.leitebraga@gmail.com"
+        }
+    ],
+    "require": {
+        "facebook/graph-sdk": "^5.5"
+    }
+}

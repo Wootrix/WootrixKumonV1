@@ -1,0 +1,822 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Plastics Assembly</title>
+    <description>
+      <![CDATA[Articles about the various techniques for assembly plastic parts, including ultrasonic welding, snap-fits and threaded fasteners.]]>
+    </description>
+    <link>http://www.assemblymag.com/rss</link>
+    <language>en-us</language>
+    <item>
+      <title>Engineers Reduce Weight of Vehicle Doors by 42 Percent</title>
+      <description>
+        <![CDATA[DETROITâFiat Chrysler, Magna Interior Inc., Grupo Antolin and the U.S. Department of Energy have collaborated on a project that reduces the weight of car doors by 42.5 percent without a dramatic increase in cost. Using a holistic approach, engineers looked at the door as a complete system that could integrate everything available on the market today.]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93698</guid>
+      <pubDate>Mon, 16 Jan 2017 00:00:00 -0500</pubDate>
+      <link>http://www.assemblymag.com/articles/93698-engineers-reduce-weight-of-vehicle-doors-by-42-percent</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Default_Images/responsive/ASB_default_latestnews.jpg?1479231322" type="image/jpeg" length="166380"/>
+    </item>
+    <item>
+      <title>Medical-Grade Polymers Improve Performance of Surgical Lighting</title>
+      <author>camilloj@bnpmedia.com (Jim Camillo)</author>
+      <description>
+        <![CDATA[<p>Light is critical for our health and well-being. In the morning, bright light helps us wake up and feel alert and energized. At night, dimmer light cues us to go to sleep. Equally important, the right type of light enables hospitals to provide surgery and other essential medical services 24/7.</p>
+]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93646</guid>
+      <pubDate>Thu, 01 Dec 2016 00:00:00 -0500</pubDate>
+      <link>http://www.assemblymag.com/articles/93646-medical-grade-polymers-improve-performance-of-surgical-lighting</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Issues/2016/December/AIA/asb1216AIA5.jpg?1480522878" type="image/jpeg" length="65741"/>
+    </item>
+    <item>
+      <title>Infrared Cameras Improve Quality of Plastic Welding Process</title>
+      <author>camilloj@bnpmedia.com (Jim Camillo)</author>
+      <description>
+        <![CDATA[<p>For more than 30 years, manufacturers have used infrared welding (IW) to assemble plastic components that are large, made of challenging materials or have high strength and hermetic requirements.</p>
+]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93644</guid>
+      <pubDate>Thu, 01 Dec 2016 00:00:00 -0500</pubDate>
+      <link>http://www.assemblymag.com/articles/93644-infrared-cameras-improve-quality-of-plastic-welding-process</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Issues/2016/December/AIA/asb1216AIA1.jpg?1480522129" type="image/jpeg" length="105262"/>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/December/AIA/asb1216AIA1.jpg?1480522129" type="image/jpeg" fileSize="105262">
+        <media:title type="plain">1</media:title>
+        <media:description type="plain">About four years ago, Yanfeng Automotive Interiors installed an infrared welding machine at its Louisville, KY, facility to assemble plastic parts of the defroster grille for the Ford Escape. Photo courtesy Ford Motor Co.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/December/AIA/asb1216AIA2.jpg?1480522235" type="image/jpeg" fileSize="82316">
+        <media:title type="plain">2</media:title>
+        <media:description type="plain">Four FLIR A315 thermal imaging cameras monitor 40 surface regions on the plastic parts after the heat cycle. Built-in analysis software determines if part temperature falls within the upper and lower control limits, and immediately notifies the welding machine PLC. Photo courtesy Flir
+</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>Fasteners for Foam and Honeycomb</title>
+      <author>sprovierij@bnpmedia.com (John Sprovieri)</author>
+      <description>
+        <![CDATA[<p>Celebrity auto critic Jeremy Clarkson once called the Audi TT &ldquo;the Mac Daddy of sport coupes.&rdquo;</p>
+]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93583</guid>
+      <pubDate>Mon, 03 Oct 2016 00:00:00 -0400</pubDate>
+      <link>http://www.assemblymag.com/articles/93583-fasteners-for-foam-and-honeycomb</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Issues/2016/October/fasteners/asb1016fasten4.jpg?1475514537" type="image/jpeg" length="90555"/>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/October/fasteners/asb1016fasten4.jpg?1475514537" type="image/jpeg" fileSize="90555">
+        <media:title type="plain">1</media:title>
+        <media:description type="plain">The key variables in the EPPsys fastener installation process are torque, driver speed, axial force, insertion depth and installation time. Photo courtesy Weber Screwdriving Systems Inc.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/October/fasteners/asb1016fasten1.jpg?1475514618" type="image/jpeg" fileSize="49262">
+        <media:title type="plain">2</media:title>
+        <media:description type="plain">In most cases, TSSD fasteners do not require a pilot hole. Once the driver moves to the target position, it spins the fastener and pushes it against the surface of the part. Friction generates heat to melt the surface materials and bore a hole into the parts. As the fastener spins, some of its surface material melts as well, mingling with the molten material and fibers of the base parts and creating a weld. When the fastener is flush with the base materials, the driver stops abruptly and holds the fastener in place. When the materials have cooled and solidified, the driver retracts. Illustration courtesy EJOT
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/October/fasteners/asb1016fasten2.jpg?1475514649" type="image/jpeg" fileSize="47405">
+        <media:title type="plain">3</media:title>
+        <media:description type="plain">The EPPsys TSSD can be an anchor point for a Delta PT screw, or it can act as a direct fastening element. Photo courtesy EJOT
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/October/fasteners/asb1016fasten3.jpg?1475514688" type="image/jpeg" fileSize="137811">
+        <media:title type="plain">4</media:title>
+        <media:description type="plain">Because precise control over axial force is a key variable, the fasteners must be installed with a Cartesian or six-axis robot. A blow-feed mechanism supplies fasteners to the driver. Photo courtesy Weber Screwdriving Systems Inc.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/October/fasteners/asb1016fasten5.jpg?1475514726" type="image/jpeg" fileSize="130638">
+        <media:title type="plain">5</media:title>
+        <media:description type="plain">Automakers are increasingly using lightweight EPP foam for a variety of applications, like this air bag cover. Photo courtesy Taracell
+</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>Welding Incompatible Thermoplastics</title>
+      <description>
+        <![CDATA[<p>
+	Ideally, every component in a plastic assembly would be made from the same material. However, cost, functional and aesthetic requirements often dictate that a mix of materials be used.</p>]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93558</guid>
+      <pubDate>Thu, 08 Sep 2016 00:00:00 -0400</pubDate>
+      <link>http://www.assemblymag.com/articles/93558-welding-incompatible-thermoplastics</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Issues/2016/september/plastics/asb0916plastic6.jpg?1473359387" type="image/jpeg" length="232457"/>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/september/plastics/asb0916plastic1.jpg?1473359052" type="image/jpeg" fileSize="35057">
+        <media:title type="plain">1</media:title>
+        <media:description type="plain">
+	The maleic anhydride groups are the most commonly used coupling agents. The maleic anhydride is grafted on the PE and the pendent anhydride groups then react with the polyamide amine end-groups. This illustration shows the reaction of a succinic anhydride group in the modifie
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/september/plastics/asb0916plastic2.jpg?1473359241" type="image/jpeg" fileSize="74933">
+        <media:title type="plain">2</media:title>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/september/plastics/asb0916plastic3.jpg?1473359199" type="image/jpeg" fileSize="73629">
+        <media:title type="plain">3</media:title>
+        <media:description type="plain">
+	This graph summarizes the results for yield stress and strain. Values for the base materials are plotted on the right to serve as a comparison. The yield stress of the polymer blend decreases with increasing HDPE content, while the yield strain remains constant at around 14 percent and is higher than that of the base materials.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/september/plastics/asb0916plastic4.jpg?1473359293" type="image/jpeg" fileSize="59665">
+        <media:title type="plain">4</media:title>
+        <media:description type="plain">
+	This graph illustrates the tensile strength achieved when the authors used hot-plate welding to join their polymer blends to HDPE and PA12. The gray bars show the results obtained with their original optimized settings. The dark bars show the results when they used two separate heating tools to tailor the heat to each part.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/september/plastics/asb0916plastic5.jpg?1473359324" type="image/jpeg" fileSize="69215">
+        <media:title type="plain">5</media:title>
+        <media:description type="plain">
+	This graph illustrates the melt viscosity of the polymer blends and base materials at varying temperatures. The viscosity of the blends is higher than the viscosity of the base materials, due to the higher molar mass of the blends.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/september/plastics/asb0916plastic6.jpg?1473359387" type="image/jpeg" fileSize="232457">
+        <media:title type="plain">6</media:title>
+        <media:description type="plain">
+	The authors used hot-plate welding to join a PA12 part to a coupon made from a blend of 70 percent PA12 and 30 percent HDPE. Surprisingly, the welding seam contained several small micro-cracks.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/september/plastics/asb0916plastic7.jpg?1473359428" type="image/jpeg" fileSize="55325">
+        <media:title type="plain">7</media:title>
+        <media:description type="plain">
+	This graph compares the tensile strength achieved with hot-plate welding (grey bars) and diffusion welding (dark bars).
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/september/plastics/asb0916plastic8.jpg?1473359467" type="image/jpeg" fileSize="201140">
+        <media:title type="plain">8</media:title>
+        <media:description type="plain">
+	This photo shows fracture patterns after tensile testing of parts joined with diffusion welding. For joints with blend 1 (70 percent PA12), the fracture path goes through the base material, and the fracture starts in the most fragile polymer part&amp;mdash;the blend.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/september/plastics/asb0916plastics_chart1.jpg?1473359497" type="image/jpeg" fileSize="67353">
+        <media:title type="plain">t1</media:title>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/september/plastics/asb0916plastics_chart2.jpg?1473359526" type="image/jpeg" fileSize="64824">
+        <media:title type="plain">t2</media:title>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/september/plastics/asb0916plastics_chart3.jpg?1473359547" type="image/jpeg" fileSize="80961">
+        <media:title type="plain">t3</media:title>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/september/plastics/asb0916plastics_chart4.jpg?1473359566" type="image/jpeg" fileSize="85858">
+        <media:title type="plain">t4</media:title>
+      </media:content>
+    </item>
+    <item>
+      <title>Ford, Jose Cuervo Team up to Make Car Parts From Agave</title>
+      <description>
+        <![CDATA[<p>
+	DEARBORN, MI&mdash;Ford Motor Co. is teaming up with Jose Cuervo to explore the use of the tequila producer&rsquo;s agave plant byproduct to develop more sustainable bioplastics to employ in Ford vehicles. Ford and Jose Cuervo are testing the bioplastic for use in vehicle interior and exterior components, such as wiring harnesses, HVAC units and storage bins.</p>
+]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93516</guid>
+      <pubDate>Mon, 08 Aug 2016 00:00:00 -0400</pubDate>
+      <link>http://www.assemblymag.com/articles/93516-ford-jose-cuervo-team-up-to-make-car-parts-from-agave</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/LatestHeadlines/headlines900/Agave900.jpg?1470671246" type="image/jpeg" length="290875"/>
+    </item>
+    <item>
+      <title>Scientist Figures Out How to Make Plastic 100 Percent Biodegradable</title>
+      <description>
+        <![CDATA[<p>
+	MIAMI&mdash;A chemist has developed a way to make all fossil-fuel based plastics 100 percent biodegradable.</p>
+]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93481</guid>
+      <pubDate>Tue, 05 Jul 2016 00:00:00 -0400</pubDate>
+      <link>http://www.assemblymag.com/articles/93481-scientist-figures-out-how-to-make-plastic-100-percent-biodegradable</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Default_Images/responsive/ASB_default_latestnews.jpg?1479231322" type="image/jpeg" length="166380"/>
+    </item>
+    <item>
+      <title>Additive Manufacturing and End Of Arm Tooling</title>
+      <description>
+        <![CDATA[<p>
+	Necessity is the mother of invention, or so the proverb goes. Such was the case recently at The Langen Group, a manufacturer of automated packaging equipment in Mississauga, ON.</p>]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93472</guid>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 -0400</pubDate>
+      <link>http://www.assemblymag.com/articles/93472-additive-manufacturing-and-end-of-arm-tooling</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Issues/2016/July/EOAT/asb0716eos1.jpg?1467211250" type="image/jpeg" length="108037"/>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/July/EOAT/asb0716eos1.jpg?1467211250" type="image/jpeg" fileSize="108037">
+        <media:title type="plain">1</media:title>
+        <media:description type="plain">
+	Tharwat Fouad holds a pair of finished vacuum grippers for the Langen Group. After a light bead blasting, the parts were dyed per customer specifications and assembled with the mounting pieces. Photo courtesy Anubis 3D
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/July/EOAT/asb0716eos2.jpg?1467211317" type="image/jpeg" fileSize="84735">
+        <media:title type="plain">2</media:title>
+        <media:description type="plain">
+	The bottom of the gripper cup has a Swiss cheese pattern of channels leading to a vacuum hole at the top of the workpiece. Making these holes with conventional machining would have been impossible, but it was easy to accomplish with additive manufacturing. Photo courtesy Anubis 3D
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/July/EOAT/asb0716eos3.jpg?1467211344" type="image/jpeg" fileSize="75241">
+        <media:title type="plain">3</media:title>
+        <media:description type="plain">
+	This photo shows finished EOAT assembly attached to one of the packaging line&amp;rsquo;s robots. Compared to similar machined designs, the laser-sintered version uses less air but has far greater picking power. Photo courtesy Anubis 3D
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/July/EOAT/asb0716eos4.jpg?1467211375" type="image/jpeg" fileSize="146708">
+        <media:title type="plain">4</media:title>
+        <media:description type="plain">
+	A worker removes a laser-sintered part from the powder bed. Multiple parts or a complete assembly can be formed in a single laser-sintering run, and only light finishing is required before the parts can be used for production. Photo courtesy Anubis 3D
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/July/EOAT/asb0716eos5.jpg?1467211404" type="image/jpeg" fileSize="35023">
+        <media:title type="plain">5</media:title>
+        <media:description type="plain">
+	This photo shows a dual-box version of the completed vacuum assembly attached to a robot. Photo courtesy Anubis 3D
+</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>New Plastics for 3D Printing</title>
+      <author>webera@bnpmedia.com (Austin Weber)</author>
+      <description>
+        <![CDATA[<p>
+	What do rockets, ski boots and submarines have in common? They can all be assembled with plastic-printed components.</p>]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93469</guid>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 -0400</pubDate>
+      <link>http://www.assemblymag.com/articles/93469-new-plastics-for-3d-printing</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Issues/2016/July/3d/asb0716plastic1.jpg?1467131745" type="image/jpeg" length="58780"/>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/July/3d/asb0716plastic1.jpg?1467131745" type="image/jpeg" fileSize="58780">
+        <media:title type="plain">1</media:title>
+        <media:description type="plain">
+	Blades, fins, steering components and other parts of this miniature submarine were printed with acrylonitrile-butadiene-styrene. Photo courtesy Stratasys Ltd.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/July/3d/asb0716plastic2.jpg?1467131808" type="image/jpeg" fileSize="111708">
+        <media:title type="plain">2</media:title>
+        <media:description type="plain">
+	This high-strength material withstands high-temperature 3D printing and is ideal for medical device applications. Photo courtesy Taulman3D
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/July/3d/asb0716plastic3.jpg?1467131837" type="image/jpeg" fileSize="87177">
+        <media:title type="plain">3</media:title>
+        <media:description type="plain">
+	A polyamide-based material reinforced with carbon fibers was used to produce the structure of this ski boot. Photo courtesy CRP Technology
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/July/3d/asb0716plastic4.jpg?1467131878" type="image/jpeg" fileSize="86079">
+        <media:title type="plain">4</media:title>
+        <media:description type="plain">
+	The Atlas V rocket, built by United Launch Alliance, is the first vehicle to adopt 3D printing for serial production of thermoplastic components. Photo courtesy Stratasys Ltd.
+</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>3D Printers Expand Prototyping Companyâs Capabilities</title>
+      <author>camilloj@bnpmedia.com (Jim Camillo)</author>
+      <description>
+        <![CDATA[<p>
+	Most rapid prototyping service providers specialize in one area of additive manufacturing, such as fused deposition modeling (FDM) or metal sintering. ZARE SrL, however, offers expertise in several areas.</p>
+]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93465</guid>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 -0400</pubDate>
+      <link>http://www.assemblymag.com/articles/93465-d-printers-expand-prototyping-companys-capabilities</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Issues/2016/July/AIA/asb0716AIA3.jpg?1467039606" type="image/jpeg" length="88756"/>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/July/AIA/asb0716AIA3.jpg?1467039606" type="image/jpeg" fileSize="88756">
+        <media:title type="plain">3</media:title>
+        <media:description type="plain">
+	For one aerospace customer, ZARE SrL 3D prints air conditioning ducts made of FAA-approved ULTEM 9085, a high-performance thermoplastic material. Photo courtesy Stratasys Ltd.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/July/AIA/asb0716AIA4.jpg?1467039672" type="image/jpeg" fileSize="82312">
+        <media:title type="plain">4</media:title>
+        <media:description type="plain">
+	ZARE SrL 3D prints car bumpers in ASA (acrylonitrile styrene acrylate) to leverage its high UV stability. Photo courtesy Stratasys Ltd.
+</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>Ford to Use Captured Carbon Dioxide to Make Plastic Parts for Cars</title>
+      <description>
+        <![CDATA[<p>
+	DEARBORN, MI&mdash;Ford Motor Co. is developing new foam and plastic components using carbon dioxide as feedstock. Researchers expect to see the new biomaterials in production vehicles within five years.</p>
+]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93445</guid>
+      <pubDate>Wed, 15 Jun 2016 00:00:00 -0400</pubDate>
+      <link>http://www.assemblymag.com/articles/93445-ford-to-use-captured-carbon-dioxide-to-make-plastic-parts-for-cars</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/LatestHeadlines/headlines900/co2-plastic-900.jpg?1466001402" type="image/jpeg" length="317767"/>
+    </item>
+    <item>
+      <title>Ford Testing Parts Made From CO2-Based Foam</title>
+      <description>
+        <![CDATA[<p>
+	DEARBORN, MI&mdash;Ford Motor Co. is formulating and testing new foam and plastic components that uses carbon dioxide as feedstock. Formulated with up to 50 percent CO<sub>2</sub>-based polyols, the new materials could reduce petroleum use by more than 600 million pounds annually.</p>]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93433</guid>
+      <pubDate>Fri, 03 Jun 2016 00:00:00 -0400</pubDate>
+      <link>http://www.assemblymag.com/articles/93433-ford-testing-parts-made-from-co2-based-foam</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Default_Images/responsive/ASB_default_latestnews.jpg?1479231322" type="image/jpeg" length="166380"/>
+    </item>
+    <item>
+      <title>The Quest for the Plastic Engine</title>
+      <author>webera@bnpmedia.com (Austin Weber)</author>
+      <description>
+        <![CDATA[<p>
+	Back in the day, engines were the exclusive domain of cast iron and steel. But, during the past decade, more lightweight materials, such as aluminum and hard thermoplastics, have been slowly creeping under the hood. The Holy Grail, an engine made almost entirely out of plastic, is finally close to reality.</p>]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93382</guid>
+      <pubDate>Wed, 04 May 2016 00:00:00 -0400</pubDate>
+      <link>http://www.assemblymag.com/articles/93382-the-quest-for-the-plastic-engine</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Issues/2016/May/asb0516auto1.jpg?1462385310" type="image/jpeg" length="121834"/>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/May/asb0516auto1.jpg?1462385310" type="image/jpeg" fileSize="121834">
+        <media:title type="plain">plastic engine</media:title>
+        <media:description type="plain">
+	The Polimotor 2 engine will be used in an endurance race car (next). Illustrations courtesy Solvay Specialty Polymers
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/May/asb0516auto2.jpg?1462385418" type="image/jpeg" fileSize="63396">
+        <media:title type="plain">plastic engine 2</media:title>
+        <media:description type="plain">
+	The Polimotor 2 engine (previous) will be used in an endurance race car. Illustrations courtesy Solvay Specialty Polymers
+</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>GM to Use Recycled Water Bottles to Make Car Parts</title>
+      <description>
+        <![CDATA[<p>
+	DETROIT&mdash;General Motors is turning its employees&rsquo; recycled water bottles into noise-reducing fabric insulation that covers the engine in the Chevrolet Equinox. The bottles&mdash;collected from five of its Michigan facilities&mdash;are also being turned into air filtration components and insulation for winter coats for the homeless.</p>]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93351</guid>
+      <pubDate>Wed, 13 Apr 2016 00:00:00 -0400</pubDate>
+      <link>http://www.assemblymag.com/articles/93351-gm-to-use-recycled-water-bottles-to-make-car-parts</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Default_Images/responsive/ASB_default_latestnews.jpg?1479231322" type="image/jpeg" length="166380"/>
+    </item>
+    <item>
+      <title>Lasers ensure particulate-free joining of plastic parts.</title>
+      <author>sprovierij@bnpmedia.com (John Sprovieri)</author>
+      <description>
+        <![CDATA[<p>
+	As plastic medical devices get smaller and more intricate, engineers have fewer options for assembling them.</p>
+]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93332</guid>
+      <pubDate>Wed, 06 Apr 2016 00:00:00 -0400</pubDate>
+      <link>http://www.assemblymag.com/articles/93332-lasers-ensure-particulate-free-joining-of-plastic-parts</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Issues/2016/April/asb0416mda2.jpg?1459965175" type="image/jpeg" length="165510"/>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/April/asb0416mda2.jpg?1459965175" type="image/jpeg" fileSize="165510">
+        <media:title type="plain">mda 2</media:title>
+        <media:description type="plain">
+	This plastic microfluidic device was welded with a laser. Photo courtesy Branson Ultrasonics Corp.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/April/asb0416mda1.jpg?1459965270" type="image/jpeg" fileSize="52318">
+        <media:title type="plain">mda 1</media:title>
+        <media:description type="plain">
+	In Branson&amp;rsquo;s laser welding process, fiber optic bundles transmit laser light through a waveguide that uniformly distributes the energy to the entire joint line simultaneously. The light passes through the top part and is absorbed by the bottom part. The absorptive part converts the energy to heat, which conducts across the interface to melt both parts and produce a weld. Photo courtesy Branson Ultrasonics Corp.
+</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>Sonotrode Design Is Key to Success of Ultrasonic Welding of Automotive Assemblies</title>
+      <description>
+        <![CDATA[<p>
+	Sonotrode design is critical to a successful ultrasonic plastic welding application.</p>]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93273</guid>
+      <pubDate>Tue, 01 Mar 2016 00:00:00 -0500</pubDate>
+      <link>http://www.assemblymag.com/articles/93273-sonotrode-design-is-key-to-success-of-ultrasonic-welding-of-automotive-assemblies</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Issues/2016/March/horn/asb0316horn1.jpg?1456513878" type="image/jpeg" length="122686"/>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/March/horn/asb0316horn1.jpg?1456513878" type="image/jpeg" fileSize="122686">
+        <media:title type="plain">horn 1</media:title>
+        <media:description type="plain">
+	Herrmann was tasked with welding aluminum-coated insulation panels for an engine compartment. Photo courtesy Herrmann Ultrasonics Inc.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/March/horn/asb0316horn2.jpg?1456513655" type="image/jpeg" fileSize="134337">
+        <media:title type="plain">horn 2</media:title>
+        <media:description type="plain">
+	A six-axis robot uses an ultrasonic spot-welding tool to assemble plastic insulation panels for an engine compartment. Photo courtesy Herrmann Ultrasonics Inc.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/March/horn/asb0316horn3.jpg?1456513681" type="image/jpeg" fileSize="58534">
+        <media:title type="plain">horn 3</media:title>
+        <media:description type="plain">
+	Ultrasonic welding is used to attach a clear plastic lens to a plastic body with a hermetic seal. The part&amp;rsquo;s complex 3D shape and class A surface are a challenge to weld. Photo courtesy Herrmann Ultrasonics Inc.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/March/horn/asb0316horn4.jpg?1456513710" type="image/jpeg" fileSize="101518">
+        <media:title type="plain">horn 4</media:title>
+        <media:description type="plain">
+	To assemble model variants of daytime running lights, all parts of this ultrasonic welder form a &amp;ldquo;quick-change tooling frame&amp;rdquo; that can be detached from the main machine and exchanged with a different frame. Photo courtesy Herrmann Ultrasonics Inc.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/March/horn/asb0316horn5.jpg?1456513739" type="image/jpeg" fileSize="104203">
+        <media:title type="plain">horn 5</media:title>
+        <media:description type="plain">
+	Herrmann has introduced a new ultrasonic welder that simultaneously punches out a polyester membrane from a reel of material and welds it to a plastic housing. Photo courtesy Herrmann Ultrasonics Inc.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/March/horn/asb0316horn7.jpg?1456513810" type="image/jpeg" fileSize="56283">
+        <media:title type="plain">horn 7</media:title>
+        <media:description type="plain">
+	This ultrasonic welder offers five operating modes: time, energy, power, absolute distance (end point of the weld distance), and RPN distance (referencing weld depth to a starting point). Photo courtesy Herrmann Ultrasonics Inc.
+</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>Plastics Assembly Machines Maximize Productivity</title>
+      <description>
+        <![CDATA[<p>
+	No matter which method you use to assemble plastic parts, you would have found the latest technologies at The ASSEMBLY Show. There were at least 10 suppliers of plastics joining equipment on the show floor, including first-time exhibitors Rinco Ultrasonics and Thermal Press International Inc.</p>]]>
+      </description>
+      <guid>http://www.assemblymag.com/blogs/14/post/93241</guid>
+      <pubDate>Wed, 10 Feb 2016 00:00:00 -0500</pubDate>
+      <link>http://www.assemblymag.com/blogs/14-assembly-blog/post/93241-plastics-assembly-machines-maximize-productivity</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/blogimages/900-images/sonics900-16.jpg?1455134403" type="image/jpeg" length="103011"/>
+      <media:content url="http://www.assemblymag.com/ext/resources/blogimages/900-images/thermalpress900-16.jpg?1455134470" type="image/jpeg" fileSize="118791">
+        <media:title type="plain">Thermal Press International </media:title>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/blogimages/900-images/branson900-16.jpg?1455134601" type="image/jpeg" fileSize="87128">
+        <media:title type="plain">Branson Ultrasonics Corp. </media:title>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/blogimages/900-images/dukane900-16.jpg?1455134700" type="image/jpeg" fileSize="169699">
+        <media:title type="plain">Dukane Corp. </media:title>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/blogimages/900-images/HAindustries900-16.jpg?1455134759" type="image/jpeg" fileSize="202816">
+        <media:title type="plain">HA Industries </media:title>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/blogimages/900-images/extol900-16.jpg?1455134805" type="image/jpeg" fileSize="197317">
+        <media:title type="plain">Extol Inc. </media:title>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/blogimages/900-images/rinco900-16.jpg?1455134850" type="image/jpeg" fileSize="169335">
+        <media:title type="plain">Rinco Ultrasonics </media:title>
+      </media:content>
+    </item>
+    <item>
+      <title>Whatâs New With Vibration Welding</title>
+      <author>camilloj@bnpmedia.com (Jim Camillo)</author>
+      <description>
+        <![CDATA[<p>
+	Enhanced process-control, preheating and data-gathering capabilities make vibration welding an even better choice for joining thermoplastic parts.</p>
+]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93222</guid>
+      <pubDate>Mon, 01 Feb 2016 00:00:00 -0500</pubDate>
+      <link>http://www.assemblymag.com/articles/93222-whats-new-with-vibration-welding</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Issues/2016/February/welding/asb0216Weld1.jpg?1454339441" type="image/jpeg" length="172059"/>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/February/welding/asb0216Weld1.jpg?1454339441" type="image/jpeg" fileSize="172059">
+        <media:title type="plain">welding 1</media:title>
+        <media:description type="plain">
+	A large appliance manufacturer uses two custom vibration welders to weld thermoplastic tubs for front-loading washing machines. The production rate is about 1,000 tubs per 8-hour shift. Photo courtesy Forward Technology
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/February/welding/asb0216Weld2.jpg?1454339594" type="image/jpeg" fileSize="62871">
+        <media:title type="plain">welding 2</media:title>
+        <media:description type="plain">
+	Manufacturers of lawn and garden equipment use vibration welding to assemble a wide range of products, including chainsaw housings. Photo courtesy Dukane Corp.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/February/welding/asb0216Weld3.jpg?1454339687" type="image/jpeg" fileSize="53529">
+        <media:title type="plain">welding 3</media:title>
+        <media:description type="plain">
+	MX welders have an Auto-Tune feature that automatically detects, sets and locks-in the platen&amp;rsquo;s optimum frequency within seconds. Photo courtesy Sonics &amp;amp; Materials Inc.
+</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>Conveyor Puts a Lid on Bottle-Cap-Assembly Problems</title>
+      <author>camilloj@bnpmedia.com (Jim Camillo)</author>
+      <description>
+        <![CDATA[<p>
+	Every retailer faces one major ongoing challenge: Showcase as many new products as possible on limited shelf space.</p>
+]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93215</guid>
+      <pubDate>Mon, 01 Feb 2016 00:00:00 -0500</pubDate>
+      <link>http://www.assemblymag.com/articles/93215-conveyor-puts-a-lid-on-bottle-cap-assembly-problems</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Issues/2016/February/AIA/asb0216AIA3.jpg?1454085686" type="image/jpeg" length="78972"/>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/February/AIA/asb0216AIA3.jpg?1454085686" type="image/jpeg" fileSize="78972">
+        <media:title type="plain">coveyor 1</media:title>
+        <media:description type="plain">
+	The LFA precision-link conveyor accurately moves detergent bottle caps into position so vented liners can be quickly inserted. Photo courtesy Motion Index Drives
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2016/February/AIA/asb0216AIA4.jpg?1454085749" type="image/jpeg" fileSize="63982">
+        <media:title type="plain">coveyor 2</media:title>
+        <media:description type="plain">
+	M-Industries developed a vented liner that is placed into a detergent bottle cap to relieve internal pressure. Photo courtesy Motion Index Drives
+</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>Toyota Gives New Life to Used Vehicle Parts</title>
+      <description>
+        <![CDATA[<p>
+	TOKYO&mdash;Toyota has bumped up efforts to reduce waste by recycling old vehicle bumper covers and other scrap parts.</p>
+]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93195</guid>
+      <pubDate>Mon, 18 Jan 2016 00:00:00 -0500</pubDate>
+      <link>http://www.assemblymag.com/articles/93195-toyota-gives-new-life-to-used-vehicle-parts</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Default_Images/responsive/ASB_default_latestnews.jpg?1479231322" type="image/jpeg" length="166380"/>
+    </item>
+    <item>
+      <title>Collaborative Robot Aids Production at Capacitor Manufacturer</title>
+      <description>
+        <![CDATA[<p>
+	LIBERTY, SC&mdash;Cornell Dubilier, a manufacturer of power capacitors, has deployed two Baxter collaborative robots at its assembly plant here to streamline its labeling and inspection processes.</p>
+]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93189</guid>
+      <pubDate>Tue, 12 Jan 2016 00:00:00 -0500</pubDate>
+      <link>http://www.assemblymag.com/articles/93189-collaborative-robot-aids-production-at-capacitor-manufacturer</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/LatestHeadlines/headlines900/baxter900.jpg?1452615655" type="image/jpeg" length="558351"/>
+    </item>
+    <item>
+      <title>Thousands Attend ASSEMBLY Show</title>
+      <author>sprovierij@bnpmedia.com (John Sprovieri)</author>
+      <description>
+        <![CDATA[<p>
+	Keynote speaker says leadership by example is the key to sustaining a culture of continuous improvement.</p>
+]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93147</guid>
+      <pubDate>Mon, 07 Dec 2015 00:00:00 -0500</pubDate>
+      <link>http://www.assemblymag.com/articles/93147-thousands-attend-assembly-show</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Issues/2015/December/TAS/asb1215wrap1.jpg?1449592153" type="image/jpeg" length="88801"/>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/December/TAS/asb1215wrap1.jpg?1449592153" type="image/jpeg" fileSize="88801">
+        <media:title type="plain">tas 1</media:title>
+        <media:description type="plain">
+	Richard Morris, vice president of product integration at BMW Manufacturing Co. in Spartanburg, SC, delivered the keynote address at the third annual ASSEMBLY Show.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/December/TAS/asb1215wrap2.jpg?1449592227" type="image/jpeg" fileSize="182978">
+        <media:title type="plain">tas 2</media:title>
+        <media:description type="plain">
+	The latest technologies for automation were on display at The ASSEMBLY Show.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/December/TAS/asb1215wrap3.jpg?1449592571" type="image/jpeg" fileSize="123894">
+        <media:title type="plain">tas 3</media:title>
+        <media:description type="plain">
+	The ASSEMBLY Show featured 247 exhibitors occupying nearly 59,000 net square feet, a 16 percent increase over 2014.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/December/TAS/asb1215wrap4.jpg?1449592597" type="image/jpeg" fileSize="67664">
+        <media:title type="plain">tas 4</media:title>
+        <media:description type="plain">
+	Three four-hour workshops were held on Oct. 27, before the show opened. The workshops covered additive manufacturing, methods for mixed-material assembly, and design for manufacture and assembly.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/December/TAS/asb1215wrap5.jpg?1449592628" type="image/jpeg" fileSize="193057">
+        <media:title type="plain">tas 5</media:title>
+        <media:description type="plain">
+	Some 6,684 manufacturing professionals registered for the event&amp;mdash;a 5 percent increase from 2014&amp;mdash;and 4,263 (64 percent) attended.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/December/TAS/asb1215wrap6.jpg?1449592658" type="image/jpeg" fileSize="184417">
+        <media:title type="plain">tas 6</media:title>
+        <media:description type="plain">
+	Some 70 percent of exhibitors have already renewed their booth space for the 2016 ASSEMBLY Show, which will take place Oct. 25-27 back at the Donald E. Stephens Convention Center in Rosemont.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/December/TAS/asb1215wrap7.jpg?1449592685" type="image/jpeg" fileSize="173433">
+        <media:title type="plain">tas 7</media:title>
+        <media:description type="plain">
+	The ASSEMBLY Show hosted some 38 suppliers of screwdrivers, nutrunners, screw feeders, torque-reaction arms, rivet guns and other fastening products.
+</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>Ultrasonic welder assembles gearbox components</title>
+      <author>camilloj@bnpmedia.com (Jim Camillo)</author>
+      <description>
+        <![CDATA[<p>
+	EVCO Plastics is a custom plastic injection molding company that specializes in providing value-added engineered parts to manufacturers in markets ranging from medical to agriculture.</p>
+]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93137</guid>
+      <pubDate>Mon, 07 Dec 2015 00:00:00 -0500</pubDate>
+      <link>http://www.assemblymag.com/articles/93137-ultrasonic-welder-assembles-gearbox-components</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Issues/2015/December/AIA/asb1215AIA1.jpg?1449504190" type="image/jpeg" length="91768"/>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/December/AIA/asb1215AIA1.jpg?1449504190" type="image/jpeg" fileSize="91768">
+        <media:title type="plain">aia 1</media:title>
+        <media:description type="plain">
+	EVCO Plastics welds a high volume of large gearboxes for an agricultural equipment manufacturer. Once welded, the box is inserted into an attachment for seeding equipment. Photo courtesy Herrmann Ultrasonics Inc.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/December/AIA/asb1215AIA2.jpg?1449504365" type="image/jpeg" fileSize="57708">
+        <media:title type="plain">aia 2</media:title>
+        <media:description type="plain">
+	The HiQ DIALOG welder&amp;rsquo;s composite sonotrode is specially designed using a highly advanced finite element analysis program. The sonotrode&amp;rsquo;s geometry provides even amplitude distribution that extends wear life. Photo courtesy Herrmann Ultrasonics Inc.
+</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>How to Ensure Bolted Joint Integrity When Using a Compression Limiter in a Plastic Assembly</title>
+      <description>
+        <![CDATA[<p>
+	To function properly, the bearing surface beneath a bolt&rsquo;s head must extend over the compression limiter to contact the plastic component.</p>]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93106</guid>
+      <pubDate>Wed, 04 Nov 2015 00:00:00 -0500</pubDate>
+      <link>http://www.assemblymag.com/articles/93106-how-to-ensure-bolted-joint-integrity-when-using-a-compression-limiter-in-a-plastic-assembly</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Issues/2015/November/spirol/asb1115spirol1.jpg?1446662285" type="image/jpeg" length="75091"/>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/November/spirol/asb1115spirol1.jpg?1446662285" type="image/jpeg" fileSize="75091">
+        <media:title type="plain">spirol 1</media:title>
+        <media:description type="plain">
+	There are several methods to ensure sufficient bearing surface under the bolt&amp;rsquo;s head. These include pairing the compression limiter with a flanged bolt (left) or a washer (center), or using a headed compression limiter (right). Photo courtesy SPIROL International Corp.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/November/spirol/asb1115spirol_chart1.jpg?1446662394" type="image/jpeg" fileSize="104452">
+        <media:title type="plain">spirol t1</media:title>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/November/spirol/asb1115spirol_chart2.jpg?1446662412" type="image/jpeg" fileSize="86695">
+        <media:title type="plain">spirol t2</media:title>
+      </media:content>
+    </item>
+    <item>
+      <title>Hot-Plate Welding vs. Infrared Welding for Plastics Assembly</title>
+      <description>
+        <![CDATA[<p>
+	Both hot-plate welding and infrared welding are used to join plastic parts. One method contacts the parts; the other does not.</p>]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93066</guid>
+      <pubDate>Thu, 01 Oct 2015 00:00:00 -0400</pubDate>
+      <link>http://www.assemblymag.com/articles/93066-hot-plate-welding-vs-infrared-welding-for-plastics-assembly</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Issues/2015/October/hot-plate-welding/asb1015extol1.jpg?1443727862" type="image/jpeg" length="94023"/>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/October/hot-plate-welding/asb1015extol1.jpg?1443727862" type="image/jpeg" fileSize="94023">
+        <media:title type="plain">welding 1</media:title>
+        <media:description type="plain">
+	Conduction is the primary method of heat transfer in hot-plate welding. Heat conducts from the heated platen directly to a rib molded into the part. Photo courtesy Extol Inc.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/October/hot-plate-welding/asb1015extol2.jpg?1443727626" type="image/jpeg" fileSize="117059">
+        <media:title type="plain">welding 2</media:title>
+        <media:description type="plain">
+	The hot-plate welding process consists of three key steps: the melt phase, the open phase and the seal phase. Drawing courtesy Extol Inc.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/October/hot-plate-welding/asb1015extol3.jpg?1443727663" type="image/jpeg" fileSize="118422">
+        <media:title type="plain">welding 3</media:title>
+        <media:description type="plain">
+	Infrared welding has the same fundamental steps as hot-plate welding. The one big difference is that there is no contact between the plastic components and infrared emitters on the heated platen during the melt phase. Photo courtesy Extol Inc.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/October/hot-plate-welding/asb1015extol4.jpg?1443727766" type="image/jpeg" fileSize="38089">
+        <media:title type="plain">welding 4</media:title>
+        <media:description type="plain">
+	For infrared welding and hot-plate welding, the parts to be joined should include a raised rib to provide material for the welded joint. Photo courtesy Extol Inc.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/October/hot-plate-welding/asb1015extol5.jpg?1443727803" type="image/jpeg" fileSize="241616">
+        <media:title type="plain">welding 5</media:title>
+        <media:description type="plain">
+	A critical parameter in infrared welding is the rate of heating. If the plastic is heated too quickly, there is a risk of material degradation, burning or charring. Photo courtesy Extol Inc.
+</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>Soft Plastic Gives Tattoo Artists a Better Grip on Their Tools</title>
+      <author>camilloj@bnpmedia.com (Jim Camillo)</author>
+      <description>
+        <![CDATA[<p>
+	Product designers and artists share a similar trait: They love to create things. How appropriate then, that product designers at Chicago-based Morphix Inc. are dedicated to making high-quality specialty tools for tattoo artists worldwide.</p>
+]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93064</guid>
+      <pubDate>Thu, 01 Oct 2015 00:00:00 -0400</pubDate>
+      <link>http://www.assemblymag.com/articles/93064-soft-plastic-gives-tattoo-artists-a-better-grip-on-their-tools</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Issues/2015/October/aia/asb1015AIA9.jpg?1443721580" type="image/jpeg" length="136622"/>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/October/aia/asb1015AIA9.jpg?1443721580" type="image/jpeg" fileSize="136622">
+        <media:title type="plain">soft plastic</media:title>
+        <media:description type="plain">
+	Morphix Inc. makes various products for tattoo artists, including needle grip covers. Photo courtesy Morphix Inc.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/October/aia/asb1015AIA10.jpg?1443721651" type="image/jpeg" fileSize="57351">
+        <media:title type="plain">soft plastic</media:title>
+      </media:content>
+    </item>
+    <item>
+      <title>Linear Tracks for Robots Offer Dynamic Solution for Integrator</title>
+      <author>camilloj@bnpmedia.com (Jim Camillo)</author>
+      <description>
+        <![CDATA[<p>
+	As its name implies, Dynamic Robotic Solutions (DRS) believes in flexible, fast and reliable customer service. This approach has helped the company (formerly KMT Robotic Solutions) find success as a specialty integrator of robotic material-removal systems.</p>
+]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93061</guid>
+      <pubDate>Thu, 01 Oct 2015 00:00:00 -0400</pubDate>
+      <link>http://www.assemblymag.com/articles/93061-linear-tracks-for-robots-offer-dynamic-solution-for-integrator</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Issues/2015/October/aia/asb1015AIA4.jpg?1443719889" type="image/jpeg" length="85153"/>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/October/aia/asb1015AIA3.jpg?1443719860" type="image/jpeg" fileSize="163638">
+        <media:title type="plain">robot tracks</media:title>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/October/aia/asb1015AIA4.jpg?1443719889" type="image/jpeg" fileSize="85153">
+        <media:title type="plain">robot tracks</media:title>
+        <media:description type="plain">
+	In the DRS system, the robot mounts directly to the (red) baseplate of the track&amp;rsquo;s carriage unit. Versatile (white) adaptor plates handle more than 600 different models of robots. Photo courtesy G&amp;uuml;del Inc.
+</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>Round Energy Directors for Ultrasonic Welding</title>
+      <description>
+        <![CDATA[<p>
+	Plastic parts with a round energy director can produce stronger, more consistent welds than parts with a sharp energy director.</p>]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/93031</guid>
+      <pubDate>Thu, 03 Sep 2015 00:00:00 -0400</pubDate>
+      <link>http://www.assemblymag.com/articles/93031-round-energy-directors-for-ultrasonic-welding</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Issues/2015/September/dukane/asb0915dukane1.jpg?1441291199" type="image/jpeg" length="89755"/>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/September/dukane/asb0915dukane1.jpg?1441291199" type="image/jpeg" fileSize="89755">
+        <media:title type="plain">dukane 1</media:title>
+        <media:description type="plain">
+	Dukane developed the ISTeP to provide a test specimen with changeable joint designs for ultrasonic welding. Photo courtesy Dukane Corp.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/September/dukane/asb0915dukane2.jpg?1441291302" type="image/jpeg" fileSize="110859">
+        <media:title type="plain">dukane 2</media:title>
+        <media:description type="plain">
+	This image shows a cross-section an ISTeP part prior to welding. Note the 90-degree energy director. Photo courtesy Dukane Corp.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/September/dukane/asb0915dukane3.jpg?1441291325" type="image/jpeg" fileSize="41227">
+        <media:title type="plain">dukane 3</media:title>
+        <media:description type="plain">
+	Experiments were conducted using a Dukane 30-kilohertz IQ Servo ultrasonic welder with Melt-Match technology. The welder was equipped with a flat-face, high-gain horn. Photo courtesy Dukane Corp.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/September/dukane/asb0915dukane4.jpg?1441291348" type="image/jpeg" fileSize="40263">
+        <media:title type="plain">dukane 4</media:title>
+        <media:description type="plain">
+	For pull testing, Dukane researchers used a variable-speed test stand equipped with this custom fixture. Photo courtesy Dukane Corp.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/September/dukane/asb0915dukane5.jpg?1441291373" type="image/jpeg" fileSize="108648">
+        <media:title type="plain">dukane 5</media:title>
+        <media:description type="plain">
+	During pull testing, the breaks often occurred in the parent material rather than the welded joint, regardless of the design of the energy director. Photo courtesy Dukane Corp.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/September/dukane/asb0915dukane6.jpg?1441291399" type="image/jpeg" fileSize="203485">
+        <media:title type="plain">dukane 6</media:title>
+        <media:description type="plain">
+	The best results in strength and consistency were achieved using a profiled weld velocity that gradually increased from 0.25 to 0.4 millimeter per second after formation of an initial melt layer at the joint interface. Note the large homogenous area at the joint interface. Photo courtesy Dukane Corp.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/September/dukane/asb0915dukane7.jpg?1441291428" type="image/jpeg" fileSize="56684">
+        <media:title type="plain">dukane 7</media:title>
+        <media:description type="plain">
+	A part with a round energy director can be molded more consistently than a part with a sharp energy director. The mold is also less expensive to make. Photo courtesy Dukane Corp.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/September/dukane/asb0915dukane8.jpg?1441291464" type="image/jpeg" fileSize="62282">
+        <media:title type="plain">dukane 8</media:title>
+        <media:description type="plain">
+	An round energy director requires a slightly higher amplitude to initiate melting than a part with a sharp tip. Tests revealed that an amplitude of 32 microns produced the strongest, most consistent welds. Source: Dukane Corp.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/September/dukane/asb0915dukane9.jpg?1441291492" type="image/jpeg" fileSize="58161">
+        <media:title type="plain">dukane 9</media:title>
+        <media:description type="plain">
+	With a sharp energy director, the strongest welds were produced at an amplitude of 28 microns. Source: Dukane Corp.
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/September/dukane/asb0915dukane10.jpg?1441291524" type="image/jpeg" fileSize="64012">
+        <media:title type="plain">dukane 10</media:title>
+        <media:description type="plain">
+	Parts with a round energy director can be successfully welded with a strength and consistency matching and even exceeding parts with a sharp energy director. Source: Dukane Corp.
+</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>A World of Plastics Joining at Dukane</title>
+      <author>sprovierij@bnpmedia.com (John Sprovieri)</author>
+      <description>
+        <![CDATA[It's all about plastics assembly at Dukane Corp.âs Intelligent Assembly Systems Division.]]>
+      </description>
+      <guid>http://www.assemblymag.com/blogs/14/post/92993</guid>
+      <pubDate>Mon, 03 Aug 2015 00:00:00 -0400</pubDate>
+      <link>http://www.assemblymag.com/blogs/14-assembly-blog/post/92993-a-world-of-plastics-joining-at-dukane</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/blogimages/900-images/dukane-blog-1.jpg?1438640345" type="image/jpeg" length="209338"/>
+      <media:content url="http://www.assemblymag.com/ext/resources/blogimages/900-images/dukane-blog-2.jpg?1438640530" type="image/jpeg" fileSize="231196">
+        <media:title type="plain">dukane ultrasonics horns</media:title>
+      </media:content>
+    </item>
+    <item>
+      <title>Rotary dial system assembles plumbing valve</title>
+      <author>sprovierij@bnpmedia.com (John Sprovieri)</author>
+      <description>
+        <![CDATA[<p>
+	Vision-guided SCARA robot picks and places delicate ceramic parts.</p>]]>
+      </description>
+      <guid>http://www.assemblymag.com/articles/92969</guid>
+      <pubDate>Sat, 01 Aug 2015 00:00:00 -0400</pubDate>
+      <link>http://www.assemblymag.com/articles/92969-rotary-dial-system-assembles-plumbing-valve</link>
+      <enclosure url="http://www.assemblymag.com/ext/resources/Issues/2015/August/rotarydial/asb0815prof1.jpg?1438007389" type="image/jpeg" length="145874"/>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/August/rotarydial/asb0815prof1.jpg?1438007389" type="image/jpeg" fileSize="145874">
+        <media:title type="plain">rotary dial feature</media:title>
+        <media:description type="plain">
+	This rotary indexing system assembles plastic valves at a rate of one every 6 seconds. Photo courtesy Advanced Molding Technologies LLC
+</media:description>
+      </media:content>
+      <media:content url="http://www.assemblymag.com/ext/resources/Issues/2015/August/rotarydial/asb0815prof2.jpg?1438007502" type="image/jpeg" fileSize="35406">
+        <media:title type="plain">rotary dial 2</media:title>
+        <media:description type="plain">
+	This valve is made from polysulfone and ceramic instead of brass. Photo courtesy Advanced Molding Technologies LLC
+</media:description>
+      </media:content>
+    </item>
+  </channel>
+</rss>
